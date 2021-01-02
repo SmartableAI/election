@@ -2,30 +2,26 @@
 category: news
 title: "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss"
 excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-publishedDateTime: 2021-01-01T17:21:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+publishedDateTime: 2021-01-01T20:16:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
 type: article
-quality: 129
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+  - url: "https://www.baltimoresun.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
     width: 1200
     height: 877
     isCached: true
@@ -78,6 +74,22 @@ related:
       - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
         width: 1200
         height: 599
+        isCached: true
+  - title: "'Lack standing': Rep. Gohmert's lawsuit against Pence to overturn election results thrown out"
+    excerpt: "U.S. District Court Judge Jeremy Kernodle, a Trump appointee, said Rep. Louie Gohmert and a group of other Republicans on the lawsuit \"lack standing.\""
+    publishedDateTime: 2021-01-02T01:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/louie-gohmert-lawsuit-mike-pence-overturn-election-dismissed/4110658001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4110658001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110658001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/02/USAT/32a81da4-b1df-4ef8-afbe-c07d5c251c43-AP_House_Election_2020.jpg?auto=webp&crop=5207,2929,x0,y264&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
     excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
@@ -252,6 +264,6 @@ related:
         height: 267
         isCached: true
 
-secured: "wmhRkrZCljziUOJIwVYUkE/ZtN3MQwpm6WyB5h+4XPE1hENx7gyuXmjbbsLFRRNh3DRs0L91dfO0FYZFrv9XG78+5pGii3AeF3R7i4SE1zOsa3iJB7EiNggzjrsSENCJdv+Zo9wBnyt95Dnt4IMzenf19ocCuufM6/VaSfZCroaSquQK+GsdgxnWHZvlqbBDdj8zJk96NnURZolRYYk1dtExbUEHwIhZ8X4TiFfZoB6RfiEPZTlznjKDCmNo+D+fbjJBczW50FiZVFRghdeqyLglDps68Vefh39b5ju1NRW7EvdfjJ+LvSMhMyYuKUgL6XuGPKpduAmE05815vjO/HX2CjBGxhL1YDGOC7ytL9I=;OgMkHmdYiL+hRvUe8Swb1Q=="
+secured: "iOW2hfroSVEik/qFJC8WTWOmShaxxEbQvkWerA78Ax6kDLVvekD48b2BpwJ5F4EzMrxgOxKwdLayCFb40azARDOds3xbp3RFIcte2sSWrxDhUI7CmLI+oPpcCZ5DX/2g7Y8+yHDt4d7kUS+OrpvLvmQfkXzS7TqhNrs3desgjA3w3xIUL+u/dhBX7lYutcPk28F33ZyhrPjdJPFsgo3raYSE+jXA0EenEZyK9YtZ7EuFIGWaWnHadMxlPlhGhGXJW1ZAMdMwz5DJ8gqq18ghMrTl5xx3uEp5C2+2i3wxwbjMniytm1/GLBoUtwRLCdt1j0gBvP7czGg9AdApHV9ligzXnsfI/nGCnh5aAsKIe+g=;p3yuOzVvSGrDTqCQLQoCxQ=="
 ---
 

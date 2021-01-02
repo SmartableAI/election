@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
-excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
-publishedDateTime: 2020-12-31T23:57:00Z
-originalUrl: "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207"
-webUrl: "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207"
+title: "Judge throws out Gohmert suit aimed at empowering Pence to overturn 2020 election results"
+excerpt: "A federal judge has tossed out a GOP-led lawsuit aimed at empowering Vice President Mike Pence to unilaterally overturn President-elect Joe Biden’s victory, contending that the plaintiffs — Rep. Louie Gohmert (R-Texas) and 11 Arizona Republicans who would have been electors for Donald Trump — lacked standing to sue."
+publishedDateTime: 2021-01-02T02:08:00Z
+originalUrl: "https://www.politico.com/news/2021/01/01/louie-gohmert-lawsuit-pence-453387"
+webUrl: "https://www.politico.com/news/2021/01/01/louie-gohmert-lawsuit-pence-453387"
 type: article
-quality: 123
+quality: 121
 heat: -1
 published: false
 
@@ -24,7 +24,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/f9/27/baaa8c084e7e96889e5435424831/1231pence.jpg"
+  - url: "https://static.politico.com/38/e9/19e5c3f34a0a80d085ec10295880/ap20210686507718-1-1.jpg"
     width: 1160
     height: 773
     isCached: true
@@ -62,21 +62,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge throws out Gohmert suit aimed at empowering Pence to overturn 2020 election results"
-    excerpt: "A federal judge has tossed out a GOP-led lawsuit aimed at empowering Vice President Mike Pence to unilaterally overturn President-elect Joe Biden’s victory, contending that the plaintiffs — Rep. Louie Gohmert (R-Texas) and 11 Arizona Republicans who would have been electors for Donald Trump — lacked standing to sue."
-    publishedDateTime: 2021-01-02T02:08:00Z
-    webUrl: "https://www.politico.com/news/2021/01/01/louie-gohmert-lawsuit-pence-453387"
+  - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
+    excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
+    publishedDateTime: 2020-12-31T23:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 121
+    quality: 123
     images:
-      - url: "https://static.politico.com/38/e9/19e5c3f34a0a80d085ec10295880/ap20210686507718-1-1.jpg"
+      - url: "https://static.politico.com/f9/27/baaa8c084e7e96889e5435424831/1231pence.jpg"
         width: 1160
         height: 773
         isCached: true
 
-secured: "A/dIwRREXGliasyEoWmaKXWnrWTvYbV3ppddFfHeIS4StzvEI6JeBFN/9p4F/ZVgTtA/FySmbY0qMl0wXr5htIujYNwQkrwvHu+Sp2ipWgxIwPGk8kMeHyve785IeFHG1bY30RcBylWpYPeuHIFE1ik5GU5yOB/P8cmWd8Bock1sn4ajUSqEwf/DfQuTmdc5rXUQg7rwGaWMyGSmSnPqAUEqdsd3oS9UJMzLAM5QRH59Kuf1iybpcm51Ta3Yu8ecWCh+HD0SQAw7uAHS3RtP2k6/hRdht4SfYPJW34rH3EY/J7kC8mqHt+UFcql8SSZLqksb3AR1YDoXRTnb8CwoqQy5D13cJjvZJ3wBykosZOgIhQOg2RV20/t2Gpw+qieRBDx8a16cjP2FCNEoEm8QwhHIXzV5LIcYDcnXvTwSOS+pyfu+EtyoqilROaQlJLBcRz2QL57oRXCYbw9rO6+RcIBsnai+p52WsQ9IEfk+NuAFMb7wVVku2JPwDElgytAXHxqDM907L51uhIcHDwLx/w==;6kmrhPvj6y4XCmeKetZO/Q=="
+secured: "fuZR9s04qEyvlFiyQrsMBB0DoInCpPMt6aqgDu9o0bZ0SSlpubsZoMVsTDKvvQGBD9KHOrI+hS+fzgMYFcK0HmNdOBUoFgmVPoHtjoC7x0OcuyRHTDcoWDDgZWQ5DU0EYonDSneyDSUnUKBSjaPMfZToEPQrL6GeNhn8N4hzaNNhoe99wnTGMkKTDVy4zo/GKMH1lB34kIGCiSxHZubw4f7qaSh2rngnpnuvABUCWdo+BPeHVNZVvDxvNqZGzygmbbzhEE64AllFY9PNtCZkrAe6dN33W+Wnm7lhk3jB3zsPNLc7GLbjuYofQx9hEqSjZqo6YiJbKcagApegKUrpyJVJvSfG5XICML3MulmC6tA=;J1LZ+JunQz0OdCgLKnPyPg=="
 ---
 

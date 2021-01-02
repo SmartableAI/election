@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election"
-excerpt: "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan."
-publishedDateTime: 2020-12-28T17:37:00Z
-originalUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-webUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
-cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+title: "'Lack standing': Rep. Gohmert's lawsuit against Pence to overturn election results thrown out"
+excerpt: "U.S. District Court Judge Jeremy Kernodle, a Trump appointee, said Rep. Louie Gohmert and a group of other Republicans on the lawsuit \"lack standing.\""
+publishedDateTime: 2021-01-02T01:50:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/louie-gohmert-lawsuit-mike-pence-overturn-election-dismissed/4110658001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/louie-gohmert-lawsuit-mike-pence-overturn-election-dismissed/4110658001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4110658001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110658001"
 type: article
-quality: 85
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: THE WEEK
-  domain: theweek.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
-    width: 840
-    height: 560
+  - url: "https://www.gannett-cdn.com/presto/2021/01/02/USAT/32a81da4-b1df-4ef8-afbe-c07d5c251c43-AP_House_Election_2020.jpg?auto=webp&crop=5207,2929,x0,y264&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -74,22 +78,6 @@ related:
       - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
         width: 1200
         height: 599
-        isCached: true
-  - title: "'Lack standing': Rep. Gohmert's lawsuit against Pence to overturn election results thrown out"
-    excerpt: "U.S. District Court Judge Jeremy Kernodle, a Trump appointee, said Rep. Louie Gohmert and a group of other Republicans on the lawsuit \"lack standing.\""
-    publishedDateTime: 2021-01-02T01:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/louie-gohmert-lawsuit-mike-pence-overturn-election-dismissed/4110658001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4110658001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110658001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 129
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/02/USAT/32a81da4-b1df-4ef8-afbe-c07d5c251c43-AP_House_Election_2020.jpg?auto=webp&crop=5207,2929,x0,y264&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
     excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
@@ -170,6 +158,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
         width: 3052
         height: 2034
+        isCached: true
+  - title: "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election"
+    excerpt: "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan."
+    publishedDateTime: 2020-12-28T17:37:00Z
+    webUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 85
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
+        width: 840
+        height: 560
         isCached: true
   - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
     excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
@@ -264,6 +268,6 @@ related:
         height: 267
         isCached: true
 
-secured: "bRW155fbxHOZLWrxejmfG96PdLDU0uwGGtv9pcsu1yqBYmleJQp5o9Pa/WHAtg5X0/4BggNQbCxufGIDInPuWqRstbmvz6AA5kSx8GZaPLClIBQK78QPgDKtuuIZw96MYYMpaTHwJ5br5OXnzlRTLww3uTWkGjuQ2N3jVvRM6Lem3vxl9UM27RU9ws7ckfwCkl/Dr+e2X1OMZpQT30mfDCmQouAJ4DlY5bVDb4L0YyKyVNB5X9htiVmwwjcbDdiC4bHx7Z0h+HkmbXeNfK7jVLcbnKoXOww5A0aEZY8FUKgC+0DEQtMNYLl8M1eenJMKYobx0QEgEJ6G6e0/++NAdlxtqRFYwGF5gWfJzpgG76L3mT2jlNVcCmWMud0rM7zcmr8B5wiGjxQgMn8AKl7pzcvKHAblleNBjJ81zf45WFSrO0/YcSP33OCtbLBSUJD5ct5z7nxmW0mOjSGbxbdfpggCuyp/8jdoECMYm/8srXVNY15ypIEJigMuOVHypnXtha8sxpDp09m8C0SrYDVvmg==;4Y4u+hWEoahJ4nQMfcTx9Q=="
+secured: "JG4j9yIA0xqFctdUNiizZNaVA7qW9wsiVcWWriMhqcW3MSC5GLAjbHb5b9BAO7l9IXI/VMsbIFvp8mwoUqmxgWSiLc98YF1K6OuH4ou5IRCjrpsBv94RGemUNnC2unQdMiOY50QNBM691A2HGEo4OTlXBo5sqAEnQ25ueHWcFtpW6WSALxp9ggqsL4TnpmXwjwrqHMdjuv/tLQtoDSvJxTe3wE4dSmgB7yTJaQrdMwdbAux4qVccsDsZe4s2t+l+d5+OdVpyrqmzlBNJY3k00t0yNqLy1Chwnh88MwAkh3HpSRrtc4Hj9KiRwhrufh5AfeyW6DJDMeTBMeQbRuAf3Db4CeY2B5IFYQc7m41pOH0=;po/KV4mHoCrYMOcdmt7RxQ=="
 ---
 

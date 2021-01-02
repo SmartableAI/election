@@ -2,21 +2,21 @@
 category: news
 title: "Trump extends visa ban; court clears health insurance rule"
 excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31"
-publishedDateTime: 2021-01-02T00:26:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-extends-pandemic-related-visa-ban-march-31-74997269"
+publishedDateTime: 2021-01-02T01:11:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_f48f5c23ae3544ef9384da17160d991b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -213,6 +213,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "leIAV5p4/tJG7oocdWE8AQlKXabpr7yQw2CtTlFneQDTF/+tdw3oqqUx4qlAZKVIfwVkdusohhFEHo9E/m4RVhGNiGSmBRgFao0nvoTJDb46eRlswftOb0+a3K416hWigkf0PW8cx5JsmyL/6qdsT89/y/XlgbgkCjkDWALgw8gnRWBoxsxtKxXxWoJbUhYklYlfq7enaHUFh8KAFr4drVuXFupGb1enrprNy+XIslHyt3TtuaJxPI7aK7z/lXBSo2NsJjKv1Nxi5TktJqfm7gsE5qjgCOvxy4wMlCnDKqza+3RB2nsu/NxJ0v2JIgLyqlxSbulDWyc4Bc6jeYBoeSnGBQxVaHOxnEbyxUOMFJo=;y4mRRR7WlC7res0QW+NAFA=="
+secured: "AwTuVkK6T/mSKr2jUpyL22N6tBkQUHtpagZtKysBOLqaa8wnxMcbwl7mYiut6tGKPmF79NO/omjPCeSrRsO/CrXrYjEiiFVTxJs4XrU+lTwyoUr+WLirQKOUFc8VGxPoHkp+CgqrLBK9dQm6u5uHVHB7P71b7YQJBQhNv+t/bCNCKlSV4BRRazu7XaPadUGoaUeJ6L64YTLJNfjGY4RQQSvRsRvzS+Pbd1HQchuYaRofgo+NHqzE44+A9fhcoXSgOitXacq3jgZhpnS+eEEQrA20H5e1TDkzFvXSa/3FxHVIEvUF2Djtc00Cpb+u79OcE+AYWD60tUnaguqaY63X4jXIJekBR7+sSzpwB4Y9R4I=;BkUXV893sOptdvEhEyf/mA=="
 ---
 

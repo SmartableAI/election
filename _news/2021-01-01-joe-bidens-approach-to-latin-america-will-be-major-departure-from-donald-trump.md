@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-majo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
 type: article
 quality: 146
-heat: 986
+heat: 1006
 published: true
 
 provider:
@@ -372,6 +372,22 @@ related:
     webUrl: "https://www.reuters.com/article/us-usa-trump-idUKKBN2962I0"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962I0"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962I0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546357129&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0018S"
+        width: 821
+        height: 545
+        isCached: true
+  - title: "Rejecting Trump veto, Republican-led Senate backs defense bill"
+    excerpt: "President Donald Trump suffered a stinging rebuke in the U.S. Senate on Friday when fellow Republicans joined Democrats to override a presidential veto for the first time in his tenure, pushing through a defense policy bill he opposed just weeks before he leaves office."
+    publishedDateTime: 2021-01-02T01:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2962I0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962I0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962I0"
     type: article
     provider:
       name: Reuters

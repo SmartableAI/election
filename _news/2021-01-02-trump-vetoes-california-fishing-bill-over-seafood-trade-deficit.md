@@ -47,39 +47,7 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
-    excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
-    publishedDateTime: 2021-01-01T23:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-senate/u-s-senate-overcomes-first-hurdle-to-overriding-trump-defense-veto-idUSKBN2962KZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962KZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962KZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546362263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0019U"
-        width: 849
-        height: 545
-        isCached: true
-  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
-    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
-    publishedDateTime: 2020-12-29T06:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
-        width: 600
-        height: 360
-        isCached: true
 
-secured: "kl/X2spkjaJLow89JddR2Ues0++wK714VE5xMbiAPaDG1sW0VfEhID9o3vi+vCAOL5j0xx/OOXsLTjvkt2fohs536g6w4rQ/qp7PiTGh1/XHv8kV/EEMW6yhAAkUavARWPuIupEzizsJwa/NQ1roc3ciLcwLHkHWxSqI7TmHcpinNPjUKr5YayMOf4cEEaVg6qdjGmMZRK4yN4qd+Z2cD5rKqRuFkuHfahzZbOtAuTzjlWr/rzNseaBz5ioMhq2w3OsPnLTCpiwoIEGDdBWy5uY6moRs3RqV6Z2xdkICstF9rYfoLhdgaEZRsobD0GZtbEXKfv8uVBuHCbYPwzMpGwmQ9jsLmKHMOAPpM9TtAw8=;YGw4pmRz1rvu1Ew0VvoPuw=="
+secured: "MXOhBSK0/JAi2neuitWHc7vS7qXwcdQyvKsbkEESLAWKyJZ+yKfcwapvWoSroMKGAnSOXIPnLyHi0jPzAvaQa/ENMG16PUjxjpN4YDgm9z0KwpCUr8x5ZAv8SoESJ1/1AbivgndHAKbKDfej2c5nbLs1818WqZoG8egW+i5+y4DgcCTsO6soL7Ytsah0Va+U+KrPHKotRQxpewrp2uZPrjn7j92CKMnsvDoZBA0E0vAbQgFqhkAzioKSQKb/ajalFFtPXySsglTBp/vDQix2jkiViZlgzHL8yp4fCPKkYuK/gnN3Pe+aNEKxaRIVkYzfnLlLyo5EwDmcx4jj5LTnwvrmcNsYv/30EhopWuA+9EjFuVAdafSJMI83d1D4NGj/B6EPwfi/F9CjUY9oK1w4LbV8/yxB/uurrrfVH3Nv1YIatYY8EigZ3jk9NPgYn66SeccfIwMaeWoQtlaax7jp5Uk6yqLqJAfF5SaT9P/x1ST6gGFAgFTgHvs+GN9kW94omAYY2YumCCRDhPnJ59p0Wg==;UHnhYfqql8AMUW5Zs5KAoA=="
 ---
 

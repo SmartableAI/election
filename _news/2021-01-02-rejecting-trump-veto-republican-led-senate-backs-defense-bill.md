@@ -1,12 +1,12 @@
 ---
 category: news
-title: "In Latin America, a Biden White House faces a rising China"
-excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
-publishedDateTime: 2020-12-14T16:15:00Z
-originalUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+title: "Rejecting Trump veto, Republican-led Senate backs defense bill"
+excerpt: "President Donald Trump suffered a stinging rebuke in the U.S. Senate on Friday when fellow Republicans joined Democrats to override a presidential veto for the first time in his tenure, pushing through a defense policy bill he opposed just weeks before he leaves office."
+publishedDateTime: 2021-01-02T01:21:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2962I0"
+webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2962I0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962I0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962I0"
 type: article
 quality: 125
 heat: -1
@@ -22,11 +22,11 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
-    width: 817
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546357129&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0018S"
+    width: 821
     height: 545
     isCached: true
 
@@ -317,6 +317,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T16:15:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "How Joe Biden’s cold war experience will shape his approach to Russia"
     excerpt: "President-elect’s formative years of going toe-to-toe with the USSR on arms control hint at how he may deal with Putin"
     publishedDateTime: 2020-12-29T03:00:00Z
@@ -371,22 +387,6 @@ related:
     webUrl: "https://www.reuters.com/article/us-usa-trump-idUKKBN2962I0"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962I0"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962I0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546357129&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0018S"
-        width: 821
-        height: 545
-        isCached: true
-  - title: "Rejecting Trump veto, Republican-led Senate backs defense bill"
-    excerpt: "President Donald Trump suffered a stinging rebuke in the U.S. Senate on Friday when fellow Republicans joined Democrats to override a presidential veto for the first time in his tenure, pushing through a defense policy bill he opposed just weeks before he leaves office."
-    publishedDateTime: 2021-01-02T01:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2962I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2962I0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2962I0"
     type: article
     provider:
       name: Reuters
@@ -691,6 +691,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ebnGGLLNJzST2T4ReERiLUFEKZTccUN8lHGrkIxpKFHthdubpK1V48q6+UenTPwoFbUErPCp4yR4yblwy83hn0dH9HK41X+JDYCLH/iLukuu6OWRPfZcaWA9f4+bJR9Y5TAYtS1hLnUiMVcvkRiM5mE8axAfPy8cSXCenlfRan15ZcOtlj1SmI9PEYxfS1Tlc1DU+RbHdPgmPM9jmSARJEuBuisALVajUo8x8luJZqIWssnRjut7mpOeLFxnCOLUQBUg4bGSp3Rxag/hqzfUki2jFotliOdD1noT1lEjEIsDz4LmZMbPd1xMf5LSKxu44akNmFXYVG4eU6y2lVYg1KoOprqNC7EXDLVmbISqJEA=;mhmNF/rnPn5OAMD29zh69Q=="
+secured: "XGWSP4z03+YmobrHXJuRLOXBd1mx0wz4oWDllU0uXO1Oy6lGUuPq4Drtwu13Xa99JlHp3gX3fcTxooZM/xivQyGavFJOeO5HSO/BoRLee7fzdHX/gVTGbFjsjp/0aRCzgrppp/WtxMvntfdQFdV/o5qAeosPzHCijb8+gakSf+m9cxj7mx3QVsIQ9WJcyVWgbeHbdGjNJgF15YQpV4E0AbwamOZXrCjpp6amF3E+3Tdvn5WWaRD5ezIZ4TCg19iuQwcgnAkHr02JscGV8KSV31RJiMQ385Bsxa44atTB4egdBGdMNv4kvCNQVhKr/cyVX2ekc3nHTu5En2xXYTjJrwBQza4pcW4QY82UovkaLCg=;cY+GW/ZGZZzhxXAQo8W2+g=="
 ---
 
