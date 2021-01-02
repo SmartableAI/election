@@ -2,15 +2,15 @@
 category: news
 title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
 excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
-publishedDateTime: 2021-01-02T13:39:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ohzz2VVIUp0/live-updates-biden-transition-01-02-21"
+publishedDateTime: 2021-01-02T13:44:00Z
+originalUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
+webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
 ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
 type: article
-quality: 172
-heat: 252
-published: true
+quality: 132
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -47,55 +48,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden wants mask mandate in every state to fight coronavirus — but these governors won't commit"
-    excerpt: "President-elect Joe Biden has laid out several ways to combat the coronavirus at the beginning of his term, including working with state and local leaders to enact a national mask mandate -- but for now, not every state has committed to help."
-    publishedDateTime: 2020-11-11T19:16:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fb_NTBfGD7U/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-mask-mandate-in-every-state-but-some-governors-wont-commit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765327815.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
-    excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
-    publishedDateTime: 2021-01-01T10:21:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
-    excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
-    publishedDateTime: 2021-01-01T02:20:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "b1b7i34+kSE46pQVqjOzwF66iPkFbgUKdAKZxnvL1GM/k9CU7Y03Mk8VJxA4pCQSNbQCvRdv6Ox44WJGRoZI7xIrspwni1DOR0pJxHnUeXYkTHmfcO0IzcwZgYgHTe+ArsbZtObPYM2LquVFOM47QM24Z7/ViY5bZ6twtucMrDgePGR34O6EVA/4bhMyeSvo3QnZHbVD4tj/0JUddv5cQGc2rjo3aI+oJXp+NusUWwHiNyfkSfHl37V0D9isu8lEaiToaNtWLqMtKbxP+mN6bcvAIgHZwIYw4Oxs/Pv/vm35xxB+T+9I6YHXtaMNBcO4p312G0+ZFCyxpYNStvmQM9Cp/+P4rPqb2odFFVcYAOE=;MbkEOKvSr4KxOajh8PbUrw=="
+secured: "nmywzF4Q39ExXB25g5scbydXmKT9WhzCLzhPuRNJwXKnqgPpng0+EBpUOCBDhMg6aGX2w+GgClg3QDRjb2ztsVRl3rvagfKMHRFWpnzycK0A7G+Rj5joC+4inhV7+rGlnRzhcSe/UH0MAIdhe+ek0QwVu4jmRX39W1d/PJp3LJbOsCNaBayk4A2ivnhUGl5zNKDnLJhhQsYLiD6M7Gt9lhaqg3R1w+TNVqxBPVSmnXDscHUqwpSdAGbgSUYeGweYE05qFbU0SQKu10N34QWqQG5TKOM43FfD737kkB/akfVWWUc28Gy9HewdtKhKtLlu/6xkiVKQCnJFqBLoIKYqhzxKuwf83OboQSxTPgeXV2Q=;sEaiMGD4nA9muLVgQ+9HRg=="
 ---
 

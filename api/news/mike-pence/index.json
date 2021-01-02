@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-03-congressman-suggests-street-violence-after-judge-rejects-bid-to-force-pence-to-block-biden-win.md",
+      "title": "Congressman suggests street violence after judge rejects bid to force Pence to block Biden win",
+      "excerpt": "Texas congressman Louie Gohmert suggested that 'violence in the streets' may be the only remaining option to block Joe Biden from becoming president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 578,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/2f0e133/2147483647/strip/true/crop/4002x2614+271+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F5b577cdf6d336b933447c354b73f%2F1b7c9b3976fd4155a44b801b2e959f97",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win?_amp=true",
+      "publishedDateTime": "2021-01-02T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-pro-trump-lawyer-lin-wood-insists-he-is-not-insane-after-tweeting-that-mike-pence-should-face-execution-by-firing-squad.md",
       "title": "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad",
       "excerpt": "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election.",
@@ -220,7 +273,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 460,
+      "heat": 500,
       "tags": null,
       "images": [
         {
@@ -1508,49 +1561,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-vp-pence-rallying-in-columbus-macon-next-week-ahead-of-us-senate-runoffs.md",
-      "title": "VP Pence rallying in Columbus, Macon next week ahead of U.S. Senate runoffs",
-      "excerpt": "Vice President Mike Pence will travel to Columbus and Macon Thursday, Dec. 17 ahead of the state’s two U.S. Senate runoffs. Pence will discuss the accomplishments of the Trump Administration and the Republican Senate majority at “Defend the Majority” rallies in both cities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ledger-enquirer.com/news/politics-government/election/article247789210.html",
-      "originalUrl": "https://www.ledger-enquirer.com/news/politics-government/election/article247789210.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/38b01955-1778-454a-9b9c-f04994e4d5e3/e9249a62-d54d-4597-88a7-846d518a92f2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ledger-enquirer.com/news/politics-government/election/article247789210.html",
-      "cdnAmpWebUrl": "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/politics-government/election/article247789210.html",
-      "publishedDateTime": "2020-12-11T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ledger-Enquirer",
-        "domain": "ledger-enquirer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

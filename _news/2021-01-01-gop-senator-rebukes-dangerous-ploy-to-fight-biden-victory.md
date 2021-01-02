@@ -57,22 +57,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2020-12-30T20:32:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
-    images:
-      - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
-        width: 1200
-        height: 741
-        isCached: true
   - title: "Trump lashes out at GOP after override vote on defense bill"
     excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
     publishedDateTime: 2020-12-30T19:17:00Z
@@ -84,22 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2021-01-01T02:42:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 62
-    images:
-      - url: "https://www.courant.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
-        width: 1200
-        height: 741
-        isCached: true
 
 secured: "pNgOPPCdnjB1i/JVR3UC9Gkx98aZoXTo+9XPnOchUfWWBkLRq7Ko8RcZNmK0g3mLp4A10N7QkCsHECOftiRdlUgYayIbOSTodzlpqL3js+XP2a0SCN1gi/s7Jvh/WojQB+UYeDUq8vKecRZUWIs6Twiy1L40PI+RGcgpe+MkcUb0p1vAQR5Cx7yUKb61HFBta2e6pzOPrLc/8EB0zk5Ck1xOTa9m6AE2ICRrzSdPt4KN013NmMvKuLkmkfTMGO/p8LSNqTGV/803uzykk9L6CREjBaiwE69USvi/1i5f0PQ3ghO+76QXfF9osSTtQDpCC+t7ER6dTB4/YVJYhdlRJowQxvRtiuww7ksH6TbrG/Y=;+GK4G9hiDyJ7L8tZAHenQQ=="
 ---

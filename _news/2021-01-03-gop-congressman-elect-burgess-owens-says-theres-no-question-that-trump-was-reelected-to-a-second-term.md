@@ -154,6 +154,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "A look at federal executions under the Trump administration"
+    excerpt: "The U.S. government later this month is set to execute the only woman on federal death row. Federal executions have become commonplace under the Trump administration, with 10 people having been put to death since July and three more executions scheduled before President-elect Joe Biden is sworn in."
+    publishedDateTime: 2021-01-02T20:24:00Z
+    webUrl: "https://www.cbsnews.com/video/a-look-at-federal-executions-under-the-trump-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/02/c7f0d68d-ee3c-4edf-ad62-6b8f4104804e/thumbnail/1200x630/ee496b9b28e36d4fdf7905f84f1dee8c/cbsn-fusion-a-look-at-federal-executions-under-the-trump-administration-thumbnail-619109-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "CORRECTED-Trump voices concern about trade deficit in call with Vietnam PM"
     excerpt: "U.S. President Donald Trump raised concern about his country's trade deficit with Vietnam in a phone call on Tuesday with its Prime Minister Nguyen Xuan Phuc, the White House said."
     publishedDateTime: 2020-12-23T10:03:00Z
@@ -241,6 +255,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "U0xWIusQ+8nHbbqyEaYsaM2BIfldBR8h8mjAIkRtBIhQM/9T1MFAuPalT9GXlFX40u4D//wI+bXv3f/TJs9D5N795Q9wp7250NZAi4ndrRwKA+5Og6cRTWF+E84q9DeYpEUHHyo3aiVQa9zXxDCl2mLpfqLooY6yt/Jgzx/Fvg9UQPKEVH8mKNWOOA0yFJoq0inymSknj712E/0OGKyfwbix3JJEPm6ix5hpSZIPWqlktVEYLedtmdvvo2RgxXVOs1p/HT+JvloMplrFuxxy3xr2nfXSBuAMT8QSZhcHRl8UbDpG4FgBV38ZRgX3XHsxlYVBnP8chTKvBHx0zIv2AoSDQu0dBkTr5spWUsaNG8k=;XXr5P5A/RbQIZ38sSNUoqA=="
+secured: "iu9Png63hXlY1VPcdbVfIoLMV7Kj8oxmotcqG0F58mJVRSKxMADUB0+KfsmF0joTRrYZ0nNAaTL52nGdtVn+PXLeTbVvgkMkbTq8aRIU/df8aQKaWNape/aYORxwdnxsRVtNucGMM0ZWfM8dqmdGJl0+rd/xF6Wnh+4EXh2UuAIv/7Zkjahw3DBEAG2AT+rbI6pK3iUhs65mu7DAdeemGW8YwSyOQNEPuRY7VvI4HAcI7HSychTD/zbvdPRg2p+buvPBXwFUCSwr/VYfhiWBvzUSH2F5qDNVJAQecCq8lsHh11TzwT2kSmkqnL1thcDLgNMEFIidkbJzCpRqUiMzlehpt2OtTdatORFMkWFu0kGw/H/kkBVt3RV/TjEcZ8JIpLRGIfrHy1z/JPPmLRVMLR12NKWM20bm8HXQfHVwsCWvTQxTuFuhXWVhUIr06k8zLzmRD/cIWrBhSYiGkCBijeyeuE7OML/fDUCbVHHEJI1f8oJ8J6HpQbBtFKbLbpcJE+UGD8JJTk+fHbuIz/KPTg==;rkLSYgK75fSyas+J/+3DIg=="
 ---
 

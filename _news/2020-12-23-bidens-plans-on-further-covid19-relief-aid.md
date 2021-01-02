@@ -29,19 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's challenge: Creating a COVID-19-free White House"
-    excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
-    publishedDateTime: 2020-12-16T05:39:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
+  - title: "Biden warns 'darkest days' are ahead for U.S...."
+    excerpt: "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T14:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden: 'Darkest days in the battle against Covid are ahead'"
+    excerpt: "Mr Biden, who is due to be sworn in next month, has made the fight against the virus a priority and promised to distribute 100m vaccine shots in his first 100 days in office. Biden: 'Darkest days' ahead in fight against Covid."
+    publishedDateTime: 2020-12-23T01:54:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55419737"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09281s8.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "VTxjzuGwUXwS5p0jVquCGZQUdhXQ1YpFl83N94IsHSxmBWkjg849h/pvb8bJ/9loVxwhaBJkzQsUGqWCxHEmv2ACpUziss/NBtL/FD65HIJ70AWJ0+LcxfF2npbn3F+nuZUtnmaLkKubJMGi4eMqRc7cH7D+LPwcf76aqlyznuR0uXoQ9uuZe7K9qK/ao1P7EJje3pNSPHgjOC/VsDfPuTgEyspp/yej+w7BAmXDOAUvNbL7L5JcNdGcsWPEUqE6JyC3yfJybpe2+6YaKaS71toEIfJ33iu3kpOK8d5w/n1Wje8/jCOJqPVoRNv9c4LpcCwP1oWa5Qn7lAo6fc301L1HELrCI7wMBOAy1CsK8qQ=;y8etuHbo5sdmjWoVWp2m0A=="

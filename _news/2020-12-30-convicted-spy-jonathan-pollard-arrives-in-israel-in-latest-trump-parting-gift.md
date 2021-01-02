@@ -47,6 +47,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Iran's Zarif urges Trump to avoid Israel 'trap'"
+    excerpt: "World Iran's Zarif urges Trump to avoid Israel 'trap' Posted . Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by a"
+    publishedDateTime: 2021-01-02T19:35:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDTINZAJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210102&i=OVDTINZAJ&r=OVDTINZAJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "In Late Trump Salvo, US Rejects UN Budget Over Israel, Iran"
     excerpt: "President Donald Trump's outgoing administration on Thursday fired a late salvo against the United Nations by voting against its budget, citing disagreements on Israel and Iran, but it found virtually no international support."
     publishedDateTime: 2020-12-31T19:33:00Z

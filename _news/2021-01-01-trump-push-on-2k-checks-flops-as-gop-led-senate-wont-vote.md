@@ -191,6 +191,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
+    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
+    publishedDateTime: 2021-01-02T19:22:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_9d02b53ba22c4458bcd93a623645fbf3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
     excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
     publishedDateTime: 2020-12-31T03:11:00Z

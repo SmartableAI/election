@@ -389,20 +389,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "U.S. Appeals Court rejects bid to block Biden's GA win"
-    excerpt: "Top News U.S. Appeals Court rejects bid to block Biden's GA win. Posted [NFA] A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect"
-    publishedDateTime: 2020-12-05T21:54:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD7QJZKV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201205&i=OVD7QJZKV&r=OVD7QJZKV&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Biden makes two more cabinet picks"
     excerpt: "Watch \"Biden makes two more cabinet picks; to nominate Rep. Marcia Fudge to lead housing and urban development and Tom Vilsack as agriculture secretary\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2020-12-09T12:16:00Z
