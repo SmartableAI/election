@@ -2,30 +2,26 @@
 category: news
 title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
 excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
-publishedDateTime: 2020-12-31T23:38:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4100416001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4100416001"
+publishedDateTime: 2020-12-31T23:41:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
+ampWebUrl: "https://amp.indystar.com/amp/4100416001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4100416001"
 type: article
-quality: 132
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/125b8ab8-da13-4bc9-94a2-60d6d4fc8e3d-AP_Election_2020_Pence.jpg?auto=webp&crop=5099,2869,x0,y259&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -284,6 +280,6 @@ related:
         height: 267
         isCached: true
 
-secured: "qpROWjmJZLcyPqEfgcHL9uGwyzRF9CmduPCYLbW7HrjySuwLuz1bz9C499TjbE1fC18FeuaigUW96Hh2PGc1Kxf5w3XXSspZQVGolqYAqtjG2kEfK21aMHBN4Wq/G8nv/K8B+54/J+yj+eIJAqrGQzIFEEm4i70UUKtEESnY/zMxngnWyt3uEKK/8p2mipSJCVqLgJ3Ezm6jaIy+MhxmjleLFaGB0vxSYuT61plNFI2lyJvm1H8/MddKUasnaEpKXb4IBynC4/wmyK/yVe8Gh67iP/b4U7lPhcvPmKWvBw3Hl2seFWRxZnVCFRJQD4IIzpCekgjqyJ/NpzOQXgUeKy36XCGGavxpm64c8N3nlU2rNW2blMEe2P4dgjWgt/UO0yUsZ1BHzXEYOP96Daz04d7QNotW4bj4EFoNL4VbPh5cTNTyeSBXkuz0kSmTtvudqUvjvZvCScXTC/41eMbh4Ubi3VtbtsMPfrCn9oN+kpZlAR8B0SeHGaKdxLYq9Vd1mj393bVRMowmbNCJhEkTUA==;E7hJv4O14VwXCJUv0Bdj4w=="
+secured: "mioLWK67oIEc/DvD+MuVzM3qGZadFBOJPTsXesGgjdvyCILNJhcoXqubfeAiZMpJAmXlbw6CCCQaXGc29Sp0I/y8ywZSSolf5/jYIAJt6MecKiYcupsZt00O3WNgquTwWTSeOGzlXAQA6avUJkfA3Ou5y7pOfnbA6dvc+r21EsHOKZzJFQ8OnwIWq+U8cewIVRwNveP1uEDY83ryaVJQ1MiIiIhCfUQV0t9dwxPjrbc9SGJZbFKtSMervUbZfQN4IzC6g7/mRtFejQbr38fA+dBGA1LauNxKTuZw25iE06caFEMmQ3C2xhiFn4VGreDKxRD5W1Ovay1Xrtum9/ErqTIdRzuNngfMvc21MhaWHQA=;ZhKji6UU2kWdLrpAX5p8RA=="
 ---
 

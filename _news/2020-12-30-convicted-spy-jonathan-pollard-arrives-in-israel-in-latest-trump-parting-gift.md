@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/world/middle_east/pollard-israel-spy-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/pollard-israel-spy-trump-netanyahu/2020/12/30/76a52f38-4a59-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 122
-heat: 142
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Iran's foreign minister urges Trump to avoid Israel \"trap\" to provoke war"
+    excerpt: "Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by an alleged Israeli plan to provoke a war through attacks on U.S. forces in Iraq."
+    publishedDateTime: 2021-01-02T16:02:00Z
+    webUrl: "https://www.reuters.com/article/usa-iran-israel-zarif/israel-may-try-to-provoke-war-with-attacks-on-us-forces-in-iraq-irans-zarif-idUSKBN2970E9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2970FP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2970FP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546408962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0106N"
+        width: 818
+        height: 545
+        isCached: true
   - title: "In Late Trump Salvo, US Rejects UN Budget Over Israel, Iran"
     excerpt: "President Donald Trump's outgoing administration on Thursday fired a late salvo against the United Nations by voting against its budget, citing disagreements on Israel and Iran, but it found virtually no international support."
     publishedDateTime: 2020-12-31T19:33:00Z

@@ -43,22 +43,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
-    excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
-    publishedDateTime: 2020-12-31T23:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4100416001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4100416001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 132
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/125b8ab8-da13-4bc9-94a2-60d6d4fc8e3d-AP_Election_2020_Pence.jpg?auto=webp&crop=5099,2869,x0,y259&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
     excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
     publishedDateTime: 2020-12-30T14:52:00Z
@@ -203,6 +187,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
+    excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
+    publishedDateTime: 2020-12-31T23:41:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4100416001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4100416001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence wants Louie Gohmert's lawsuit against him over election dismissed: DOJ lawyers say"
     excerpt: "Vice President Mike Pence, through the Justice Department, asked a federal court on Thursday to turn aside a lawsuit a Texas congressman filed against him seeking to empower Mr. Pence to overturn President-elect Joseph R."
     publishedDateTime: 2020-12-31T00:00:00Z
@@ -280,6 +280,6 @@ related:
         height: 267
         isCached: true
 
-secured: "V64jR/H6BzauxYeeOyvh359i5SMKFB9G+Y/5CCH+3XjUV+lsTGd2CNMY686VfEIbLssZSw/AZTViIyOZ6BVFF9WZKw1UWaN7K5HVrfB3mrYMLStgY0EV4TBSNzjZUgyTzqlu2HIYOSK6S1+Cmq+eOShLRDNGLDuowwcFVFaHnd+dOrK+4xDx4HcPwe/jdFAlUmP3M+yl/8/tjzXcf2jv4A4VlONES1m/jB1x7ijBgfN3focCV5PksgvfoUk68HJ8TzH0WHZXIXqRVTVPqA3Fl4ltEERrqc1KFa7j9bF+9HzjCWnJlTanVsSDiwelOJ7315UTo8uWqt5FchuobBaONx9ySG/wdZG5myyN6KCfnxc=;i4eHB5g/wHvzNSDXID+hkw=="
+secured: "bdl0vrLT18ZePxqoM1Ia008Bv1WievBVN/iplGFnJmAD04+RGbcYz9wx2o/0WuvafTgDv/EYtIGA55FtabVXmoIG4CsYQlvV5Nib9KG0mcVVONkKFVm+N3N8qiuH7Ak7bPg90rBPfK6Le7ZbimqUDSbPDwzgnUzyZuPalWwVv285iCJqcAYwXj5V5XV0M8dXqhiaVFg84ULXIAUrJdwjtO6PzRr76QERfr1jVPRph0KALglR6nYtgQ7WnIREqpB9EzZ0Z35EuIIIEvkyH0jqxKTYrbqTg6ymgHIhQsGpj0uPEoaZeWtujFjO/41hp3glnpPeWFkbty9hyxiFZU3RxQCwfta00b26aOKXbs4Daqcazqd2Y2xoE18X3vLyNLkiCuJNpG0oL/4ne3wcriH9brdZlcL+U7jAeQAmHb1dPQkuOSb1Zj1vNJXaCPAb4v3JGnNajnz2bMhucti/t7fBjkjtWZWT5P9POqq2ja9mWlxZXVkbiqjyPRaEMgFpc76qCqc7laaGqGwJD8508wDCMA==;osciSFDHe+rRwrRl3HXLyw=="
 ---
 

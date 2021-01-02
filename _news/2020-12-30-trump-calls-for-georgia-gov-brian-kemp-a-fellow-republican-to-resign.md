@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
     quality: 105
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Donald Trump Ridiculed For Claiming Upcoming Georgia Run-Off Is ‘Illegal And Invalid’"
+    excerpt: "Donald Trump once again found himself the subject of ridicule when he continued to make claims regarding both the Presidential and special runoff elections."
+    publishedDateTime: 2021-01-02T16:25:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/31/imagesus-president-donald-trump-plays-golf-at-his.jpg"
         width: 1024
         height: 576
         isCached: true

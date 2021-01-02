@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-progra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
 type: article
 quality: 174
-heat: 354
+heat: 314
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221144127-bill-barr-presser-1221-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: What's happening with the latest Trump appeals to the Supreme Court"
-    excerpt: "The Supreme Court will enter a new year Friday but there's still election drama from 2020 on its plate.\n    \n"
-    publishedDateTime: 2020-12-31T21:22:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXNdSCFVT8U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203135654-20201203-scotus-group-shot-illustration-updated-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -158,20 +142,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "The new center of Trump's political world: Palm Beach"
-    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
-    publishedDateTime: 2021-01-01T01:13:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "VI7+KPCxpn2vkEjIscs9B9H22Y75exnmFtg2SM9MukW1edcmXWTxK4N2fOh10VN0QZqN1orthyRPL3SLobc5QUfBDPbX6jCFsTHomYAf3gccKCKovIXEE4GSx/H6mnqySUCFJ0giGns4IjXs+xy+HaP2PgsmWQtU0V3RaOiB4ndNoIroYW7AP+u2X89mbhKA4ixnlVe8CcJ52czMydB+HAYd1Jn/8NNUNLP+mEr+IpBZQab//Jd0OBGUatue27RuvKbpAIUY/Tl9M43MkUomNrbwombBRs4hRVi3t1isZblOtjjplC/7b23PTC0+1SZfIeuLmHBEu8H0DGuuiB4TDgqLzsKn593bV3+WdO2CKcg=;SrTOOyVAkLJu69agnjnHNg=="

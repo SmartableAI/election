@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: What's happening with the latest Trump appeals to the Supreme Court"
-    excerpt: "The Supreme Court will enter a new year Friday but there's still election drama from 2020 on its plate.\n    \n"
-    publishedDateTime: 2020-12-31T21:22:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXNdSCFVT8U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203135654-20201203-scotus-group-shot-illustration-updated-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Full Panel: Trump downplays widespread U.S. security breach"
     excerpt: "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia."
     publishedDateTime: 2020-12-20T14:55:00Z
@@ -158,20 +142,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "The new center of Trump's political world: Palm Beach"
-    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
-    publishedDateTime: 2021-01-01T01:13:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "XyRH+p8uLpPX4iawN8qZbr7ILY9K7lHHbNOFgb8aOVo3ne+zxoHDb5KRhT0rPF5qpcwTALWxJdqZIZPg/hFFEBqa3q+kYkrPBcNJSB9Nq+5hxRlkzHFkGifxPIDwo6AkD89NoQudihFYSXvk7EtWfoPOvoSXDtCSPbe3B2AMT2MTiM59Ot2DmxCV419xPE+YhqvJ/d0QtxANkeNObfK4hxzgIZv6+pJ6mcVRTJcQ5WKeFElOFzV2M8X5t2y/fu94LGQWgBa6u5cvY36fkLts+cjt8Ack6C2UEMtrqpelaUSkRa9TWfzOIlQoAEbHRkL2D6AO4uAN5vi6goHu3P/nrh7OxqJ6sgU/yOi0Ur2sHiU=;yyE3PSoeZQ9JbvzUHhTCSQ=="

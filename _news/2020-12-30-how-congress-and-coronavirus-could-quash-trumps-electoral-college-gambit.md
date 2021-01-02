@@ -346,20 +346,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Edging closer to shutdown with Trump showing no signs of caving"
-    excerpt: "He is showing no signs whatsoever that he is going to sign it. NYT’s Emily Cochrane with more on the state of play TRUMP at 12:38 a.m.: “Increase payments to the people, get rid of the ‘pork’.” … at 12:36 a."
-    publishedDateTime: 2020-12-27T15:37:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/27/edging-closer-to-shutdown-with-trump-showing-no-signs-of-caving-491249"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ae/19/03a2d02343e693c6b8c46efc3b1e/201227-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump backs down, signs stimulus package"
     excerpt: "A government shutdown was averted after the president approved the Covid relief package and annual spending bill."
     publishedDateTime: 2020-12-28T01:47:00Z

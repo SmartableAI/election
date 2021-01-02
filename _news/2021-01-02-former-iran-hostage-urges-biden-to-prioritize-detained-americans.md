@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump-Biden transition live updates: Judge tosses suit against VP seeking reversal of election"
+    excerpt: "A judge has tossed out Rep. Louie Gohmert's effort to overturn the results of the presidential election by forcing Vice President Mike Pence to override the electors when votes are finalized by Congress on Jan 6."
+    publishedDateTime: 2021-01-02T16:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pence_hpMain_20210101-211259_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Pence asked a judge to kill a lawsuit filed by Trump fans seeking to empower him to overturn Biden's election win on January 6"
     excerpt: "Lawyers for Pence asking for the suit to be dismissed on December 31, describing it as \"a legal contradiction.\""
     publishedDateTime: 2021-01-01T14:39:00Z
@@ -735,6 +751,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IndtPXH2Zj9z3X6xaVE4VlMNovvMf0i42SKZjH1ISk1jvA7MEChFXEyUAMrQ94NgrregGMQdywxOGSEHMDJCo64quzcJ/ElINdMIQsO/5amae6z4Ds0Ou0Pn8REKyAekFdxf+RG7pNZnwEKeVwjILGw5u/jboDEn433g/2WF0SC+cri6NZmRi+RY/T8K4OH5IqDEIIDIvPK3M9S22NGor70cjlMQKj3s+Gxeuqgx/87sFhHmnBcANymWcUQSYxCeKXgEDFLng6cW6r84fVs9igxmFQ5eFStsY4lz8RRTVfGe5AqZurKtm/YC9Vm42m+rTpKiFvXhfNsj1o8vp5vKLnQTi0o6hrh7fdG2tOKjTdI=;xAN6oJtc6VEiiwtxKcyNIA=="
+secured: "ACrsjyJvQt305r3u9UP/JwZi6Z8WlYDwDuOqu32+Bp2CanIEIf9Ckdqpsmqx27TgYw98cILWnQrBNYkMfvWXvVHvBOTP15auMr7NqZEddoJ/KjVZx15T965x3jFz+Opdo+sSfJOAtxZsDh3K9M4UvDzJSy2i76B6y1neg21bT8U3wIe8jIcddF2Qap8fWFHh0DFTb5XR/DX8bedYDDe/h+tM1dapRZoG9CGcyKX9WsHUT9EW48kBGAzPmfcDmqeVcpVjxZRNUZW8AVaga8DfFRwC+oxynVaTCDWqtN/NV5I28ItuDJMRYbXVlKSxzNFaKdrq+JvLQEgSR7mBLBh3MqeMEFasfqhDinG6hhxKSj2Qgm6Gjz0O7ZwpXI+36XdDna7R5v2vKoAbNuwFInEsRE6NCnTmk872Ia5MewuY83THDukhEXh+Rkql97RPcYLahjX0voYfci+VMrCahz3zFSUYtoYFt4DLT9PHj33VlLiqnPconApj3qlOgfasicqsSDvp9Z2JfgeR2kI1laB6sw==;O6WmCE+LJ2luEhlym+oD+w=="
 ---
 

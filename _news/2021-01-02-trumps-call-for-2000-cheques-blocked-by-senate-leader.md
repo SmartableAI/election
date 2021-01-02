@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Ridiculed For Claiming Upcoming Georgia Run-Off Is ‘Illegal And Invalid’"
+    excerpt: "Donald Trump once again found himself the subject of ridicule when he continued to make claims regarding both the Presidential and special runoff elections."
+    publishedDateTime: 2021-01-02T16:25:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/31/imagesus-president-donald-trump-plays-golf-at-his.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "FuDLodRzurTEd2b0YoST1J6Q0Imh+iiEGkmmsKTzqAzUsGy5wkFan78JfhaKQq4eIgr2EXN0UxRdiBBwGHuVOW1hYowPdc3FC/QbjdUloMZlS0PStEEeGZhELj9pzrNrcpsuJnLvnukJ2B1MA/H2OD7uJvTcZP5P6p8RqqcH3tIvlGnSc9BpMCyy6kkUI931NXC+jX4oeVetocPVuxsDbI8NwnMJ96jfY+ErKrnKasf1LSEfuZv0OzVimbS4aPxWr79fC37jcu9Zm2vs7lgv20vQ+gLk7KOsS0TPKE9HL+Jd6tSJJIc2TFE8b1Q+t1TfJ0Hvrv6V2ZfhgQSrF81wJCg83F7H5S81HgW+XGMCbxQ=;1Or+Uc0JaWYwfgSvegEDtA=="
 ---

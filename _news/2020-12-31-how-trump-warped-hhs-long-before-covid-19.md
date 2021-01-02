@@ -32,51 +32,83 @@ images:
     isCached: true
 
 related:
-  - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
-    excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
-    publishedDateTime: 2020-12-28T12:37:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
+  - title: "Analysis: How Trump made people care about politics again "
+    excerpt: "Love him or hate him, President Donald Trump made most Americans feel strongly about politics in a way no politician has in our lifetimes. Record numbers of Americans felt strongly favorable or unfavorable toward Trump during his time in office. (The strongly favorable and unfavorable was 71% in a Fox"
+    publishedDateTime: 2021-01-02T15:02:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2_GnXpLUKqs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/trump-politics-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/trump-politics-analysis/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223152853-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: What's happening with the latest Trump appeals to the Supreme Court"
+    excerpt: "The Supreme Court will enter a new year Friday but there's still election drama from 2020 on its plate.\n    \n"
+    publishedDateTime: 2020-12-31T21:22:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXNdSCFVT8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203135654-20201203-scotus-group-shot-illustration-updated-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "After Trump's drubbing in the courts, liberals fear a legal hangover"
+    excerpt: "The president and his allies have lost suit after suit seeking to overturn the election. But the victories could ultimately prove costly for the left."
+    publishedDateTime: 2021-01-01T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://static.politico.com/67/07/130984304729800e8ed9ed750cb4/gettyimages-1230086732-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump extends Covid-related visa ban; health coverage policy advances"
-    excerpt: "Trump imposed a ban on green cards issued abroad that largely targets family members of people already in the United States."
-    publishedDateTime: 2021-01-01T12:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-extends-covid-related-visa-ban-health-coverage-policy-advances-n1252638"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252638"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252638"
+  - title: "The Eight Pieces of Pop Culture That Defined the Trump Era"
+    excerpt: "As America’s Trump years come to an end, there is only one pop culture figure who fits that era-defining mold: Donald Trump himself. But unlike those figures, Trump doesn't represent any single, unifying truth about our character;"
+    publishedDateTime: 2021-01-02T12:13:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_53/3439040/201231-donald-trump-jm-2209_8d217c1e62b5dc0eac865513ce5aab1f.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://static.politico.com/da/02/0a5d45fa420abea71fda4049e5d2/trump-pop-culture-illo.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
-    excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
-    publishedDateTime: 2020-12-23T10:33:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html"
+  - title: "The new center of Trump's political world: Palm Beach"
+    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
+    publishedDateTime: 2021-01-01T01:13:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "nm8z5QaU6ZvkuztHr2ZdsfE0vJfgSy2KdXXM5m75fRE8D22ba7SSeIy3uUSSdJWdcq1PSUWBey/q/HBSS2mJbMHv32KoBCvZA5uCr1BddLHyHLNEej5RzdtXj+b0h27JaamnoCdjNkh8bOmu8je0xKCmMs6V4yXihH6X6FwJHbPKmlw5YuPIc6ACjtAZ0kNu/E2cF3en08G7DEOhHzLIXG06qkhxRjBF6EWonDEFQYYAgA/lDXY6i+6ljQH1itrxQ1udHdmf8y69Jzc4XdAnk4sphgdX1Q3uC9hIOg5RCjBqePdY4O9oVFg9HkOZXG9qELWGWmXYjcwMUoNnn4WNtobTJnchd6xEVQudqsDIcb8XUZRT+0n7PQm16GA469/TaaqwjApz3yJ9VZrUODjZ8Dy53oDBQpRbtJIJ+EuYWC5n3GETRqTzIlHW/xMCZJ2LeoMxP/x18xJ2iWMZEAvnjJd6CRiMeKder/PztCMJ0moSPrtp1DHnArecjfCTAevg4WXxBDMxnzgYuwNwu2Iorw==;B72n6GJK4V+3Q6LHjDhXYg=="

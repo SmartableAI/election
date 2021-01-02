@@ -2,21 +2,21 @@
 category: news
 title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
 excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
-publishedDateTime: 2021-01-02T05:11:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
-webUrl: "https://abcnews.go.com/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-rebuffs-trump-2k-aid-defense-congress-wraps-75010754"
+publishedDateTime: 2021-01-02T10:06:00Z
+originalUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html"
+webUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -425,6 +425,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ArBq94CYJNTWf4Y/Ivvytb4/W10Qxakm2a9cvwPF7N510hzNL1m6PhuD4GcRCQpUmd59FvzoeI+QarGuaU6jvuTSPoFVjviTqVt6gLQNEwnSiXVKJgvAOtO/Lciwb8CASt1iLAvvPsnQ6nV8OAX3JGSn769mY1GgO1WgqTujOysFTzoGHvDG/NKTK4aBbulVSMOy1IxcUEsv5KtFUtrOBNa4Gts6U9583XRd+LkUy9TPdwhNTcPwIMvPX4jl0iNndHoiTYVs9SYvwOaMsJa3Yoa8XiU6icXnLpIsuGGt1GzxiR4YNsKnqlQc5PUM0VAqWqAkg2AAlHp3JOuYDRrd7Y8/zsOj5D+A3djw6syS10FVszfvydI5rJVtYv/MGIKLUdMpRm9mBs1uX1WsBguvUVtxqyJGRLBOHKaguJtSfsYZnPsphBo3R64joJRFdThz0N6bkcgKSDXgfOfTgzhI7IytBu995mJR5lJXe6UbhFHwEh5jdKz/P/4pK4Auz5l0fhsttoqgkbPUna2UsRjhDA==;a5o4TnKbekdbzRJTDG1FGg=="
+secured: "VTKys0qb9SMfTvCt9PFmd9gGlHXBtq+krO7hB5CAY+uUaIkGD6mGwArRha7fYiMiiV17GqAlF8PEwQJMX13Tasg1LIrmCpreVESq53U0rh8BiGRhno0UEcYNrvooqZUsq5Q+zDnpMO8NYIATmb/poKTdieLOiffgbo8K3tQG8sFPTEoSiKAmr/KE+ZhcH99DynuHCmXhvZ2piynmwZ5BoTZzmsSsukQO01zXEGM8jlLGe5IQFg7GbGIWc2AnQKxTDUaGLugRCFmF72U0zjqsSJg1j+hzluSNDKc07AHfarg0jZUjSnxoZFjz1ufd6dspSG2QVBVbwpBbeIPn32UrpvHNfFbwipRWMSDsiXW321s=;YyGUYF8KZqkIAfldyOGs1g=="
 ---
 
