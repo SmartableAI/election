@@ -2,9 +2,9 @@
 category: news
 title: "How Joe Biden Should Handle White House Infighting"
 excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
-publishedDateTime: 2021-01-02T05:15:00Z
-originalUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
-webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+publishedDateTime: 2021-01-02T10:01:00Z
+originalUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
 type: article
@@ -431,6 +431,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Ww45j2hQegTxpfiA5QJ3XWDKibbaI3NLGCu+fKEkbbVsdYgxMdA3gHRh0yg7UHBEEBU57J4FZhMg7F7tMEY2MkI/meYG0WEncvJeNWNLm/MToTjIjsrT2gVJcq02tSvb1afaCJ3NNev999jBW4y3ZduFC0ZNYjU7gIwKCpYxG9HYZA3n97idjnx7QSghCJ2Vqfs1h2ibFo+J+0bpDRjDwIvJpgzj+THMu5cyaF1vpohECKDF8nqYua7hr90utjCBj5NooeMAplB/LxN1KmtjZy0I3PA3dznhu+LNAhIwzm9uiqESgXnpxDALZUBBnakI6Wf1uYwVSbp1rh4uat/so2OllI36FrkI0jYG72v4Y1hxOjdS/gH4RTCQdoSwtWWperzJ484wYVWE5Ty9jlpJnqs0Af2J430YN6vFT7nGm++V4+JdoQi1azvlan+4PyMWpAeqbpMLI/sD51GRK5hlUmEYBCRMDCxGQvM7AUuZ8Tgrfd1KIqmlPrZ9rA/jl6Vw7Ei5UfLgpjzT8nLXvQjJAw==;gF1far5nEFrRPQZxX/nKLA=="
+secured: "k51G5iRH0JAB7cKSQ1Sahc0xotl2XCNyS02Sy182t9yzF8iUe9TrLuQ8iJltCE7FxYwpL4l40L1sh8TOBbGyg86b6hxA+K5mLEpIWoStxMJnV9W4MVQoK+kRO6XwioDIj21AsTP+8kr8oTYPqxQYdyMPQDPVVmbSGqAaV6AnZVt2sl3W+Hw/1Dh6CZir/k9Mab+fD1yJHlIY68jXhozJm72miiEWp7LEs9EcHZqOO97+Vf3nSrSoeefkpefkWRN+9WmmTrP63NW3WBTy1bUBviLHIuGAHMU0oOyHFusv72LKaGY4D+EoNetpqxmdsfYML0m5Ird90e3QV8xKQCr3ry3/9Tq8floQXoxgdCAoaWw=;PdffX5/ORp+5oDaeZ/vsCA=="
 ---
 

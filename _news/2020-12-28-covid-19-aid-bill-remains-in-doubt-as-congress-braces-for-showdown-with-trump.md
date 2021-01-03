@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "GOP reps gather on conference call with Trump over Electoral College certification rejection"
+    excerpt: "Ala., said Republican congressmen held a rare Saturday night conference call to address their goal of overturning the Electoral College’s votes Jan. 6."
+    publishedDateTime: 2021-01-03T03:11:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
     excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
     publishedDateTime: 2020-12-26T10:19:00Z

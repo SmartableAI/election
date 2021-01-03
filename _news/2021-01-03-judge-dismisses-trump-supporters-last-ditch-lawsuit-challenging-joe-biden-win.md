@@ -350,8 +350,8 @@ related:
         isCached: true
   - title: "How Joe Biden Should Handle White House Infighting"
     excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
-    publishedDateTime: 2021-01-02T05:15:00Z
-    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    publishedDateTime: 2021-01-02T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
     type: article
@@ -427,6 +427,6 @@ related:
         height: 500
         isCached: true
 
-secured: "/DtSCgNSJywqi1nsHb65CytQzPo3KEMoPRo54ZEX4auMqldvAHFJd6Wbx+Fl1ibPz9G0Pob1YkgvOOmGDJYrTnxlITS832g1EswkAjyk7TSBnxJee+hE4pm8RyXslpZ+KC3u+Zh2RT+zXWmTy2LtKpDC1kYhM9YzTDtOe4dPEcEDVGDScftXE6X4Pugxmlf1+d5y7z5cs1ZPZgH4T3o6clzV8WeXcJ1jFVBlQIHplcj+LxZIz2r5dTVguZYBnOZSt28otpfL3bQRyC1Zuwbtu8xxMIC4gN1qmOZ9LJYYtTF5NoOgGePFLQxuBjP9oOSVp3XxfFkwDB5Fn4erjRgjS+okpM8J13OpuCdeBnoIQW4=;UCxPtIPi4hEiYNrTeLxENw=="
+secured: "juOj/rB4dfteL4lqW1J+YlkOYZmpYJ1L/OH9PgIDuoQBfoLpBzmvNwUmpJBrY2zkhcOofgFrdncY/4x7uIKxP/MweezPyd1S7Bl5m0So8Gyfc85rCxyh8rHlLziC6CqO48yUp7JUWaJSD4xaxv3sPudvQr+9q7yFWW2rAlQ1VrBZxna3FMwfMXBQ1JhkExu7cZdPeQ8T3DQzojaTUoTN89L3UedIF25KVntCxGBzOnhd/Kpe9c3ZJaIHUOVAgdrLjFmJzr7o/Oy/Yih0YVzPSG6saO4ALTVYLsyfuPuDbCcoiY2SQGCJF33txGaoQqFkUFKf0WGrB5PuvFyLuQwZ7d2Zx6F3THeYd7guLBzn1+ziPMz9zRhVrFBP2uj+Gw0K+lEUMB17f1L9XrckSSbyd+esWwo81QDQw1JzBcsUFlJoJqYm+zl5WhYoG98XWB+l1srXEIGq4Vr+lF3nlgp8EFm6gyI341v7H36+NIEeKfrE/cyQlWSfwXkEn5nNPWARkrcZbsCjuOg6E2t/i0d/HA==;jHwBWTXV5qnc+PBLA2CTEw=="
 ---
 

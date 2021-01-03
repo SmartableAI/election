@@ -1,29 +1,33 @@
 ---
 category: news
 title: "More GOP lawmakers enlist in Trump effort to undo Biden win"
-excerpt: "A growing number of Republican lawmakers are joining President Donald Trump's extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the Electoral College votes and certify President-elect Joe Biden's win."
-publishedDateTime: 2021-01-02T23:32:00Z
-originalUrl: "https://www.chron.com/news/article/GOP-torn-over-Trump-s-Electoral-College-challenge-15840947.php"
-webUrl: "https://www.chron.com/news/article/GOP-torn-over-Trump-s-Electoral-College-challenge-15840947.php"
-ampWebUrl: "https://www.chron.com/news/amp/GOP-torn-over-Trump-s-Electoral-College-challenge-15840947.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-torn-over-Trump-s-Electoral-College-challenge-15840947.php"
+excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the E"
+publishedDateTime: 2021-01-03T00:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
-quality: 90
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.hdnux.com/photos/01/16/00/52/20449953/75/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -811,6 +815,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MfY3huKL+2JvLO0V2SyTj/7k8noIbvMpJVZ7SpG3OJWUm1TXjhHRA/iM1HGLLRzjhsHwHSBQK7InCSZnHZBZzsEAVc8Qv2HLuizcX/8eyjIzMU4RZMBYGGJHcwLYguEtOgTp75XPoENuf/ZzioMN/eAdbW0tAPk6SDYEZOTyZtbu1Fd2zz8bWgjTg8FYDFhwT6AvvIpjLk+wJ6qapdxFxx1CCldNQYIcj3HTz1WPInQ5ytxxLBQ/GwheS2KweBXmKnKSOTnXeIQPk7mwa7GjIW4psnM33cS2f6AUGNRrSMSUOnW644KavVDqXtDhwpdmUPJ19BEX0t6CCEAd8uDssoARWFIRKiVd2uC30dkNX/o=;9DkrvVJDHkCm+ddL75MHqA=="
+secured: "o/DmR+XwRFyQ8vlpcxmH+L9gGT+PykGA+x9NVuf5QpsN5dCBqDAECO8atei9F3X5vbuuNxccwxZY6TG/umFdhNB2UMt7ERr3Qv+7nbmmm1LzhkTixA2KWR3WC/o5p3ivBA7TYWew3UAXjGUOZdcjJxKjJopDwj1NAQc6opz/ntl2sWTTQNk2cw/wqsftu3owQLQ+IkJ8lb2sqiyCq0trxLmMB1xG3F6oFrhpE38gnz4dlMJvhr6Qv0KSS+l66d3cXMPYsH3akwLEhxkwAw6FD4W1RIjKnRpGFDzPKN46VechU4vjxFY0/2hqrebO8GAST46HGQs6O8k0XN/Qr+g5RxXTTOK+oGzdbtGSUhmsqqo=;Jhqnkp3pR/As/XTh1CtcAA=="
 ---
 

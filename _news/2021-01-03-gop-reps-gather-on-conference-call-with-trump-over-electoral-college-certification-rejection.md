@@ -1,22 +1,22 @@
 ---
 category: news
-title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
-excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
-publishedDateTime: 2020-12-25T19:37:00Z
-originalUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
-webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
-ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+title: "GOP reps gather on conference call with Trump over Electoral College certification rejection"
+excerpt: "Ala., said Republican congressmen held a rare Saturday night conference call to address their goal of overturning the Electoral College’s votes Jan. 6."
+publishedDateTime: 2021-01-03T03:11:00Z
+originalUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification"
+webUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification"
+ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
 type: article
-quality: 128
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-278258/social"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
     width: 1280
-    height: 640
+    height: 720
     isCached: true
 
 related:
@@ -176,21 +176,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "GOP reps gather on conference call with Trump over Electoral College certification rejection"
-    excerpt: "Ala., said Republican congressmen held a rare Saturday night conference call to address their goal of overturning the Electoral College’s votes Jan. 6."
-    publishedDateTime: 2021-01-03T03:11:00Z
-    webUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+  - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
+    excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
+    publishedDateTime: 2020-12-25T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-278258/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
   - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
     excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
@@ -221,6 +221,6 @@ related:
         height: 500
         isCached: true
 
-secured: "NjoHpIBvlNJa8IloVFZxC9ACQQ0ztNWZeLjh5K714bNhnVH/0+b3SN40i/f9lVwr7P/p5cX1JdCDMJkQrBzYCGDOMmNHrPO8HbE9tFTQq5+Q1HJvC2V50tI53qB3/6Ph7JJE/9VkYTcE8wcpKQHXFyUiOb2DGvOu3ysl8t2HgDVLpcSj7J5WPAX9R4LCo9Qohd5ZEutIQFvR5+PtOfRrH40rd+OQSph4kAIqo6UrPuSHr6tKOixUGKgdsy7cGnYlqE56qmOUFeLMDZnQQSPWOxT/RqQ6DOflSv3GrZcWgbAcjvNSAtjHG9KAa6fXi2sFbS6zohf7V5+to9JnwpgUgVQNHhPTqbqoZzpdSeT1BAlsTto6Jy+AQxLNQMhzVHFksEi3iwnI/68PBZYhUedYTV2YH1/fMTWY+C20WeR7rr4346r/Od1OBD9UmF5Xv+gpHuYGf8c20tswd6WVxB/KJoc7VctkBMZh6RxaltdECjC/CgQQNAdudoZRgOggkGH6pHPPTfeAxbryV6it/syyXw==;qXYWuoJaa8gMxbTzmWSOQw=="
+secured: "ABfteDeJyKwG4n9YydObyG0NZLJWQLbbETalKUK1SB/jR5sqiGG6njNWIi+P6L5QIgjchXq5Q6toVq1Ou8GSjiuiEXJlhyKKgWgrfDQWjDvcQOC7+XgOTOysR/O1TAISKOMyhtU2/TTs8b2ckpNk53WYYS8I0NG1QBjSPtiMxCSI/tWBqPGWe3XcFM03pJBQ5uXDVCDwQ21VuuTOx6ed8DRmUTfMGSXBMjh/GE9WFI1sB6+jr6564qqMQh560bdFVTuhFPogCF2fTYVieKUehtaX3fjEJCh5McJ8ArCR13vnWuO7PR1eUzxeiLcEs0BmXo3TAhkIKlpB4lLhO/grUhhYTlonFyE6IGy7F5VyFRE=;kp5jtKpulGtdpgd889EwdA=="
 ---
 
