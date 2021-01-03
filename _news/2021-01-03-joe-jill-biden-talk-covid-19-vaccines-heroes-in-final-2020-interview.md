@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Joe and Jill Biden to appear on ‘New Year’s Rockin’ Eve’"
-excerpt: "Ryan Seacrest will have a special pair of guests alongside the music stars at this year's New Year's Eve celebration on ABC — the president-elect and the future first lady. President-elect Joe Biden and Dr."
-publishedDateTime: 2020-12-31T15:36:00Z
-originalUrl: "https://www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/"
-webUrl: "https://www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/"
-ampWebUrl: "https://www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/?amp=1"
+title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
+excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
+publishedDateTime: 2021-01-03T03:37:00Z
+originalUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
+webUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
+ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/joe-jill-biden.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\""
@@ -67,22 +77,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
-    excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
-    publishedDateTime: 2021-01-03T03:37:00Z
-    webUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
-    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/joe-jill-biden.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Joe and Jill Biden to appear on 'Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2021'"
     excerpt: "President-elect Joe Biden and soon-to-be First Lady Jill Biden will appear on “Dick Clark’s New Year’s Rockin’ Eve\" for their final interview of 2020."
     publishedDateTime: 2020-12-31T04:07:00Z
@@ -108,7 +102,18 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 60
+  - title: "Joe and Jill Biden to appear on ‘New Year’s Rockin’ Eve’"
+    excerpt: "Ryan Seacrest will have a special pair of guests alongside the music stars at this year's New Year's Eve celebration on ABC — the president-elect and the future first lady. President-elect Joe Biden and Dr."
+    publishedDateTime: 2020-12-31T15:36:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/joe-and-jill-biden-to-appear-on-new-years-rockin-eve/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
-secured: "qj1Dwl8j1ZwUawsFXHMWHvn9/dgDN4TlOq2uInzwJC59aaEbRCK4ICGyI+k1lfytA+3wd5SIKYE1RC0FeoGi+3DHhN/dDYkf0cSC/FRR+Fi0ihMR14wlf23HppMSKNGPLzeqgZWl9KGWFe6h9Um6GL9vT6kFacSWEGnYqAGxOTx7nsVTtBOKzLUE5KhKMN7B/wMwB+UlZB6TuU6gCSEC26FKApggU2xyh6uSC1SYZFqAHyz/J9h1pgx9vc1jHHJBTere8Gxtnc5P3+saiV9JDuY4kQQAkz03++/Pt1BY7HB1b3SYGW9ZKyjSNboYB0pzz/KVyPuk4o3fEGgYHFzx3lRDgKxzkQM3KInjXojAueD/1HCozRsf6WYJgCJlc2XPkkYgP5j4rFabFsriRMO96l8CcVVxGZXH1QSVQVrEbwzNYfV8Y2Lj5MfdmOHZH7w+GKTssZnUYHjhv2AkH2c4O41QrC4T93YT+YMbnMacU4d2TbyGb/Ok4WALYm9tWiMWQvoR0qVXCYvHey3/QOK1YA==;+qVKjFXWoAJb9iWV+PjwyQ=="
+secured: "ioB7XaKMNGHWSnMdaP3skdE+4x2v3JIPuBRUkXgFKLEI32uQIxQnH6U1VVogqM/PuQvNBOn/9R8jL0BKLB++8OVGhTE/5DpUlTSJRtA38Ik9eOiKSHNT1+KBjW/mHwHH8lKzJTDFpXgMlWRm2CXcvFqsW5BQVXqNaaf4x7SZxgwbnyrpQ+45If9sd6qyegXlwQabreb3cOwrWQX5YFeKRx7aXCiu/9YVJTKfbE1vLVpQGqktLDst57x5zwQCWBgmHrK28oYtQ5KRCtsmEWfEfIovEdNfz97BcoUY1GdREElBaHOm8wj1LxeULwcw8r1R4owbQyovDCsu3Uco2lU5omav2+1e7+H0K7ExqjQKaI0=;tIm/0OeGwG424mDKe2yddw=="
 ---
 

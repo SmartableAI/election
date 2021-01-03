@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
-excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
-publishedDateTime: 2020-12-25T00:10:09Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries"
-ampWebUrl: "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+title: "Trump, House Republicans held call to discuss Electoral College rejection: Brooks"
+excerpt: "House Republicans held a rare Saturday night conference call to address their goal of overturning the Electoral College results on Wednesday, U.S. Rep. Mo Brooks, R-Ala., told Fox News."
+publishedDateTime: 2021-01-03T02:53:57Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2vgP48AqhFs/gop-splits-electoral-college-certification"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2vgP48AqhFs/gop-splits-electoral-college-certification"
+ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
 type: article
-quality: 166
+quality: 170
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -111,19 +111,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump, House Republicans held call to discuss Electoral College rejection: Brooks"
-    excerpt: "House Republicans held a rare Saturday night conference call to address their goal of overturning the Electoral College results on Wednesday, U.S. Rep. Mo Brooks, R-Ala., told Fox News."
-    publishedDateTime: 2021-01-03T02:53:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2vgP48AqhFs/gop-splits-electoral-college-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+  - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
+    excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
+    publishedDateTime: 2020-12-25T00:10:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -204,6 +204,6 @@ related:
         height: 500
         isCached: true
 
-secured: "SqinoMrmWE31BBz0VA9HD3U0qSRknkiNMfUrqBooELjdFTjqO0GSrvXnpYXtvHuTAnoCPywd/hTPoAxmJIdEs6fFqgqc8t1wtTL2Xv+AlTl7rhUtXomBtTmQ/KATHelsS0M+q9nJGibxqPb6z4DCql+NC90icTrgyRtMdcrdc4OofjYVekPW1qKQ83rhYNRXIQvUcY5E52fJ318nZYvOlsg4rgjwoIJdpwgkp3WI7BSy38OM1hASV8oMpJjorbo/bl6U9Rw2sO3VFnTC2IFpEyQRfstQfgYtN9gm0+a67kXPCggfd8EWIqIkvVfLoQ337Tf9uedMzCqxYHgN3nD4BumfO7X/zUJCz7y/F1XaOxo=;BBAkfLnTkQALY2XxGRLwww=="
+secured: "1KMVRCEWjxBY7AAlZQcwF8UUCdQ9XCyqATsxgwYRPtkIZEqZI0RpUzX08QZJO9UfsHZ7T2ny9N32vc/uM485dopoArQw6tWVAO3rTb9CGZgRGvwnwDxeIB12oABQ7lSAc6ziiz9tLL/kqDKZ0HYqWdfYX5Ykuryh/1Mm7mOjbuU5cAYlUWTdaJ3NBvySF9cnq4QU+KLSrd4tEnTGEYGoJfvvyePXYNRitO9wPvzdPpObUwp5EafkiJ0HYUdyRAIMnYciXlbDMxephkYx19vkCQfyHyGxmOfQyIkf4nk/3eR85+n64tYCzEmKWjifqdMzL/lOukwmjsFCdA1+AFX2zH+RSx4HA+AOlq/aDIZqVKE=;FaoHGW3NKVgHBsfjZ6nURg=="
 ---
 

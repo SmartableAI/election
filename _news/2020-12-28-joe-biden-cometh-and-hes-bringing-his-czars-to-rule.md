@@ -43,6 +43,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
+    excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
+    publishedDateTime: 2020-12-30T14:52:00Z
+    webUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
+  - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
+    excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
+    publishedDateTime: 2020-12-28T18:55:00Z
+    webUrl: "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 126
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106816660-1609177703757-gettyimages-1230000337-house_freedom468_120320.jpeg?v=1609177793"
+        width: 4829
+        height: 3220
+        isCached: true
   - title: "The Memo: Left seeks leverage to move Biden"
     excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
     publishedDateTime: 2020-12-28T11:00:00Z

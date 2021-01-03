@@ -73,6 +73,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
+    excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
+    publishedDateTime: 2021-01-03T03:37:00Z
+    webUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
+    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/joe-jill-biden.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
     excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
     publishedDateTime: 2020-12-29T22:29:00Z

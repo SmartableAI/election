@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
-excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
-publishedDateTime: 2020-12-31T00:00:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
-webUrl: "https://www.statesman.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
-ampWebUrl: "https://amp.statesman.com/amp/4100416001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4100416001"
+title: "A federal appeals court shot down a GOP lawmaker's lawsuit against Mike Pence seeking to overturn the 2020 election"
+excerpt: "Rep. Louie Gohmert's last-ditch legal effort asked the judges to empower Pence to overturn the election results and declare Trump the winner."
+publishedDateTime: 2021-01-03T03:51:00Z
+originalUrl: "https://www.businessinsider.com/federal-appeals-court-dismisses-gohmert-lawsuit-against-pence-2021-1"
+webUrl: "https://www.businessinsider.com/federal-appeals-court-dismisses-gohmert-lawsuit-against-pence-2021-1"
+ampWebUrl: "https://www.businessinsider.com/federal-appeals-court-dismisses-gohmert-lawsuit-against-pence-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/federal-appeals-court-dismisses-gohmert-lawsuit-against-pence-2021-1?amp"
 type: article
-quality: 82
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+  - url: "https://i.insider.com/5fdc7852c910a400192e83f0?width=1200&format=jpeg"
     width: 1200
-    height: 675
+    height: 600
     isCached: true
 
 related:
@@ -86,22 +90,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "A federal appeals court shot down a GOP lawmaker's lawsuit against Mike Pence seeking to overturn the 2020 election"
-    excerpt: "Rep. Louie Gohmert's last-ditch legal effort asked the judges to empower Pence to overturn the election results and declare Trump the winner."
-    publishedDateTime: 2021-01-03T03:51:00Z
-    webUrl: "https://www.businessinsider.com/federal-appeals-court-dismisses-gohmert-lawsuit-against-pence-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/federal-appeals-court-dismisses-gohmert-lawsuit-against-pence-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/federal-appeals-court-dismisses-gohmert-lawsuit-against-pence-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/5fdc7852c910a400192e83f0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
     excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
     publishedDateTime: 2020-12-28T18:42:00Z
@@ -149,6 +137,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
+    excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
+    publishedDateTime: 2020-12-31T00:00:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
+    ampWebUrl: "https://amp.statesman.com/amp/4100416001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4100416001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
     excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
@@ -257,6 +261,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Qc17dGpxbxbrA4tQXOSHGNzQMh3fjtcTniNL14l/8rjjfIf3whyE8PcCGc4YXRRQWpeGvfM2o8MQlUrToh2kfGbtVl7jk625I3WrXrOMoFdtJXH1gKPa4+ICq7xb7crypnOWyrjCcP4HkQitK1184Urntljh1yMnkr21YBvELCyo49zm7BDivAeZ1EWKY3NmlV7WQWhGpqesHIYVaWlM7SayhRbrIWxdzpe3b44UzcVoNCJrCoYk6XeL9KP/OqnU/5hkR/Cx2xo57m+OpFIT7HeokukKY9Z0kz4v1/EPM8VVzwzRY9UsWarv+i50vL/J9olFu9aSsDr0hJf06Q7DkHQW9rUQCAdcO7XM3NQwuMP5gH8x4LSo+9XeEIJZ6h0G17Sv24u4K4YpmGaWiIL+dW7oqTFOaXAcQlIE4F0vN5YTUTuGr4y9TILNBPggftgHJuRao9UXltxp6U09R/L2QU5Qax0ZcyyLlz2m6Al1oj/UFgNn2vxCT9ivulUOWGA7cbdmo8N5sBt1LJyqzRcqFQ==;Iz7Et82OxQvchkIx2wf12g=="
+secured: "yYKfMZ0MYkHU/aWjtTPL/hN/JBthqhkvktr0vNoiLI76DjAYzrjyNVIxCu/rX3g/Q491shoyB18zHWa0/NgAbYyiURsvBt5rAxuLa4iQ42YXI3QwSO0/fS9lS5zgkHOXYn1Q4Ccmzy/Sh3hRIzNypwQGHozzl5/rNH1eQmPPL6nWtZUVcmp9MffRKSWw2PtZJFrul89CzI9gL9+7YBLwMgGZ62BzyuXHd33VK7bs+vudX8e4OYThq4nuJ4Ttuiypm7x2REwPY3BSRRmKIGqHIZwfB2cbKiXCMclvd0j6guk5yaNXb211joOu6Y9ioyi2CVwH8lMQBkywUZdC9T0/L2IFSe2n2hKq+ro6hNKknnc=;BE1n9vedGvfSu2bl9WjtwQ=="
 ---
 

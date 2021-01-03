@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-26-the-memo-could-pence-run-and-win-in-2024.md",
+      "title": "The Memo: Could Pence run and win in 2024?",
+      "excerpt": "Vice President Mike Pence is in the top class of 2024 GOP contenders as the Trump era nears its end.The firm expectation across the Republican Party is that Pence will be a candidate in 2024, unless Trump runs again.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024",
+      "originalUrl": "https://thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_121120getty_memo.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024?amp",
+      "publishedDateTime": "2020-12-25T15:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-squad-introduces-bill-for-2000-stimulus-checks-backed-by-trump.md",
+      "title": "'Squad' introduces bill for $2,000 stimulus checks backed by Trump",
+      "excerpt": "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
+      "publishedDateTime": "2020-12-25T09:38:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-americans-suffer-at-christmas-while-trump-golfs-and-sows-chaos.md",
       "title": "Americans suffer at Christmas while Trump golfs and sows chaos",
       "excerpt": "For Christmas this year, Washington is giving the country more pain.\n    \n",
@@ -1254,110 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-bashes-dems-extreme-left-wing-agenda-then-pushes-for-2000-cash-payments-something-opposed-by-conservatives-its-confusing.md",
-      "title": "Trump bashes Dems’ ‘extreme left-wing agenda,’ then pushes for $2,000 cash payments, something opposed by conservatives. It’s confusing.",
-      "excerpt": "President Donald Trump stood in the White House’s Diplomatic Reception Room, holiday garland and gleaming ornaments draped on the fireplace behind him, and spoke into the camera not to deliver warm Christmas wishes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/NIqwUIY1cAamOKhxJynugtGG97Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5CQXMI33ZVBUVOCTSVDKV6ZN4Y",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-23T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-egregious-and-disgusting-trumps-pardon-of-blackwater-contractors-sparks-outrage-warnings.md",
-      "title": "'Egregious and disgusting': Trump's pardon of Blackwater contractors sparks outrage, warnings",
-      "excerpt": "Blackwater contractors convicted of killing 14 Iraqi civilians could jeopardize the safety of American military personnel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/6fc81074669057475a44043318ad93911be424c2/c=0-192-3200-1997/local/-/media/USATODAY/USATODAY/2014/06/29/1404096296000-AP-Blackwater-Trial.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4023126001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4023126001",
-      "publishedDateTime": "2020-12-23T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump, House Republicans held call to discuss Electoral College rejection: Brooks"
+    excerpt: "House Republicans held a rare Saturday night conference call to address their goal of overturning the Electoral College results on Wednesday, U.S. Rep. Mo Brooks, R-Ala., told Fox News."
+    publishedDateTime: 2021-01-03T02:53:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2vgP48AqhFs/gop-splits-electoral-college-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
     excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
     publishedDateTime: 2020-12-25T00:10:09Z
