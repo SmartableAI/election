@@ -8232,6 +8232,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "GOP Torn Over Trump's Electoral College Challenge of Biden"
+    excerpt: "President Donald Trump’s extraordinary election challenge over his defeat by President-elect Joe Biden is splitting the Republican Party."
+    publishedDateTime: 2021-01-03T10:41:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Kamala Harris was out on a jog when Joe Biden was declared president-elect"
     excerpt: "When Joe Biden was declared the winner of the 2020 presidential election by news networks Saturday morning, his running mate Sen. Kamala Harris was out on a jog with her husband Douglas Emhoff. Fox News' Biden campaign correspondent Peter Doocy reported on-air that Harris and Emhoff were jogging near the Biden campaign's headquarters in Wilmington,"
     publishedDateTime: 2020-11-07T22:14:00Z

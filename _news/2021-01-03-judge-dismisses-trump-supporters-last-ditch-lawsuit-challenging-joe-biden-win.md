@@ -351,7 +351,7 @@ related:
   - title: "How Joe Biden Should Handle White House Infighting"
     excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
     publishedDateTime: 2021-01-02T10:01:00Z
-    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
     ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
     type: article

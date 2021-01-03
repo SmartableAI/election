@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Iran's foreign minister urges Trump to avoid Israel \"trap\" to provoke war"
+title: "Iran's foreign minister urges Trump to avoid Israel 'trap' to provoke war"
 excerpt: "Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by an alleged Israeli plan to provoke a war through attacks on U.S. forces in Iraq."
-publishedDateTime: 2021-01-02T16:02:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUSKBN2970FP"
-webUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUSKBN2970FP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2970FP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2970FP"
+publishedDateTime: 2021-01-03T08:00:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP"
+webUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2970FP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2970FP"
 type: article
 quality: 124
 heat: 184
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546415921&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0106N"
-    width: 817
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546421573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0109Y"
+    width: 818
     height: 545
     isCached: true
 
@@ -76,6 +76,6 @@ related:
         height: 682
         isCached: true
 
-secured: "CBiIwXhNhaYgQWYOa818PrwaAY9QmDMklaaAyAfSMwO23lxW/eVpOttXHAAVErFWTya4/Pu5PETuxgdQIJjIgnKvIxHj48m1RgzbTMtEr3z2loCfbeGTQT0lDJIso65M6EUWRHrIGnyVk5pR6kBHo2E4b6eQyuOCIfrLzuW2C/rb7StQmp9L+vbs+EXxFgiwgy0iX9rPx9eA6GLwKWwlcuRL+LxnQmv/NhTbj0tvZzsZ2gNKSYAQ/bDgrZ2KpyKYdz3XwXZ3at5x5TkaqIUtWb+8KRMHCxeay7QU5oVxx3IVxnSMeK29Ss34+8fPWw+soWGmjXJTtFeEu9a0C+lch/cNzuOacEn+mNLU+rN/P1M=;mzmtQ4h+wf98k6sVnkaptg=="
+secured: "H7EHeZZ9Xhkp+3v2M+53SVtBM6Ih7jxcnQiC7GaROAFR37w03h3Xi4UJStBvyJJF7GCpawyU0wAozLd2fbA9g/xjvH1jnYj4eUeMV0pimbRJe+foycDxtbaUp/HSYXg8AptNjSWJCuBQZ6X7UXVjJLmPG8ptxyu53A7jtWDSa1kYZupLvVLSRlDGT8qzSlUFIZi9RcMycZPcZg6Cxn96hR0N3UBzTPA9UWY06oJm7qJNkhZ+CCK390f9IKztAnlbz2yyGpx8HMujWF47QeklOLdSb6Ity4A1KHLfwZmfSBJSZziLxENm/KGJ7YILHcUVzZNi0Iu31pbiSxMCIpxAjYHYeYET/aQs35kJmDQo9OU=;5Gdtf9Ef0mitD4rwVMJAPw=="
 ---
 

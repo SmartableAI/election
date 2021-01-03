@@ -29,20 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Iran's foreign minister urges Trump to avoid Israel \"trap\" to provoke war"
+  - title: "Iran's foreign minister urges Trump to avoid Israel 'trap' to provoke war"
     excerpt: "Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by an alleged Israeli plan to provoke a war through attacks on U.S. forces in Iraq."
-    publishedDateTime: 2021-01-02T16:02:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUSKBN2970FP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2970FP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2970FP"
+    publishedDateTime: 2021-01-03T08:00:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2970FP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2970FP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 124
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546415921&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0106N"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546421573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0109Y"
+        width: 818
         height: 545
         isCached: true
   - title: "Convicted spy Jonathan Pollard arrives in Israel in latest Trump parting gift"

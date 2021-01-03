@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Can Kamala Harris as vice-president be both loyal deputy and heir apparent?"
+    excerpt: "Harris says her model will be Biden’s role as veep to Obama but the president-elect’s age means speculation about an elevation to the Oval Office is intense"
+    publishedDateTime: 2021-01-03T09:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/03/kamala-harris-vice-president-role-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/kamala-harris-vice-president-role-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/kamala-harris-vice-president-role-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/a249a2739f4a9d0398cf4e865cc5e773e044a963/0_145_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b9361eab2813c47c5cc31096143736c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
     excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
     publishedDateTime: 2020-11-23T12:09:00Z
