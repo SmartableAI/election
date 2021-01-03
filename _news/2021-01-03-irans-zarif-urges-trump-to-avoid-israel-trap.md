@@ -3,8 +3,8 @@ category: news
 title: "Iran's Zarif urges Trump to avoid Israel 'trap'"
 excerpt: "World Iran's Zarif urges Trump to avoid Israel 'trap' Posted . Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by a"
 publishedDateTime: 2021-01-02T19:35:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVDTINZAJ"
-webUrl: "https://www.reuters.com/video/watch/idOVDTINZAJ"
+originalUrl: "https://www.reuters.com/video/watch/irans-zarif-urges-trump-to-avoid-israel-id723681575?chan=8gwsyvzx"
+webUrl: "https://www.reuters.com/video/watch/irans-zarif-urges-trump-to-avoid-israel-id723681575?chan=8gwsyvzx"
 type: article
 quality: 105
 heat: -1
@@ -76,6 +76,6 @@ related:
         height: 682
         isCached: true
 
-secured: "pb6eH+gmRRN5Ujvj9SE/LOSZvf5RJT6hXPj4tUZl8FcJBlFCgCewYzTSgVqsnZIx/uZ4dn03HKkOOCPizQZrR0ZRve2Ka+8EHZn55vCkjGTXynA/DO1tTBslG5+j6vdPPOyCy0v46bZvU0jvNYYig6qmNZOrC6zm/Ky4fV+K6Ga7int5wc0C/hEQkeu9C20KY9Ndau2DVyHoRlpepAYP3+G14Z1NkSo6CwD+W/02TQir6QtD/Ba6Dow8+oLBxK7a65gr829/iJ2QbQRX8VDbJD2/NHIzGtj+ESottvjO1pUk88JKc9L6wlRYyB3LqTgDVoxn5hT0NmZd3tLwwSLgiCrrsR0L19Fk40pMiOaPxSnjlFM8+eQDVJ7Syl/I6NUjgFv1q3EDjgt/rdNVmOEa6Ff530UK5UMOwE6kJolABElfq4VUgc2pfEIIpK9xzY9oIFC88BI7fxq7OtSQw6iqTe78Y4SdeL79CJrrbTiGQYKykxA0P8sERbtjCxPtWENF9ERnf5gEiET0ChiOMCnf2Q==;SeeMOhjaapxo0R/B3rHM8A=="
+secured: "7cc+U5vBjXAQdpPLjXBk1Eookz7kgRJ1SyP5E4+RhDmOQQN/iHiFbHKC24JGCKERAOgiwu4dxDpQqS8CuznngWbkO6sjyJG6zwSylEgU7lQv+0Vz2vR+MUsY48WLPsXJoj38VYPMRFDGNhMpxi6dYl/5cYaaTSmGBA26+fUsVatSBofu28aVhdGAOkS8lDezW1U6dFoFIt4RUr8LBfOFw9Tx3gULhEboqSkM+19qDNYPCOZw+I61sC6xaBhGJ+psTOFIB1ARiJYxlsIDvGiw7j2O5IyS4itbHztDprKOwNRjsB7SRCs1bfKNtigk3ES/niGxeOzPxTasA2wx6DoV0tJXKVxzqhPkdlUJ1gQjXbo=;VlBj7jacyQN24YPAhewXoQ=="
 ---
 

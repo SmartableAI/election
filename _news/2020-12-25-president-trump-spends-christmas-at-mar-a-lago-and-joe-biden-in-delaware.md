@@ -273,6 +273,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Judge dismisses Trump supporters’ last-ditch lawsuit challenging Joe Biden win"
+    excerpt: "A federal appeals court has tossed a lawsuit filed by a group of Republicans in a last-ditch effort to challenge President-elect Joe Biden’s win. The U.S. Court of Appeals for the Fifth"
+    publishedDateTime: 2021-01-03T05:02:00Z
+    webUrl: "https://nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/"
+    ampWebUrl: "https://nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
     excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"
     publishedDateTime: 2020-12-29T23:07:00Z

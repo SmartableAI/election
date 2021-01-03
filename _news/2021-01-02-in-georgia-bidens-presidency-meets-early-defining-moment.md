@@ -1,34 +1,28 @@
 ---
 category: news
 title: "In Georgia, Biden's presidency meets early defining moment"
-excerpt: "President-elect Joe Biden and his allies desperately want Democrats Jon Ossoff and Raphael Warnock to prevail in twin Georgia runoffs Tuesday that will determine which party controls the U.S. Senate"
-publishedDateTime: 2021-01-02T06:00:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
+excerpt: "Usually it's a president's first midterm election that reorders a White House's political approach and priorities. For President-elect Joe Biden, his most defining congressional election is coming before he takes office."
+publishedDateTime: 2021-01-02T09:38:00Z
+originalUrl: "https://www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1"
+webUrl: "https://www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1"
+ampWebUrl: "https://www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_a9ade46cdd174d1ebecf2812c040b84d_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Election 2020 Today: Pence to Georgia, Biden’s climate team"
@@ -1494,6 +1488,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "q9OLQ2nvSQswCTFT8BO3GJNQbHA7pRY1jJUDyy18WoH2YeD0XYzlKsLZvwFVdgwgSLiuKlQKBTVop/3jaLOBeDHNdB1ybVJ9X5MVANuVNCDL8F97D0G67cLR0QbEROhciW3QX4wKNKs+zbFBDnnhMTqKn1lde2laDr/P+UrpA5ROuQmrKgEgF3rtZ60INDDT7ly6JFgId+B4Ef82cMdMGExS1IcVDNMZ6tLI1ghM9NydPtVUQagUafG8VJuRCEOdDvvnKDyhK5JQVOZbyic/ytSShN4bxSPFBq4mlxaC2NgfCnqWI2rZPql5X58z2sz1ZFbz/7mDxB2LyEK3TsdvE9CsNEbgrms5bUVLOpyrBEXpRRYsdRSGa6dYNVJ2Rj4iTO4FT9qCEmTwwoP+Kzg7MUVPLBzuyq+BlW8JE4U6xsLUi5ZAyzH9bmRF+pav7QLgUT2Bj88KS8LTkzz8e9e/q5K+/AitpuSimXvF+QJYa48u6mOqQSyCkDzkK/nzAb1eSKx9pF+rg9tXwhfk9qIcWA==;0lX3ilORx8HhepUn2hOlhQ=="
+secured: "xtUbXuDZ+oGMY93KS+VfSZ4inxLhnffyPZsrPbv/B9Kiqef35ZoQKUVn00Zrrldu+yzmtqj7FovEPyn+9yfvnz8mZTnTiqNOUJdBFlRF9ufxcx3sFEvh6fWuoOD5W/FE5EaFAoDQeTzSsaBUE/iyzPIusmMa4FGGLb9KKO/R55PeAeD3O2ZsRCHnONsBuCE2oE/PD6R0Npzty2jJYD8GREZeUu0yDjHGUNdJMwAO0ECxogLvGQYd1t6nr9NMbpgIZZZKM9AkNkDxgwfhHPjlcRal+Jd2Wi+8lHKPxvamZZ7+964uRcun49QaffzufeQdbb5WRVrbulBms1Xstlbj4zwXcWLvnH6kFuhXw33vgCw=;229eFqCobPWtdEzSa9UfFg=="
 ---
 

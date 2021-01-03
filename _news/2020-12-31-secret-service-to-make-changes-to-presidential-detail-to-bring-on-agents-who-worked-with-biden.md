@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
+    excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
+    publishedDateTime: 2021-01-03T06:26:00Z
+    webUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
     excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
     publishedDateTime: 2020-12-30T20:32:00Z

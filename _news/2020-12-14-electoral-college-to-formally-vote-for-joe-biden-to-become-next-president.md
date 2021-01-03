@@ -797,22 +797,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "In Georgia, Biden's presidency meets early defining moment"
-    excerpt: "President-elect Joe Biden and his allies desperately want Democrats Jon Ossoff and Raphael Warnock to prevail in twin Georgia runoffs Tuesday that will determine which party controls the U.S. Senate"
-    publishedDateTime: 2021-01-02T06:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-bidens-presidency-meets-early-defining-moment-75010958"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a9ade46cdd174d1ebecf2812c040b84d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
     excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
     publishedDateTime: 2020-12-10T18:32:00Z
@@ -1317,6 +1301,17 @@ related:
         width: 1484
         height: 989
         isCached: true
+  - title: "In Georgia, Biden's presidency meets early defining moment"
+    excerpt: "Usually it's a president's first midterm election that reorders a White House's political approach and priorities. For President-elect Joe Biden, his most defining congressional election is coming before he takes office."
+    publishedDateTime: 2021-01-02T09:38:00Z
+    webUrl: "https://www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
     excerpt: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
     publishedDateTime: 2020-12-10T15:21:00Z

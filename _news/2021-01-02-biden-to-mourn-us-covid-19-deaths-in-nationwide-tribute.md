@@ -237,6 +237,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
+    excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
+    publishedDateTime: 2021-01-03T06:26:00Z
+    webUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
     excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
     publishedDateTime: 2020-12-31T00:37:00Z

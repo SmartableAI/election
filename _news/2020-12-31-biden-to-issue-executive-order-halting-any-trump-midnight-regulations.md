@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-issue-executive-order-midnigh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-issue-executive-order-midnight-regulations.amp"
 type: article
 quality: 190
-heat: 670
+heat: 690
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d6934e-888e-4c80-bebb-6e4080d7717b/258bf19a-907d-4926-808b-b6a92ab955f3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Judge dismisses Trump supporters’ last-ditch lawsuit challenging Joe Biden win"
+    excerpt: "A federal appeals court has tossed a lawsuit filed by a group of Republicans in a last-ditch effort to challenge President-elect Joe Biden’s win. The U.S. Court of Appeals for the Fifth"
+    publishedDateTime: 2021-01-03T05:02:00Z
+    webUrl: "https://nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/"
+    ampWebUrl: "https://nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
     excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"
