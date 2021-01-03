@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
+      "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
+      "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUCAGLB7IAI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-biden-pushes-back-against-critics-touts-cabinet-of-firsts.md",
       "title": "Biden pushes back against critics, touts 'Cabinet of firsts'",
       "excerpt": "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination.",
@@ -1273,63 +1325,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-fauci-recommends-trump-and-pence-get-vaccinated-for-covid-19.md",
-      "title": "Fauci recommends Trump and Pence get vaccinated for Covid-19",
-      "excerpt": "Dr. Anthony Fauci would recommend that both President Donald Trump and Vice President Mike Pence receive the Covid-19 vaccine, which has been approved for emergency use authorization and is being rolled out nationwide.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 580,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094331-01-trump-pence-0928-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
-      "publishedDateTime": "2020-12-15T06:31:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

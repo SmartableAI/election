@@ -34,16 +34,21 @@ related:
   - title: "Biden Must Appoint Secretary of Racial Justice to Cabinet"
     excerpt: "With President-elect Joe Biden positioned to take office this upcoming January, he has a chance to rewrite history by rebuilding a new type of justice in America The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed,"
     publishedDateTime: 2021-01-03T13:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/03/biden_must_appoint_secretary_of_racial_justice_to_cabinet_532558.html"
+    webUrl: "https://www.realclearpolitics.com/2021/01/03/biden_must_appoint_secretary_of_racial_justice_to_cabinet_532558.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/530958_5_.jpg"
+        width: 750
+        height: 517
+        isCached: true
   - title: "Hunter Biden's Guilty Laptop"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-03T13:05:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/31/hunter_bidens_guilty_laptop_532448.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/12/31/hunter_bidens_guilty_laptop_532448.html"
     type: article
     provider:
       name: RealClearPolitics

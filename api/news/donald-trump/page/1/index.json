@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-04-us-surgeon-general-says-he-has-no-reason-to-doubt-the-350000-covid-19-death-toll-in-the-us-after-trump-baselessly-questioned-its-accuracy.md",
+      "title": "US Surgeon General says he has 'no reason to doubt' the 350,000 COVID-19 death toll in the US after Trump baselessly questioned its accuracy",
+      "excerpt": "Surgeon General Jerome Adams on Sunday joined Dr. Anthony Fauci in defending CDC data, which Trump baselessly claimed was \"far exaggerated.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
+      "originalUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff201de9ff41f001883fb06?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
+      "publishedDateTime": "2021-01-03T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-president-trump-rails-against-media-coverage-of-fauci-he-works-for-me.md",
       "title": "President Trump rails against media coverage of Fauci: ‘He works for me’",
       "excerpt": "President Trump on Sunday griped that the news media is giving Dr. Anthony Fauci credit for the coronavirus response that he deserves.",
@@ -1378,7 +1430,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55292610",
       "featuredContent": null,
       "highlight": null,
-      "heat": 500,
+      "heat": 520,
       "tags": null,
       "images": [
         {
@@ -1528,63 +1580,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-loeffler-perdue-side-with-trump-on-2000-stimulus-payments.md",
-      "title": "Loeffler, Perdue side with Trump on $2,000 stimulus payments",
-      "excerpt": "The Georgia senators, in close runoff races, wouldn’t say whether they’d vote to override the president’s veto of the defense bill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "originalUrl": "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "publishedDateTime": "2020-12-29T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

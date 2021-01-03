@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55517626"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55517626"
 type: article
 quality: 155
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DI2JVISLTMI6XF5WJ247OL7UNM.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "Trump Retweets Claim GOP Senator Pat Toomey 'Complicit in' Massive Election Fraud"
+    excerpt: "The Pennsylvania senator on Saturday criticized his Republican colleagues' plans to challenge President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-03T18:40:00Z
+    webUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584"
+    ampWebUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1696945/donald-trump-2020-election-white-house.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
     excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
@@ -420,6 +436,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3+7R3VNhfoooSmeSBsdsFp6ZLGL1wHLgRoX0KzjGWM9o2ljmhfBxqnnMiJjrqUZgoFGERoiS7TWPUHcVSzHd2GcmPe5YidPCSCODyAITSi3iXdrXGAqXFh5wS/IrfrOeX4Z36l4E719JpgBtBLq2X3SLVYyo/yjuX/sCraNT9IR2gbyhhGWjajJ0V+Yf2Ggi2VYeYLGYBMi/PfPUoAH/VxO4/HLrSeoNjo+Z4LAkA/XVF8ouwwxBHMuuMq+JXiyQQ49TfP14XCXh+FIIVALcGFgQLisPwBoLfJt2Ymvlplia9Pd6sMHR0SGNSx3Jt0Tz4Qlpo0cYD/yCIXXlz+Ucxa0N1DqimQyE0WitRgIXhFM=;nQDlxSHqWA3e6JS53os6SA=="
+secured: "G4SjQOB5eQgQCVL81zoUmgelim7wLFN7seFInVr1+qN2V9K4yU2nZ02524cMXVvZlVkj/soh/DLlhpAqq/r1cirkIv/XGlk4bmqr1fJou/R8cUao5Mq4EwkScTkDT0xFwHzMH3j7FNB2rIJyMg5QhYJ/AasbsxEGujRHtT+mTeVppz1eJJ3+JxY1rZf+tFVzKNAgq9o16Y1O693cm8i63HCbOa3+defxCeypIim6ISlhBDMEl3NAVw32WxVYsRLvbqSqv+jrvO14Aa6jpEOwEVLFtoocIXOEiS0HHt1tDx5cnUCZRQ91ZHY4VCpORSjTBHQVSVnN+Tnz0n1byDLVOQQnFUMgss7ZBCAxUt8QqA85bi2xwqFVFH9aippyloC0AcxSQf9tuKHMB2yqXqWi9yYMb0+aoasWhtunAHeH8h50l3BYpcw8Au6iBg6TqSKyI/6AiZuLrlRJ9CAzeFELF2ayHBab+hrrhmxQyvGNpvxTwHaH7yc2ajHzCuUS5P6p4GMqcGZgccSxYgTL6PSyRg==;O7/OPtDV4UFG0lOEKGOR9A=="
 ---
 

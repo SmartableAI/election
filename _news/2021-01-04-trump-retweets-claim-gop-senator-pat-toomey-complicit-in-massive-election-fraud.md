@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Republican senator says he will challenge Biden victory in Congress"
-excerpt: "Republican Senator Josh Hawley on Wednesday pledged to challenge Democrat President-elect Joe Biden's victory when Congress convenes to officially tally the electoral votes, which could trigger a lengthy debate in the Senate but has virtually no chance of overturning"
-publishedDateTime: 2020-12-30T19:33:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-senate-idUSKBN29424P"
-webUrl: "https://www.reuters.com/article/us-usa-election-senate-idUSKBN29424P"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29424P"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29424P"
+title: "Trump Retweets Claim GOP Senator Pat Toomey 'Complicit in' Massive Election Fraud"
+excerpt: "The Pennsylvania senator on Saturday criticized his Republican colleagues' plans to challenge President-elect Joe Biden's victory."
+publishedDateTime: 2021-01-03T18:40:00Z
+originalUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584"
+webUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584"
+ampWebUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
 type: article
-quality: 125
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT18H"
-    width: 703
-    height: 545
+  - url: "https://d.newsweek.com/en/full/1696945/donald-trump-2020-election-white-house.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -143,22 +143,6 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Trump Retweets Claim GOP Senator Pat Toomey 'Complicit in' Massive Election Fraud"
-    excerpt: "The Pennsylvania senator on Saturday criticized his Republican colleagues' plans to challenge President-elect Joe Biden's victory."
-    publishedDateTime: 2021-01-03T18:40:00Z
-    webUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584"
-    ampWebUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 135
-    images:
-      - url: "https://d.newsweek.com/en/full/1696945/donald-trump-2020-election-white-house.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
     excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
     publishedDateTime: 2020-12-28T18:55:00Z
@@ -174,6 +158,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106816660-1609177703757-gettyimages-1230000337-house_freedom468_120320.jpeg?v=1609177793"
         width: 4829
         height: 3220
+        isCached: true
+  - title: "Republican senator says he will challenge Biden victory in Congress"
+    excerpt: "Republican Senator Josh Hawley on Wednesday pledged to challenge Democrat President-elect Joe Biden's victory when Congress convenes to officially tally the electoral votes, which could trigger a lengthy debate in the Senate but has virtually no chance of overturning"
+    publishedDateTime: 2020-12-30T19:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-senate-idUSKBN29424P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29424P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29424P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT18H"
+        width: 703
+        height: 545
         isCached: true
   - title: "Pence seeks dismissal of suit aiming to overturn election"
     excerpt: "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presidential election won by Joe Biden when Congress formally counts the Electoral College votes next week."
@@ -436,6 +436,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fjNTyDZyXbSCTZvtcel3GYuaf6jnYIMUGUPK/4Su/IU0cgp6xtnryFxjWsx+SQAOXPFa0bbQaD6kQS5myEpuZdCRQ6nvz6zSKLvdPSTkHVQ4AhshBj8l7pEd3E4aKcNC6VcRa25FJe7CPzvc7v2W02/Zvwmfw09vx60UDKdqnWi4xM6rOpaBLwyRJrz5ZETk2EuXdKz+/26umk+gwD2KW8qLZ371td6/kvL9n54+XCoLbgLTdLH9hIGWfxivVNllZ97JdGYoeTuaEl0B/Iyr6eLqHQZPdRp1y3scOGxRHkYCxdcFPgS2zXZdmRp6pwqo2DqXyPSqbWhXo+/qJu/7oqTLQ+P2VIafrLsnzEuXtdYC/JC77U+fvAWjnIXTbQiEGDVkk3p+2a6zzppuKP6owpR9zqpRD3dmPAtOLsNNiyBlJUcDXWJQaG/c7VmCHltIduXIKJAhkPpGRFbFFdZdmiFORyMGHbOYvXRBqKXDLm6FYMQtcsOClkRjyCchTsdKg6L6VYYrrt+GtxtgHe8mTQ==;wkCc/M9g5YFik9U5Sf+mwQ=="
+secured: "Eawby4OULNc/mk2CHwLTLpyAYbIEn0Abmo1h26r5NduE8SLiKmAb/P4yvvmtYm2RdbWfxW5MetFdmRbXae3aL5MhW4FYnei8YOjFLniHlK8eWX6RKotmTEnylc0XXTM9K2X48iHVJgJA/5ctkq+8I7SC3bvRgPR5zKbJZHsPVQ+x3uUqoYkP+Dwq6yA4Iy+zh2X0NCX9aDEtpjvc98O9y7gJdAyfgMvK9J6PL1G2iBgrrzCCWi8meVIIja7w0YoyGCPqxlynBuZnakInMOtgZ3Mr5wVY6anuJgmnldsriA06edKyH1vDp81s4BSzITzOWMgfshZX4bm+HxPVZ0JCT6ayPpHtyOYl4VbKAcouqhY=;RuqjHPI/EjYV4o0bpfwdTw=="
 ---
 

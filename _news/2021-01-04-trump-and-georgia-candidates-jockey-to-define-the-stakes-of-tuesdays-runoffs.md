@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Fact-checking Trump campaign ad implying fraud in Georgia"
-excerpt: "A week before Congress is set to certify former Vice President Joe Biden's victory in the 2020 presidential election, President Donald Trump and his allies are continuing to cry fraud.\n    \n"
-publishedDateTime: 2020-12-31T22:43:38Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PrH1N_c6o64/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PrH1N_c6o64/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
+title: "Trump and Georgia candidates jockey to define the stakes of Tuesday’s runoffs"
+excerpt: "A last-minute scramble for messaging takes place ahead of a presidential rally and an election that will determine which party controls the Senate."
+publishedDateTime: 2021-01-03T18:07:00Z
+originalUrl: "https://www.politico.com/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
+webUrl: "https://www.politico.com/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
+ampWebUrl: "https://www.politico.com/amp/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
 type: article
-quality: 175
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107222839-fulton-county-ballot-counting-1106-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/7b/4f/c48d4f654e9f97c3093e597da74d/20210103-kellyloeffler-gty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -95,21 +96,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Georgia candidates jockey to define the stakes of Tuesday’s runoffs"
-    excerpt: "A last-minute scramble for messaging takes place ahead of a presidential rally and an election that will determine which party controls the Senate."
-    publishedDateTime: 2021-01-03T18:07:00Z
-    webUrl: "https://www.politico.com/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
+  - title: "Fact-checking Trump campaign ad implying fraud in Georgia"
+    excerpt: "A week before Congress is set to certify former Vice President Joe Biden's victory in the 2020 presidential election, President Donald Trump and his allies are continuing to cry fraud.\n    \n"
+    publishedDateTime: 2020-12-31T22:43:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PrH1N_c6o64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 132
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/7b/4f/c48d4f654e9f97c3093e597da74d/20210103-kellyloeffler-gty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107222839-fulton-county-ballot-counting-1106-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump throws grenades into high-stakes Georgia Senate runoffs in final stretch"
     excerpt: "More uncertainty was added on Saturday after 11 Republican senators announced they would reject electors from certain states unless a commission is established to investigate the election results."
@@ -142,6 +143,6 @@ related:
         height: 773
         isCached: true
 
-secured: "YyCYlZB+PXag/cyYWxI5h/G5vPGm+dEaaYwPiJwaRt41nwqx+9Z0iNbEgs9AKySvpPC3OHdQg2nhJtQZs5DY7Ms17v1Q2souhvk7WHFR3aGvryo1zvSLO0GmvSD3PTgqpjkQQOQPcJrJ8USKxhK0I0FFaIsKa3SP5QkyTa0D3Mfu9Os5Lrg0GJiAslrDC5Z+kEkkuhcS00XmXy/nVdOBswIOe5uUFc231HhLE8ebvkE0IvxBWBif9FWnpwKpZ5Bzmy75YaBzT21rWjGu8iVvKxvl8CE8ke5hO+358fOvAKdfj7OghFgAQZpnELK6wRbG3GxrHILh5ysnJdNmut876SEzS6EDMPwlpc/4u/0sC44=;hOa2m+nTIw3uwYjxYJCZeA=="
+secured: "xM8TaM7BGplPmFvI31ACkjA2uYSooK/JyWSJziTihCXlUnpPzjJPwtoiKjPYMVG7NcH5LGBl7v8q2HohfoElmUZ8HUE/iQer99fyPn1ui5cE+VpwfISa6N+rZd/Tj4N1UxWr6ipn4oa+QjPl6yM2WByni9oXGv+0CuN8sQJ6QVHD0iHWuan4jMPamVTMa32sjuM+ykXu5dBp/keu4wHC8Xw4TGjS0vfBFNXSvtfc273DsunJ2CtbheqGvD8oxtxtDtojMfPx6sf0zSk8XjFBAlCuZWcsgwbQHwi7Kx7dZUviQVWatQA0k2TGOC2jR9Obm2RiHKkIoD/yTvUk4ZRJwouDBDu7jYzuUfroG9mak8g=;JrIuoRMigFC+gnH7AiJBjQ=="
 ---
 

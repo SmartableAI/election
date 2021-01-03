@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-04-us-surgeon-general-says-he-has-no-reason-to-doubt-the-350000-covid-19-death-toll-in-the-us-after-trump-baselessly-questioned-its-accuracy.md",
+      "title": "US Surgeon General says he has 'no reason to doubt' the 350,000 COVID-19 death toll in the US after Trump baselessly questioned its accuracy",
+      "excerpt": "Surgeon General Jerome Adams on Sunday joined Dr. Anthony Fauci in defending CDC data, which Trump baselessly claimed was \"far exaggerated.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
+      "originalUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff201de9ff41f001883fb06?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
+      "publishedDateTime": "2021-01-03T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-biden-election-mike-pence-welcomes-senators-bid-to-derail-result.md",
       "title": "Biden election: Mike Pence 'welcomes' senators' bid to derail result",
       "excerpt": "President Mike Pence has welcomed an effort by a group of senators to refuse to certify Joe Biden's presidential election win. The 11 Republican senators and senators-elect, led by Ted Cruz, want a 10-day delay to audit unsubstantiated allegations of election fraud.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55517626",
       "featuredContent": null,
       "highlight": null,
-      "heat": 655,
+      "heat": 675,
       "tags": null,
       "images": [
         {
@@ -864,7 +916,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 428,
+      "heat": 448,
       "tags": null,
       "images": [
         {
@@ -1265,62 +1317,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-with-trump-a-no-show-mar-a-lago-guests-left-to-party-maskless-with-rudy-giuliani-and-vanilla-ice.md",
-      "title": "With Trump a no-show, Mar-a-Lago guests left to party maskless with Rudy Giuliani and Vanilla Ice",
-      "excerpt": "Guests who paid four-figures for tickets to President Donald Trump's annual New Year's Eve party were left to party with his personal attorney Rudy Giuliani, his two adult sons and various figures from the conservative media — none of whom wore masks — after the President made a last-minute decision",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WeKOwjj-DVo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WeKOwjj-DVo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/01/politics/mar-a-lago-new-years-eve/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/mar-a-lago-new-years-eve/index.html",
-      "publishedDateTime": "2021-01-01T10:46:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -200,6 +200,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes"
+    excerpt: "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call."
+    publishedDateTime: 2021-01-03T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "CORRECTED-Trump voices concern about trade deficit in call with Vietnam PM"
     excerpt: "U.S. President Donald Trump raised concern about his country's trade deficit with Vietnam in a phone call on Tuesday with its Prime Minister Nguyen Xuan Phuc, the White House said."
     publishedDateTime: 2020-12-23T10:03:00Z

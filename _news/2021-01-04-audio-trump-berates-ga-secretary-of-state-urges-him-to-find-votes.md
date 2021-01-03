@@ -1,22 +1,20 @@
 ---
 category: news
-title: "US Congress overrides Trump veto for first time"
-excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-publishedDateTime: 2021-01-03T06:06:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
+title: "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes"
+excerpt: "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call."
+publishedDateTime: 2021-01-03T18:16:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-    width: 1024
-    height: 576
+  - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+    width: 1484
+    height: 834
     isCached: true
 
 related:
@@ -78,6 +76,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545570453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM10K"
         width: 738
         height: 545
+        isCached: true
+  - title: "US Congress overrides Trump veto for first time"
+    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
+    publishedDateTime: 2021-01-03T06:06:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
     excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
@@ -200,20 +214,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes"
-    excerpt: "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call."
-    publishedDateTime: 2021-01-03T18:16:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "CORRECTED-Trump voices concern about trade deficit in call with Vietnam PM"
     excerpt: "U.S. President Donald Trump raised concern about his country's trade deficit with Vietnam in a phone call on Tuesday with its Prime Minister Nguyen Xuan Phuc, the White House said."
     publishedDateTime: 2020-12-23T10:03:00Z
@@ -317,6 +317,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "PKXA4MJPIfuABKYK6xfSHpi+clRIlnohLl94PHbof7QPa9UCtdaElSBzsn8H8Y997GRIex4jUlDRxvXQGNkt0+DpB70KU0yyB41sa3N+aNTgrHwbQ3Aycru7g/gCV4w98wxfY2SwW8xGJitSsXMnfvdTti3jyjrLRgisIWbtJrllwk3v1tXUuqB2elAubod5v711JG+g0y5s5MpZhyUxADtXqlPQaMeoQT2WeJ61m1/+Wp0CB2bdZT2MDOYbR8UZHHSkw8/fODdS4HMBskh54/uVaED4iggGcQOXZLCkH9F+yQAMhK1eYg22bdqXKWsUwnZDyIMPUa7cXH2Bt53EtZ6qOPyF5zpsSmkVHilAZIfy2yHm3UIIUHHoT6gOBOHkCCcaFWoGJbeczU1/rFOqIlPzDX1KoTG13gBRFtGrGdwoPN4q4GtViDl0dleFols3U6ZTXaIcOSZjIX6FX87y/4xkwens0RwayFPV+1/PW0JTBmy8qHqQQ4k4mgI0FHeGfwPoC9D8uB2jfz4nRjAbSw==;Z4z+4e0ylTt+C+wT6KPPWA=="
+secured: "Kad1V1bBECa6LzIAaFB3uZ9l+gg0fXLUvl2KX7qUXYr+kFNt2cNAJ9FwvBPustXJ47fif7AMeDvHJr74yAJJLpWuRv0BnVg86H/4X3C8JdETGVXuy8dItCyI2DrLUbh/DMVmWXzv1wD/GMHWAXAMucncZ3RDUMO5ntcSBTBJI0l8iQ9eAeGr/C8v5Kg9g3Y5wMAQYyml5gz/LknguySQU4wnXvxyn2J6urEiAiMo3bwOZWoevgHPxSE4nUvs90p1m9KpWSQAolc6GP1ofFaZ+1Nb6wT2H70Td+pWDLRaIxnMelmMlTmtOLpHb72SJwbxJaJ7Ky3TvD49oy4HKRrUHHPS9UwB4RTAk7FSo24RQOE=;bHTLeLww/7e4ze1zfM39Fw=="
 ---
 

@@ -210,6 +210,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes"
+    excerpt: "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call."
+    publishedDateTime: 2021-01-03T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters"
     excerpt: "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa"
     publishedDateTime: 2020-12-31T18:57:00Z

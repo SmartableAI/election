@@ -137,6 +137,22 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Trump Retweets Claim GOP Senator Pat Toomey 'Complicit in' Massive Election Fraud"
+    excerpt: "The Pennsylvania senator on Saturday criticized his Republican colleagues' plans to challenge President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-03T18:40:00Z
+    webUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584"
+    ampWebUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1696945/donald-trump-2020-election-white-house.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
     excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
     publishedDateTime: 2020-12-28T18:55:00Z

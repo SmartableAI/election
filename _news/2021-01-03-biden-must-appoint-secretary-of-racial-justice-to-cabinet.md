@@ -3,10 +3,10 @@ category: news
 title: "Biden Must Appoint Secretary of Racial Justice to Cabinet"
 excerpt: "With President-elect Joe Biden positioned to take office this upcoming January, he has a chance to rewrite history by rebuilding a new type of justice in America The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed,"
 publishedDateTime: 2021-01-03T13:26:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/03/biden_must_appoint_secretary_of_racial_justice_to_cabinet_532558.html"
-webUrl: "https://www.realclearpolitics.com/2021/01/03/biden_must_appoint_secretary_of_racial_justice_to_cabinet_532558.html"
+originalUrl: "https://www.realclearpolitics.com/2021/01/03/biden_must_appoint_secretary_of_racial_justice_to_cabinet_532558.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/01/03/biden_must_appoint_secretary_of_racial_justice_to_cabinet_532558.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/530958_5_.jpg"
+    width: 750
+    height: 517
+    isCached: true
 
 related:
   - title: "Biden campaign promises included decriminalizing HIV exposure"
@@ -39,13 +45,13 @@ related:
   - title: "Hunter Biden's Guilty Laptop"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-03T13:05:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/31/hunter_bidens_guilty_laptop_532448.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/12/31/hunter_bidens_guilty_laptop_532448.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
 
-secured: "9Uhxr/uUaVyqFkgdDhSuExodr6sv1DN5EPe9Hp0WHaHzKko7IXzzWeBLROe15tS8e1yZPmR4Pelof11BsLM2B5xSY9VKfZQjnDjDZMfgnhuo1CwaZHJIvQGTBp/qV8NmSIucL+gSHqvWhs54PBxZ213uVbJXnXXSWfmM0kMIdK17/GT3pP/FbckGRZfeIic/0u4MHXh9G0xEHnqK0S0fwOwNFRLfFgXqebrDcPlaWRwrVpDo1Y4QiDzmMAlCgiySPGJOZP/zBLNmxPjWmQ1Y2nN/TucRrCGB9tee3epZmY63AODQyK8OhFmPn10l6oKcCkaMCVmT4wMzULQ3Q//ofuGRqWKQU8kwHc6g40msMb8=;WjhFWmwirT7bJVzD5iYyDw=="
+secured: "pdiWTn3ZVQbNprWA6T3qkkIWxGe0B81ElWD7KkzhjClHrNSQiY1zN8+txm0vhZ+laAJXY6vyTNhrhGKQPJRzoVTCmBGZaWDbfmSGsoyhMAXsQ/5NPzsSWNmiOmLiDJaSt1MX0ST0K/K6Vz63JuTRHhzZXrYrLH99raVeYnjTUFBYYkoC7At2JHWDRRpKIVTL3+Cb0O7N5fvG4abKv4IUKmgi4fz/w+GzOaTBDaQIPdGYA5VfjnaWwFBDAm2JjIrELZNQ+hGXUgsdQIfcIZtSnqBmADugyQTAHJzY5MDndbVr/7jGE1QXYDAyhQv32o3G8jvMdPAp/14eLmw6Bpfxj0qh1K5fajWOLX16zgFR4Ag=;GJnk2X1AeCBEfDDIz+NBmA=="
 ---
 

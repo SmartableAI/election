@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Georgia candidates jockey to define the stakes of Tuesday’s runoffs"
+    excerpt: "A last-minute scramble for messaging takes place ahead of a presidential rally and an election that will determine which party controls the Senate."
+    publishedDateTime: 2021-01-03T18:07:00Z
+    webUrl: "https://www.politico.com/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/03/trump-georgia-stakes-tuesdays-runoffs-453901"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/7b/4f/c48d4f654e9f97c3093e597da74d/20210103-kellyloeffler-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump throws grenades into high-stakes Georgia Senate runoffs in final stretch"
     excerpt: "More uncertainty was added on Saturday after 11 Republican senators announced they would reject electors from certain states unless a commission is established to investigate the election results."
     publishedDateTime: 2021-01-02T23:57:00Z

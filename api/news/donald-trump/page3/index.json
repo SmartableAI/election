@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-24-george-clooney-on-the-midnight-sky-and-donald-trump.md",
+      "title": "George Clooney on ‘The Midnight Sky’ and Donald Trump",
+      "excerpt": "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
+      "publishedDateTime": "2020-12-23T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-milwaukee-county-spent-nearly-17-million-on-trump-recount.md",
       "title": "Milwaukee County spent nearly $1.7 million on Trump recount",
       "excerpt": "Newly released figures show that the presidential recount in Wisconsin’s Milwaukee County came in slightly under budget, at nearly $1.7 million",
@@ -1507,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-trump-administration-cuts-200m-in-health-care-funds-to-california-over-abortion-regulations.md",
-      "title": "Trump administration cuts $200M in health care funds to California over abortion regulations",
-      "excerpt": "The office of California Gov. Gavin Newsom criticized the Department of Health and Human Services' move as an ploy “to score cheap political points.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/17/USAT/c0d4457f-287a-47de-8e20-c14e47642a61-AP19180773998983.jpg?auto=webp&crop=2819,1586,x0,y412&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3936091001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001",
-      "publishedDateTime": "2020-12-16T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

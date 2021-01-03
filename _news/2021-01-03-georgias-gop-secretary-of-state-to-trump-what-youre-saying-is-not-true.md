@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump attacks No. 2 Senate Republican as the President turns on allies in his final days in office"
-excerpt: "President Donald Trump is spending his final days in office attacking leadership within his own party, this time the second-highest ranking Republican in the Senate, offering a possible preview of his broader post-presidential strategy to use his influence in the 2022 midterm elections and beyond.\n "
-publishedDateTime: 2021-01-01T20:05:17Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/671GJ0p1P5o/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/671GJ0p1P5o/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/donald-trump-thune-noem/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/donald-trump-thune-noem/index.html"
+title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
+excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
+publishedDateTime: 2021-01-03T17:19:48Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ckea81hJeXs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ckea81hJeXs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
 type: article
-quality: 161
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210101021739-donald-trump-1231-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
-    excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
-    publishedDateTime: 2021-01-03T17:19:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ckea81hJeXs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's inaction on stimulus bill leaves Georgia's GOP runoff candidates in awkward spot"
     excerpt: "President Donald Trump's waffling over the $900 billion Covid relief package, which he has yet to sign, is leaving his fellow Republicans in Georgia in a tough spot as they fight to maintain control of the US Senate.\n    \n"
     publishedDateTime: 2020-12-27T01:27:29Z
@@ -156,6 +140,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130161114-raffensperger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump attacks No. 2 Senate Republican as the President turns on allies in his final days in office"
+    excerpt: "President Donald Trump is spending his final days in office attacking leadership within his own party, this time the second-highest ranking Republican in the Senate, offering a possible preview of his broader post-presidential strategy to use his influence in the 2022 midterm elections and beyond.\n "
+    publishedDateTime: 2021-01-01T20:05:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/671GJ0p1P5o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/donald-trump-thune-noem/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/donald-trump-thune-noem/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210101021739-donald-trump-1231-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -238,6 +238,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vDXSOBg4gv9krlkxiM7mJi64l9JQdx7fdWxDgLz5Vq02Frt3nvTmc1qmaeBTMv89Bkhfhv8PYjW8YfeHe0meJNfLpMzp2cY24Hi+iuSkNAKgRiqD/cttnYvVik9MesZtKVKGYB9weW1Aq/4Y/8x1UnoN6CIDRoMb80TbkqOJ/ePsXNXiAxdDvb5FeKues0YgDkRPhhwKwKQi5gyKsY/pim2HcLEYSLWUx/NNgPbyW6llJ1D8N+QFa1avMtvlf96105ta4ndRMOl8BS1qVWU4jSeCJ+tIu4Qky2SVEHxwJGAfsflo5jIcwjp/hsPO+Z/xT+vWwbcH/MpCng0TtnAhHLyCa3qBQe2eRGWrORjGq/4=;YoJtrJb6kXzixnRL3ohcfw=="
+secured: "wSPJEI7JGAK1TmF3dm3uajtVk0Vt3UQW2Js0a/iqnRxVcZiep84jNVsK8PZQR4fxADG/wXdVN2Uv7Ydb6AEDxeQCZT4lxZJkv3/qPrUqCVjPw7cO1iIWGnLu8ye1az8NkQeCHVZeZTeV/nQbUllZH8LPlMSBGW3pn1xvB4qmGd089iRQzx0su52kpDtVSjIouRrMYrgSzABEyD+kWLzcEq/+82PALeRGEXQQTZ3MnSesde2+PqffZ/TW42bVbeJprsEcNpzCskINyDnSGly1IgSG6VaxeReTiJB+7AuCG7Wexw5EtIPOQDXwZg2DjdAFJ9ztRK99VVqIzftVUfZf2WNpn+Bf9LrgX6bMU1KiyU8=;XwN6p4ihXb9jNp6ePwi7zw=="
 ---
 
