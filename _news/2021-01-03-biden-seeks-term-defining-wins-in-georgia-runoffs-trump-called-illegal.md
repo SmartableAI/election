@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
-excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
-publishedDateTime: 2020-12-28T18:40:00Z
-originalUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
+excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
+publishedDateTime: 2021-01-02T17:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
+webUrl: "https://www.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
 type: article
-quality: 100
+quality: 139
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://i.guim.co.uk/img/media/8dc540bec1a7d9c55084a25600358e55896ed6d5/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f39a4b7b0d2576d3eff26f15ceada36"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -222,22 +222,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
-    excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
-    publishedDateTime: 2021-01-02T17:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/8dc540bec1a7d9c55084a25600358e55896ed6d5/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f39a4b7b0d2576d3eff26f15ceada36"
-        width: 600
-        height: 360
         isCached: true
   - title: "Trump-Biden transition live updates: Trump back at WH, Biden plans COVID memorial"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 20 days. Russ Vought, the current director of the Office of Management and Budget, struck back at President-elect Joe Biden's transition team one day after it leveled allegations that Trump's OMB was hindering the incoming team."
@@ -706,6 +690,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
     excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
     publishedDateTime: 2020-12-25T20:27:00Z
@@ -799,6 +799,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xqi/WcF1PlhGRefq5ue+woQ3yxgEZrGTpCbDOpD5K8c6MrhP34Wl/SePjkZO0KyDLKMUxjhzuE188TI0Y1C/leSmOcL5EqWBBXbWcWDfK5WlW/m/D0ZCs7xJtgd1wLIxJYh/cLnshFm1/LUZLDVlc7l5MPVUziOXxh6XsOBvmgPg9nwPNeBN5ZZ/srbBEqZ+DKsJuXG/QCdn1Rso2g9nfAh1XX3VACOTo2Le7zSv1G1mi6AB+IzelC8s/1StpmQZz6vfxA1pxlA9U3BPgAG9GqfxQjzReLXZDNSz41+d4P6wd/G1jNyOXHZZQ3nEky3QACZeCiUv7n2G3zVg4yAdhNgvk8VZgj0ouVpgn5GwKnA=;M+tLyiyvbPqwMtWOyHQz1A=="
+secured: "EWrj06oD8MPurXyU8hia9hdVgJQKe7eCTusvIfsom8g6Vq0SKHKLj0s2YJ696qO+OA7uLS2IX1nB4dZBQkn8N1yoV9jHpbmTKASh9Gs70wxkyrB6V9e9Rfq0Oumzw0IPJ6B9FaDNRSyz5pUv2K+ntmXbyfKYxDnEkpZcShTn9tawjetxKA2zJ/NN+h85s6bYGR+jCmINqwlYPUqWx/bJIyCwo3GAhelg/nD997He6KDBsQd6z2+vpVkrkVF6iuQ0wh0UK9Zr27Gl7LZ85J3sivNZ+muJDoVVgvi/p7Hgtk5/gMGpcMyS1uAztoW2CQEV9O7UM2InKhryQyX3WswtWPIqk83ftD5JjauTPORat7M=;RX5NcoUO9OODkI+uCYTqMA=="
 ---
 

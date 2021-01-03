@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-02/gohmert-pence-bide
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win?_amp=true"
 type: article
 quality: 138
-heat: 618
+heat: 638
 published: true
 
 provider:
@@ -407,6 +407,22 @@ related:
       - url: "https://www.courant.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
         width: 1200
         height: 741
+        isCached: true
+  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
+    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
+    publishedDateTime: 2021-01-02T23:43:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 50
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7fJJcuGgFW/rCLBadKYAO+PRR5+U6nY9w05EcTJAvHhZLR5EQEHHsHBmXB7MMjYW1YzSbfz16wclFPeVwEWZzhp7YhudkrBg4inZKayRBAlz+gPdChz32D4GV0jWfowuQ2KpmsCPibLgjU/mFR7pcmKhCVCTstMYqDALDy8Y/463Yi0Yw+eNPy5nEK09f8CM+RR9Mi9Uets/trYsdSsjgPCxCPSWnil0ZQ3l5lCB16AfWHeY4U8MLJwFhRIoGrNydQHe9ym1fN/TKPPECVldPcTcDCDhppWXN3++lowSSDnHX2WaPrQTbdLBkV++Z3V24E2zlSo1HSwHIkaqO09M3TMvGh0/ngeNdC4PyeKFrC8=;fKuWvtXjsFlyAvrXrGU+kg=="

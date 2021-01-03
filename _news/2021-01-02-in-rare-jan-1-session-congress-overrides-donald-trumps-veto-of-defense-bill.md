@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
+    excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
+    publishedDateTime: 2021-01-02T23:38:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
     excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
     publishedDateTime: 2020-12-24T21:34:00Z

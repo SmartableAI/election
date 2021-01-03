@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Congress will have 0 Black women senators after Kamala Harris becomes VP"
-excerpt: "Sen. Kamala Harris broke barriers as America's first female, first Black and first South Asian vice president-elect. But after her exit in January to join the Biden administration, there will be no Black women in the Senate.\n    \n"
-publishedDateTime: 2020-12-23T19:35:27Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+title: "Trump throws grenades into high-stakes Georgia Senate runoffs in final stretch"
+excerpt: "More uncertainty was added on Saturday after 11 Republican senators announced they would reject electors from certain states unless a commission is established to investigate the election results."
+publishedDateTime: 2021-01-02T23:57:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/trump-throws-grenades-high-stakes-georgia-senate-runoffs-final-stretch-n1252672"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-throws-grenades-high-stakes-georgia-senate-runoffs-final-stretch-n1252672"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252672"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252672"
 type: article
-quality: 184
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
-  - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media1.s-nbcnews.com/i/newscms/2021_53/3439194/210102-trump-perdue-loeffler-mn-1715_92edc40e4b0f9264b7fe0659472051d0.jpg"
+    width: 2500
+    height: 1250
     isCached: true
 
 related:
@@ -45,6 +45,22 @@ related:
     quality: 197
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204050014-biden-harris-split-1204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress will have 0 Black women senators after Kamala Harris becomes VP"
+    excerpt: "Sen. Kamala Harris broke barriers as America's first female, first Black and first South Asian vice president-elect. But after her exit in January to join the Biden administration, there will be no Black women in the Senate.\n    \n"
+    publishedDateTime: 2020-12-23T19:35:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump throws grenades into high-stakes Georgia Senate runoffs in final stretch"
-    excerpt: "More uncertainty was added on Saturday after 11 Republican senators announced they would reject electors from certain states unless a commission is established to investigate the election results."
-    publishedDateTime: 2021-01-02T23:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-throws-grenades-high-stakes-georgia-senate-runoffs-final-stretch-n1252672"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252672"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252672"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_53/3439194/210102-trump-perdue-loeffler-mn-1715_92edc40e4b0f9264b7fe0659472051d0.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Kamala Harris receives coronavirus vaccination"
     excerpt: "Vice President-elect Kamala Harris received a coronavirus vaccination on Tuesday in Washington, joining President-elect Joe Biden, Vice President Mike Pence and other leaders who have been inoculated."
     publishedDateTime: 2020-12-29T16:51:00Z
@@ -127,6 +127,6 @@ related:
         height: 773
         isCached: true
 
-secured: "YeqTGwuoZCL4ZYA8EPJg+64n6WxKLNGUI7oHkpRH92iFHs8e2z+/zDgGEAOX5rrSigxKnYDpNuNBKjMsneM9NTcuqyZUaxCYpgLm1BL1GP7q6Qfl3iWa0n3qk2q52HBXXxhIIqyHT6LNqHsZk0v/Oo0BAuLRs9L4C5Sut6ivlHYboMDjUSoB/6r3+M1Mqmf7XGiRDoTOlL22Dv6u87s5aER6Dg1k8QuePdQEAfoaKb/qqFN31NrDa+ONGOemsL/LLveDj2WI/RXBZehZpxgg0xaSVxJsvXie1RsvdrRbVp0tMVwrsFxprnSf/CXcOZyC27GlwAd0/nbct3LZ3xZhAQYZv8i+L7LCgGueLFCeGh0=;ao3itaK0WeesIMLOVAFRSQ=="
+secured: "LuOZDj4PzO/tjrdHD07/7oaL3NXRQbOeR0An/G/fJcqKSkyAtifQwm9W/6JP1N7TbzIr/ugkT8EQQkF0s8D2pBtL0Dl/pIARNRgRLuuNXp+AHtMF/dUXOmDryJX4nvkjfqtAChYLSz+FGfoL150LamFfl7tikO8oVKdh6yAhnBppWYqvdIabS/8hU8MpKUV2DYmY3gHgZxq8kkEA9UPuMINPjI9e38nBdv0Y3FWw5u5U64UcGWaZYK3aUVaL+YMDXGGu8KN7XqAMqLwMNnSbJUzywsMCJhUlhUYQuJZWIVxKax4xJttIXypkLMK3cpBUzj3fF5maRYrl55wVKX7j3WQuLRdpyWNlqy2kNRTmJJc=;5FOh7io/OBmPI4aYH+KoHw=="
 ---
 

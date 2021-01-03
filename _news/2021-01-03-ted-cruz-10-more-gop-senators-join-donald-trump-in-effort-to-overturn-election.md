@@ -1,36 +1,48 @@
 ---
 category: news
-title: "US election: Pro-Trump rallies see scuffles in US cities"
-excerpt: "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,"
-publishedDateTime: 2020-12-30T10:28:00Z
-originalUrl: "https://www.bbc.com/news/election-us-2020-55292610"
-webUrl: "https://www.bbc.com/news/election-us-2020-55292610"
-ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55292610"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610"
+title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
+excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
+publishedDateTime: 2021-01-02T23:38:00Z
+originalUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
+webUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
+ampWebUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
+cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
 type: article
-quality: 140
-heat: 460
-published: true
+quality: 86
+heat: -1
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Oregonian
+  domain: oregonlive.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg"
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
     width: 1024
-    height: 576
+    height: 683
     isCached: true
 
 related:
+  - title: "US election: Pro-Trump rallies see scuffles in US cities"
+    excerpt: "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,"
+    publishedDateTime: 2020-12-30T10:28:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55292610"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55292610"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Pence Can’t Reverse Trump’s Loss on Jan. 6, Elector Tells Judge"
     excerpt: "A Democratic presidential elector from Colorado asked a federal judge for permission to intervene in a “last ditch” lawsuit filed by a Republican congressman who claims Vice President Mike Pence has the power to unilaterally reverse President Donald Trump’s election loss."
     publishedDateTime: 2020-12-31T22:24:00Z
@@ -195,22 +207,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
-    excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
-    publishedDateTime: 2021-01-02T23:38:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
     excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
     publishedDateTime: 2020-12-24T21:34:00Z
@@ -271,6 +267,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "VPAi2h4g5cVItO32eNA8DGuYhCmPR4bGwQtigqV+feM1kTfBBViqb/EF/Vi18YeAh2+X9N14LMyVYmH9O47QO7R+GxpwICr90RV4C9cRw4Bqj9LXAtiKqm7QfDUplwXKh5bXx9f5KV3eOXHuWrN+TJUI0wGIEriaLacDMs2qJF3S4IFX/N3e9R6pPmrBzJaGK9VdahmntZt35vdBpM2XbulUpZWJRNToZjghi9EIpNa5EC9fdEq0vdukPlselktURac33/AYV7m+DQX5m9jv849tynr3epiwvFORc0H/JqmZI+3spSBXuluMaf+I2omWJmgWGTwIqCLtNhgGK8m3NIJQ8BQh7i/x5FHZzpyULbk=;/yhmGk3Be4eRoFqqz29TMg=="
+secured: "taW0Y2JF6f6qGxH4mJh1Ln+dIYgiQjRPvMW1/OiS5ltuWPnlF7wHzi+PAVmYIn3gtdbKP5rOtqOV1D1bDsOwM8CGHAHtdldLPwLefRIWcnZhTH8LWTUpFRG9hsLpRItKivywK0ZDFUFzqIKwUs4OrKo2Ofhmhmadt+s7N7zhRjREfegUvTzZRqLvQ9rlR1ONuDQiSvUiATxymiSVPq4CxHbanRzNWsi8v6Tv9CRqksymI7nb1glggAeei4Zn/2rRcB72heKWYKaXD/XWgu/ZNqSsfVVG3YS9qkEgljEi+QEUXxyrDU7G6K1+PMzDsKaZBecMXNB/zckqIg1iqf9Vrl73YsM0tK8yfNAWpV5fakQ=;h0zu9nTTi49js7D3YCWfrw=="
 ---
 

@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
+    excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
+    publishedDateTime: 2021-01-02T23:38:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump leaves mark on immigration policy, some of it lasting"
     excerpt: "When President Donald Trump was running for reelection, foreign-born U.S. residents were rushing to get their American citizenship before it might be too late. “I didn’t know what would happen if Trump got a second term,"
     publishedDateTime: 2020-12-30T11:40:00Z

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
-excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
-publishedDateTime: 2020-12-28T18:40:00Z
-originalUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+title: "More GOP lawmakers enlist in Trump effort to overturn Biden win"
+excerpt: "The senators largely acknowledged Saturday they will not succeed in preventing Joe Biden from being inaugurated on Jan. 20."
+publishedDateTime: 2021-01-02T23:41:00Z
+originalUrl: "https://www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html"
+webUrl: "https://www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html"
+ampWebUrl: "https://www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html?outputType=amp"
 type: article
-quality: 100
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -706,6 +702,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
     excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
     publishedDateTime: 2020-12-25T20:27:00Z
@@ -721,22 +733,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
         width: 1200
         height: 838
-        isCached: true
-  - title: "More GOP lawmakers enlist in Trump effort to overturn Biden win"
-    excerpt: "The senators largely acknowledged Saturday they will not succeed in preventing Joe Biden from being inaugurated on Jan. 20."
-    publishedDateTime: 2021-01-02T23:41:00Z
-    webUrl: "https://www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Jobless benefits for about 14 million Americans expire, as Trump still refuses to sign the pandemic aid package containing $600 stimulus checks"
     excerpt: "President Donald Trump has refused to sign a $2.3 trillion stimulus package, in part because he says $600 checks for Americans aren't large enough."
@@ -799,6 +795,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xqi/WcF1PlhGRefq5ue+woQ3yxgEZrGTpCbDOpD5K8c6MrhP34Wl/SePjkZO0KyDLKMUxjhzuE188TI0Y1C/leSmOcL5EqWBBXbWcWDfK5WlW/m/D0ZCs7xJtgd1wLIxJYh/cLnshFm1/LUZLDVlc7l5MPVUziOXxh6XsOBvmgPg9nwPNeBN5ZZ/srbBEqZ+DKsJuXG/QCdn1Rso2g9nfAh1XX3VACOTo2Le7zSv1G1mi6AB+IzelC8s/1StpmQZz6vfxA1pxlA9U3BPgAG9GqfxQjzReLXZDNSz41+d4P6wd/G1jNyOXHZZQ3nEky3QACZeCiUv7n2G3zVg4yAdhNgvk8VZgj0ouVpgn5GwKnA=;M+tLyiyvbPqwMtWOyHQz1A=="
+secured: "aNoa3XMVqlgXMbKsvWDKNSbYDlYbvVCksEvCeuBqUuRFxSMhOBmfuc48cxOAKj3stNCCFHj4fn8S7opK4uZVj2kXqKb3A2ZmdfjiRHUeZG+WIJr+ubo1/hn5qA0w+C/Wel6pDWPFS6P6y1KSfC34R+C28mLrsWRNEnItqRQQUZ1yosNMHYBeCDf/h+R4MH6ADpyfPtk2N5Ot6dnzo1SxRQaU8DGWytyTjuWhlKD6BX3MTM+P4OYY5EHkgylufnuC6YdBAA0kHHflIOij0OK/rFjSCnYoZ8tMZW7FD4HFm2iImIV/aEWQLPVWZJCkBIuI6rywyq+HbLZMNeh4FBfNn1MUYMF93hvvzwbmXxCVLts=;keW2drjmHwIu7/YcGYUKgQ=="
 ---
 

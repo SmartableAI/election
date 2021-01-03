@@ -2,30 +2,26 @@
 category: news
 title: "Judge tosses lawsuit from House Republicans seeking to give Mike Pence the power to overturn election loss"
 excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-publishedDateTime: 2021-01-02T15:33:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+publishedDateTime: 2021-01-02T13:44:00Z
+originalUrl: "https://www.courant.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+webUrl: "https://www.courant.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+ampWebUrl: "https://www.courant.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
 type: article
-quality: 122
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+  - url: "https://www.courant.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
     width: 1200
     height: 877
     isCached: true
@@ -316,6 +312,6 @@ related:
         height: 267
         isCached: true
 
-secured: "fwv5j9isO/7CSyYEszP8vNLfLs1U4YXuyyz9eOjBqx/8AhRtC6wWrRgjueGbnLqWfYFYJ0BBmIJLFIQgTfts6esFkSmZ4t5keQ5oLoJHJfEQJ0Ka6parEfhda4EqfLiaTQ7u2Kwyw8LD81UV5nVHcoUds3FcxuTgmmKoBXSukmgHBpBIndrf2tods8CNNkhmhDwuA13yGLz8HFJJsvqOnNMlvUACLwi5BAlfwCsartoHff/mBCI3xPvYQJlu0z7AXVUBCR+eIXcvoGIzOin7fTM6f4hk7a+vXLHV12zs2+mDvZLaq0uVk3xDlCZ5LldWm9yv+adV9CUcAwlnWIT8wF8n+WW+LSS0GC1uHqGrU2op6iCihA1rsea81fL8IQdVS/LlTkOSUXqc+5tJOzSoelisASnewV39ZA47EFo8c/rw/safig/vvV8bjKycS7sBsKyPpDcI/NWhGfllD8+fqZx/rlUTob7YuUoMhjEvtNMa/LiNnaVXQomTSKpMwJUW6YlNKT+N1rai3el3HUy52A==;SpYygj4H5JkkjHTP4xNkBA=="
+secured: "8Xo8+YXUyzTXcJYI4Iy1TgMPuLdkojInWYBwLF930Nkgz3GgsRLVkC1SuonnNR6CDN/jzcns2CCk+Snhi9sqAgQKjnUIGSuSmv3rjG0MnlM0pExN2mlF97oHjpTogqgzyPsKiC6u9IkraozJmrYhh2IizCeMfl9W+BlYdb6eQT298JI4A7MbQnSsEfI9MCjnaCc0uHyiIARBzfNOJfSeUWnIXzCD0g2Zx56UR4Q1PScpO997f3wbzE7xoiKLFc8bFYWsG9PeyTEw6ZPKnqHgEd5Im+stjFPQJ83jWy8uSxIGXvbbagRfZzQqsejZ94bSaJdYfmAT1HXBs2AI4A/emSezdHdb4JqYi648SGteqnM=;P3oj3ZJOEBN552pj+6fXVw=="
 ---
 

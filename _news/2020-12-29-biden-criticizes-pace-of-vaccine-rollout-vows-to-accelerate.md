@@ -407,6 +407,22 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
+    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
+    publishedDateTime: 2021-01-02T23:43:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 50
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PiFj4Xu2LoXFK5ywru7fKj8ZMUxdmaSwPIuyR2nzfPxcvprb894DbLoQWS3P0Y4UU0eZrL/0jsXaMVUEuhpnQ+n1VLNpucO+jtfPS6o+rwoQKYwRpXjrt/vzlVE5QBKijm5S2jRITq0UGGHQAwwAKaZJhKE3IbASCVN6kXuy4XH4d9DBvX1qICnhCrSAa0xJz/7fNzvtP+msH0Padaj+bMzJhf1fSAk2fwhupbDfZVCQkKv8v3uitSELKnbdJFuunHX4pB0pE5fTlmzTpidwTuyD9CP6+9zpSR6Ya2FxdC9aaLGzjQzWaH8C47RbMwZSPtdCU5DSum4HmIEm4btBqVbUITN3LBd7mhvCaxDcefk=;hXYSicDY6ic1FCu286oHAw=="
 ---

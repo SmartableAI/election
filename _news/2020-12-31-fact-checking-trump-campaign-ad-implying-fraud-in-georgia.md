@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump throws grenades into high-stakes Georgia Senate runoffs in final stretch"
+    excerpt: "More uncertainty was added on Saturday after 11 Republican senators announced they would reject electors from certain states unless a commission is established to investigate the election results."
+    publishedDateTime: 2021-01-02T23:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-throws-grenades-high-stakes-georgia-senate-runoffs-final-stretch-n1252672"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252672"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252672"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_53/3439194/210102-trump-perdue-loeffler-mn-1715_92edc40e4b0f9264b7fe0659472051d0.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Kamala Harris receives coronavirus vaccination"
     excerpt: "Vice President-elect Kamala Harris received a coronavirus vaccination on Tuesday in Washington, joining President-elect Joe Biden, Vice President Mike Pence and other leaders who have been inoculated."
     publishedDateTime: 2020-12-29T16:51:00Z

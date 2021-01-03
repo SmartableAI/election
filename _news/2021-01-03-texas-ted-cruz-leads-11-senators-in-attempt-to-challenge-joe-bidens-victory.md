@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads
 cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads-11-senators-in-attempt-to-challenge-joe-bidens-victory/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ted Cruz says he’ll object to certification of Electoral College votes that will make Joe Biden’s victory official"
+    excerpt: "Joining several other U.S. senators, Cruz is calling for an emergency audit of election results in “disputed states,” despite no evidence of widespread election fraud."
+    publishedDateTime: 2021-01-02T18:28:00Z
+    webUrl: "https://www.texastribune.org/2021/01/02/ted-cruz-joe-biden/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/02/ted-cruz-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/02/ted-cruz-joe-biden/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 53
+    images:
+      - url: "https://thumbnails.texastribune.org/ftxVKbEhRfpVXKBn_MDYBTUKqkw=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/3fd88bc2ff428be827eb86ec08cff34c/Ted%20Cruz%20REUTERS%202020%20TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
     excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
     publishedDateTime: 2020-12-28T09:47:00Z

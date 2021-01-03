@@ -403,6 +403,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
+    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
+    publishedDateTime: 2021-01-02T23:43:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 50
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bJp8+YnQKCIrICaCuVQZdILTAI8H9G7bhL/Z4pQzL/fpHIE4V1Jh1QhpPTbcFfykki9o3XD+hDWlB6TQEWrg2CU5qn4zP4R7Dwe8Qi/P2hxhzXlgys2RNxmMDNG2MbzIUG1qJz4G78pn4YdblOzE9e0BOdi+Ac1S+yHk/F6dNCuAB6nGdAAtPx/44NgFnY8UhnrLrBLI85465l+piyJD3LeqUC2FDAhIcywD2ZnnkzRvfStsQ1yX0ww2XRPq242Hlc6sHKFlX8isLBKCGZUVBSkZjOe8vczlD7I22Z8/PwP/rc0vA3uhfMBkQ4VIQYHI0FRSF8lealQCKUwCShVt+5WaVKm6t4HW1ccBro3ipHb+tBiiQafKpTiMcQL1T1ZdBjFjmbt4Nt+s1Mz9BkClP0CfIkpMdXyUsS0fCLJMs4cNLk9eNOoITtydRbSEiBh812UuPGirBkSLbImm5A0UM6qIMyc/AUMPyCheRo88pjZECcCyAcPHofhjrhln1S0eHB+rPetW6DrfVvKX5eOx2g==;hkMj/sTNqGnrQNY2dcRg5g=="
 ---

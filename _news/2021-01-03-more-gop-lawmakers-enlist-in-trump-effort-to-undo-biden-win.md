@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
-excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
-publishedDateTime: 2020-12-28T18:40:00Z
-originalUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+title: "More GOP lawmakers enlist in Trump effort to undo Biden win"
+excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the E"
+publishedDateTime: 2021-01-03T00:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
-quality: 100
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -206,22 +206,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/297ec54/2147483647/strip/true/crop/3666x2394+0+235/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F1e%2F7457d0074fccb5d94d4db8604eae%2Fgettyimages-530730748.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "More GOP lawmakers enlist in Trump effort to undo Biden win"
-    excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the E"
-    publishedDateTime: 2021-01-03T00:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
@@ -706,6 +690,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
     excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
     publishedDateTime: 2020-12-25T20:27:00Z
@@ -799,6 +799,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xqi/WcF1PlhGRefq5ue+woQ3yxgEZrGTpCbDOpD5K8c6MrhP34Wl/SePjkZO0KyDLKMUxjhzuE188TI0Y1C/leSmOcL5EqWBBXbWcWDfK5WlW/m/D0ZCs7xJtgd1wLIxJYh/cLnshFm1/LUZLDVlc7l5MPVUziOXxh6XsOBvmgPg9nwPNeBN5ZZ/srbBEqZ+DKsJuXG/QCdn1Rso2g9nfAh1XX3VACOTo2Le7zSv1G1mi6AB+IzelC8s/1StpmQZz6vfxA1pxlA9U3BPgAG9GqfxQjzReLXZDNSz41+d4P6wd/G1jNyOXHZZQ3nEky3QACZeCiUv7n2G3zVg4yAdhNgvk8VZgj0ouVpgn5GwKnA=;M+tLyiyvbPqwMtWOyHQz1A=="
+secured: "MsG/tkv3Eta/wRiPI2cldAiH7+yMIDVwNCzhD8JliQ0nhv0KomLMDv6TF15vn76MQ7UnTIeil7SVKToX+YyUMNyBRuun7nUsz7TMPJTbdK24+nrXDjlsGAYgq4QmXpxPEMMDsQvFD38HZzZHIUS8A/jJjs0hoFjBL2Qd/vPZHxZIYSdy6Z8oBlsKOR6N1ihIAcZVXSCvg/xo7r4hdJmOXnDaJfQfqNM4nI3kzvsMreUEuPkuhcetdRcEoPtg7+G+yHAbkYmbmmqfCDlJo60EZgqTFhuGwJ0MeMZGM2dNvXclMDfDNH8eO6Jdjy0VAEnBGtXg+hCBbS2/BjZXxWA5bo4uNm2tpj5ExJZBjzuNJR4=;mHWTPkMSKwqdrweLv0lV7Q=="
 ---
 

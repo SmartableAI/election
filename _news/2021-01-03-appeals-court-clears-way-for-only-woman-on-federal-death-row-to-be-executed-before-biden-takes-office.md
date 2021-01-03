@@ -407,7 +407,23 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
+    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
+    publishedDateTime: 2021-01-02T23:43:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 50
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "O+nsi8d4DLDBmKp1w49YbMDMEmMjvp3I78g5RWHXoUKRFBQHbDJuB5opCFOq75Icbbdb/liDQtPjaFNc9XCfQo7yYQVph/eZLTIyQNbdV44/AlnYAEVfp/jCCEVT3/k8SaV2ErJMnDgVDGJccs5ye3oTqoA0zggcbeyTBoMiAekZEooKYvaW4Gg7xA/2MLJBa2b2tn1bPbw96AihUmkll1ysqhmhl+Kpu+60h+Si5sMLVOzlL0T7YEj5Zow7J849r2IpPvi95D/ebyPoU5c6p8zTHSZQAo4XOYHsHrmJCB4BnGSHxG8sXmYdmQdHVzv5gPtllsbdBbbePJN+bYXzFHFrUnZs2zDlz0/BqXOzWuI=;8WyIJSZ+41gEEMQeXefIYA=="
+secured: "ugK9YE7+NTcGd/TKBKHqCIhR36CQYDrthFiSiDJYLmOTwbINBgXDRbe3bnzlYFA3MGQu9vpjIdIDW9nbghHVjm+cbKUJvQF/Zv58vJ9E3tCKcxpG5v8wxVteECxlOtZWvQdjMnHCs36jOJnG3tuCiA8/zMMnz9gF7GIDk8rXR4lX9rgxLoqLD4v7rmMZUNPmwL5TSdnQVHa9xCPa8N6PKhomnRd4KMlVb7j8HHuFakwbMJ6Q9Cg0h9qrJeMUTi9O8p8v3JvNMfZP51QNUx/JABHe3a9fnFLL6JoOuK37Hk7BVTDEG46ubkdtgM6owaM0jConEdagE5YmMqoWXBxQwxu5kUrxaIyV/LAYN+y3UwxVYaKkHqPMIdb1hQuttnia/YQ/FubuOTTJTTBZ5nB/AkvOpDGXymmHuzXX3yRQm5zGk/bkf4DGnkLlFvkUyXaSfB5vyCHgZrbqJ1MNIo5a3QJM+UEamV1TgyuN6cB+4qv6Mn4XOTdURKfzrBCEF7dy9H1VIn+48ZSzHHMqan6WCQ==;GD0OGYNxSTjZtgD599IGkA=="
 ---
 

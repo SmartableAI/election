@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden inaugural activities to include memorial service for covid victims"
-excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
-publishedDateTime: 2020-12-31T12:49:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
+excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
+publishedDateTime: 2021-01-02T23:43:00Z
+originalUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
 type: article
-quality: 124
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Dallas Morning News
+  domain: dallasnews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -174,6 +170,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden inaugural activities to include memorial service for covid victims"
+    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
+    publishedDateTime: 2020-12-31T12:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
@@ -407,23 +419,7 @@ related:
         width: 1200
         height: 741
         isCached: true
-  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
-    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
-    publishedDateTime: 2021-01-02T23:43:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 50
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "2GIpS8OrdguzSZT3ZcQ/V6ia3U9B1IHQ72BujSW7oQC+t5jWRxVcx8cVmzoQMz+jZGFgXaj03tvuY+MmHMG9Hq+6Y5/cCarWXTQqffWPCG7bulBvXlxjskdoqYRKQNoGQREJ6ZEDByUyMMfsAbdIWczML+8vYVYGnxzM6d2TViV/rb9lZHGzicFn8TYOAO/d7uBRm8jozFyMecD5fCbz03ZfP8waFiEZ0NY/9Tfr0oz1ebI2+otp47EOMGkk1fZBWSrf6lId9dBtY8mYqrzw5/skgVBil0YOoVgPi5VIbUSH7Dh2NrYXktTE6P2VcLS9IKF9xeVnCV0E2ZW/sYSjp3NpQnj43e4n7k5cWv07O19t05YWl6YCjtHMvUkZmeNaPKLKI/wBPPZSDyyvPP2E4y0FN1z/ZFcJRGXSJ4+0+rqv0p4RlccJCbSmP997ovEZjez8HbI9WeUBhIjD/j1U9Sh8EbQwAe0IjyGJM59TDI82Wie8UxalCL1AaicBud2+7Cya50XbH07+761DMjB1Bw==;r7dc6JjTUyRhXUHSNj73xg=="
+secured: "1HrRCKndGY2+7s03xA1vaRwl22qhp0GefK5LP5iBPgYbhICV+I2Qkrl8tKN3KF4wXuJE2Qgl7Z7v1eo0wSsBEoiW+kpveEtBapEtI6ePRUb9OswlNb2Q01NFSqKVvQ3t2qqxZhqzNZ98Q9r0qjjmCxsMgPEwzgBEpwHBC4ui2BuKh5zYZSklewD3xyUXmE9tkuHMDsUfueHwloNY6GS4RPIZFYp3qO8rkCuU4d1Cdx/+0CL6QvXVbJst0nJLwitFJiwJ8SRsjo1BgzU3VyJ7+TFjQukX7a03GkYkCWz7Ejt3tq/EBwIFmDkQno8AqBwPheh1LaWAD5ibkue04Wb8bSVKBCXhTsE1Tlu3qMKLnbM=;H8ie4mCOx/IgljL/VdoJzQ=="
 ---
 
