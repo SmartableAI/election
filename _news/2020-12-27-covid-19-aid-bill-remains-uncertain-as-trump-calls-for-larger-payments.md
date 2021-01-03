@@ -192,6 +192,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump's Stuning Achievement in Middle East"
     excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
     publishedDateTime: 2020-12-30T12:45:00Z

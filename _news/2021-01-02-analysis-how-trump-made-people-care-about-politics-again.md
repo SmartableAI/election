@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/trump-politics-analysis/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/trump-politics-analysis/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 215
 published: true
 
 provider:
@@ -47,67 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump warped HHS long before Covid-19"
-    excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"
-    publishedDateTime: 2020-12-31T09:36:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/how-trump-warped-hhs-452964"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/31/how-trump-warped-hhs-452964"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/31/how-trump-warped-hhs-452964"
+  - title: "Without Trump, or Masks, Mar-a-Lago Partied On"
+    excerpt: "President Trump did not attend his private social club’s annual New Year’s Eve bash, which hundreds of guests attended despite the coronavirus."
+    publishedDateTime: 2021-01-01T23:42:00Z
+    webUrl: "https://www.nytimes.com/2021/01/01/us/politics/trump-new-years-eve-mar-a-lago.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/01/us/politics/trump-new-years-eve-mar-a-lago.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/us/politics/trump-new-years-eve-mar-a-lago.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static.politico.com/42/4c/8b9f84b04a42af0fe89bc2879207/1230trump2-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "After Trump's drubbing in the courts, liberals fear a legal hangover"
-    excerpt: "The president and his allies have lost suit after suit seeking to overturn the election. But the victories could ultimately prove costly for the left."
-    publishedDateTime: 2021-01-01T09:36:00Z
-    webUrl: "https://www.politico.com/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/67/07/130984304729800e8ed9ed750cb4/gettyimages-1230086732-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "The Eight Pieces of Pop Culture That Defined the Trump Era"
-    excerpt: "As America’s Trump years come to an end, there is only one pop culture figure who fits that era-defining mold: Donald Trump himself. But unlike those figures, Trump doesn't represent any single, unifying truth about our character;"
-    publishedDateTime: 2021-01-02T12:13:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/da/02/0a5d45fa420abea71fda4049e5d2/trump-pop-culture-illo.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The new center of Trump's political world: Palm Beach"
-    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
-    publishedDateTime: 2021-01-01T01:13:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2021/01/01/us/politics/01dc-party/01dc-party-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "k7+bCMcX5Wa2yu9p2h8tra0ohohBva1vV0zJ1sBSQ1Paz8fX6+NuN8sIanJ6WGRHky5w5JuT81Ggq0RauSsBYHRvsw4nlXdKG99133dzXyGzZ5Fc+ss7KS/zZoz5NVpDZE3SYBM1o9RXp/9bRYwmYCWZyc2KgwhkPsm84ASCHYC3pcB1Ep0aJ3KXEqnBywWN7aHqcUpmc8ephMBWS8CdhXfldCAeclQ8DM2IemCUx/jM3VV0a9u5NXNJdd9LBQyRNZf+4BkkDqY7fsWV8yRK+E+NRGM/FC2AyjZwrP2NNa26+x8H790uxQiljOvPkGFbg+f+DzH3NT1TrlBsK57zU3fUzGJbda6uqlm3+XEsuws=;Ny3onkFocp6QIGMK0QEpdA=="

@@ -45,7 +45,7 @@ related:
   - title: "Hunter Biden's Guilty Laptop"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-03T13:05:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
     type: article
     provider:
       name: RealClearPolitics

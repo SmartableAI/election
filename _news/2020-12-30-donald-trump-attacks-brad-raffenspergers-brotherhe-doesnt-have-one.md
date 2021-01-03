@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-attacks-brad-raffensperger-bro
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-attacks-brad-raffensperger-brother-1557917?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
+    excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
+    publishedDateTime: 2021-01-03T22:49:00Z
+    webUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call"
+    ampWebUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_2.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Audio: Trump berates Ga. secretary of state Brad Raffensperger, urges him to ‘find’ votes"
     excerpt: "Listen to excerpts from a one-hour call on Saturday between the president and Georgia election officials."
     publishedDateTime: 2021-01-03T20:55:25Z

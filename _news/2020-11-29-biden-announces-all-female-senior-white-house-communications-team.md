@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
+    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
+    publishedDateTime: 2020-11-27T02:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The fate of millions of Americans rests on Biden's economic team"
     excerpt: "Joe Biden's incoming economic team will shoulder the desperate hopes of millions of Americans who have lost jobs, face eviction from their homes or who are going hungry in a monstrous Covid-19-induced slump.\n    \n"
     publishedDateTime: 2020-12-01T12:12:23Z

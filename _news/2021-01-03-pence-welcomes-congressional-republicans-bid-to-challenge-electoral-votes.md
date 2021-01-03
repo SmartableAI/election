@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congre
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
 type: article
 quality: 182
-heat: 262
+heat: 242
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/02/us/politics/02dc-cong2/02dc-cong2-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
-    excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
-    publishedDateTime: 2020-12-31T23:57:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 123
-    images:
-      - url: "https://static.politico.com/f9/27/baaa8c084e7e96889e5435424831/1231pence.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "9BwgDyGkYGqUVfevH2Akq7D5hAyzT8hTEZt91yoedlRmyV/dRKZ+ZTj1/n6U5JOAVwsDidMOLHOFUh6OpLBQP0+P3dJm8pzvhdcPzumjTUc4KWKWmm6L9vAysg9o7ULQy2vCrYRdGtVspQpvDQHwTtdHWHt779avxfWlwdpCpfIaJXm6aPFZBxXvwDF1c9pSJPoSlxmLf0QzMfYBpZYFLKLZRXYi415S10Hlz5C7zvYTheVO6CqklFXZTgpLSPZyO04DW2XHozQJWGFW28kQUcJci5lgaTaHOP8PlKZXwIioFa3J1pj9s5F3xP80Rf+LpTqOERCWaBI0Wx2L3gKR3ywKIlqAAcGM2TplhAgteO0=;isQ0nCvqgaqXAQCL9oDMgg=="

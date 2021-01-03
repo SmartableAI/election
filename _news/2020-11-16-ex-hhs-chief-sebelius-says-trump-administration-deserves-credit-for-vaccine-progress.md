@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump was briefed that China sought to pay non-state actors to attack US forces in Afghanistan"
+    excerpt: "President Donald Trump received information earlier this month that China sought to pay non-state actors to attack American forces in Afghanistan, a senior administration official said.\n    \n"
+    publishedDateTime: 2020-12-31T00:17:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jY9JDWPrjcs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US military anticipates Trump will issue order to plan for further troop withdrawals from Afghanistan and Iraq"
     excerpt: "US military commanders are anticipating that a formal order will be given by President Donald Trump as soon as this week to begin a further withdrawal of US troops from Afghanistan and Iraq before Trump leaves office on January 20, according to two US officials familiar.\n    \n"
     publishedDateTime: 2020-11-16T20:55:48Z

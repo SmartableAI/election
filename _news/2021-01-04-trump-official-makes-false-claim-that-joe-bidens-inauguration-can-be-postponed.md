@@ -429,22 +429,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
-    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-    publishedDateTime: 2021-01-03T19:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z
@@ -518,6 +502,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-29-2020/t_fa48a779c9da4288a801dc48894fc8b2_name_63b5578c_4a1c_11eb_97b6_4eb9f72ff46b_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
+    excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""
+    publishedDateTime: 2021-01-03T02:52:00Z
+    webUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5ff1a0e7a18a450018cb6898?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
   - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
     excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
@@ -770,6 +770,22 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
+    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
+    publishedDateTime: 2021-01-03T19:54:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Says Trump Vaccine Plan Falling 'Far Behind'"
     excerpt: "US President-elect Joe Biden on Tuesday vowed a relentless effort to fight Covid-19 the moment he takes office, as he warned that Donald Trump's vaccination drive was falling dangerously short. Speaking after a briefing by experts,"
     publishedDateTime: 2020-12-29T21:28:00Z
@@ -815,6 +831,6 @@ related:
         height: 683
         isCached: true
 
-secured: "w/TdYQfd41lgidxQIMmdCVhtkGK3J80562Q47EK8Xvf1a5jGqEL5O97dB/vZbYjvIjBuYWCpMmk0qOosWdnirwATnLpao9LaxqpUDPCZ+RGOWZ9OKtCrHKcGXvv3Fyb37qH0U+Cs84+6TUdVzdZZPVRuip3gO4on2n1n2yBLo0hO7TEJXcYr+5qZjOrSM8HLAZMA2KUNL2iR17i94of4f390rinZYp2Z+U7kaMk+gfcH3zpyHf8CQUqemcAmCERM1AaAuUUu2ppsBB0haj91PniS8NXS4oPjyQ4mCVDJ2i2uflGhBQT1jp/y+1XnyiUWrNH/mbaLzvubqaCB+KgcZLxHkTykMYERx1ZqgfZw66M=;yhF0zVJWXeEX5A+Ok+K9bA=="
+secured: "53XwOPcJOypDHmPa4/K20nkpCiTpCSxwD06ZNuZE6miBdqtAJgzx2MSUPMeTabcCnODn56o/6V8D1M31O0JjxFLu1f5Iu4ES9c1oVz9RoQhdRC0n9fgt1/AZJelDiFOgvevxc0dG7BUGYrvzCvNphuz83ZbB5ZxN7ASZeeEYKGLOfFmYbouTS3BwmPqIMCUf33+EZLWc9rcxPspKxwbNWR2yKq8tkcgb/fNWloMSp2sJZCWvP3bmXNrMSSN7v4kI63qxpYldh/e5KyXbjGkcQFEyCNexa6+JEIi2WvSgo8m5fN7iUa2uoNwIk0p5jshVEnV0QRJr6TdSjbR27Ry1hkq1KOCvqotx/AJ/ftkbxTZ80uvxVSp/zrjeN5kKJJB3Dy4YJZxaOkcRIf6IatRDB6+/0bMTBolZhsZQqpm8ZFGNyVG376aJeoZOjRoIDID8VTE1yujJeBFjKjvlzD47wA03bCDctZsXP9XvkU1PkytncLqGoFsZqvy14d47gJntINHVujJMmNiIu78drrjmoQ==;qoBJYRT1AWpDxnxF7PqdDg=="
 ---
 

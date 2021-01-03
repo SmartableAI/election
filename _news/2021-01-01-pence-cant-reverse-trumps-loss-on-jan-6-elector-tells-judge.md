@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "In recorded call, Trump pressures Georgia official to change election results - media"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call released by U."
+    publishedDateTime: 2021-01-03T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2980MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
+        isCached: true
   - title: "In recorded call, Trump pressures Georgia election official to change results - Washington Post"
     excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
     publishedDateTime: 2021-01-03T20:03:00Z

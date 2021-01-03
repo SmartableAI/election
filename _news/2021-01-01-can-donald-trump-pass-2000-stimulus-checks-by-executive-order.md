@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "White House economic advisor breaks with Trump and says he's 'not so sure we need this massive stimulus bill'"
+    excerpt: "After Congress finally passed the second stimulus relief package, which included $600 checks, President Trump pushed for a deal on $2,000 checks."
+    publishedDateTime: 2021-01-03T03:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5ff1c8409ff41f001883fad7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's $2,000 stimulus checks demand could cost the GOP its Senate majority, but reveals his enduring influence within the party"
     excerpt: "McConnell's obstinance on the $2,000 checks has offered Democrats an ideal messaging opportunity ahead of Georgia's Senate runoff election."

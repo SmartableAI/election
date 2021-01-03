@@ -2,6 +2,599 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-11-08-romney-says-trump-should-follow-every-legal-option-he-has-but-choose-words-carefully.md",
+      "title": "Romney says Trump should 'follow every legal option he has,' but choose words 'carefully'",
+      "excerpt": "Sen. Mitt Romney, R-Utah, has no problem with President Trump challenging the 2020 election results in court, but said that he should tone down his public rhetoric.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2afb325-628d-4555-9f91-0f96e2a4c747/64e456b4-b4e1-4314-8170-0a961286f86f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
+      "publishedDateTime": "2020-11-08T07:10:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-jared-kushner-has-approached-trump-about-conceding-2020-election.md",
+      "title": "Jared Kushner has approached Trump about conceding 2020 election",
+      "excerpt": "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 430,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190709100922-jared-kushner-06292019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html",
+      "publishedDateTime": "2020-11-08T06:32:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-buttigieg-republican-senate-would-go-against-will-of-the-people-by-opposing-biden-agenda.md",
+      "title": "Buttigieg: Republican Senate would go against 'will of the people' by opposing Biden agenda",
+      "excerpt": "Biden transition team member Pete Buttigieg said Sunday that even if they win enough races to maintain control of the Senate, Republicans would be opposing the will of the American people if they stand in the way of President-elect Joe Biden's agenda.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1tBWRPjP60w/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1tBWRPjP60w/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda.amp",
+      "publishedDateTime": "2020-11-08T06:28:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-after-a-second-loss-to-greg-pence-jeannine-lee-lake-sets-her-sights-on-2022.md",
+      "title": "After a second loss to Greg Pence, Jeannine Lee Lake sets her sights on 2022",
+      "excerpt": "With 97% of precincts counted in this year's Sixth District Congressional race, Greg Pence had 68.6% of the vote to Jeannine Lee Lake's 27.8%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
+      "originalUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/06/PMUN/9f434446-2b64-4dbc-b26c-8a6d2cf551b1-jersey_22.jpg?auto=webp&crop=719,405,x0,y240&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thestarpress.com/amp/6189470002",
+      "cdnAmpWebUrl": "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/6189470002",
+      "publishedDateTime": "2020-11-08T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star Press",
+        "domain": "thestarpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-mary-trump-says-her-uncle-president-trump-will-spend-the-transition-period-breaking-stuff-with-vengeance.md",
+      "title": "Mary Trump says her uncle, President Trump, will spend the transition period 'breaking stuff' with 'vengeance'",
+      "excerpt": "Trump's niece wrote, in an opinion article for The Observer, that she fears the defeated president will \"lash out\" after losing the US election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
+      "publishedDateTime": "2020-11-08T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-explainer-can-trump-pardon-his-associates-or-himself.md",
+      "title": "Explainer: Can Trump pardon his associates — or himself?",
+      "excerpt": "U.S. President Donald Trump could issue a flurry of pardons during his final days in power. Trump has granted clemency to supporters before, most notably earlier this year when he commuted the criminal sentence of Roger Stone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70D3",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27O0FT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT",
+      "publishedDateTime": "2020-11-08T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-voices-from-the-fight-an-oral-history-of-the-four-year-movement-to-defeat-donald-trump.md",
+      "title": "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump",
+      "excerpt": "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "originalUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-08T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-giuliani-says-trump-wont-concede-amid-legal-challenges.md",
+      "title": "Giuliani says Trump won't concede amid legal challenges",
+      "excerpt": "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp",
+      "publishedDateTime": "2020-11-08T02:59:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-message-of-election-2020-trump-lost-but-trumpism-did-not.md",
+      "title": "Message of Election 2020: Trump lost, but Trumpism did not",
+      "excerpt": "In a typical election year, Biden would have carried other Democrats along with him. Instead, several promising Democratic Senate and House candidates, including incumbents, lost.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vkoCvENUwUs/message-of-election-2020-trump-lost-but-trumpism-did-not",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vkoCvENUwUs/message-of-election-2020-trump-lost-but-trumpism-did-not",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 690,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/PA-State-Capitol-Stairs-AP-2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/message-of-election-2020-trump-lost-but-trumpism-did-not.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/message-of-election-2020-trump-lost-but-trumpism-did-not.amp",
+      "publishedDateTime": "2020-11-08T00:39:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-saturday-night-live-sends-off-trump-with-a-ballad.md",
+      "title": "‘Saturday Night Live’ Sends Off Trump With a Ballad",
+      "excerpt": "The host Dave Chappelle, who also hosted the first episode after the 2016 election, urged Americans to “find a way to forgive each other.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/09/arts/08snl-2/08snl-2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
+      "publishedDateTime": "2020-11-07T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-kamala-harris-as-first-woman-elected-vp-says-she-wont-be-the-last.md",
+      "title": "Kamala Harris, as first woman elected VP, says she 'won't be the last' ",
+      "excerpt": "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
+      "publishedDateTime": "2020-11-07T18:47:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
       "title": "Hispanic Voters Deliver a Texas Win for Trump",
       "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
@@ -737,591 +1330,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-aoc-wants-anti-trump-lincoln-project-to-give-money-to-those-who-actually-made-a-difference.md",
-      "title": "AOC wants anti-Trump Lincoln Project to give money to those who 'actually' made a difference",
-      "excerpt": "After the Democratic Party failed to meet its electoral expectations in House races around the country on Election Day, one New York Democrat urged a conservative political group to donate money to progressive organizations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dnysN_x5IlU/aoc-lincoln-project-give-money-away",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dnysN_x5IlU/aoc-lincoln-project-give-money-away",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1522d2fa-AP20308821141188.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-lincoln-project-give-money-away.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-lincoln-project-give-money-away.amp",
-      "publishedDateTime": "2020-11-06T23:03:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-bolsonaro-abandons-friend-trump-after-2020-election-says-hes-not-the-most-important-person-in-the-world.md",
-      "title": "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'",
-      "excerpt": "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
-      "publishedDateTime": "2020-11-06T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-bernie-sanders-thanks-praises-progressives-for-bidens-victory-before-race-is-called.md",
-      "title": "Bernie Sanders thanks, praises progressives for 'Biden's victory' before race is called",
-      "excerpt": "Sen. Bernie Sanders thanked progressives Friday afternoon for aiding Democratic nominee Joe Biden’s 2020 presidential efforts – even with the race still too close to call.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2Dal4MmAE0/bernie-sanders-progressives-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2Dal4MmAE0/bernie-sanders-progressives-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20074794494233.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bernie-sanders-progressives-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-progressives-biden.amp",
-      "publishedDateTime": "2020-11-06T19:28:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-where-is-mike-pence.md",
-      "title": "Where is Mike Pence?",
-      "excerpt": "Vice President Mike Pence hasn’t been seen publicly for three days. Pence, who heads the coronavirus task force and serves as president of the Senate, was not with the president in the briefing room Thursday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_45/3425842/201104-post-election-live-blog-main-cover-cs_677f87a787c5da5efad0d320bdbc0748.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1246707",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1246707",
-      "publishedDateTime": "2020-11-06T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-home-vandalized-after-california-man-hangs-effigy-of-biden.md",
-      "title": "Home vandalized after California man hangs effigy of Biden",
-      "excerpt": "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_45/3426637/201106-brentwood-home-damage-cover-inline-jm-1949_4010630804b95605f983e1db6345adb2.jpg",
-          "width": 1245,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1246876",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246876",
-      "publishedDateTime": "2020-11-06T17:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-gop-to-argue-georgia-senate-runoffs-would-be-key-to-check-biden-and-a-democratic-house.md",
-      "title": "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House",
-      "excerpt": "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
-      "publishedDateTime": "2020-11-06T17:21:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-kamala-harris-in-detroit-on-election-day-to-rally-support-have-faith-in-the-american-people.md",
-      "title": "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'",
-      "excerpt": "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/6129769002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002",
-      "publishedDateTime": "2020-11-06T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-trump-campaign-hasnt-provided-evidence-to-back-up-claim-of-wisconsin-election-irregularities.md",
-      "title": "Trump campaign hasn't provided evidence to back up claim of Wisconsin election 'irregularities'",
-      "excerpt": "Trump and officials with his campaign have floated vague accusations with no evidence of election tampering in Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ffda0c65-205a-44d9-8c5b-8e952696d68b-TRUMP_KENOSHA_0550.JPG?auto=webp&crop=3899,2194,x0,y438&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6173694002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6173694002",
-      "publishedDateTime": "2020-11-06T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-president-donald-trump-handily-wins-kentucky-once-again.md",
-      "title": "President Donald Trump handily wins Kentucky once again",
-      "excerpt": "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6130620002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002",
-      "publishedDateTime": "2020-11-06T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-how-donald-trump-won-ohio-a-closer-look-at-the-campaign-in-a-battleground-state.md",
-      "title": "How Donald Trump won Ohio: A closer look at the campaign in a battleground state",
-      "excerpt": "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/25/PCIN/bbc1d0b4-2ba3-472e-ac4c-cef8974a5311-AP20298827401012.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6161704002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161704002",
-      "publishedDateTime": "2020-11-06T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-fact-check-video-shows-mail-waste-not-shredded-trump-ballots.md",
-      "title": "Fact check: Video shows mail waste, not shredded Trump ballots",
-      "excerpt": "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M25L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L",
-      "publishedDateTime": "2020-11-06T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

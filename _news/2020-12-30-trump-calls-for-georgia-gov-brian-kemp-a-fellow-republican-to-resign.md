@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Durbin: Trump Georgia call 'merits nothing less than a criminal investigation'"
+    excerpt: "Senate Minority Whip Dick Durbin (D-Ill.) said Sunday that President Trump’s call with Georgia Secretary of State Brad Raffensperger (R) “merits nothing less than a criminal investigation.”"
+    publishedDateTime: 2021-01-03T22:23:00Z
+    webUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation"
+    ampWebUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_062420bc_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump pushes Georgia secretary of state to 'find' votes during phone call, Washington Post reports"
     excerpt: "The Washington Post released audio excerpts of a call in which Trump pressures Raffensperger to \"find\" enough votes to reverse his election loss."

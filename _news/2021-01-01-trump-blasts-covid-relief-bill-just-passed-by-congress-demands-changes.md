@@ -32,35 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
-    excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
-    publishedDateTime: 2020-12-28T12:37:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
+  - title: "Georgia Republicans stick with Trump and support increased direct payments"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
+    publishedDateTime: 2020-12-29T17:03:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's conspiracy theory connecting Georgia's secretary of state to China"
+    excerpt: "In the waning days of his presidency, Donald Trump continues to spread nonsense conspiracies over the 2020 election and the officials who oversaw it, attacking Georgia's governor and secretary of state on Twitter Tuesday.\n    \n"
+    publishedDateTime: 2020-12-30T22:21:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fVUz1KEo3pY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/ga-sos-brother-trump-tweet-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/ga-sos-brother-trump-tweet-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130161114-raffensperger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
+    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
+    publishedDateTime: 2020-12-15T01:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
-    excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
-    publishedDateTime: 2020-12-23T10:33:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html"
+  - title: "George Clooney on ‘The Midnight Sky’ and Donald Trump"
+    excerpt: "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington."
+    publishedDateTime: 2020-12-23T18:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
+    excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
+    publishedDateTime: 2020-12-28T15:53:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c2/b1/45795baf42ecbac2e1a9157a60f1/201228-kelly-loeffler-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "wO2fo6pgFpMaVMju7H+0SkXQHcprug7qt8TFs/Xxcfw36BlSMo6c6aP+5vTOJ7sejwKoSjhTNbIrN2RnroGMQHan0eVT2mkelY5w0+gwkwYsGMTW3SwHmgRpCY2nXyOBvfxbgmGNEeWr80oZZ9Sjgo5R1kJFRaW5wsgnT0uR5sU58vDV16SBoWZ9U9Tec7mSMNo9TUgOnfFprJrMxSVzgtEJhS/6CSu+CZcbaM+f7/+hGWbqb9k8xLcjp7Ntxs51ajKKY2I2+iiTdbL+8fKumli5k0sGcIt5IZUChMOH1/6ciBhdETRxjy7nY8mFQDFWb8GLWX7Qh9fNVAL+2Y5n1YWx8aoPbdQ9938gMUnWgQw8wIO4W34tHsVeuIEcAWOW93284/3kTaiSL7GpBQ/CK1VRUgaI4IX9gVqQLvSx5LvgYFsQN7v3LPhMW0J/sZPWPA4mPpsbYBuQIsNPUsHNtC1Cb0dosfMYzMki8R9ApwFI2+ybYZeMHARPzk0bqoZl87THomY5v50Br2tnRVBfbw==;v+EM6seMTQxOkNU0lnAadA=="

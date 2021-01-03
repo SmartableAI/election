@@ -79,20 +79,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
-    excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
-    publishedDateTime: 2020-12-31T23:57:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 123
-    images:
-      - url: "https://static.politico.com/f9/27/baaa8c084e7e96889e5435424831/1231pence.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "gXoHnXgSxEpFvhvQFiLbAtLJ9f+ASzW6tZFtph3ZvazJuEI3WTiiagw+9aJFqhNVl1YQ7vfQGw1oaZMu5dVCfFWsOhyUqWR465lLtYxr9xaKOcq9gTBM2CvmrG4f8YFFWM2VfO8cFKHzu5IHob0eD/vB5MYuO8re5/BKMCdbkmqGZTvPy0vuPzOqeDecPr/1PhXRZEmDFjBlM9GFsmuqQCw2PQ0Yuq1Iokjc1FZb+EaVIe2dknoW5UfylS9/iDXYcK9txOUYdHPTIaiL9RLl7lwYJJvZp6D+VfXuYV7vk+DJtZTWR9732BpcpvIDAaJz1ZfnWLjQ96xs5CzdnTeGSyIn3nBVk3fxsjZs0py2KiE=;xZcoKXLJ/1OVmvVBmuoM6A=="
 ---

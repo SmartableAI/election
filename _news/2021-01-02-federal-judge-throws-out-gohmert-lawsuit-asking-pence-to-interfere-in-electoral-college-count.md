@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 213
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229110145-01-mike-pence-1216-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Judge throws out Gohmert suit aimed at empowering Pence to overturn 2020 election results"
-    excerpt: "A federal judge has tossed out a GOP-led lawsuit aimed at empowering Vice President Mike Pence to unilaterally overturn President-elect Joe Biden’s victory, contending that the plaintiffs — Rep. Louie Gohmert (R-Texas) and 11 Arizona Republicans who would have been electors for Donald Trump — lacked standing to sue."
-    publishedDateTime: 2021-01-02T02:08:00Z
-    webUrl: "https://www.politico.com/news/2021/01/01/louie-gohmert-lawsuit-pence-453387"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 121
-    images:
-      - url: "https://static.politico.com/38/e9/19e5c3f34a0a80d085ec10295880/ap20210686507718-1-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "8NqodGz/ciTcuy24G81cOHKpF3VQ304o02Oru07Uj/NAQpaSOqUG0K3LhO10nGTG+vO2lcud4G2+BUoItXNLEFLfh0PDSGfPJYWkyW97MHcnkpvtLqc/1DNckSpf5kuBfvYP01IZ7xqjdyiTm5VX4UJtRmVL7p35xhHzQlKuk0ClA+A2ssCQ0euDtjb0nnNLwKoRdsnGdGNYiWIAGOEFysoaNddg5T5CCYw/e8Sz/oM/5I/vL1viZGqwI9Tlre7vCwGlPq9N4EUoRL+XIjC59wywbAUnXk3PrOk2ZK8SszpUokPU8pBk1WQCKfGPDzkYeFuxsqKlwbNfCmdtF3ki1mjz25soiqavwWamYNC4x/8=;VoEM/om8YG0yLGALAEeWbA=="

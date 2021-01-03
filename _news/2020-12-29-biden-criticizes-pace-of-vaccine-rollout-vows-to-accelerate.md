@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-o
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201230&i=OVDB2FLJZ&r=OVDB2FLJZ&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Congress opening new session as virus, Biden's win dominate"
+    excerpt: "Congress is preparing to convene for a new session with lawmakers sworn into office during a tumultuous period"
+    publishedDateTime: 2021-01-03T21:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-opens-session-covid-19-bidens-win-dominate-75020965"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden wants to fill federal court seats – but he needs to win the Senate first"
     excerpt: "Trump went into overdrive on filling court seats, but the Democrats must win in January’s runoff or a Republican Senate will block them at every turn"

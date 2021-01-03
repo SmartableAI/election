@@ -427,22 +427,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
-    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-    publishedDateTime: 2021-01-03T19:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z
@@ -516,6 +500,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-29-2020/t_fa48a779c9da4288a801dc48894fc8b2_name_63b5578c_4a1c_11eb_97b6_4eb9f72ff46b_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
+    excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""
+    publishedDateTime: 2021-01-03T02:52:00Z
+    webUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5ff1a0e7a18a450018cb6898?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
   - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
     excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
@@ -769,6 +769,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/time-is-running-out-on-us-president-donald.jpg"
         width: 1024
         height: 625
+        isCached: true
+  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
+    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
+    publishedDateTime: 2021-01-03T19:54:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden Says Trump Vaccine Plan Falling 'Far Behind'"
     excerpt: "US President-elect Joe Biden on Tuesday vowed a relentless effort to fight Covid-19 the moment he takes office, as he warned that Donald Trump's vaccination drive was falling dangerously short. Speaking after a briefing by experts,"

@@ -3,8 +3,8 @@ category: news
 title: "Hunter Biden's Guilty Laptop"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-01-03T13:05:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
+webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
 type: article
 quality: 65
 heat: -1
@@ -57,6 +57,6 @@ related:
         height: 517
         isCached: true
 
-secured: "RfJ9ZZ+cHgDLmudH7mFyzewmC7GNkqNgHdhZthVbhzm91F70DbBWDyir2hlMboLZmt5Rt1EEkWc+gfKKJ6U4Uwng9GpMqI/2VXGqSP6oJPorOeMjTR08hpg66C+bg4YMrcpJyUFuTJtCVAFozoJzW3llDQ70ITih1d3tjW6EqjH1YQsSSAr/ubPkrU/34HtAxUYuP3OTvdN1s4HhpvLkxvPETr69gquIcaDDtDPRCjfla1MTh+qU38tqM7oGA+osmzVWtxafrAt1tXpXBpFh2TAvPVruqhgNYAll6X3Vg5Ai8c6/YjEmXVs1Ra9ZkzdyuN3zpVCGpw1BBkFPRCLeC2nRXSEgVDZ/GP3/mqzT6Dw=;DJTrpPmTU6O2IVeXvMyYxQ=="
+secured: "MzD7X/eZHrinn++B/mTfE9+YpCYckgdJDX5mmT2agOcxwIufeUgBa+xCjoK+gR2J4xe8uJkcYzuhNQPE6FLNEQe+Zsd3V4e9eZTH1109lSpJZAqkABhkdNd/XRuqRueOzuXh9pzXyAQ72H1K7Nl2/CF7m/l0T5zlsI05t3amXeft4o00d+ldWFWG7nJZOgpBqlVXcUd5M+genk7cxtK8jNlUvBEhZTHV7zq1l0bUGz2OxWxDqcc0S62Z9J7f7Uqtc1q7B5t4A81kRKOmy2PEwlJgDuUDg2tBtWHZyODx3pFyftLQoIecRWbW2LkHqPT7xl4aSt5ySA+gIxoVqyolewVAVzdbEKDH6HZWz2/6IHA=;ErlrAWTgDawF6cCwmMT8Fw=="
 ---
 

@@ -30,85 +30,209 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: How Trump made people care about politics again "
-    excerpt: "Love him or hate him, President Donald Trump made most Americans feel strongly about politics in a way no politician has in our lifetimes. Record numbers of Americans felt strongly favorable or unfavorable toward Trump during his time in office. (The strongly favorable and unfavorable was 71% in a Fox"
-    publishedDateTime: 2021-01-02T15:02:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2_GnXpLUKqs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/trump-politics-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/trump-politics-analysis/index.html"
+  - title: "Trump budget director accuses Biden team of 'false statements' in latest transition spat"
+    excerpt: "President Donald Trump's budget director is accusing President-elect Joe Biden's team of issuing \"false statements\" regarding his office's cooperation during the ongoing transition, insisting the office has been fully transparent over the course of 45 meetings.\n    \n"
+    publishedDateTime: 2020-12-31T21:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzvernCG60E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190411200659-omb-acting-director-vought-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden eyes cuts to Trump nuclear program as critical arms control deadline with Russia looms"
+    excerpt: "President-elect Joe Biden will explore making cuts to the country's nuclear modernization program, potentially reversing Trump administration efforts to enhance America's nuclear arsenal by developing new weapons. Instead, Biden intends to place greater emphasis on arms control, according to two transition"
+    publishedDateTime: 2020-12-29T14:41:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3hJpGsV9tA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden legal team asks senators for judicial nomination recommendations "
+    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T00:39:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223152853-01-trump-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: What's happening with the latest Trump appeals to the Supreme Court"
-    excerpt: "The Supreme Court will enter a new year Friday but there's still election drama from 2020 on its plate.\n    \n"
-    publishedDateTime: 2020-12-31T21:22:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FXNdSCFVT8U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/supreme-court-trump-challenges-explainer/index.html"
+  - title: "Secret Service adding former Biden agents to new presidential detail "
+    excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T04:42:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203135654-20201203-scotus-group-shot-illustration-updated-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump warped HHS long before Covid-19"
-    excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"
-    publishedDateTime: 2020-12-31T09:36:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/how-trump-warped-hhs-452964"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/31/how-trump-warped-hhs-452964"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/31/how-trump-warped-hhs-452964"
+  - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
+    excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-24T15:32:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
+    excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
+    publishedDateTime: 2020-12-31T16:16:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oYjPBrVurOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
+    excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
+    publishedDateTime: 2021-01-02T13:31:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1yBaiADLWPA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231110950-02-sunrise-movement-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration taking steps to designate Cuba as state sponsor of terrorism in coming days"
+    excerpt: "The Trump administration will soon take steps toward designating Cuba as a state sponsor of terrorism as an 11th hour effort to create hurdles for the incoming Biden administration, which is likely to pursue warmer ties with Havana.\n    \n"
+    publishedDateTime: 2020-12-30T18:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3hDYDPb56hM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration speeds up 'midnight rule-making,' creating hurdles for Biden"
+    excerpt: "The administration's last-minute rules include contentious proposals that President-elect Joe Biden is likely to oppose."
+    publishedDateTime: 2020-12-30T19:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-administration-speeds-midnight-rule-making-creating-hurdles-biden-n1252548"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252548"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252548"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_52/3437281/201221-donald-trump-jm-1552_f80396144228909ae975473c07ed3e33.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden Criticizes Trump on Vaccine Distribution and Pledges to Pick Up Pace"
+    excerpt: "Three weeks from taking office, Joe Biden called vaccinating Americans “the greatest operational challenge we’ve ever faced as a nation” and offered a bleak assessment of the months ahead."
+    publishedDateTime: 2020-12-30T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/29/us/politics/29dc-biden/29dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's unplanned gift to Biden: Clean energy on the rise"
+    excerpt: "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy."
+    publishedDateTime: 2020-12-29T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://static.politico.com/42/4c/8b9f84b04a42af0fe89bc2879207/1230trump2-1.jpg"
+      - url: "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "After Trump's drubbing in the courts, liberals fear a legal hangover"
-    excerpt: "The president and his allies have lost suit after suit seeking to overturn the election. But the victories could ultimately prove costly for the left."
-    publishedDateTime: 2021-01-01T09:36:00Z
-    webUrl: "https://www.politico.com/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/01/donald-trump-courts-election-legal-hangover-453217"
+  - title: "Snowden allies see opening amid Trump clemency blitz"
+    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
+    publishedDateTime: 2020-12-24T21:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 115
     images:
-      - url: "https://static.politico.com/67/07/130984304729800e8ed9ed750cb4/gettyimages-1230086732-c.jpg"
+      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "The Eight Pieces of Pop Culture That Defined the Trump Era"
-    excerpt: "As America’s Trump years come to an end, there is only one pop culture figure who fits that era-defining mold: Donald Trump himself. But unlike those figures, Trump doesn't represent any single, unifying truth about our character;"
-    publishedDateTime: 2021-01-02T12:13:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/01/02/pop-culture-trump-era-2020-analysis-449495"
+  - title: "Presidential Transition Live Updates: After Refusing to Sign the Relief Bill, Trump Suggests He May Take Action"
+    excerpt: "President Trump tweeted, “Good news on Covid Relief Bill. Information to follow!” Democrats’ House losses in California signal the steep obstacles they will face in 2022. President Trump’s fraud claims died in court,"
+    publishedDateTime: 2020-12-28T00:27:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
     images:
-      - url: "https://static.politico.com/da/02/0a5d45fa420abea71fda4049e5d2/trump-pop-culture-illo.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27transition-briefing-stimulus-promo1/27transition-briefing-stimulus-explainer2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "9TPMBBc/KDf6o4102o+CXPnbgGIzsQPeUoeh2Oz5WQxyW5OdQvNNi5Zy/qEkQTo9ghpGGc9lLcUDEVHtbROaC83HxqVHDYndmvEgqEC6LR0CAmb4lhrd+Nhzu5EscatksQy5+zgcbVc50wM4vpL+168+OnqDCIqiXGT1NggpNk/ptuFhDsykhhiNSdD3FD74mjRzfWblGD5GONioLvylSLIU8JJkzQ5HYXtLUmaRUdopmJMOoJC4J6KH7czyZgIRe9jrMXqUUW0M2t8n9G4e4Coinn+gvItGcbAH+F66Z1rAWkDygFsrwoCAHeSgeEpCEkJS4zTlQV1oAwA+ygIz+hNRU/+oVS14csVMixlmQYBlKnoQ7Cd3m3P7Vjtb0BRcaaQMiZpOnWZZiOYjIKOr7tBov5wgYNheMbKNp2a81gqgMuC/yRE1z41CuOfFSVmMIF+s6Rz8Wc59eWmu5dmaZRDxKoox6H7Skmi+tPFiF5QX5K96S8p0qt6sCw7XlNwDurSyMRAI+kOZ4+W8jBBexA==;BMHiaQEOsnS4+HloxZRM+A=="

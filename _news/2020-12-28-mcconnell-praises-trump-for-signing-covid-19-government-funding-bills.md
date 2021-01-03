@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump's Stuning Achievement in Middle East"
     excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"

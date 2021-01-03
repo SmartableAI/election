@@ -135,6 +135,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Congress opening new session as virus, Biden's win dominate"
+    excerpt: "Congress is preparing to convene for a new session with lawmakers sworn into office during a tumultuous period"
+    publishedDateTime: 2021-01-03T21:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-opens-session-covid-19-bidens-win-dominate-75020965"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
     excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
     publishedDateTime: 2020-12-29T21:26:00Z

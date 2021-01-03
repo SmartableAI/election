@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces Miguel Cardona as education secretary nominee"
+    excerpt: "Joe Biden's transition team late Tuesday announced Connecticut Education Commissioner Miguel Cardona as the President-elect's nominee for education secretary.\n    \n"
+    publishedDateTime: 2020-12-23T01:31:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUpCyfxo4mI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/miguel-cardona-education-secretary-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/miguel-cardona-education-secretary-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221193203-miguel-cardona-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to introduce Pete Buttigieg as transportation secretary nominee Wednesday "
     excerpt: "President-elect Joe Biden will introduce former South Bend, Indiana, Mayor Pete Buttigieg as his nominee for transportation secretary at an event in Wilmington, Delaware on Wednesday.\n    \n"
     publishedDateTime: 2020-12-16T15:33:02Z
@@ -60,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209170212-14-pete-buttigieg-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden faces uncertain outlook for quick confirmation of Cabinet nominees as some Republicans urge caution"
+    excerpt: "President-elect Joe Biden has been moving swiftly to fill out much of his Cabinet. Whether the Senate will do the same is another question.\n    \n"
+    publishedDateTime: 2020-12-22T22:54:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-wVjeXv_us/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219144958-01-biden-climate-team-announcement-1219-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

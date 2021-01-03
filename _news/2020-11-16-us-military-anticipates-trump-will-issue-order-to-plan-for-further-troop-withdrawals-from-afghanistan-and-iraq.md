@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump was briefed that China sought to pay non-state actors to attack US forces in Afghanistan"
+    excerpt: "President Donald Trump received information earlier this month that China sought to pay non-state actors to attack American forces in Afghanistan, a senior administration official said.\n    \n"
+    publishedDateTime: 2020-12-31T00:17:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jY9JDWPrjcs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "RxNCx6iRJNqPRSD/bFWKFgtXVTdhfjo0DFL3t/lXSjizav/ob/W0SEXqRPBeatUF88q07KJPuCEnJIZy8S0zUTCHdxWkWMB1NzLVU0NHoHF5CjrXPaoccAeM1kJNQzpceHFgwMQpdow1dsOa1vUns7fY8ia77eu8wJNbqBKDOEafm6+xnFUEOT8WXYE27R4W5iKbp2Kv0aVLbs/FKeaZbS0ojl1Clf5sYCG7BQMNne8C7Mvtl8k0W6fvSBIzpPkNjEWT7xhREvrszgkV8vJ/C70ILfgXjUIbXkkjWDxi7cxCpKJDLoKeYrmj70tcCCLIzOeNymRQNrMwB2yK6glfZIi3ZWKzQRCGbSz+tqf1wNU=;Ib5NicP+hF6yMo+8WLN1xQ=="
 ---

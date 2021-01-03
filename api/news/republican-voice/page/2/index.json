@@ -283,6 +283,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-26-live-updates-trump-briefed-on-nashville-explosion-that-appears-to-be-intentional.md",
+      "title": "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'",
+      "excerpt": "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "originalUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "publishedDateTime": "2020-12-25T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-campaign-persists-with-election-challenges-less-than-2-weeks-from-key-jan-6-date.md",
       "title": "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date",
       "excerpt": "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6.",
@@ -1595,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
       "publishedDateTime": "2020-12-20T08:07:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-navarro-we-are-all-china-hawks-because-of-trump.md",
-      "title": "Navarro: 'We are all China hawks' because of Trump",
-      "excerpt": "As tensions between the U.S. and China rage on, White House trade adviser Peter Navarro told \"Fox & Friends Weekend\" that President Trump has pushed both parties to take a tougher line against China.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350698854664.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
-      "publishedDateTime": "2020-12-20T07:46:12-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

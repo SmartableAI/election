@@ -2,30 +2,26 @@
 category: news
 title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
 excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-publishedDateTime: 2021-01-03T19:52:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+publishedDateTime: 2021-01-03T19:54:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
+  - url: "https://www.baltimoresun.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -503,6 +499,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
+    excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""
+    publishedDateTime: 2021-01-03T02:52:00Z
+    webUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5ff1a0e7a18a450018cb6898?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
     excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
     publishedDateTime: 2020-12-28T14:12:00Z
@@ -815,6 +827,6 @@ related:
         height: 683
         isCached: true
 
-secured: "viaOWfCiaqjr8HntpUoMXBLRtPdKx6b5os8QI+kbwpX5Xwg1PnT35ys1eQQl/QIrewQHPbqZdHpi9CBctoo6oBLTw9AN1aEooTNqsfiLbEVHEfgPGUrleNkt6pQPh2YXVK67rc83hrGrak/Tfvsq4TcSKsYP/eA+6I+tWRLuWKFJaccZY1zcP6wk+/qiFMMa99o4Ewjt4sxaYtAsA8/pPcpVn/feoqlFOjG0IZ5YX2zpgC4i54+Qd3froD8DIFKFHMHl++UBIPHX8pWAYVXK+a9p4zECB4SjYx6WitFZnTVGCbokCQDng8HMRJyJdDC6Rkxn23be/Gdri2MtN2MltCuqL4FnaAHT5NK9g1sq0bY=;d7ayCdqimhsLnZH75VlcNg=="
+secured: "bhhoAeiImz6HSaPeVHgobNF25AW+RZAsjEJvAX8AzKnYFJY+esWD1/Tcs6QwlhDGW+Wcc6TWs5K7jP2jeRk99kwpgkzGdrhofBfPFfftg/4HW5ExFWBwrAdAlOnZsGjCfhzirBCMQTQ9a5M2EtPC//7dcTBZEtCrIJmbh7RRCxeI7ynFjgO8keqcutnKx1VdS6fRPM+zE2kuW9mMaLjnIPfIRvRDrqzlzc7+Hgl+XYDp/GpiHXfAt8jsh7yxN+OIOrtKdVctTNz6qxanXwqhlwN+EC3Md/HbNYi6DE6Gt4bxWqAYFyFhTtIL0bSgQxYcAsSBV+uRIiudSXpOZ30J53p/mDHnZcsPkEYlgQaUgEU=;9l1FvfB5+HQXNzh6VCQ4Lg=="
 ---
 

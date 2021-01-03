@@ -2,6 +2,614 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-11-12-live-updates-bidens-lead-grows-in-pennsylvania.md",
+      "title": "Live Updates: Biden's lead grows in Pennsylvania",
+      "excerpt": "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp",
+      "publishedDateTime": "2020-11-11T21:20:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.md",
+      "title": "GOP senator says he’ll ‘step in’ if Biden doesn’t receive intel briefings by Friday",
+      "excerpt": "President-elect Joe Biden should be able to receive intelligence briefings by Friday, a Republican member of the U.S. Senate said in a radio interview that aired Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Lankford_Senate.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "publishedDateTime": "2020-11-11T20:56:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-biden-chooses-longtime-adviser-ron-klain-as-chief-of-staff.md",
+      "title": "Biden chooses longtime adviser Ron Klain as chief of staff",
+      "excerpt": "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_025bae0c36904b74920fce02f688b0d9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "publishedDateTime": "2020-11-11T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-another-term.md",
+      "title": "With backing from Trump, RNC chair McDaniel expected to run for another term",
+      "excerpt": "With the backing of President Trump, Ronna McDaniel’s expected to run for a second 4-year term as chair of the Republican National Committee (RNC).",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxwKhzTgbBU/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxwKhzTgbBU/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp",
+      "publishedDateTime": "2020-11-11T18:22:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-biden-names-ron-klain-as-his-white-house-chief-of-staff.md",
+      "title": "Biden names Ron Klain as his White House chief of staff",
+      "excerpt": "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111195626-ron-klain-200310-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html",
+      "publishedDateTime": "2020-11-11T17:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster-masquerading-as-diplomatic-triumph.md",
+      "title": "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'",
+      "excerpt": "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5MCNxCBXGk/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5MCNxCBXGk/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d6cb2c1-b59f-480d-8f8a-e6494726da30/1f1727ec-3082-495f-b325-dc172502d366/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp",
+      "publishedDateTime": "2020-11-11T16:46:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term.md",
+      "title": "The Latest: Trump backs McDaniel for another RNC chair term",
+      "excerpt": "President Donald Trump is endorsing the chair of the Republican National Committee for another term, despite his electoral defeat",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-11T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-andrew-mccarthy-trumps-post-recount-legal-options-depend-on-how-much-fraud-you-can-prove.md",
+      "title": "Andrew McCarthy: Trump's post-recount legal options depend on 'how much fraud you can prove'",
+      "excerpt": "After Georgia Secretary of State Brad Raffensperger ordered a hand recount of 2020 presidential election ballots cast in the Peach State, former federal prosecutor Andrew McCarthy joined \"Your World\" to discuss the potential impact.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zAIBg6V3q0M/georgia-recount-2020-election-trump-legal-options",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zAIBg6V3q0M/georgia-recount-2020-election-trump-legal-options",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bd2c690-a9b9-47f4-a2a6-54b14610ca5f/b3af6cb5-a41e-4a4c-b9c1-5998502ca702/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-recount-2020-election-trump-legal-options.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-recount-2020-election-trump-legal-options.amp",
+      "publishedDateTime": "2020-11-11T14:56:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-trump-rips-gop-philadelphia-commissioner-al-schmidt-amid-election-fight-being-used-big-time.md",
+      "title": "Trump rips GOP Philadelphia Commissioner Al Schmidt amid election fight: 'Being used big time'",
+      "excerpt": "President Trump ripped Philadelphia City Commissioner Al Schmidt in a tweet on Wednesday, accusing the Republican official of ignoring his campaign’s claims of election fraud in Pennsylvania’s largest city.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wm2twB8qxGE/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wm2twB8qxGE/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/021c1b12-29a5-43a2-ba02-c9f46e99e2ff/e9356632-0b76-4548-af73-41573d380b5f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp",
+      "publishedDateTime": "2020-11-11T12:40:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-blm-co-founder-sends-message-to-biden-we-want-something-for-our-vote.md",
+      "title": "BLM co-founder sends message to Biden: 'We want something for our vote'",
+      "excerpt": "Black Lives Matter co-founder Patrisse Cullors requested a meeting with President-elect Joe Biden to discuss the movement's agenda and lay out expectations for the incoming administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l-ZixAIdhAA/blm-co-founder-to-biden-we-want-something-for-our-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l-ZixAIdhAA/blm-co-founder-to-biden-we-want-something-for-our-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61246049-bb06-4ffe-a863-6d8fc55fd19a/64b0c1c5-010e-4a16-87b7-5d7dc3b2d4fb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp",
+      "publishedDateTime": "2020-11-11T12:34:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-trump-administration-installs-advocate-for-quick-afghanistan-withdrawal-at-pentagon.md",
+      "title": "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon",
+      "excerpt": "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html",
+      "publishedDateTime": "2020-11-11T12:24:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-karl-rove-reprehensible-for-aoc-others-on-left-to-call-for-blacklist-of-trump-staffers.md",
       "title": "Karl Rove: 'Reprehensible' for AOC, others on left to call for 'blacklist' of Trump staffers",
       "excerpt": "Fox News contributor Karl Rove on Wednesday criticized the people who called for consequences against Trump administration staffers.",
@@ -754,594 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-my-faith-is-shaken-the-qanon-conspiracy-theory-faces-a-post-trump-identity-crisis.md",
-      "title": "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis",
-      "excerpt": "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
-      "publishedDateTime": "2020-11-10T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-vice-president-mike-pence-expected-in-sanibel-on-tuesday.md",
-      "title": "Vice President Mike Pence expected in Sanibel on Tuesday",
-      "excerpt": "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6226614002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226614002",
-      "publishedDateTime": "2020-11-10T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-authoritarians-from-mussolini-to-trump.md",
-      "title": "Authoritarians From Mussolini to Trump",
-      "excerpt": "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
-      "publishedDateTime": "2020-11-10T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.md",
-      "title": "Trump slams McCabe as ex-FBI official testifies virtually",
-      "excerpt": "President Trump on Tuesday slammed ex-FBI deputy director Andrew McCabe, urging Republicans not to let him “get away with totally criminal activity” as the former official testified virtually before the Senate Judiciary Committee.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o_8J3cy-uBI/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o_8J3cy-uBI/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp",
-      "publishedDateTime": "2020-11-10T08:39:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-election-2020-live-updates-trump-forming-pac-barr-oks-voting-probe.md",
-      "title": "Election 2020 live updates: Trump forming PAC; Barr OKs voting probe",
-      "excerpt": "While not conceding the election, Trump is forming his own PAC to give money to local, state and federal candidates he supports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/10/election-2020-updates-trump-continues-legal-fight-biden-talks-covid/6231519002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/10/election-2020-updates-trump-continues-legal-fight-biden-talks-covid/6231519002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/USAT/1ee1a838-164b-4fbc-b60f-1040fd969561-bidens_flag.jpg?auto=webp&crop=4963,2792,x0,y330&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6231519002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6231519002",
-      "publishedDateTime": "2020-11-10T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-pandemic-is-heading-into-its-darkest-days-biden-coronavirus-advisory-board-member-warns.md",
-      "title": "Pandemic is heading into its \"darkest days,\" Biden coronavirus advisory board member warns",
-      "excerpt": "\"On Labor Day we were 32,000 cases a day in this country,\" Osterholm said. \"Do not be at all surprised when we hit 200,000 cases a day.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
-      "originalUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/10/dff95b9c-2398-45be-a634-98f96d898e3d/thumbnail/1200x630/ed4590a58c3d8478fd41c70fc4bd63cb/1605022192600.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/",
-      "publishedDateTime": "2020-11-10T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-faith-adviser-bishop-harry-jackson-dead-at-66.md",
-      "title": "Trump faith adviser Bishop Harry Jackson dead at 66",
-      "excerpt": "Bishop Harry Jackson Jr., a Maryland pastor and unofficial faith adviser for President Trump, died Monday at age 66, his church announced.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yMpCcQqhy4/bishop-harry-jackson-jr-dead-white-house-faith-adviser",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yMpCcQqhy4/bishop-harry-jackson-jr-dead-white-house-faith-adviser",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-Bishop-Harry-Jackson-Trump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp",
-      "publishedDateTime": "2020-11-10T07:48:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-jr-and-kimberly-guilfoyle-make-moves-to-expand-rnc-influence-and-possibly-takeover-sources-say.md",
-      "title": "Trump Jr. and Kimberly Guilfoyle make moves to expand RNC influence and possibly takeover, sources say",
-      "excerpt": "Donald Trump Jr. and Kimberly Guilfoyle are making moves to expand their influence at the Republican National Committee, three GOP sources, including advisers to the President tell CNN. Some sources say they may seek to take over the party structure themselves.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0u73DRMKIto/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0u73DRMKIto/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200203183802-donald-trump-jr-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-jr-kimberly-guilfoyle-rnc/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-jr-kimberly-guilfoyle-rnc/index.html",
-      "publishedDateTime": "2020-11-10T07:14:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-to-launch-pac-to-retain-influence-after-departing-white-house.md",
-      "title": "Trump to launch PAC to retain influence after departing White House",
-      "excerpt": "President Trump will set up a so-called leadership PAC that will allow him to fundraise and maintain his hold on the Republican Party even after he departs the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
-      "publishedDateTime": "2020-11-10T06:57:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-plans-to-launch-pac-to-maintain-influence-in-gop-circles.md",
-      "title": "Trump plans to launch PAC to maintain influence in GOP circles",
-      "excerpt": "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
-      "publishedDateTime": "2020-11-10T05:45:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-can-american-virtues-and-maybe-mike-pence-save-us.md",
-      "title": "Can American virtues (and maybe Mike Pence) save us?",
-      "excerpt": "Over the weekend, the 2020 presidential election abruptly shifted from slow motion to real-time. In rapid succession, former Vice President Joe Biden secured victory in the battleground state of Penns",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/jBNysd9-CgGQwjQVVjXYpLnRjTA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6I4BVFCVEFF2NG5LPBS6YT2YNE.JPG",
-          "width": 1200,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-10T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

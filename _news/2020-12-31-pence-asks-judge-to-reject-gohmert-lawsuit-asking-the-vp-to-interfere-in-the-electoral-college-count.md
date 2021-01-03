@@ -64,20 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge throws out Gohmert suit aimed at empowering Pence to overturn 2020 election results"
-    excerpt: "A federal judge has tossed out a GOP-led lawsuit aimed at empowering Vice President Mike Pence to unilaterally overturn President-elect Joe Biden’s victory, contending that the plaintiffs — Rep. Louie Gohmert (R-Texas) and 11 Arizona Republicans who would have been electors for Donald Trump — lacked standing to sue."
-    publishedDateTime: 2021-01-02T02:08:00Z
-    webUrl: "https://www.politico.com/news/2021/01/01/louie-gohmert-lawsuit-pence-453387"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 121
-    images:
-      - url: "https://static.politico.com/38/e9/19e5c3f34a0a80d085ec10295880/ap20210686507718-1-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "HxdwkuBvpQHtUXQNz8ul3gA3FjmuKbYbUbz/ASAZQzLhfOBwyGZjLqX8oF8g9W86HTMutWObLZycUFbcGvtuDzV8OpdyavFu1iJB6OgFo0PvfASPoqlYXBCev6TaXqdgmv1rF8E/bS1dSMWdUiYCxaeOik+lp9Mle3/bVpc1oDvGp3XPXeO6KLTHGpDgs1COV5rEoy9ETmrdjs8l+jxfVv69ZAa1RG9aY8BoseQ0SKa5MyA3hceWE6MwdRPDIqZlAh/1fn2oJOLJCi/MVuF+tMDQRwtf9EthrVAPdkur8mYt4cs6PUm34nF5YFBDxQ5zpsbumXXNssazl1yvtMSvwz0Rm+gcT1/jJGKYHc9Z2Kw=;adslb4W6S0+4jd5Ix+H5ng=="
 ---

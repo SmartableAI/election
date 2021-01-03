@@ -2,6 +2,596 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-16-some-advisers-urge-trump-not-to-veto-defense-bill-source.md",
+      "title": "Some advisers urge Trump not to veto defense bill: source",
+      "excerpt": "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
+      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0",
+      "publishedDateTime": "2020-12-15T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
+      "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
+      "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3905393001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001",
+      "publishedDateTime": "2020-12-15T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-pompeo-applauds-barrs-loyalty-to-trump-following-ags-resignation.md",
+      "title": "Pompeo applauds Barr's loyalty to Trump following AG's resignation",
+      "excerpt": "Secretary of State Mike Pompeo praised Attorney General William Barr and lauded his loyalty to President Trump just a day after Barr resigned from his post. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a861ef0-3d82-42aa-9033-ade01358a10c/f1e888a1-a635-407b-94bb-f9ebfb0558ba/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
+      "publishedDateTime": "2020-12-15T16:34:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-pence-lauds-vaccine-effort-during-stop-at-indiana-plant.md",
+      "title": "Pence lauds vaccine effort during stop at Indiana plant",
+      "excerpt": "Vice President Mike Pence said Tuesday that he's looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
+      "originalUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/f754d3185f964607a8735a917ca88426/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-biden-poised-to-nominate-granholm-to-lead-department-of-energy.md",
+      "title": "Biden poised to nominate Granholm to lead Department of Energy",
+      "excerpt": "President-elect Joe Biden is poised to tap former Michigan Gov. Jennifer Granholm to lead the Department of Energy, two people familiar with the matter say, inviting a longtime adviser who played a critical role in his debate preparations over the years to join his Cabinet.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160728203436-jennifer-granholm-0728-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html",
+      "publishedDateTime": "2020-12-15T15:33:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-ap-sources-biden-to-pick-buttigieg-as-transportation-chief.md",
+      "title": "AP sources: Biden to pick Buttigieg as transportation chief",
+      "excerpt": "WASHINGTON — President-elect Joe Biden is expected to pick his former rival Pete Buttigieg as secretary of transportation, according to three people familiar with the plans. The decision leaves the former mayor of South Bend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-15T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-rep-ayanna-pressley-tells-gavin-newsom-to-appoint-a-black-woman-to-vp-elect-kamala-harris-senate-seat.md",
+      "title": "Rep. Ayanna Pressley tells Gavin Newsom to appoint a Black woman to VP-elect Kamala Harris' Senate seat",
+      "excerpt": "\"We absolutely cannot go backwards,\" Pressley tweeted Tuesday. \"With the election of @KamalaHarris to VP-elect, @CAgovernor must prioritize this leadership, perspective & representation in the vacated U.S. Senate seat & appoint a Black woman.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Karen-Bass-FOX.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
+      "publishedDateTime": "2020-12-15T13:46:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fact-check-fake-anti-christmas-quote-attributed-to-kamala-harris-began-as-satire.md",
+      "title": "Fact check: Fake anti-Christmas quote attributed to Kamala Harris began as satire",
+      "excerpt": "Users took to Facebook to post a quote about Christmas that they claim came from Vice President-elect Kamala Harris. The fake quote began as satire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6540043002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6540043002",
+      "publishedDateTime": "2020-12-15T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-pence-likely-to-get-the-coronavirus-vaccine-by-friday.md",
+      "title": "Pence likely to get the coronavirus vaccine by Friday",
+      "excerpt": "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uDvPOjIjXI0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uDvPOjIjXI0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
+      "publishedDateTime": "2020-12-15T12:44:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-trump-campaign-files-lawsuit-over-new-mexico-ballot-drop-boxes.md",
+      "title": "Trump campaign files lawsuit over New Mexico ballot drop boxes",
+      "excerpt": "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350011448560.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp",
+      "publishedDateTime": "2020-12-15T12:21:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
+      "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
+      "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/15/us/politics/15dc-gitmo/15dc-gitmo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/15/us/politics/guantanamo-biden.amp.html",
+      "publishedDateTime": "2020-12-15T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-inauguration-committee-says-bidens-scaled-down-swearing-in-will-include-vigorous-health-and-safety-protocols.md",
       "title": "Inauguration committee says Biden's scaled-down swearing-in will include 'vigorous health and safety protocols'",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office at the US Capitol in January during a significantly scaled-down inauguration ceremony that will implement \"vigorous health and safety protocols,\" the Presidential Inaugural Committee said Tuesday.\n    \n",
@@ -766,595 +1356,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-hunter-biden-email-shows-400g-unreported-income-from-burisma-states-he-needs-to-amend-tax-returns.md",
-      "title": "Hunter Biden email shows $400G unreported income from Burisma, states he needs to 'amend' tax returns",
-      "excerpt": "Hunter Biden did not report “approximately $400,000” in income he collected from his position on the board of Ukrainian natural gas firm Burisma Holdings when he joined in 2014, according to an attorney for his firm who noted that his tax returns needed to be amended, a new email obtained by Fox News",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI_7pnpmcEk/hunter-biden-email-tax-returns-unreported-burisma-income",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
-      "publishedDateTime": "2020-12-14T07:54:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
-      "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
-      "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "publishedDateTime": "2020-12-14T06:44:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts.md",
-      "title": "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts",
-      "excerpt": "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250975",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975",
-      "publishedDateTime": "2020-12-14T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-how-the-deep-state-scientists-vilified-by-trump-helped-him-deliver-an-unprecedented-achievement.md",
-      "title": "How the ‘deep state’ scientists vilified by Trump helped him deliver an unprecedented achievement",
-      "excerpt": "A $14-billion partnership between government and industry is spurring the quickest vaccine development in U.S. history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
-      "originalUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LPMJUBR5JQI6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
-      "publishedDateTime": "2020-12-14T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-a-lifelong-republican-stood-up-to-trump-his-reward-death-threats.md",
-      "title": "A lifelong Republican stood up to Trump. His reward: Death threats",
-      "excerpt": "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true",
-      "publishedDateTime": "2020-12-14T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-trump-expands-his-cable-diet-to-newsmax-and-oan-they-benefit-and-so-does-he.md",
-      "title": "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he.",
-      "excerpt": "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-13T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-several-people-are-stabbed-and-nearly-30-arrested-in-clashes-after-trump-supporters-rally.md",
-      "title": "Several people are stabbed and nearly 30 arrested in clashes after Trump supporters rally",
-      "excerpt": "Trump demonstrators over the weekend in Washington, leading to dozens of arrests, several stabbings and injuries to police officers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/128424f/2147483647/strip/true/crop/5546x3622+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2Fc2%2F70455de34c4e9d519e464222fd1f%2Fbiden-41790.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true",
-      "publishedDateTime": "2020-12-13T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-coronavirus-live-news-trump-to-be-offered-vaccine-on-monday-london-borough-to-close-all-schools.md",
-      "title": "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools",
-      "excerpt": "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2",
-      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day",
-      "publishedDateTime": "2020-12-13T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.md",
-      "title": "Former WH communications director Alyssa Farah says GA Senate runoffs will play role in Hunter Biden probe",
-      "excerpt": "Former White House communications cirector Alyssa Farah asserted Sunday that the result of January's Georgia Senate runoff races would play a role in the future of a probe into Hunter Biden's business dealings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6yJSDrO1Uw/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20325631724231-e1607011068759.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-wh-communications-director-alyssa-farah-says-ga-senate-runoffs-will-play-role-in-hunter-biden-probe.amp",
-      "publishedDateTime": "2020-12-13T13:32:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-trump-threatens-to-veto-defense-spending-bill-citing-china.md",
-      "title": "Trump threatens to veto defense spending bill, citing China",
-      "excerpt": "President Trump on Sunday reiterated his threat to veto a $740 billion defense spending bill, setting up a showdown with the Congress that passed the legislation last week by veto-proof margins.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
-      "originalUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/Trump-ndaa-veto-3.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/",
-      "publishedDateTime": "2020-12-13T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-scalise-not-ready-to-accept-biden-win-let-the-legal-process-play-out.md",
-      "title": "Scalise not ready to accept Biden win: 'Let the legal process play out'",
-      "excerpt": "House Minority Whip Steve Scalise, R-La., said he will continue supporting efforts challenging the election results even as the Electoral College is set to officially elect Joe Biden as the next president on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46f18e67-c1f3-4d8b-af0c-1cc8176ab6f1/e519d3ae-105a-4f1a-b174-681aa265a5e2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
-      "publishedDateTime": "2020-12-13T08:18:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

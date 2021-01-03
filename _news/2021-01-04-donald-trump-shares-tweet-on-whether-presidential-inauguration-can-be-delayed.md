@@ -63,6 +63,22 @@ related:
         width: 360
         height: 233
         isCached: true
+  - title: "In recorded call, Trump pressures Georgia official to change election results - media"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call released by U."
+    publishedDateTime: 2021-01-03T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2980MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
+        isCached: true
   - title: "In recorded call, Trump pressures Georgia election official to change results - Washington Post"
     excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
     publishedDateTime: 2021-01-03T20:03:00Z
@@ -381,6 +397,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "DvPmoZ0IWURQIJD1wsI4FzxHuryWEVPA8jOed1Jw5NlzOIen9iPfq8nrmxYzUNscjE0icMlJu5Nl83+CMBiJQEP1ZBtT2O4mcULRXQnh1BExitGwnHwg2XhuS7pTSzCbqWlb262GczIPNRQ89F35W0ML4Xy20ztuqzXh9dPoGs4xKG+B48kSxi7nf1SaJi1JmuGGGvBpe8hPaKNXZlZTryxIzQ/kCNyNdXDLol7Q4QzfXoEYDw8gB9eIgDI9VUUWcU5IDSr9/8KSflwoJiVtKmrcVklg3ChBUpE509jgUUDjTg41urA5Bxnc/qXSjO7+/Yqikg5/5dribTRTxagrqo5LAen6GlZRvhiGgHhb66U=;uXtGj3TJjkA0ENVE4WWWvQ=="
+secured: "1rZkDgl6b5uMwZnnaEd4tHHpJHxI8hd0/ZSrZsFX/ey0CJQR0VZVDyB7jWu1tFGOfZ55ixjKP4Uglt/nFB7LMMDo0CfQj44/c3VK39FqbpX7EEtE0fm4/dg33uONlTLCxohsFpbYUFfcnwUS7T4A3q5qnuygyGzgjelB6Sqw6NVjBAcU4xDWqwnlEcXPUhANCcUjoHhPzMyLtbxxhdg2Rd+YFaTcpZw4PsdZGVqvKI5lKW8kqvRjnOBugB7eSz2CWwjvMWJhqrX7qlE6Eh3ndsFZ8MlgYgdUxy/xh2leQiKK9SfM0rYnKbZgrFipMYaA3CZxkKzvnfzSVw8IwvuLLW69zSKLSmtmdzTFXGKAWBPT1hhwZoz26uV/BcRj72FXxRwoLW5UBlyZOyLtKK2Mjaoig1SyJyQhqz/VvJY+HHO98b5Ftfd/POBWnnFEg7Ch8kFGoxvi7/GoiQZOg+Xgg0ydg+lMFvXeIZsrM4TtB+DjP9gVB+cMUi5zYEOy+MWY9BymbimL5duSee5/MpPN0g==;uYoT8k5HkrPc2Zjoi+uxtQ=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-attacks-brad-raffensperger-brother-1557917",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -51,63 +51,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-loeffler-perdue-side-with-trump-on-2000-stimulus-payments.md",
-      "title": "Loeffler, Perdue side with Trump on $2,000 stimulus payments",
-      "excerpt": "The Georgia senators, in close runoff races, wouldn’t say whether they’d vote to override the president’s veto of the defense bill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "originalUrl": "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "publishedDateTime": "2020-12-29T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -227,7 +170,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -419,6 +362,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-29-trump-opens-up-federal-dollars-for-private-school-vouchers-amid-pandemic.md",
+      "title": "Trump opens up federal dollars for private school vouchers amid pandemic",
+      "excerpt": "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "originalUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "publishedDateTime": "2020-12-28T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-global-stocks-advance-after-trump-signs-900b-aid-package.md",
       "title": "Global stocks advance after Trump signs $900B aid package",
       "excerpt": "Global stock markets have risen after President Donald Trump signed a $900 billion economic aid package, helping to reduce uncertainty as governments re-impose travel and business curbs in response to",
@@ -468,63 +468,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-relief-is-coming-trump-backtracks-and-signs-covid-aid-into-law.md",
-      "title": "Relief is coming: Trump backtracks and signs Covid aid into law",
-      "excerpt": "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
-      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252404",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404",
-      "publishedDateTime": "2020-12-28T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -889,6 +832,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-live-updates-trump-briefed-on-nashville-explosion-that-appears-to-be-intentional.md",
+      "title": "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'",
+      "excerpt": "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "originalUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
+      "publishedDateTime": "2020-12-25T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {

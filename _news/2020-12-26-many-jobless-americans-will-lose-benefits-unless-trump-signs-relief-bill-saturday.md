@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's plans to sign relief bill on Christmas Eve were scrapped last minute"
-    excerpt: "On Christmas Eve, staff at Mar-a-Lago made preparations for President Donald Trump to sign the Covid-19 relief package and government funding bill, a holiday gift of relief to millions of Americans suffering in the wake of the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2020-12-28T00:17:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sinCd2eQgZM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-relief-bill-christmas-eve/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-relief-bill-christmas-eve/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's mind is elsewhere as unemployment benefits run out for millions of Americans"
     excerpt: "A day before unemployment benefits for millions of Americans were set to expire, President Donald Trump had a different insult in mind: his former-model wife has yet to appear on the cover of a fashion magazine as first lady.\n    \n"
     publishedDateTime: 2020-12-26T11:22:22Z
@@ -127,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
-    excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
-    publishedDateTime: 2020-12-28T10:03:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "How Trump Tried, but Largely Failed, to Derail America’s Top Climate Report"
     excerpt: "The White House repeatedly attempted to thwart the country’s premier climate science document, one meant to steer policy for years. Scientists got in the way."
     publishedDateTime: 2021-01-01T10:00:00Z
@@ -158,20 +126,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/31/climate/31CLI-ASSESSMENT2/merlin_160191879_1db5bea5-8dfe-4c3e-8d88-f3fcff2187ca-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Pandemic complicates street vendor reform — Trump pardons Chris Collins — City pushes for expanded use of speed cameras"
-    excerpt: "Subscribe for Season Two, available now. — President Donald Trump blasted the $900 billion coronavirus relief package passed by Congress, calling it a “disgrace” and asking for amendments to the bill to increase stimulus payments to Americans."
-    publishedDateTime: 2020-12-23T12:11:00Z
-    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2020/12/23/pandemic-complicates-street-vendor-reform-trump-pardons-chris-collins-city-pushes-for-expanded-use-of-speed-cameras-491239"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 91
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "Ye33cLr353x0xLBHlO5Usl+4FIcmz7xhnjK8/MbXgW1gUPbXm0SZRBrFzWUtI5J8BQahuRtJdqAgcqftkBmSmBm6iUznFNUS7RUSiAwv/doya6Uv7uVrXkUVoPaR7iaD808hc7+LjWz20bmwGcYrnIMsoOldoo9iDPDJSZ6oeYxFgFc8EZnWAKdL2TOlBy3Mvne2ay7u5R4/U3IpBOAN5JfMtjmfpB2vxhuxpNClxX2r5x0DWZqXIge0KSO+hE7AOfnVi87QnRJy9p8skdpNfAaD7FLLB9rfiDnl1BjXFFm9CieC/yc3ll/wKEJAlrH8F1go3V4wkUXAxGSetqZZvHENasGePoW/6pne5/pFoys=;voNQbLJuhdE7gOLjvBXwBQ=="

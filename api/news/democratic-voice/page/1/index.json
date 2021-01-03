@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-03-trumps-push-to-overturn-election-result-tears-through-gop.md",
+      "title": "Trump's push to overturn election result tears through GOP",
+      "excerpt": "President Donald Trump is tearing the Republican Party apart on his way out the door, forcing Republicans to choose sides as they wrestle with the future of the party in the wake of Trump's overt attempts to subvert the results of the election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LUvEtqKySvs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LUvEtqKySvs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 830,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/171222123340-mitch-mcconnell-donald-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trump-overturn-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trump-overturn-election/index.html",
+      "publishedDateTime": "2021-01-03T13:12:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-electoral-college-objection-serves-as-another-example-of-trump-putting-loeffler-and-perdue-in-tight-spot.md",
+      "title": "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot",
+      "excerpt": "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t2VpyHSWPNs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t2VpyHSWPNs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228130647-ga-senate-race-gop-perdue-loeffler-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/electoral-college-trump-loeffler-perdue/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/electoral-college-trump-loeffler-perdue/index.html",
+      "publishedDateTime": "2021-01-03T12:13:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-analysis-republican-efforts-to-undermine-biden-victory-expose-growing-anti-democratic-streak.md",
+      "title": "Analysis: Republican efforts to undermine Biden victory expose growing anti-democratic streak",
+      "excerpt": "The scattershot efforts to overturn President-elect Joe Biden's election victory are coalescing into a movement led by top Republicans determined to exploit a manufactured crisis for broader political gains.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uWpq480Wgh0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uWpq480Wgh0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200721204618-trump-cruz-split-0721-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html",
+      "publishedDateTime": "2021-01-03T08:27:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-pence-welcomes-congressional-republicans-bid-to-challenge-electoral-votes.md",
       "title": "Pence 'welcomes' congressional Republicans' bid to challenge electoral votes",
       "excerpt": "Vice President Mike Pence on Saturday signaled his support for a bid by Republicans lawmakers to challenge electoral votes when Congress is expected to certify President-elect Joe Biden's victory in a meeting this week.\n    \n",
@@ -14,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 262,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -115,6 +283,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-02-delayed-ag-pick-raises-pressure-on-biden-to-field-a-diverse-leadership-team-at-justice-department.md",
+      "title": "Delayed AG pick raises pressure on Biden to field a diverse leadership team at Justice Department",
+      "excerpt": "The longer that President-elect Joe Biden takes to select his pick for US attorney general, the more pressure builds on him to staff his Justice Department with a diverse leadership team.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html",
+      "publishedDateTime": "2021-01-02T09:45:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-analysis-how-trump-made-people-care-about-politics-again.md",
       "title": "Analysis: How Trump made people care about politics again ",
       "excerpt": "Love him or hate him, President Donald Trump made most Americans feel strongly about politics in a way no politician has in our lifetimes. Record numbers of Americans felt strongly favorable or unfavorable toward Trump during his time in office. (The strongly favorable and unfavorable was 71% in a Fox",
@@ -127,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -171,62 +395,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-02-trump-and-hawley-set-off-republican-meltdown-with-georgia-elections-looming.md",
-      "title": "Trump and Hawley set off Republican meltdown with Georgia elections looming",
-      "excerpt": "President Donald Trump is stoking division in the Republican ranks days before control of the Senate -- and the balance of power in Washington -- is decided in a pair of runoff elections in Georgia.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OSSY2tvdG1I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OSSY2tvdG1I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 488,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/02/politics/trump-hawley-electoral-college-georgia/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/trump-hawley-electoral-college-georgia/index.html",
-      "publishedDateTime": "2021-01-02T03:11:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
       "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
       "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
@@ -239,7 +407,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 233,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -397,6 +565,118 @@
       ]
     },
     {
+      "path": "_news/2020-12-31-trump-budget-director-accuses-biden-team-of-false-statements-in-latest-transition-spat.md",
+      "title": "Trump budget director accuses Biden team of 'false statements' in latest transition spat",
+      "excerpt": "President Donald Trump's budget director is accusing President-elect Joe Biden's team of issuing \"false statements\" regarding his office's cooperation during the ongoing transition, insisting the office has been fully transparent over the course of 45 meetings.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzvernCG60E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzvernCG60E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 441,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190411200659-omb-acting-director-vought-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html",
+      "publishedDateTime": "2020-12-31T13:00:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-bidens-inaugural-committee-hosting-national-memorial-for-covid-19-victims-on-january-19.md",
+      "title": "Biden's inaugural committee hosting national memorial for Covid-19 victims on January 19",
+      "excerpt": "President-elect Joe Biden's inaugural committee on Thursday announced that it is hosting a national memorial to remember and honor the lives lost to Covid-19 and is asking cities and towns around the country to participate.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200822172519-lincoln-memorial-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html",
+      "publishedDateTime": "2020-12-31T06:20:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-trump-versus-the-truth-the-most-outrageous-falsehoods-of-his-presidency.md",
       "title": "Trump versus the truth: The most outrageous falsehoods of his presidency",
       "excerpt": "I have never seen a president in American history who has lied so continuously and so outrageously as Donald Trump, period,” presidential historian Michael Beschloss said.",
@@ -454,23 +734,80 @@
       ]
     },
     {
-      "path": "_news/2020-12-30-a-congressional-waiver-is-the-biggest-hurdle-for-bidens-defense-pick.md",
-      "title": "A congressional waiver is the biggest hurdle for Biden's defense pick",
-      "excerpt": "The biggest obstacle to retired Army Gen. Lloyd Austin's nomination for secretary of defense is his retirement date from the military just four years ago -- too recent under American law and for the tastes of several members of Congress.\n    \n",
+      "path": "_news/2020-12-31-biden-transition-chief-blasts-obstruction-by-political-appointees-at-omb-pentagon.md",
+      "title": "Biden transition chief blasts ‘obstruction’ by political appointees at OMB, Pentagon",
+      "excerpt": "Yohannes Abraham said a lack of cooperation was limiting the president-elect’s ability to mount an effective economic response to the pandemic.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html",
+      "webUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "originalUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg",
+          "url": "https://static.politico.com/10/f9/7727e4b44563a4b410842415eb81/20201230-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "publishedDateTime": "2020-12-30T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-biden-names-kathleen-hicks-as-first-woman-deputy-defense-secretary.md",
+      "title": "Biden names Kathleen Hicks as first woman deputy defense secretary",
+      "excerpt": "Joe Biden's transition team announced Wednesday that former Obama Pentagon official Kathleen Hicks is the President-elect's pick to serve as deputy secretary of defense, and she would be the first woman to serve in the role if confirmed by the Senate.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WSyk20utpn4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WSyk20utpn4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201230105634-kathleen-hicks-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -480,9 +817,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html",
-      "publishedDateTime": "2020-12-30T06:46:59-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html",
+      "publishedDateTime": "2020-12-30T08:14:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-trump-administration-to-block-palm-oil-from-second-company-in-malaysia-over-forced-labor-findings.md",
+      "title": "Trump administration to block palm oil from second company in Malaysia over forced labor findings",
+      "excerpt": "The Trump administration will halt imports of palm oil from Malaysia over findings of forced labor abuses at the plantations of one of the country's top producers of the product, which is found in many everyday items.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4S9T1G5AKhA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4S9T1G5AKhA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200930174806-palm-oil-malaysia-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html",
+      "publishedDateTime": "2020-12-30T04:30:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -636,7 +1029,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -680,63 +1073,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-30-loeffler-perdue-side-with-trump-on-2000-stimulus-payments.md",
-      "title": "Loeffler, Perdue side with Trump on $2,000 stimulus payments",
-      "excerpt": "The Georgia senators, in close runoff races, wouldn’t say whether they’d vote to override the president’s veto of the defense bill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "originalUrl": "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860",
-      "publishedDateTime": "2020-12-29T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-30-how-richard-jewells-lawyer-became-a-pro-trump-conspiracy-theorist.md",
       "title": "How Richard Jewell’s Lawyer Became a Pro-Trump Conspiracy Theorist",
       "excerpt": "The defamation lawyer L. Lin Wood has transformed into a fierce advocate for President Trump whose error-riddled lawsuits have promoted falsehoods about election fraud.",
@@ -749,7 +1085,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -790,6 +1126,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-georgia-republicans-stick-with-trump-and-support-increased-direct-payments.md",
+      "title": "Georgia Republicans stick with Trump and support increased direct payments",
+      "excerpt": "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 273,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html",
+      "publishedDateTime": "2020-12-29T09:03:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -848,62 +1240,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-biden-expected-to-call-out-trump-administration-on-pace-of-vaccine-distribution.md",
-      "title": "Biden expected to call out Trump administration on pace of vaccine distribution",
-      "excerpt": "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 866,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html",
-      "publishedDateTime": "2020-12-29T08:02:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1020,6 +1356,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-29-trump-opens-up-federal-dollars-for-private-school-vouchers-amid-pandemic.md",
+      "title": "Trump opens up federal dollars for private school vouchers amid pandemic",
+      "excerpt": "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "originalUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "publishedDateTime": "2020-12-28T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-walter-reed-doctor-who-criticized-trumps-hospital-drive-by-works-last-shift-after-being-removed-from-schedule.md",
       "title": "Walter Reed doctor who criticized Trump's hospital drive-by works last shift after being removed from schedule",
       "excerpt": "Dr. James Phillips, an emergency room doctor at Walter Reed National Military Medical Center, has been removed from his duty after publicly criticizing President Donald Trump's drive-by around the hospital after his coronavirus diagnosis.\n    \n",
@@ -1076,25 +1469,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-relief-is-coming-trump-backtracks-and-signs-covid-aid-into-law.md",
-      "title": "Relief is coming: Trump backtracks and signs Covid aid into law",
-      "excerpt": "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday.",
+      "path": "_news/2020-12-28-biden-to-deliver-remarks-on-foreign-policy-and-national-security-monday.md",
+      "title": "Biden to deliver remarks on foreign policy and national security Monday",
+      "excerpt": "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
-      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 355,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1102,16 +1495,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252404",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404",
-      "publishedDateTime": "2020-12-28T04:37:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html",
+      "publishedDateTime": "2020-12-28T09:04:04-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1128,7 +1521,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1202,7 +1594,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1246,136 +1638,23 @@
       ]
     },
     {
-      "path": "_news/2020-12-24-heres-what-happens-if-trump-doesnt-sign-the-900-billion-relief-package.md",
-      "title": "Here's what happens if Trump doesn't sign the $900 billion relief package",
-      "excerpt": "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n",
+      "path": "_news/2020-12-25-transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing.md",
+      "title": "Transition 2020: Biden allies push back on sweeping plan to promote fair housing",
+      "excerpt": "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html",
+      "webUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
+      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 314,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224113207-01-eviction-order-phoenix-oct2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html",
-      "publishedDateTime": "2020-12-24T10:34:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
-      "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
-      "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/21/books/00trumpbooks2/merlin_179822574_2e450d6e-0246-43c1-a80c-8d197ee7f3bc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
-      "publishedDateTime": "2020-12-24T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-california-conservatives-rebuke-trump-pardon-of-duncan-hunter.md",
-      "title": "California conservatives rebuke Trump pardon of Duncan Hunter",
-      "excerpt": "Trump granted a full pardon Tuesday to Hunter, who was set to begin an 11-month sentence at a federal prison in two weeks after pleading guilty to stealing campaign funds for personal use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/california/story/2020/12/23/california-conservatives-rebuke-trump-pardon-of-duncan-hunter-1350370",
-      "originalUrl": "https://www.politico.com/states/california/story/2020/12/23/california-conservatives-rebuke-trump-pardon-of-duncan-hunter-1350370",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/98/13/e2c9f1084e11a8d81236a705b9cb/191204-duncan-hunter-gty-773.jpg",
+          "url": "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg",
           "width": 1160,
           "height": 773,
           "title": null,
@@ -1387,7 +1666,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T16:44:00-08:00",
+      "publishedDateTime": "2020-12-24T14:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",
@@ -1411,288 +1690,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-issues-26-new-pardons-including-ones-for-stone-manafort-and-charles-kushner.md",
-      "title": "Trump issues 26 new pardons, including ones for Stone, Manafort and Charles Kushner",
-      "excerpt": "President Donald Trump on Wednesday evening announced 26 new pardons, including ones for longtime ally Roger Stone, former campaign chairman Paul Manafort and White House senior adviser Jared Kushner's father, Charles.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oHD7oSC-poI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oHD7oSC-poI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201223174954-roger-stone-paul-manafort-charles-kushner-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html",
-      "publishedDateTime": "2020-12-23T16:25:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-congressional-gop-grapples-with-unhinged-trump.md",
-      "title": "Congressional GOP grapples with 'unhinged' Trump",
-      "excerpt": "Even in his waning days in power, President Donald Trump is still finding ways to inflict his signature loyalty tests on the Republican Party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gQBM4HKE9Mo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gQBM4HKE9Mo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 635,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201223055901-02-donald-trump-1212-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html",
-      "publishedDateTime": "2020-12-23T12:44:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-george-clooney-on-the-midnight-sky-and-donald-trump.md",
-      "title": "George Clooney on ‘The Midnight Sky’ and Donald Trump",
-      "excerpt": "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
-      "publishedDateTime": "2020-12-23T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-biden-team-calls-out-twitter-over-plan-to-wipe-white-house-accounts-followers.md",
-      "title": "Biden team calls out Twitter over plan to wipe White House accounts' followers",
-      "excerpt": "President-elect Joe Biden's transition team has pushed back against Twitter's decision to not allow the millions of followers of the White House Twitter accounts to be automatically retained when the accounts are handed over to the new administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQwIwUFSqM8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQwIwUFSqM8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120183709-twitter-biden-trump-potus-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/biden-twitter-white-house-accounts/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-twitter-white-house-accounts/index.html",
-      "publishedDateTime": "2020-12-22T18:41:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-lev-parnas-files-motion-to-dismiss-says-he-was-selectively-prosecuted-to-protect-trump.md",
-      "title": "Lev Parnas files motion to dismiss, says he was selectively prosecuted to protect Trump",
-      "excerpt": "Lev Parnas, the indicted associate of Rudy Giuliani, has filed a motion to dismiss the campaign finance charges against him, arguing he has been selectively prosecuted and blocked from providing information to lawmakers seeking to impeach President Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cAGtCoMlCPc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cAGtCoMlCPc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200117002642-lev-parnas-ucrania-juicio-politico-trump-giuliani-pkg-ione-molinares-dusa-00014113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html",
-      "publishedDateTime": "2020-12-22T14:53:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     }

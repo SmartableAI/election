@@ -2,6 +2,619 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-12-04-harris-on-her-working-relationship-with-biden-we-are-full-partners-in-this-process.md",
+      "title": "Harris on her working relationship with Biden: 'We are full partners in this process' ",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 572,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
+      "publishedDateTime": "2020-12-03T19:33:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-says-multiple-republican-senators-have-called-to-congratulate-him-on-election-win.md",
+      "title": "Biden says multiple Republican senators have called to congratulate him on election win",
+      "excerpt": "President-elect Joe Biden revealed Thursday that \"more than several\" Republican senators have called to privately congratulate him on his election win, despite the fact that most of them have not publicly acknowledged his victory last month.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 942,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175418-02-biden-intv-tapper-1203-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
+      "publishedDateTime": "2020-12-03T19:21:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-does-biden-think-its-important-trump-attend-inauguration-hear-his-answer.md",
+      "title": "Does Biden think it's important Trump attend inauguration? Hear his answer",
+      "excerpt": "In an interview with CNN's Jake Tapper, President-elect Joe Biden explains the importance of a demonstration of a peaceful transfer of power at his inauguration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 528,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
+      "publishedDateTime": "2020-12-03T19:14:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-on-nominating-diverse-cabinet-im-going-to-keep-my-commitment.md",
+      "title": "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'",
+      "excerpt": "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
+      "publishedDateTime": "2020-12-03T18:37:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-coronavirus-live-news-biden-joins-ex-presidents-in-pledge-to-get-vaccinated-in-public-as-global-deaths-pass-15m.md",
+      "title": "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m",
+      "excerpt": "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
+      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
+      "publishedDateTime": "2020-12-03T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
+      "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
+      "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200205144611-02-romney-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
+      "publishedDateTime": "2020-12-03T15:44:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.md",
+      "title": "Republicans demand probe into Padilla's $35M grant to Biden-linked firm, claim 'misuse' of taxpayer funds",
+      "excerpt": "EXCLUSIVE: Republicans on the House Oversight and House Administration Committees are demanding answers from California Secretary of State Alex Padilla, who has emerged the frontrunner to be appointed to Vice President-elect Kamala Harris’ Senate seat, about a “highly questionable” $35 million contract",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
+      "publishedDateTime": "2020-12-03T15:30:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-campaign-rnc-raise-2075-million-since-election-day.md",
+      "title": "Trump campaign, RNC raise $207.5 million since Election Day",
+      "excerpt": "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 430,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
+      "publishedDateTime": "2020-12-03T14:28:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-former-reagan-campaign-director-ed-rollins-slams-pro-trump-attorney-as-glorified-ambulance-chaser.md",
+      "title": "Former Reagan campaign director Ed Rollins slams pro-Trump attorney as 'glorified ambulance chaser'",
+      "excerpt": "Former Reagan campaign director Ed Rollins slammed President Trump's formal and allied legal teams on Fox News Radio's \"The Brian Kilmeade Show\" Thursday, at one point calling attorney Lin Wood a \"glorified ambulance chaser.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d944ee4f-9508-4a2d-82e2-68a551ca9fc3/e64b04e8-666b-48b4-92fd-d756c165e9b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "publishedDateTime": "2020-12-03T14:17:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-an-attempt-to-sabotage-trumps-potential-purge-of-career-employees-casts-pall-across-federal-government.md",
+      "title": "'An attempt to sabotage': Trump's potential purge of career employees casts pall across federal government",
+      "excerpt": "Federal career employees across the Trump administration are fearful of losing their job protections and potentially their jobs, as agencies begin to implement a recent executive order signed by President Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWfXwtQdjkU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWfXwtQdjkU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118172139-white-house-201111-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
+      "publishedDateTime": "2020-12-03T12:52:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ratcliffe-urges-biden-to-let-durham-probe-run-its-course-says-more-docs-should-be-declassified.md",
+      "title": "Ratcliffe urges Biden to let Durham probe run its course, says more docs 'should be' declassified",
+      "excerpt": "EXCLUSIVE: Director of National Intelligence John Ratcliffe on Thursday urged President-elect Joe Biden to allow Special Counsel John Durham's investigation into the origins of the Russia probe to run its course, while saying he hopes there will be \"folks held accountable that should be.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
+      "publishedDateTime": "2020-12-03T12:23:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
       "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
       "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
@@ -732,612 +1345,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-stern-warning-traveling-holidays.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-stern-warning-traveling-holidays.amp",
       "publishedDateTime": "2020-12-02T15:07:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-dhs-pick-had-inappropriate-involvement-in-drug-traffickers-commutation-investigation.md",
-      "title": "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation",
-      "excerpt": "Alejandro Mayorkas has admitted to making a mistake in weighing in on the case.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i01zTadlZjs/biden-dhs-pick-congressional-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i01zTadlZjs/biden-dhs-pick-congressional-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp",
-      "publishedDateTime": "2020-12-02T14:21:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-dianne-feinstein-says-she-backs-padilla-to-replace-harris-in-senate.md",
-      "title": "Dianne Feinstein says she backs Padilla to replace Harris in Senate",
-      "excerpt": "Democratic Sen. Diane Feinstein said she backs California Secretary of State Alex Padilla to fill Kamala Harris' US Senate seat when she is sworn in as vice president in January.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X3bwZh3Omkc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X3bwZh3Omkc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201202164958-dianne-feinstein-alex-padilla-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/02/politics/dianne-feinstein-alex-padilla-kamala-harris-california-senator/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/dianne-feinstein-alex-padilla-kamala-harris-california-senator/index.html",
-      "publishedDateTime": "2020-12-02T14:08:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-obama-accuses-republicans-of-bait-and-switch-on-deficit-urges-bold-government-steps-from-biden.md",
-      "title": "Obama accuses Republicans of 'bait-and-switch' on deficit, urges 'bold government steps' from Biden",
-      "excerpt": "Former President Obama argued on Wednesday that Republicans would hypocritically warn about the fiscal impact of economic recovery proposals after passing deficit-inducing tax cuts under President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aElnDge5Zm0/obama-republicans-bait-and-switch-deficit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aElnDge5Zm0/obama-republicans-bait-and-switch-deficit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/635f9fcf-f6e4-4e59-bcbe-029944907f85/94e71967-50c7-47c3-8035-675ef3d68529/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-republicans-bait-and-switch-deficit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-republicans-bait-and-switch-deficit.amp",
-      "publishedDateTime": "2020-12-02T13:57:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
-      "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
-      "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "publishedDateTime": "2020-12-02T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-biden-to-meet-with-us-workers-hit-by-pandemic-says-congress-must-act.md",
-      "title": "Biden to meet with U.S. workers hit by pandemic, says Congress must act",
-      "excerpt": "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C1GM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM",
-      "publishedDateTime": "2020-12-02T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-naacp-warns-biden-over-rahm-emanuel-rumors.md",
-      "title": "NAACP warns Biden over Rahm Emanuel rumors",
-      "excerpt": "The NAACP became the latest progressive group to warn President-elect Joe Biden against adding former Chicago Mayor Rahm Emanuel to his Cabinet.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/08/08/694940094001_5819321962001_5819321658001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
-      "publishedDateTime": "2020-12-02T12:32:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
-      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
-      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "publishedDateTime": "2020-12-02T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-top-pro-gop-pac-launching-new-initiative-to-counter-bidens-far-left-policies.md",
-      "title": "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'",
-      "excerpt": "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
-      "publishedDateTime": "2020-12-02T11:22:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-should-pull-off-executive-order-blitz-before-people-can-react-leftists-say.md",
-      "title": "Biden should pull off executive order 'blitz' before people can react, leftists say",
-      "excerpt": "Some on the left are suggesting President-elect Joe Biden should sign executive orders and ram through policies as soon as possible -- before the media can fully cover things and give leeway for backlash.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sE5vjCqc_UE/biden-executive-order-blitz-before-people-can-react-leftists-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sE5vjCqc_UE/biden-executive-order-blitz-before-people-can-react-leftists-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/635f9fcf-f6e4-4e59-bcbe-029944907f85/94e71967-50c7-47c3-8035-675ef3d68529/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-order-blitz-before-people-can-react-leftists-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-blitz-before-people-can-react-leftists-say.amp",
-      "publishedDateTime": "2020-12-02T11:14:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy.md",
-      "title": "Wisconsin governor: Trump election lawsuit an 'assault on democracy'",
-      "excerpt": "Wisconsin Gov. Tony Evers (D) criticized President Trump’s latest lawsuit seeking to overturn the state's election results as an “assault on democracy.”",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
-      "originalUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/everstony_102618getty_wisconsin.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp",
-      "publishedDateTime": "2020-12-02T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-obama-suggests-trumps-stereotypical-macho-style-appealed-to-some-young-black-voters.md",
-      "title": "Obama suggests Trump's 'stereotypical macho style' appealed to some young Black voters",
-      "excerpt": "Former President Obama said President Trump’s “stereotypical macho style” was to blame for his increase in Black male voters this election cycle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/OBAMA-NEWSLETTER-xx.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
-      "publishedDateTime": "2020-12-02T10:50:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -228,7 +228,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1166,
+      "heat": 1186,
       "tags": null,
       "images": [
         {
@@ -281,7 +281,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -375,6 +375,63 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-biden-transition-chief-blasts-obstruction-by-political-appointees-at-omb-pentagon.md",
+      "title": "Biden transition chief blasts ‘obstruction’ by political appointees at OMB, Pentagon",
+      "excerpt": "Yohannes Abraham said a lack of cooperation was limiting the president-elect’s ability to mount an effective economic response to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "originalUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/10/f9/7727e4b44563a4b410842415eb81/20201230-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "publishedDateTime": "2020-12-30T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -486,7 +543,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -636,6 +693,63 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing.md",
+      "title": "Transition 2020: Biden allies push back on sweeping plan to promote fair housing",
+      "excerpt": "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
+      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -901,63 +1015,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-biden-looks-to-susan-rice-to-elevate-low-profile-domestic-policy-council.md",
-      "title": "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council",
-      "excerpt": "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg",
-          "width": 2500,
-          "height": 1670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251851",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851",
-      "publishedDateTime": "2020-12-21T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1545,63 +1602,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
-      "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
-      "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "originalUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/09/f4/c81d7b12424ba657532f53b09681/regan-773.jpg",
-          "width": 1160,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "publishedDateTime": "2020-12-17T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 360
         height: 233
         isCached: true
+  - title: "In recorded call, Trump pressures Georgia official to change election results - media"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call released by U."
+    publishedDateTime: 2021-01-03T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2980MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Stacey Abrams Refutes Comparison of Trump's Fraud Claims to Her 2018 Election Bid Ahead of Runoffs"
     excerpt: "\"It's not simply a different circumstance. It's apples and, you know, bowling balls,\" said the former Georgia gubernatorial candidate."
     publishedDateTime: 2021-01-03T20:24:00Z

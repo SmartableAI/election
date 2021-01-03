@@ -240,6 +240,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
+    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
+    publishedDateTime: 2020-12-02T23:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Calls grow for Trump administration to stop execution of Brandon Bernard"
     excerpt: "NBC News’ Erik Ortiz reports on the growing calls from lawmakers and celebrities, including Kim Kardashian, for the Trump administration to stop the execution of Brandon Bernard who was 18 at the time of his crime."
     publishedDateTime: 2020-12-11T02:09:00Z

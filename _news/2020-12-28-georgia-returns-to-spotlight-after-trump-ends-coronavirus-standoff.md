@@ -32,86 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump and Hawley set off Republican meltdown with Georgia elections looming"
-    excerpt: "President Donald Trump is stoking division in the Republican ranks days before control of the Senate -- and the balance of power in Washington -- is decided in a pair of runoff elections in Georgia.\n    \n"
-    publishedDateTime: 2021-01-02T11:11:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OSSY2tvdG1I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/trump-hawley-electoral-college-georgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/trump-hawley-electoral-college-georgia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 188
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia senator fighting for reelection personally lobbied Trump to sign spending bill"
-    excerpt: "Republican Sen. David Perdue of Georgia spoke to President Donald Trump this week to personally lobby him to sign into law the omnibus spending bill that includes $900 billion in coronavirus relief, a person familiar with their conversation told CNN.\n    \n"
-    publishedDateTime: 2020-12-29T03:24:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BPeFbhZrQbs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/trump-signed-spending-bill-david-perdue/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/trump-signed-spending-bill-david-perdue/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 182
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Washington Post: In call, Trump demands Georgia officials 'find' votes to tilt election"
-    excerpt: "President Donald Trump pushed Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results after his loss to President-elect Biden, according to an audio recording of a phone call obtained by The Washington Post.\n    \n"
-    publishedDateTime: 2021-01-03T20:46:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yQuS9NvpMhk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 182
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103124447-brad-raffensperger-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
-    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
-    publishedDateTime: 2020-11-27T02:11:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump to return to Washington early ahead of Republican plan to disrupt certification of Biden's win"
-    excerpt: "President Donald Trump is expected to return to Washington earlier than anticipated ahead of an expected disruption by Republicans when Congress meets next week to certify President-elect Joe Biden's win.\n    \n"
-    publishedDateTime: 2020-12-31T00:32:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YI9zXXCEGjE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/trump-returning-to-washington-early/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/trump-returning-to-washington-early/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Georgia Republicans stick with Trump and support increased direct payments"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
     publishedDateTime: 2020-12-29T17:03:35Z
@@ -123,38 +43,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
-    excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
-    publishedDateTime: 2021-01-03T17:19:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ckea81hJeXs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's inaction on stimulus bill leaves Georgia's GOP runoff candidates in awkward spot"
-    excerpt: "President Donald Trump's waffling over the $900 billion Covid relief package, which he has yet to sign, is leaving his fellow Republicans in Georgia in a tough spot as they fight to maintain control of the US Senate.\n    \n"
-    publishedDateTime: 2020-12-27T01:27:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iZJhCM5cTuc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/georgia-senate-runoffs-trump-stimulus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/georgia-senate-runoffs-trump-stimulus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
         width: 1100
@@ -176,38 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump attacks No. 2 Senate Republican as the President turns on allies in his final days in office"
-    excerpt: "President Donald Trump is spending his final days in office attacking leadership within his own party, this time the second-highest ranking Republican in the Senate, offering a possible preview of his broader post-presidential strategy to use his influence in the 2022 midterm elections and beyond.\n "
-    publishedDateTime: 2021-01-01T20:05:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/671GJ0p1P5o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/donald-trump-thune-noem/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/donald-trump-thune-noem/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210101021739-donald-trump-1231-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
-    excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud.\n    \n"
-    publishedDateTime: 2021-01-03T20:13:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t2VpyHSWPNs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/electoral-college-trump-loeffler-perdue/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/electoral-college-trump-loeffler-perdue/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228130647-ga-senate-race-gop-perdue-loeffler-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
     excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
     publishedDateTime: 2020-12-15T01:25:00Z
@@ -224,51 +80,37 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "To please Trump, Republicans plan to challenge electoral vote"
-    excerpt: "Donald Trump's entire presidency has been a stress test on our democracy and that remains true even now. Hoping to please the president, at least 12 Senate Republicans plan to challenge the electoral college vote on Wednesday."
-    publishedDateTime: 2021-01-03T14:07:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/to-please-trump-republicans-plan-to-challenge-electoral-vote-98718277881"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98718277881"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98718277881"
+  - title: "George Clooney on ‘The Midnight Sky’ and Donald Trump"
+    excerpt: "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington."
+    publishedDateTime: 2020-12-23T18:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump blasts Covid relief bill just passed by Congress, demands changes"
+    excerpt: "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,"
+    publishedDateTime: 2021-01-01T09:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251966"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/1609682657767_mtp_clip_a2_210103_1920x1080.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
-    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
-    publishedDateTime: 2020-12-02T23:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Edging closer to shutdown with Trump showing no signs of caving"
-    excerpt: "He is showing no signs whatsoever that he is going to sign it. NYT’s Emily Cochrane with more on the state of play TRUMP at 12:38 a.m.: “Increase payments to the people, get rid of the ‘pork’.” … at 12:36 a."
-    publishedDateTime: 2020-12-27T15:37:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/27/edging-closer-to-shutdown-with-trump-showing-no-signs-of-caving-491249"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ae/19/03a2d02343e693c6b8c46efc3b1e/201227-trump-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "H47AYpnDpQC9XKNerq2guBzJj7qZY/c718tseA6qDrllu+nybc8TCZA1hiOJAI1rT7XJZAVy2ch5IDTHbpPoVjWXBg3W+f7yekAqtYgKU3OtgFHm74kmf5DuvMP5xoHkCPJ81IrovkuWAgYeJ//m680TfrGzPbgoekFwrj8Eof221/srfhN7fAHKstPDX5UiCXLv5GqdQafL3IqWGHPI6InVKVJ1OylcjsivEXL64zDJn1lbl2HAMzvIz/k+bCrDY33H0Dx2ooLJSF6KcVpI2O5jVsJxO7ArphxD5wFDluR1Envui+TetxhRHex5FjOg/sf9ONbGjAvge0kve/KCNx5W48M7xt6e2jZVeA0UKsJdmmR8Jp5iigyYXBvxcMONkJvaZvgdu/iF0qT8dxxKPhw/9fUxYwgck9xtpZDWURe7X1jEyNRUQc03jG7za+VhtxWyLRBUvjBiSnmbKMdEQUfivw+vdIfcfJbuU0SL1+1MoB/3+0wcK7pgQcrbxFh/HoK9gTgJe5VuN0sGGH5Dqw==;Lj4n5BD9tKkhVrNSb1bVqA=="

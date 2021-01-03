@@ -31,35 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "A congressional waiver is the biggest hurdle for Biden's defense pick"
-    excerpt: "The biggest obstacle to retired Army Gen. Lloyd Austin's nomination for secretary of defense is his retirement date from the military just four years ago -- too recent under American law and for the tastes of several members of Congress.\n    \n"
-    publishedDateTime: 2020-12-30T14:46:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+  - title: "Trump budget director accuses Biden team of 'false statements' in latest transition spat"
+    excerpt: "President Donald Trump's budget director is accusing President-elect Joe Biden's team of issuing \"false statements\" regarding his office's cooperation during the ongoing transition, insisting the office has been fully transparent over the course of 45 meetings.\n    \n"
+    publishedDateTime: 2020-12-31T21:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzvernCG60E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 181
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190411200659-omb-acting-director-vought-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden names Kathleen Hicks as first woman deputy defense secretary"
-    excerpt: "Joe Biden's transition team announced Wednesday that former Obama Pentagon official Kathleen Hicks is the President-elect's pick to serve as deputy secretary of defense, and she would be the first woman to serve in the role if confirmed by the Senate.\n    \n"
-    publishedDateTime: 2020-12-30T16:14:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WSyk20utpn4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
+  - title: "Biden eyes cuts to Trump nuclear program as critical arms control deadline with Russia looms"
+    excerpt: "President-elect Joe Biden will explore making cuts to the country's nuclear modernization program, potentially reversing Trump administration efforts to enhance America's nuclear arsenal by developing new weapons. Instead, Biden intends to place greater emphasis on arms control, according to two transition"
+    publishedDateTime: 2020-12-29T14:41:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3hJpGsV9tA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden legal team asks senators for judicial nomination recommendations "
+    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T00:39:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230105634-kathleen-hicks-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
+    excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-24T15:32:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,127 +111,125 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's inaugural committee hosting national memorial for Covid-19 victims on January 19"
-    excerpt: "President-elect Joe Biden's inaugural committee on Thursday announced that it is hosting a national memorial to remember and honor the lives lost to Covid-19 and is asking cities and towns around the country to participate.\n    \n"
-    publishedDateTime: 2020-12-31T14:20:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
+  - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
+    excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
+    publishedDateTime: 2021-01-02T13:31:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1yBaiADLWPA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200822172519-lincoln-memorial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231110950-02-sunrise-movement-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Families of US hostages and detainees look to Biden to keep up efforts to free loved ones"
-    excerpt: "As President-elect Joe Biden prepares to take over from the outgoing Trump administration, the goal for the families of Americans unlawfully detained and held hostage abroad remains the same: to see their loved ones returned home.\n    \n"
-    publishedDateTime: 2021-01-01T14:00:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730135514-trevor-reed-ex-marine-sentencing-russia-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Republican efforts to undermine Biden victory expose growing anti-democratic streak"
-    excerpt: "The scattershot efforts to overturn President-elect Joe Biden's election victory are coalescing into a movement led by top Republicans determined to exploit a manufactured crisis for broader political gains.\n    \n"
-    publishedDateTime: 2021-01-03T16:27:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uWpq480Wgh0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200721204618-trump-cruz-split-0721-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Delayed AG pick raises pressure on Biden to field a diverse leadership team at Justice Department"
-    excerpt: "The longer that President-elect Joe Biden takes to select his pick for US attorney general, the more pressure builds on him to staff his Justice Department with a diverse leadership team.\n    \n"
-    publishedDateTime: 2021-01-02T17:45:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
+  - title: "Trump administration taking steps to designate Cuba as state sponsor of terrorism in coming days"
+    excerpt: "The Trump administration will soon take steps toward designating Cuba as a state sponsor of terrorism as an 11th hour effort to create hurdles for the incoming Biden administration, which is likely to pursue warmer ties with Havana.\n    \n"
+    publishedDateTime: 2020-12-30T18:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3hDYDPb56hM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Leading a divided country: Joe Biden's approach to unity"
-    excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
-    publishedDateTime: 2020-12-27T13:07:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/leading-a-divided-country-joe-biden-s-approach-to-unity-98438725756"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98438725756"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98438725756"
+  - title: "Trump administration speeds up 'midnight rule-making,' creating hurdles for Biden"
+    excerpt: "The administration's last-minute rules include contentious proposals that President-elect Joe Biden is likely to oppose."
+    publishedDateTime: 2020-12-30T19:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-administration-speeds-midnight-rule-making-creating-hurdles-biden-n1252548"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252548"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252548"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 155
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenkindofprez_2012270.jpg"
-        width: 1920
-        height: 1090
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_52/3437281/201221-donald-trump-jm-1552_f80396144228909ae975473c07ed3e33.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
-    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
-    publishedDateTime: 2020-12-29T01:27:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
+  - title: "Biden Criticizes Trump on Vaccine Distribution and Pledges to Pick Up Pace"
+    excerpt: "Three weeks from taking office, Joe Biden called vaccinating Americans “the greatest operational challenge we’ve ever faced as a nation” and offered a bleak assessment of the months ahead."
+    publishedDateTime: 2020-12-30T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/29/us/politics/29dc-biden/29dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's unplanned gift to Biden: Clean energy on the rise"
+    excerpt: "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy."
+    publishedDateTime: 2020-12-29T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 130
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Biden chooses Connecticut education commissioner for top schools post"
-    excerpt: "President-elect Joe Biden selected Connecticut Education Commissioner Miguel Cardona to be his Education secretary on Tuesday, adding another Latino to his roster of Cabinet appointees and choosing a leader who has pressed schools to remain open for in-person classes during the pandemic."
-    publishedDateTime: 2020-12-23T16:59:00Z
-    webUrl: "https://www.politico.com/news/2020/12/22/biden-connecticut-schools-chief-education-secretary-449808"
+  - title: "Snowden allies see opening amid Trump clemency blitz"
+    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
+    publishedDateTime: 2020-12-24T21:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/13/4c/2009dbb5418cbef6541aa1e3066d/dsc-8614-copy.JPG"
-        width: 7360
-        height: 4904
+      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Transition 2020: Biden allies push back on sweeping plan to promote fair housing"
-    excerpt: "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is."
-    publishedDateTime: 2020-12-24T22:44:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
+  - title: "Presidential Transition Live Updates: After Refusing to Sign the Relief Bill, Trump Suggests He May Take Action"
+    excerpt: "President Trump tweeted, “Good news on Covid Relief Bill. Information to follow!” Democrats’ House losses in California signal the steep obstacles they will face in 2022. President Trump’s fraud claims died in court,"
+    publishedDateTime: 2020-12-28T00:27:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27transition-briefing-stimulus-promo1/27transition-briefing-stimulus-explainer2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The new center of Trump's political world: Palm Beach"
+    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
+    publishedDateTime: 2021-01-01T01:13:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 110
+    quality: 115
     images:
-      - url: "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg"
+      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

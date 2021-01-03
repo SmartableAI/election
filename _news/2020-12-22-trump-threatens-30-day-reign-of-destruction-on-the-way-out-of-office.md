@@ -31,76 +31,60 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
-    excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
-    publishedDateTime: 2020-12-29T16:02:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump budget director accuses Biden team of 'false statements' in latest transition spat"
-    excerpt: "President Donald Trump's budget director is accusing President-elect Joe Biden's team of issuing \"false statements\" regarding his office's cooperation during the ongoing transition, insisting the office has been fully transparent over the course of 45 meetings.\n    \n"
-    publishedDateTime: 2020-12-31T21:00:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzvernCG60E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 181
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190411200659-omb-acting-director-vought-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden eyes cuts to Trump nuclear program as critical arms control deadline with Russia looms"
-    excerpt: "President-elect Joe Biden will explore making cuts to the country's nuclear modernization program, potentially reversing Trump administration efforts to enhance America's nuclear arsenal by developing new weapons. Instead, Biden intends to place greater emphasis on arms control, according to two transition"
-    publishedDateTime: 2020-12-29T14:41:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3hJpGsV9tA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden announces Miguel Cardona as education secretary nominee"
-    excerpt: "Joe Biden's transition team late Tuesday announced Connecticut Education Commissioner Miguel Cardona as the President-elect's nominee for education secretary.\n    \n"
-    publishedDateTime: 2020-12-23T01:31:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUpCyfxo4mI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/miguel-cardona-education-secretary-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/miguel-cardona-education-secretary-biden/index.html"
+  - title: "'It's turned crazy': Inside the scramble for Trump pardons"
+    excerpt: "President Donald Trump may not be willing to accept his term is ending, but as the clock ticks down on his time in office, hundreds of his allies -- including some of his closest business associates and many high-profile criminals -- are ramping up their efforts to squeeze out the final ounces of his"
+    publishedDateTime: 2020-12-16T19:55:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ndOK92FyRNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-pardons-lame-duck/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221193203-miguel-cardona-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214233417-trump-intento-biden-conclu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Listen to Trump's sudden stipulation for Covid-19 stimulus bill"
-    excerpt: "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n"
-    publishedDateTime: 2020-12-23T12:57:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
+  - title: "Obamacare sign ups increase for first time under Trump"
+    excerpt: "More people signed up for Obamacare coverage on the federal exchange during open enrollment this year -- the only increase under the Trump administration, which has long sought to eradicate the landmark health reform law.\n    \n"
+    publishedDateTime: 2020-12-19T01:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tnS5R74JvuA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/obamacare-enrollment-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump goes on a rampage with pardons, veto threats and Covid denial"
+    excerpt: "Donald Trump's presidency is blazing into history in a way that epitomizes his corrupt excess, with pardons for cronies and war crimes, assaults on democracy, fresh Covid-19 denial and impunity for Russia.\n    \n"
+    publishedDateTime: 2020-12-23T09:58:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CQptI9ICaM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/donald-trump-pardons-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/donald-trump-pardons-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221215204-donald-trump-1208-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's complaints vs. his own budget proposal"
+    excerpt: "President Donald Trump complained about a litany of federal spending in a video released Tuesday objecting to the new stimulus deal, claiming the line items had nothing to do with Covid relief.\n    \n"
+    publishedDateTime: 2020-12-23T23:31:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/knJXWVmsePY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-complaints-spending-bill-graphic/index.html"
     type: article
     provider:
       name: CNN
@@ -111,461 +95,131 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's been playing the pardon long game his entire presidency "
-    excerpt: "More than a year and a half ago, special counsel Robert Mueller had caught on to what President Donald Trump might do with his pardon power.\n    \n"
-    publishedDateTime: 2020-12-24T14:54:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKBwIrKtzFk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
+  - title: "Trump is more erratic than ever with final days in sight"
+    excerpt: "It turns out there are no silent nights in the Trump era.\n    \n"
+    publishedDateTime: 2020-12-24T06:21:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bfFST-oCT-k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-veto-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-veto-final-days/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191118113014-trump-mueller-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223152853-01-trump-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to deliver remarks on foreign policy and national security Monday"
-    excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
-    publishedDateTime: 2020-12-28T17:04:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+  - title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
+    excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
+    publishedDateTime: 2020-12-22T10:00:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NF06xO7e4Dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pentagon-anxiety-trump-final-days/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215172845-02-pentagon-building-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden legal team asks senators for judicial nomination recommendations "
-    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-31T00:39:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+  - title: "Trump lauded, then derided Barr. A look in inside the attorney general's tumultuous term. "
+    excerpt: "At his confirmation hearing nearly two years ago, Attorney General William Barr boasted that there was an advantage to putting him in charge of the Justice Department -- he could afford not to care about the consequences of his decisions.\n    \n"
+    publishedDateTime: 2020-12-23T20:48:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_O2PwU0he1o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/trump-barr-attorney-general-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-barr-attorney-general-legacy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222192556-02-bill-barr-profile-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump absent as vaccine distribution lags and thousands continue to die"
-    excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads.\n    \n"
-    publishedDateTime: 2020-12-31T11:00:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AD9G4wCpAuE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Senate votes to override Trump's veto on defense bill"
-    excerpt: "The Senate voted on Friday to override President Donald Trump's veto of the sweeping defense bill known as the National Defense Authorization Act, delivering a bipartisan rebuke to the President in his final days in office.\n    \n"
-    publishedDateTime: 2021-01-01T19:42:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2su8o9hsaBM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/senate-votes-to-override-trump-veto-ndaa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/senate-votes-to-override-trump-veto-ndaa/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
-    excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
-    publishedDateTime: 2020-12-24T15:32:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NBJXHyG7lSA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/dominion-ceo-trump-legal-action-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump extends immigration restrictions, citing pandemic's impact on labor market "
-    excerpt: "President Donald Trump extended certain restrictions on legal immigration and on visas that allow immigrants to temporarily work in the United States on Thursday, just hours before those restrictions were set to lapse. Trump extended the restrictions through March 31, two months after he will leave office.\n"
-    publishedDateTime: 2021-01-01T00:38:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rvAwU8yfuBQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231163449-trump-final-days-early-white-house-return-election-results-collins-dnt-lead-vpx-00003317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
-    excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-30T20:51:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/89ijxeeOE5w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McConnell moves to combine Trump asks in potential 'poison pill' for stimulus checks"
-    excerpt: "Senate Majority Leader Mitch McConnell introduced legislation Tuesday to combine two additional demands from President Donald Trump to an expansion of direct stimulus payments as part of the Covid-19 relief package, raising Democratic concern the pathway for expanded stimulus payments would soon be short-circuited.\n"
-    publishedDateTime: 2020-12-30T00:45:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G0cSIq8sy_8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/mcconnell-poison-pill-attached-to-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/mcconnell-poison-pill-attached-to-bill/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224161422-04-week-in-photos-1225-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
-    excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
-    publishedDateTime: 2020-12-29T18:48:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGcfz7wFK-w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016121521-us-department-of-energy-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
-    excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
-    publishedDateTime: 2021-01-02T13:31:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1yBaiADLWPA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231110950-02-sunrise-movement-1105-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump was briefed that China sought to pay non-state actors to attack US forces in Afghanistan"
-    excerpt: "President Donald Trump received information earlier this month that China sought to pay non-state actors to attack American forces in Afghanistan, a senior administration official said.\n    \n"
-    publishedDateTime: 2020-12-31T00:17:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jY9JDWPrjcs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration taking steps to designate Cuba as state sponsor of terrorism in coming days"
-    excerpt: "The Trump administration will soon take steps toward designating Cuba as a state sponsor of terrorism as an 11th hour effort to create hurdles for the incoming Biden administration, which is likely to pursue warmer ties with Havana.\n    \n"
-    publishedDateTime: 2020-12-30T18:02:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3hDYDPb56hM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration to block palm oil from second company in Malaysia over forced labor findings"
-    excerpt: "The Trump administration will halt imports of palm oil from Malaysia over findings of forced labor abuses at the plantations of one of the country's top producers of the product, which is found in many everyday items.\n    \n"
-    publishedDateTime: 2020-12-30T12:30:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4S9T1G5AKhA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930174806-palm-oil-malaysia-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden faces uncertain outlook for quick confirmation of Cabinet nominees as some Republicans urge caution"
-    excerpt: "President-elect Joe Biden has been moving swiftly to fill out much of his Cabinet. Whether the Senate will do the same is another question.\n    \n"
-    publishedDateTime: 2020-12-22T22:54:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-wVjeXv_us/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219144958-01-biden-climate-team-announcement-1219-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration speeds up 'midnight rule-making,' creating hurdles for Biden"
-    excerpt: "The administration's last-minute rules include contentious proposals that President-elect Joe Biden is likely to oppose."
-    publishedDateTime: 2020-12-30T19:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-administration-speeds-midnight-rule-making-creating-hurdles-biden-n1252548"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252548"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252548"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 155
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_52/3437281/201221-donald-trump-jm-1552_f80396144228909ae975473c07ed3e33.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump administration considering granting Saudi prince legal immunity for alleged assassination plot, sources say  "
-    excerpt: "The Trump administration is considering granting Saudi Crown Prince Mohammed bin Salman legal immunity from a federal lawsuit alleging that he ordered an assassination squad to kill a former top Saudi intelligence official who shared information with the US, according to sources familiar with the situation.\n"
-    publishedDateTime: 2020-12-22T23:54:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bzVJjrn7QrM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190930014101-mohammed-bin-salman-denies-involvement-in-khashoggi-killing-sot-vpx-00000204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden Criticizes Trump on Vaccine Distribution and Pledges to Pick Up Pace"
-    excerpt: "Three weeks from taking office, Joe Biden called vaccinating Americans “the greatest operational challenge we’ve ever faced as a nation” and offered a bleak assessment of the months ahead."
-    publishedDateTime: 2020-12-30T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
+  - title: "What’s Next for Trump Voters Who Believe the Election Was Stolen?"
+    excerpt: "Some are certain the election was fraudulent. Others aren’t so sure. What becomes of their skepticism has important implications for American democracy."
+    publishedDateTime: 2020-12-14T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/us/trump-voters-stolen-election.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 148
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/12/29/us/politics/29dc-biden/29dc-biden-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/13/us/TRUMPVOTERS-1/TRUMPVOTERS-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "House to vote on overriding Trump's veto of $740 billion defense bill"
-    excerpt: "Both chambers of Congress passed the bill with veto-proof margins, but several lawmakers have signaled the override vote could be close."
-    publishedDateTime: 2020-12-28T19:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-set-override-trump-s-veto-740-billion-defense-bill-n1252433"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252433"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252433"
+  - title: "Trump administration says it will withhold $200 million in California Medicaid funding over abortion insurance requirement"
+    excerpt: "The Trump administration announced two measures on Wednesday seeking to restrict abortion access, including withholding hundreds of millions in federal funding from California, one in a series of parting shots from an outgoing administration that has repeatedly sought to limit the procedure on religious"
+    publishedDateTime: 2020-12-17T05:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UQS8y_S0TXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/trump-administration-abortion-medicaid-california/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 149
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_53/3438370/201228-us-capitol-ew-1153a_e72322ef6738ab07b1f48e1abe844d98.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Nationwide Covid memorial announced as part of Biden inauguration"
-    excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
-    publishedDateTime: 2020-12-31T12:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/nationwide-covid-memorial-announced-part-biden-inauguration-n1252591"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252591"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252591"
+  - title: "MAGA leaders call for the troops to keep Trump in office"
+    excerpt: "A growing call to invoke the Insurrection Act shows how hard-edged MAGA ideology has become in the wake of Trump’s election loss."
+    publishedDateTime: 2020-12-18T09:33:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-insurrection-act-presidency-447986"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438901/201231-biden-covid-mc-1226_a43e7aacf97da08b35550aea5f0a6e59.JPG"
-        width: 2500
-        height: 1591
+      - url: "https://static.politico.com/f7/e6/26a4ccd944a2a60ebd9034cab615/201217-maga-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump cuts vacation short without explanation"
-    excerpt: "The change in plans came just hours after Sen. Josh Hawley announced he would take up Trump's demand for Republicans to challenge the election results."
-    publishedDateTime: 2020-12-31T16:52:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-cuts-vacation-short-without-explanation-n1252606"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252606"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252606"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438954/201231-donald-melania-trump-se-1132a_bf0eb5979032a59e74990a7d9aca7aa6.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Without Trump, or Masks, Mar-a-Lago Partied On"
-    excerpt: "President Trump did not attend his private social club’s annual New Year’s Eve bash, which hundreds of guests attended despite the coronavirus."
-    publishedDateTime: 2021-01-01T23:42:00Z
-    webUrl: "https://www.nytimes.com/2021/01/01/us/politics/trump-new-years-eve-mar-a-lago.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/01/us/politics/trump-new-years-eve-mar-a-lago.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/us/politics/trump-new-years-eve-mar-a-lago.amp.html"
+  - title: "How Trump Has Jeopardized Stimulus Relief"
+    excerpt: "The president’s demand that Congress amend a giant coronavirus relief and government spending bill has raised the unexpected prospect that help may no longer be days away."
+    publishedDateTime: 2020-12-23T20:30:00Z
+    webUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/us/politics/trump-covid-stimulus.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/01/us/politics/01dc-party/01dc-party-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/23/us/politics/23dc-stimulus-explainer-sub/23dc-stimulus-explainer-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump leans on QAnon figures in flailing effort to overturn election"
-    excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
-    publishedDateTime: 2020-12-23T23:25:00Z
-    webUrl: "https://www.politico.com/news/2020/12/23/trump-qanon-effort-overturn-election-450301"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump's unplanned gift to Biden: Clean energy on the rise"
-    excerpt: "Oil and gas producers are struggling amid weak prices and growing pressure to address climate change — a trend that could help Biden make a U-turn in energy policy."
-    publishedDateTime: 2020-12-29T09:37:00Z
-    webUrl: "https://www.politico.com/news/2020/12/29/trump-biden-clean-energy-451546"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/03/fc/9e99086b4ff19262800af9f1489d/20201224-gasplant-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Quotation of the Day: Thousands Await Word in Prison as Trump Frees a Privileged Few"
-    excerpt: "President Trump has pardoned friends and fellow Republicans while thousands without connections, like Mr. Knock, have largely been left out. Advertisement"
-    publishedDateTime: 2020-12-29T06:05:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/todayspaper/quotation-of-the-day-thousands-await-word-in-prison-as-trump-frees-a-privileged-few.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/todayspaper/quotation-of-the-day-thousands-await-word-in-prison-as-trump-frees-a-privileged-few.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/todayspaper/quotation-of-the-day-thousands-await-word-in-prison-as-trump-frees-a-privileged-few.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden transition chief blasts ‘obstruction’ by political appointees at OMB, Pentagon"
-    excerpt: "Yohannes Abraham said a lack of cooperation was limiting the president-elect’s ability to mount an effective economic response to the pandemic."
-    publishedDateTime: 2020-12-31T03:13:00Z
-    webUrl: "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 128
-    images:
-      - url: "https://static.politico.com/10/f9/7727e4b44563a4b410842415eb81/20201230-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Snowden allies see opening amid Trump clemency blitz"
-    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
-    publishedDateTime: 2020-12-24T21:51:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
+  - title: "Time winds down for Trump to veto NDAA"
+    excerpt: "The deadline has arrived for President Donald Trump to veto the defense bill and call Congress’ bluff to override him. — The president pardons private contractors convicted in the massacre of Iraqi civilians."
+    publishedDateTime: 2020-12-23T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/23/time-winds-down-for-trump-to-veto-ndaa-792486"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Members of Congress to Trump: Sign stimulus bill"
-    excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
-    publishedDateTime: 2020-12-27T16:18:00Z
-    webUrl: "https://www.politico.com/news/2020/12/27/stimulus-bill-congress-trump-450835"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ce/73/9bc48fe949378f87eef55cc895e7/190910-pat-toomey-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Presidential Transition Live Updates: After Refusing to Sign the Relief Bill, Trump Suggests He May Take Action"
-    excerpt: "President Trump tweeted, “Good news on Covid Relief Bill. Information to follow!” Democrats’ House losses in California signal the steep obstacles they will face in 2022. President Trump’s fraud claims died in court,"
-    publishedDateTime: 2020-12-28T00:27:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27transition-briefing-stimulus-promo1/27transition-briefing-stimulus-explainer2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "2no2ggUak3kQdmHh5TIEdXAZCh4IWQQFtxx9pGAv9dAnYdKStfo62x71pzmnoQNOVf/BtFiplCnkZdMpSVCYhQeAUsKt/aXKiOweMPWDA22XdM5XTbQ2GX8SZY6SW+0j7+wyqyuZrwb94YcJYSjCIln2GUsA81KTE//pkMnIW6D3MnJd/46nNeGfEEDv8bODfj39QFBGKakGiV5wxTiGrCvrbB+dBwvIcMh3Kd/jNCxG1h++UmlmK9dQvQ66iqcifAlqT05hd6fiNYb0LJLmMdrz/InT4LptVD9/haKd/VkbjVag9yM2g6i/6CfdFBSHAr1aHNCrCE9lpREEyCEksFaxG9ilFpUck1CwtLLQNOE=;5o/5YrcjT5gHv5mVBqCdFQ=="

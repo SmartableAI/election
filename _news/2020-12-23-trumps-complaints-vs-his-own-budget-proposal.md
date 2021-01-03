@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump threatens 30-day reign of destruction on the way out of office"
+    excerpt: "Joe Biden will be president in 30 days. Until then, the question is how much damage can be done by a vengeful, delusional soon-to-be ex-President swilling conspiracy theories, whose wild anti-democratic instincts are being encouraged by fringe political opportunists.\n    \n"
+    publishedDateTime: 2020-12-22T09:43:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SHYIsFDfIRI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/donald-trump-white-house-countdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump goes on a rampage with pardons, veto threats and Covid denial"
     excerpt: "Donald Trump's presidency is blazing into history in a way that epitomizes his corrupt excess, with pardons for cronies and war crimes, assaults on democracy, fresh Covid-19 denial and impunity for Russia.\n    \n"
     publishedDateTime: 2020-12-23T09:58:22Z

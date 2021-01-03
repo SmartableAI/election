@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-28-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
 type: article
 quality: 175
-heat: 215
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,33 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'"
-    excerpt: "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation."
-    publishedDateTime: 2020-12-25T17:14:00Z
-    webUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional"
-    ampWebUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+  - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
+    excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
+    publishedDateTime: 2021-01-03T21:56:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jznNwQcNG_A/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 179
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
+    excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
+    publishedDateTime: 2021-01-03T22:02:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88fc2ded-81c9-4336-a246-895a66456f03/1b885760-fc74-440e-b009-55e96837a2e5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
-    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
-    publishedDateTime: 2020-12-25T08:29:00Z
-    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+  - title: "Trump to Hold Rally in Georgia in Support of Senate Republicans"
+    excerpt: "The president will appear at rally in support of incumbent Republican Sens. David Perdue and Kelly Loeffler, one day before the runoff election that will determine control of the U.S. Senate."
+    publishedDateTime: 2020-12-28T04:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 98
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-278216/social"
+      - url: "https://images.wsj.net/im-278391/social"
         width: 1280
         height: 640
         isCached: true

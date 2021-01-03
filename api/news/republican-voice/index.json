@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-03-trump-urged-georgia-election-official-to-find-votes-in-phone-call-insisting-he-won-report.md",
+      "title": "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report",
+      "excerpt": "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jznNwQcNG_A/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jznNwQcNG_A/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp",
+      "publishedDateTime": "2021-01-03T13:56:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-president-trump-rails-against-media-coverage-of-fauci-he-works-for-me.md",
       "title": "President Trump rails against media coverage of Fauci: ‘He works for me’",
       "excerpt": "President Trump on Sunday griped that the news media is giving Dr. Anthony Fauci credit for the coronavirus response that he deserves.",
@@ -1462,7 +1518,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1479,62 +1535,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
       "publishedDateTime": "2020-12-28T01:55:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-live-updates-trump-turns-his-attention-to-georgia-announces-rally.md",
-      "title": "LIVE UPDATES: Trump turns his attention to Georgia, announces rally",
-      "excerpt": "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp",
-      "publishedDateTime": "2020-12-27T21:42:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
