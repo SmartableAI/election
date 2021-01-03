@@ -3,10 +3,10 @@ category: news
 title: "Hunter Biden's Guilty Laptop"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-01-03T13:05:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/12/31/hunter_bidens_guilty_laptop_532448.html"
-webUrl: "https://www.realclearpolitics.com/2020/12/31/hunter_bidens_guilty_laptop_532448.html"
+originalUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/48/482082_5_.jpg"
+    width: 464
+    height: 600
+    isCached: true
 
 related:
   - title: "Biden campaign promises included decriminalizing HIV exposure"
@@ -51,6 +57,6 @@ related:
         height: 517
         isCached: true
 
-secured: "FmpCfdi0kMaJzL855VdT6Xtk/Z/RYbC1ivYKFgbQaZYVo23gcvTPGJ14CDVkjMkjLGlmHaLHwQmrdqY+IhxLRIaRPE+wZSegSCW/K44LzQT1Ymhv7R0+zQdi8Ir61C/Pi2RpldKQF9JcS4yJv/JqVvN6mcVRdGPw/t/Ne3xi7o+fvwnXG+M0DH1H58u3trkz0OX72LAIzrPID6cAoKzYoE9WZRl7r/rvumr5Siy3wj7Edz0ZflyYqGLa361JehewLRS8OFJxot/PQH2sCXpYgk2jPwZ4qa0/ar+Or63iFRxMLAC4bTgEY3Qsr5cLygwV/CvCXYRnhSWFgBm0gvxSKHXNZMPxHDwaexOIccT71RM=;mSso/d2mWIwJweTiVOudZg=="
+secured: "RfJ9ZZ+cHgDLmudH7mFyzewmC7GNkqNgHdhZthVbhzm91F70DbBWDyir2hlMboLZmt5Rt1EEkWc+gfKKJ6U4Uwng9GpMqI/2VXGqSP6oJPorOeMjTR08hpg66C+bg4YMrcpJyUFuTJtCVAFozoJzW3llDQ70ITih1d3tjW6EqjH1YQsSSAr/ubPkrU/34HtAxUYuP3OTvdN1s4HhpvLkxvPETr69gquIcaDDtDPRCjfla1MTh+qU38tqM7oGA+osmzVWtxafrAt1tXpXBpFh2TAvPVruqhgNYAll6X3Vg5Ai8c6/YjEmXVs1Ra9ZkzdyuN3zpVCGpw1BBkFPRCLeC2nRXSEgVDZ/GP3/mqzT6Dw=;DJTrpPmTU6O2IVeXvMyYxQ=="
 ---
 

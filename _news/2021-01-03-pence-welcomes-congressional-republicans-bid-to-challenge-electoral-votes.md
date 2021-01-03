@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congre
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
 type: article
 quality: 182
-heat: 242
+heat: 262
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy gives green light to conservatives' push to overturn Biden's win, as senior Republicans raise alarms "
+    excerpt: "The top House Republican has quietly blessed an effort by conservative lawmakers to overturn President-elect Joe Biden's victory when a joint session of Congress meets later this week, even as other top congressional Republicans are raising alarms that the push could cause lasting damage to a pillar"
+    publishedDateTime: 2021-01-03T20:23:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BoReS_xoteI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/kevin-mccarthy-republican-push-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/kevin-mccarthy-republican-push-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200611135506-kevin-mccarthy-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

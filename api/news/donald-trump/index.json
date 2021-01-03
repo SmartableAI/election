@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-04-us-surgeon-general-says-he-has-no-reason-to-doubt-the-350000-covid-19-death-toll-in-the-us-after-trump-baselessly-questioned-its-accuracy.md",
-      "title": "US Surgeon General says he has 'no reason to doubt' the 350,000 COVID-19 death toll in the US after Trump baselessly questioned its accuracy",
-      "excerpt": "Surgeon General Jerome Adams on Sunday joined Dr. Anthony Fauci in defending CDC data, which Trump baselessly claimed was \"far exaggerated.\"",
+      "path": "_news/2021-01-04-theres-no-running-away-from-the-numbers-fauci-laments-surging-covid-deaths-as-trump-claims-fake-news.md",
+      "title": "'There's no running away from the numbers:' Fauci laments surging COVID deaths as Trump claims 'fake news'",
+      "excerpt": "President Trump misleadingly claimed Sunday that COVID-19 cases and deaths were 'exaggerated' as Dr. Anthony Fauci lamented the surging death rate.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
-      "originalUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
+      "webUrl": "https://abcnews.go.com/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
+      "originalUrl": "https://abcnews.go.com/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5ff201de9ff41f001883fb06?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://s.abcnews.com/images/Politics/this-week-doctor-fauci-02-gty-llr-210102_1609606912435_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
-      "publishedDateTime": "2021-01-03T10:28:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
+      "publishedDateTime": "2021-01-03T11:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -99,6 +99,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-traitors-and-patriots-republican-push-to-keep-trump-in-power-seems-doomed.md",
+      "title": "'Traitors and patriots': Republican push to keep Trump in power seems doomed",
+      "excerpt": "Senators decline to defend electoral college ploy aimed at party base but set to be blocked by Democrats and GOP leaders",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ed525c19445a7760937da141928760f12fb11540/0_3_5244_3146/master/5244.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25151a62ddff45df6911dc10cdd6a82a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "publishedDateTime": "2021-01-03T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -996,7 +1048,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1106,
+      "heat": 1166,
       "tags": null,
       "images": [
         {
@@ -1325,7 +1377,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1377,7 +1429,7 @@
       "originalUrl": "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 591,
+      "heat": 611,
       "tags": null,
       "images": [
         {
@@ -1430,7 +1482,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55292610",
       "featuredContent": null,
       "highlight": null,
-      "heat": 520,
+      "heat": 600,
       "tags": null,
       "images": [
         {
@@ -1528,58 +1580,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-donald-trump-attacks-brad-raffenspergers-brotherhe-doesnt-have-one.md",
-      "title": "Donald Trump Attacks Brad Raffensperger's Brother—He Doesn't Have One",
-      "excerpt": "Brad Raffensperger has been a harsh critic of unsubstantiated claims that the presidential election was stolen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-attacks-brad-raffensperger-brother-1557917",
-      "originalUrl": "https://www.newsweek.com/donald-trump-attacks-brad-raffensperger-brother-1557917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1695503/georgia-secretary-state-brad-raffensperger.jpg",
-          "width": 2500,
-          "height": 1524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-attacks-brad-raffensperger-brother-1557917?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-attacks-brad-raffensperger-brother-1557917?amp=1",
-      "publishedDateTime": "2020-12-30T00:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

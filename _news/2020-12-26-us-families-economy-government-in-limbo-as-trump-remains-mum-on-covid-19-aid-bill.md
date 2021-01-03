@@ -160,6 +160,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Urged Georgia Secretary of State to Overturn Election Results"
+    excerpt: "During a phone call Saturday, the president repeatedly asserted the election was fraudulent and claimed hundreds of thousands of votes were destroyed and that he had clearly won the state."
+    publishedDateTime: 2021-01-03T20:54:00Z
+    webUrl: "https://www.wsj.com/articles/trump-urged-georgia-secretary-of-state-to-overturn-election-results-11609707084"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-urged-georgia-secretary-of-state-to-overturn-election-results-11609707084"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-urged-georgia-secretary-of-state-to-overturn-election-results-11609707084"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-280090/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Covid-19 Aid Bill Remains in Doubt as Congress Braces for Showdown With Trump"
     excerpt: "Unemployment benefits used by millions of Americans lapsed overnight and the government was at risk of shutting down, as lawmakers were poised to face off with President Trump over his objections to sweeping pandemic-aid legislation and a defense-policy bill."
     publishedDateTime: 2020-12-27T17:18:00Z

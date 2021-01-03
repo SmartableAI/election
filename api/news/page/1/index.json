@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-04-us-surgeon-general-says-he-has-no-reason-to-doubt-the-350000-covid-19-death-toll-in-the-us-after-trump-baselessly-questioned-its-accuracy.md",
-      "title": "US Surgeon General says he has 'no reason to doubt' the 350,000 COVID-19 death toll in the US after Trump baselessly questioned its accuracy",
-      "excerpt": "Surgeon General Jerome Adams on Sunday joined Dr. Anthony Fauci in defending CDC data, which Trump baselessly claimed was \"far exaggerated.\"",
+      "path": "_news/2021-01-04-theres-no-running-away-from-the-numbers-fauci-laments-surging-covid-deaths-as-trump-claims-fake-news.md",
+      "title": "'There's no running away from the numbers:' Fauci laments surging COVID deaths as Trump claims 'fake news'",
+      "excerpt": "President Trump misleadingly claimed Sunday that COVID-19 cases and deaths were 'exaggerated' as Dr. Anthony Fauci lamented the surging death rate.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
-      "originalUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1",
+      "webUrl": "https://abcnews.go.com/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
+      "originalUrl": "https://abcnews.go.com/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5ff201de9ff41f001883fb06?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://s.abcnews.com/images/Politics/this-week-doctor-fauci-02-gty-llr-210102_1609606912435_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp",
-      "publishedDateTime": "2021-01-03T10:28:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805",
+      "publishedDateTime": "2021-01-03T11:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55517626",
       "featuredContent": null,
       "highlight": null,
-      "heat": 675,
+      "heat": 715,
       "tags": null,
       "images": [
         {
@@ -118,7 +118,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -264,6 +264,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-traitors-and-patriots-republican-push-to-keep-trump-in-power-seems-doomed.md",
+      "title": "'Traitors and patriots': Republican push to keep Trump in power seems doomed",
+      "excerpt": "Senators decline to defend electoral college ploy aimed at party base but set to be blocked by Democrats and GOP leaders",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ed525c19445a7760937da141928760f12fb11540/0_3_5244_3146/master/5244.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25151a62ddff45df6911dc10cdd6a82a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
+      "publishedDateTime": "2021-01-03T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -916,7 +968,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 448,
+      "heat": 488,
       "tags": null,
       "images": [
         {
@@ -1274,49 +1326,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-mike-pence-heading-to-georgia-on-monday-ahead-of-runoff-elections.md",
-      "title": "Mike Pence heading to Georgia on Monday ahead of runoff elections",
-      "excerpt": "Vice President Mike Pence is heading to Georgia on Monday to campaign ahead of Tuesday’s critical U.S. Senate runoff elections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/10/election_2020_senate_georgia_13230_c0-112-2713-1694_s1200x700.jpg?7a3e3017dc17f18b353cad2448243ba861d13e5e",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/1/mike-pence-heading-georgia-monday-ahead-runoff-ele/",
-      "publishedDateTime": "2021-01-01T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

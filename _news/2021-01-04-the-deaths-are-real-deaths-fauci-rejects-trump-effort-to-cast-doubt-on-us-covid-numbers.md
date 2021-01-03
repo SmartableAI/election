@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "'There's no running away from the numbers:' Fauci laments surging COVID deaths as Trump claims 'fake news'"
+    excerpt: "President Trump misleadingly claimed Sunday that COVID-19 cases and deaths were 'exaggerated' as Dr. Anthony Fauci lamented the surging death rate."
+    publishedDateTime: 2021-01-03T19:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
+    images:
+      - url: "https://s.abcnews.com/images/Politics/this-week-doctor-fauci-02-gty-llr-210102_1609606912435_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "US Surgeon General says he has 'no reason to doubt' the 350,000 COVID-19 death toll in the US after Trump baselessly questioned its accuracy"
     excerpt: "Surgeon General Jerome Adams on Sunday joined Dr. Anthony Fauci in defending CDC data, which Trump baselessly claimed was \"far exaggerated.\""
     publishedDateTime: 2021-01-03T18:28:00Z

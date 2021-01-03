@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
 type: article
 quality: 108
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 94
+  - title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
+    excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
+    publishedDateTime: 2021-01-03T20:27:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "FHl4fpypoiGKYUE9vZrOHHmY51tCkACBY8kAHVr/YAiDGmlwaPCcOvqD6BFA9JJcriBz9xru4/PKgmEuy4RwhyHRUF6+3uLVqfZoBwRHdD8qYxLTLVPwHGEq0nTrNujOToOaxEq8JfM8mQO4TnxXml8U1+9DBn40WWmwC/K0FwmpnXsGVz+/DeC4l0qJKQhxD67mckHNEu9boDo5r8awkLRilySjKib0pqf0eUR2J/nk5MjQ2JV69yvzsP7pXt+zrp6zxuNhEHzPP85e0IZt8zO56PKm0F77xiPgDxt/OvJeqJFUwWjuTTM9kYx1iernn71V4+QplToBWiWmyX/eWWcVow4oVCPRxmmiuqJ4uQw=;MA53Tp6wmyFAjtL4speZUA=="
 ---

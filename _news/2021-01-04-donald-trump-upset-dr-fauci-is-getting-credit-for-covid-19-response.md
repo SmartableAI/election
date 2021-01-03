@@ -1,0 +1,64 @@
+---
+category: news
+title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
+excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
+publishedDateTime: 2021-01-03T20:27:00Z
+originalUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
+webUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
+ampWebUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+type: article
+quality: 75
+heat: -1
+published: false
+
+provider:
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+    width: 1024
+    height: 768
+    isCached: true
+
+related:
+  - title: "Coronavirus live news: Trump passes Covid aid package; Indonesia to ban foreign travellers for two weeks"
+    excerpt: "Trump has passed a $900bn aid bill to support the US economy; Jakarta cities concerns around the new strains of coronavirus for ban"
+    publishedDateTime: 2020-12-28T10:26:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates?page=with:block-5fe9a50a8f08d0452b086195"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 108
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
+    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
+    publishedDateTime: 2020-12-21T22:06:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 94
+
+secured: "5MskU12Mbw0wZUfNcx8kExiX7WkKl342LXodOsntXZQfVn0Jz8+EOyNomMsTJs8vQiTZM84roQfSClEKFQg6nzB/1FEc1P9HtjghBFjaPnYzG0OYgZ1/+UWEBJgLIKFXcMI7F9HXVhbZXrymKt24hWn6PlGWMDxS077TbqmXG1tf6GHczd3RMjMnE06kV+pgVBov4hQJ9iEBZTt5tDdNwHBJPzzxlYOvoYfRTJIQEXrjUauKttqalXyjjy2cstqeyJaLpNgwbtImR5UIny175JQONkdki/5Bjd9hhKUu5rfp0MpAUn37HqXr2z5vS2DZXZTlMJbV2fIUVlmBNUXNSYn0Q7hpJuskOxoKfwB5Iho=;v4BV4mvR4U6LT2mKGdj0lg=="
+---
+
