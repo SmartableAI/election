@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
+      "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
+      "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUCAGLB7IAI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-trump-names-usps-board-nominee-potentially-solidifying-gop-control-of-mail-service.md",
       "title": "Trump names USPS board nominee, potentially solidifying GOP control of mail service",
       "excerpt": "Roy A. Bernardi, a former HUD official, would become the fifth Republican on the nine-member board of governors if he wins Senate confirmation.",
@@ -1506,58 +1558,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trump-announces-that-israel-and-morocco-will-normalize-relations.md",
-      "title": "Trump announces that Israel and Morocco will normalize relations",
-      "excerpt": "Morocco, with centuries of Jewish history, has long been rumored to be ready to establish ties with Israel after years of informal relations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd3c953/2147483647/strip/true/crop/5915x3863+0+40/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F58%2Fea95e0cf45a680c7a05fea261530%2Fgettyimages-1229950087.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "publishedDateTime": "2020-12-10T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-22-the-trump-administration-is-mulling-immunity-for-saudi-crown-prince-mohammed-who-is-accused-of-sending-a-hit-squad-to-kill-an-exiled-spy-chief.md",
+      "title": "The Trump administration is mulling immunity for Saudi Crown Prince Mohammed, who is accused of sending a hit squad to kill an exiled spy chief",
+      "excerpt": "Jabri, a former Saudi intel official, filed a complaint in a US federal court accusing Crown Prince Mohammed of ordering a hit squad on him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe1bb31d366e60018099876?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp",
+      "publishedDateTime": "2020-12-22T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-trump-issues-executive-order-requiring-beautiful-federal-architecture.md",
       "title": "Trump issues executive order requiring 'beautiful' federal architecture",
       "excerpt": "President Donald Trump signed an executive order on Monday looking to ensure that federal buildings feature \"beautiful\" architecture, expressing a preference for classical architecture over modernist designs.\n    \n",
@@ -1279,62 +1331,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
       "publishedDateTime": "2020-12-20T07:46:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-biden-will-not-discuss-hunter-biden-probe-with-attorney-general-candidates-psaki.md",
-      "title": "Biden will not discuss Hunter Biden probe with attorney general candidates: Psaki",
-      "excerpt": "President-elect Joe Biden's pick for White House press secretary, Jen Psaki, told \"Fox News Sunday\" that Biden will not discuss any investigation of his son Hunter with anyone he is considering to be the next U.S. attorney general.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPNYhfeATsU/hunter-biden-probe-attorney-general-candidates-psaki",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPNYhfeATsU/hunter-biden-probe-attorney-general-candidates-psaki",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 330,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3510bd-03e7-49ea-8fbe-75b8933bd5c1/360cfa39-c952-4b0b-8928-61d73d18ee39/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp",
-      "publishedDateTime": "2020-12-20T07:37:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

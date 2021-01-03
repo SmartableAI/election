@@ -95,6 +95,22 @@ related:
         width: 4829
         height: 3220
         isCached: true
+  - title: "Judge tosses lawsuit from House Republican seeking to give Mike Pence the power to overturn election loss"
+    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
+    publishedDateTime: 2021-01-03T00:23:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+        width: 1200
+        height: 877
+        isCached: true
   - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
     excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
     publishedDateTime: 2020-12-28T18:42:00Z
@@ -254,22 +270,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-91070.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Judge tosses lawsuit from House Republican seeking to give Mike Pence the power to overturn election loss"
-    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
-    publishedDateTime: 2021-01-02T20:18:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 73
-    images:
-      - url: "https://www.dailypress.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
-        width: 1200
-        height: 877
         isCached: true
   - title: "Judge tosses lawsuit from House Republicans seeking to give Mike Pence the power to overturn election loss"
     excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
