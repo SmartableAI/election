@@ -190,6 +190,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "To please Trump, Republicans plan to challenge electoral vote"
+    excerpt: "Donald Trump's entire presidency has been a stress test on our democracy and that remains true even now. Hoping to please the president, at least 12 Senate Republicans plan to challenge the electoral college vote on Wednesday."
+    publishedDateTime: 2021-01-03T14:07:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/to-please-trump-republicans-plan-to-challenge-electoral-vote-98718277881"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98718277881"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98718277881"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/1609682657767_mtp_clip_a2_210103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
     excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
     publishedDateTime: 2020-12-02T23:50:00Z

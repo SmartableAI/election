@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
+    excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
+    publishedDateTime: 2021-01-03T14:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/03/congress-house-senate-members-sworn-covid-19-rages/6410063002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6410063002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6410063002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/97ca686a-8201-445e-96a5-bdb07c28b1a2-sinful-cities-09-dc.jpg?auto=webp&crop=1962,1104,x369,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
     publishedDateTime: 2020-12-31T20:52:00Z

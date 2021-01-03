@@ -192,6 +192,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "To please Trump, Republicans plan to challenge electoral vote"
+    excerpt: "Donald Trump's entire presidency has been a stress test on our democracy and that remains true even now. Hoping to please the president, at least 12 Senate Republicans plan to challenge the electoral college vote on Wednesday."
+    publishedDateTime: 2021-01-03T14:07:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/to-please-trump-republicans-plan-to-challenge-electoral-vote-98718277881"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98718277881"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98718277881"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/1609682657767_mtp_clip_a2_210103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Edging closer to shutdown with Trump showing no signs of caving"
     excerpt: "He is showing no signs whatsoever that he is going to sign it. NYT’s Emily Cochrane with more on the state of play TRUMP at 12:38 a.m.: “Increase payments to the people, get rid of the ‘pork’.” … at 12:36 a."
     publishedDateTime: 2020-12-27T15:37:00Z

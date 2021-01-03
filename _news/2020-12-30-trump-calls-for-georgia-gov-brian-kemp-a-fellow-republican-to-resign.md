@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/31/imagesus-president-donald-trump-plays-golf-at-his.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
+    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
+    publishedDateTime: 2020-12-29T22:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
         isCached: true
 
 secured: "LPJ6s20jRjjqnvWIWaZXjMx7WidgSWuZBxI+EX5O5dxBHzIskXtAb5aAJJkBoKln2KONpmkcrKCflYP72gh8McbTNTS+iA9unVrx5u9ZGW974Wc9h80Lm0kUu8jyYAI+Gzbtw7EOf5wjuY5prGpVcEK+1VD26aXtBlgLzai0z+PbnP7IxGKQC32hxbKrWJE0/YKj+JCaqqVnpe2jwUrh+W7YF0+VgrmP4bH0VX99hrl77Ld6EddSs8gxA0TCZXD7vhMs8IYKkCktRL8QDgcF0LY5TJ9uhbf0aJS9SVoogF8zl9UO/ES6zafTjjUrgzcIwXDQzrl3UNuY/ZarQY3vI3P6nHnRrtNrjd56dfiMDbWUzGuL6fAjJa1lItgFuXHlqP/y6j2B6USD8E9HFJkoHgl/Ndab7Pv8QVRAJFOrBLT+fhlRpKPYpJSImREX3eegqrhs13SCwaMeTr1pV6KeuoVb9GADAYFLpvQHGwm8flb1nD3z5YB1TwfgdWpq9FXunZC5HrcrrEMziFxycOQGGg==;9kyP5PsaT+lbvwCT2P/cNQ=="

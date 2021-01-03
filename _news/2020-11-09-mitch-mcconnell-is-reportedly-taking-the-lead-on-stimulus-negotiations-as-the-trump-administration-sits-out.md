@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Business Insider
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
-    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
-    publishedDateTime: 2020-12-30T22:32:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+  - title: "Mitch McConnell insists there will 'of course' be a peaceful transfer of power, breaking with Trump who would not commit to one"
+    excerpt: "The Senate Republican leader and other GOP figures have previously brushed off Trump's remarks about not conceding to a Biden administration."
+    publishedDateTime: 2020-11-07T14:09:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 97
     images:
-      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f9058b4212113001873fe95?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

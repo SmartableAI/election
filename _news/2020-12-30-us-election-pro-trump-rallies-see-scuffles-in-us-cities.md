@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55292610"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610"
 type: article
 quality: 140
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
         width: 1440
         height: 880
+        isCached: true
+  - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
+    excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
+    publishedDateTime: 2021-01-03T14:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/03/congress-house-senate-members-sworn-covid-19-rages/6410063002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6410063002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6410063002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/97ca686a-8201-445e-96a5-bdb07c28b1a2-sinful-cities-09-dc.jpg?auto=webp&crop=1962,1104,x369,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "GOP Congressman-elect Burgess Owens says 'there's no question' that Trump was reelected to a second term"
     excerpt: "Utah Rep. Owens said challenges to President-elect Joe Biden's presidential victory on the House floor is \"the right thing to do.\""

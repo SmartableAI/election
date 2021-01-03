@@ -95,22 +95,6 @@ related:
         width: 1440
         height: 1009
         isCached: true
-  - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
-    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
-    publishedDateTime: 2020-12-28T08:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Alternative facts, witch-hunt, bigly: the Trump era in 32 words and phrases"
     excerpt: "His rally speeches and manic Twitter feed conjured new slogans and insults or revived incendiary words"
     publishedDateTime: 2020-12-28T13:53:00Z
@@ -159,22 +143,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
-    excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."
-    publishedDateTime: 2020-12-29T18:41:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5feb414cedf8920018093ffc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "White House aides talked Trump out of last-minute demand for stimulus checks as big as $2,000"
     excerpt: "Advisers persuaded the president on Thursday not to announce support for significantly bigger stimulus payments."
     publishedDateTime: 2020-12-18T08:41:00Z
@@ -206,20 +174,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLMCRVSISEI6XF5WJ247OL7UNM.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "McConnell blocks $2,000 stimulus checks as Trump demands support"
-    excerpt: "Mitch McConnell on Tuesday blocked Senate Democrats’ attempt to approve $2,000 stimulus checks, a measure President Trump has called for. Mr. Trump lashed out at Republicans for not supporting the checks or his baseless claims of widespread voter fraud."
-    publishedDateTime: 2020-12-30T00:03:00Z
-    webUrl: "https://www.cbsnews.com/video/mcconnell-blocks-2000-stimulus-checks-as-trump-demands-support/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Senate continues debate on Trump veto override and stimulus check increase"
     excerpt: "The U.S. Senate is expected to meet to continue debate on overriding President Trump's veto of the National Defense Authorization Act as well as considering increasing stimulus checks from $600 to $2,"

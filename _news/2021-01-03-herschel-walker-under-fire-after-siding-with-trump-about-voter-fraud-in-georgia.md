@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell"
+    excerpt: "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results."
+    publishedDateTime: 2021-01-03T14:52:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad"
     excerpt: "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election."
     publishedDateTime: 2021-01-02T12:46:00Z
@@ -47,136 +63,260 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Stock exchange delisting 3 China companies under Trump order"
-    excerpt: "Three Chinese companies will be booted off the New York Stock Exchange this month under an executive order signed in November by President Donald Trump"
-    publishedDateTime: 2021-01-01T16:14:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
+  - title: "McConnell thanks Trump for signing coronavirus relief bill"
+    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) late on Sunday thanked President Trump for signing an omnibus bill that funds the government and provides an additional round of coronavirus relief after earlier suggesting he would veto it."
+    publishedDateTime: 2020-12-28T12:49:00Z
+    webUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill"
+    ampWebUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_122120gn3_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump extends visa ban; court clears health insurance rule"
-    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31"
-    publishedDateTime: 2021-01-02T01:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
+    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
+    publishedDateTime: 2020-12-28T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
+    excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
+    publishedDateTime: 2020-12-30T22:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
+        width: 790
+        height: 545
+        isCached: true
+  - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
+    excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
+    publishedDateTime: 2020-12-31T03:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idTRNIKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
+        width: 790
+        height: 545
+        isCached: true
+  - title: "McConnell urges Senate to override Trump defense veto, vague on stimulus checks"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday urged the Senate to override President Donald Trump's veto of a $740 billion defense policy bill, saying the funding plan for the U.S. military could not be allowed to fail."
+    publishedDateTime: 2020-12-29T19:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN2930ST"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930ST"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930ST"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Fate of $2,000 stimulus checks proposal, backed by Trump, is in McConnell’s hands"
+    excerpt: "Sen. Bernie Sanders (I-Vt.) says he will scramble the Senate’s holiday week plans if the Kentucky Republican does not hold a vote on the larger checks."
+    publishedDateTime: 2020-12-29T14:48:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OD27ZASEU4I6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "US Congress overrides Trump defence spending bill veto"
-    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-    publishedDateTime: 2021-01-02T04:09:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
+  - title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"
+    publishedDateTime: 2020-12-29T22:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2930SO"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 117
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
-    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
-    publishedDateTime: 2020-12-31T11:16:00Z
-    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+  - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
+    excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."
+    publishedDateTime: 2020-12-29T18:41:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Congress overrides Trump defence spending bill veto"
-    excerpt: "US Congress overturns President Donald Trump's veto of a defence spending bill, for the first time in his presidency."
-    publishedDateTime: 2021-01-01T20:40:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55509883"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
+    quality: 117
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p092w75k.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
-    excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
-    publishedDateTime: 2020-12-29T23:20:00Z
-    webUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5feb1564a644880018193974?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5feb414cedf8920018093ffc?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Is Still Pretending He Won the Nobel Peace Prize"
-    excerpt: "The superimposition of the Nobel Prize over a clip of Trump with Arab and Israeli leaders implied that he won the humanitarian award. He has not."
-    publishedDateTime: 2020-12-29T07:40:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/trump-is-still-pretending-he-won-the-nobel-peace-prize.html"
+  - title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
+    publishedDateTime: 2020-12-30T04:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930SO"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 114
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/cf6/f8e/80bd4a5a0f31b5f082f65c64260c6f9aa5-abraham-accords.1x.rsocial.w1200.png"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump's veto of a defense bill,"
+    publishedDateTime: 2020-12-30T04:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUKKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930SO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump’s veto of a defense bill,"
+    publishedDateTime: 2020-12-30T18:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-congress-inches-closer-to-trump-veto-override-as-republican-tensions-grow-idUSKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
+    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
+    publishedDateTime: 2020-12-30T22:32:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "In Stimulus Battle, Donald Trump Was No Match For Mitch McConnell, Who Shaped His Presidency"
+    excerpt: "Is McConnell's legacy more transformative than Trump's? The Senate Majority Leader took Trump under his wing, got his judges appointed and tax cuts passed, but clashed with him in the president's final days."
+    publishedDateTime: 2020-12-31T16:45:00Z
+    webUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272"
+    ampWebUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1696506/trump-mcconnell-republican.jpg"
+        width: 2500
+        height: 1738
+        isCached: true
+  - title: "McConnell rejects standalone $2,000 checks, links increase to other Trump requests in new bill"
+    excerpt: "Senate Majority Leader Mitch McConnell blocked an attempt to vote on the $2,000 stimulus checks, but reintroduced the $1,400 increase — with a catch."
+    publishedDateTime: 2020-12-30T00:03:00Z
+    webUrl: "https://www.cbsnews.com/news/stimulus-check-2000-trump-senate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-2000-trump-senate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-2000-trump-senate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/817d52a3-b354-4ddb-aa99-f0c7e223577d/thumbnail/1200x630/b1ca0c4dcef5d3f04548483e3a45c84c/gettyimages-1230255025.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
-    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
-    publishedDateTime: 2020-12-29T22:47:00Z
-    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+  - title: "Fauci to Trump after he tweeted the CDC exaggerates the number of COVID-19 cases: 'The deaths are real'"
+    excerpt: "Fauci responded to Trump's Sunday tweet calling CDC data \"fakes news.\" The president's tweet came as the US reported passing 350,000 COVID-19 deaths."
+    publishedDateTime: 2021-01-03T14:51:00Z
+    webUrl: "https://www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
-        width: 1024
-        height: 642
+      - url: "https://i.insider.com/5fd0cb59240ebd00126bdde9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Trump Extends Visa Ban; Court Clears Health Insurance Rule"
-    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31."
-    publishedDateTime: 2021-01-01T08:14:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
+  - title: "McConnell blocks $2,000 stimulus checks as Trump demands support"
+    excerpt: "Mitch McConnell on Tuesday blocked Senate Democrats’ attempt to approve $2,000 stimulus checks, a measure President Trump has called for. Mr. Trump lashed out at Republicans for not supporting the checks or his baseless claims of widespread voter fraud."
+    publishedDateTime: 2020-12-30T00:03:00Z
+    webUrl: "https://www.cbsnews.com/video/mcconnell-blocks-2000-stimulus-checks-as-trump-demands-support/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5HMu0fqWo7y6Cx74OdKdrBAhIWAmkroqZTVaPpqG7dNM3HIz/9wU8LI4aPsHXi3fEuuXbzbvLVBJpYo1ZfpFi0om5netmee/9960GEprlMpzYkkkFgF6/OGIndZBnm8XhKOk0Psv2TMQQnJZcDlhHMewKukBM4933LSdWWVZnO7AdK/FvadISLRVo6dSCx8ZnSWDW32X+RMHs8wTDL8q/psxBRssujkEyO7q7z6jJUmInLKGmeSTBA3iekdizKdPAfMQZyZ4xI170a29Saw8TcXgTuyyghna2Io3LAaulmA6Qsm8MbOg341w7+X/pS0n0FB2yYbPE4h3dLm213aExSeD/xj+qVm+ndVTBwev9zRtULTq0qMROuxXmbUrohCy+Tqxa/hHzHB6fj9mamFTaXIvZeBJpC36VlBRYEmaWCjDvKb2IB5iAME89FPaR8yRG70E09c9AJisI0/W0XPeVZ8hTkWcTZv3zRdhXEN0jEEfT+7m5LyahUbaVb6637N+Mnx9BkAWVrCRc4/eT69kGg==;2o1x8LKbd4xzSFYVdE2HWA=="
 ---

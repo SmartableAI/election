@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Can Donald Trump Pass $2,000 Stimulus Checks by Executive Order?"
-    excerpt: "With a standalone bill that would allow $2,000 stimulus checks apparently dead in the Senate, could President Donald Trump sign an executive order that would allow the higher direct payments to reach Americans?"
-    publishedDateTime: 2020-12-31T22:45:00Z
-    webUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386"
-    ampWebUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
+  - title: "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell"
+    excerpt: "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results."
+    publishedDateTime: 2021-01-03T14:52:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad"
+    excerpt: "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election."
+    publishedDateTime: 2021-01-02T12:46:00Z
+    webUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5ff059d5a18a450018cb6824?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "McConnell thanks Trump for signing coronavirus relief bill"
+    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) late on Sunday thanked President Trump for signing an omnibus bill that funds the government and provides an additional round of coronavirus relief after earlier suggesting he would veto it."
+    publishedDateTime: 2020-12-28T12:49:00Z
+    webUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill"
+    ampWebUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1696668/could-trump-sign-exec-order-stimulus-checks.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_122120gn3_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
-    excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
-    publishedDateTime: 2020-12-26T12:35:00Z
-    webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
-    ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
+  - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
+    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
+    publishedDateTime: 2020-12-28T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Reuters
+      domain: reuters.com
     quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+        width: 817
+        height: 545
         isCached: true
   - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
@@ -69,6 +101,22 @@ related:
     webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
+        width: 790
+        height: 545
+        isCached: true
+  - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
+    excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
+    publishedDateTime: 2020-12-31T03:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idTRNIKBN29411A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN29411A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN29411A"
     type: article
     provider:
       name: Reuters
@@ -90,6 +138,54 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"
+    publishedDateTime: 2020-12-29T22:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2930SO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
+    excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."
+    publishedDateTime: 2020-12-29T18:41:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5feb414cedf8920018093ffc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
+    publishedDateTime: 2020-12-30T04:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930SO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
         width: 817
@@ -127,6 +223,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
+    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
+    publishedDateTime: 2020-12-30T22:32:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "In Stimulus Battle, Donald Trump Was No Match For Mitch McConnell, Who Shaped His Presidency"
+    excerpt: "Is McConnell's legacy more transformative than Trump's? The Senate Majority Leader took Trump under his wing, got his judges appointed and tax cuts passed, but clashed with him in the president's final days."
+    publishedDateTime: 2020-12-31T16:45:00Z
+    webUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272"
+    ampWebUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1696506/trump-mcconnell-republican.jpg"
+        width: 2500
+        height: 1738
+        isCached: true
   - title: "McConnell rejects standalone $2,000 checks, links increase to other Trump requests in new bill"
     excerpt: "Senate Majority Leader Mitch McConnell blocked an attempt to vote on the $2,000 stimulus checks, but reintroduced the $1,400 increase — with a catch."
     publishedDateTime: 2020-12-30T00:03:00Z
@@ -143,21 +271,51 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump's $2,000 stimulus checks demand could cost the GOP its Senate majority, but reveals his enduring influence within the party"
-    excerpt: "McConnell's obstinance on the $2,000 checks has offered Democrats an ideal messaging opportunity ahead of Georgia's Senate runoff election."
-    publishedDateTime: 2020-12-29T21:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
+  - title: "Fauci to Trump after he tweeted the CDC exaggerates the number of COVID-19 cases: 'The deaths are real'"
+    excerpt: "Fauci responded to Trump's Sunday tweet calling CDC data \"fakes news.\" The president's tweet came as the US reported passing 350,000 COVID-19 deaths."
+    publishedDateTime: 2021-01-03T14:51:00Z
+    webUrl: "https://www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 96
+    quality: 109
     images:
-      - url: "https://i.insider.com/5feb6279edf89200180940ba?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fd0cb59240ebd00126bdde9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "McConnell blocks $2,000 stimulus checks as Trump demands support"
+    excerpt: "Mitch McConnell on Tuesday blocked Senate Democrats’ attempt to approve $2,000 stimulus checks, a measure President Trump has called for. Mr. Trump lashed out at Republicans for not supporting the checks or his baseless claims of widespread voter fraud."
+    publishedDateTime: 2020-12-30T00:03:00Z
+    webUrl: "https://www.cbsnews.com/video/mcconnell-blocks-2000-stimulus-checks-as-trump-demands-support/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
+        isCached: true
+  - title: "Herschel Walker Under Fire After Siding With Trump About Voter Fraud In Georgia"
+    excerpt: "The University of Georgia alumni announced his opinions on Twitter on what he believes happened in Georgia during the 2020 presidential election."
+    publishedDateTime: 2021-01-02T16:51:00Z
+    webUrl: "https://www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274"
+    ampWebUrl: "https://www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/29/voter-fraud.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "vWSa+Jpz8GNnN3JMywWqoMpRlYs+duJFs3oFYkG9FT3VUGmWhUgiK6cqhqbQ65rRd1Wq81CJVSnVt5jE5veAYyBy4mNBDQtzIRfKPbvciaDkE6JehjuQWjSDNbE23eFu0xM7c532XeiKx36wK4a/XECzhbxbuliJaUdM9dqsvgUiolmpLPz5NbAoeVDZqBcpSqKHxfmR6v6MbYb4Fl+jy82cpqX3+jU6Z796jJ5j0xMWfuRQbw7bkPsWJyefHXQy1O08af3MXRJbffuBJB8NkS5h+bwen1iAEaS0GWktVpv9lEEVy7ADtRr7gcrc0cF8lkqpwsI7zrkaM8M4eNz4MmgpcK9TmZIlGrz5jltAa4Y=;g/QSkYFB5/DJDjf62TQcrA=="
