@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html"
 type: article
 quality: 150
-heat: 170
+heat: 150
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Pence Welcomes Futile Bid by G.O.P. Lawmakers to Overturn Election"
-    excerpt: "Vice President Mike Pence signaled his support as 11 Republican senators and senators-elect said that they would vote to reject President-elect Joseph R. Biden Jr.’s victory."
-    publishedDateTime: 2021-01-02T19:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/02/us/politics/02dc-cong2/02dc-cong2-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "gnIQh+0IA98+cPtPQ5Xpuu45AZHLQZAe+TguchQqM1vWQxiJYYlGtrhgctWVc1KsLoieIGt9rnKXrSfRhN80bs15yjdmC0/ZO8SMhXjWv9hp5KSNoto6V2Lc0l2jWjuj9hMzws35CMSJqOVEA1xns5sYCvaFsrO2Yo6xEsxMQOvXyLdWPRvr5sC3uTvX4Ehcyk4XYeauj4V6nJZcroRjb9QvIjj0YHT22gNxNiP0c2gD7LndWgnsbtlE1LO/18R4w0R0Rxe2pskq8JMupDPNULdzVDGf9fkwfRVIsgdLsN7jGgIWHWa9Ih9oZwY6HRBxGX33Bab5/N8v7KwVsH4ksjD+zj8B/rxHDkjQyOcemb5zv98oQk9zoDX222qREhV0zsM0VZOeJYiAUo0S8IXn7HOU02AIg8nQbZWLrdENq6KwACqtFV9dETH0z+bNxDCYiy/gNaiHrZ9Wyp0TvWpq6l0Z6wD9MwMTSjWrtQxVfnpfUEBubSHIjCJgDc9dsM7PQ2516kCGRunTojQ8HxPlUw==;aNSwTnJobCfqP26vvt/z+g=="
 ---

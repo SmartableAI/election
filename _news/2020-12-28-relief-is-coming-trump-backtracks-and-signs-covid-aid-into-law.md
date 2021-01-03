@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
 type: article
 quality: 135
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Trump extends Covid-related visa ban; health coverage policy advances"
-    excerpt: "Trump imposed a ban on green cards issued abroad that largely targets family members of people already in the United States."
-    publishedDateTime: 2021-01-01T12:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-extends-covid-related-visa-ban-health-coverage-policy-advances-n1252638"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252638"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252638"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_53/3439040/201231-donald-trump-jm-2209_8d217c1e62b5dc0eac865513ce5aab1f.jpg"
-        width: 2500
-        height: 1663
         isCached: true
   - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
     excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."

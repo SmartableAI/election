@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
 type: article
 quality: 131
-heat: 191
+heat: 151
 published: true
 
 provider:
@@ -47,28 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
-    publishedDateTime: 2020-12-30T19:17:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
-    excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions."
-    publishedDateTime: 2021-01-01T12:23:00Z
-    webUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "Rr0/Mnn50GOGzdmwf1sUIE1wZBCyfLUHU+XmVVGL76cjtG6VsNJNafdRJVyhLrMMmYKI2kYZM5Tz44hCaMn/4j7AG1JAcfPvY3yQbkY6FEISlCBMSPizJ2COR8eN/CePyPRBLA+lWJ3Hl4tD/+CCpB5cjCn2Zou1HZRrKdBjWky0sWoCQfH1Ad+jpoM5pQSOa8D4BYiHmhSLtSRoV2ksfdAOHCiY7g7551pHw4Y8q0fwtzWm/UEzb6P0HqTN4h1PXsEuasUUhu+OfLmglFHJwM3iegoaJCKxzYmlurMvDA8+uMFJ+9QUn7XpRi0EvX/ZECYENs9UiPyHZ9XmKNVbjZPwZJGD+V1WRFyVo7eyzYWUSkxsiUbvXr4tGrmItDMc9NXUHfZb8X8ifspSV+BCiZhWxVgbdgTeALcubM7SsMqBbke0KEmjdJ3EBsNWGzRkc4jkuTO/MivY8kc8M68qehMeBnztWb9a8BWsev3WqUz06FDfafbJUxxS+vVtSW4gMiY+VCTWot+PbE0z83uE6w==;QswGAGs6Cnq6oj7yaG5EJg=="
 ---

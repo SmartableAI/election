@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Memo: Left seeks leverage to move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Saudi court jails women's rights activist, posing challenge for Biden"
+    excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
+    publishedDateTime: 2020-12-29T06:15:00Z
+    webUrl: "https://www.reuters.com/article/uk-saudi-rights-women-idUKKBN2920RK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2920RK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2920RK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545968497&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0MO"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Electoral College makes it official: Biden won"
     excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
     publishedDateTime: 2020-12-15T05:31:00Z
@@ -60,6 +92,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden Presidency Will Drag Down Stock Markets, Investors Predict"
+    excerpt: "In general, some of Biden’s economic policies might not be as conducive to growth as the tax-friendly agenda of his predecessor."
+    publishedDateTime: 2020-12-28T16:36:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/21/us-president-elect-joe-biden-said-the-latest.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "pdDbu1B8MpGHyN3sEO//EeNGmKmyTIkcCLax+mCMH/bG+3k/CiBTo+lxhgG/peV1TIJgYUw+mHUEE+RQPyIFmuD5z5TcdOKRlPqfYwf3garCZubNXCHr3qczEyhluTpRgXZ6z1OBJn3qhW1lBDcuax0lVGTDvGV3YHv7aJlxRhQWWt/8LtelnipVjBexb9d37Fd7zqKlcWW/+W7a890o0/dWRcO1Ske1eDJynHKUzhWAyKJYvT9vpb7eUdf0Thx5nSZlsJL+O2tcaA7OnBBKlWgpjJbJN4PCF1eMZOyCGjtM51Dm2KLgba9w1FewfXmqWrcNV6BA63gDLbsBDFWYzZ26sXjnSSaKmNcYRfBjyEMRuzGXN6eA76TsesntTqHPxVP6QO32Pt3Lvkn0d13Wg9CvV27mFIdFTyV+uKVQtuRbJ6VOMnmM6NGd9WKPkAEidOGZlBYZ2eQF+uBtTG4M6VuCeyya4YwmNYEXZO80KsW0xe/X85+hoSlCx+Av16TDxWtQrCRjiTqPYGnqkignHA==;MoEhNOT2Q0GFpo55g+itRw=="

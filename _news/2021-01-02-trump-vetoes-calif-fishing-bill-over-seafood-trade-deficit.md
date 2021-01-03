@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fis
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
+    excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
+    publishedDateTime: 2021-01-02T07:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-senate-idUKKBN2962KZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962KZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962KZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546362263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0019U"
+        width: 849
+        height: 545
         isCached: true
 
 secured: "yr00/a8eTAudwG3qw/MuaW8onbiXWdLkkh/AMBCFxg5RjgPL6NJwYk8B2hCClkEs7L5AUdbHAF1XPBkQ8YuvBffztrl4NcuhOASdEuNJ9GdrCoUG5WzZ6oTlrrVA9SfNRy1YTOii2epU56HsVsjK+6f8zIvckCNnS7VDS0oKEryZcdMBhIHz3s/AotjFZryoPzYfXlLMHpq1HN/nofZxLKYABiPQwzvOfsWigl9Mu9o5P9vdwQGg9NODbfTNl/tER3Qnu2AQX0UAce87RVKiEaXnHzub56vLSC3vB1B+0+7DRt51ZkmfgU+qyv6XyTiWc+6F9n96g6bqp89X+nzD2DZ+vjNP8kGwr3F2c4s76hFZwltvcwb0oX73mPmnU8Z6o1q3CVNUx5elhbp5Yb4h0cTNBnCbf2feZlRYGUUdqNuf+8hAHDyGi7LRaBeqilmsv3+Ukf1Q1wSKtf7GWogCBZts6XMRM5fYWTRXn7naReroCWXu2V/FZvnRUOsAamTHkI9ZCZB5LV4S3K2Nsqjbow==;TWWs3gQgSq93aQKj5Kz9Cg=="

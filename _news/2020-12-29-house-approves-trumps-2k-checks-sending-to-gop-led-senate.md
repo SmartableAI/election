@@ -47,28 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
-    publishedDateTime: 2020-12-30T19:17:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
-    excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions."
-    publishedDateTime: 2021-01-01T12:23:00Z
-    webUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "MszCnialPEm/uTSROEM/jBGy9eCCFe5n0ohXHYCRei+caN2RO7rSIRadt192LAHj+kza1FuNynERn1orlAgAag3MicqXNIPagfSjwFeF5bJfXCqDsY0RCVzmqpMu9/0jyjmL1aH/8ZDOB4kh1x/0GgxDfER4C4npvtJsQ9l46UUdzmgVOSenkfheo9U+JOhJZY7EUbuFD60L4NlqjnTXOCGfXCUrLiLXDxDbfj8DgD5v/gHd4eokxcZl+GqhOSzvWR3QpcXpaxyZ8ViykqqXAHN/PAASsFD9kXwsIGXjgjTKfM/WXfKYFWUHPMhV2KdBceM6KzHUy72AlEBtvkdK/RLXtGc94xpTd4kMieykmjQ=;PXxKDqlKxAnL5LYtdhdLtQ=="
 ---

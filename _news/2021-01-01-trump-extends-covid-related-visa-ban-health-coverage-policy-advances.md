@@ -32,51 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
-    excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
-    publishedDateTime: 2020-12-28T12:37:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
+  - title: "US surgeon general: 'No reason to doubt' Covid-19 death toll number after Trump claims deaths 'exaggerated'"
+    excerpt: "US Surgeon General Dr. Jerome Adams on Sunday said he has \"no reason to doubt\" the US Centers for Disease Control and Prevention's Covid-19 death toll, contradicting President Donald Trump's claim that the agency has \"exaggerated\" its numbers.\n    \n"
+    publishedDateTime: 2021-01-03T16:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYGtfOWoNB4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 157
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump blasts Covid relief bill just passed by Congress, demands changes"
-    excerpt: "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,"
-    publishedDateTime: 2021-01-01T09:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251966"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
-    excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
-    publishedDateTime: 2020-12-23T10:33:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180516200947-jerome-adams-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "EOehTXECk1764k35KbtgYMLNcWjbvUXL1N3OckK1p1ucIyi8fndLXPmxVRfo7QTwcU/hk2mvmDBo4+li8jnu8koGNXYVRxsz0vUloZaN5oYGChLOOuUN1igzc97EIV0s3wKm2EsgMqvXzVCi/+NkLAVD7Y1r/N98FAlLhEVcazk9jFJlA+G9RFrMGjuhC76VbBLCsDRA/NYwXSItIl2WF23rIf3kG0gTaLRChIg4BzRJh9vzLOekwEMllwYcn4IU8ri1DiRKBAOylHoc76y3/FwVRIinxkeY/DxtzlaeIR5blGTUEo0rmeNxKp1n4lcadqxp/cEGiECqJO5gboVH9oGnTJgZFTqmvkcKlydxhAKEI21f1Mi8TgSBoiHZT4Hd+QKegD3RJcT6Rpm2OetByq099Ov3y3/L62Dhf4bkRYybA5HDvQK+qYfoT0nbYnpcTnGgqAxAa28U2Hs8n9FEcqU9vIcniDmfcfKPFgck4r2YHXXU5aw29IRinl9jCefhPUXqv6M/VeVDzl4GnrZAtQ==;z6I0WtkggZap2pFUwbWbYg=="

@@ -62,22 +62,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump extends Covid-related visa ban; health coverage policy advances"
-    excerpt: "Trump imposed a ban on green cards issued abroad that largely targets family members of people already in the United States."
-    publishedDateTime: 2021-01-01T12:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-extends-covid-related-visa-ban-health-coverage-policy-advances-n1252638"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252638"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252638"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_53/3439040/201231-donald-trump-jm-2209_8d217c1e62b5dc0eac865513ce5aab1f.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
 
 secured: "HzS8oWGTm9s48nkRjvwNhxRuhYnGHs5kxgWvAW4O1f/V9t3n8+rouQuoi0wXv8Yaxz36ojzcS84AwSWo/lHbaqwpD/xOs3VnKsPAGfU6BVIRyo0N4TxucA08AkMYLGQdBXVt+mkW5sbr+zL3awDgbIrLztU1YAOrpVuXa5zrKCQcDX+xe1+Jmu1LfBhrDonxYLzbcbiclNfX6hZIoItlXjZ+wJGA6ny2u8++9EHosnVwd/utvS8UUpsrH4jDYTPQVZr1eUTcdXeK9Qfh4wjV1uFr2cWZERHPyw/rJY83QEKxgkULFR5JZ83AlzJq2bOf9vXNOehmJTyL+E7zuv7ToaOx9EM33WG+7uPx6fJh/DKGhJL5r9IKnTibNP7Y5JYObppRcPoUv/7tQ5vTaAERW80eHLOLvh9rx/v9AAYvE2dxc1ufuPIZjfTjBSoqrBa1GXV0Uy48h3iP21FOgXIlim7r6fBs0TvCmbjtQ5/LK3KkmpuZvV4i4Qqfywt+Dp6X6XYGhdJGxl/sbL9ZVYn6pQ==;C1eWLun6BMUfCBBw+hO62w=="
 ---
