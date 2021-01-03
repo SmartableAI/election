@@ -207,6 +207,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "More GOP lawmakers enlist in Trump effort to undo Biden win"
+    excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the E"
+    publishedDateTime: 2021-01-03T00:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -754,22 +770,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "More GOP lawmakers enlist in Trump effort to undo Biden win"
-    excerpt: "A growing number of Republican lawmakers are joining President Donald Trump's extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the Electoral College votes and certify President-elect Joe Biden's win."
-    publishedDateTime: 2021-01-02T23:32:00Z
-    webUrl: "https://www.chron.com/news/article/GOP-torn-over-Trump-s-Electoral-College-challenge-15840947.php"
-    ampWebUrl: "https://www.chron.com/news/amp/GOP-torn-over-Trump-s-Electoral-College-challenge-15840947.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-torn-over-Trump-s-Electoral-College-challenge-15840947.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/00/52/20449953/75/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "Jobless benefits for about 14 million Americans expire, as Trump still refuses to sign the pandemic aid package containing $600 stimulus checks"
     excerpt: "President Donald Trump has refused to sign a $2.3 trillion stimulus package, in part because he says $600 checks for Americans aren't large enough."
     publishedDateTime: 2020-12-26T08:19:00Z
@@ -831,6 +831,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EiU0gArPhDpWBT0E5AekotLng1Lat/FyGWn6W8rIdlkUwiVlw3gK/NFINksutfTn6paVpoEIh0MwHJX7XMkmwWKVxUGivFcD39JQAsM8kECr0jcPsokJ6TsU5Sl9w9RbyV5Uk/P+rde7npLlW5R9sWa/gQOQqxM3BgL65v/AqaRGXfhTkeUojcA/4RCtBRZdOo8c2PgXuukd5akuSDVJmUz58c6/WDEarWjmqqKF7gaRK1LXEoZwCNuxcMclfo0D/0N1XhynB2oO8gqtqroLyyV3owh8UtnsouZDO2fHNEJu7KrucOOMg93yaMz5IKUlNEdheqizVcBiq5TXUYsZXckMuA34FcL71imN7tBhS4I=;cwMiIXM9qg+pJjMRaX2AIw=="
+secured: "K3TQGyvCqqUDZp/UMedFpjbmk0Rq3Xahh2Uv1USfOOLTQkaiWyvuPmPu9fnFhM+Zlg8REk60j12q4/bjEzwxUfSX+keLHjN8adOMgf8CNJv7fisJaYuGQ6gP+kx5cnsy8ixBSb75hrJU8eD0hVnHPb8b6M5qRKbimbWJVr/sBnYNpB5qcJ5AEnR9q07mV+pQ28zj3iw2RhP53Qmk+7RK76VPL34PBkIbBG59UToX2QhpWSNKQjpMY+KaBoyryqKKju+34FTEI5L7JB+12Wi8TRZY+JojpQJzqix6O0N8gCghY+BxCJtN7MCAgMivANK4H66TFJ45ozlBGWGqABzaz7eU8hnGFNsyj0WqPETfSuQvc9s4b2Fg0a77yGM45W6YWXy2NYEVkxJvEo1Mc02RD0lNrg6NtVZKY5ABeXrlikYPV7KaAg/SzpjCJ1VokrDJxkNltsjd0Jn3MmtfT09soHMFcXWvG78OlFHGTlYrAl1OCtclixXclfQF2xLEOXGtiFnIY9mj9pnmH29LERnsVA==;hqQ2BYV67Vr8UalQeSPvbQ=="
 ---
 

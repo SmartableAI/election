@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-01-dangerous-ploy-gop-sen-ben-sasse-slams-efforts-by-trump-hawley-to-overturn-election.md",
+      "title": "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election",
+      "excerpt": "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4106964001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001",
+      "publishedDateTime": "2021-01-01T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats.md",
       "title": "Joe Biden, Nancy Pelosi to Draw on Their History in Bid to Unite Fractious Democrats",
       "excerpt": "The president-elect and House speaker share the job of steering a divided Democratic coalition amid a pandemic and an economy recovering from a deep slump.",
@@ -1307,58 +1359,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-president-elect-joe-biden-and-wife-jill-to-appear-dick-clarks-new-years-rockin-eve.md",
-      "title": "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\"",
-      "excerpt": "Hosts and performers for the annual Times Square celebration, which will look different this year due to the pandemic, have also been announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/4b851fdc-667c-48de-be4e-98a99b908e10/thumbnail/1200x630/b1cd6639542992408bad69c0009ab144/gettyimages-1230199205.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "publishedDateTime": "2020-12-30T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

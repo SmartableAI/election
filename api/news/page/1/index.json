@@ -306,6 +306,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-03-trump-urges-people-to-get-ready-to-vote-in-georgia-just-hours-after-calling-the-senate-runoff-elections-both-illegal-and-invalid.md",
+      "title": "Trump urges people to 'get ready to vote' in Georgia just hours after calling the Senate runoff elections 'both illegal and invalid'",
+      "excerpt": "President Trump will attend a rally in Georgia on Monday for Senators Kelly Loeffler and David Perdue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
+      "originalUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff09f449ff41f001883fa8c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
+      "publishedDateTime": "2021-01-02T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-on-the-anniversary-eve-of-the-drone-strike-ordered-by-trump-that-killed-its-top-general-iran-reveals-its-plan-to-enrich-uranium-to-20-purity.md",
       "title": "On the anniversary eve of the drone strike ordered by Trump that killed its top general, Iran reveals its plan to enrich uranium to 20% purity",
       "excerpt": "\"We are like soldiers and our fingers are on the triggers,\" the head of Iran's civilian atomic energy organization said.",
@@ -1239,58 +1291,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-dangerous-ploy-gop-sen-ben-sasse-slams-efforts-by-trump-hawley-to-overturn-election.md",
-      "title": "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election",
-      "excerpt": "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4106964001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001",
-      "publishedDateTime": "2021-01-01T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
