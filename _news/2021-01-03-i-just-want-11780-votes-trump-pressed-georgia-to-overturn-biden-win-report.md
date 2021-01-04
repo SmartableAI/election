@@ -519,6 +519,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "AUDIO TRANSCRIPT: Trump pressures Georgia secretary of state to 'find' votes to overturn Biden's statewide win"
+    excerpt: "In an hour-long phone call, Trump repeatedly made the false claim that he won Georgia and continued to bring up debunked voter fraud allegations."
+    publishedDateTime: 2021-01-04T05:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01"
+    ampWebUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
     excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""
     publishedDateTime: 2021-01-03T02:52:00Z
@@ -879,6 +895,6 @@ related:
         height: 683
         isCached: true
 
-secured: "avUubYuvi2kFPru6jaHFCO+D4L+k9VgP21+jQ58bwmFc+9kFHaHqfh4Af6ZXpRG1qgK8VALm0xk2dCV6DMwoPQ/ycp+LyvsJ6o2UPI/QyemBpww+UpEZPODubyWRbxLmaVWF8BrBHZVlBO46hbXbRArQCmJqhM1ZpEsZRz4V939dFvj/k9T1VS97+OgFW8Xhvqb1Isfb5OWM996JXDir82odmTusoCw4TDjJeP3v8+ZA39zNs0AlRpltukWiQwQ4cO0ras5auptfc1JeS30kFP7h3FMuNZDKwZPaTnaDQsnB5XMfaD5sAt0eyNnmPPvl4c19GxPcRMgyMdwaNpIVZ8Mbr1VPj8ZChxMuVnQ6IPY=;ORRA79E+tgm/BpErRvzS+w=="
+secured: "Tomccyej8nTRwT7eFRrRtn+rOfO9/+YmN/C8jqmhjME8JQ+Yf5NkOh6rx/pqqR3EVnvVRobSL809hncR8r7+Zn3+I1r6YJoHh8iTyDi8E5NJh/Nph8vHs6vq0ziQkZ4C6KaDupIwAheLoJErarA2eZ2LpVi6Vf7X5FqvrCWwAiUtrdglJF9wMH8b3x/q2wSAD4AdeR8O+Pk3PPEzjcA11tdSa185GnnYFDRdieU5CPlQO4pZtribxHLnG37vBVU/2RPKyOv2Q22BRkqfLDv3U5X0eNR3OEIRwK4uRpBf9fsRkFbEhHa7QZxh0R3BdaIXzBY4CfcQLyQ0AFb2z2GBpUrd1QyWZJ+IPcYCoVWE2IdE/Ksu7TmSzPkGtmivRU+kGxabcS1vXV4r3bNCp1dniDFIluuiumhC/zZeWqtSmLzC4PGDLS+v9p0FXg0ZJ/JeKRtlUNXKXovDYoaFBH+WP3wXWcGwplqk2XztQSnheaEoakZWKX3eVC/YTKqwKdG8hIQNh14Vq0ukxcOUKBbuOA==;hZckc4xNT06ubmiZcwEyqQ=="
 ---
 

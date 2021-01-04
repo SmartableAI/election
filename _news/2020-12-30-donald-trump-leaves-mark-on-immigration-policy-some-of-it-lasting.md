@@ -381,6 +381,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Republicans condemn 'scheme' to undo election for Trump"
+    excerpt: "The extraordinary Republican effort to overturn the presidential election has been condemned by an outpouring of current and former GOP officials warning the effort to sow doubt in Joe Biden's win and keep President Donald Trump in office is undermining Americans’ faith in democracy."
+    publishedDateTime: 2021-01-04T06:02:00Z
+    webUrl: "https://www.chron.com/news/article/Republicans-condemn-scheme-to-undo-election-for-15843718.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Republicans-condemn-scheme-to-undo-election-for-15843718.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republicans-condemn-scheme-to-undo-election-for-15843718.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
     excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
     publishedDateTime: 2021-01-02T23:38:00Z

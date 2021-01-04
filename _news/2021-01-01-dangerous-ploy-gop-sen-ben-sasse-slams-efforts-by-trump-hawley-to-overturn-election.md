@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
 type: article
 quality: 131
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
+    excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
+    publishedDateTime: 2021-01-04T05:27:00Z
+    webUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H6JQPAWYSFBNZJ7PDA5OYAMLZU.jpg"
+        width: 5653
+        height: 3769
         isCached: true
 
 secured: "Rr0/Mnn50GOGzdmwf1sUIE1wZBCyfLUHU+XmVVGL76cjtG6VsNJNafdRJVyhLrMMmYKI2kYZM5Tz44hCaMn/4j7AG1JAcfPvY3yQbkY6FEISlCBMSPizJ2COR8eN/CePyPRBLA+lWJ3Hl4tD/+CCpB5cjCn2Zou1HZRrKdBjWky0sWoCQfH1Ad+jpoM5pQSOa8D4BYiHmhSLtSRoV2ksfdAOHCiY7g7551pHw4Y8q0fwtzWm/UEzb6P0HqTN4h1PXsEuasUUhu+OfLmglFHJwM3iegoaJCKxzYmlurMvDA8+uMFJ+9QUn7XpRi0EvX/ZECYENs9UiPyHZ9XmKNVbjZPwZJGD+V1WRFyVo7eyzYWUSkxsiUbvXr4tGrmItDMc9NXUHfZb8X8ifspSV+BCiZhWxVgbdgTeALcubM7SsMqBbke0KEmjdJ3EBsNWGzRkc4jkuTO/MivY8kc8M68qehMeBnztWb9a8BWsev3WqUz06FDfafbJUxxS+vVtSW4gMiY+VCTWot+PbE0z83uE6w==;QswGAGs6Cnq6oj7yaG5EJg=="

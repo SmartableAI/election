@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's bid to steal Georgia exposes GOP election ruse"
+    excerpt: "Astonishing new evidence of a desperate President Donald Trump caught on tape trying to steal the election exposes the depth of his corruption and makes his Republican Capitol Hill allies complicit in his bid to thwart the will of voters.\n    \n"
+    publishedDateTime: 2021-01-04T05:00:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szs1_xXWE2U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Hawley set off Republican meltdown with Georgia elections looming"
     excerpt: "President Donald Trump is stoking division in the Republican ranks days before control of the Senate -- and the balance of power in Washington -- is decided in a pair of runoff elections in Georgia.\n    \n"
     publishedDateTime: 2021-01-02T11:11:24Z
@@ -595,6 +611,6 @@ related:
         height: 773
         isCached: true
 
-secured: "e9WPntjIO6JcdhUhjjBFN4kIbO+3SB9WvsUU51FLoIV5GGqK7k/jdxnMWmOyxp1/JHgrIkCTpynFK4HD268K5LV+/R3Zv8cr3UGLdBQql1lS9hEzXQx7S7EdehShcRHYqgp/DB+fMJF9RS4jJxdQN/vRv0WW5l9xhrxP9NZmxboJBfXefT5cqW9UMK5Tw0ApgGTHK58w2dFHMGNi8BvMNKKL3yLqbpW2TVhQqWcLh4AnpZwk+MlvDMRlH/wT0zAPofDIhKDe1ixcgRJvSXi+J+z0aUJthG2WKB26rPxBFk8roCdBlJRSQc67l+46Z/THHNuh5sAphwCP49LM0wi2wcatijRzL6AETtSuB6ZMhAc=;SJi1k7qW+YZ324E/vXiTeQ=="
+secured: "WCAHpeAv+xG+YJ5c4sd0SAWm8/gMPRaouY4ZwhEGzDwLaW0cWELaT2ICVMksOdiHk5KPMeNn7WpAcVueicezHngFetjhTqIYtTrbNjYU/PNAia8tzCSI5p4hVbj4cg94E/ce0HqxCSBJLARAgI9+LsC46RkBR/ztLZ9edC0U5NbOFXqD+NHs8FqRxm52J7UikBJMw+4EBCNVx6+6e+h67ltS6SK5wCNyYyJ/6GUqaBBdsDHr5uER8O+ghfer5Yyn5keIdd1RU4o0e0zxOvkhtUaGMe2kC5nzDGIAyaN1MfEjoIMpk+ZymF9SN6u/74RwA9YnxM0rQHH+3UkrYMtHYVSwWqFn3y4DBd3aQy0R6F+JR1LrQ2KXYS3sW4Jt4Zy7mTVybssUz4SJ3C3xnmnSfWaps+JY4nY8IFGZUHiLh4cHr2ZbLYdbwNTNT4Ez7/D2QmdqVufI5MejH5BVSmgeIFrai1tn4ZhhU0ifA8T+Q6keNYFeSd2cDfM1lrdKd3ohKwW5xqFSn0PbQs5YJiXeJQ==;TAT2Q7Rv/57pmghFbYj0QA=="
 ---
 

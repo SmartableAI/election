@@ -61,6 +61,22 @@ related:
         width: 1440
         height: 1119
         isCached: true
+  - title: "US aircraft carrier stays in Gulf after Pentagon cites Iranian 'threats' against Trump"
+    excerpt: "Pentagon reverses decision to pull USS Nimitz out of Persian Gulf after ‘recent threats issued by Iranian leaders’"
+    publishedDateTime: 2021-01-04T05:59:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/2af8b38a0ee78c2cd5f279cc039ab88c251178be/0_275_5633_3380/master/5633.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6d9d2e4a06dff3a3a23de79507330c30"
+        width: 600
+        height: 360
+        isCached: true
   - title: "In Late Trump Salvo, US Rejects UN Budget Over Israel, Iran"
     excerpt: "President Donald Trump's outgoing administration on Thursday fired a late salvo against the United Nations by voting against its budget, citing disagreements on Israel and Iran, but it found virtually no international support."
     publishedDateTime: 2020-12-31T19:33:00Z

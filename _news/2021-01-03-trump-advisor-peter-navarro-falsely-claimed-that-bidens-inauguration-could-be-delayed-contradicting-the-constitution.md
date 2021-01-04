@@ -535,6 +535,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "AUDIO TRANSCRIPT: Trump pressures Georgia secretary of state to 'find' votes to overturn Biden's statewide win"
+    excerpt: "In an hour-long phone call, Trump repeatedly made the false claim that he won Georgia and continued to bring up debunked voter fraud allegations."
+    publishedDateTime: 2021-01-04T05:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01"
+    ampWebUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
     excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
     publishedDateTime: 2020-12-28T14:12:00Z

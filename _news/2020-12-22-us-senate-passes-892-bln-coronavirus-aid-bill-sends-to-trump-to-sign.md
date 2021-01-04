@@ -169,6 +169,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump calls U.S. coronavirus death toll ‘fake news’ as count surpasses 350,000"
+    excerpt: "The numbers are real,” the nation’s top infectious-disease expert Anthony S. Fauci responded to Trump’s baseless claims."
+    publishedDateTime: 2021-01-04T06:22:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-calls-us-coronavirus-death-toll-fake-news-as-count-surpasses-350000/2021/01/03/6bdc0b08-4e14-11eb-bda4-615aaefd0555_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-calls-us-coronavirus-death-toll-fake-news-as-count-surpasses-350000/2021/01/03/6bdc0b08-4e14-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-calls-us-coronavirus-death-toll-fake-news-as-count-surpasses-350000/2021/01/03/6bdc0b08-4e14-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JAAZHICOEQI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 940
+        isCached: true
   - title: "Trump signs bill averting government shutdown; fight on coronavirus aid drags on"
     excerpt: "President Donald Trump, facing a midnight deadline on Friday, signed a one-week extension of expiring federal funding to avoid a government shutdown and to provide more time for separate talks on COVID-19 relief and an overarching spending bill."
     publishedDateTime: 2020-12-12T04:17:00Z
@@ -377,6 +393,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/12/white-house-trade-advisor-peter-navarro-pictured-in.jpg"
         width: 1024
         height: 680
+        isCached: true
+  - title: "Twitter Reacts To Donald Trump's Media Criticism Over Dr. Fauci Getting Credit For Coronavirus Response"
+    excerpt: "Some social media users criticized President Donald Trump after he railed against the media for giving Dr. Anthony Fauci the credit for the COVID-19 response."
+    publishedDateTime: 2021-01-04T04:32:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-donald-trumps-media-criticism-over-dr-fauci-getting-credit-coronavirus-3113697"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-donald-trumps-media-criticism-over-dr-fauci-getting-credit-coronavirus-3113697?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-donald-trumps-media-criticism-over-dr-fauci-getting-credit-coronavirus-3113697?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
     excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"

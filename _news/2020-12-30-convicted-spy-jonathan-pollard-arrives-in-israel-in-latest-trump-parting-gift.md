@@ -47,6 +47,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "US aircraft carrier stays in Gulf after Pentagon cites Iranian 'threats' against Trump"
+    excerpt: "Pentagon reverses decision to pull USS Nimitz out of Persian Gulf after ‘recent threats issued by Iranian leaders’"
+    publishedDateTime: 2021-01-04T05:59:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/2af8b38a0ee78c2cd5f279cc039ab88c251178be/0_275_5633_3380/master/5633.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6d9d2e4a06dff3a3a23de79507330c30"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Iran's Zarif urges Trump to avoid Israel 'trap'"
     excerpt: "World Iran's Zarif urges Trump to avoid Israel 'trap' Posted . Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by a"
     publishedDateTime: 2021-01-02T19:35:00Z

@@ -536,6 +536,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "AUDIO TRANSCRIPT: Trump pressures Georgia secretary of state to 'find' votes to overturn Biden's statewide win"
+    excerpt: "In an hour-long phone call, Trump repeatedly made the false claim that he won Georgia and continued to bring up debunked voter fraud allegations."
+    publishedDateTime: 2021-01-04T05:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01"
+    ampWebUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
     excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""
     publishedDateTime: 2021-01-03T02:52:00Z

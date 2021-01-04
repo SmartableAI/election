@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
 type: article
 quality: 170
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden's inauguration to include presidential escort, 'virtual parade across America'"
+    excerpt: "Instead of the in-person parade, Biden will receive a traditional presidential escort"
+    publishedDateTime: 2021-01-04T05:04:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACNMe3CSRaY/live-updates-biden-transition-1-4-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcbe096-dc86-4cc3-bb37-dfb266995ac2/b7e07a9e-48e6-4e51-96af-35e853cfbcd7/1280x720/match/image.jpg"
+        width: 1279
         height: 720
         isCached: true
   - title: "GOP Senator Josh Hawley Says He Will Force Votes on Joe Biden’s Win"

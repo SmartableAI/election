@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's bid to steal Georgia exposes GOP election ruse"
+    excerpt: "Astonishing new evidence of a desperate President Donald Trump caught on tape trying to steal the election exposes the depth of his corruption and makes his Republican Capitol Hill allies complicit in his bid to thwart the will of voters.\n    \n"
+    publishedDateTime: 2021-01-04T05:00:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szs1_xXWE2U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
     excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-29T16:02:19Z

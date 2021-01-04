@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-majo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
 type: article
 quality: 146
-heat: 1246
+heat: 1266
 published: true
 
 provider:
@@ -519,6 +519,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-29-2020/t_fa48a779c9da4288a801dc48894fc8b2_name_63b5578c_4a1c_11eb_97b6_4eb9f72ff46b_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "AUDIO TRANSCRIPT: Trump pressures Georgia secretary of state to 'find' votes to overturn Biden's statewide win"
+    excerpt: "In an hour-long phone call, Trump repeatedly made the false claim that he won Georgia and continued to bring up debunked voter fraud allegations."
+    publishedDateTime: 2021-01-04T05:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01"
+    ampWebUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 562
         isCached: true
   - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
     excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""

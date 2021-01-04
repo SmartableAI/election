@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trump-overturn-election/index.html"
 type: article
 quality: 190
-heat: 910
+heat: 930
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's bid to steal Georgia exposes GOP election ruse"
+    excerpt: "Astonishing new evidence of a desperate President Donald Trump caught on tape trying to steal the election exposes the depth of his corruption and makes his Republican Capitol Hill allies complicit in his bid to thwart the will of voters.\n    \n"
+    publishedDateTime: 2021-01-04T05:00:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szs1_xXWE2U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Hawley set off Republican meltdown with Georgia elections looming"
     excerpt: "President Donald Trump is stoking division in the Republican ranks days before control of the Senate -- and the balance of power in Washington -- is decided in a pair of runoff elections in Georgia.\n    \n"
     publishedDateTime: 2021-01-02T11:11:24Z

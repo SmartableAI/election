@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
+    excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
+    publishedDateTime: 2021-01-04T05:27:00Z
+    webUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H6JQPAWYSFBNZJ7PDA5OYAMLZU.jpg"
+        width: 5653
+        height: 3769
+        isCached: true
 
 secured: "MszCnialPEm/uTSROEM/jBGy9eCCFe5n0ohXHYCRei+caN2RO7rSIRadt192LAHj+kza1FuNynERn1orlAgAag3MicqXNIPagfSjwFeF5bJfXCqDsY0RCVzmqpMu9/0jyjmL1aH/8ZDOB4kh1x/0GgxDfER4C4npvtJsQ9l46UUdzmgVOSenkfheo9U+JOhJZY7EUbuFD60L4NlqjnTXOCGfXCUrLiLXDxDbfj8DgD5v/gHd4eokxcZl+GqhOSzvWR3QpcXpaxyZ8ViykqqXAHN/PAASsFD9kXwsIGXjgjTKfM/WXfKYFWUHPMhV2KdBceM6KzHUy72AlEBtvkdK/RLXtGc94xpTd4kMieykmjQ=;PXxKDqlKxAnL5LYtdhdLtQ=="
 ---
