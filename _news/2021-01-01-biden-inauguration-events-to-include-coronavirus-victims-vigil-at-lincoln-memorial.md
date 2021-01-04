@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-includ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
 type: article
 quality: 129
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
+    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
+    publishedDateTime: 2021-01-04T19:28:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-280273/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "93BPEOf2yw/QLAFfFgH/l33f+4qBf3Mibilh9Et9gDlaO0OWhrtoP9mUs4gOlR1B/Y3PF7pPWvV/N4tl0sXZuTCzlDahE4HemPVBakA1ytUF157Nl8UFv7WemOHNVUzS/xptdcPgUWu0YXEwhLW5opkvhhuUMghMy/SxcC7YnEekMi7fHnk15o7ydOdWNgYiSRcAvhT6K+TvlLcSO6aicJqGKM1UH77uIgvitvgQmHP5ztXaTGVT3NURipu57YUsAJI5YkASslsMpKwBdADYvAxDaaK/4rSbB6vep2s90wBMm3Q9UXjTxrD7zA3NZP3Pw29YSGW/KdROq8XKBBLfPKB/iMkv673QHeWcbzN6Lzg=;IrcfcC0ggD72hRZZcoCAGA=="
 ---

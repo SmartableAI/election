@@ -2,26 +2,26 @@
 category: news
 title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
 excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
-publishedDateTime: 2021-01-04T18:07:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+publishedDateTime: 2021-01-04T18:06:00Z
+originalUrl: "https://www.dailypress.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
+  - url: "https://www.dailypress.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
     width: 1200
     height: 675
     isCached: true
@@ -58,6 +58,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Manufacturing trade group condemns GOP push to overturn Biden victory"
+    excerpt: "The largest trade group for U.S. manufacturers criticized Monday a Republican effort to overturn the results of the 2020 presidential election and urged lawmakers to focus on fighting the coronavirus pandemic."
+    publishedDateTime: 2021-01-04T20:50:00Z
+    webUrl: "https://thehill.com/policy/finance/532573-manufacturing-trade-group-condemns-gop-push-to-overturn-biden-victory"
+    ampWebUrl: "https://thehill.com/policy/finance/532573-manufacturing-trade-group-condemns-gop-push-to-overturn-biden-victory?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/532573-manufacturing-trade-group-condemns-gop-push-to-overturn-biden-victory?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/manufacturing_safety_shields_05182020_1.jpg"
+        width: 980
+        height: 552
         isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
@@ -122,6 +138,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden's presidential inauguration will include a virtual parade and a military escort to the White House"
+    excerpt: "The Presidential Inaugural Committee said a virtual parade would replace a traditional Inauguration Day parade because of the COVID-19 pandemic."
+    publishedDateTime: 2021-01-04T20:52:00Z
+    webUrl: "https://www.businessinsider.com/biden-presidential-inauguration-virtual-parade-military-escort-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-presidential-inauguration-virtual-parade-military-escort-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-presidential-inauguration-virtual-parade-military-escort-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5ff35f366056b60018721c8f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
     excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
@@ -197,6 +229,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
+    excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."
+    publishedDateTime: 2021-01-04T19:47:00Z
+    webUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281"
+    ampWebUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/joe-biden-warned-that-the-virus-crisis-might.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
     excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
     publishedDateTime: 2021-01-03T23:21:00Z
@@ -230,6 +278,6 @@ related:
         height: 683
         isCached: true
 
-secured: "j82D9LC5Mvuw1vv18emXkO0gfm4l01k05wM5Sf1TRUYzTUXgoAX1Nrw+CPyeehTH52BIJJ8QVc3E44Bzw5K+M3HoQi/YXdj09+OMe8cphkbZTpYDJmuQs89D/3AqwI7rMIb/x2nSh27s3ZUcFxkLcD+v/4UTbR8LOvnNsO8lpGqKcNDgOv95HpDg5L4y/AOjkpfs2mZl7hSoTi3bHtXQAGhD3I6hzbSbFDdj0CWuV7s0zOWmWW4u15XP0KWEczTh9KBCjRWTMG/K9nsHj0OgNtlURc+H+1H+6AjuhdPyYmiCvHdYBZ7s+LNE8QIho8IRAqle5qwP1rC13vDvWNRVyPmEbToRmOMdi//4COx8rlw=;9cYGOjld87Y2B4Rs8J+qlQ=="
+secured: "IQM1DeKNPH6KkOErQjuYuYfDT6RCWon02ZG+h/RrF2zn1oWGzu4xlq05Ws0TyZfztvdag+cklEI+pp0wxSxdHmhubOt/NYS9mXxIxXtn7kRg+EB3EW9Z2whMFs3j54SAH+eWBiKavcv/ucc2GMhQ6VOxcWyHPcNkgHCBrcSjFASlAR6eOrBTkQCUPyI+o3EN4b7Q+/cO2m8mTD7lDWcOPQARYjyQYHB5h77t0XXmZopmQHTpo0uM4e740a4jtSD8Z3lmarGgv4Pu6JqMajKmpi+1v7YacFJVjva2pmtyDziNExBlpNfx2FkXDlMduymH23LpWN1egps3XxjXvMviVDuoFumY1MLxpTG/OQAm5XE=;LkHhSTJubuxWSpmzisDE3w=="
 ---
 

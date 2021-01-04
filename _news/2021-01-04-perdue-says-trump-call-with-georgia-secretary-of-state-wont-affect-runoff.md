@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic lawmakers want criminal investigation into Trump call with Georgia election officials"
+    excerpt: "The FBI has confirmed to Fox News that it has received a letter from Reps. Ted Lieu, D-Calif., and Kathleen Rice, D-N.Y., which calls on Director Christopher Wray to open a criminal investigation into President Trump's Jan. 2 phone call with Georgia Secretary of State Brad Raffensperger."
+    publishedDateTime: 2021-01-04T20:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OIgiNOhRm7k/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "LIVE UPDATES: Trump turns his attention to Georgia, announces rally"
     excerpt: "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line."
     publishedDateTime: 2020-12-28T05:42:20Z
@@ -111,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump lawyer slams Georgia Secretary of State Raffensperger for 'secretly' recording 'confidential' call"
+    excerpt: "President Trump tried to contact Georgia Secretary of State Brad Raffensperger 18 times before their heated phone call on Saturday in which the president urged him to “find” enough votes to reverse the state’s election results."
+    publishedDateTime: 2021-01-04T20:19:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u64AUfYI-G8/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
     excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
     publishedDateTime: 2021-01-03T22:02:00Z
@@ -142,6 +174,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democratic lawmakers want criminal investigation into Trump call with Georgia election officials"
+    excerpt: "The FBI has confirmed to Fox News that it has received a letter from Reps. Ted Lieu, D-Calif., and Kathleen Rice, D-N.Y., which calls on Director Christopher Wray to open a criminal investigation into President Trump's Jan."
+    publishedDateTime: 2021-01-04T20:44:00Z
+    webUrl: "https://www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Trump to Hold Rally in Georgia in Support of Senate Republicans"
     excerpt: "The president will appear at rally in support of incumbent Republican Sens. David Perdue and Kelly Loeffler, one day before the runoff election that will determine control of the U.S. Senate."

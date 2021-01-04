@@ -160,6 +160,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact checking Trump's call with Georgia's secretary of state"
+    excerpt: "In the now-notorious phone call between President Donald Trump, Georgia's Secretary of State Brad Raffensperger and staff, the President repeated multiple false claims in an effort to claim victory in Georgia, a state he lost to President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2021-01-04T19:03:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z_58GjNboOs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/georgia-call-trump-raffensperger-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/georgia-call-trump-raffensperger-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's call could put the President in jeopardy, legal experts say"
+    excerpt: "Experienced prosecutors, election lawyers and some public officials have piled on calling for criminal investigations into whether President Donald Trump broke election fraud when he pressured Georgia officials on a phone call Saturday to \"find\" 11,870 votes that would reverse his loss in the state.\n"
+    publishedDateTime: 2021-01-04T20:53:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nq8HWkkv2cM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/trump-call-legal-jeopardy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/trump-call-legal-jeopardy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia Republicans stick with Trump and support increased direct payments"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
     publishedDateTime: 2020-12-29T17:03:35Z
@@ -367,6 +399,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-trump-legal/03dc-trump-legal-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump pushed QAnon and 4chan-created conspiracy theories in Georgia call"
+    excerpt: "The call offered a look at just how much Trump is now relying on some of the most outlandish theories from obscure corners of the internet to make his case for election fraud."
+    publishedDateTime: 2021-01-04T20:52:00Z
+    webUrl: "https://www.nbcnews.com/tech/internet/trump-pushed-qanon-4chan-created-conspiracy-theories-georgia-call-n1252769"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252769"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252769"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3414936/200925-qanon-al-0852_d89b519cd2bb39361f81988b672ccd4f.jpg"
+        width: 2500
+        height: 1551
         isCached: true
   - title: "Trump and Georgia candidates jockey to define the stakes of Tuesday’s runoffs"
     excerpt: "A last-minute scramble for messaging takes place ahead of a presidential rally and an election that will determine which party controls the Senate."

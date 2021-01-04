@@ -47,6 +47,20 @@ related:
         width: 2500
         height: 1654
         isCached: true
+  - title: "All 10 Living Ex-Defense Secretaries Warn Trump Not to Involve Military in Election Fraud Claims"
+    excerpt: "The 10 men implicitly questioned Trump's willingness to follow his constitutional duty to peacefully relinquish power on Jan. 20."
+    publishedDateTime: 2021-01-04T19:18:00Z
+    webUrl: "https://time.com/5926073/defense-secretaries-trump-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 107
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/pentagon.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "hhKTq1W2TAYSf2KUx8i23SXzXGDcv+gpfdgHnkLTeRWuoqDW3BdCUw6yjal/qDdftwUtg5MwGmQ7wQ5z1xLcAOZMOHoxHO6FDR5zlbX1MmrJ1wSZIxuXtN8GFMJOxYbvBvYsq7w5eBBw+jrWxrmJZlpPJtnnaDsz+BHzUF4OxcN66NYiqyajWddbAM7u2KgySuGKa7DlFT1mPnRWe+sSd0vmjJm+TUT+WsFuWNe+H/0T9U/jFK7uYCW12CllDNFsQpWevm0+2DS3uUkRJYcd6/haZX+wu6YP7xn1g9/7I22d4v4WpxneeugrL5wMHZUUjo0/Jxhe91S9DxYBUZ48/cbc9tY5OE+GvUZTCeDPWfM=;cUX/vsJuhe3K4aKwC2ydCA=="
 ---

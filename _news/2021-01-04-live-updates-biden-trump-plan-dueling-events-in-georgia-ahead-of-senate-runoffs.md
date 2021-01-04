@@ -335,6 +335,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Pence 'stands with' Trump ahead of Ga. election"
+    excerpt: "Vice President Mike Pence told Georgia voters he \"stands with President Trump\" after the president pressured Georgia's Republican secretary of state to “find” enough votes to overturn Joe Biden's win there in November."
+    publishedDateTime: 2021-01-04T20:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/04/pence-stands-with-trump-ahead-ga-election/4132464001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b247a757-6681-4259-98fb-8e7c754c5f85_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Harris calls Trump's plea to Georgia election officials an 'abuse of power'"
     excerpt: "While at a campaign rally in Georgia, Vice President-elect Kamala D. Harris on Jan. 3 slammed President Trump's call with Georgia election officials, in which he urged fellow Republican Brad Raffensperger to “find” enough votes to overturn his defeat."
     publishedDateTime: 2021-01-04T00:13:00Z
@@ -428,6 +442,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald2_11052020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Explainer: Did Trump break the law by pressuring a Georgia election official to 'find' votes?"
+    excerpt: "President Donald Trump may have broken a U.S. federal law and a Georgia law against election tampering by pressuring the state's top election official to \"find\" enough votes to overturn his loss to President-elect Joe Biden in the state,"
+    publishedDateTime: 2021-01-04T20:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-legal-explainer-idUSKBN2992C9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2992C9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992C9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 129
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546585909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0314V"
+        width: 763
+        height: 545
         isCached: true
   - title: "In recorded call, Trump pressures Georgia election official to change results - Washington Post"
     excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
@@ -637,6 +667,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'Truth matters,' says Georgia official resisting Trump pressure"
+    excerpt: "Georgia's secretary of state, Brad Raffensperger, says he was just following the law when he rejected claims by Donald Trump, his fellow Republican, that the president's election defeat was the result of widespread fraud."
+    publishedDateTime: 2021-01-04T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-raffensperger-idUSKBN2980R5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980R5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980R5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump urges Georgia governor to call special session of state legislature"
     excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."
     publishedDateTime: 2020-12-05T22:26:00Z
@@ -652,6 +698,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543566578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB40L4"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
+    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
+    publishedDateTime: 2021-01-04T20:16:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Georgia's Brad Raffensperger Doesn't Rule Out Voting for Donald Trump Again"
     excerpt: "Georgia's Brad Raffensperger didn't rule out voting for President Donald Trump again if he ever appeared on a future Republican ticket, despite their ongoing dispute about the election results in Georgia."
@@ -1198,6 +1260,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What Trump's call means for Georgia Senate races: Politics Weekly Extra"
+    excerpt: "Jonathan Freedland and David Smith discuss a call made by the outgoing president to a state legislator in Georgia that could spell more trouble for Donald Trump."
+    publishedDateTime: 2021-01-04T20:16:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/jan/04/what-trumps-call-means-for-georgia-senate-races-politics-weekly-extra"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/f8ba9e020fb671148e20cf46a34433c8435b52cf/0_95_4938_2963/master/4938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c2003b9e69769fc076c5cafb98176a"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Local Matters: Georgia's Republican governor rejects Trump's request to call special session to overturn election results"
     excerpt: "Georgia's Republican Governor Brian Kemp has rejected a request from President Trump to call a special session to overturn the results of the November election. In a statement Sunday, Kemp said Mr. Trump asked him to choose a new slate of presidential electors for when the electoral college casts its official vote next week,"
     publishedDateTime: 2020-12-08T02:02:00Z
@@ -1338,6 +1414,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence rallies evangelicals in Georgia to vote for GOP senators in runoff"
+    excerpt: "Vice President Mike Pence rallied evangelical Christian voters Monday during a campaign stop in Georgia, calling on voters of faith to play their part this week in defending the Republican majority in the Senate."
+    publishedDateTime: 2021-01-04T19:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/4/mike-pence-rallies-evangelicals-georgia-vote-gop-s/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/4/mike-pence-rallies-evangelicals-georgia-vote-gop-s/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/4/mike-pence-rallies-evangelicals-georgia-vote-gop-s/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 72
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/28/senate_georgia_pandemic_30889_c0-0-2000-1166_s1200x700.jpg?10a57a34575c6b259c990fae314f4f7b2a5156f5"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
     excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
     publishedDateTime: 2021-01-03T00:00:00Z
@@ -1436,6 +1528,20 @@ related:
     excerpt: "President Donald Trump, still seeking ways to reverse his election defeat, and President-elect Joe Biden converge on Georgia on Monday for dueling rallies on the eve of runoff votes that will decide control of the US Senate."
     publishedDateTime: 2021-01-04T17:04:00Z
     webUrl: "https://www.ibtimes.com/trump-biden-campaign-georgia-crucial-senate-races-3114261"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/us-president-donald-trump-is-to-campaign-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump, Biden Campaigning In Georgia For Crucial Senate Races"
+    excerpt: "President-elect Joe Biden and President Donald Trump, still scheming to reverse his election defeat and lashing out at Republicans who have refused to endorse his efforts, converge on Georgia on Monday for dueling rallies on the eve of runoff votes that will decide control of the US Senate."
+    publishedDateTime: 2021-01-04T19:57:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-campaigning-georgia-crucial-senate-races-3114261"
     type: article
     provider:
       name: International Business Times

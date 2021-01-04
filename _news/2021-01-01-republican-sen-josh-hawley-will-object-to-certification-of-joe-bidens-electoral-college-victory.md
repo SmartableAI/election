@@ -504,6 +504,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
+    excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
+    publishedDateTime: 2021-01-04T19:39:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4130687001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4130687001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ted Cruz says he’ll object to certification of Electoral College votes that will make Joe Biden’s victory official"
     excerpt: "Joining several other U.S. senators, Cruz is calling for an emergency audit of election results in “disputed states,” despite no evidence of widespread election fraud."
     publishedDateTime: 2021-01-02T18:28:00Z

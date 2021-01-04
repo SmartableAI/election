@@ -492,6 +492,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
+    excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
+    publishedDateTime: 2021-01-04T19:39:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4130687001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4130687001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
     excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
     publishedDateTime: 2021-01-01T02:42:00Z
@@ -541,6 +557,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NfaaWSTFgGBaPIFT69yaE36jVWeJLl5dTi1VkT41C33r/cf+ukNVJFeKKJY+SCwUhG/9NSLiwkgWamZIg0VmWsOtWHFXDk+atemJ4fIGoWeA4bKsl0G/EYsCZh3qkIfhyVMv+EOKkyhfIb+4hBquBZVVEapZtetrsWHEVX19hmgb/jipj91eN7yBV5bdhsvCQpIStnZ05UslF3BeD08Y5HzVp41dtkHftM9SupAMhXTGaHug+DoxvKDKgp93TR3o+bWcnWFSBMLzn1xvtYPzaOhZSaSmcTAB8pq1uFU7M80977sUoHn1Z2dnJx4OFIkQqdxtg3P/G6nAUstn4mGO0IgpNve6qCFEycY5E/11wFg=;bI7DcQ4H04ZBL6VZ9BUnLw=="
+secured: "JKcVk5n+IeruonI2GR9ckD99aQN/nCXbyxLCkuML4j6c49qbHRQxIs/GDoBhRpPn8G0Gp0AnZnEHhi5H7+zr4ZZYwD0R5ajbJxlh9+YxDyjlTOsmU80XoIEUhsbmezP9aItezvSVEJL2+F6wXWGO97Cg39Vx8T3zsx01cHARnvhECH31foa8Yrqp7XGWYyKfmyb9BrKeE0jogI49XbqnjbH1OKaxZzrB5hGr9sMQjfKguK/dl4E/dOfydm7s+avDUiHjoNdFlbNc++RAI/l9JSvWSUhqXvA2fTxa86Ei2KxkD+l6HmpLVahbYxQ3GegnGB/0txtqdbcFluK4LzMx9lHCiWEZoiq3GHTJheUfqCZMurEqH8Eg7mkoYKXTPymG9jOr7w1Q+PpgqBAI3j0KKsR4ZHkS2uXvHfhkDIxL0Z+cAkTPRrrJRSUdvDhwyRBKNnQVWDUx1KaaDy/Q1QmIlL3kAfkC9HvhP4MYgQs+gZ1DlWZrwrYhoy7faNMsJGtQt6T6HaKd2nA3e6IrK2dSpA==;uQsQ6vdhSUINMEz4kEF29Q=="
 ---
 

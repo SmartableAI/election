@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-07-were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.md",
+      "title": "“We’re going to win this race,” Biden says as his lead grows in Pennsylvania and Georgia.",
+      "excerpt": "Joe Biden hoped to deliver a victory address on Friday, instead he called for calm as the nation awaits a winner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/06/us/elections/were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/06/us/elections/were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/06/us/politics/06elections-brief-lede4/06elections-brief-lede4-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/06/us/elections/were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/elections/were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.amp.html",
+      "publishedDateTime": "2020-11-07T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-home-vandalized-after-california-man-hangs-effigy-of-biden.md",
       "title": "Home vandalized after California man hangs effigy of Biden",
       "excerpt": "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,",

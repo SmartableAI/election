@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55517626"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55517626"
 type: article
 quality: 155
-heat: 815
+heat: 835
 published: true
 
 provider:
@@ -492,6 +492,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
+    excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
+    publishedDateTime: 2021-01-04T19:39:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4130687001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4130687001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
     excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
     publishedDateTime: 2021-01-01T02:42:00Z

@@ -3,8 +3,8 @@ category: news
 title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
 excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
 publishedDateTime: 2021-01-04T12:06:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/"
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
 ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 641
         isCached: true
 
-secured: "DSRRN3zqO9ePukH4nnEg65B+41m3sv0bqlmJt0+jHJmRjVpMSq7DZC+MU/bOg3jKgb8y+5H+AZ32yNimsI1nWWrrcnqeyKr3Ma+p3YLl2USVj9E8A4M2dCoV0vPtK7V5HJ/wsfLRLYglFLfOSTuWebkuCsXUaH7NTpFXzfr7J7SLhbBpCBhlSN0IyxRNciA1M0+X1NWgJazd2dpC8kAw71IHF/Xo3cvqQMQKBtRAhnyLLhD45q+ixonkYBzID/sNKlpEYglnaAJ5BsoQQ30MXvw4AqKjgi6H/rjtJhlVlpQGOTaQT99/FHQ465NYODLAXAXNy3AOTUozbwFca/BMQ6ErVKAaLRLgf/lWFbxRdUxYM4vFsyk/5mgYnj7L2XLr4yBNMP+XZhPSt5YvVSV+V2iYHC6RXpSoVqnQE3mcsZFZ5WKca1pqgRfddaBc2K5+KPrLWNUHAbH0lOBgSlvFEFaMeHlmYcjNHyqARoJu9k4Dl3vhgArYM9uABjlg5n3HlTi53Nmkt2CIUqzrQeZWMQ==;mgcTqPkgGlG9h5NhBw8XOA=="
+secured: "mzvTi5vd+q5F9dlro+q0TDKbNVoJ1BDZnaGmREZcTdg4477e5SmNAXsJFU4J6cJvJ74dU2bHg6SXe6Zf2Foa43FC+GJ/hJBeXZ+tW85qaWa/RyuZ+qJXm3e+0Wx8YtmeJ5wp0uDNKvwDtvPxv3iNtVEBhwIbA2G2uwiKzCsyV1s8MJg27uKYTDh8AxKhx01kdtl/UWJnb0ZSm+Ip8PXZdw9IDZaZOvZBkn7Bn70oegXF2n++FMHAmXSmf8YAu/VENDS5OaokwmmCb9YBiWu4BG2TOMtcpOn4L0worki1zQVABQY1oEUdXKJEfdgZ7PDEFaan0sANgd7jJbzd8MhG0WZ3wol1lfCUevg/AzFQCHY=;ZQl9qcFTI2kUyLnVMUB+Pg=="
 ---
 
