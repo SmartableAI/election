@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-25-americans-suffer-at-christmas-while-trump-golfs-and-sows-chaos.md",
+      "title": "Americans suffer at Christmas while Trump golfs and sows chaos",
+      "excerpt": "For Christmas this year, Washington is giving the country more pain.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inYzHPEBeqY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inYzHPEBeqY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224150348-trump-golf-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html",
+      "publishedDateTime": "2020-12-25T04:15:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing.md",
       "title": "Transition 2020: Biden allies push back on sweeping plan to promote fair housing",
       "excerpt": "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is.",
@@ -410,7 +466,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 191,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1017,6 +1073,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-21-biden-looks-to-susan-rice-to-elevate-low-profile-domestic-policy-council.md",
+      "title": "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council",
+      "excerpt": "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg",
+          "width": 2500,
+          "height": 1670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251851",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851",
+      "publishedDateTime": "2020-12-21T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-trump-discussed-naming-sidney-powell-special-counsel-during-white-house-meeting.md",
       "title": "Trump discussed naming Sidney Powell special counsel during White House meeting",
       "excerpt": "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,",
@@ -1579,119 +1692,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-supreme-court-throws-out-challenge-to-trumps-plan-to-exclude-undocumented-immigrants-from-census-count.md",
-      "title": "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count",
-      "excerpt": "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
-      "publishedDateTime": "2020-12-18T08:23:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-kamala-harris-prepares-for-her-historic-vice-presidency-by-studying-joe-bidens-legacy.md",
-      "title": "Kamala Harris prepares for her historic vice presidency by studying Joe Biden's legacy",
-      "excerpt": "As Kamala Harris prepares for the vice presidency, she is learning from a person who knows more about the job than almost anyone in the world: President-elect Joe Biden.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txWSj802MOw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txWSj802MOw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 892,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201211100849-kamala-harris-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/kamala-harris-prepares-biden-legacy/index.html",
-      "publishedDateTime": "2020-12-18T05:40:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
+    excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-30T20:51:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/89ijxeeOE5w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Families of US hostages and detainees look to Biden to keep up efforts to free loved ones"
     excerpt: "As President-elect Joe Biden prepares to take over from the outgoing Trump administration, the goal for the families of Americans unlawfully detained and held hostage abroad remains the same: to see their loved ones returned home.\n    \n"
     publishedDateTime: 2021-01-01T14:00:50Z

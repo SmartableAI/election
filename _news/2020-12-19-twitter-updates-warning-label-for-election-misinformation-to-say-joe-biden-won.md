@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden will travel to Georgia to boost Ossoff and Warnock in runoff elections"
-    excerpt: "Biden's trip to Atlanta on Tuesday will be his first campaign event since he secured the presidency last month."
-    publishedDateTime: 2020-12-10T10:34:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250632"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250632"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_50/3434621/201209-joe-biden-ew-650p_be2e1e53bb9eca7f378fef24b3d4a39d.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
     excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
     publishedDateTime: 2020-12-15T22:16:00Z

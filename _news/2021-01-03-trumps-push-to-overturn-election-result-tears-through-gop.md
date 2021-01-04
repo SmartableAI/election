@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trump-overturn-election/index.html"
 type: article
 quality: 190
-heat: 750
+heat: 770
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/1609682657767_mtp_clip_a2_210103_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "'NEVER FORGET’: Trump threatens Cotton over Electoral College certification"
+    excerpt: "How can you certify an election when the numbers being certified are verifiably WRONG,” Trump tweeted. President Donald Trump warned Sen. Tom Cotton on Monday that Republican voters would \"never forget\" GOP lawmakers who fail to embrace Trump's baseless effort to contest President-elect Joe Biden's Electoral College victory."
+    publishedDateTime: 2021-01-04T16:22:00Z
+    webUrl: "https://www.politico.com/news/2021/01/04/trump-threatens-cotton-electoral-college-certification-454515"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/04/trump-threatens-cotton-electoral-college-certification-454515"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/04/trump-threatens-cotton-electoral-college-certification-454515"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/d8/8f/ec31d45a4fa9ab856beb47ec141a/trump-773-ap-4.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
     excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55517626"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55517626"
 type: article
 quality: 155
-heat: 775
+heat: 795
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/2f0e133/2147483647/strip/true/crop/4002x2614+271+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F5b577cdf6d336b933447c354b73f%2F1b7c9b3976fd4155a44b801b2e959f97"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump warns Cotton after senator says he won't object to Biden certification"
+    excerpt: "President Trump on Monday targeted Sen. Tom Cotton (R-Ark.) a day after the senator said he would not join an effort to object to the certification of Electoral College votes affirming Joe Biden as the next president."
+    publishedDateTime: 2021-01-04T16:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden"
+    ampWebUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/cottontom_070120bc_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Growing crowd of Trump loyalists in the Senate vows to challenge Biden’s victory"
     excerpt: "Eleven GOP senators pledged to reject Biden’s electoral votes from swing states, defying a plea from Senate leaders to avoid a fight over the election’s legitimacy when Congress meets in a joint session next week."

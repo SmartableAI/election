@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-22-probe-trump-officials-attacked-cdc-virus-reports.md",
+      "title": "Probe: Trump officials attacked CDC virus reports",
+      "excerpt": "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
+      "publishedDateTime": "2020-12-21T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.md",
       "title": "Harris says ‘everything is at stake’ in Georgia’s twin Senate runoff elections",
       "excerpt": "Vice president-elect Kamala Harris headlines a rally for Democratic candidates Jon Ossoff and Raphael Warnock in Columbus, Georgia in the state's twin Senate runoff elections.",
@@ -428,6 +480,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-biden-looks-to-susan-rice-to-elevate-low-profile-domestic-policy-council.md",
+      "title": "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council",
+      "excerpt": "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg",
+          "width": 2500,
+          "height": 1670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251851",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851",
+      "publishedDateTime": "2020-12-21T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -1239,110 +1348,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-folks-were-in-crisis-joe-biden-introduces-environmental-advisers.md",
-      "title": "'Folks, we're in crisis': Joe Biden introduces environmental advisers",
-      "excerpt": "President-elect announces racially diverse team to face ‘existential threat of our time’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/03159c767c65ac80359381a5b009af4b78e0b79e/0_211_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dad6a73e9673345a1d1669253a4318",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "publishedDateTime": "2020-12-19T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-jim-carrey-hanging-up-his-joe-biden-snl-impression.md",
-      "title": "Jim Carrey hanging up his Joe Biden ‘SNL’ impression",
-      "excerpt": "Jim Carrey is turning in his aviators and giving up his gig of impersonating Joe Biden on \"Saturday Night Live.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/c08e82c/2147483647/strip/true/crop/2382x1556+192+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fb2%2Ffa60b0d84452baf1a342ae658b69%2Fglobal-citizen-prize-3.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
-      "publishedDateTime": "2020-12-19T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

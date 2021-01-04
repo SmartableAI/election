@@ -223,22 +223,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How Biden defied history at every turn to win"
-    excerpt: "President-elect Joe Biden proved a lot of detractors wrong by winning the 2020 presidential election. It wasn't easy for Biden, as he took an unusual path to the White House.\n    \n"
-    publishedDateTime: 2021-01-01T13:00:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdbbsv-HZGo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228144044-01-biden-remarks-1228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "As Trump weighs pardons, GOP divided on whether Snowden should receive one"
     excerpt: "The expectation that President Donald Trump will issue a flurry of pardons in his final days in office has sparked a contentious discussion among congressional Republicans over whether former National Security Agency contractor Edward Snowden deserves one.\n    \n"
     publishedDateTime: 2020-12-18T17:03:47Z

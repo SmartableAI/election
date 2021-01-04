@@ -32,53 +32,229 @@ images:
     isCached: true
 
 related:
-  - title: "Biden appears in campaign ad for Georgia's Jon Ossoff and Raphael Warnock"
-    excerpt: "President-elect Joe Biden urged Georgians to vote for Jon Ossoff and Raphael Warnock in a campaign ad released Thursday, saying he needed the two Democrats in the Senate to pass legislation providing economic relief to Americans amid the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2020-12-17T15:37:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chB6fc3fXJ4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html"
+  - title: "Biden to campaign in Georgia ahead of runoff elections"
+    excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
+    publishedDateTime: 2021-01-04T16:27:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to deliver remarks on foreign policy and national security Monday"
+    excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
+    publishedDateTime: 2020-12-28T17:04:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Joe Biden is betting his presidency on this"
+    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
+    publishedDateTime: 2020-12-28T23:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A congressional waiver is the biggest hurdle for Biden's defense pick"
+    excerpt: "The biggest obstacle to retired Army Gen. Lloyd Austin's nomination for secretary of defense is his retirement date from the military just four years ago -- too recent under American law and for the tastes of several members of Congress.\n    \n"
+    publishedDateTime: 2020-12-30T14:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden legal team asks senators for judicial nomination recommendations "
+    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T00:39:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Secret Service adding former Biden agents to new presidential detail "
+    excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T04:42:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Biden defied history at every turn to win"
+    excerpt: "President-elect Joe Biden proved a lot of detractors wrong by winning the 2020 presidential election. It wasn't easy for Biden, as he took an unusual path to the White House.\n    \n"
+    publishedDateTime: 2021-01-01T13:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdbbsv-HZGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228144044-01-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden inaugural festivities to feature national day of service on MLK Day"
+    excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
+    publishedDateTime: 2021-01-04T16:55:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzS5c87aZ7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-inauguration-day-of-service/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-inauguration-day-of-service/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215190047-biden-ossoff-warnock-bottoms-abrams-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Twitter updates warning label for election misinformation to say Joe Biden won"
-    excerpt: "Twitter has updated the warning labels it applies to election misinformation to reflect that Joe Biden is the president-elect, the company said on Saturday."
-    publishedDateTime: 2020-12-19T15:29:00Z
-    webUrl: "https://www.cnn.com/2020/12/19/tech/twitter-election-warning-label/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/tech/twitter-election-warning-label/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/tech/twitter-election-warning-label/index.html"
+  - title: "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House"
+    excerpt: "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n"
+    publishedDateTime: 2020-11-07T01:21:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 146
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722105415-twitter-app-phone-stock-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Vote like your lives depend on it': Biden makes urgent plea in Georgia Senate races"
-    excerpt: "During the Atlanta rally, Biden put the race in national terms, and said his administration's agenda is on the line."
-    publishedDateTime: 2020-12-15T22:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/15/biden-plea-georgia-senate-races-445705"
+  - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
+    excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
+    publishedDateTime: 2020-12-31T16:16:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oYjPBrVurOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 128
+      name: CNN
+      domain: cnn.com
+    quality: 167
     images:
-      - url: "https://static.politico.com/91/3f/2dcd541d43819ed67adbd7930921/gettyimages-1291478059-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to stump for Georgia Runoff candidates, kicking off a big push for early voting"
+    excerpt: "President-elect Joe Biden will travel to Georgia next Tuesday to headline a rally in support of the Democratic candidates in the state's US Senate runoff election, the Biden campaign announced Thursday.\n    \n"
+    publishedDateTime: 2020-12-10T17:49:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Xc_NLsboTE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
+    excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
+    publishedDateTime: 2021-01-02T13:31:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1yBaiADLWPA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231110950-02-sunrise-movement-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Nationwide Covid memorial announced as part of Biden inauguration"
+    excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
+    publishedDateTime: 2020-12-31T12:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/nationwide-covid-memorial-announced-part-biden-inauguration-n1252591"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252591"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252591"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438901/201231-biden-covid-mc-1226_a43e7aacf97da08b35550aea5f0a6e59.JPG"
+        width: 2500
+        height: 1591
+        isCached: true
+  - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
+    excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
+    publishedDateTime: 2021-01-04T03:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-biden-inaugural/03dc-biden-inaugural-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "uS+PuYvMT8Qe19dmbJoO6baUs3tM5XjQoYBOcVxTsWSZghpxD4V8ePcb0aIBhZIWK+/ARGBGnQs0LnS1FThTpSo98umQBrK+CpjWb4L1cIO10kMihVr533FVicTBRxYpSDnVYAP7O0CJshERYjTEcOOLcwzuKaqZt6ud/P4Shn/D0mhGyZAQFer7m84tC/FXtl+1322GFg0nVGdohstZzku4uAyWDihGCsiBSpkZTB3tPpe/8ilCKvswTTnB3jo0OsJTe94MswUjvEZHFX2MII8kxxeDSRgcnkVSUYvV8I5eznRrtXz86iWPgsJXc2/lJYowqpPj0YCD7f0RYT8PztZuCldiAtoNzgAKk5n17jYFAm9zi0E/v6GMw5W8U9RsNayEghtMAdDeAHxdv2jP1f+1ZHMkWypKQy8KpwlwUvCiCbq60dDdXcB6ABks2e+lfCHlHQTwjxCGhuUw+DOUNWwEE6gJQ2fNl6O4frmWfnj/t6YaH2VhmIO9K14NOq+s0Uf4xZv2M5h2adrI/qn4sQ==;Ys+IWGt1U18C20eboPKKDQ=="

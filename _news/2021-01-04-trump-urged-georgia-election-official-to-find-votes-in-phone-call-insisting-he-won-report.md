@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Perdue on Georgia Senate runoffs: Trump right that 'something untoward' happened in election"
+    excerpt: "Sen. David Perdue, R-Ga., defended President Trump's leaked phone call where he urged Georgia's top election official to \"find\" votes that would flip the state to his column and dismissed the idea that accusations of fraud would dampen Republican turnout in Tuesday's two Senate runoffs."
+    publishedDateTime: 2021-01-04T15:44:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2mo2dC2mNI/perdue-georgia-runoffs-trump-right-untoward-happened-in-election"
+    ampWebUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump turns his attention to Georgia, announces rally"
     excerpt: "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line."
     publishedDateTime: 2020-12-28T05:42:20Z
@@ -65,7 +81,7 @@ related:
         height: 720
         isCached: true
   - title: "Perdue says Trump call with Georgia secretary of state won’t affect runoff"
-    excerpt: ""
+    excerpt: "Sen. David Perdue, one of two Republicans in Georgia fighting to keep their seats in a tight runoff election, said Sunday that he doesn't believe President Trump’s leaked phone call with the state's top election official will have any bearing on Tuesday’s election."
     publishedDateTime: 2021-01-04T09:55:11Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
     ampWebUrl: "https://www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
@@ -93,6 +109,22 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c6fe23-932a-43bf-87f6-0b4ef45fca04/61ca732d-2f3f-4628-a615-73896a80615d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Perdue on Georgia Senate runoffs: Trump right that 'something untoward' happened in election"
+    excerpt: "Ga., defended President Trump's leaked phone call where he urged Georgia's top election official to \"find\" votes that would flip the state to his column and dismissed the idea that accusations of fraud would dampen Republican turnout in Tuesday's two Senate runoffs."
+    publishedDateTime: 2021-01-04T16:00:00Z
+    webUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election"
+    ampWebUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

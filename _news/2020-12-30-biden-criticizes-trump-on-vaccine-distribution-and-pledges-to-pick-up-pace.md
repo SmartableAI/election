@@ -64,54 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Joe Biden is betting his presidency on this"
-    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
-    publishedDateTime: 2020-12-28T23:30:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden legal team asks senators for judicial nomination recommendations "
-    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-31T00:39:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Secret Service adding former Biden agents to new presidential detail "
-    excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-31T04:42:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Dominion Voting Systems CEO doesn't rule out legal action against Trump "
     excerpt: "The chief executive officer of Dominion Voting Systems on Thursday did not rule out taking legal action against President Donald Trump as the election technology company has been the target of conspiracy theories about voter fraud after Trump's election loss to President-elect Joe Biden.\n    \n"
     publishedDateTime: 2020-12-24T15:32:17Z
@@ -125,38 +77,6 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
-    excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
-    publishedDateTime: 2020-12-31T16:16:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oYjPBrVurOw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
-    excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
-    publishedDateTime: 2021-01-02T13:31:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1yBaiADLWPA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231110950-02-sunrise-movement-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

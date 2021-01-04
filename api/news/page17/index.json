@@ -2,6 +2,115 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-08-georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win.md",
+      "title": "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win",
+      "excerpt": "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-07T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-bidens-hhs-pick-xavier-becerra-has-a-me-too-case-connection-to-kamala-harris.md",
+      "title": "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris",
+      "excerpt": "Former top aide to Harris resigned after settling a sexual harassment case.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 556,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp",
+      "publishedDateTime": "2020-12-07T18:26:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-every-day-was-like-a-veep-episode-the-veepiest-moments-of-the-trump-era.md",
       "title": "‘Every Day Was Like a “Veep” Episode’: The Veepiest Moments of the Trump Era",
       "excerpt": "They’re either taking from our show or doing their own version of it,” says the HBO show's executive producer.",
@@ -1244,115 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-joe-bidens-groundhog-day-moment.md",
-      "title": "Joe Biden’s ‘Groundhog Day’ moment",
-      "excerpt": "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
-      "publishedDateTime": "2020-12-05T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-pences-political-future-remains-clouded-by-trump.md",
-      "title": "Pence's political future remains clouded by Trump",
-      "excerpt": "Days after the election, Mike Pence called a close friend for a 30-minute conversation to analyze what had just happened and what it all might mean for the future of the Republican Party. According to this person, the vice president was upbeat about the success of GOP candidates lower down the ballot,",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ftlqIK9dZS4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ftlqIK9dZS4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 2760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html",
-      "publishedDateTime": "2020-12-05T10:11:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

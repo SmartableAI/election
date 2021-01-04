@@ -125,6 +125,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Georgia's Brad Raffensperger Doesn't Rule Out Voting for Donald Trump Again"
+    excerpt: "Georgia's Brad Raffensperger didn't rule out voting for President Donald Trump again if he ever appeared on a future Republican ticket, despite their ongoing dispute about the election results in Georgia."
+    publishedDateTime: 2021-01-04T16:18:00Z
+    webUrl: "https://www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722"
+    ampWebUrl: "https://www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1697248/georgia-sos-brad-raffensperger.jpg"
+        width: 1024
+        height: 624
+        isCached: true
   - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
     excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
     publishedDateTime: 2021-01-03T22:49:00Z
@@ -156,6 +172,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-audio-210_hpMain_20210103-192754_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Howard Stern rips Trump over Georgia call: 'This is criminal. It's gangster'"
+    excerpt: "Howard Stern is ripping President Trump for his call with Georgia's top election officials rather than focusing on the coronavirus vaccine rollout, saying it's time the commander in chief goes \"back to f---ing Florida."
+    publishedDateTime: 2021-01-04T16:28:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/sternhoward_05162019getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump pressured Georgia's secretary of state to 'find' votes - US politics live"
     excerpt: "Probably with the bombshell revelation that Donald Trump pressured Georgia’s secretary of state to overturn Joe Biden’s victory, leading to accus"

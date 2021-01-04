@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 942
+heat: 922
 published: true
 
 provider:
@@ -316,22 +316,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203164514-tapper-biden-harris-1203-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden set to stump for Georgia Runoff candidates, kicking off a big push for early voting"
-    excerpt: "President-elect Joe Biden will travel to Georgia next Tuesday to headline a rally in support of the Democratic candidates in the state's US Senate runoff election, the Biden campaign announced Thursday.\n    \n"
-    publishedDateTime: 2020-12-10T17:49:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Xc_NLsboTE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

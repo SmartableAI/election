@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump, Biden to rally in Georgia ahead of high-stakes Senate races"
+    excerpt: "President Donald Trump travels to Georgia on Monday in a bid to keep the U.S. Senate in the hands of his Republican Party, after his efforts to overturn his own defeat in the state have injected new uncertainty into a pair of races that are seen as too close to call."
+    publishedDateTime: 2021-01-04T16:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN29912P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29912P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29912P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546530199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH030IH"
+        width: 769
+        height: 545
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z

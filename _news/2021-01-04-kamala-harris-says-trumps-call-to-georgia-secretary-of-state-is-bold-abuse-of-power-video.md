@@ -124,6 +124,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Georgia's Brad Raffensperger Doesn't Rule Out Voting for Donald Trump Again"
+    excerpt: "Georgia's Brad Raffensperger didn't rule out voting for President Donald Trump again if he ever appeared on a future Republican ticket, despite their ongoing dispute about the election results in Georgia."
+    publishedDateTime: 2021-01-04T16:18:00Z
+    webUrl: "https://www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722"
+    ampWebUrl: "https://www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1697248/georgia-sos-brad-raffensperger.jpg"
+        width: 1024
+        height: 624
+        isCached: true
   - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
     excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
     publishedDateTime: 2021-01-03T22:49:00Z
@@ -155,6 +171,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-audio-210_hpMain_20210103-192754_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Howard Stern rips Trump over Georgia call: 'This is criminal. It's gangster'"
+    excerpt: "Howard Stern is ripping President Trump for his call with Georgia's top election officials rather than focusing on the coronavirus vaccine rollout, saying it's time the commander in chief goes \"back to f---ing Florida."
+    publishedDateTime: 2021-01-04T16:28:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/sternhoward_05162019getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "‘Find’ winning votes for him, Trump demands in taped call with Georgia official"
     excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused."
@@ -581,6 +613,6 @@ related:
         height: 641
         isCached: true
 
-secured: "H8twDfJ6a2vg8arAnyKAFHIOhLEgiGpp4haoL1iHuqu9zLxqxrYHioBEfejhJoDnpJy1Q8wb0mqK8Je5fq/2CSlRqJhnXHWlwXD6bPylnWaZwXtdmMp3f9WPVkZJnaC/mR/8aVqmZH04bGt2PVLo/kw/hS6hwaPJrZB8C6uOOyWaElvfRlBXamqfmbkcGmSsJzZVlCwDRsXMNAtwRbQgrARP8oUPbEBGJQctse2yVmhEmuuvA3DE0f/EcVDr80kiCleX081xWqtT0QIz5pKGITByH4ogToezcOZ5BIHXOdQxrYsMIJIX6AdFwRfP3Sf+Cr9HTLQaZNTHdwN2E1kzUkMA5g1/TGj4YfXVjOJWdBE=;ZdNt9xFnQKIPEswqrBDdsQ=="
+secured: "uPN0geVoscLUe6AQ4qZu9fWkgq+vrPlBlQ+XLoCWIqawffYdvZRIvlHyX6RP9BnXm9fQKIekaSt03zM6n2e/Lotea59pd1Y/dbbN36u/CrnRXW+6/TaiWODTxbWqWGfVGkm+ATCB3NGJ6TFo5We0nTM/RO06qol+jUVkJVJvwQiV3Rp5dsbXOcbH7Yhfdm6qfqWyfNcS8nZ6eFeea3Qf10eSvpcByoR1i+grPr0Lbw0zqMjUIWWRvRGi/78RFI557WvsozY6a+0hVcKgXIrPlcHYlZQFnt+nBOcYfNovSAFRd+jl1UKCOc+JTnFAq+E/LLGoDGrMX9Z63eCel9tXbjH1/Sn9dzdi7L+uB/ytuO4uR/Hc93tGyTCLPcZ8phioWysJrVenMcyv/7RxsgpJxg5b3UE5ob9UjldMrQGkkWViPAToM947f/y9CMU6e+jSKrRkV3er6nNV7G2UGOHGO5U4eo/CTVGGjUFB7X5eoOzLdIpWELb8+wHG6XZwtcN9vMQpk3hnKjibUiVBoqKhJA==;2ru1vKCM3YZ1MLdowN7XTA=="
 ---
 

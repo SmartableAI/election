@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to campaign in Georgia ahead of runoff elections"
+    excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
+    publishedDateTime: 2021-01-04T16:27:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to deliver remarks on foreign policy and national security Monday"
     excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
     publishedDateTime: 2020-12-28T17:04:04Z
@@ -47,53 +63,165 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
-    excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-30T20:51:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/89ijxeeOE5w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
+  - title: "The Point: Joe Biden is betting his presidency on this"
+    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
+    publishedDateTime: 2020-12-28T23:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden legal team asks senators for judicial nomination recommendations "
+    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T00:39:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden, Calling Stimulus Bill a ‘Down Payment,’ Urges More Relief"
-    excerpt: "The president-elect said he would ask Congress soon after his inauguration to pass an additional coronavirus aid package with more money for firefighters, police officers and nurses."
-    publishedDateTime: 2020-12-22T23:55:00Z
-    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+  - title: "Secret Service adding former Biden agents to new presidential detail "
+    excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T04:42:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Leading a divided country: Joe Biden's approach to unity"
-    excerpt: "Over years of interviews, President-elect Joe Biden explains his views on how to work with Republicans and Democrats during a time of divided government."
-    publishedDateTime: 2020-12-27T13:07:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/leading-a-divided-country-joe-biden-s-approach-to-unity-98438725756"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98438725756"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98438725756"
+  - title: "Analysis: How Biden defied history at every turn to win"
+    excerpt: "President-elect Joe Biden proved a lot of detractors wrong by winning the 2020 presidential election. It wasn't easy for Biden, as he took an unusual path to the White House.\n    \n"
+    publishedDateTime: 2021-01-01T13:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdbbsv-HZGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228144044-01-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden inaugural festivities to feature national day of service on MLK Day"
+    excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
+    publishedDateTime: 2021-01-04T16:55:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzS5c87aZ7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-inauguration-day-of-service/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-inauguration-day-of-service/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House"
+    excerpt: "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n"
+    publishedDateTime: 2020-11-07T01:21:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
+    excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
+    publishedDateTime: 2020-12-31T16:16:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oYjPBrVurOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to stump for Georgia Runoff candidates, kicking off a big push for early voting"
+    excerpt: "President-elect Joe Biden will travel to Georgia next Tuesday to headline a rally in support of the Democratic candidates in the state's US Senate runoff election, the Biden campaign announced Thursday.\n    \n"
+    publishedDateTime: 2020-12-10T17:49:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Xc_NLsboTE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
+    excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
+    publishedDateTime: 2021-01-02T13:31:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1yBaiADLWPA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231110950-02-sunrise-movement-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will travel to Georgia to boost Ossoff and Warnock in runoff elections"
+    excerpt: "Biden's trip to Atlanta on Tuesday will be his first campaign event since he secured the presidency last month."
+    publishedDateTime: 2020-12-10T10:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250632"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250632"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 147
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenkindofprez_2012270.jpg"
-        width: 1920
-        height: 1090
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_50/3434621/201209-joe-biden-ew-650p_be2e1e53bb9eca7f378fef24b3d4a39d.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Nationwide Covid memorial announced as part of Biden inauguration"
     excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
@@ -111,22 +239,6 @@ related:
         width: 2500
         height: 1591
         isCached: true
-  - title: "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council"
-    excerpt: "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser."
-    publishedDateTime: 2020-12-21T11:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251851"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg"
-        width: 2500
-        height: 1670
-        isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
     publishedDateTime: 2021-01-04T03:07:00Z
@@ -142,52 +254,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-biden-inaugural/03dc-biden-inaugural-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers"
-    excerpt: "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\""
-    publishedDateTime: 2020-12-27T12:56:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98420293932"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98420293932"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidendomestic_20122700__738195.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
-    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
-    publishedDateTime: 2020-12-29T01:27:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden chooses Connecticut education commissioner for top schools post"
-    excerpt: "President-elect Joe Biden selected Connecticut Education Commissioner Miguel Cardona to be his Education secretary on Tuesday, adding another Latino to his roster of Cabinet appointees and choosing a leader who has pressed schools to remain open for in-person classes during the pandemic."
-    publishedDateTime: 2020-12-23T16:59:00Z
-    webUrl: "https://www.politico.com/news/2020/12/22/biden-connecticut-schools-chief-education-secretary-449808"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/13/4c/2009dbb5418cbef6541aa1e3066d/dsc-8614-copy.JPG"
-        width: 7360
-        height: 4904
         isCached: true
 
 secured: "JyZ/qgE7Rzurpvr5OSkSFCiuh8rI2kGwy2UmfOUI9W2BNINACynDN+aapY1CChg+favJNODgF6O13fCYQQZjuq8lxFlnWrkg826cM5xtaS2Xpot1UMdohc2MRj24SRcUPxrKi9wdwAicVKP3MIGsBiPHmVYeVUl3p27F85gM2i9tNi+8LWYUeXU6TWfuuKQCmvLLu4GDSJ5i0F27H0qXcHhdQcj8Z+y/4H9ktcfuT3mFpYO0261Zox1eQaNXV60P12ASf80FbJyDci0ZFpBKUgTPLhKMkaA8ICyyti3/6IdVJ9XjdLy0m4Tg0qHeTANLAJlHpKua8HEYIAJPCgu+m+hiZbXFtpbRj3+CGrTXdp0=;xWdX/hjfr8HgtHt+7uiAWw=="

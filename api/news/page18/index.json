@@ -2,6 +2,115 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-06-joe-bidens-groundhog-day-moment.md",
+      "title": "Joe Biden’s ‘Groundhog Day’ moment",
+      "excerpt": "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
+      "publishedDateTime": "2020-12-05T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-pences-political-future-remains-clouded-by-trump.md",
+      "title": "Pence's political future remains clouded by Trump",
+      "excerpt": "Days after the election, Mike Pence called a close friend for a 30-minute conversation to analyze what had just happened and what it all might mean for the future of the Republican Party. According to this person, the vice president was upbeat about the success of GOP candidates lower down the ballot,",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ftlqIK9dZS4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ftlqIK9dZS4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 2760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html",
+      "publishedDateTime": "2020-12-05T10:11:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-transition-highlights-biden-discusses-stalling-economy-amid-new-hopes-on-stimulus.md",
       "title": "Transition Highlights: Biden Discusses ‘Stalling’ Economy Amid New Hopes on Stimulus",
       "excerpt": "President-elect Joe Biden is urging Congress to quickly pass another virus relief plan as leaders of both parties work toward a compromise. Vice President Mike Pence said the nation faced a ‘season of hope’ as vaccine efforts advance,",
@@ -1242,115 +1351,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-dangerously-viral-how-trump-supporters-spread-false-claims.md",
-      "title": "Dangerously viral: How Trump, supporters spread false claims",
-      "excerpt": "It took just a day for a cellphone video of a man hauling a large box into a Detroit election office to be viewed more than a million times",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_2d577ba5f467404c81900887ef2cd68b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
-      "publishedDateTime": "2020-12-04T02:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-harris-on-her-working-relationship-with-biden-we-are-full-partners-in-this-process.md",
-      "title": "Harris on her working relationship with Biden: 'We are full partners in this process' ",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 572,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
-      "publishedDateTime": "2020-12-03T19:33:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

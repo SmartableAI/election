@@ -2,6 +2,110 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-11-11-join-us-at-1-pm-et-thursday-for-a-chat-with-insider-politics-reporter-tom-lobianco-about-whats-next-for-republicans-and-trump.md",
+      "title": "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump",
+      "excerpt": "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "originalUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "publishedDateTime": "2020-11-10T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-my-faith-is-shaken-the-qanon-conspiracy-theory-faces-a-post-trump-identity-crisis.md",
+      "title": "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis",
+      "excerpt": "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
+      "publishedDateTime": "2020-11-10T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-vice-president-mike-pence-expected-in-sanibel-on-tuesday.md",
       "title": "Vice President Mike Pence expected in Sanibel on Tuesday",
       "excerpt": "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island.",
@@ -1253,118 +1357,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-mike-huckabee-trump-team-must-be-allowed-to-examine-voting-machines-ballots.md",
-      "title": "Mike Huckabee: Trump team must be allowed to examine voting machines, ballots",
-      "excerpt": "President Trump needs to pursue legal action against the 2020 presidential election results due to the state's having suspicious outcomes, Fox News contributor Mike Huckabee said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjKW2b1MoRk/huckabee-trump-legal-team-review-ballots-evidence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjKW2b1MoRk/huckabee-trump-legal-team-review-ballots-evidence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/huckabee-trump-legal-team-review-ballots-evidence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/huckabee-trump-legal-team-review-ballots-evidence.amp",
-      "publishedDateTime": "2020-11-09T10:59:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-biden-urges-americans-to-wear-masks-not-a-political-statement.md",
-      "title": "Biden urges Americans to wear masks: ‘Not a political statement’",
-      "excerpt": "President-elect Joe Biden says that wearing a mask remains “the most potent weapon” against the coronavirus, and emphasizes that “a mask is not a political statement.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp",
-      "publishedDateTime": "2020-11-09T10:23:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

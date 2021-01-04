@@ -2,7 +2,7 @@
 category: news
 title: "The Trump ally in the Senate leading the President's futile effort to challenge the Electoral College votes"
 excerpt: "Republican Sen. Josh Hawley threw a political grenade into Washington last week when he announced his intentions to object when Congress counts the Electoral College votes on Wednesday -- a move that pits the youngest senator against Senate GOP leadership as well as some rank-and-file members who will"
-publishedDateTime: 2021-01-04T12:07:24Z
+publishedDateTime: 2021-01-04T14:34:20Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZngSMgAMb_M/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZngSMgAMb_M/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/josh-hawley-electoral-college-count-congress/index.html"
@@ -96,6 +96,6 @@ related:
         height: 549
         isCached: true
 
-secured: "OA877KhF73/2u8g3RenoSRJ9Z1QhhPOQ/kwsM6oe6tcK12DKaX51T7ZU7i5MtISu0nVpr4uJDXhyGdKi605aDOywxIDAZIWixlOuEdhIoi3mvJiASmTkcisMQwBUQ4Ry0JozLlnhlDPq65jrIGM60oN3TkMByfW12dHT1qbV67htuj1zRq4gzRP+Xv4OtVjnqJpZXOVXpTRSuLwDUmUr2ZyyCerCLHSzX1GwJojp36h3R/3CvVLBZQJhI4cGtNExnrYeMe+vKnt8e0XnT0HfBZD/YWd4CtgJrEwOz2l1yQDJ4D4wRC8PfHCNCiyoLmt0dbSLyQyTTacJdyqyWmUUUmsxVseYgdlFijbu70s/Q7s=;j1l8M4WVr0x7l0jQs2T57g=="
+secured: "1L7mkSYDyxuFuNMHnnkoL2z1udG0SPbm08r+8K2yS6+ujsVwcFqv29o5v5gUYTz1C0Yz9Tc5uzx40sU+fFw57dkYmQrHJcYudyysu9TNwwcO7YxG4d0JMvRA37REuAUtDicQHwVXMmDKb/ZLQFtKnlVwHqUEQ1QvQy5/9yCvED1RubNfpVRfOAbS46oM07M6y5sb8WVulGOMii4dV9HXyqS0RqAozHWOC35poJikNJ3zfR0cnH7zfjx32wjGMKcZ8cY0UySoj8xBKKqbIZOR1EhKMcbxrU4CkPv1+TfU1GQW5LlFNGBYCPblI/GzEPvkYlrxipX1Msuy7g4LgH7NII06P1jLav9L2vr4q9FO2iw=;6xGt0FYPHksRf4W1bfVlqA=="
 ---
 

@@ -398,6 +398,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'NEVER FORGET’: Trump threatens Cotton over Electoral College certification"
+    excerpt: "How can you certify an election when the numbers being certified are verifiably WRONG,” Trump tweeted. President Donald Trump warned Sen. Tom Cotton on Monday that Republican voters would \"never forget\" GOP lawmakers who fail to embrace Trump's baseless effort to contest President-elect Joe Biden's Electoral College victory."
+    publishedDateTime: 2021-01-04T16:22:00Z
+    webUrl: "https://www.politico.com/news/2021/01/04/trump-threatens-cotton-electoral-college-certification-454515"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/04/trump-threatens-cotton-electoral-college-certification-454515"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/04/trump-threatens-cotton-electoral-college-certification-454515"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/d8/8f/ec31d45a4fa9ab856beb47ec141a/trump-773-ap-4.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Judge throws out Gohmert suit aimed at empowering Pence to overturn 2020 election results"
     excerpt: "A federal judge has tossed out a GOP-led lawsuit aimed at empowering Vice President Mike Pence to unilaterally overturn President-elect Joe Biden’s victory, contending that the plaintiffs — Rep. Louie Gohmert (R-Texas) and 11 Arizona Republicans who would have been electors for Donald Trump — lacked standing to sue."
     publishedDateTime: 2021-01-02T02:08:00Z

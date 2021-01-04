@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden, Calling Stimulus Bill a ‘Down Payment,’ Urges More Relief"
+    excerpt: "The president-elect said he would ask Congress soon after his inauguration to pass an additional coronavirus aid package with more money for firefighters, police officers and nurses."
+    publishedDateTime: 2020-12-22T23:55:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package"
     excerpt: "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud."
     publishedDateTime: 2020-12-22T00:11:00Z

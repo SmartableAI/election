@@ -4051,6 +4051,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump, Biden to hold dueling rallies on eve of Georgia runoffs"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 16 days. Lawmakers are responding Monday to an explosive phone call between President Trump and Brad Raffensperger in which Trump,"
+    publishedDateTime: 2021-01-04T16:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 126
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-ap-jef-210103_1609706538723_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 901
+        isCached: true
   - title: "Federal watchdog probing Trump campaign's use of White House: lawmaker"
     excerpt: "The U.S. Office of Special Counsel has opened an investigation into allegations that the Trump campaign's use of the White House as an Election Day command center violated federal law, Democratic Representative Bill Pascrell said on Thursday."
     publishedDateTime: 2020-11-07T04:54:00Z

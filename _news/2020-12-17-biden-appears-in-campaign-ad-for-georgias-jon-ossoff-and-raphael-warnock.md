@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html"
 type: article
 quality: 174
-heat: 234
+heat: 214
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will travel to Georgia to boost Ossoff and Warnock in runoff elections"
-    excerpt: "Biden's trip to Atlanta on Tuesday will be his first campaign event since he secured the presidency last month."
-    publishedDateTime: 2020-12-10T10:34:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-will-travel-georgia-boost-ossoff-warnock-runoff-elections-n1250632"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250632"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250632"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_50/3434621/201209-joe-biden-ew-650p_be2e1e53bb9eca7f378fef24b3d4a39d.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Twitter updates warning label for election misinformation to say Joe Biden won"
     excerpt: "Twitter has updated the warning labels it applies to election misinformation to reflect that Joe Biden is the president-elect, the company said on Saturday."
     publishedDateTime: 2020-12-19T15:29:00Z

@@ -4050,6 +4050,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump, Biden to hold dueling rallies on eve of Georgia runoffs"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 16 days. Lawmakers are responding Monday to an explosive phone call between President Trump and Brad Raffensperger in which Trump,"
+    publishedDateTime: 2021-01-04T16:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 126
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-ap-jef-210103_1609706538723_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 901
+        isCached: true
   - title: "Investors focus on undecided Senate as Biden edges in on presidency"
     excerpt: "As Democratic nominee Joe Biden edges closer to claiming the presidency, investors are focused on the still-undecided race for control of the Senate and the potential consequences for taxes, regulation and the outlook for more stimulus."
     publishedDateTime: 2020-11-06T23:46:00Z

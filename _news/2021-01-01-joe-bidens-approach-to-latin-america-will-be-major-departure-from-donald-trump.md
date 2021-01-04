@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-majo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
 type: article
 quality: 146
-heat: 1326
+heat: 1346
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_123120getty_split_georgia-biden-trump.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump, Biden to rally in Georgia ahead of high-stakes Senate races"
+    excerpt: "President Donald Trump travels to Georgia on Monday in a bid to keep the U.S. Senate in the hands of his Republican Party, after his efforts to overturn his own defeat in the state have injected new uncertainty into a pair of races that are seen as too close to call."
+    publishedDateTime: 2021-01-04T16:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN29912P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29912P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29912P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546530199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH030IH"
+        width: 769
+        height: 545
         isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"

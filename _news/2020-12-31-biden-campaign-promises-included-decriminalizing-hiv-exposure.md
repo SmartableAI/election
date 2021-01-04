@@ -62,12 +62,17 @@ related:
   - title: "Joe Biden's First 100 Days Are Critical"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-04T12:22:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/04/joe_bidens_first_100_days_are_critical_532619.html"
+    webUrl: "https://www.realclearpolitics.com/2021/01/04/joe_bidens_first_100_days_are_critical_532619.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531068_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "jk3E+9T1fcInbP7V9H28Bld/uOQAO8xyGhmkL0htywxSIxTe1ijlc1bjpnrzX2JFqdZNcOrzKOVus3K58nokZiLsYMQIHuZarUCEVnOV9xgLj1HtZndBAW5YE1iBOy0xp86z8/VkPTwETQFh2SHJ6P2Thzir02ArjbkjOg8iE4CdSORIa9dJPAyNmJeu9X737o0/cm090JEaYeKkjAO1Lvwx9BZ6iA+u3goHoqSrihUyiM+ThP80H8yMBS+Xb4xyOqUQsXfK1EGpRUmHVrcxBT4jVjjoE3z5a34Z8DiqKM+Kj+NIBdOga6oHMTtvb9LCDaZLJEw2BwOb75QM6h0SThsAzdN6gxmLU4gwPr5q0f8=;iCpuw6NkxQry8QVSQAdjFg=="
 ---

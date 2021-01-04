@@ -336,22 +336,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to stump for Georgia Runoff candidates, kicking off a big push for early voting"
-    excerpt: "President-elect Joe Biden will travel to Georgia next Tuesday to headline a rally in support of the Democratic candidates in the state's US Senate runoff election, the Biden campaign announced Thursday.\n    \n"
-    publishedDateTime: 2020-12-10T17:49:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Xc_NLsboTE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
     excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
     publishedDateTime: 2020-12-09T00:18:23Z

@@ -159,6 +159,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump warns Cotton after senator says he won't object to Biden certification"
+    excerpt: "President Trump on Monday targeted Sen. Tom Cotton (R-Ark.) a day after the senator said he would not join an effort to object to the certification of Electoral College votes affirming Joe Biden as the next president."
+    publishedDateTime: 2021-01-04T16:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden"
+    ampWebUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/cottontom_070120bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Growing crowd of Trump loyalists in the Senate vows to challenge Biden’s victory"
     excerpt: "Eleven GOP senators pledged to reject Biden’s electoral votes from swing states, defying a plea from Senate leaders to avoid a fight over the election’s legitimacy when Congress meets in a joint session next week."
     publishedDateTime: 2021-01-03T05:51:00Z
@@ -511,6 +527,6 @@ related:
         height: 630
         isCached: true
 
-secured: "o1OpHE8txg3TQkel199sg4/x4EJxvMYoBxGJE+1DPj32eUh48DXsJPC70EZfXTDCdYT0xBymxph5FbihO+Fav/Dm5Tl/tOs57CVZXV/Z6XEMxS2JZygl/KVsJn2fEjtBUXCAOzZ4vxCrySwjglBsDfvZpw9vJYe7JaIwUgqPsOnC7JaaDslT0j5YZRntQwgcgLzBw7HdyPY96WTd4fjOx4aVotR7ZWo87Nzy6Qi/O/+9x1zbWY6edkFeXuqrerRuu0Ddrv+u9lRLC4yYJ3WSmll9ucz43Lg1YdwXeDKDogAFi5zTkEEGe1vFW2Or+CnZ8qrC25D7fefLA//6qeBxIlckda0fso5p4sJE8/5S8m4=;VSbL1beArC5mC8/cRCaNKw=="
+secured: "7RLZMph1WoLHSiE9JXPjsj4c0/Xv/QI7md8XxlaYfqVI2x8gF9ay9IJU5Czui9m3xRluekpn89u/R21IzXkd+EYngFKIwQbPv8u9kOh00QS6Ds/cx4AhN1ugyGEnYpebpy/eS+jyundHv+pOaJwJrAqdfKLu4xIEK48nULvfit7K+cDYGzz4KeotnVAGK30vQlfdWilVH/n+FOUUQrWL4pVNcGZXwohAMsJRsp1U59QRhKC/r1LclP4MQYPKb8NvcbEVKf7B7JB2K1DfZeYa//waBTYDw5MB1MT55ZKkGCdGbCIsnDAkeFwiAKke6SdA5otF7QYKtTE9jR7lJpXSZieliT75UvclknjNBD7bKKv4E5YSN3NrPignpKiWy+w2PBfky/RO12BTcjh3+iQATymdX/og9oyFnOufdmkhnqgUvTeCKtT+KIa6zPVcABvluaJHeb0SDQfI63TG70hBpgurM8hpeG0nyhC+Bz4lFwywX4AjBaNTOtV8EhHCdjimLstVGJrWzVzif06SGRiWAg==;9HZQHl2a7lF65glKejtSFA=="
 ---
 

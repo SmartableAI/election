@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump set for Georgia rally as GOP officials brace for post-phone call fallout"
+    excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
+    publishedDateTime: 2021-01-04T16:19:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R7YMrWH5xBk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia GOP lieutenant governor says Trump call with secretary of state 'inappropriate'"
     excerpt: "Georgia's Republican lieutenant governor on Monday condemned President Donald Trump's phone call with Secretary of State Brad Raffensperger, saying the President's effort to pressure the state's top election official to falsify election results was \"inappropriate.\"\n    \n"
     publishedDateTime: 2021-01-04T14:37:29Z
@@ -237,6 +253,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103150627-trump-raffensperger-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: The 37 most outrageous lines from Donald Trump's call with the Georgia secretary of state"
+    excerpt: "Over the weekend, President Donald Trump spent an hour on the phone with Georgia Secretary of State Brad Raffensperger (R) in an attempt to convince the state's top election official to overturn the results of the 2020 presidential election in the state. Even for Trump, it was a remarkable moment --"
+    publishedDateTime: 2021-01-04T16:44:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ze6QdyHVidk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-brad-raffensperger-phone-call-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-brad-raffensperger-phone-call-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -379,6 +411,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_53/3439288/210103-donald-trump-jm-1619_a67bfcb4b233682890956e527ecbe768.jpg"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "The 37 most outrageous lines from Donald Trump's call with the Georgia secretary of state"
+    excerpt: "President Donald Trump spent an hour on the phone with Georgia Secretary of State Brad Raffensperger (R) in an attempt to convince the state's top election official to overturn the results of the 2020 presidential election in the state."
+    publishedDateTime: 2021-01-04T15:42:00Z
+    webUrl: "https://www.cnn.com/2021/01/04/politics/donald-trump-brad-raffensperger-phone-call-georgia/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-brad-raffensperger-phone-call-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-brad-raffensperger-phone-call-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 126
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "E3+tpj/V6GGYklOkJ6SCQcVjfrh0w+7mz/DEIKf3pvHFa8Qrj0Znis23QzwcsQy1AiZ7NvxL7xmbh7UllTDUNTr4Ob/RrXRhnr7u26mztnEQ3b2f3uck3xhqKkTLfs7rvuHxIBwCXIZoXbl9djpErU67KiY8kZztaZtrrhVNr+kJoomcKElE786ycekNtGTSz75mW4UYimrnlg+FklVRG7wZJv1J1qiTP0L8uLzJ5WAYs0fPBZKfkaF1AJsu6mLG1Gd024qazTlY2sYigx3TUazq9UlvEFc4NGJi35SY7si6By4L0Ww90lihcesPR0Qrz4PELvc9IbHRW7TZvTXvDPF9OUSJKMpwbGKSwSIIWzeCrUwv7JThTfeC0JwcK/Fj6PHJrlEi6mel1Q4I2QsZFbD3KdpenAf+Sp8JdeKJTsTuK7whrYs4LqHsIk+MBexCND3lIZyW/hs6AXcqYVFVuTEL9qS/XcndDMuJB+oKH0EL8nUS2k/E+WzhbP/Sbf0CB6mGWdGH1mpXBwqdq9WJBA==;GLkdRBrbpQsmNRD0UibUDw=="
