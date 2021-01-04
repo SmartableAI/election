@@ -1,14 +1,14 @@
 ---
 category: news
-title: "LIVE UPDATES: Trump turns his attention to Georgia, announces rally"
-excerpt: "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line."
-publishedDateTime: 2020-12-28T05:42:20Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
+title: "Perdue says Trump call with Georgia secretary of state won’t affect runoff"
+excerpt: ""
+publishedDateTime: 2021-01-04T09:55:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
+ampWebUrl: "https://www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
 type: article
-quality: 175
+quality: 173
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Perdue says Trump call with Georgia secretary of state won’t affect runoff"
-    excerpt: ""
-    publishedDateTime: 2021-01-04T09:55:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
-    ampWebUrl: "https://www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+  - title: "LIVE UPDATES: Trump turns his attention to Georgia, announces rally"
+    excerpt: "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line."
+    publishedDateTime: 2020-12-28T05:42:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
     excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
@@ -96,6 +96,6 @@ related:
         height: 640
         isCached: true
 
-secured: "HDPLu0cqtTpZ7mr4w6qYSds9oAF6cAVbpDoCRZFO6AFc0J95WSga++qeHNthi6sApWccGfwUJkm3gzKCYNCKkWwID5FT5EL1BMr9wyy0+rIlugeP5NpXwt/XBer9REZSKikh8Q9lh5roTvNwIsGBOynyNestbjYPPhl9AFzSi85H3PVJgZKK+HbnzQMGgKbMXRQBL8MGUvTd1Xo+p4snh3SSqCkip2jjd3nWXA8ZyHGjfxtd2PJq7VahXVRVpJ1ArlNv+5TfcWCNbRH4GuUxJ6qcV2yWrR9G10reCPWZzmtOpg7tjZjEUL/TXzhY/oivlvBfEqwlCj6hSCtUUhYL6HNzQ/2hpKEdBufT4Jg7exc=;XteURdxUhqruMhiJCQcEig=="
+secured: "jpdLmkEonCS9jaCIqmJzP4zwoITQIz61bV8lQ35xVDkXOTfeXS7Js2bqa29mr1ilLt8I4j4KflLWELmHJbTMMeaXR8Ip6tHWk0aI9KQGeZGe92hF6nuytT2TjSy/D1uQK4gGpLQNXvnF+qlad5wZ99g1lJWiZg5ffu0pdcLG5svAHpus9eNaXPQHVnvR99UEumR5rxtjpuagXj44L5ZkhjAPBLpc5v1WmgEcSs4D/g0ztOAcCqhM6Dcc8Jh8fYi3zQyk9C5p+es3Hh9V/zwCdS2gUCPdYO+VvHVg5LzrzQc8s+3vjVlRmgdS11F7JkZrVlzHTiZrOBywsQpg96tZyXiCfwCVZKTftoLsdoSpzJw=;7iZC6sSmvzWgHHUmrjRjyw=="
 ---
 

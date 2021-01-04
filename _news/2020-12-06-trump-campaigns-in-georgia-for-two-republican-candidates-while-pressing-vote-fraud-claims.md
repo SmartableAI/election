@@ -573,6 +573,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Georgia runoff campaigns ending as Trump, GOP continue to contest November's outcome"
+    excerpt: "Control of the Senate for the first two years of President-elect Joe Biden's administration hinges on the dual runoff elections taking place in Georgia on Tuesday."
+    publishedDateTime: 2021-01-04T10:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/warnock-ossoff-file-gty-jef-210103_1609699766033_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "California faces stay-at-home orders, Trump heads to Georgia: 5 things to know this weekend"
     excerpt: "Trump holds rally in Georgia for Republican senators, California faces stay-at-home orders and more things to start your weekend."
     publishedDateTime: 2020-12-05T10:06:00Z

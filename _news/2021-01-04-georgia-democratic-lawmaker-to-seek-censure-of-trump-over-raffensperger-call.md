@@ -109,21 +109,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump, on tape, presses Ga. official to 'find' him votes"
-    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Tr"
-    publishedDateTime: 2021-01-04T02:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
+  - title: "Trump, on tape, presses Ga. official to ‘find’ him votes"
+    excerpt: "WASHINGTON — President Donald Trump pressured Georgia’s Republican secretary of state to “find” enough votes to overturn Joe Biden’s win in the state’s presidential election, repeatedly citing disproven claims of fraud and raising the prospect ..."
+    publishedDateTime: 2021-01-04T10:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fee657f0b72547eda7a682d57c80ad4b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump demands Georgia secretary of state 'find' enough votes to hand him win"
     excerpt: "In an hour-long phone call Saturday, President Trump repeatedly pressured Georgia's secretary of state to try to overturn his electoral loss in November."

@@ -79,6 +79,22 @@ related:
         width: 813
         height: 545
         isCached: true
+  - title: "Power Up: Trump divides Republican Party on his way out of Washington"
+    excerpt: "Leave it to President Trump to divide the Republican Party on his way out the door and right before two Georgia runoffs that will determine control of the Senate. There was Trump's last minute demand for $2,"
+    publishedDateTime: 2021-01-04T10:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXOHKBCOKQI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"
     excerpt: "The street closures will go into effect about 6 a.m. Saturday and will be enforced through the end of the day."
     publishedDateTime: 2020-12-09T22:46:00Z

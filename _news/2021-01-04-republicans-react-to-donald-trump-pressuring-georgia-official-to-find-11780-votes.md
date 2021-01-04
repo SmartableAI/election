@@ -109,21 +109,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump, on tape, presses Ga. official to 'find' him votes"
-    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Tr"
-    publishedDateTime: 2021-01-04T02:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
+  - title: "Trump, on tape, presses Ga. official to ‘find’ him votes"
+    excerpt: "WASHINGTON — President Donald Trump pressured Georgia’s Republican secretary of state to “find” enough votes to overturn Joe Biden’s win in the state’s presidential election, repeatedly citing disproven claims of fraud and raising the prospect ..."
+    publishedDateTime: 2021-01-04T10:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fee657f0b72547eda7a682d57c80ad4b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
     excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
@@ -461,6 +461,6 @@ related:
         height: 641
         isCached: true
 
-secured: "YD7Jx47dfF6KRi9plybAkQN72cYEG4u0RbmBCWKjmR2Y4OpT5uqPnnNAnRIoGVyAZlLRsh+b8tF2+wLXYhyNP2Ovmy9nRo7TtM0lqfUATJdtAvGMkHlzkoFQZp49CnXMT28X5F+9A8F5QdKf/IsFFTfWU+LPakrmVMCXtd5Slb+O5OfKlOIJRT86zb4a0aXdEF+fYHZUsCoITFB0jE2Qd6i6t0dtI+t459KezGV4LElSi+1rXxgPzxuW2DiZE5cVok3TwharARtZRRVQWnrSGPwG1Nku08PFkjPMT+gqdCiLTYByB/0k0yCevh+COQYSIx0stJCGsE2GUshDnzML7wQ8s7647k3e3GdSJ40dLBo=;9kbCcoZ+Cayi2pq8+N7vHg=="
+secured: "0SV5U+1CKAAY1iQaS4P3rRMQUwC/81l3S40aQXn4ezM/3KVk/AQyqrx+6g1GHaF1/c5wjh17QWbz7zB4av9adR7/Vh6EudeaiwxKFtj1NdNrXhcIip6xb2YBPRvpHoevWsWujqRU8TWD/oCKSc8rMDjP69t2AhHmBIhVwiJ+dWGtll9Z67GuBpuv5cSgiPQNsJatAIw7SiG9Hq8zXPdIXljBW3GLlrPe98GeVqxNhHLvidIWTFYBAbHZJp782JHqOIC/GeOWQW+3BX1O8c7RMg4oljDh3vPrxhN/TheC0oaDwBTCv+hGQ8zUzBJz9DLTu/xoyTRRAubxYktoi6M4dpe4KG70T1OYyoIMbNYWsMtuN8cOt31CBbsObsmX04mFhvPkUkWQH/KJiqAio1tT3riR35ZdTdB7NLCsNeWsPXEqvHbSSGzLvaXD4gyunczw8DP05f9mZeclnuDeDyfYVr36QuYtk6EZBosl2yYdJUpdIrdTS3Ujc0ZNPd/9yorZ/+XjgYPpDM6z3oiqQpEL8g==;9pjopsKHhDe/Wh38oUt0lQ=="
 ---
 

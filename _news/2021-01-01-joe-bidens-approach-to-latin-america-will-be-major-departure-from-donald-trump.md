@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-majo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
 type: article
 quality: 146
-heat: 1266
+heat: 1286
 published: true
 
 provider:
@@ -535,6 +535,22 @@ related:
       - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
         width: 750
         height: 562
+        isCached: true
+  - title: "Carl Bernstein says Trump's call asking a Georgia official to help him overturn Biden's win is 'worse than Watergate'"
+    excerpt: "The Washington Post published audio from the call where Trump asked Brad Raffensperger to \"find\" votes to overturn Biden's win."
+    publishedDateTime: 2021-01-04T10:55:00Z
+    webUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5ff2e2616056b60018721af0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
     excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""

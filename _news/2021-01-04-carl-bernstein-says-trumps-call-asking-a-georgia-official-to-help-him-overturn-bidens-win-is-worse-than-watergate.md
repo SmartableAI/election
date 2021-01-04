@@ -1,22 +1,22 @@
 ---
 category: news
-title: "'I just want 11,780 votes': Trump pressed Georgia to overturn Biden win – report"
-excerpt: "Trump asked secretary of state Brad Raffensperger in hour-long phone call to recalculate vote"
-publishedDateTime: 2021-01-03T14:10:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-webUrl: "https://www.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
+title: "Carl Bernstein says Trump's call asking a Georgia official to help him overturn Biden's win is 'worse than Watergate'"
+excerpt: "The Washington Post published audio from the call where Trump asked Brad Raffensperger to \"find\" votes to overturn Biden's win."
+publishedDateTime: 2021-01-04T10:55:00Z
+originalUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1"
+webUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1"
+ampWebUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
 type: article
-quality: 135
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/ef50fd94529c5075f1f3ddf5a581dcdfec6735ae/0_152_5469_3282/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c54870c1ba952942958b6060f010ab75"
-    width: 600
-    height: 360
+  - url: "https://i.insider.com/5ff2e2616056b60018721af0?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -206,6 +206,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump2-01-gty-iwb-201231_1609441395060_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "'I just want 11,780 votes': Trump pressed Georgia to overturn Biden win – report"
+    excerpt: "Trump asked secretary of state Brad Raffensperger in hour-long phone call to recalculate vote"
+    publishedDateTime: 2021-01-03T14:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/ef50fd94529c5075f1f3ddf5a581dcdfec6735ae/0_152_5469_3282/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c54870c1ba952942958b6060f010ab75"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
@@ -534,22 +550,6 @@ related:
       - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
         width: 750
         height: 562
-        isCached: true
-  - title: "Carl Bernstein says Trump's call asking a Georgia official to help him overturn Biden's win is 'worse than Watergate'"
-    excerpt: "The Washington Post published audio from the call where Trump asked Brad Raffensperger to \"find\" votes to overturn Biden's win."
-    publishedDateTime: 2021-01-04T10:55:00Z
-    webUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5ff2e2616056b60018721af0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
     excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""
@@ -911,6 +911,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Tomccyej8nTRwT7eFRrRtn+rOfO9/+YmN/C8jqmhjME8JQ+Yf5NkOh6rx/pqqR3EVnvVRobSL809hncR8r7+Zn3+I1r6YJoHh8iTyDi8E5NJh/Nph8vHs6vq0ziQkZ4C6KaDupIwAheLoJErarA2eZ2LpVi6Vf7X5FqvrCWwAiUtrdglJF9wMH8b3x/q2wSAD4AdeR8O+Pk3PPEzjcA11tdSa185GnnYFDRdieU5CPlQO4pZtribxHLnG37vBVU/2RPKyOv2Q22BRkqfLDv3U5X0eNR3OEIRwK4uRpBf9fsRkFbEhHa7QZxh0R3BdaIXzBY4CfcQLyQ0AFb2z2GBpUrd1QyWZJ+IPcYCoVWE2IdE/Ksu7TmSzPkGtmivRU+kGxabcS1vXV4r3bNCp1dniDFIluuiumhC/zZeWqtSmLzC4PGDLS+v9p0FXg0ZJ/JeKRtlUNXKXovDYoaFBH+WP3wXWcGwplqk2XztQSnheaEoakZWKX3eVC/YTKqwKdG8hIQNh14Vq0ukxcOUKBbuOA==;hZckc4xNT06ubmiZcwEyqQ=="
+secured: "Av/i+yUNDe7HpuFjPWAOSf+WuwgI0yMrQeUEkNk6TAXt53ujoTa82+yqCUU9vsuL0ULC0W4SU3nDNMP5//Vy4i0FYFDxNhv/mnGeccbDmBlxowDfiOGnbYQqXOBqMCqLsfiBP0CCCtuskZNMbpWbsV96fDGo+jvCwrHFSC8xGOqHCqi+vG1ladlnoNl0AYkwajZt/aq6sIvfSovMDu2MKdLqxbCzTK8R26wJX+PuqWgSthKk43OfAQaS56Ntskvg2w1s6I3O7ZG7kM+GgtQvAU9T4/EdlKqC3lX3X8TMtfzJ7UKPyMJROLE2SiFtGm1a9XxAfM7MUp9tI0dspDVHr9SndfCy2Hz63Zaxbs9R+OA=;8Bpc/lZnqkiJKfhjT441Rg=="
 ---
 

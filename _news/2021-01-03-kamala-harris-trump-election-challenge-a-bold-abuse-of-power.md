@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Trump Election Challenge A \"Bold Abuse Of Power\""
 excerpt: "Vice President-elect Kamala Harris blasted President Trump at an event Sunday in Georgia, calling his election challenge a \"bald-faced, bold abuse of power\" and saying his call \"Have y'all heard about that recorded conversation?"
 publishedDateTime: 2021-01-03T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/01/03/kamala_harris_trump_election_challenge_a_bold_abuse_of_power.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/01/03/kamala_harris_trump_election_challenge_a_bold_abuse_of_power.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/01/03/kamala_harris_trump_election_challenge_a_bold_abuse_of_power.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/01/03/kamala_harris_trump_election_challenge_a_bold_abuse_of_power.html"
 type: article
 quality: 95
 heat: -1
@@ -123,6 +123,6 @@ related:
         height: 320
         isCached: true
 
-secured: "FxHVHYuzfPqCw+0qjme/9TgdY2D6Zr0b5sjE0CrvvofIgsA8Z/u5DrhZCytxZtCpvEDGG0Op4A4eVJvA7GA2c5g7QCW7NLspsJQHrwOfUrh5oJsbGGz922PyjwYh2FewqN0SsNGvzCQ2YDxc+No0+wvkK91ZPVYhmjtmPDOuG2kT4B/umlZopvA2m6GukwpU7EnYn1YHO3BRPGObXdIu1P2CzfUKd46/6iFgzE/vBA8imUJcWri5v1BOlvSnrX0ss2o6yHfMuJKcsCGiWRMP28XKDVVVA0+59wqVDllGzFM0LfI3iyp67juHh45MctuhD9tFlHst14AT1A84+RYdDEU/j4mixGH7imPRLHHSSrw=;CO/F7nlBtnnOMTARG+JIyw=="
+secured: "6sTArbPR0GShb5rtqt1A7djCGR3iuq8AIsY6rj+q/Zqvazg8z58mzQT1xzbpkCaaz8EvrNZp8oUb1sLQgCBtrDH16pER4srEpTcPNMx5JSwgkE2D2EMAYbMmVZVA7+RQAeE2KrTk0LBdjxHZAOC3s/GNys5C4f92LKrREBCriY3qqnmlcQzDHvXqLDU6PsO6pjrhTlvS7pO5aFLPm0bLSiyAnFW7w0TPuR1KHa9wsTWkD9D7PyNJvESSR1YndNGzwFRH63FuROcZ5wWDYPPArrRrEDQ24u4ORB1W6f/9D1K+7CDubZuy3oH+xq7Q6Hcr52nqkmpUi37KhxkL1pJq8JMM892hlcIWy/UkFgR4oUg=;mDHQc5uFasorsmHtDCO78Q=="
 ---
 

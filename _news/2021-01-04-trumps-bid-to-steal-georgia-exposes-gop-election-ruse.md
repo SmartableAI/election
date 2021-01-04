@@ -2,7 +2,7 @@
 category: news
 title: "Trump's bid to steal Georgia exposes GOP election ruse"
 excerpt: "Astonishing new evidence of a desperate President Donald Trump caught on tape trying to steal the election exposes the depth of his corruption and makes his Republican Capitol Hill allies complicit in his bid to thwart the will of voters.\n    \n"
-publishedDateTime: 2021-01-04T05:00:45Z
+publishedDateTime: 2021-01-04T07:12:46Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szs1_xXWE2U/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szs1_xXWE2U/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
@@ -610,6 +610,6 @@ related:
         height: 773
         isCached: true
 
-secured: "ibHrjaYy2aST1oV9jcI4CQdYX/RLLEvFI8CcVTMaxHlrxyBrCfd9pS9jt31o+hIqBFhS6HTmBBSqWaBcQAlP9P0y1q0MU8Rf6SqNb1VVdd+9N1Au9YqClkWgDit0xBps+QTZB8Jm6ArCD1EExvcOCbsvl3FKcTxtH+BH4DO3pRxvvgeiV0HoLcBKjXd3bgjJ6UzWnC3K21WS90hQ97aoOO5GW3Cf7TseUPruXWKlyDGzx51iVUTbCMKA43bvNYf3+lAZnjQOR9JQwypHGAuh/oXwGAvyR5ThZL3CqN2+qzGXOf930uh4YOYbtwna1SfvuqbVH/6Z3692bIvzeEtqLUd8IN/wD5mSyGS2U8O/Loc=;GcsofX9W+y6LiuFz/CJyQQ=="
+secured: "qCcICdQsgBU9hLSEl5Cqjw+V2U3BspITEhqmBCDP5ZKtNETm2o84OJhbET0/QMhIWFpW6jSvNwxWxdPuorg8HiD2hQeif/C9z46P/IH9Y3RYZT48+HdTsrJ63zKDFS4TiJfwhUMrhCmkzfPBNbOw/GLRIFHM3XgdiAMJiEZQXPrvJzQc+dGZ5ZdF1+MKsXQdYafzfpVho/SuTpVjRaz9wh8wb/fBiA6kR5ztudol8MoNmegL/2OyTAeWiuiBLWSOaSc1jRr8W5cNHvasRGRnKHSt+UwF/kqm1rQ53idqYlHhYyoQlphAajdj7oyIfJu9FVft/RoBXKQNQQDzVSMEvyYJIzsrHSfiDl7gwSmbohg=;wY19MlllTqMMd3wkP0YM1A=="
 ---
 

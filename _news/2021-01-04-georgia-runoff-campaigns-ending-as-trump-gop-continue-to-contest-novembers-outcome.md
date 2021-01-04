@@ -1,22 +1,22 @@
 ---
 category: news
-title: "GOP senator says he's 'unconvinced' by a Texas lawsuit — backed by Trump and 17 states — that aims to overturn the 2020 election"
-excerpt: "US Sen. John Cornyn said states have a right to administer their own elections, pushing back against a Republican effort to overturn Trump's loss."
-publishedDateTime: 2020-12-10T12:17:00Z
-originalUrl: "https://www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12"
-webUrl: "https://www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12"
-ampWebUrl: "https://www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12?amp"
+title: "Georgia runoff campaigns ending as Trump, GOP continue to contest November's outcome"
+excerpt: "Control of the Senate for the first two years of President-elect Joe Biden's administration hinges on the dual runoff elections taking place in Georgia on Tuesday."
+publishedDateTime: 2021-01-04T10:22:00Z
+originalUrl: "https://abcnews.go.com/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
+webUrl: "https://abcnews.go.com/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
 type: article
-quality: 111
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f92c547abcd0c0018d69485?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s.abcnews.com/images/Politics/warnock-ossoff-file-gty-jef-210103_1609699766033_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -573,22 +573,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Georgia runoff campaigns ending as Trump, GOP continue to contest November's outcome"
-    excerpt: "Control of the Senate for the first two years of President-elect Joe Biden's administration hinges on the dual runoff elections taking place in Georgia on Tuesday."
-    publishedDateTime: 2021-01-04T10:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/warnock-ossoff-file-gty-jef-210103_1609699766033_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump campaigns in Georgia for two Republican candidates while pressing vote fraud claims"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party fear could end up hurting, not helping, their chances if he focuses on efforts to reverse his own election defeat."
     publishedDateTime: 2020-12-06T02:43:00Z
@@ -652,6 +636,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/581fdba872020aee7bff332eeb9a68fceaf5dba0/c=0-187-1600-1087/local/-/media/2020/12/02/USATODAY/usatsports/B9342396546Z.1_20201202054812_000_GJ1RQO70N.2-0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "GOP senator says he's 'unconvinced' by a Texas lawsuit — backed by Trump and 17 states — that aims to overturn the 2020 election"
+    excerpt: "US Sen. John Cornyn said states have a right to administer their own elections, pushing back against a Republican effort to overturn Trump's loss."
+    publishedDateTime: 2020-12-10T12:17:00Z
+    webUrl: "https://www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f92c547abcd0c0018d69485?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
     excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
@@ -1050,6 +1050,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1Rz8KymennzgjHV92oj+q3GZeAZxFor6bsjjqlH4yIbaKjjosTz3p0qbR85ZiuB3kJ7KjphN3PwWDRyV7zs93q7PEVz+/1dksv+dUNOA7Y5yGpB7xJBk5J4rVQR7PnO7clnpEA8umWO7qWJSUVijLy7FWptLdxwUBECdkVTbOxbQJDwPmhy9tDVVNNOM0idxhFNYs0isMNqUf3Ndd/kBmlgxUwl0seRQBathKhgJrVHlh5F1zxNe9aSMJg228SmtZjYUNRJd7GGAmdfleUom6N7Kb2RsfhpDLG9ey+wrKbljkWYI1h5/uFgB8SIcZVpkfz1NOU8Q1IGGzTmpdm9O4+gqEE/cGsbFiaW5cX7wvMu97y5gYa9FntbahnpweBbrly9EuEzB8H7CzqlAcmHLB1RBip5YMh+f0hhbaweWHFvZS9X1fKJfWSEPvJRZJcD4RxbpwBDI79/AzxhAyLCObkplIaGS/E6PO3tPObulyNdEwIbr8x4tUrxjphnI0h0ApG5Y+tt+mZ2pq3s7yEtYrg==;F/Kp3t1qdYw4D3q/IrV8Tg=="
+secured: "h7oqLXl2s28quVfczxSrYfu6tD4Yfa2HLB8DnXGW/lFdQWpAT90dDYXagAEqVg8qsomN7qqRijjIVD7LxfYaoQE0OcEPSnP9f9gZ1EodtZa9FkyhFZt78eCMS7AkYNUc4XlNjTUT6Pkn0+HHV2C5SVVeEWxWIxVyQROF7ngzOn/dTZFwOVAGqpt63zVw1AqJcSeDg2nYDzp11bmd0mF19PcD3L372Vio90IoFAH9I68PW4b15KUGNMNyn8tiXWU3ze618E5/tJP7kJD14RJgoyM6z7x0FFeYeyLezqQngxgKyfffKlzxLtxlHL4KjgsewPTWAWpQ2PVcseyp3prWLFJ0XPwBO07unT5GDNT3QmM=;ys78i2gbct5AlwsUPdDYjw=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump, on tape, presses Ga. official to 'find' him votes"
-excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Tr"
-publishedDateTime: 2021-01-04T02:20:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
-webUrl: "https://abcnews.go.com/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
+title: "Trump, on tape, presses Ga. official to ‘find’ him votes"
+excerpt: "WASHINGTON — President Donald Trump pressured Georgia’s Republican secretary of state to “find” enough votes to overturn Joe Biden’s win in the state’s presidential election, repeatedly citing disproven claims of fraud and raising the prospect ..."
+publishedDateTime: 2021-01-04T10:57:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_fee657f0b72547eda7a682d57c80ad4b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -461,6 +461,6 @@ related:
         height: 641
         isCached: true
 
-secured: "DoROvYEM6/ayT4ca30l972ROI3DIfxlC5nABXOwAvmRwdzkbXcQCfpgdEo8x6VkBPTn+/lI0a99ahTnJ3hSU/cYiYzzQOH9eav5SgLlNwtk9UzAIJl34P5foWncpucV5OVDeKSnKSccqS3eeBcsEcjeX1OKWTP6HdywWiUPvzHGGsP+xnok4nbjntdaFa8em76Zx4/ecUNK0CpOrJNUfw33ha6FeKTEZ9/O65vyxYehJwueJ7Z7e0ic5IFrbg72drbFIV4vE8Dfz6W7PgUSW5krZy0ffUs+cyA1u9M0gYn00eq6gJKRFVG5M3SeAbug9buDL7HZfdDuvzLD3kwVL2+KPgMo2WZtaEi++QT2BZgP8ceSYWaRlYGC263NgeVtE4tmYQkxzYrmwm0oA+4kSzw+KH5XTsN1NSN3bIVTOYiNRI29BG+pYHW0/T90s0dSU+hIwpELYmt4e1Kz3RWdbeCWFJIuOOvGcHFnC6XdwdA9QtzU2UPweCEof9PioWTEUG2SAuNm1lg3koyDeUZz5RA==;aiTY+vhDU3uLFcOzIocpfg=="
+secured: "OysSiPx2UFYFJxRflF/SDfuwLjRD+nh00z4mzxAVqy75qBVSQCUVttplutgOB18d/dgTVEtOXh5GCIS7C3qHISart3Klybgz4VDgbIAE0i3FXGI5XxfBhE6S/R24gwypT1Dv9IhwcLkjzkbTQr5ZLTTqkmHDq/6JX5z65sVNWet2lF4AyVF53arfNa/X7UKjb1ax6YBku70f0eSEbnhYrrWwJR2F3IFl6Uw7eGeMZbDJzfs0Ami2zq2A3pONqYhlBsPkKU4SHx/CFuMLIbm76N55ywmFadv40oDzs4IWmAKrc+H9ecK9aU4bABeLCV3/geMlWGBMONbwHuKq4JccwTegfXy2QAFaWobT+q9FNgk=;aPKr1kCCBuICYLXINU4eSw=="
 ---
 

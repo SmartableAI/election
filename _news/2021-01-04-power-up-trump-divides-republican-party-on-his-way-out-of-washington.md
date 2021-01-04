@@ -1,22 +1,22 @@
 ---
 category: news
-title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
-excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
-publishedDateTime: 2020-12-10T23:14:00Z
-originalUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
-webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
-ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+title: "Power Up: Trump divides Republican Party on his way out of Washington"
+excerpt: "Leave it to President Trump to divide the Republican Party on his way out the door and right before two Georgia runoffs that will determine control of the Senate. There was Trump's last minute demand for $2,"
+publishedDateTime: 2021-01-04T10:58:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/"
+webUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
 type: article
-quality: 108
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXOHKBCOKQI6XIPV7WXSRT6KSA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -94,22 +94,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
         width: 813
         height: 545
-        isCached: true
-  - title: "Power Up: Trump divides Republican Party on his way out of Washington"
-    excerpt: "Leave it to President Trump to divide the Republican Party on his way out the door and right before two Georgia runoffs that will determine control of the Senate. There was Trump's last minute demand for $2,"
-    publishedDateTime: 2021-01-04T10:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXOHKBCOKQI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"
     excerpt: "The street closures will go into effect about 6 a.m. Saturday and will be enforced through the end of the day."
@@ -191,7 +175,23 @@ related:
         width: 1440
         height: 950
         isCached: true
+  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
+    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
+    publishedDateTime: 2020-12-10T23:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "xZEX2woQnPatd2bRHakjpUMNh+nz/7WPdr4I9lLyCsdwk1asahqkJ79reN+qMA8dO20B4mLIPo54Ua88Ee82WfaU3XDeMCSGnP8HIO5ROyfKmKrIHOsIKWynf3wDt16KP18yfhyXynQ5ZCjlykud6zV/9LysIvhikfTZcrjv5mG0b0U6QnMGXFPSeR1S8UzZKSkzldK4PCUgBn8k3gs3s4J8huyOTDN5x1ePb42Nm03N90JKG/K4MITVYN4/aA5Y5r3ioxgawbcloXcKN0X7IdNXXdZpai+r+3L7ZWTVcgbGbqj6xkrhsrMI5NhZ+4+x/zaQRSd6cVk3fACRjGDDoN00NGZ2+Sb2EaVd/rZoyIk=;JEtUeyWi3+S8jGnDtCuf1w=="
+secured: "I664Bn063FWv9P6BHexcvyhuxI08rR1+WskMZZKEp+uIk/kIG081mpEVGQwhBmpROLaQMAYq6VX8lxFVgiUX8ZKBmClYQno5Fk225SKc0kywsifN4vxk4Kj++9q4/69w7CK4KIwCtYo4bgJ0VmtfGME6s4n1VQv2lA4LW1Iy1ugaHwMg1hsaytz23s9B5jnqJ5J1Bk6UjIlvIAMuReLWxn314JR0BwjftDsvh/jwVQKpdmkBM4IQJVcLrq+J3NpKIbOKS5r4CjGsmaRbA9G5DfVCu+Gx97lS1/R+1HTBJNpSdyNxOG48wJVrBVAECW30NylblHQNklFLY8DiMSGjzBw5GJPBwiu74aCl87Vu6nc=;LmTR8xssRBIOpFhHHfgcfQ=="
 ---
 
