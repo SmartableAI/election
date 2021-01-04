@@ -2,62 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-12-27-908-coalition-of-bipartisan-bicameral-lawmakers-tell-trump-to-sign-relief-package-or-veto-it-immediately.md",
-      "title": "'908 Coalition' of bipartisan, bicameral lawmakers tell Trump to 'sign relief package or veto it immediately'",
-      "excerpt": "A group of bipartisan and bicameral lawmakers, dubbing themselves the “908 Coalition,” signed a public letter on Sunday, urging President Donald Trump to sign a much-needed COVID-19 emergency relief package or “veto it immediately.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
-      "publishedDateTime": "2020-12-27T15:56:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-28-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election.md",
       "title": "Geraldo Rivera: Trump acting like 'entitled frat boy' since losing election",
       "excerpt": "Fox News pundit Geraldo Rivera slammed President Trump, saying he has been acting like an \"entitled frat boy\" since losing a \"bitterly contested el",
@@ -546,7 +490,7 @@
       "originalUrl": "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -1350,6 +1294,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.md",
+      "title": "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock",
+      "excerpt": "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR00ev9bZJs/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR00ev9bZJs/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.amp",
+      "publishedDateTime": "2020-12-24T09:04:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     }
   ],

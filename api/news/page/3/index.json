@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-01-joe-bidens-approach-to-latin-america-will-be-major-departure-from-donald-trump.md",
+      "title": "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump",
+      "excerpt": "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
+      "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1326,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1696572/joe-biden-latin-america.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
+      "publishedDateTime": "2020-12-31T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-one-of-trumps-biggest-services-to-america-was-exposing-liberal-media-jeffrey-lord.md",
       "title": "One of Trump's 'biggest services to America' was exposing liberal media: Jeffrey Lord",
       "excerpt": "One of President Trump's top accomplishments came not on the domestic policy or foreign policy front, but in simply exposing left-wing media figures for their biases, columnist and political analyst Jeffrey Lord said Wednesday on \"The Ingraham Angle.\"",
@@ -892,59 +945,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-30-pences-former-top-aide-said-that-trump-is-encouraging-violence-on-the-day-congress-votes-to-seal-the-2020-presidential-election-results.md",
-      "title": "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results",
-      "excerpt": "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12",
-      "originalUrl": "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 671,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp",
-      "publishedDateTime": "2020-12-30T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-30-joe-and-jill-biden-to-appear-on-new-years-rockin-eve.md",
       "title": "Joe and Jill Biden to appear on ‘New Year’s Rockin’ Eve’",
       "excerpt": "Ryan Seacrest will have a special pair of guests alongside the music stars at this year's New Year's Eve celebration on ABC — the president-elect and the future",
@@ -1109,7 +1109,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55292610",
       "featuredContent": null,
       "highlight": null,
-      "heat": 740,
+      "heat": 800,
       "tags": null,
       "images": [
         {

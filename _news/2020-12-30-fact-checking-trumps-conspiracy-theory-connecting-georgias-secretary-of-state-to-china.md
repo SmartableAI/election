@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia GOP lieutenant governor says Trump call with secretary of state 'inappropriate'"
+    excerpt: "Georgia's Republican lieutenant governor on Monday condemned President Donald Trump's phone call with Secretary of State Brad Raffensperger, saying the President's effort to pressure the state's top election official to falsify election results was \"inappropriate.\"\n    \n"
+    publishedDateTime: 2021-01-04T14:37:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5eUWkr4LT1o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/geoff-duncan-trump-raffensperger-call-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/geoff-duncan-trump-raffensperger-call-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231153144-geoff-duncan-december-31-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read the full transcript and listen to Trump's audio call with Georgia secretary of state "
     excerpt: "CNN has obtained the full January 2 audio call between President Donald Trump and Georgia Secretary of State Brad Raffensperger. Trump is joined on the call by White House chief of staff Mark Meadows and several lawyers.\n    \n"
     publishedDateTime: 2021-01-04T02:22:53Z
@@ -318,6 +334,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_53/3439194/210102-trump-perdue-loeffler-mn-1715_92edc40e4b0f9264b7fe0659472051d0.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Raffensperger: Trump could face investigation over election call"
+    excerpt: "Georgia Secretary of State Brad Raffensperger said Monday that it was unlikely his office would open an investigation into his weekend phone call with President Donald Trump, but suggested a criminal probe could still be launched by an Atlanta-area district attorney."
+    publishedDateTime: 2021-01-04T13:22:00Z
+    webUrl: "https://www.politico.com/news/2021/01/04/raffensperger-trump-investigation-call-454478"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/16/82/e71983f147aa984c6ccac3fcf540/brad-raffensperger.jpg"
+        width: 1160
+        height: 772
         isCached: true
   - title: "Trump urges Georgia election officials to ‘find’ votes"
     excerpt: "In audio from a Saturday phone call obtained by The Washington Post, the president is heard pressuring Georgia election officials to reverse his election loss."

@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-12-30-trump-lashes-out-at-weak-and-tired-republican-congressional-leadership.md",
-      "title": "Trump lashes out at ‘weak and tired’ Republican congressional leadership",
-      "excerpt": "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-29T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-29-nikki-haley-says-americans-should-be-worried-about-woke-left-when-biden-is-president.md",
       "title": "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president",
       "excerpt": "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals.",
@@ -135,6 +83,58 @@
       "ampWebUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
       "publishedDateTime": "2020-12-29T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-trump-lashes-out-at-weak-and-tired-republican-leaders-after-house-votes-to-override-his-veto-a-disgraceful-act-of-cowardice.md",
+      "title": "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto: ‘A disgraceful act of cowardice’",
+      "excerpt": "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-29T12:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Chicago Tribune",
@@ -339,7 +339,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1073,49 +1073,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-29-republicans-sue-mike-pence-in-desperate-last-ditch-effort-to-overturn-election.md",
-      "title": "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election",
-      "excerpt": "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election",
-      "originalUrl": "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election",
-      "cdnAmpWebUrl": "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election",
-      "publishedDateTime": "2020-12-28T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-12-28-biden-to-deliver-remarks-on-foreign-policy-and-national-security-monday.md",
       "title": "Biden to deliver remarks on foreign policy and national security Monday",
       "excerpt": "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n",
@@ -1180,7 +1137,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1310,6 +1267,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
       "publishedDateTime": "2020-12-28T01:55:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-908-coalition-of-bipartisan-bicameral-lawmakers-tell-trump-to-sign-relief-package-or-veto-it-immediately.md",
+      "title": "'908 Coalition' of bipartisan, bicameral lawmakers tell Trump to 'sign relief package or veto it immediately'",
+      "excerpt": "A group of bipartisan and bicameral lawmakers, dubbing themselves the “908 Coalition,” signed a public letter on Sunday, urging President Donald Trump to sign a much-needed COVID-19 emergency relief package or “veto it immediately.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "publishedDateTime": "2020-12-27T15:56:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

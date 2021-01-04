@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Pence seeks dismissal of suit aiming to overturn election"
+    excerpt: "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presiden"
+    publishedDateTime: 2021-01-01T19:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
+    excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
+    publishedDateTime: 2020-12-30T14:52:00Z
+    webUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "'Lack standing': Rep. Gohmert's lawsuit against Pence to overturn election results thrown out"
     excerpt: "U.S. District Court Judge Jeremy Kernodle, a Trump appointee, said Rep. Louie Gohmert and a group of other Republicans on the lawsuit \"lack standing.\""
     publishedDateTime: 2021-01-02T01:50:00Z
@@ -90,6 +122,86 @@ related:
       - url: "https://i.insider.com/5fdc7852c910a400192e83f0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
+    excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
+    publishedDateTime: 2020-12-29T10:29:00Z
+    webUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2020/12/gop-legislators-sue-mike-pence-in-latest-effort-to-undo-election-results.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
+        width: 3052
+        height: 2034
+        isCached: true
+  - title: "Republicans sue Mike Pence in 'desperate' last-ditch effort to overturn election"
+    excerpt: "Louie Gohmert (R-Texas), have resorted to suing Vice President Mike Pence as part of a \"desperate\" last-ditch effort to overturn the results of November's presidential election, The Hill reports. The goal of the lawsuit is to get a federal judge to rule that Pence has the exclusive authority to choose electors when he oversees the Electoral College vote certification on Jan."
+    publishedDateTime: 2020-12-28T17:37:00Z
+    webUrl: "https://theweek.com/speedreads/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957534/republicans-sue-mike-pence-desperate-lastditch-effort-overturn-election"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 85
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
+    excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
+    publishedDateTime: 2020-12-31T00:00:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
+    ampWebUrl: "https://amp.statesman.com/amp/4100416001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4100416001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
+    excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."
+    publishedDateTime: 2020-12-31T23:41:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/31/mike-pence-asks-judge-toss-lawsuit-seeks-upend-election/4100416001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4100416001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4100416001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss"
+    excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
+    publishedDateTime: 2021-01-01T20:16:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 79
+    images:
+      - url: "https://www.baltimoresun.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg"
+        width: 1200
+        height: 877
         isCached: true
   - title: "Pence asks judge to dismiss Rep. Gohmert’s lawsuit"
     excerpt: "Gohmert’s lawsuit is a last-gasp attempt by Republicans to persuade Pence to interfere in the declaration of President-elect Joe Biden’s victory and flip the election for President"

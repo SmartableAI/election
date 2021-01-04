@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-majo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
 type: article
 quality: 146
-heat: 1306
+heat: 1326
 published: true
 
 provider:
@@ -850,6 +850,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/electoral-college-votes-won-by-joe-biden-and.jpg"
         width: 493
         height: 768
+        isCached: true
+  - title: "Trump and Biden head to Georgia for dueling rallies on eve of pivotal Senate runoffs"
+    excerpt: "The dramatic clash comes just a day after reports surfaced of Trump’s new effort to pressure election officials to overturn his defeat in the presidential vote."
+    publishedDateTime: 2021-01-04T14:16:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 83
+    images:
+      - url: "https://www.nydailynews.com/resizer/zGp9-DqHnTtapD4TEFOai1grPis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZJN2Q5IPVEMDMOGTVOWNQZCJ4.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Is America's Most Admired Man In 2020"
     excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."

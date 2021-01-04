@@ -73,6 +73,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Post-presidency at Mar-a-Lago; What Donald Trump can expect when he leaves the White House"
+    excerpt: "Living at Mar-a-Lago as a former president who lost his re-election bid will not be the same as visiting Mar-a-Lago. Here's what he can expect."
+    publishedDateTime: 2020-12-29T13:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/life-mar-lago-wont-like-trumps-visits-here-what-expect/4070938001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4070938001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4070938001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPPP/904061d6-1a69-47a0-b1b7-54759c8102e2-USATSI_13867755.jpg?auto=webp&crop=4615,2596,x0,y220&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "97eGi24Q0muNVTuZISvkLntdDkAOkQqjYPPG6YqO/LyqVK++Uk+ydfzhg2fwh7h4lZuQYiiUF7b5bheErv4v7QziR7hLMCg8g5CMIngy3TqCXPvlHcMF8Y50PibKn4kaT61NjrzFWoZWTx+R+Rax5XRiyySxLbSm2kX6OJX/NMskLbniPJjVMp89AbYO9HI/JsEcH+JV+JT5kacAl30FqIHaQWWzjpvai6hY1j+bf7t98CqTSrhD9PL4304Nd8I1CUkljc8HWKTKOqJAuiFeLA0gH6MNofmOMqZZVBMOdwPQaEACXRzom4iWDSGHAxC37PFLKa1Zu+7Uuu9jFhaIbM4mQYB65QNOeYCzH77aRV0=;L+DQcYfKqgAzZyqCgpNpMw=="
 ---

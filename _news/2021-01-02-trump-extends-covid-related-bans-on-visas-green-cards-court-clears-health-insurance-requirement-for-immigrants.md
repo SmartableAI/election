@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
+    publishedDateTime: 2020-12-30T08:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "No reason given for Trump cutting short his Florida vacation"
     excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
     publishedDateTime: 2020-12-31T15:37:00Z
@@ -191,6 +207,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "US Congress overrides Trump defence spending bill veto"
+    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
+    publishedDateTime: 2021-01-02T04:09:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
     excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
     publishedDateTime: 2021-01-02T19:22:00Z
@@ -287,6 +319,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
+    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
+    publishedDateTime: 2020-12-24T23:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Congress overrides Trump defence spending bill veto"
+    excerpt: "US Congress overturns President Donald Trump's veto of a defence spending bill, for the first time in his presidency."
+    publishedDateTime: 2021-01-01T20:40:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55509883"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p092w75k.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
     excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
     publishedDateTime: 2020-12-29T23:20:00Z
@@ -346,6 +408,22 @@ related:
     quality: 91
     images:
       - url: "https://i.insider.com/5fe7ffcfedf8920018093c82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
+    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
+    publishedDateTime: 2020-12-23T12:16:00Z
+    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

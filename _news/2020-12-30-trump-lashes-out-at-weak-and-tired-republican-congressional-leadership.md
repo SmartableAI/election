@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
 type: article
 quality: 124
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto: ‘A disgraceful act of cowardice’"
-    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto."
-    publishedDateTime: 2020-12-29T20:33:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+  - title: "Congress overrode Trump’s veto. The president’s response? ‘Pathetic!!!’"
+    excerpt: "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office."
+    publishedDateTime: 2021-01-02T01:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 96
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg"
+      - url: "https://www.chicagotribune.com/resizer/lQDdyaU0W5nDFfAqhNYmilsO5gA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXUYFAUSS3L7H674HBQSWUFGNA.aspx"
         width: 1200
-        height: 675
+        height: 689
+        isCached: true
+  - title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
+    excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
+    publishedDateTime: 2021-01-02T07:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-senate-idUKKBN2962KZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962KZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962KZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546362263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0019U"
+        width: 849
+        height: 545
+        isCached: true
+  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
+    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
+    publishedDateTime: 2020-12-29T06:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
+    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
+    publishedDateTime: 2020-12-29T22:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
         isCached: true
 
 secured: "0uQtx+sjGqayL2K248E/CzgXIgWptYoJ7SCbSeoxzzeJg/CXhYYktRkOcfP2BOjAgivj4S15bWp8D1WVb+LYbeHkMmUunoGUO7LtIuDXyVEppzkyoNr8nrk6b2iCsslZ2T+5AJFPObiF+3FdGGDdfpuaY33F9wutOwico8FMK9OZgJp1gb1pfJzvzwsG1Wtn1C04SlJE2/35+KCHaYOAognbSjfeTmECWWMN8JwAvNxryzbKdaMcMcb8FjuMpW3/GFQI+u1htLSDCdGFGKbxKFtw2UtKVSU220lvkLi3fWBBzwo+2vWEi/Ccyh48uoVabvZ/n9F2ZegVHsxLUyM4e/v0Rd142SyKBtCWaZR9XW4=;A39wpdEaGgd2Kn9CKtqEGQ=="

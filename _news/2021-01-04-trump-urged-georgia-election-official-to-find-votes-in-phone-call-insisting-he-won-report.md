@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."
+    publishedDateTime: 2021-01-04T13:16:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ketiHyVilo/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c6fe23-932a-43bf-87f6-0b4ef45fca04/61ca732d-2f3f-4628-a615-73896a80615d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to Hold Rally in Georgia in Support of Senate Republicans"
     excerpt: "The president will appear at rally in support of incumbent Republican Sens. David Perdue and Kelly Loeffler, one day before the runoff election that will determine control of the U.S. Senate."
     publishedDateTime: 2020-12-28T04:57:00Z

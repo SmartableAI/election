@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-03-a-former-blackwater-contractor-pardoned-by-trump-said-he-acted-correctly-and-feels-at-peace-for-his-role-in-death-of-14-iraqi-civilians.md",
+      "title": "A former Blackwater contractor pardoned by Trump said he 'acted correctly' and feels at 'peace' for his role in death of 14 Iraqi civilians",
+      "excerpt": "In an Associated Press interview, Evan Liberty showed little remorse for his role in the 2007 Baghdad shooting that killed 14 Iraqi civilians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pardoned-blackwater-contractor-at-peace-feels-he-acted-correctly-2021-1",
+      "originalUrl": "https://www.businessinsider.com/pardoned-blackwater-contractor-at-peace-feels-he-acted-correctly-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff09361a18a450018cb6843?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-02T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-analysis-how-trump-made-people-care-about-politics-again.md",
       "title": "Analysis: How Trump made people care about politics again ",
       "excerpt": "Love him or hate him, President Donald Trump made most Americans feel strongly about politics in a way no politician has in our lifetimes. Record numbers of Americans felt strongly favorable or unfavorable toward Trump during his time in office. (The strongly favorable and unfavorable was 71% in a Fox",
@@ -223,21 +275,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-02-lack-standing-rep-gohmerts-lawsuit-against-pence-to-overturn-election-results-thrown-out.md",
-      "title": "'Lack standing': Rep. Gohmert's lawsuit against Pence to overturn election results thrown out",
-      "excerpt": "U.S. District Court Judge Jeremy Kernodle, a Trump appointee, said Rep. Louie Gohmert and a group of other Republicans on the lawsuit \"lack standing.\"",
+      "path": "_news/2021-01-02-congress-overrode-trumps-veto-the-presidents-response-pathetic.md",
+      "title": "Congress overrode Trump’s veto. The president’s response? ‘Pathetic!!!’",
+      "excerpt": "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/01/louie-gohmert-lawsuit-mike-pence-overturn-election-dismissed/4110658001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/01/louie-gohmert-lawsuit-mike-pence-overturn-election-dismissed/4110658001/",
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/02/USAT/32a81da4-b1df-4ef8-afbe-c07d5c251c43-AP_House_Election_2020.jpg?auto=webp&crop=5207,2929,x0,y264&format=pjpg&width=1200",
+          "url": "https://www.chicagotribune.com/resizer/lQDdyaU0W5nDFfAqhNYmilsO5gA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXUYFAUSS3L7H674HBQSWUFGNA.aspx",
           "width": 1200,
-          "height": 675,
+          "height": 689,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -245,16 +297,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4110658001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110658001",
-      "publishedDateTime": "2021-01-01T17:50:00-08:00",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-01T17:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -271,7 +323,7 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Donald Trump"
       ]
     },
     {
@@ -283,7 +335,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -383,21 +435,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-02-mike-pence-seeks-dismissal-of-lawsuit-aiming-to-give-him-the-power-to-overturn-election-loss.md",
-      "title": "Mike Pence seeks dismissal of lawsuit aiming to give him the power to overturn election loss",
-      "excerpt": "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election.",
+      "path": "_news/2021-01-02-pence-seeks-dismissal-of-suit-aiming-to-overturn-election.md",
+      "title": "Pence seeks dismissal of suit aiming to overturn election",
+      "excerpt": "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presiden",
       "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html",
-      "originalUrl": "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html",
+      "webUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 440,
       "tags": null,
       "images": [
         {
-          "url": "https://www.baltimoresun.com/resizer/iARlxazmNR8X1fSIfihORnQNHP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PY662SKRXJBAMWDRX5CNP3SDXU.jpg",
-          "width": 1200,
-          "height": 877,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -405,14 +457,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-vice-president-mike-pence-election-lawsuit-20210101-wzns4se3k5h27hpli5f5kikf5q-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-01T12:16:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-01T11:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -642,7 +703,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -751,7 +812,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -969,7 +1030,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1130,7 +1191,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/chief-justice-john-roberts-lauds-judiciary-pandemic-response/4101264001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -1238,7 +1299,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 461,
+      "heat": 481,
       "tags": null,
       "images": [
         {
@@ -1279,59 +1340,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-joe-bidens-approach-to-latin-america-will-be-major-departure-from-donald-trump.md",
-      "title": "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump",
-      "excerpt": "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
-      "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1306,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1696572/joe-biden-latin-america.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
-      "publishedDateTime": "2020-12-31T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

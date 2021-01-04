@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spen
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Chicago Tribune
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Trump lashes out at ‘weak and tired’ Republican congressional leadership"
-    excerpt: "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance."
-    publishedDateTime: 2020-12-30T00:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "pN65uhiAXwyd4kWvMGX1wmnGExlSMG25DEHefsdFCthMJQzjv9YqgbQjTsrWZfLDH9SBKy8dY1dlP1v3/T1O+At4n9DQ9iQyyV+OHmpVpi7Iz9sChVHrsLZryKVA2breqhJg0Sx3qeVWQF2kzrlNgxwqK1g7LLpY4+fUAg4YCEDF0GzpGgmpB4Yl3WxhNYZy8oFR3OeXUpKizrnxx+SbUD8Ng9j1txt60ZFgN67akTMEGAH1fDu6eoAqhzCFUfLRsjaX68CJWL0Pffx4NXoMnSYNXP7quCCk7EjFx0biAaLZpgy0HTFjeqpxtLitOxrqONMRS5c+O3+yJBoxAjouCrrUFCAxSEso1omSrLI+f6I=;27kU6Au5ejwVtyeCaiiAQw=="
 ---

@@ -866,6 +866,22 @@ related:
         width: 493
         height: 768
         isCached: true
+  - title: "Trump and Biden head to Georgia for dueling rallies on eve of pivotal Senate runoffs"
+    excerpt: "The dramatic clash comes just a day after reports surfaced of Trump’s new effort to pressure election officials to overturn his defeat in the presidential vote."
+    publishedDateTime: 2021-01-04T14:16:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 83
+    images:
+      - url: "https://www.nydailynews.com/resizer/zGp9-DqHnTtapD4TEFOai1grPis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZJN2Q5IPVEMDMOGTVOWNQZCJ4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Georgia Senate runoffs could close door on Trump era — or cripple Joe Biden’s presidency before it starts"
     excerpt: "With the U.S. set to inaugurate a new president in just two weeks, the Georgia Senate runoffs have become the second most important election in recent history — with nothing less than control of the entire U."
     publishedDateTime: 2021-01-04T04:00:00Z

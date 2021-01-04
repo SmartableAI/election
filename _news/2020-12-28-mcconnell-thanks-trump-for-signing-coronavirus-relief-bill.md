@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad"
+    excerpt: "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election."
+    publishedDateTime: 2021-01-02T12:46:00Z
+    webUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5ff059d5a18a450018cb6824?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z
@@ -206,6 +222,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
         width: 817
         height: 545
+        isCached: true
+  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
+    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
+    publishedDateTime: 2020-12-30T22:32:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "In Stimulus Battle, Donald Trump Was No Match For Mitch McConnell, Who Shaped His Presidency"
     excerpt: "Is McConnell's legacy more transformative than Trump's? The Senate Majority Leader took Trump under his wing, got his judges appointed and tax cuts passed, but clashed with him in the president's final days."

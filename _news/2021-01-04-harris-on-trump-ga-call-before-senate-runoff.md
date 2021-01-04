@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
+    excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."
+    publishedDateTime: 2021-01-04T13:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/04/kamala-harris-trump-call-to-georgia-secretary-of-state-abuse-of-power-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/121221546319d71ceab74c8609f6eaeaf396fb3c/0_247_4254_2553/master/4254.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3a4e9fc63f7fa23de3227e629c8e2a1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Republicans React to Donald Trump Pressuring Georgia Official to 'Find 11,780 Votes'"
     excerpt: "Some Republicans reacted strongly to President Donald Trump pressuring Georgia Secretary of State Brad Raffensperger to \"find me 11,780 votes,\" but most GOP lawmakers remained silent on Sunday as their Democratic colleagues condemned the \"immoral\" effort to reverse his election defeat to President-elect Joe Biden."
     publishedDateTime: 2021-01-03T22:29:00Z
@@ -202,6 +216,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1696972/donald-trump-air-force-one.jpg"
         width: 2004
         height: 1362
+        isCached: true
+  - title: "Former Mueller prosecutor says the call of Trump asking a Georgia official to change the election results shows 'criminal intent'"
+    excerpt: "Andrew Weissmann said President Donald Trump's call contained evidence of crimes, though legal experts are split on whether Trump will face charges."
+    publishedDateTime: 2021-01-04T03:19:00Z
+    webUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-trump-georgia-call-shows-criminal-intent-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-trump-georgia-call-shows-criminal-intent-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-trump-georgia-call-shows-criminal-intent-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff2fd053793140019e281bc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump pushes Georgia secretary of state to 'find' votes during phone call, Washington Post reports"
     excerpt: "The Washington Post released audio excerpts of a call in which Trump pressures Raffensperger to \"find\" enough votes to reverse his election loss."
@@ -247,6 +277,20 @@ related:
         width: 950
         height: 534
         isCached: true
+  - title: "Trump pressured Georgia's secretary of state to 'find' votes – live"
+    excerpt: "Trump and Biden campaign in Georgia ahead of Senate runoff races after the president pressured Brad Raffensperger to ‘find’ ballots to allow him to win"
+    publishedDateTime: 2021-01-04T14:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/04/donald-trump-georgia-votes-joe-biden-brad-raffensperger-senate-covid-coronavirus-us-politics-live?page=with:block-5ff328948f08d0452b08bda0"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/de284ff3b3814c63a1fecf64564347c249b5431d/0_422_5693_3417/master/5693.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ba9bc68dcf79f00a3da99445ad329b37"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's phone call to Brad Raffensperger: six key points"
     excerpt: "Conversation between president and Georgia’s secretary of state laid bare Trump’s determination to cling on to power"
     publishedDateTime: 2021-01-04T03:42:00Z
@@ -261,7 +305,7 @@ related:
   - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
     excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
     publishedDateTime: 2021-01-04T12:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/"
     ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
     type: article
@@ -372,6 +416,22 @@ related:
         isCached: true
   - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
     excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
+    publishedDateTime: 2021-01-03T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4119965001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4119965001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/3ea90e02-f23e-434a-a69b-42465296e1f5-Kamala5.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
+    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
     publishedDateTime: 2021-01-03T21:34:00Z
     webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
     ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
@@ -402,6 +462,17 @@ related:
         width: 1024
         height: 657
         isCached: true
+  - title: "Kamala Harris on Trump call: A bold abuse of power"
+    excerpt: "Vice President-elect Kamala Harris reacts to audio obtained by the Washington Post of President Donald Trump pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the elect"
+    publishedDateTime: 2021-01-04T13:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
   - title: "‘Trump Tapes:' Listen To Recordings Of President Urging Georgia Official To 'Find Votes'"
     excerpt: "The Washington Post released a phone call recorded Saturday of President Donald Trump attempting to persuade Georgia’s Secretary of State Brad Raffensperger to overturn state election results. While there has been no evidence of voter fraud in Georgia,"
     publishedDateTime: 2021-01-03T22:56:00Z

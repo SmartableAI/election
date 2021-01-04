@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
+    publishedDateTime: 2020-12-30T19:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
     excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
     publishedDateTime: 2021-01-04T05:27:00Z

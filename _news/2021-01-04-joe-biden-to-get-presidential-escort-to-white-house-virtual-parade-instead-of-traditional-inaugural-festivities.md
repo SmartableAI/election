@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
 excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
-publishedDateTime: 2021-01-03T23:21:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
+publishedDateTime: 2021-01-03T22:19:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+ampWebUrl: "https://amp.azcentral.com/amp/4120484001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4120484001"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -214,6 +214,6 @@ related:
         height: 683
         isCached: true
 
-secured: "21CvXyT1ZhnpzY3cDr2iDfFF38okqyVILnTE2UYJRpVIROl19UbZ4JiEGBEV+qrAdQDc9zlpbaqHEvq6CeMPNlqVPLLT/gf/eoqynBMjxTIboLrONlZEX/U7A7uyMIMUiX7e4Rmg66LN+jMhuJZqcq44XcRWXmn9L2aXeuo6ezkspWwAURUgoPA06EsHJv2C2PIFMqs+/umdeOoX6O6mpiN+SkUmHL5EuFymVsNardhkFBHVjTyddUF9LT69H1L8B8/5zb4j4tOPyaRWfMR+CbMJTQEFqYDwVl/lzr/D6BuNIMbdkfwFi92oeT9Y7SyeBg6qEkn78i0+/7IclAqvWF2BJhP7dhmTJMaBjGbmH07sx8XcgxdkuKRvpKV1XpnPkZuR66WQ+NyzKsg5NsyluS/tLAaZrVmyNaBLAMCsWtgIOSts5vlZNakYYXZIW7n1+nggfeAwc/K9wM19m9FiLINL9ezP4Jsilzg7LUUKA53Dfd4LFPqiJQhp/1Z5a0wt7l7vGTNWMEfOVCBigcHDmg==;IFahyCWzHYjOGwjb9Zf85Q=="
+secured: "2Clntg5iQxp2s3lKEKlYP8aVf0IFqsT2taXp68b99fAEmmjuKChELZbBw2BUUgBEJIORH+qXtYCJ4w9dYalS4jtWYR8PcOt6AEGBFG1HcTFS9Uj60FCZasGkj5k5TauWiO9VZIJ4+RgHo0d+usDGhMKAzNY+pPP3KPb9bIj3O6wugOeC/t8fBl/VCiAF2vhAAt9+1aKHrlJsduzXDHUYhuDce+lc+XiEgTUfsbWOisX5Hl8QTQbC7imHQ5lqzP334aVTv5LhbGBHsl2/3pCw53EcMgSaXU61M3b3kPB5pD/DwL9DdNEBxIFavvypdSYHSHbp9m9tMlHI1hy4b1zHL6oekIpD7KPv0Tr8DDQsDEo=;ANkzh1/ZmQWHPPoGf5rK8A=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-25-transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing.md",
+      "title": "Transition 2020: Biden allies push back on sweeping plan to promote fair housing",
+      "excerpt": "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
+      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
       "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
       "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
@@ -1635,62 +1692,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-jill-biden-says-her-doctorate-is-among-her-proudest-achievements-i-worked-so-hard-for-it.md",
-      "title": "Jill Biden says her doctorate is among her proudest achievements: 'I worked so hard for it'",
-      "excerpt": "Jill Biden was surprised by a recent newspaper op-ed piece suggesting she stop using the \"Dr.\" title before her name, she told TV host Stephen Colbert on Thursday evening.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
-      "publishedDateTime": "2020-12-18T05:21:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

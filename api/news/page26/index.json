@@ -2,58 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-11-21-less-pomp-and-circumstance-biden-inauguration-likely-to-be-scaled-down-affair-in-response-to-covid.md",
-      "title": "Less pomp and circumstance? Biden inauguration likely to be scaled-down affair in response to COVID",
-      "excerpt": "Joe Biden's inauguration in January is expected to look a lot different than previous presidential inaugurals. The reason: COVID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6278654002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6278654002",
-      "publishedDateTime": "2020-11-21T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-21-biden-team-slams-treasury-decision-to-curtail-fed-lending-powers-calls-move-deeply-irresponsible.md",
       "title": "Biden team slams Treasury decision to curtail Fed lending powers, calls move ‘deeply irresponsible’",
       "excerpt": "The Federal Reserve and Treasury Department had a rare public falling out over whether the central bank should retain emergency lending powers.",
@@ -1302,6 +1250,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-biden-says-federal-reserves-interest-rate-policy-has-been-positive.md",
+      "title": "Biden says Federal Reserve's interest rate policy has been 'positive'",
+      "excerpt": "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
+      "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT",
+          "width": 825,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z34L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L",
+      "publishedDateTime": "2020-11-19T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

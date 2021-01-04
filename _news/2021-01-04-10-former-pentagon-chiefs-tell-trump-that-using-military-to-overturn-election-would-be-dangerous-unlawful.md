@@ -59,6 +59,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
+    publishedDateTime: 2020-12-30T19:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "wSPIgXHV+DmutX9HENF1wwJGoOwlmlLAE9YWpJS/UfPJO6NBS1FDQYFWjHq5kZmzyxfv6g+IhYY21z9Pw+EVjpmpvH041pcIfp6PLbxUAto0pkV5+Q/ayGhoXTz040UtSlzIFlk03oL3Zk+hKDR5fk6fuM1NbGQcy+2w82i8M28Zgts5G9i3SWr7nhbTbVZEoSwUZrulbM2Zdf9gYbfWPokEgBqqqjq/hfSbhoDLqsUdqYIjBMX0ZZAuIvojcGJWDlFydjcuAsw6V4CGdeBdA25DGp3UN5qPlcjZ+xJflS1Z6cpEkioGmqPvhpKX3J5/IqtxQbyf/XFUTiqfKVlVAObHrYPsNqkdKHDg1b/Ux0tR7e5ckZ9PvA0AdjGQHK098QFLNHz5tYSyoYS9auuZ/Ylj8uLRVoEFZ+x/Tif90adqjsO2sVPPsCMoS5dSnDnAxykEZqdStSWv6w0wA7vj32U5uQEKrWHsuUnfl9+oPVaGFPyG39dWqM8W1I6wj4TWNOPjeppTa6H5hvtaDjPcVw==;+VB1BkuGSiAfvaNet0wMgg=="
 ---

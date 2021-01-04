@@ -63,6 +63,22 @@ related:
         width: 360
         height: 233
         isCached: true
+  - title: "Georgia election: Donald Trump's phone call fact-checked"
+    excerpt: "The president made a string of claims in a phone call with officials in Georgia as he disputes the state's election result."
+    publishedDateTime: 2021-01-04T13:45:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55529230"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55529230"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55529230"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D8D0/production/_116340555_gettyimages-1230086798.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Republicans condemn GOP ‘scheme’ to undo election for Trump"
     excerpt: "The extraordinary Republican effort to overturn the presidential election was condemned Sunday by an outpouring of current and former GOP officials."
     publishedDateTime: 2021-01-04T00:07:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
         width: 818
         height: 545
+        isCached: true
+  - title: "Georgia elections board member says Trump could be charged for soliciting election fraud"
+    excerpt: "The sole Democrat on Georgia’s state Board of Elections said has called for a civil and criminal probe in a call in which President Trump pressured Secretary of State Brad Raffensperger to “find” more votes for him."
+    publishedDateTime: 2021-01-04T13:44:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/532485-georgia-elections-board-member-says-trump-could-be-charged-for"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/532485-georgia-elections-board-member-says-trump-could-be-charged-for?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/532485-georgia-elections-board-member-says-trump-could-be-charged-for?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 131
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald2_11052020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "In recorded call, Trump pressures Georgia election official to change results - Washington Post"
     excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
@@ -464,6 +496,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NJPOVSCIKBC25CJQ4T6HU27WNE.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
+    excerpt: "Efforts to involve the U.S. armed forces in resolving election disputes would take us into dangerous, unlawful and unconstitutional territory,” in an op-ed pieces signed by all 10 living former U.S. Secretaries of Defense."
+    publishedDateTime: 2021-01-04T14:00:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
+        width: 1200
+        height: 906
         isCached: true
   - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
     excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."

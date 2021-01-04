@@ -2,62 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-11-23-biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.md",
-      "title": "Biden to tap former Fed Chair Janet Yellen as Treasury secretary: report",
-      "excerpt": "President-elect Joe Biden will reportedly nominate former Federal Reserve Chair Janet Yellen to serve as Treasury secretary in his administration, which would make her the first female to hold the Cabinet post.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnQAEvCYeI0/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnQAEvCYeI0/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.amp",
-      "publishedDateTime": "2020-11-23T12:28:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-23-keilar-calls-sydney-powell-a-trump-scapegoat.md",
       "title": "Keilar calls Sydney Powell a Trump 'scapegoat'",
       "excerpt": "CNN's Brianna Keilar takes a look at Trump's legal team distancing itself from Sydney Powell, a lawyer who spoke at the campaign's press conference laying out its case for widespread voter fraud.\n    \n",
@@ -1364,6 +1308,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-less-pomp-and-circumstance-biden-inauguration-likely-to-be-scaled-down-affair-in-response-to-covid.md",
+      "title": "Less pomp and circumstance? Biden inauguration likely to be scaled-down affair in response to COVID",
+      "excerpt": "Joe Biden's inauguration in January is expected to look a lot different than previous presidential inaugurals. The reason: COVID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6278654002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6278654002",
+      "publishedDateTime": "2020-11-21T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

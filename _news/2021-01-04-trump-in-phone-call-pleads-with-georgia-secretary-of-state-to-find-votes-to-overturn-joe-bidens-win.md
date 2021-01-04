@@ -850,6 +850,22 @@ related:
         width: 493
         height: 768
         isCached: true
+  - title: "Trump and Biden head to Georgia for dueling rallies on eve of pivotal Senate runoffs"
+    excerpt: "The dramatic clash comes just a day after reports surfaced of Trump’s new effort to pressure election officials to overturn his defeat in the presidential vote."
+    publishedDateTime: 2021-01-04T14:16:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 83
+    images:
+      - url: "https://www.nydailynews.com/resizer/zGp9-DqHnTtapD4TEFOai1grPis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZJN2Q5IPVEMDMOGTVOWNQZCJ4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Is America's Most Admired Man In 2020"
     excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
     publishedDateTime: 2020-12-30T04:38:00Z
@@ -927,6 +943,6 @@ related:
         height: 683
         isCached: true
 
-secured: "zLFUAymwPSJVehCYr33GUxELgTgl6Ygg5fZ77acgI9Nk3OyKA87EL98v8nSJIsDh80PEAaJHwdxuCsRHk2oDrTusmedpeXpg/cXruhm0IwsmucJYztK6z4puHKZoeavnqPpfJ3rQBDccA+QIOUEIxhPe95GyDkfMQlcg8SWOHhnDFDxUkJIiToH+IKLgmUmhhcBEETyR0/2RpnW6+wBqLgOBl/4wfwROglqrYI/VgF8lmiQxOKTRriC8Vxz9nPz0SoxrSFGLt7RHRGZJ/Q47rwpmobh6sGhEyjyFufan1APVeMdNTPt1Cw0shH22mvVvBEIjwxteB2O+/KYK/HQP/+sqk5xq2RppjFrFhSdu/w4=;TPaKElSw7ReErHpjb7DYyA=="
+secured: "hDnIiA8yd6qcqau6IQ4+W0oXCiGdZ3FSLL0tNAR7qFtWRDy+rFZvFfK0UhOZVdxKNtPq42lyjMK+GQhs2onSNeB29+BIxpZz8antNcaMKL9J7wRn+JJnghUTTku6PBGHv4LfQ1uMNYp4UO63dsRHYWsxfsjfbqOHWxiqG+Tubw3V/ygV2Omo/v220bAA/gc9G/dCamH2FbiAh6F4H+I70G3OtOeIs1OH/4L+IMUwq2wrntEdLEAZHk+V7HsFbiVxENv3oifW8iiGgnmX4mBCYCOGxjVgd66eB48qfB9kpxoOJAEkrJSeg0DzLscM3ZT55DLtJBWHd0+ljyHLsOChjvH1DJ8F7tA6RRgxYyEFghylUNHYyxKNxoZo/JrLFSB75XLR2tBwPbT5XXRtMLrORxjysY9McnW+D288dRInsa+uMZpG8xOEFtEMdvtVSmO31/CdPe04AP6xLdfddUSsQg9yDFPleVWV2lI9U0q00cn7YyV6pKB4xxrgykW/JryK48KptiK59UuPbUShxFaeHw==;dQcJHqEN5SNO+BnOjlTpSA=="
 ---
 

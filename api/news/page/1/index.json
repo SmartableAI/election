@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-04-georgias-raffensperger-says-he-never-believed-it-appropriate-to-speak-with-trump-about-election.md",
+      "title": "Georgia's Raffensperger says he 'never believed' it appropriate to speak with Trump about election",
+      "excerpt": "The Republican secretary of state also said the call from Trump could warrant an investigation into possible conflicts of interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/georgia-s-raffensperger-says-he-never-believed-it-appropriate-speak-n1252724",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/georgia-s-raffensperger-says-he-never-believed-it-appropriate-speak-n1252724",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_01/3439355/2104-raffensperger-georgia-mc-1333_6dc343e5ae1cc75428f71b551b3578ad.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252724",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252724",
+      "publishedDateTime": "2021-01-04T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-with-kamala-harris-as-vice-president-expect-indian-americans-to-get-more-involved-in-politics.md",
       "title": "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics",
       "excerpt": "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,",
@@ -118,7 +175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 598,
+      "heat": 638,
       "tags": null,
       "images": [
         {
@@ -171,7 +228,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/harris-calls-trumps-plea-to-georgia-election-officials-an-abuse-of-power/2021/01/03/ae84f2e0-e5b6-4c9c-97c9-85f31345cd64_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 773,
+      "heat": 873,
       "tags": null,
       "images": [
         {
@@ -335,7 +392,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 259,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -872,7 +929,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 449,
+      "heat": 489,
       "tags": null,
       "images": [
         {
@@ -1286,58 +1343,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-a-former-blackwater-contractor-pardoned-by-trump-said-he-acted-correctly-and-feels-at-peace-for-his-role-in-death-of-14-iraqi-civilians.md",
-      "title": "A former Blackwater contractor pardoned by Trump said he 'acted correctly' and feels at 'peace' for his role in death of 14 Iraqi civilians",
-      "excerpt": "In an Associated Press interview, Evan Liberty showed little remorse for his role in the 2007 Baghdad shooting that killed 14 Iraqi civilians.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pardoned-blackwater-contractor-at-peace-feels-he-acted-correctly-2021-1",
-      "originalUrl": "https://www.businessinsider.com/pardoned-blackwater-contractor-at-peace-feels-he-acted-correctly-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff09361a18a450018cb6843?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

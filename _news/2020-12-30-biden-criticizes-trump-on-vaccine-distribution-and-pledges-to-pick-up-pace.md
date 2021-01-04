@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump directed Pentagon to reverse decision and keep aircraft carrier in Middle East amid Iran tensions"
+    excerpt: "At the direction of President Donald Trump, acting Secretary of Defense Christopher Miller ordered a US aircraft carrier to return to the Middle East following a White House meeting Sunday, according to a senior defense official.\n    \n"
+    publishedDateTime: 2021-01-04T14:42:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NS83Yq8XzdQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/uss-nimitz-aircraft-carrier-middle-east-iran/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/uss-nimitz-aircraft-carrier-middle-east-iran/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103225357-uss-nimitz-arabian-sea-11172020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration speeds up 'midnight rule-making,' creating hurdles for Biden"
     excerpt: "The administration's last-minute rules include contentious proposals that President-elect Joe Biden is likely to oppose."
     publishedDateTime: 2020-12-30T19:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4101264001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001"
 type: article
 quality: 126
-heat: 226
+heat: 246
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump presidential museum will have 'unconventional' story to tell"
+    excerpt: "An impeachment. A once-in-a-century pandemic and unprecedented post-election challenge. And that's just one year of the Trump presidency."
+    publishedDateTime: 2020-12-30T12:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/trump-presidential-museum-have-unconventional-story-tell/4084730001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4084730001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4084730001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/dd2d1f29-0dd9-4988-9dcd-de1126fa28d9-2019123_Trump_Tuesday_13.JPG?auto=webp&crop=4295,2416,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's Blackwater pardons an affront to justice, say UN experts"
     excerpt: "Rights experts say pardon of four contractors over Iraq killings undermine humanitarian law"
     publishedDateTime: 2020-12-30T10:17:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
-    excerpt: "All 10 living former secretaries of defense have joined in cautioning against any attempt to use the military in the cause of overturning November's presidential election"
-    publishedDateTime: 2021-01-04T08:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
     excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
@@ -111,6 +111,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
+    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
 
 secured: "7MUL1egpxLCVwRnIY+sAEJ2GW2i1su8vIWL+Lf6dQA3w4DXPXq7zn39LXOv3wihxwmO7d4wswuiaSfjoYXKbRgOncM3feQq8n9P0Pp2ZBXFc/dnJmNzbQXOsSMhOLW7obmYel9WuxkCSNcMaG36MEeaGdjkX13NyXeOfEam750u0blmBvLfMYIYdTqDjrq3qCoPVVz/opj5kkUEvDaRDABSkThJS+oXzE14FDNEKAbkprBNtHTq8VBHVOhm8quxWbi2ZtDqCNq7DRf6pz9ZZ7NSmxF6RDqdSulxAhpQk7vQMqRJhyVkkab5IrVvPZW83KJEO3fKopQWzZwx+n2AgO4QwZ87KllN6icoiwoAwZRE=;i3Dfh+6XDP6G6bxITKY5MQ=="
 ---

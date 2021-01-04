@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-30-us-election-pro-trump-rallies-see-scuffles-in-us-cities.md",
+      "title": "US election: Pro-Trump rallies see scuffles in US cities",
+      "excerpt": "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/election-us-2020-55292610",
+      "originalUrl": "https://www.bbc.com/news/election-us-2020-55292610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 800,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/election-us-2020-55292610",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610",
+      "publishedDateTime": "2020-12-30T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-resistance-formed-because-of-trump-with-an-assist-from-jon-ossoff.md",
       "title": "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff",
       "excerpt": "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing.",
@@ -111,58 +163,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-30-trump-lashes-out-at-weak-and-tired-republican-congressional-leadership.md",
-      "title": "Trump lashes out at ‘weak and tired’ Republican congressional leadership",
-      "excerpt": "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-29T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-30-donald-trump-and-michelle-obama-named-most-admired-in-gallup-poll-as-dems-split-2020-field.md",
       "title": "Donald Trump and Michelle Obama named ‘most admired’ in Gallup poll as Dems split 2020 field",
       "excerpt": "He lost the popular vote and the US election, but Donald Trump was named “most admired” man of 2020 in a new Gallup poll that left Democrats divvying up mentions.",
@@ -188,6 +188,58 @@
       "ampWebUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
       "publishedDateTime": "2020-12-29T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-trump-lashes-out-at-weak-and-tired-republican-leaders-after-house-votes-to-override-his-veto-a-disgraceful-act-of-cowardice.md",
+      "title": "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto: ‘A disgraceful act of cowardice’",
+      "excerpt": "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-29T12:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Chicago Tribune",
@@ -484,7 +536,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -796,7 +848,7 @@
       "originalUrl": "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-egregious-and-disgusting-trumps-pardon-of-blackwater-contractors-sparks-outrage-warnings.md",
-      "title": "'Egregious and disgusting': Trump's pardon of Blackwater contractors sparks outrage, warnings",
-      "excerpt": "Blackwater contractors convicted of killing 14 Iraqi civilians could jeopardize the safety of American military personnel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/12/23/trumps-blackwater-pardons-spark-outrage-fear-backlash-troops/4023126001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/6fc81074669057475a44043318ad93911be424c2/c=0-192-3200-1997/local/-/media/USATODAY/USATODAY/2014/06/29/1404096296000-AP-Blackwater-Trial.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4023126001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4023126001",
-      "publishedDateTime": "2020-12-23T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

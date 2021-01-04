@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-cal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
 type: article
 quality: 179
-heat: 259
+heat: 279
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."
+    publishedDateTime: 2021-01-04T13:16:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ketiHyVilo/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c6fe23-932a-43bf-87f6-0b4ef45fca04/61ca732d-2f3f-4628-a615-73896a80615d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
     excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."

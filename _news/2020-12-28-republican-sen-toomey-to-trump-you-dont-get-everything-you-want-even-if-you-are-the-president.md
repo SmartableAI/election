@@ -47,6 +47,54 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump to give ally Nunes the Presidential Medal of Freedom"
+    excerpt: "President Trump on Monday is expected to give Rep. Devin Nunes (R-Calif.) the Presidential Medal of Freedom, the nation’s highest civilian honor, according to someone familiar with the plans."
+    publishedDateTime: 2021-01-04T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYWUWHA2ZAI6VF32CWTHCDWW3I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
+    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
+    publishedDateTime: 2021-01-01T20:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Alert: Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
+    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
+    publishedDateTime: 2021-01-01T13:36:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "Hm3df6fyr7cUt9ZvxErzi7mTvuqSrhaBE7zLhpl/KvhIp7pGczUVhYDiCGy1QWkZG2amtNRgROdNKZUc62/ujjBUxV3RYsHIbU51pPWRjuleiVTVY8c4vlW8eJgjnrxfmNQOJt2b+/n/Orc/ftUSlYL7iRYXBxYhNP19WhbX0WFnxbtMEbmiV0jiYV/Y06j9omzJi8R4slfi0AfngzRxnVutP45yYDIQsTvTQLLSC8oZp5OUJ5xAqORYaUXfHWmAGg9w8TSSEus+jBEOWlk6ZL8i6nFRxWIntPjD1PInAYEWI47amPLUDH0+QSuKLYUiAoj4aoFdwWxrg4fgB6cm+LtOj1dTP7nXUXJ6IsHtpiaaJigfPMoZtBEvJxMUCnhBRJ5eO8ESmUXsD3okQ2JQGbNwPKldcHJr2fPhNyjZQiw4i7xu1/9n0+qplP3lJ2JGd9OssId+KZasJh7P7h+zdOG52k3GYMokdN4VuaSSzdJH+CBMitKW6BZShMuSAIpMILwY7iT9zmdAm0q2dAQDeA==;PY3ESUoOA+zu4tTINC248g=="
 ---

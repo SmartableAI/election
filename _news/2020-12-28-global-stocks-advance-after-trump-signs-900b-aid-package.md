@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
 type: article
 quality: 125
-heat: 365
+heat: 405
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Leave military out of it, former defence secretaries tell Trump"
+    excerpt: "Unprecedented letter calls on voted-out president to accept Joe Biden’s election victory amid growing fears over his behaviour"
+    publishedDateTime: 2021-01-04T01:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/leave-military-out-of-it-former-defence-secretaries-tell-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/leave-military-out-of-it-former-defence-secretaries-tell-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/leave-military-out-of-it-former-defence-secretaries-tell-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8cf09a05e8b6289779c9cbdff24e2570fd455214/0_66_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5cb0c074ddd38a0d2a371b27768caa25"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
     excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
     publishedDateTime: 2020-12-22T11:16:00Z
@@ -127,6 +143,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
+    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
+    publishedDateTime: 2020-12-31T11:16:00Z
+    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump returns to White House early, offers year-end message"
     excerpt: "WASHINGTON (AP) — President Donald Trump delivered a year-end video message Thursday after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the economy."
     publishedDateTime: 2021-01-01T12:23:00Z
