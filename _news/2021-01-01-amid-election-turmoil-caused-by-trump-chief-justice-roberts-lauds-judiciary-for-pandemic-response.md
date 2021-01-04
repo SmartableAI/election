@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4101264001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001"
 type: article
 quality: 126
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
+    excerpt: "All 10 living former secretaries of defense have joined in cautioning against any attempt to use the military in the cause of overturning November's presidential election"
+    publishedDateTime: 2021-01-04T08:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
     excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."

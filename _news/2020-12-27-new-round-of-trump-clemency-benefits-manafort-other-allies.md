@@ -121,6 +121,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "In recorded call, Trump pressures Georgia official to 'find' votes to overturn election"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call published by U."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN2990B7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990B7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990B7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
+        isCached: true
   - title: "In recorded call, Trump pressures Georgia election official to change results - Washington Post"
     excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
     publishedDateTime: 2021-01-03T20:03:00Z
@@ -459,17 +475,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "In Recorded Call, Trump Pressures Georgia Official to 'Find' Votes to Overturn Election"
-    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
-    publishedDateTime: 2021-01-04T04:08:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 62
 
 secured: "WVM8fVgd4pR33A9dQ6W8FSNtTXDHEwhtXwXJ0xz34lqUanwuZtsbiXaDT2yJq3CUjyMbFurRoCvf8xRi5X4DXzg4OMrKrgXSptq+odss+NcAmJXm2y8EjYfw48XS8rLbFtsvYwLi/eYReJn3Yu76jXfWQNa83SreC61J1ZWEAMAdI9xzT7JgewqBhWSo/y8ZQIUZvGJPQOb/GLNSx8UoE9I/dpfZUs8Bq0M8+UlTM4Dmy5n2p/zB33cmn86YHfGdurBGUQT7GwEicRGu5l7maqq+JTpAVtWislihfcnxkIoJEJzlnsTIJoSSzZBqMtYAPHEE4jHod070kMq9mOjmZhxWbtHN2SuZoSFZCatxHHE5EE858JUt7eetklOPxxyZ8cHRo21pB7C+C5PR5842pz1AVemsVOMvlyb40MELw+MVxPI63XBaCV19gNIFukn5VTGwgfXbHsNvbHCMjwoFGCbq1aUhbX3BuBh/g4gfBjHidDbSOAOs60DwWAgR83mIx4D9iFRLGcOscOzw+XPcgg==;BGt1EDAWKHRDqGRwSZopQQ=="
 ---

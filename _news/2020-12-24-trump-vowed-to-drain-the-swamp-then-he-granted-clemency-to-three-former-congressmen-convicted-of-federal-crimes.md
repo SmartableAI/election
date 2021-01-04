@@ -323,6 +323,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
+    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
     excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
     publishedDateTime: 2020-12-23T12:16:00Z

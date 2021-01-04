@@ -1,28 +1,34 @@
 ---
 category: news
-title: "In Recorded Call, Trump Pressures Georgia Official to 'Find' Votes to Overturn Election"
-excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
-publishedDateTime: 2021-01-04T04:08:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
+title: "In recorded call, Trump pressures Georgia official to 'find' votes to overturn election"
+excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call published by U."
+publishedDateTime: 2021-01-04T08:44:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN2990B7"
+webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN2990B7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990B7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990B7"
 type: article
-quality: 62
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+    width: 818
+    height: 545
+    isCached: true
 
 related:
   - title: "US election: Pro-Trump rallies see scuffles in US cities"
@@ -471,6 +477,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "9BVw5pnvZcu7wYnAleO4hdT4mp039exHH87cxAGMx8M1p3T0FZctsEFUSevcIs6D8sDCEI+BcuUYwb+fBz1a96e+1Cxp2hOlkb/hWgCL2v5xyXRj1GhMQgFCylhzN7N+GWIYzN7mUlryS7aXtLqpEBBfSYYK/xDrGP0FyzU+019eq/3abZpVyUcm98ZP4s8uBUKRB63PGlqBtsOBUMpiijN2W/ZJWfNqsQNZXRMPJO2/Lw7CFdKkMWK/a6bfQuN4e7Xx3W3wHwdGsMSb11HtRaGmMX8Z5BtlOEEtrt9Ox5NGcguNWkemuc0Cu3dz9Hao/NNqyhKwsGuS4F1wVSazXWD1LdyhLD/G6jhm4r7nkhHw5WZHNVBABrUyW8ecUO0DGLE1HG+XDuzq5HaxLULVgXoEWjUK1uN6mqoZ2jnyrrqTz4drnRL3E0tz0gWR8Ge+M96mVPIG/wkvi9tPNrQOUlKtGAimH0+EeWFTse1e0rNHWru5YxYRmaCy3sDgNas13ALKS00LDEl1lxflVjaetQ==;Dbe3cu5MiZTLchzuJodCgQ=="
+secured: "HP5bZm/BtEjMyHAlyoK5ECqaNvOtD6wD0iF5l4ptUu+hbMsA256Yd4yggD2ykTsBAWI//3t8mxFr2+ep0iTlZrvKCf6R7jIdZVlwfGvTNrkEAYjUe48J0ATjeyM+Eol4EOmYYxyF5GjnWkplaQHMD6vBS2IzYhP/XqCchEscqqWqgryWz8mvz/DmyO5OfHoIieHhrUTsG9JC+W7R1yt1qoFJ4UuKRMwLnO29dbiXZtx/WvdleKiO6u2wEwcNuFCKj0N3Bh6zWRWEh2MWR/c2+QBuLrE1361wliPZ4DbdGC2zedXeE2I37Yw+O7KnEuQKyi5FrcJ0zpCR1iS+UkkyJu2YG958A+KU5CgPLgXx5NA=;6cdEAXyNzlTcSAiHqrwVNw=="
 ---
 

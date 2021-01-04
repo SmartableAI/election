@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 957
         isCached: true
+  - title: "Donald Trump's Georgia Call Sparks Demands for Second Impeachment"
+    excerpt: "President Donald Trump faced calls for a second impeachment over the weekend after it was revealed that he had tried to pressure Georgia's Republican secretary of state to \"find\" votes that would have overturned the result of the presidential election in the state."
+    publishedDateTime: 2021-01-04T08:51:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1697089/president-donald-trump-golfing.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump, on tape, presses Ga. official to 'find' him votes"
     excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Tr"
     publishedDateTime: 2021-01-04T02:20:00Z
@@ -155,6 +171,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Republicans React to Donald Trump Pressuring Georgia Official to 'Find 11,780 Votes'"
+    excerpt: "Some Republicans reacted strongly to President Donald Trump pressuring Georgia Secretary of State Brad Raffensperger to \"find me 11,780 votes,\" but most GOP lawmakers remained silent on Sunday as their Democratic colleagues condemned the \"immoral\" effort to reverse his election defeat to President-elect Joe Biden."
+    publishedDateTime: 2021-01-03T22:29:00Z
+    webUrl: "https://www.newsweek.com/republicans-react-donald-trump-pressuring-georgia-official-find-11780-votes-1558597"
+    ampWebUrl: "https://www.newsweek.com/republicans-react-donald-trump-pressuring-georgia-official-find-11780-votes-1558597?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/republicans-react-donald-trump-pressuring-georgia-official-find-11780-votes-1558597?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1696972/donald-trump-air-force-one.jpg"
+        width: 2004
+        height: 1362
+        isCached: true
   - title: "Trump pushes Georgia secretary of state to 'find' votes during phone call, Washington Post reports"
     excerpt: "The Washington Post released audio excerpts of a call in which Trump pressures Raffensperger to \"find\" enough votes to reverse his election loss."
     publishedDateTime: 2021-01-03T20:06:00Z
@@ -199,17 +231,17 @@ related:
         width: 950
         height: 534
         isCached: true
-  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
-    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
-    publishedDateTime: 2021-01-04T00:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-defense-idUSKBN29901P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29901P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29901P"
+  - title: "Trump's phone call to Brad Raffensperger: six key points"
+    excerpt: "Conversation between president and Georgia’s secretary of state laid bare Trump’s determination to cling on to power"
+    publishedDateTime: 2021-01-04T03:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
     publishedDateTime: 2020-12-30T00:00:00Z

@@ -127,6 +127,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "In recorded call, Trump pressures Georgia official to 'find' votes to overturn election"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call published by U."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN2990B7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990B7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990B7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Stacey Abrams Refutes Comparison of Trump's Fraud Claims to Her 2018 Election Bid Ahead of Runoffs"
     excerpt: "\"It's not simply a different circumstance. It's apples and, you know, bowling balls,\" said the former Georgia gubernatorial candidate."
     publishedDateTime: 2021-01-03T20:24:00Z
@@ -449,17 +465,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "In Recorded Call, Trump Pressures Georgia Official to 'Find' Votes to Overturn Election"
-    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
-    publishedDateTime: 2021-01-04T04:08:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 62
   - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
     excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
     publishedDateTime: 2020-12-26T17:24:00Z

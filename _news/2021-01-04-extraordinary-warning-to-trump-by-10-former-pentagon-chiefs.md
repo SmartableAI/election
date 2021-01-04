@@ -1,22 +1,22 @@
 ---
 category: news
-title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
-excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
-publishedDateTime: 2020-12-28T19:06:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2920I0"
-webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2920I0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2920I0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2920I0"
+title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
+excerpt: "All 10 living former secretaries of defense have joined in cautioning against any attempt to use the military in the cause of overturning November's presidential election"
+publishedDateTime: 2021-01-04T08:02:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
+webUrl: "https://abcnews.go.com/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
-    width: 817
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
-    excerpt: "All 10 living former secretaries of defense have joined in cautioning against any attempt to use the military in the cause of overturning November's presidential election"
-    publishedDateTime: 2021-01-04T08:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extraordinary-warning-trump-10-pentagon-chiefs-75029997"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
     excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
     publishedDateTime: 2020-12-28T13:51:00Z
@@ -111,7 +95,23 @@ related:
         width: 757
         height: 545
         isCached: true
+  - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
+    excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
+    publishedDateTime: 2020-12-28T19:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2920I0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2920I0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2920I0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
+        width: 817
+        height: 545
+        isCached: true
 
-secured: "BIgFxB73k3SQ2gA2ooqLBgdWlDBE2mujZLb8i1fPfqnMQhsVXsS9gbtvXa+NOHafG+lAIjLGqfyNbuZfK57HsSXIqDb0Q1JNBWSSk/FUIvo+Xo7mByEXyzFxudHss6HNFvD8cxk+mjrH4ApmW/PL/BE/47UuIO4S86CY0CRXvLSRRu9lwW7cktab6Tqem1NjWwwmW/tPKW2oTBCPap0REVIzQAkHMCaiexEZCGeoo93XNoZbD1P7t7vUfhSYZ/kUuEX5dSuP2LSN/sy2ndgP12GiK4XEQqnYT++emHTBZHrVPAN88F1cuwDWOvAs7r8Xdiuzure6XHl+wCvWRQ+nUQl1lBBEQnML1IltZMABTS0=;g3VjyLClH485OYyPT0UscQ=="
+secured: "7sLEq2niUPFO9dvpQFvxu0wBnWnVCwKBgWfhMvFiTrlZyDZoJS1tdCLP5Rx47cUsWSKrDR2QWU/ZUG/CTVIINUnky0sOnYx90Enzvi9PC8F0nTCplKpGuhMWWX9M5uqWiQ4hQfLbbFg/p2pTwxNComcEozHyh4v5VzxYst+2/qRbwPMU/XrqhZzrhnhryUJvnUcR6lsyVhq2QaGKG+wZHEQV6oC5oORqsUn0p65+K7uyUClg2vEMBP2qafgyEP3mY9RLj0RQHwtO6TzjWIeTXIxOV5NGvzm5U1eJeoMyJXzoZct6txpDgLgvazOrHE32iOrp5SALkhKokwZyltznzjDESUvjPJFwnNgwu9FTZ54=;qwi+Ue9O4B8zpKWgU8DMMA=="
 ---
 

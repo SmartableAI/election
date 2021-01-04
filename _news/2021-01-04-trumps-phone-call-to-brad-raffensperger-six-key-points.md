@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
-excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
-publishedDateTime: 2021-01-03T21:34:00Z
-originalUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
-cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
+title: "Trump's phone call to Brad Raffensperger: six key points"
+excerpt: "Conversation between president and Georgia’s secretary of state laid bare Trump’s determination to cling on to power"
+publishedDateTime: 2021-01-04T03:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+webUrl: "https://www.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
 type: article
-quality: 71
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Savannah Morning News
-  domain: savannahnow.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
+  - Donald Trump
 
 related:
   - title: "Harris calls Trump's plea to Georgia election officials an 'abuse of power'"
@@ -243,17 +241,6 @@ related:
         width: 950
         height: 534
         isCached: true
-  - title: "Trump's phone call to Brad Raffensperger: six key points"
-    excerpt: "Conversation between president and Georgia’s secretary of state laid bare Trump’s determination to cling on to power"
-    publishedDateTime: 2021-01-04T03:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
     publishedDateTime: 2020-12-30T00:00:00Z
@@ -331,6 +318,22 @@ related:
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
+    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
+    publishedDateTime: 2021-01-03T21:34:00Z
+    webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+    ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
+    cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
+    type: article
+    provider:
+      name: Savannah Morning News
+      domain: savannahnow.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -457,6 +460,6 @@ related:
         height: 641
         isCached: true
 
-secured: "S3zj3X/c5sjsRMdmrlzqs/bXFuUiNTg2U7me0xuUhbZp9pO7Vi01uKO1pELiB+viSy68SwHXCNejB941tO5DQ6CDC2GCzSAH2EJTOuOSKFpzv/tdub1pmTSI9U21KV6JA8ixx2M/uLGEduAE2Ek6EVZXudguyBcUg5OVOoU7/g88IW8HhwQgEXR7lIICy+I4xhIvD0Htda/dM1Qp4py75l7VC2luP/lOvx9J+sZUmE50Ggkw147qMSwewQZnMpTFbZy/1RS97V6mNlJj7oHr6hfTDeNAQqDK37unc7A0RzH96ZjlSNanIM3uq4UDVK9nv9DP8rKfdtv44iJbqqSB7bebkgt9NVGh0oC5CscJIzKBK6IcTLmucf+f2o8ByiojUB+Zd9mBzGWoxpi49MacyPNmMLTw5xXljYLo9baHEYqi8mX/IISeHk3Tb+kzO4WSapJnR4a85dlw1fXoOApplRasqK30801Z/Dmb6zG0ywh53MwtAcrnSfxMB8Th/eO+dNTb5NXmqK8HkA0PRoDMAA==;J0Co42U5j+FGbBPnd2aoUg=="
+secured: "9Pvxr8iB95NFOS3gozCk6noCiq5avQpLyEuzM2Ww68xTGy7MjDlPUd0lzA3D0cgcytxT9CtYnOqpTu9cbNQjiZGft/N3m/8euzp5JquSGzqJq/iGQgjzqKfDI3VhHOUKgJ7LVi+X2FE+pzySx3tBjSvXK2iQZGB5BIwlaS/9Z7eUZloo783ODGkC3iJxKUh6YINFzi4qXzePjXNs875usjoDn5W7C53LueYJxgVQ0pBJzX/DsQjK9Wyk/DZOehd57AJwZj+rEUZMmAfbBc0m+xszkHjlgv8LEZvcFRSFbS+GW1z59sxrKGOgEQJBZHyl2Axt3Fzv+RXuZcyhygZoDXfFKVYsAgx4FwAWIsEIIyOQQLGOKhqUmPwaGYeDJ9ZtrwMWx5wAcTyb766qW1/37b+SCByU/19ATsccHn1WQTL9SKZKD3OCsehyGMGJsfaXH6KtKVLScTrBq/yvyYkd4NIKJs3daCzkOVWkk79UIzn+C+Blpo71/RomU7EVKRcygttGAdrtdLqHmiW+ENphlA==;IqClp8YySYLdh17zF9DLbg=="
 ---
 

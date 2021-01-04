@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
-excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
-publishedDateTime: 2021-01-03T21:34:00Z
-originalUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
-cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
+title: "Donald Trump's Georgia Call Sparks Demands for Second Impeachment"
+excerpt: "President Donald Trump faced calls for a second impeachment over the weekend after it was revealed that he had tried to pressure Georgia's Republican secretary of state to \"find\" votes that would have overturned the result of the presidential election in the state."
+publishedDateTime: 2021-01-04T08:51:00Z
+originalUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639"
+webUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639"
+ampWebUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
 type: article
-quality: 71
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Savannah Morning News
-  domain: savannahnow.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://d.newsweek.com/en/full/1697089/president-donald-trump-golfing.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -88,22 +92,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/miTadWLCHb1PR8GR3Sk5MEa_2Js=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BV5BLSHAXBFQDAOHPVSFAEZTCQ.jpg"
         width: 1200
         height: 957
-        isCached: true
-  - title: "Donald Trump's Georgia Call Sparks Demands for Second Impeachment"
-    excerpt: "President Donald Trump faced calls for a second impeachment over the weekend after it was revealed that he had tried to pressure Georgia's Republican secretary of state to \"find\" votes that would have overturned the result of the presidential election in the state."
-    publishedDateTime: 2021-01-04T08:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1697089/president-donald-trump-golfing.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Trump, on tape, presses Ga. official to 'find' him votes"
     excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Tr"
@@ -334,6 +322,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
+    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
+    publishedDateTime: 2021-01-03T21:34:00Z
+    webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+    ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
+    cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
+    type: article
+    provider:
+      name: Savannah Morning News
+      domain: savannahnow.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's Call With Georgia Officials To 'Find' Votes Could Be Illegal, Criminal"
     excerpt: "Trump pressured Georgia election officials to “find” 11,780 votes The president threatened the officials with “a criminal offense” The call could violate laws that prevent election fraud Donald Trump pressured Georgia’s secretary of state to “find” him enough votes to overturn the results of the 2020 election,"
     publishedDateTime: 2021-01-04T02:05:00Z
@@ -457,6 +461,6 @@ related:
         height: 641
         isCached: true
 
-secured: "S3zj3X/c5sjsRMdmrlzqs/bXFuUiNTg2U7me0xuUhbZp9pO7Vi01uKO1pELiB+viSy68SwHXCNejB941tO5DQ6CDC2GCzSAH2EJTOuOSKFpzv/tdub1pmTSI9U21KV6JA8ixx2M/uLGEduAE2Ek6EVZXudguyBcUg5OVOoU7/g88IW8HhwQgEXR7lIICy+I4xhIvD0Htda/dM1Qp4py75l7VC2luP/lOvx9J+sZUmE50Ggkw147qMSwewQZnMpTFbZy/1RS97V6mNlJj7oHr6hfTDeNAQqDK37unc7A0RzH96ZjlSNanIM3uq4UDVK9nv9DP8rKfdtv44iJbqqSB7bebkgt9NVGh0oC5CscJIzKBK6IcTLmucf+f2o8ByiojUB+Zd9mBzGWoxpi49MacyPNmMLTw5xXljYLo9baHEYqi8mX/IISeHk3Tb+kzO4WSapJnR4a85dlw1fXoOApplRasqK30801Z/Dmb6zG0ywh53MwtAcrnSfxMB8Th/eO+dNTb5NXmqK8HkA0PRoDMAA==;J0Co42U5j+FGbBPnd2aoUg=="
+secured: "6nVdN/6WqRO5MWKA70D8x8U4ck/EAE2GKmyU1gJmDQshji7FkHztJC/VGo6STO8pAXXWJ/AV4oRZZt+ybeLW7WR/VWl8QAbVIOXGqKJmzOT4ZwO93zrRycAPRvRqXu0cPHM6oHXF9nzWPKhhE6WH1lj5HMad4TlYXFJIDeQVhkCZPaOH9EGr94Hlrp6Fc8MaZifMDRl5YU67RAiHIjBVkdg1GVNtll6Pi6jIIqqP+RCb0XdlllLr462vUKmkRUDWV5ntgr3rczar9AW96lfgtjH+pu4OrJxHmdZwdcNBsY60gH8lgnhYMRe01JANHf06snnu5wbvPN64BddV0qWgCPgrS5qYxeFiM+lvHE9qrm0=;TG0mQ05Gtg4CRsWTGUrBcA=="
 ---
 
