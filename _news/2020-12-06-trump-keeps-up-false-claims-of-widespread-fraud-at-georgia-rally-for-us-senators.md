@@ -541,6 +541,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "As Donald Trump Causes Chaos for Georgia GOP, Democrats Pull Away in Runoff Polls"
+    excerpt: "Democratic Senate candidates Jon Ossoff and Raphael Warnock have pulled ahead of their Republican rivals in Georgia runoff polls, as President Donald Trump continued to cause difficulties for the GOP incumbents over the weekend."
+    publishedDateTime: 2021-01-04T10:59:00Z
+    webUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667"
+    ampWebUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1697180/democratic-senate-candidates-ossoff-warnock.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump heads to Georgia for two Republican candidates while pressing vote fraud claims"
     excerpt: "U.S. President Donald Trump headed to Georgia on Saturday for a rally aimed at boosting two Republican senators facing January runoffs, but some in his party worried he could end up hurting them by focusing on efforts to overturn his own loss on Nov."
     publishedDateTime: 2020-12-06T04:44:00Z

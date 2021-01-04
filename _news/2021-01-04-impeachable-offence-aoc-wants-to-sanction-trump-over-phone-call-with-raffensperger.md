@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1524
         isCached: true
+  - title: "Trump 'just plain wrong' on fraud claims: Georgia Secretary of State Raffensberger"
+    excerpt: "Secretary of State Raffensperger joined \"Good Morning America\" for an exclusive interview after President Trump demanded he \"find\" more votes so he could win Georgia."
+    publishedDateTime: 2021-01-04T12:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/absentee-voting-01-gty-llr-201223_1608756959214_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Audio: Trump berates Ga. secretary of state Brad Raffensperger, urges him to ‘find’ votes"
     excerpt: "Listen to excerpts from a one-hour call on Saturday between the president and Georgia election officials."
     publishedDateTime: 2021-01-03T20:55:25Z

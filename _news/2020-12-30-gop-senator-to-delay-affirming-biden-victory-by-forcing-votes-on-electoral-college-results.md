@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Trump ally in the Senate leading the President's futile effort to challenge the Electoral College votes"
+    excerpt: "Republican Sen. Josh Hawley threw a political grenade into Washington last week when he announced his intentions to object when Congress counts the Electoral College votes on Wednesday -- a move that pits the youngest senator against Senate GOP leadership as well as some rank-and-file members who will"
+    publishedDateTime: 2021-01-04T12:07:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZngSMgAMb_M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/josh-hawley-electoral-college-count-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/josh-hawley-electoral-college-count-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy gives green light to conservatives' push to overturn Biden's win, as senior Republicans raise alarms "
     excerpt: "The top House Republican has quietly blessed an effort by conservative lawmakers to overturn President-elect Joe Biden's victory when a joint session of Congress meets later this week, even as other top congressional Republicans are raising alarms that the push could cause lasting damage to a pillar"
     publishedDateTime: 2021-01-03T20:23:31Z

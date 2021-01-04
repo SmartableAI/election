@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris receives coronavirus vaccination"
+    excerpt: "Vice President-elect Kamala Harris received a coronavirus vaccination on Tuesday in Washington, joining President-elect Joe Biden, Vice President Mike Pence and other leaders who have been inoculated."
+    publishedDateTime: 2020-12-29T16:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/harris-receives-coronavirus-vaccination-451886"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/60/e0/d835fb834c99bdf5803f3ef2acfd/harris-vaccine-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "etFdBQ4uDWkE7zI6a7MCZootwFUXn9zZsTOPsHapEevW/xWiEX/lEgZkULxQbdCf9pSPOYmQ9ab0M/umssLxavJe8mdm6Gdlg3hmsvjcE1GixOOxy4AuLePqP5d9CiRnvcBbWxfmqRgM6l4EbNvN9zxt6wXRCCSr4/wheFz+eu1yabp5lJOaKGF125HX4wE9c0s8sZWMb8yDNlDfwUDx1FBO8unj90woculDXjiLcDssm3FJKHGRHAKH7Iz4g/LmGmdpsyCrlwyI2OllWLlMl2eEWRSrK9DI03AxbpNZghhRYdoC0leZG2XMLo3NRvdMgaKArjqaLFjPV6jupFgaF1My7nj6+DBLcxaEPdnCv3/ZNmRXI4lBMy4pi7PpU0Rv1N/hcjx7Ts2zTBe9oZs5y0OxuZVuaODD9UTXWh+0ppDV1k0dVIvY926W9sTQIp3OBlFx6bidp6mbxyufUI7+mZ7iLY4gy2gl5Bo6WDxQc2fWhcGlhKjBJjFELpCCH/OqQc0iVU/AOxBZL182/POVpw==;kAKksHsPZCywAIfVLv82xg=="
 ---

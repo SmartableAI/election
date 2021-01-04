@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-asks-supreme-court-to-void-wi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
 type: article
 quality: 190
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "House Republicans Splitting Apart From President Trump"
+    excerpt: "Nev., talking about President Donald Trump's call for Congress to increase COVID-19 relief checks for individuals from $600 to $2,000. \"I'm the guy who campaigned for the president, contributed to the president and voted for the president,"
+    publishedDateTime: 2021-01-04T12:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531282_5_.jpg"
+        width: 750
+        height: 512
         isCached: true
   - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
     excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris lambasts Trump call with Georgia officials as 'bold abuse of power'"
+    excerpt: "Vice President-elect Kamala Harris slammed President Donald Trump and his call pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results, a \"bald-faced, bold abuse of power,\" in Savannah, Georgia, on Sunday.\n    \n"
+    publishedDateTime: 2021-01-04T02:54:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gpEQsIfTTrQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 198
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103182736-kamala-harris-trump-georgia-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Harris to campaign in Georgia in final days before Senate run-offs"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are poised to make a final push in Georgia ahead of the state's high stakes Senate run-off elections next week.\n    \n"
     publishedDateTime: 2020-12-30T10:30:30Z
@@ -48,35 +64,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress will have 0 Black women senators after Kamala Harris becomes VP"
-    excerpt: "Sen. Kamala Harris broke barriers as America's first female, first Black and first South Asian vice president-elect. But after her exit in January to join the Biden administration, there will be no Black women in the Senate.\n    \n"
-    publishedDateTime: 2020-12-23T19:35:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+  - title: "Trump's bid to steal Georgia exposes GOP election ruse"
+    excerpt: "Astonishing new evidence of a desperate President Donald Trump caught on tape trying to steal the election exposes the depth of his corruption and makes his Republican Capitol Hill allies complicit in his bid to thwart the will of voters.\n    \n"
+    publishedDateTime: 2021-01-04T07:12:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szs1_xXWE2U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 184
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Joe Biden is betting his presidency on this"
-    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
-    publishedDateTime: 2020-12-28T23:30:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
+  - title: "Trump and Hawley set off Republican meltdown with Georgia elections looming"
+    excerpt: "President Donald Trump is stoking division in the Republican ranks days before control of the Senate -- and the balance of power in Washington -- is decided in a pair of runoff elections in Georgia.\n    \n"
+    publishedDateTime: 2021-01-02T11:11:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OSSY2tvdG1I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/trump-hawley-electoral-college-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/trump-hawley-electoral-college-georgia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 188
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia senator fighting for reelection personally lobbied Trump to sign spending bill"
+    excerpt: "Republican Sen. David Perdue of Georgia spoke to President Donald Trump this week to personally lobby him to sign into law the omnibus spending bill that includes $900 billion in coronavirus relief, a person familiar with their conversation told CNN.\n    \n"
+    publishedDateTime: 2020-12-29T03:24:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BPeFbhZrQbs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/trump-signed-spending-bill-david-perdue/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/trump-signed-spending-bill-david-perdue/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Washington Post: In call, Trump demands Georgia officials 'find' votes to tilt election"
+    excerpt: "President Donald Trump pushed Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results after his loss to President-elect Biden, according to an audio recording of a phone call obtained by The Washington Post.\n    \n"
+    publishedDateTime: 2021-01-03T20:46:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yQuS9NvpMhk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103124447-brad-raffensperger-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +160,134 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia Republicans stick with Trump and support increased direct payments"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
+    publishedDateTime: 2020-12-29T17:03:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UggjTfRrxss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/georgia-republican-senators-support-2000-checks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
+    excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
+    publishedDateTime: 2021-01-03T17:19:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ckea81hJeXs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's conspiracy theory connecting Georgia's secretary of state to China"
+    excerpt: "In the waning days of his presidency, Donald Trump continues to spread nonsense conspiracies over the 2020 election and the officials who oversaw it, attacking Georgia's governor and secretary of state on Twitter Tuesday.\n    \n"
+    publishedDateTime: 2020-12-30T22:21:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fVUz1KEo3pY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/ga-sos-brother-trump-tweet-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/ga-sos-brother-trump-tweet-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130161114-raffensperger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read the full transcript and listen to Trump's audio call with Georgia secretary of state "
+    excerpt: "CNN has obtained the full January 2 audio call between President Donald Trump and Georgia Secretary of State Brad Raffensperger. Trump is joined on the call by White House chief of staff Mark Meadows and several lawyers.\n    \n"
+    publishedDateTime: 2021-01-04T02:22:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQXwjuC7C_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/trump-brad-raffensperger-phone-call-transcript/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/trump-brad-raffensperger-phone-call-transcript/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103150627-trump-raffensperger-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump, Biden head to Georgia in final campaign push ahead of Tuesday Senate elections"
+    excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump each will make one final in-person pitch in Georgia’s Senate race Monday ahead of the runoff elections on Tuesday. Biden is scheduled to travel to Atlanta to campaign on behalf of Democratic Senate."
+    publishedDateTime: 2021-01-04T12:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-head-georgia-final-campaign-push-ahead-tuesday-senate-n1252709"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252709"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252709"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439325/210104-georgia-runoff-mc-1137_78e072abc3712a94b802e35383c543ba.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "In call, Trump demands Georgia officials 'find' votes to tilt election"
+    excerpt: "President Donald Trump pushed Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results after his loss to President-elect Biden, according to an audio recording of a phone call obtained by CNN and first reported by the Washington Post."
+    publishedDateTime: 2021-01-03T17:30:00Z
+    webUrl: "https://www.cnn.com/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103124447-brad-raffensperger-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
+    excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
+    publishedDateTime: 2020-12-28T15:53:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/georgia-senate-runoff-back-in-spotlight-451418"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c2/b1/45795baf42ecbac2e1a9157a60f1/201228-kelly-loeffler-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump begs Georgia secretary of state to overturn election results in remarkable, hourlong phone call"
+    excerpt: "President Donald Trump begged Georgia's secretary of state to overturn the election results in a remarkable, hourlong phone call obtained by NBC News on Sunday. Excerpts of the call, which took place Saturday,"
+    publishedDateTime: 2021-01-03T19:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-begs-georgia-secretary-state-overturn-election-results-remarkable-hourlong-n1252692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252692"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_53/3439270/210103-donald-trump-jm-1333_78a4f783db996bd0c33a419cd5fe47a3.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump and Georgia candidates jockey to define the stakes of Tuesday’s runoffs"
     excerpt: "A last-minute scramble for messaging takes place ahead of a presidential rally and an election that will determine which party controls the Senate."
     publishedDateTime: 2021-01-03T18:07:00Z
@@ -144,19 +320,35 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "Kamala Harris receives coronavirus vaccination"
-    excerpt: "Vice President-elect Kamala Harris received a coronavirus vaccination on Tuesday in Washington, joining President-elect Joe Biden, Vice President Mike Pence and other leaders who have been inoculated."
-    publishedDateTime: 2020-12-29T16:51:00Z
-    webUrl: "https://www.politico.com/news/2020/12/29/harris-receives-coronavirus-vaccination-451886"
+  - title: "Trump urges Georgia election officials to ‘find’ votes"
+    excerpt: "In audio from a Saturday phone call obtained by The Washington Post, the president is heard pressuring Georgia election officials to reverse his election loss."
+    publishedDateTime: 2021-01-03T21:13:00Z
+    webUrl: "https://www.politico.com/news/2021/01/03/trump-georgia-election-454122"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 130
     images:
-      - url: "https://static.politico.com/60/e0/d835fb834c99bdf5803f3ef2acfd/harris-vaccine-773-ap.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/cf/f8/25ea870e4e9fbb63982dfb56b0ff/gettyimages-1293915838.jpg"
+        width: 2642
+        height: 1761
+        isCached: true
+  - title: "Listen to the full audio of Trump's phone call with the Georgia secretary of state"
+    excerpt: "In an astounding phone call, President Donald Trump for over an hour berated and threatened Georgia Secretary of State Brad Raffensperger, repeating various false claims about voter fraud and begging the Republican official to overturn the election results."
+    publishedDateTime: 2021-01-03T23:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/listen-full-audio-trump-s-phone-call-georgia-secretary-state-n1252696"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252696"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252696"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_53/3439288/210103-donald-trump-jm-1619_a67bfcb4b233682890956e527ecbe768.jpg"
+        width: 2500
+        height: 1663
         isCached: true
 
 secured: "ltJuJQ6lqUExCv3KI3bXSe1OgHsDUnsJh6mSRq+GDhshxA4EURUFPCWmLBZjUevjlNLGTbLv2NPaJeUgEJcjG1oFN25pqAgHqvZJXSM6DrbRuahYLtkM/swndhJaa3+DgnsWK1XMRtZkIl5ms922OjTWGtGtpN3O+t4vZCCvhoar83pwm/sEl3WuS3yJVhS54pxlvMfroMCN2iJGBFLb0f4IswtUXT4EyY03ZisnxYYEoLMsVC5Rveq8wz0iKk1tjcJPh/uFN7/ESxjjNHBTfEu9f+X3xtbg86e3+Zc9JjlpWYzlPh1n/mMdEaMVVVo5OTz2doTiB1Bvqrucy4XBoLjwVkgjtC+LBJvwEGmHWlE=;7muBxT12OFw6DZ8r13HNEQ=="

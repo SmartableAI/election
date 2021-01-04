@@ -3,8 +3,8 @@ category: news
 title: "Hunter Biden's Guilty Laptop"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-01-03T13:05:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
+webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
 type: article
 quality: 65
 heat: -1
@@ -56,7 +56,16 @@ related:
         width: 750
         height: 517
         isCached: true
+  - title: "Joe Biden's First 100 Days Are Critical"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-04T12:22:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/04/joe_bidens_first_100_days_are_critical_532619.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
-secured: "q4qAdsidx+rsESkTzj+2w330SNVDh4HvkNQ3R8/gUL1+ju1RLZyMrd/SVOrxBk1Ng1H8dLlpg0g3YYHzqLT72iWZnF0eRNCrX5O8GLlCkKda0wJ4LAN6lyqI6AR9XCUWL3ooUyMIFyTjthAr0AG9nE3DG7+DfsdnEwAS/LRRuMU00qsVBZWWmWozfJGAuNeN8+PX6lysnG1V1lOu87+bORWFmysoi8tgcMmOsB7TAEvSeqYZX+f0jcuGEjfC7thcLrAzxuafwsrzbGXPfsnCcfEoR2FbJLcBIfEPK+RqLZSn5f3h3see/K2pxKtjO5/da3yYCxsdcLZwThYcNNYB3dgv8VVP0i+7kN7xe0TgbGo=;8yMcjaNnbWwBzO7RJyrhGg=="
+secured: "A6rE1L4DcRokLHV0fjMLGekNgqomeRtjCKa8C4HyM0CBR7HJpNnpI2HRJdJSLO2Duq9kj/ZzU4U3XlFzlSoZu/2pJ38VI8IoPNOKMzNZ5YSkFdl7iEPPXi4JwVB5wdEb6FzyEBb+WSeeRGrxX+dKF36lqIQN9/lZCUs9Da33aORjFRcXhQvGBExdsCZg+1f7VDYHRMlFvWcztOYqTu2O7EbGiSEZ0lAhsgV1OgVoOCKTjNenfj72FASaA49MvjBMsH7B6wLxGl7p5PjYt4rdEMVqA55HQZ5lpN5XPRFTbR8SlJSHHm4j5XIM3RZZkPNAYLceluxzaHA3FT+L7T8jfGtzsMQtzQLPf+y4vkoZJk8=;p84Koy9PYaEhhQZIhh1YZQ=="
 ---
 

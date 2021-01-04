@@ -2,26 +2,30 @@
 category: news
 title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
 excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-publishedDateTime: 2021-01-03T19:54:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+publishedDateTime: 2021-01-04T03:12:00Z
+originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
+webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
 type: article
-quality: 74
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
+  - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -218,6 +222,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/ef50fd94529c5075f1f3ddf5a581dcdfec6735ae/0_152_5469_3282/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c54870c1ba952942958b6060f010ab75"
         width: 600
         height: 360
+        isCached: true
+  - title: "Live updates: Biden, Trump plan dueling events in Georgia ahead of Senate runoffs"
+    excerpt: "The president and president-elect both plan high-profile trips to a state where two Senate contests on Tuesday will determine which party controls the chamber in Washington."
+    publishedDateTime: 2021-01-04T12:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 135
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBB7HXHLXZHBLCJ7VNHMATDLNI.jpg&w=1440"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
@@ -907,6 +927,6 @@ related:
         height: 683
         isCached: true
 
-secured: "pAXyZMzvdOy/B32BiLrvLziBCT8p5++cU85bGAvC1QhirmU7XvSQ7FuiN7KVydX3WS8Y+i6VQpSQo69d5dbReD9bmiq2HnNKROVzKid5NUEHFG5FMZnkS5nfZvEYPxeWDhcFpRiY1AMm2WoRac4Z6lXqhkRxG3v8Z4QaKRb4PvEen7N5kvjPIGz9dqvhbeR+n2FyRwavT90HGdcl5bKFzQZz6IeVVgl+fjwFA1sYCGhqcgxHvp18n7Al3ZihGO2YgVmdTA928uaTZkMi7og0zYBeB3hXfcUxNh68grwNWCK2y1L4LM/cg9qm+WQ7SMn63HXSZZlUfcB/g7qVXBY0FmOKXGHgCJlW7cOKlXjxTYbf6otX9GniYJf/UJ4TfJ95Zku7M8dA7CdiHOwSUxUJJLZvw7sxOdZlUVh+Ic8Fu17msdpaeFpZeZIuW6uYk4FIfX+7Cct5ahcbnuWL4S0uGUveKsjwCOJtm1GaNCeeiK2dXdOkKoSTlB6nhQyeWg0pJQ2bP2pUWo4eoyONmZpreQ==;GWD5TGiV84j9/wrZzuH13w=="
+secured: "zLFUAymwPSJVehCYr33GUxELgTgl6Ygg5fZ77acgI9Nk3OyKA87EL98v8nSJIsDh80PEAaJHwdxuCsRHk2oDrTusmedpeXpg/cXruhm0IwsmucJYztK6z4puHKZoeavnqPpfJ3rQBDccA+QIOUEIxhPe95GyDkfMQlcg8SWOHhnDFDxUkJIiToH+IKLgmUmhhcBEETyR0/2RpnW6+wBqLgOBl/4wfwROglqrYI/VgF8lmiQxOKTRriC8Vxz9nPz0SoxrSFGLt7RHRGZJ/Q47rwpmobh6sGhEyjyFufan1APVeMdNTPt1Cw0shH22mvVvBEIjwxteB2O+/KYK/HQP/+sqk5xq2RppjFrFhSdu/w4=;TPaKElSw7ReErHpjb7DYyA=="
 ---
 

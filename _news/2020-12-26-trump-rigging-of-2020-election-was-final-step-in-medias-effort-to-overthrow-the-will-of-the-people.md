@@ -218,6 +218,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Republicans Splitting Apart From President Trump"
+    excerpt: "Nev., talking about President Donald Trump's call for Congress to increase COVID-19 relief checks for individuals from $600 to $2,000. \"I'm the guy who campaigned for the president, contributed to the president and voted for the president,"
+    publishedDateTime: 2021-01-04T12:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531282_5_.jpg"
+        width: 750
+        height: 512
+        isCached: true
   - title: "Trump's Stunning Achievement in Middle East"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-12-30T20:53:00Z

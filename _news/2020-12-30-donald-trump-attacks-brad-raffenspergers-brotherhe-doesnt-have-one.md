@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-attacks-brad-raffensperger-bro
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-attacks-brad-raffensperger-brother-1557917?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump 'just plain wrong' on fraud claims: Georgia Secretary of State Raffensberger"
+    excerpt: "Secretary of State Raffensperger joined \"Good Morning America\" for an exclusive interview after President Trump demanded he \"find\" more votes so he could win Georgia."
+    publishedDateTime: 2021-01-04T12:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/absentee-voting-01-gty-llr-201223_1608756959214_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Impeachable Offence': AOC Wants to Sanction Trump Over Phone Call With Raffensperger"
     excerpt: "\"If it was up to me, there would be articles on the floor quite quickly,\" Congresswoman Alexandria Ocasio-Cortez said."
     publishedDateTime: 2021-01-04T04:08:00Z

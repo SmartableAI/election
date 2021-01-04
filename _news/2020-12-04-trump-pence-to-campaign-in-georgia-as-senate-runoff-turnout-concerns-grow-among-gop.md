@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1463
+heat: 1483
 published: true
 
 provider:
@@ -525,6 +525,22 @@ related:
       - url: "https://i.insider.com/5fccf3b9037cbd00186141f7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "As Donald Trump Causes Chaos for Georgia GOP, Democrats Pull Away in Runoff Polls"
+    excerpt: "Democratic Senate candidates Jon Ossoff and Raphael Warnock have pulled ahead of their Republican rivals in Georgia runoff polls, as President Donald Trump continued to cause difficulties for the GOP incumbents over the weekend."
+    publishedDateTime: 2021-01-04T10:59:00Z
+    webUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667"
+    ampWebUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1697180/democratic-senate-candidates-ossoff-warnock.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump keeps up false claims of widespread fraud at Georgia rally for U.S. senators"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."

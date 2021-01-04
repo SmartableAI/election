@@ -541,6 +541,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "As Donald Trump Causes Chaos for Georgia GOP, Democrats Pull Away in Runoff Polls"
+    excerpt: "Democratic Senate candidates Jon Ossoff and Raphael Warnock have pulled ahead of their Republican rivals in Georgia runoff polls, as President Donald Trump continued to cause difficulties for the GOP incumbents over the weekend."
+    publishedDateTime: 2021-01-04T10:59:00Z
+    webUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667"
+    ampWebUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1697180/democratic-senate-candidates-ossoff-warnock.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump keeps up false claims of widespread fraud at Georgia rally for U.S. senators"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
     publishedDateTime: 2020-12-06T14:21:00Z
@@ -1050,6 +1066,6 @@ related:
         height: 630
         isCached: true
 
-secured: "h7oqLXl2s28quVfczxSrYfu6tD4Yfa2HLB8DnXGW/lFdQWpAT90dDYXagAEqVg8qsomN7qqRijjIVD7LxfYaoQE0OcEPSnP9f9gZ1EodtZa9FkyhFZt78eCMS7AkYNUc4XlNjTUT6Pkn0+HHV2C5SVVeEWxWIxVyQROF7ngzOn/dTZFwOVAGqpt63zVw1AqJcSeDg2nYDzp11bmd0mF19PcD3L372Vio90IoFAH9I68PW4b15KUGNMNyn8tiXWU3ze618E5/tJP7kJD14RJgoyM6z7x0FFeYeyLezqQngxgKyfffKlzxLtxlHL4KjgsewPTWAWpQ2PVcseyp3prWLFJ0XPwBO07unT5GDNT3QmM=;ys78i2gbct5AlwsUPdDYjw=="
+secured: "xkaV50eiaY2bibZA3F6aPpzPVUlkGFNoU4KlL0UMz4GcfMhAtG55IK8bOPWqKOysDw07ufzLnZ1GHGi2KCna6D86WbWkWe0j1KJdsIhycVdYATxdPZux8COg8+ebQmGgDMRTs1nXKIGN2+BCdSFt+moBAPLDPGv+mVX3b91f68jVqoJCoWwkpaoDXtxb09Iq9LNXJcp3FM4yTFgkgiZfas9f0F4D9Rlfp9W6oVrNh5GZ4kA98Rf6E5WtiTBHCTqv9TcFZlZZxz3IFEW7afxkacHrGibo4ae8FGVJaPsnynu3L7l1m9Y/SwjY/QgtJDFIOwy0DGiXi9rTDFQUTzRl4QUBCXSc7pQq+GAUCwGIHxJfL3aB7MP82gyM4MH4T3Yrs1xG7K+BSqmJMfPr1ci4332olWcaYDiw02AOT8l5uQ6SRa8uinnu1m9PFiDUVL9xipXZYAs4UrxJqYG2x05nHoi4flUdckiifCjoWNVJwEKeMgvy77xK5CFN47UZd4LkzLsrqbNoSX97aXTV44usAg==;FQohxo/8r3cxbz8UDRB0rg=="
 ---
 

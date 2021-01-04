@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live politics updates: Trump to award Rep. Devin Nunes with Medal of Freedom on Monday, reports say"
+    excerpt: "Trump and Biden head to Georgia Monday, a day after recordings surfaced of the president pressuring an official to flip the state's vote in his favor."
+    publishedDateTime: 2021-01-04T12:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/live-politics-updates-monday-donald-trump-joe-biden/4124328001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124328001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124328001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/17/USAT/1f50269e-828d-4288-804e-4405b6a1b050-GTY_1177258395.JPG?auto=webp&crop=4859,2733,x0,y126&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
     excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
     publishedDateTime: 2020-12-28T23:32:00Z
