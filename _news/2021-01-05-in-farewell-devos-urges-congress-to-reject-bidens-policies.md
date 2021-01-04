@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden flexes Georgia muscle alongside GOP in Senate races"
-    excerpt: "President-elect Joe Biden is going all-in to help Democrats win two Senate runoffs in Georgia that will determine which party controls the Senate in the critical early years of his administration"
-    publishedDateTime: 2021-01-03T03:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dcc086c33140494bacd1666507ef9e63_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden gets vaccine, says 'nothing to worry about'"
     excerpt: "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2"
     publishedDateTime: 2020-12-21T22:26:00Z
@@ -195,23 +179,7 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Joe Biden cometh, and he's bringing his czars to rule"
-    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
-    publishedDateTime: 2020-12-28T14:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
-        width: 1200
-        height: 700
-        isCached: true
 
-secured: "XMSxkctto7YVnf0DadJ/kBTmDNCbdik8NkuQBIXaHZvGGILMCHUZPyet0ZD5UgN8DAN3oA3EVAHjhvOC/YjMSVLjo0sGn5dQ7PqUNwA+n96FYSk5RSI0Vf754c9B9wOB/A/RWGagyrgATslwrPAEyg7U/21i2toPTG4VIEisHQElRRmaR0xwuCvX/rjcct8Ji//Fj5NJrs5niaUi62ezOWiGZ4wNcpmOe4ZOb77PfvIO94CJNofIjqae26A6jZAoECPLTL8PwjRd7y3o8J1/EyQ5cqO0xWWxrH1g+6cjQVSlXTpsRKtQAZ4rAKmSI7P63RYZI7TaVdFCYX6lysaGOpkl/JoCmQeH/P96rYywXQA=;bYebpDMBgJUgudY+S2Kg9w=="
+secured: "Ia205VJrh7BhAxUpPpx7Pw3PS/POgglou0TW442O7B2ZST9I4fGBSFQwwfUGpfsE4YFS/liQZKB68XDejDbwhPchKNSfI6mvpdKv6wuzsyjc556gbGa/dKF1J28T8f0xBvuFbusszC9B8uF5vGYGieKIQsfupVm31PGYgCPfvquAbYc3w1RzmQ9bl2IIHcLt3WRU44TkgPjjFuaiG7yZvXE3GaQaFTM6320OTzXhlupLV5CYlH4xhkrR1Dgxmyx5vBtrFHyHldzSGGM1ARYdnL+wJa1emh9xpixOVwfnyqetSFKc1H37x/FV1ypd+uSLRY8v6L0fn6j4rCbJe+4+1C4alVpc4qSzoLae93nN/uJlrAUWOOcO4I7evk/pv2eAcYYe/ob+zd6RsZOnKH1qYhZiZ5blkq1GwsnUhdScuQV3vHt8tLFB8vFVPaNhPo700MCxn6V7qBHrjXkS9nisp8ph9a7zd19VjF+AzufydTuuF3u1zTbDD5dmO8z/5WwKVX62YXMUhBZNvy0Fn7Mdyg==;dyVNrBTLGsfQPYuhIqctag=="
 ---
 

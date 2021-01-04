@@ -25,208 +25,140 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Global stocks advance after Trump signs $900B aid package"
-    excerpt: "Global stock markets have risen after President Donald Trump signed a $900 billion economic aid package, helping to reduce uncertainty as governments re-impose travel and business curbs in response to"
-    publishedDateTime: 2020-12-28T14:08:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
+  - title: "Biden during Georgia rally blasts Trump's 'whining and complaining'"
+    excerpt: "President-elect Joe Biden blasted President Trump for “whining and complaining” about the election outcome and urged voters in Georgia to deliver a Senate majority to Democrats ahead of the state’s Tu"
+    publishedDateTime: 2021-01-04T22:38:00Z
+    webUrl: "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining"
+    ampWebUrl: "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/biden_atlanta.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "WATCH LIVE: Senate considers overriding Trump veto on defense bill"
+    excerpt: "In the few days remaining, GOP senators are poised to assert traditional Republican spending and security priorities in defiance of a president who has marched the party in a different direction."
+    publishedDateTime: 2021-01-01T14:42:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-17T173230Z_116744963_RC255K9F2GIT_RTRMADP_3_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden flexes Georgia muscle alongside GOP in Senate races"
+    excerpt: "President-elect Joe Biden is going all-in to help Democrats win two Senate runoffs in Georgia that will determine which party controls the Senate in the critical early years of his administration"
+    publishedDateTime: 2021-01-03T03:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Travel/WireAP_9eca90799b1e4adb91d30dd45a42cb70_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dcc086c33140494bacd1666507ef9e63_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
-    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate"
-    publishedDateTime: 2020-12-30T05:40:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_3cd216cd1023408db0da90287b3279b1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Senate GOP blocks Democratic push for Trump's $2K checks"
-    excerpt: "Senate Majority Leader Mitch McConnell has blocked Democrats’ push to immediately bring President Donald Trump’s demand for bigger $2,000 COVID-19 relief checks up for a vote"
-    publishedDateTime: 2020-12-31T07:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump extends visa ban, health coverage policy advances"
-    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31"
-    publishedDateTime: 2021-01-01T01:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
+    excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
+    publishedDateTime: 2020-12-31T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMSD6R4UMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 934
         isCached: true
-  - title: "Stock exchange delisting 3 China companies under Trump order"
-    excerpt: "Three Chinese companies will be booted off the New York Stock Exchange this month under an executive order signed in November by President Donald Trump"
-    publishedDateTime: 2021-01-01T16:14:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/stock-exchange-delisting-china-companies-trump-order-75005174"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Trump extends visa ban; court clears health insurance rule"
-    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31"
-    publishedDateTime: 2021-01-02T01:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Leave military out of it, former defence secretaries tell Trump"
-    excerpt: "Unprecedented letter calls on voted-out president to accept Joe Biden’s election victory amid growing fears over his behaviour"
-    publishedDateTime: 2021-01-04T01:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/leave-military-out-of-it-former-defence-secretaries-tell-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/leave-military-out-of-it-former-defence-secretaries-tell-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/leave-military-out-of-it-former-defence-secretaries-tell-trump"
+  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
+    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/8cf09a05e8b6289779c9cbdff24e2570fd455214/0_66_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5cb0c074ddd38a0d2a371b27768caa25"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
-    excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
-    publishedDateTime: 2020-12-22T11:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3990756001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3990756001"
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
+    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
+    publishedDateTime: 2020-12-30T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
-        height: 676
+        height: 700
         isCached: true
-  - title: "Trump returns to White House early, offers year-end message"
-    excerpt: "WASHINGTON (AP) — President Donald Trump delivered a year-end video message Thursday after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the economy."
-    publishedDateTime: 2021-01-01T12:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-returns-to-white-house-early-offers-year-end-message-2020-12?amp"
+  - title: "Joe Biden cometh, and he's bringing his czars to rule"
+    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
+    publishedDateTime: 2020-12-28T14:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls"
-    excerpt: "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased."
-    publishedDateTime: 2020-12-23T15:31:00Z
-    webUrl: "https://www.cnbc.com/2020/12/23/stock-market-live-updates-futures-up-slightly-trump-knocks-stimulus-jobless-claims-ahead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 98
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106810836-1607962037161NYSE-Trading-Floor-Photo-20201214-Press-4-jpg?v=1607962445"
-        width: 6385
-        height: 4257
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Global shares rise, buoyed by relief after UK travel rules were eased, while Trump signals he may not sign off on $900 billion stimulus bill"
-    excerpt: "Shares increase after France relaxes rules on arrivals from UK, where a new strain of COVID-19 has millions in lockdown; Trump bashes stimulus bill"
-    publishedDateTime: 2020-12-23T10:56:00Z
-    webUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+  - title: "Kamala Harris on Trump call: A bold abuse of power"
+    excerpt: "Vice President-elect Kamala Harris reacts to audio obtained by the Washington Post of President Donald Trump pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the elect"
+    publishedDateTime: 2021-01-04T13:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://images2.markets.businessinsider.com/5fe315efa644880018193148?format=jpeg"
-        width: 789
-        height: 526
-        isCached: true
-  - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
-    excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
-    publishedDateTime: 2020-12-30T20:19:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump's $2,000 Checks Stall in Senate as GOP Blocks Vote"
-    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks stalled out Tuesday in the Republican-led Senate."
-    publishedDateTime: 2020-12-31T04:07:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Extends Visa Ban; Court Clears Health Insurance Rule"
-    excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31."
-    publishedDateTime: 2021-01-01T08:14:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
 
 secured: "aC7UoWxo4jaJ6OWTqQhZ8XDGP1wWWirnrxx2LnrzAlOe72KtSEBXx8G5c+ZDMWj31bX0J3pqcP6/eVEZJ+7GqakDlrT1V8eXZUjo59BaxaE18V5PudUE4JbRf9Mx2xzZB/fWAsn7YFaFKuhwGuIY5L2pL0NuwbhxOTyvxzh+kLNEHI4/zg62IVS9x8T8+Hm9PEXS7dsnUJhLpCu6Ws40Vb02jMPSefl5fTGZ6q7Hl/ifnepQW805MwIO+cnHDRVK7W/4Q8WKxJsXxT+2qiGVSFBVUjqLQUvm7tnltO6igkTNZKaBZCHPIWTBvP8G+3X4SWOYxi9oBF1/ES9Ohh/XX+CDUPkCIrufYUGznDi63y4=;7e+UqLFFKEHS4suwrvp73w=="
 ---

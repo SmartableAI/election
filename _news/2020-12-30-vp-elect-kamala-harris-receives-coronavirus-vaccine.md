@@ -181,17 +181,6 @@ related:
         width: 1200
         height: 891
         isCached: true
-  - title: "Kamala Harris on Trump call: A bold abuse of power"
-    excerpt: "Vice President-elect Kamala Harris reacts to audio obtained by the Washington Post of President Donald Trump pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the elect"
-    publishedDateTime: 2021-01-04T13:00:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 70
   - title: "‘This is about saving lives’: Vice President-elect Kamala Harris receives COVID vaccine on live TV"
     excerpt: "Vice President-elect Kamala Harris on Tuesday morning received the first dose of the COVID-19 vaccine on live television, urging Americans to trust not only the scientists who researched and produced the vaccines but frontline health care providers in communities across the country."
     publishedDateTime: 2020-12-29T16:38:00Z
@@ -208,6 +197,17 @@ related:
         width: 3149
         height: 2100
         isCached: true
+  - title: "Kamala Harris’ husband becomes first second gentleman"
+    excerpt: "Doug Emhoff, the husband of Kamala Harris will also be a part of history this January. Harris' historic victory will result in a whole new job title for her husband"
+    publishedDateTime: 2021-01-04T21:57:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
   - title: "Kamala Harris' husband Doug Emhoff breaks gender stereotypes by putting her career ahead of his as second gentleman"
     excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, is quitting his job to be second gentleman, breaking gender and race stereotypes."
     publishedDateTime: 2020-11-12T23:01:00Z

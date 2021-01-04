@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-issue-executive-order-midnigh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-issue-executive-order-midnight-regulations.amp"
 type: article
 quality: 190
-heat: 690
+heat: 710
 published: true
 
 provider:
@@ -428,6 +428,20 @@ related:
       - url: "https://assets.realclear.com/images/53/531150_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Biden: Georgia's Republican Senators \"Think They Swore An Oath To Donald Trump, Not The US Constitution\""
+    excerpt: "Campaigning on Monday afternoon ahead of Georgia's double Senate runoff election, former VP Joe Biden blasted Republican senators Kelly Loeffler and David Perdue. \"You have two senators now who think they don't work for you,"
+    publishedDateTime: 2021-01-04T22:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/biden_georgias_republican_senators_think_they_swore_an_oath_to_donald_trump_not_the_us_constitution.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 63
+    images:
+      - url: "https://assets.realclear.com/images/53/531361.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "kl9WTsDCrV3DO3CqJGRucrK2/oCvv2OPPrAG0le0GAIVykAjncTUwTNX96N3bzYbHxFL2BMGxlv9c/2kR9ndsqTcbku/FDvLVtaLfFqFpFamzHEMXSm0itOm21MgUTUkbTmTDIFx/apQnHXDMKQHJMqynOjJp5Xec2a4zrEj5AbAXuMJcLtLupyoszMoh1I+Ywtov7eboq4Q3IXspYDezlKbaqf7A0qYiEhswxhsRWmQUTNNU9gQFFiMS3rzBNc0+VDnQuKpP5Dyb91yce0/LIBKSZvCaKhiPsaL7BdWThVYeqc9sfeYAlLJHxFS3vBfm5SVK2oibnProv+1zz3IvocUXDHpww4pZ/2iuAsJRqM=;ryBapFkIt1pna/kulzpfuw=="

@@ -139,17 +139,6 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
-    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
-    publishedDateTime: 2021-01-04T08:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
 
 secured: "NDV/9Zdiaz4JIhgPcOGMAtjpSELMs9N7wleBtxvWsoiKCBKG8J4KY5w/RkI/8nVjGVs4V/Bp8K929mvRPLTeWLhJGiZArw8YOoJK/FkDLiZ3xNMm+gPLfthAy30Tf21baU7As5OsgJf7406JbLIxKw/KPBhaSUw+pfHEzYtYiZhkdbE9fYVLDVNd0MXAAvjJykO8K23gSFLSu3J6Awa4sWCvL2Cvr6+I4ry9Tu6TYZiGQH74YwNCeGgbIYgWtVNTpgNkktSU7V0nIRiqnMDRPSTaxzY+JarMrv0HWlppBDqJNYmvIWdgfRbNJ7Ft3Tb4pBwVjUDkzTtSsw+5YnM0MPDB915t01a8bXV/kuwcnX0=;+PSq6rLi1ZJqoAOYJIXmsg=="
 ---

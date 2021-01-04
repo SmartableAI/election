@@ -31,273 +31,135 @@ images:
     isCached: true
 
 related:
-  - title: "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election"
-    excerpt: "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\""
-    publishedDateTime: 2020-12-31T14:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
+  - title: "Biden during Georgia rally blasts Trump's 'whining and complaining'"
+    excerpt: "President-elect Joe Biden blasted President Trump for “whining and complaining” about the election outcome and urged voters in Georgia to deliver a Senate majority to Democrats ahead of the state’s Tu"
+    publishedDateTime: 2021-01-04T22:38:00Z
+    webUrl: "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining"
+    ampWebUrl: "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 127
+      name: The Hill
+      domain: thehill.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/biden_atlanta.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
-    excerpt: "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
-    publishedDateTime: 2020-12-29T09:23:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+  - title: "Biden flexes Georgia muscle alongside GOP in Senate races"
+    excerpt: "President-elect Joe Biden is going all-in to help Democrats win two Senate runoffs in Georgia that will determine which party controls the Senate in the critical early years of his administration"
+    publishedDateTime: 2021-01-03T03:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dcc086c33140494bacd1666507ef9e63_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump caves — but not before putting the GOP in an ugly spot"
-    excerpt: "Trump's failed gambit essentially cast a spotlight on his own party's refusal to provide more coronavirus relief."
-    publishedDateTime: 2020-12-28T16:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
+  - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
+    excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
+    publishedDateTime: 2020-12-31T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_1154f6e75c864b61b7c701643ce573dc_name_1___1920x1080___30p_00_00_08_29_Still015.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMSD6R4UMI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 934
         isCached: true
-  - title: "Iran says Trump is trying to fabricate pretext for war"
-    excerpt: "Tehran says it will defend itself forcefully as tensions rise ahead of anniversary of Suleimani killing"
-    publishedDateTime: 2020-12-31T23:26:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/3ccbc88064d062146765d0963a503be4ff308eaa/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9ecb355a5aed50a9e8e7cdbe5b75841"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
-    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
-    publishedDateTime: 2020-12-31T16:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Coronavirus updates: Trump points to states to ‘get moving’ amid a delay in vaccinations"
-    excerpt: "Officials had suggested the United States would be able to put shots in the arms of 20 million people by year's end, though just a fraction of that have received vaccines thus far."
-    publishedDateTime: 2020-12-30T16:09:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 116
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APTK7KCKT4I6XF5WJ247OL7UNM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "'We have to be remembered for what's been done,' Trump says on early return to Washington"
-    excerpt: "U.S. President Donald Trump returned to Washington early from his Florida resort on Thursday, keeping up his fight with Congress over a defense bill and coronavirus aid checks while chronicling the \"historic victories\" of his outgoing administration on Twitter."
-    publishedDateTime: 2020-12-31T20:46:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/trump-to-forgo-new-years-eve-in-florida-for-early-return-to-washington-idUKKBN2951BB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
-        width: 813
-        height: 545
-        isCached: true
-  - title: "Trump's demolition of the COVID-19 stimulus package could cost the GOP control of the Senate"
-    excerpt: "GOP Sens. Kelly Loeffler and David Perdue had put the passage of a stimulus bill at the front of their campaigns — until the president torpedoed it."
-    publishedDateTime: 2020-12-24T12:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Second stimulus check updates: Trump push on $2,000 checks flops as GOP-led Senate won’t vote"
-    excerpt: "Trump’s push for $2,000 COVID-19 relief checks was all but dead Wednesday after McConnell got through with it."
-    publishedDateTime: 2020-12-31T03:36:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 114
-    images:
-      - url: "https://www.chicagotribune.com/resizer/HF1EqsHWjRw8p8WqnW49_OAtTFw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AJ6MVS5QHVCIRJ7FWJBLSSUHLU.jpg"
-        width: 1200
-        height: 841
-        isCached: true
-  - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
-    excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
-    publishedDateTime: 2020-12-30T22:39:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_2f357c715d614abc9bda01408b0e6122_name_539dc5d6_3fff_11eb_b58b_1623f6267960_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
-    excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
-    publishedDateTime: 2020-12-28T17:31:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 111
-    images:
-      - url: "https://www.chicagotribune.com/resizer/BbKlJhyreDVCeAQ-IrynOg50Xhs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBGH3YHVYRAJNPZQ7NVOHRGOXA"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live politics updates: Trump to award Rep. Devin Nunes with Medal of Freedom on Monday, reports say"
-    excerpt: "Trump and Biden head to Georgia Monday, a day after recordings surfaced of the president pressuring an official to flip the state's vote in his favor."
-    publishedDateTime: 2021-01-04T12:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/live-politics-updates-monday-donald-trump-joe-biden/4124328001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4124328001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124328001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/17/USAT/1f50269e-828d-4288-804e-4405b6a1b050-GTY_1177258395.JPG?auto=webp&crop=4859,2733,x0,y126&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
-    excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
-    publishedDateTime: 2020-12-31T18:51:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CYVJC4SLRUI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
-    excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
-    publishedDateTime: 2020-12-28T23:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
-    excerpt: "President Donald Trump’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
-    publishedDateTime: 2020-12-30T04:04:00Z
-    webUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
+  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
+    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
+    publishedDateTime: 2020-12-31T11:16:00Z
+    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Second stimulus check updates: Trump signs pandemic relief and government-funding measure, averting government shutdown"
-    excerpt: "President Donald Trump signed a $900 billion pandemic relief package Sunday, ending days of drama over his refusal to accept the bipartisan deal that will deliver long-sought aid."
-    publishedDateTime: 2020-12-28T19:39:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
+  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
+    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
-    images:
-      - url: "https://www.chicagotribune.com/resizer/oRuLojso2KpX0I8a4AdC32hB5I0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IN2A2UTIVJBTNM6LN4XPPWDKFY.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live politics updates: Donald Trump to cut short Florida holiday, return to Washington; Fate of $2,000 stimulus checks remains uncertain"
-    excerpt: "A proposal from Senate Majority Leader Mitch McConnell to raise stimulus checks to $2,000 includes demands that Democrats are not likely to support."
-    publishedDateTime: 2020-12-31T04:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/politics-updates-presidential-transition-congress/4081382001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4081382001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4081382001"
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
+    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
+    publishedDateTime: 2020-12-30T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 92
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/28/USAT/2a9a7016-ec61-42b0-9a1f-1b80e7c29194-AP_Virus_Outbreak_Congress.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
-        height: 675
+        height: 700
         isCached: true
+  - title: "Joe Biden cometh, and he's bringing his czars to rule"
+    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
+    publishedDateTime: 2020-12-28T14:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris on Trump call: A bold abuse of power"
+    excerpt: "Vice President-elect Kamala Harris reacts to audio obtained by the Washington Post of President Donald Trump pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the elect"
+    publishedDateTime: 2021-01-04T13:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
 
 secured: "Z3pQOmRgpGkZeBfEUTX1ahXq0d7eKM76jAcDa1m5W+yXKCvFRZaBC/a4C7Zrb6wbWNXGt7Py8Jq9lOKf98dK2BcTpBT+bqZYO/bQjUflHD8/KY9j67W95NchQX0ncQCU2acvE95Tkyb8wI7/CB2FwMORXvkpBSBEOjFidr1giJ4Lw1kxOjTIGzoroad5vrCoje+l0oRgEqrnQpDH5TPdCeyiWA6ShKe1msoytIlITETkKxv/Ll75Mxs6eBP7CKYdxtR9F/YlCz6pxoYL6mt9mKgoh62u3bf5JUiqTsoNUjNswWC7DB8V5txhGcDbqtKCeudqxdW81dfcrQFj82Lqu9UhKgDtpLeT77yC7fVCyRs=;91wWcUqOlZ5fyXjXiwzAOA=="
 ---

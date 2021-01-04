@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Georgia election official slams Trump claims of widespread voter fraud as 'easily, provably false'"
+    excerpt: "Georgia election official Gabriel Sterling on Monday slammed President Trump for continuing to claim widespread voter fraud in the 2020 presidential election in Georgia, saying that the claims are “easily” and “provably false.”"
+    publishedDateTime: 2021-01-04T21:26:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j47HoeeD6WA/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: Trump turns his attention to Georgia, announces rally"
     excerpt: "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line."
     publishedDateTime: 2020-12-28T05:42:20Z

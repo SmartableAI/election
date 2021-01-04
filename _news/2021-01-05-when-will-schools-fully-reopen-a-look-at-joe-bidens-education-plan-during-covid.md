@@ -251,17 +251,17 @@ related:
         isCached: true
   - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
     excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
-    publishedDateTime: 2021-01-04T18:06:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    publishedDateTime: 2021-01-04T21:01:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 50
     images:
-      - url: "https://www.dailypress.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
+      - url: "https://www.baltimoresun.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
         width: 1200
         height: 675
         isCached: true
@@ -282,6 +282,6 @@ related:
         height: 683
         isCached: true
 
-secured: "qereijA6wyyH/LnDJggu3rr90vXhSfO3G4tjasbIhzR3x9N2ryHV+4s2zmJqdUjVIIxYvKN1pZe1yWPGbBt6DqQX3TM/7C1TTGNZYzr7nS/D39OFevyvryksy+1CkNpc1Bn1711wonjlRbIzZ7110/iyHtHH9xpFim/iyKRVc6uQ+umlPGx7ChIp2S0vTpvL3JskvFMlgmh9aAL6ui/ZtKiBO/I2jvj0PpNkiSxur26ckFhyuH54oi52Hk4CSqV9NByz1b+UkXzyaOAYvL0M43LFGfdoHbfYqVOP0Lf6d5A4FnfUHyzqAw2SkWX4fpIQL7Kzle0dcfdktIhIcU+ueb6+aepGnmYPFS3bF8W9aK0=;MPiQrJhovNryTqvlXD1wQA=="
+secured: "geNVsZJik9GbA4sC+t5QpmT20ZkS8Zq/U71oPTEAByFcd8haEB49kciRvuXrZVX69BnhbhrXmH3nhqdyifAt0FP/7tzGz33/+8MidRZlf3vK9CDhbcA4gr1I3+zUMpDPgkZbcG3fGunfP/X7Xf9gkBw5E7MGy97LmKcNeIiXXCcCeEF9nzaEEHSv8+gPf8Xa2/iQz7whvp6eMYXRHxe47TN2hOpJuVdaUfiY3ksdSc9YTLd3zHWdAdxiXB4+0vso1LRQv77SWREukpKow2/EmRKoTnhuTryKIK9VZnwhY0AixVT4ocXv3wzuULcJNrA10nUewBhjGISSzJiA/Mj5YIvM8EZaUnvvxlkiD/uPgxUZ4Gh49OxKlUSuIDktGqzS/AtG1/YpsYmuYmnSHBekbO5nQvxkwKdRq8Fgb+dH8u4u4QNilvT4JnS9Tl540Uq3Zk9miqIXWH45gVMDS0hC72AgYrtVohMxiEUPzA7y4vDzrGaG+3arfIcCZCISIASv06TPk/jsMIeHtb3zwKRFRA==;0Wyc5QJaDygCAlmRyT8yJw=="
 ---
 

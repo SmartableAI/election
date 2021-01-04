@@ -2,6 +2,375 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-29-biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate.md",
+      "title": "Biden criticizes pace of vaccine rollout, vows to accelerate",
+      "excerpt": "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines, saying it is “falling far behind.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-28T21:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-back-to-private-school-trump-executive-order-empowers-families-amid-covid-19-pandemic-education-secretary-betsy-devos-says.md",
+      "title": "Back to (private) school? Trump executive order empowers families amid COVID-19 pandemic, Education Secretary Betsy DeVos says.",
+      "excerpt": "Outgoing Education Secretary Betsy DeVos has long championed school choice — the overarching term for options beyond traditional public schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/15/USAT/201c5ec2-2f0b-40df-9cb8-9cacd9f82859-XXX_IMG_AP_TRUMP_A_USA_DC_1_1_4BNLNPAL.JPG?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4068332001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4068332001",
+      "publishedDateTime": "2020-12-28T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-russia-afghanistan-iraq-joe-bidens-foreign-policy-answers-through-the-years.md",
+      "title": "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years",
+      "excerpt": "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo98421829808",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808",
+      "publishedDateTime": "2020-12-28T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-trump-opens-up-federal-dollars-for-private-school-vouchers-amid-pandemic.md",
+      "title": "Trump opens up federal dollars for private school vouchers amid pandemic",
+      "excerpt": "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "originalUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "publishedDateTime": "2020-12-28T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-biden-calls-transition-obstruction-by-defense-department-irresponsible.md",
+      "title": "Biden calls transition ‘obstruction’ by Defense Department irresponsible",
+      "excerpt": "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "publishedDateTime": "2020-12-28T14:57:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-uss-nimitz-reaches-africa-takes-call-from-pence.md",
+      "title": "USS Nimitz reaches Africa; takes call from Pence",
+      "excerpt": "The Bremerton-based aircraft carrier departed Sinclair Inlet in April and there's been no announcement as to when it might come home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
+      "originalUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/28/PBKS/c7ca05f9-2f68-4df2-b0b2-aa5f450be227-nimitz_carrier_strike_group_supports_operation_octave_quartz_2.jpg?auto=webp&crop=985,555,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kitsapsun.com/amp/4063674001",
+      "cdnAmpWebUrl": "https://amp-kitsapsun-com.cdn.ampproject.org/c/s/amp.kitsapsun.com/amp/4063674001",
+      "publishedDateTime": "2020-12-28T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kitsap Sun",
+        "domain": "kitsapsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-give-mike-pence-exclusive-authority-on-which-electoral-college-votes-to-count-lawsuit.md",
+      "title": "Give Mike Pence 'Exclusive Authority' on Which Electoral College Votes to Count: Lawsuit",
+      "excerpt": "A group of Republican Trump supporters, including one Texas congressman, have filed a new lawsuit in a last-ditch attempt to overturn the election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596",
+      "originalUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1694055/mike-pence.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596?amp=1",
+      "publishedDateTime": "2020-12-28T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-walter-reed-doctor-who-criticized-trumps-hospital-drive-by-works-last-shift-after-being-removed-from-schedule.md",
       "title": "Walter Reed doctor who criticized Trump's hospital drive-by works last shift after being removed from schedule",
       "excerpt": "Dr. James Phillips, an emergency room doctor at Walter Reed National Military Medical Center, has been removed from his duty after publicly criticizing President Donald Trump's drive-by around the hospital after his coronavirus diagnosis.\n    \n",
@@ -122,7 +491,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -977,388 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-the-memo-could-pence-run-and-win-in-2024.md",
-      "title": "The Memo: Could Pence run and win in 2024?",
-      "excerpt": "Vice President Mike Pence is in the top class of 2024 GOP contenders as the Trump era nears its end.The firm expectation across the Republican Party is that Pence will be a candidate in 2024, unless Trump runs again.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024",
-      "originalUrl": "https://thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_121120getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/531372-the-memo-could-pence-run-and-win-in-2024?amp",
-      "publishedDateTime": "2020-12-25T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-squad-introduces-bill-for-2000-stimulus-checks-backed-by-trump.md",
-      "title": "'Squad' introduces bill for $2,000 stimulus checks backed by Trump",
-      "excerpt": "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 515,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
-      "publishedDateTime": "2020-12-25T09:38:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-live-updates-trump-briefed-on-nashville-explosion-that-appears-to-be-intentional.md",
-      "title": "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'",
-      "excerpt": "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
-      "originalUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp",
-      "publishedDateTime": "2020-12-25T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-americans-suffer-at-christmas-while-trump-golfs-and-sows-chaos.md",
-      "title": "Americans suffer at Christmas while Trump golfs and sows chaos",
-      "excerpt": "For Christmas this year, Washington is giving the country more pain.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inYzHPEBeqY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inYzHPEBeqY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224150348-trump-golf-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html",
-      "publishedDateTime": "2020-12-25T04:15:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-what-watchdogs-trump-leaves-office-with-key-ig-jobs-vacant-across-govt.md",
-      "title": "What watchdogs? Trump leaves office with key IG jobs vacant across govt",
-      "excerpt": "At least a dozen of the 38 presidentially appointed inspectors general will not be in place at the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/3c2c3290-0cf8-49e8-bf30-6fdfa08238ac-COVER.png?auto=webp&crop=1969,1108,x27,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4008278001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4008278001",
-      "publishedDateTime": "2020-12-25T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster.md",
-      "title": "Sidney Powell’s secret intelligence contractor witness is a pro-Trump podcaster",
-      "excerpt": "Lindeman, whose credentials were questioned in a recent civil fraud case, confirmed that she wrote the affidavit and said she viewed it as her contribution to a fight against the theft of the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASCOY2SFLQI6XLBKHLAPFOGO5M.jpg&w=1440",
-          "width": 1440,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-24T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing.md",
-      "title": "Transition 2020: Biden allies push back on sweeping plan to promote fair housing",
-      "excerpt": "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
-      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-24T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

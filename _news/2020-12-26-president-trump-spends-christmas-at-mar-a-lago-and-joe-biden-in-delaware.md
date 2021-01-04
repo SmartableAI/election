@@ -430,6 +430,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden: Georgia's Republican Senators \"Think They Swore An Oath To Donald Trump, Not The US Constitution\""
+    excerpt: "Campaigning on Monday afternoon ahead of Georgia's double Senate runoff election, former VP Joe Biden blasted Republican senators Kelly Loeffler and David Perdue. \"You have two senators now who think they don't work for you,"
+    publishedDateTime: 2021-01-04T22:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/biden_georgias_republican_senators_think_they_swore_an_oath_to_donald_trump_not_the_us_constitution.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 63
+    images:
+      - url: "https://assets.realclear.com/images/53/531361.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "EEZZFyBUeYlM6nZ/dddwsStJ+PBkEFuoxG6YoyInmr5aIGUcTU8C1yvGG/u+1kbBd/BxkrceL3F7dLbXkIT2VZNCENTooDtnnyMbEWdM5nGSZJg3mBObDAN/preU7omSKEwFwuoB81APyAXyaL5mL49u3PkJQNmc1SUVRIeLGWRDCVsVC36Q9wQdLPjoQok+P8D6LALDei+qPzSOwyeHRYaO364xUPCYsr7DRGeZ3UIc2RkVStljfFbWwFzk64w12e53q3HCmugqb5hFHQazr0RZ1xPnYj/Fsw/vfaFRlVGEt5Vu+nOYlsNVryIjxsY0wtcMg0xBxLlFBgd+iZ5etzTUb8jY6imZeSGR7t/GRApXBhXH+nur9XgjR+WspFON69mthLs/kdQbIs3Sc24TYfo2d64QHqMl82/uc0lfhgs5jJ5u4KVfluO8EGHRRoLV6RVVtJZJEHK22DAtf1w78xy3h9ieHxPKaEVfUFopeUT4JTRQ2VtX9MLyGVNYVdmDhjt2sX3rimmCuC02PBtghw==;U712UYCIjknvRp2mKcalSg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 305
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HTI4WRGXYI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 959
-        isCached: true
-  - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
-    excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
-    publishedDateTime: 2020-12-31T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMSD6R4UMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 934
         isCached: true
   - title: "Trump supporters plan rallies in Washington DC, experts warn extremists may attend"
     excerpt: "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend."

@@ -27,53 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden criticizes pace of vaccine rollout, vows to accelerate"
-    excerpt: "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines, saying it is “falling far behind.”"
-    publishedDateTime: 2020-12-29T05:06:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "Biden during Georgia rally blasts Trump's 'whining and complaining'"
+    excerpt: "President-elect Joe Biden blasted President Trump for “whining and complaining” about the election outcome and urged voters in Georgia to deliver a Senate majority to Democrats ahead of the state’s Tu"
+    publishedDateTime: 2021-01-04T22:38:00Z
+    webUrl: "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining"
+    ampWebUrl: "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://thehill.com/sites/default/files/biden_atlanta.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden criticizes pace of vaccine rollout, vows to accelerate"
-    excerpt: "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines and predicting that “things will get worse before they get better” when it comes to the"
-    publishedDateTime: 2020-12-29T21:19:00Z
-    webUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "WATCH LIVE: Senate considers overriding Trump veto on defense bill"
+    excerpt: "In the few days remaining, GOP senators are poised to assert traditional Republican spending and security priorities in defiance of a president who has marched the party in a different direction."
+    publishedDateTime: 2021-01-01T14:42:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: PBS
+      domain: pbs.org
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Joe Biden's top foreign policy challenges in 2021"
-    excerpt: "The top foreign policy challenges for President-elect Joe Biden's incoming team include China's assertiveness and rebuilding U.S. alliances."
-    publishedDateTime: 2020-12-30T15:04:00Z
-    webUrl: "https://abcnews.go.com/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
-    ampWebUrl: "https://abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-1-gty-er-201229_1609264991445_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-17T173230Z_116744963_RC255K9F2GIT_RTRMADP_3_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden flexes Georgia muscle alongside GOP in Senate races"
     excerpt: "President-elect Joe Biden is going all-in to help Democrats win two Senate runoffs in Georgia that will determine which party controls the Senate in the critical early years of his administration"
@@ -91,122 +75,87 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
-    excerpt: "In a farewell letter to Congress, Education Secretary Betsy DeVos urged lawmakers to reject policies supported by President-elect Joe Biden, and to protect Trump administration policies that Biden has"
-    publishedDateTime: 2021-01-04T18:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
+  - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
+    excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
+    publishedDateTime: 2020-12-31T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ac7c9c071d014d49aa21c6de04c480e1_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMSD6R4UMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 934
         isCached: true
-  - title: "Biden gets vaccine, says 'nothing to worry about'"
-    excerpt: "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2"
-    publishedDateTime: 2020-12-21T22:26:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/21/biden-gets-vaccine-says-nothing-worry-about/4000093001/"
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
+    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
+    publishedDateTime: 2020-12-31T11:16:00Z
+    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/64174d5b-87c9-41ea-a9eb-ca4e987ff3c5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden: Vaccine rollout 'falling behind’"
-    excerpt: "Posted [NFA] President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fall"
-    publishedDateTime: 2020-12-30T02:15:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMoO?now=true"
+  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
+    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 96
+  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
+    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
+    publishedDateTime: 2020-12-30T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5febd443e4b04d4457632ac3-1609290819689?location=LANDSCAPE"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
-        height: 674
+        height: 700
         isCached: true
-  - title: "Biden: Vaccine rollout has ‘fallen behind’"
-    excerpt: "Vaccine rollout has ‘fallen behind’ Posted . President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fallen"
-    publishedDateTime: 2020-12-30T01:54:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVDB2FLJZ"
+  - title: "Kamala Harris on Trump call: A bold abuse of power"
+    excerpt: "Vice President-elect Kamala Harris reacts to audio obtained by the Washington Post of President Donald Trump pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the elect"
+    publishedDateTime: 2021-01-04T13:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201230&i=OVDB2FLJZ&r=OVDB2FLJZ&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Congress opening new session as virus, Biden's win dominate"
-    excerpt: "Congress is preparing to convene for a new session with lawmakers sworn into office during a tumultuous period"
-    publishedDateTime: 2021-01-03T21:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-opens-session-covid-19-bidens-win-dominate-75020965"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden wants to fill federal court seats – but he needs to win the Senate first"
-    excerpt: "Trump went into overdrive on filling court seats, but the Democrats must win in January’s runoff or a Republican Senate will block them at every turn"
-    publishedDateTime: 2021-01-02T08:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/02/courts-biden-senate-democrats"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 101
-    images:
-      - url: "https://i.guim.co.uk/img/media/e5b25d91f19ef31e827ffe55577ae4c37af7f45f/0_237_4190_2516/master/4190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb09f0f6a25502db5121d186d0767040"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
-    excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
-    publishedDateTime: 2020-12-29T21:26:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-response-plan-vaccine-distribution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/c0ee9fa5-cfc9-486e-97d6-fb0f7d792ca7/thumbnail/1200x630/3a6397e7cee8d7040b8a6e789e15cbe6/cbsn-fusion-joe-biden-covid-19-response-plan-vaccine-distribution-thumbnail-617751-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
-    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
-    publishedDateTime: 2020-12-27T17:18:00Z
-    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
-    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
 
 secured: "dlQqHzHfkO5sIHIMW6yIIebDYcmHtUoP6tu+PuBSfw9HkQPB3m3lmY/Ub8BKdNB8mIUVrq8hcnXV81QYqZkSMemDt1b2Rnb1Al1ZtDIlZy7Db7b0UQHqTMxnS61bVNemmjXZMkE07cJPNoq7xMGF5VdAJdX+nyCFlAIxnGyqqMTLKOyRnw0qhNQ5ANCKIJQkLbcX7tWEspTJD19Ylj8wAcDW2U4C8PNh0w+JUm03uN1uNlEUcTNqdl3uZmMbKiHzsrRvvtgeunbAvRa4XugsuuS8/Jh6HNn4tm5rMSQnnFVz9tJxM5V7kRldobrLWBuCzTbIG5+yv147owXhUUtD/ZQbQa+KbvQK0ZVu5w/ddFE=;8hJFgQ+W7fncGmCSsMuFpQ=="
 ---

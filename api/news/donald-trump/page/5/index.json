@@ -2,6 +2,115 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-13-pro-trump-demonstrators-gather-saturday-in-washington.md",
+      "title": "Pro-Trump demonstrators gather Saturday in Washington",
+      "excerpt": "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH6EKZR4SEI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-12T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report.md",
+      "title": "Jordan claims Trump 'paid what he owed' in response to NY Times report",
+      "excerpt": "One poll says nearly three in four registered voters plan to tune in to see President Trump face off against Democratic nominee Joe Biden tonight.  MACCALLUM: Fireworks are anticipated as theshowdown comes against a tense backdrop in thenation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
+      "originalUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8241411b-5bcb-46d6-bbe8-f51124ee7cda/a39ee341-3490-443f-bbbe-b3badea4f82c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-12T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-us-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss.md",
       "title": "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss",
       "excerpt": "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to",
@@ -1472,110 +1581,6 @@
       "ampWebUrl": "https://www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12?amp",
       "publishedDateTime": "2020-12-07T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-people-have-spoken-federal-judge-rejects-ex-trump-attorney-sidney-powells-michigan-election-lawsuit.md",
-      "title": "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit",
-      "excerpt": "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3856164001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001",
-      "publishedDateTime": "2020-12-07T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-rnc-paid-300000-for-autographed-copies-of-donald-trump-jrs-new-book-to-use-as-gifts-to-donors-report-says.md",
-      "title": "The RNC paid $300,000 for autographed copies of Donald Trump Jr.'s new book to use as gifts to donors, report says",
-      "excerpt": "The money spent on Trump Jr.'s new book, \"Liberal Privilege,\" was the largest sum ever spent by the RNC on gift giveaways, The Daily Beast reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12",
-      "originalUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fce25bf037cbd0018614280?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12?amp",
-      "publishedDateTime": "2020-12-07T06:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

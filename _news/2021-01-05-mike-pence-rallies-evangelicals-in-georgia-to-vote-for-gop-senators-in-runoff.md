@@ -347,6 +347,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "As he seeks to prevent certification of election, Trump plans to attend DC rally"
+    excerpt: "As a joint session of Congress convenes Wednesday to formally certify the Electoral College votes, President Trump plans to speak at a \"Save America\" rally."
+    publishedDateTime: 2021-01-04T22:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/seeks-prevent-certification-election-trump-plans-attend-dc/story?id=75042176"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/seeks-prevent-certification-election-trump-plans-attend-dc/story?id=75042176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/seeks-prevent-certification-election-trump-plans-attend-dc/story?id=75042176"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-oval-gty-ps-210104_1609798349076_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pence 'stands with' Trump ahead of Ga. election"
     excerpt: "Vice President Mike Pence told Georgia voters he \"stands with President Trump\" after the president pressured Georgia's Republican secretary of state to “find” enough votes to overturn Joe Biden's win there in November."
     publishedDateTime: 2021-01-04T20:34:00Z
@@ -669,6 +685,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "DC mayor calls in National Guard ahead of pro-Trump protests"
+    excerpt: "Bracing for possible violence, the nation’s capital has mobilized the National Guard ahead of planned protests by President Donald Trump’s supporters as Congress votes Wednesday on affirming Joe Biden"
+    publishedDateTime: 2021-01-04T22:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1426,6 +1458,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A legal tsunami looms over Donald Trump when he leaves the White House. The lame duck president's Georgia phone call just made it worse."
+    excerpt: "Trump's latest gambit to overturn the results of a presidential election he lost will almost certainly add to his many post-presidency legal problems."
+    publishedDateTime: 2021-01-04T22:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ff384636056b60018721d8b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
     excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
     publishedDateTime: 2021-01-03T00:00:00Z
@@ -1611,6 +1657,6 @@ related:
         height: 657
         isCached: true
 
-secured: "Xf5FJWOt2LTQiHImMw5P+kQStGvylEewTenE7UAQQ61YcjFy/d9IqO/b+4hQ124hVOxGymlvpYYhwE490gGrS3p1HLKAEaZZSjcZPZH2AMo6SlBJOEnoPKmFwnJ5bRCrx6/hNS7mFopBrxtDDmoVDavj5rJW8IlKw8vMidkaHjwOVdglNzcCNXeKRDqpVuKniAggiWDpGS70+XhU5J+JtOofVvGM31uDk0rdYVPX9nG3RrE8+6c8EVxY+mgbvYRxvA9RcURkd6BvYfZPNWVE1V71EtX+BsAEdU9SrRBCl4XTZI74gNm28XDKJNh9IplR/qd5Juiny9NQ9N29U+UaiTHa7g/8UFlQ4t/JVSmpVg0=;h313PMALhiK+jWmT7Pqw3w=="
+secured: "uuxhVG4FV3ot408d9W979OU6abmr486mxqPLVERXqBgd2HOmeDnr4pbR4NHHMhXAXFiEImS/wycSp7uuqWySt7fFN38FkvrPdpG4RRj4byAOq9giiQfula2SOyhSMkoxZhgl2bUi/OSVlSMwj0gbf7F9AKyE3ZSQlFp25fpsh3YQFgJec4BVVfNb5uTKiVeUXzplbb3FMg/97EXbLjbBFEYTKeZ4feK8zLt23fkaV/tU1GhJmfbE7WJ3SDJB/sMA2UR1mMgqhkbUxEWttp9B/VTCziDPPXNN+k28CeGBHR75dagknFfMO2lspDNI3/PRcNSWFR9XnTzaf0sVxg94KHK4duO4xKugZx7yl+z53A5KLRl4AsI82LXTpss5c/rgCXE7tlzGJot/gmSwsPylJqcrs268S+GOrlo4aiO7pVIi4JTZtCUj5KnWv8aPvicQgPXKSqQit3IcKmFFFGNHp6vXEUi+17cD0KrLT8mUZeRcJASuLZdNS2FwiwqsC2oTd42dxWYRgYn2WdiQNA1DYw==;E4qxwS2XvS1ax3c4g9SxYA=="
 ---
 

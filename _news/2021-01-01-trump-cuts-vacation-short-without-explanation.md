@@ -256,6 +256,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Inside McConnell's handling of Trump's election challenge"
+    excerpt: "Mitch McConnell explicitly warned Senate Republicans not to challenge Joe Biden’s presidential win. But now that a dozen of his members are going there, the GOP leader is taking his thumb off the scale."
+    publishedDateTime: 2021-01-04T22:24:00Z
+    webUrl: "https://www.politico.com/news/2021/01/04/mcconnell-trump-election-challenge-454614"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/04/mcconnell-trump-election-challenge-454614"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/04/mcconnell-trump-election-challenge-454614"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5b/dd/d4f930084c5b9fb8723ff1e919fc/20210104-mitchmcconnell-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "From Reagan to Trump, Denying Facts"
     excerpt: "The line from Ronald Reagan to Donald Trump and our current situation may be even straighter and darker than Paul Krugman paints it. Consider the following core Reagan messages: Government is your enemy."
     publishedDateTime: 2020-12-27T19:37:00Z

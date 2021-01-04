@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4101264001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001"
 type: article
 quality: 126
-heat: 286
+heat: 266
 published: true
 
 provider:
@@ -127,17 +127,6 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
-    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
-    publishedDateTime: 2021-01-04T08:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
   - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
     excerpt: "Efforts to involve the U.S. armed forces in resolving election disputes would take us into dangerous, unlawful and unconstitutional territory,” in an op-ed pieces signed by all 10 living former U.S. Secretaries of Defense."
     publishedDateTime: 2021-01-04T14:00:00Z

@@ -1314,6 +1314,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Joe Biden speaks at rally for Georgia Senate runoffs"
+    excerpt: "\"Georgia, the whole nation is looking to you,\" President-elect Joe Biden said at a rally for Democratic Senate candidates Jon Ossoff and Raphael Warnock the day before the state's runoff elections will determine which party controls the Senate."
+    publishedDateTime: 2021-01-04T22:33:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-speaks-rally-democrats-jon-ossoff-raphael-warnock-georgia-senate-runoffs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/04/5aad5faf-8437-4bc4-bb93-9a6b81456fc8/thumbnail/1200x630/f249c989dc7dcd9f2a754c2c686f7d73/cbsn-fusion-joe-biden-speaks-rally-democrats-jon-ossoff-raphael-warnock-georgia-senate-runoffs-thumbnail-620019-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Electoral College to formally vote for Joe Biden to become next president"
     excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
     publishedDateTime: 2020-12-14T14:54:00Z

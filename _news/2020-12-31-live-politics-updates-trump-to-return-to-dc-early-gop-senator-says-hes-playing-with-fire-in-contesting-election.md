@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
 type: article
 quality: 127
-heat: 467
+heat: 447
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3ccbc88064d062146765d0963a503be4ff308eaa/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9ecb355a5aed50a9e8e7cdbe5b75841"
         width: 600
         height: 360
-        isCached: true
-  - title: "WATCH LIVE: Senate considers overriding Trump veto on defense bill"
-    excerpt: "In the few days remaining, GOP senators are poised to assert traditional Republican spending and security priorities in defiance of a president who has marched the party in a different direction."
-    publishedDateTime: 2021-01-01T14:42:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-senate-considers-overriding-trump-veto-on-defense-bill"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-17T173230Z_116744963_RC255K9F2GIT_RTRMADP_3_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."

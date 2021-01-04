@@ -351,6 +351,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "As he seeks to prevent certification of election, Trump plans to attend DC rally"
+    excerpt: "As a joint session of Congress convenes Wednesday to formally certify the Electoral College votes, President Trump plans to speak at a \"Save America\" rally."
+    publishedDateTime: 2021-01-04T22:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/seeks-prevent-certification-election-trump-plans-attend-dc/story?id=75042176"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/seeks-prevent-certification-election-trump-plans-attend-dc/story?id=75042176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/seeks-prevent-certification-election-trump-plans-attend-dc/story?id=75042176"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-oval-gty-ps-210104_1609798349076_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pence 'stands with' Trump ahead of Ga. election"
     excerpt: "Vice President Mike Pence told Georgia voters he \"stands with President Trump\" after the president pressured Georgia's Republican secretary of state to “find” enough votes to overturn Joe Biden's win there in November."
     publishedDateTime: 2021-01-04T20:34:00Z
@@ -673,6 +689,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "DC mayor calls in National Guard ahead of pro-Trump protests"
+    excerpt: "Bracing for possible violence, the nation’s capital has mobilized the National Guard ahead of planned protests by President Donald Trump’s supporters as Congress votes Wednesday on affirming Joe Biden"
+    publishedDateTime: 2021-01-04T22:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1413,6 +1445,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "A legal tsunami looms over Donald Trump when he leaves the White House. The lame duck president's Georgia phone call just made it worse."
+    excerpt: "Trump's latest gambit to overturn the results of a presidential election he lost will almost certainly add to his many post-presidency legal problems."
+    publishedDateTime: 2021-01-04T22:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ff384636056b60018721d8b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Mike Pence rallies evangelicals in Georgia to vote for GOP senators in runoff"
     excerpt: "Vice President Mike Pence rallied evangelical Christian voters Monday during a campaign stop in Georgia, calling on voters of faith to play their part this week in defending the Republican majority in the Senate."

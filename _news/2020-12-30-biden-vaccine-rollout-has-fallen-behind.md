@@ -77,22 +77,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden flexes Georgia muscle alongside GOP in Senate races"
-    excerpt: "President-elect Joe Biden is going all-in to help Democrats win two Senate runoffs in Georgia that will determine which party controls the Senate in the critical early years of his administration"
-    publishedDateTime: 2021-01-03T03:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-flexes-georgia-muscle-alongside-gop-senate-races-75017011"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dcc086c33140494bacd1666507ef9e63_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "In farewell, DeVos urges Congress to reject Biden's policies"
     excerpt: "In a farewell letter to Congress, Education Secretary Betsy DeVos urged lawmakers to reject policies supported by President-elect Joe Biden, and to protect Trump administration policies that Biden has"
     publishedDateTime: 2021-01-04T18:59:00Z
@@ -194,22 +178,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Joe Biden cometh, and he's bringing his czars to rule"
-    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
-    publishedDateTime: 2020-12-28T14:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
-        width: 1200
-        height: 700
         isCached: true
 
 secured: "WhYPdhQLuxksHM1M+h5vBOr/adxe3ULOAlEfYrDKW+MlnAE7DI+KyALdII/6TvQz9+dnHSZtctERfUIOmAl8uAox1zlHU/9N/kvm3p1IMbycM2pg3B82la58jhGoW9BKZZ1I9d/30MxXBgzsKzACCJ41VjawQG9/XOYOtpLSY9ECQ5IJShcS0yCjVR2HthoBn6nl2MQ56zmDcL01D63d53R2neeGfEwopwWkR60bb7nK/dRdsvlu9IVxuG6SryjWBkdsQIJbwplESoG4jKEJUgXZdIdujQSZMd5O5UFemfv8JkEqRRVPGmmffXBLMOnEFIgqPXh86bLuQZhlXhhOTVRb0Mn5FtGGC+2QTnqrzKQsM0re8A8DICoqAJKt8uTaNADsZ2bV/+Nu8L1DqXNx1pslJUf26EHY9R+uRp2YeYN5HOr3WRaarq20ONoqQ3phaxZ+RWY4chxq1UCwfaJnQFrOeGwMsod7Z/V3y/sSQ3L2W8CRmVsm/OoTxKJ0yBuxoZUJkHCml2vWyieCkTm+yg==;0VVUGR56dIC6FPhtJFaTMw=="

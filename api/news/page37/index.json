@@ -2,21 +2,21 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2020-10-06-trump-accuser-e-jean-carroll-files-motion-against-justice-department.md",
-      "title": "Trump accuser E. Jean Carroll files motion against Justice Department",
-      "excerpt": "Former Elle columnist E. Jean Carroll is fighting the Justice Department’s attempt to substitute for President Donald Trump as the defendant in her defamation lawsuit.",
+      "path": "_news/2020-11-07-how-playing-kamala-harris-helped-maya-rudolph-fight-election-anxiety.md",
+      "title": "How Playing Kamala Harris Helped Maya Rudolph Fight Election Anxiety",
+      "excerpt": "The actor talks to TIME about playing Harris on 'Saturday Night Live,' a hormone monster on 'Big Mouth' and the trait many of her characters share.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
-      "originalUrl": "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
+      "webUrl": "https://time.com/5906947/maya-rudolph-kamala-harris/",
+      "originalUrl": "https://time.com/5906947/maya-rudolph-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 420,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/E-Jean-Carroll-01-AP-ib-200807_1596832650350_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://api.time.com/wp-content/uploads/2020/11/maya-rudolph-10q.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
-      "publishedDateTime": "2020-10-05T21:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T12:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Time",
+        "domain": "time.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,16 +50,72 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Kamala Harris"
       ]
     },
     {
-      "path": "_news/2020-10-06-dont-underestimate-mike-pence.md",
-      "title": "Don’t Underestimate Mike Pence",
-      "excerpt": "A soothing dose of Hoosier calm might be just what the Trump campaign needed.",
+      "path": "_news/2020-11-06-twitter-marks-12-trump-tweets-as-misleading-in-60-hour-span.md",
+      "title": "Twitter marks 12 Trump tweets as 'misleading' in 60-hour span",
+      "excerpt": "Twitter has marked at least a dozen tweets from President Trump as of Friday morning with a disclaimer that the tweets may contain \"misleading\" information about U.S. elections. ",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
-      "originalUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBM6x0EPxcM/twitter-marks-12-trump-tweets-misleading-60-hours",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBM6x0EPxcM/twitter-marks-12-trump-tweets-misleading-60-hours",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6615f48-e957-4ade-83d6-a4d0437feb1d/2aeaa6c6-e774-4891-944c-83cf650bcfa5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp",
+      "publishedDateTime": "2020-11-06T11:24:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-trump-names-danly-to-head-ferc-replacing-chatterjee.md",
+      "title": "Trump Names Danly to Head FERC, Replacing Chatterjee",
+      "excerpt": "Neil Chatterjee, who has backed policies in support of clean energy, is being replaced as head of the Federal Energy Regulatory Commission by fellow commissioner James Danly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
+      "originalUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -70,7 +126,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-240708/social",
+          "url": "https://images.wsj.net/im-256250/social",
           "width": 1280,
           "height": 640,
           "title": null,
@@ -80,9 +136,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
-      "publishedDateTime": "2020-10-05T21:00:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
+      "publishedDateTime": "2020-11-06T10:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -106,28 +162,28 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
     {
-      "path": "_news/2020-10-06-biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip.md",
-      "title": "Biden suggests people were able to quarantine because 'some Black woman was able to stack the grocery shelf' in viral clip",
-      "excerpt": "Joe Biden has landed in hot water over a viral clip of him suggesting why people were able to quarantine during the coronavirus pandemic. ",
+      "path": "_news/2020-11-06-trump-likely-to-run-again-in-2024-if-he-loses-mick-mulvaney.md",
+      "title": "Trump 'likely' to run again in 2024 if he loses: Mick Mulvaney",
+      "excerpt": "Trump's former acting White House chief of staff Mick Mulvaney says the president isn't ready to bow out of politics.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dopeqZvkfK4/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dopeqZvkfK4/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 209,
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg",
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-Mick-Mulvaney.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -137,9 +193,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip.amp",
-      "publishedDateTime": "2020-10-05T18:12:52-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T09:54:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -167,25 +223,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-biden-describes-the-first-debate-as-a-clownish-undertaking.md",
-      "title": "Biden describes the first debate as a 'clownish undertaking'",
-      "excerpt": "Joe Biden was asked about his first debate with President Trump, and if he could stand up to his opponent in the future. He said the debate frustrated him but should have described it as a \"clownish undertaking\" instead of calling the president a clown.",
+      "path": "_news/2020-11-07-republican-sen-pat-toomey-says-trumps-claims-of-large-scale-fraud-and-theft-of-the-election-are-just-not-substantiated.md",
+      "title": "Republican Sen. Pat Toomey says Trump's claims of 'large-scale fraud and theft of the election are just not substantiated'",
+      "excerpt": "Following Trump's claims of voter fraud and theft, Republican officials and former Trump associates are in disagreement.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "originalUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
+      "webUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11",
+      "originalUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_clown_201005_1920x1080.nbcnews-fp-1200-630.jpg",
+          "url": "https://i.insider.com/5fa57b22f7d1cb0019e3a399?width=1200&format=jpeg",
           "width": 1200,
-          "height": 630,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -193,16 +245,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "publishedDateTime": "2020-10-05T17:49:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp",
+      "publishedDateTime": "2020-11-06T09:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -219,30 +271,29 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-10-05-trump-off-the-air-in-ohio-and-iowa-as-polls-show-tight-races-in-both-states.md",
-      "title": "Trump off the air in Ohio and Iowa as polls show tight races in both states",
-      "excerpt": "President Donald Trump's campaign canceled its planned television advertising in Iowa and Ohio this week, focusing its spending on states where Trump is behind even as polls show he is neck-and-neck with Democratic challenger Joe Biden in the two Midwestern states.\n    \n",
+      "path": "_news/2020-11-06-trump-touts-gains-with-minorities-and-women-were-the-party-of-inclusion.md",
+      "title": "Trump touts gains with minorities and women: 'We're the party of inclusion'",
+      "excerpt": "President Trump touting his party’s gains with women and minorities, declared the Republican Party the “party of inclusion” in a news conference Thursday. ",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYASQQmg6eI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYASQQmg6eI/index.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
       "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2655c9-ae5d-4607-94a3-33e61a24b66c/648337d5-952b-4c9a-8f58-2469df653a0f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -250,16 +301,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html",
-      "publishedDateTime": "2020-10-05T16:27:36-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "publishedDateTime": "2020-11-05T16:56:51-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -276,23 +327,23 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
-      "path": "_news/2020-10-06-watch-live-nbc-news-town-hall-with-biden.md",
-      "title": "Watch Live: NBC News town hall with Biden",
-      "excerpt": "NBC News’s Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami. The event is scheduled to begin at 8 p.",
+      "path": "_news/2020-11-06-watch-live-biden-speaks-from-delaware.md",
+      "title": "Watch live: Biden speaks from Delaware",
+      "excerpt": "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe",
-      "originalUrl": "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe",
+      "webUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware",
+      "originalUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1005,
+      "heat": 245,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg",
+          "url": "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg",
           "width": 980,
           "height": 551,
           "title": null,
@@ -302,9 +353,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp",
-      "publishedDateTime": "2020-10-05T16:00:00-07:00",
+      "ampWebUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp",
+      "publishedDateTime": "2020-11-05T13:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",
@@ -329,1036 +380,8 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-minneapolis-restaurant-quarantines-13-who-worked-trump-event.md",
-      "title": "Minneapolis restaurant quarantines 13 who worked Trump event",
-      "excerpt": "Thirteen staff members from an iconic Minneapolis steakhouse are quarantining after the restaurant catered a fundraiser attended by President Donald Trump during his visit to Minnesota last week",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_fb2a9678ab914eb7a099cddf1c34340f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "publishedDateTime": "2020-10-05T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-how-geraldine-ferraro-and-sarah-palin-set-the-stage-for-kamala-harris.md",
-      "title": "How Geraldine Ferraro and Sarah Palin set the stage for Kamala Harris",
-      "excerpt": "Thomas Balcerski writes that in order to win the VP debate on Wednesday, Kamala Harris will likely need to triangulate herself between the toughness of Geraldine Ferraro in 1984 and the likability of Sarah Palin in 2008.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html",
-      "originalUrl": "https://www.cnn.com/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005124223-ferraro-palin-harris-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html",
-      "publishedDateTime": "2020-10-05T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report.md",
-      "title": "Donald Trump Jr thinks his father is ‘acting crazy’ and is desperate to rein him in: report",
-      "excerpt": "President Donald Trump’s hospital joyride and his manic Monday-morning tweets aren’t just being panned by political pundits — they’re also reportedly freaking out some in the president’s own family. According to Vanity Fair’s Gabriel Sherman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/",
-      "originalUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2016/10/Trump-645x430.jpg",
-          "width": 645,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/amp/",
-      "publishedDateTime": "2020-10-05T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-progressive-groups-launch-we-paid-more-campaign-in-response-to-trump-taxes-report.md",
-      "title": "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report",
-      "excerpt": "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "originalUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "publishedDateTime": "2020-10-05T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-campaign-says-biden-lacks-firsthand-experience-of-being-infected-with-covid-19.md",
-      "title": "Trump Campaign Says Biden Lacks 'Firsthand Experience' of Being Infected With COVID-19",
-      "excerpt": "\"Those firsthand experiences are what are going to get President Trump four more years,\" Trump campaign spokesperson Erin Perrine told Fox News on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
-      "originalUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1012,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1646101/erin-perrnie.png",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
-      "publishedDateTime": "2020-10-05T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-eric-trump-scheduled-to-sit-for-deposition-monday-in-new-york-attorney-general-investigation.md",
-      "title": "Eric Trump scheduled to sit for deposition Monday in New York attorney general investigation",
-      "excerpt": "Eric Trump, who runs day-to-day operations of the family real estate empire, is scheduled to sit for a deposition on Monday as part of the New York attorney general's investigation into whether the Trump Organization improperly inflated the value of its assets to obtain loans or tax benefits.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005114222-eric-trump-2019-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
-      "publishedDateTime": "2020-10-05T09:30:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-joe-biden-enlists-artists-like-ludacris-dupri-jeezy-and-monica-for-voting-ads-in-battleground-states.md",
-      "title": "Joe Biden enlists artists like Ludacris, Dupri, Jeezy and Monica for voting ads in battleground states",
-      "excerpt": "Joe Biden has tapped popular music artists like Ludacris, Monica, Jermaine Dupri and Jeezy to encourage Black citizens in battleground states to vote in the upcoming presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states",
-      "originalUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ludacris-reuters.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states.amp",
-      "publishedDateTime": "2020-10-05T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-who-is-dr-sean-conley-president-trumps-physician.md",
-      "title": "Who is Dr. Sean Conley, President Trump's physician?",
-      "excerpt": "Conley, an officer in the U.S. Navy, earned his B.S. from the University of Notre Dame in 2002, according to his LinkedIn. He earned his D.O. from the Philadelphia College of Osteopathic Medicine and is an experienced emergency physician.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoZbwOiSh2M/sean-conley-walter-reed-osteopathic-medicine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoZbwOiSh2M/sean-conley-walter-reed-osteopathic-medicine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20278602412679-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp",
-      "publishedDateTime": "2020-10-05T09:01:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas-strongest-recovery-ever.md",
-      "title": "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever",
-      "excerpt": "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas",
-      "originalUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp",
-      "publishedDateTime": "2020-10-05T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-bongino-on-infuriating-media-attacks-of-trumps-drive-by-visit-outside-hospital.md",
-      "title": "Bongino on ‘infuriating’ media attacks of Trump’s drive-by 'visit' outside hospital",
-      "excerpt": "The mainstream media’s attacks of President Trump’s surprise drive-by visit to his supporters outside Walter Reed Medical Center on Sunday is “infuriating,” former Secret Service agent Dan Bongino told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp",
-      "publishedDateTime": "2020-10-05T08:04:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-secret-service-volunteered-for-trump-drive-lewandowski-claims.md",
-      "title": "Secret Service ‘Volunteered’ For Trump Drive, Lewandowski Claims",
-      "excerpt": "An attending physician said the agents likely didn’t know the “real risks” of being inside the vehicle with Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b280907e0d0d800a27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1487%26cropY1%3D67%26cropY2%3D904",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "publishedDateTime": "2020-10-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health.md",
-      "title": "CNN supercut shows how Trump has repeatedly mocked his opponents’ health",
-      "excerpt": "CNN’s John Avlon on Monday showed how President Donald Trump has repeatedly used his political opponents’ health as a weapon, such as when he openly mocked Hillary Clinton for coming down with pneumonia in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "originalUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2017/07/Trump-mocks-disabled-reporter.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "publishedDateTime": "2020-10-05T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-biden-visits-miamis-little-havana-haiti-ahead-of-national-town-hall-from-key-swing-state-of-florida.md",
-      "title": "Biden visits Miami's Little Havana, Haiti ahead of national town hall from key swing state of Florida",
-      "excerpt": "Democratic presidential candidate Joe Biden is expected to visit Miami’s Little Havana and Little Haiti ahead of a televised town hall Monday, as the former vice president returns to the critical swing state of Florida in the final homestretch of his election campaign.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0-nubYj1og/biden-miami-town-hall-little-havana-haiti",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0-nubYj1og/biden-miami-town-hall-little-havana-haiti",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp",
-      "publishedDateTime": "2020-10-05T06:12:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-meadows-still-optimistic-trump-will-leave-hospital-later-on-monday.md",
-      "title": "Meadows: ‘Still optimistic’ Trump will leave hospital later on Monday",
-      "excerpt": "Trump's chief of staff said the president will meet with his doctors and nurses on Monday morning to assess his progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "originalUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/95/64/e2030d6244139256e6df0f3d8ac3/ap20278592774995.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "publishedDateTime": "2020-10-05T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trump-told-woodward-in-march-he-didnt-have-a-lot-of-time-to-meet-with-fauci-in-newly-released-audio.md",
-      "title": "Trump told Woodward in March he didn't have 'a lot of time' to meet with Fauci in newly released audio",
-      "excerpt": "President Donald Trump in March said he didn't have \"a lot of time\" to meet with Dr. Anthony Fauci as the coronavirus pandemic surged across the US, according to newly released audio from an interview with journalist Bob Woodward.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001100032-01-trump-0930-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
-      "publishedDateTime": "2020-10-05T04:26:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-top-israeli-rabbis-and-us-envoy-pray-for-trump-recovery.md",
-      "title": "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery",
-      "excerpt": "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536199207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG940W5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26Q1IE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1IE",
-      "publishedDateTime": "2020-10-05T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence.md",
-      "title": "How to watch the vice presidential debate between Kamala Harris and Mike Pence",
-      "excerpt": "Vice presidential debate between Vice President Mike Pence and Kamala Harris. Date: Wednesday, October 7, 2020. Location: Universi",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/",
-      "originalUrl": "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/",
-      "publishedDateTime": "2020-10-05T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-australia-shares-jump-2-on-jobs-stimulus-trumps-health-progress.md",
-      "title": "Australia shares jump 2% on jobs stimulus, Trump's health progress",
-      "excerpt": "Australian shares rose more than 2% on Monday after the government announced plans to earmark additional wage subsidies to help spur employment, and as investors continued to hope for a swifter recovery of U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536144713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930VV",
-          "width": 807,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINL4N2GW009",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL4N2GW009",
-      "publishedDateTime": "2020-10-04T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.md",
-      "title": "Trump receives 'around the world' national security briefing by phone due to COVID diagnosis",
-      "excerpt": "President Trump received an \"around the world\" national security briefing on a secure line Sunday afternoon.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XDGz2TmwHWE/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XDGz2TmwHWE/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp",
-      "publishedDateTime": "2020-10-04T17:13:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
-  "nextPage": 38
+  "nextPage": null
 }
