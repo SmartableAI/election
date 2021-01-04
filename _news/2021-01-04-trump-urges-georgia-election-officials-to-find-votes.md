@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump to award Medal of Freedom to GOP Reps. Devin Nunes and Jim Jordan "
+    excerpt: "Before he leaves office, President Donald Trump will award the nation's highest civilian honor to two of his most vocal political allies who defended him throughout his impeachment, Rep. Devin Nunes of California and Rep. Jim Jordan of Ohio, as the White House has been inundated with requests for others,"
+    publishedDateTime: 2021-01-04T02:24:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H-crDrfw2oM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/donald-trump-medal-of-freedom/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/donald-trump-medal-of-freedom/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113170250-41-house-impeachment-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
     excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
     publishedDateTime: 2021-01-03T17:19:48Z
@@ -301,6 +317,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103124447-brad-raffensperger-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Once a Foe of Trump, Cruz Leads a Charge to Reverse His Election Loss"
+    excerpt: "The Texas Republican was once the victim of President Trump’s false claims of election fraud. Now he is perpetuating them."
+    publishedDateTime: 2021-01-04T01:16:00Z
+    webUrl: "https://www.nytimes.com/2021/01/03/us/politics/trump-cruz-election-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/03/us/politics/trump-cruz-election-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/03/us/politics/trump-cruz-election-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-cruz-trump/03dc-cruz-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "From Reagan to Trump, Denying Facts"
     excerpt: "The line from Ronald Reagan to Donald Trump and our current situation may be even straighter and darker than Paul Krugman paints it. Consider the following core Reagan messages: Government is your enemy."
@@ -445,6 +477,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/1609682657767_mtp_clip_a2_210103_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump begs Georgia secretary of state to overturn election results in remarkable, hourlong phone call"
+    excerpt: "President Donald Trump begged Georgia's secretary of state to overturn the election results in a remarkable, hourlong phone call obtained by NBC News on Sunday. Excerpts of the call, which took place Saturday,"
+    publishedDateTime: 2021-01-03T19:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-begs-georgia-secretary-state-overturn-election-results-remarkable-hourlong-n1252692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252692"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_53/3439270/210103-donald-trump-jm-1333_78a4f783db996bd0c33a419cd5fe47a3.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Listen to the full audio of Trump's phone call with the Georgia secretary of state"
     excerpt: "In an astounding phone call, President Donald Trump for over an hour berated and threatened Georgia Secretary of State Brad Raffensperger, repeating various false claims about voter fraud and begging the Republican official to overturn the election results."

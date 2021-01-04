@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "U.S. appeals court rejects lawmaker's bid to have Pence overturn Biden's win"
+    excerpt: "A federal appeals court on Saturday rejected a Republican congressman's bid to allow Vice President Mike Pence to overturn President-elect Joe Biden's Nov. 3 election victory in favor of President Donald Trump."
+    publishedDateTime: 2021-01-03T07:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-pence-idUSKBN29802P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29802P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29802P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 147
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546458150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0201B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump-Biden transition live updates: Judge tosses suit against VP seeking reversal of election"
     excerpt: "A judge has tossed out Rep. Louie Gohmert's effort to overturn the results of the presidential election by forcing Vice President Mike Pence to override the electors when votes are finalized by Congress on Jan 6."
     publishedDateTime: 2021-01-02T16:25:00Z
@@ -435,6 +451,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "More GOP Lawmakers Enlist in Trump Effort to Undo Biden Win"
+    excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the Electoral College votes and certify President-elect Joe Biden’s win."
+    publishedDateTime: 2021-01-04T02:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
     excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
     publishedDateTime: 2021-01-01T02:42:00Z

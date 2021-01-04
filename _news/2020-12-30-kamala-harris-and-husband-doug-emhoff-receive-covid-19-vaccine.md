@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vac
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b4f7d491-8820-4536-b3c3-3bdd42e2b92c-AP_Election_2020_Emhoff_2.jpg?auto=webp&crop=3938,2216,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris rallies for Democrats in Savannah 2 days before Senate runoff"
+    excerpt: "Vice President-elect Kamala Harris on Sunday urged voters on Georgia’s coast to get to the polls and elect Democrats Jon Ossoff and Raphael Warnock, kicking off a furious final stretch of campaigning ahead of Tuesday’s runoffs for control of the U."
+    publishedDateTime: 2021-01-04T01:11:00Z
+    webUrl: "https://www.ajc.com/politics/kamala-harris-rallies-for-democrats-in-savannah-2-days-before-senate-runoff/N6CLHPFYWFB4VENNZACA5EFLX4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 53
+    images:
+      - url: "https://www.ajc.com/resizer/BVPqDOr8lGxx5T1BryM50PmRp84=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YICPCLLZ6P6BAVPFWZWYHZ5QUI.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0w42qER0WnCNNMFMxbq5AI45YnbMlU16H7uVX/vpiUBOl2KjuJ/k31QdmqzEHvjoZb96T9wFYhIUg5eILuEU6KfP0D9Z0YVdokMzOrDMVFV4o0tStxKhAEMQ8MPVFAacP+5QMCfWDzaj3vGMRHa2cvvpkd6WkwOvkO+IKMM82PRXlFuQUKkdy0ceLemqWjdnKjLHsDNx6M1mNPfG901fpXBLSfvASQKf7UnwNtkZACUqSj+6TH43gssCBIu8n1vjZWvfANzSKNIguiutVGc7EK537Fd18t/1+oY4Fvt5vKf8pyGDE/8q1hJfhc0+TV7mODabzR/sGMG0Oeb03c/0BrAP/KGIaSaFI84BY19N3U2VkqB1aGIflCkYnJ/CI1yzpQa8u42X8XLpb2smikIislmBLLxMMGqJgCcMrj0E9pwfBuOWofNk4ym5s9tyWsyFhVDS37/utRC9a8SOXh73ZQUGFxr2AbHNCzobvFA/Wye1qJDGZ6/vNET7RIX2JcnHeT6qhxgXyju+l09xu1POtg==;mXXmkthmrfME8plSmmizRQ=="

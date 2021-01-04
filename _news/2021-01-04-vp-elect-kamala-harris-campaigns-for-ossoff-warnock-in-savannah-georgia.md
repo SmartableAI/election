@@ -39,22 +39,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
-    excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
-    publishedDateTime: 2021-01-04T00:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4107424001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4107424001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 132
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris to campaign in Georgia next week"
     excerpt: "Vice President-elect Kamala Harris will be traveling to Georgia Monday to campaign with Democratic Senate candidates Jon Ossoff and Reverend Raphael Warnock. Both men are engaged in highly competitive and high-profile runoff races that will decide which party controls the U."
     publishedDateTime: 2020-12-18T17:57:00Z
@@ -103,6 +87,22 @@ related:
         width: 1200
         height: 957
         isCached: true
+  - title: "Trump, on tape, presses Ga. official to 'find' him votes"
+    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Tr"
+    publishedDateTime: 2021-01-04T02:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/days-georgia-runoffs-decide-senate-control-75023897"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fee657f0b72547eda7a682d57c80ad4b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
     excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
     publishedDateTime: 2021-01-03T22:49:00Z
@@ -118,6 +118,36 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_2.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Trump demands Georgia secretary of state 'find' enough votes to hand him win"
+    excerpt: "In an hour-long phone call Saturday, President Trump repeatedly pressured Georgia's secretary of state to try to overturn his electoral loss in November."
+    publishedDateTime: 2021-01-04T02:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-demands-georgia-secretary-state-find-votes-hand/story?id=75027350"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-demands-georgia-secretary-state-find-votes-hand/story?id=75027350"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-demands-georgia-secretary-state-find-votes-hand/story?id=75027350"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-audio-210_hpMain_20210103-192754_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Harris on Trump GA call before Senate runoff"
+    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
+    publishedDateTime: 2021-01-04T02:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Trump pushes Georgia secretary of state to 'find' votes during phone call, Washington Post reports"
     excerpt: "The Washington Post released audio excerpts of a call in which Trump pressures Raffensperger to \"find\" enough votes to reverse his election loss."
@@ -238,6 +268,22 @@ related:
         width: 1200
         height: 891
         isCached: true
+  - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
+    excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
+    publishedDateTime: 2021-01-04T00:53:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4107424001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4107424001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
     excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
     publishedDateTime: 2021-01-03T21:34:00Z
@@ -347,6 +393,6 @@ related:
         height: 712
         isCached: true
 
-secured: "0apyp+y2vZiY7T7KXUHvC/mOM6yMPy9P4uohjFelrcHO6V0mr8dETmk5Vd16IELxaefbUCpUxoKa2xJ75V2IFj2/nMkv0l0O3S5KKZpPvNtrfpeBP3F8zrc1H97x85DNAtU/F1+HxKV6dL5EB3kkT/KYbK+UWEqkpyOf71mtJ5M+51/GoEERTWcxJBil6C+LySgUOV4fw50xW06QGyfIHd6c9IN3tqaD1tN/G/C6ugBHMKJ1cPun7UajGjSwABNoFYYYd1Cej3nskfxbJmrrbHE7w7MewNIIfdZY76n1OtHK0vcQg5RCLxvaToiTkco29R0yAUc5psTrj/12nsHA8sS7IXgES+Hf7f6sk/3hepg=;GbO4h9rYiJGijT7slz7JVg=="
+secured: "iznzdK3NEg2pj/UnlfgI0YFldTyP+0wmKTpoL5+gH4t1sjGpvfyJyP19Im28PQ+OBin1htRztRVwav/xLoyPSwDgoTsPvaqJMjrQIox7ZrEQIG8u40LJwmxAWD7XG1IrEvroMtf5kDUsAwFZJnXQ5C62eAhsJ+wya2/b3iS7rdHOVRzn3Y5LNdhldzAPOk4oC7kgfM05CvPC+OF1TomKZbrwN+XjV5EVnXRN1axrMQlkegbO5GlLT9lDQq8BDZqLd/aOs5MNVi8mevpwCsEWoCwLnxKmPb5bOY9iLJ7111k0uSRHhL18YxzLzTunMswuoAQl+dWuK2jdVGaaZZ6iwpSa8/MdW77TdDDPUxVtkggs1NyEG7H4vRSXkzKBftgis9y4qR7gNWunoAI4aK6C962d1kSZk8TIQK0nXfGKaRsKq3dNNz7ycOmrwk0IVyZRy9RRSbbRJFCf8mVgOAiOgXODTLwg43m5JOl54M/z0A5l4+q2PiEA5zabmPslyCRdJIuCgr1Py0RrJRiMVrVGkg==;FVfyj8b1Q0qHEB8nmhA0ww=="
 ---
 

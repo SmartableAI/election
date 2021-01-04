@@ -155,6 +155,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump, Biden face new head-to-head contest in Georgia"
+    excerpt: "President Trump and President-elect Joe Biden will travel to Georgia on Monday, making one final push in the state’s U.S. Senate runoffs that will decide which party controls the upper chamber for the next two years."
+    publishedDateTime: 2021-01-04T01:34:00Z
+    webUrl: "https://thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia"
+    ampWebUrl: "https://thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_123120getty_split_georgia-biden-trump.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -843,6 +859,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZQi5VE6Y7EZb1VcRnXdqFFpQkYz/ql5EYmQ97oOo3UkX4safx5lChPicxvHEQPlv+CaUXZT8LAESCwLNfa1uaJ33Y1Liw1SoaMkwtLgE5Y59FU8pqoeV54NI9dmHORwLpf46Lqf5GqpzIl1vKgdhCF/4dDH568LnttMhdcrTtonP8fV018Wtj0LxyHn0PqcPP/gM6BbqtP7iZXgu/C/q1hOEy9AMDkzlaRZ5mjoz4A0GG6VXSNcPvBf/c6R8XWYoj/oeY2HbN/L8zexv2/h3EZxM3foU66ygOje4l+03hPg36kYfZDRBxJacKXyRMp9IAO05VGBOD7HHruJe+eaRXqVhoAf3viE7peNmXLqUKeQ=;e/XKdJ554j82Vc8AOQtfnw=="
+secured: "uCVbhdkpPYOuhfKRciz4/gjeJ8d3Pvx7mJdZ+i/V7dCFlN0JBGRet+pkrCMB4oYrkJi07XgfJIJo5z8i/P/qBJa6XX2Hm8vi477d/bSGsC5uVxfvA7RQin8O9T/pQJp98M4+vgqvpoVIpxBR7bsEPUhvp1+LD9tQE+xGP8Y6NoAHxpFdpVpUozizfNM2TdMKMgHTnd735V/sXgVPRiFyOCklp4LoqvTzuS9pEHLFRVQXB3CH1c5i1wXl+SKMmTY2/Kvbk1jlTgwsOQ6+cLNd42zGbQOm6u9e9hm8Ke9cXe12mNgkfD/a3ZVCX5Jzds8IgWDuYg5XC/xWGW5tNUuLh102B+WaR5cOwUTWWnDlPyPq1VTgv9T7RxsSZRy81ckiDMLQk0gsglq2PtHIu+tFvUrJXZHB5Ck0QPefaEzX6xCb+pDRwZed9Wc+qSdi0mauaAoxvmQD0Ev/RoJ0h9MRcSPgL6VXUCddDTAzoGkaVGubye85fDu/AlTdrK1O/lVC+1DDAlEjzNYixBkW+H2DPw==;If6UEPm+mNPHsG7+9KIwTQ=="
 ---
 

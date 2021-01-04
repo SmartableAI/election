@@ -169,6 +169,20 @@ related:
         width: 3149
         height: 2100
         isCached: true
+  - title: "Kamala Harris rallies for Democrats in Savannah 2 days before Senate runoff"
+    excerpt: "Vice President-elect Kamala Harris on Sunday urged voters on Georgia’s coast to get to the polls and elect Democrats Jon Ossoff and Raphael Warnock, kicking off a furious final stretch of campaigning ahead of Tuesday’s runoffs for control of the U."
+    publishedDateTime: 2021-01-04T01:11:00Z
+    webUrl: "https://www.ajc.com/politics/kamala-harris-rallies-for-democrats-in-savannah-2-days-before-senate-runoff/N6CLHPFYWFB4VENNZACA5EFLX4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 53
+    images:
+      - url: "https://www.ajc.com/resizer/BVPqDOr8lGxx5T1BryM50PmRp84=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YICPCLLZ6P6BAVPFWZWYHZ5QUI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vlB2gFP97g3f92melxE+ulYYhN8r+6WiYF6X7Z88P7aPsBGpHVVuCmlHmdAzZeWPiJ3zGs0FPTuvoALo0oLRJoTm/GuRf5G+pkXslAfJTf+KUxltcStiaMKvW5DI/Q1w9uSguWfjnZ4Udc3v/Lb9CPOBqVy9sw0FChz0J369Q0Hc4H41MYwSfMwJTJAsNxkFs91izRM9PSSUKFFWLSuTM9JWWToYbDLt/DWEJkLlisaGpw6EdUXGyaT0CABid4lhGMSw7e8gSGqpyFKcj0TK55CNcASwFtAzhNdriIm+0FD5/IOu6khUB2/FEp6IH9ERvjRG1fHWT3Zv0FaLjOKsbs3Tsx0kfqlil6Gjbj53QsU=;qktXqpfLw8+R982q+oYz/A=="
 ---

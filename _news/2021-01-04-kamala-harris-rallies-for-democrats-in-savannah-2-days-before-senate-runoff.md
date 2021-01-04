@@ -1,0 +1,189 @@
+---
+category: news
+title: "Kamala Harris rallies for Democrats in Savannah 2 days before Senate runoff"
+excerpt: "Vice President-elect Kamala Harris on Sunday urged voters on Georgia’s coast to get to the polls and elect Democrats Jon Ossoff and Raphael Warnock, kicking off a furious final stretch of campaigning ahead of Tuesday’s runoffs for control of the U."
+publishedDateTime: 2021-01-04T01:11:00Z
+originalUrl: "https://www.ajc.com/politics/kamala-harris-rallies-for-democrats-in-savannah-2-days-before-senate-runoff/N6CLHPFYWFB4VENNZACA5EFLX4/"
+webUrl: "https://www.ajc.com/politics/kamala-harris-rallies-for-democrats-in-savannah-2-days-before-senate-runoff/N6CLHPFYWFB4VENNZACA5EFLX4/"
+type: article
+quality: 53
+heat: -1
+published: false
+
+provider:
+  name: Atlanta Journal-Constitution
+  domain: ajc.com
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://www.ajc.com/resizer/BVPqDOr8lGxx5T1BryM50PmRp84=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YICPCLLZ6P6BAVPFWZWYHZ5QUI.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Kamala Harris and husband Doug Emhoff receive COVID-19 vaccine"
+    excerpt: "The vice president-elect received her shot on camera as part of efforts to build public trust in the coronavirus vaccine."
+    publishedDateTime: 2020-12-29T16:13:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/8cbf2e07-8d58-471e-8572-0e4176b0db22/thumbnail/1200x630/9fc15131cf2b1c1379915144a2afbcdb/ap-20364578711714.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "WATCH: Vice President-elect Kamala Harris gets Moderna COVID-19 vaccine"
+    excerpt: "US Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the US public the inoculations are safe."
+    publishedDateTime: 2020-12-29T18:50:00Z
+    webUrl: "https://www.pbs.org/newshour/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/watch-vice-president-elect-kamala-harris-gets-moderna-covid-19-vaccine"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/2020-12-29T162118Z_844895509_RC24XK94EYDR_RTRMADP_3_USA-BIDEN-HARRIS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris And Doug Emhoff Have Received The Moderna COVID-19 Vaccine"
+    excerpt: "\"It's about saving your life, the life of your family members, and the life of your community,\" said the vice president–elect."
+    publishedDateTime: 2020-12-29T17:41:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/kamala-harris-covid-19-vaccine-moderna?origin=web-hf"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/kamala-harris-covid-19-vaccine-moderna"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 124
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-03/25/21/tmp/02e0866474a9/tmp-name-2-4225-1585170439-15_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Can Kamala Harris as vice-president be both loyal deputy and heir apparent?"
+    excerpt: "Harris says her model will be Biden’s role as veep to Obama but the president-elect’s age means speculation about an elevation to the Oval Office is intense"
+    publishedDateTime: 2021-01-03T09:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/03/kamala-harris-vice-president-role-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/kamala-harris-vice-president-role-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/kamala-harris-vice-president-role-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/a249a2739f4a9d0398cf4e865cc5e773e044a963/0_145_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b9361eab2813c47c5cc31096143736c"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
+    excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
+    publishedDateTime: 2020-11-23T12:09:00Z
+    webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
+    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJVQRVQ5RMI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
+  - title: "Kamala Harris’ husband, lawyer Doug Emhoff, to teach next semester at Georgetown"
+    excerpt: "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day."
+    publishedDateTime: 2020-12-13T07:40:00Z
+    webUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YNFSAR37YI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "Kamala Harris’s husband, lawyer Doug Emhoff, to teach next semester at Georgetown"
+    excerpt: "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day."
+    publishedDateTime: 2020-12-14T08:19:00Z
+    webUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/doug-emhoff-georgetown-law/2020/12/12/e51112c6-3bd0-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YNFSAR37YI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "'That was easy': Kamala Harris receives Covid-19 vaccine – video"
+    excerpt: "Describing the process as 'relatively painless', Harris urged all Americans to get vaccinated"
+    publishedDateTime: 2020-12-29T15:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/29/kamala-harris-receives-covid-19-vaccine-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/b3bda882fe05dfd40010b9089a9865fc47945c2a/141_311_2923_1754/master/2923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b7613345404fe29dfb72e262a0988ab"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘This is about saving lives’: Vice President-elect Kamala Harris receives COVID vaccine on live TV"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday morning received the first dose of the COVID-19 vaccine on live television, urging Americans to trust not only the scientists who researched and produced the vaccines but frontline health care providers in communities across the country."
+    publishedDateTime: 2020-12-29T16:38:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2020/12/this-is-about-saving-lives-vice-president-elect-kamala-harris-receives-covid-vaccine-on-live-tv.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2020/12/this-is-about-saving-lives-vice-president-elect-kamala-harris-receives-covid-vaccine-on-live-tv.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/12/this-is-about-saving-lives-vice-president-elect-kamala-harris-receives-covid-vaccine-on-live-tv.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 61
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UYW5JSQI3ZBPFHJI7AK7BZJLAM.JPG"
+        width: 3149
+        height: 2100
+        isCached: true
+  - title: "Kamala Harris' husband Doug Emhoff breaks gender stereotypes by putting her career ahead of his as second gentleman"
+    excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, is quitting his job to be second gentleman, breaking gender and race stereotypes."
+    publishedDateTime: 2020-11-12T23:01:00Z
+    webUrl: "https://www.cincinnati.com/story/money/2020/11/12/kamala-harris-husband-second-gentleman-doug-emhoff-breaks-stereotypes/6227849002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/6227849002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6227849002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b4f7d491-8820-4536-b3c3-3bdd42e2b92c-AP_Election_2020_Emhoff_2.jpg?auto=webp&crop=3938,2216,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "OUHPk9IWcf59vfurwdDnR8zq61G2ktGzTNF4pcaCgSHeeUs+I+0qBKOV1NM0Na+jwNCEqZUvXADAl+bC0RZL+mjtqdks4mxCvCkOhYRZubOKx+Qx2jO31e4G1fHjKF4yM+RLX+IpRdt4JDK3+4t/QveqBjRoxNnKQoIkb4sAvN2u4+lNSQo7kdyF8FW8mb4rZ8GClDAFOgNGKa94L0f2S0AZkNZPKDvaDsnMxaRl69bdf9eI/GVRtH+p2t2I5yP2NrMrTukSx1wCP7W4I4w9u7JMmJgn+k34m4+F++oyc9+jSBWVIEq1OJI6U42U4SIPZosudSEcyrmRj/SafocqnzuanySTh+fjqeh8bfvsV7c=;fluUeuteqOXOfXAgL22IKg=="
+---
+
