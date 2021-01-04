@@ -168,58 +168,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-president-elect-joe-biden-hoping-for-a-better-2021-let-us-unite-rebuild-in-2021.md",
-      "title": "President-Elect Joe Biden Hoping For A Better 2021: 'Let Us Unite, Rebuild In 2021'",
-      "excerpt": "On the last day of 2020, President-elect Joe Biden shared an important message with the people of America on social media, saying that he is hoping for 2021 to be a better year fo",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829",
-      "originalUrl": "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-elect-joe-biden-hoping-better-2021-let-us-unite-rebuild-2021-3112829?amp=1",
-      "publishedDateTime": "2020-12-31T17:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-joe-bidens-approach-to-latin-america-will-be-major-departure-from-donald-trump.md",
       "title": "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump",
       "excerpt": "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming.",
@@ -228,7 +176,7 @@
       "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1186,
+      "heat": 1206,
       "tags": null,
       "images": [
         {
@@ -1602,6 +1550,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
+      "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
+      "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "originalUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/09/f4/c81d7b12424ba657532f53b09681/regan-773.jpg",
+          "width": 1160,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
+      "publishedDateTime": "2020-12-17T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

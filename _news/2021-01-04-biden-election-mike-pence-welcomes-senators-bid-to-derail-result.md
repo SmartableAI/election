@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55517626"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55517626"
 type: article
 quality: 155
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT18H"
         width: 703
         height: 545
+        isCached: true
+  - title: "Biden inauguration to feature virtual, nationwide parade"
+    excerpt: "President-elect Joe Biden’s inauguration will include a “virtual parade across America” consistent with crowd limits during the coronavirus era"
+    publishedDateTime: 2021-01-04T00:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-virtual-nationwide-parade/2021/01/03/a75349e6-4e21-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-virtual-nationwide-parade/2021/01/03/a75349e6-4e21-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-to-feature-virtual-nationwide-parade/2021/01/03/a75349e6-4e21-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "The Latest: Group of senators urges Biden's win be certified"
     excerpt: "A bipartisan group of 10 senators has issued a statement calling for Congress to certify President-elect Joe Biden’s win"

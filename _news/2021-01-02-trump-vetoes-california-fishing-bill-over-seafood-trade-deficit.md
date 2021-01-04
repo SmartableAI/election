@@ -63,6 +63,20 @@ related:
         width: 849
         height: 545
         isCached: true
+  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
+    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
+    publishedDateTime: 2020-12-29T22:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
+        isCached: true
 
 secured: "MXOhBSK0/JAi2neuitWHc7vS7qXwcdQyvKsbkEESLAWKyJZ+yKfcwapvWoSroMKGAnSOXIPnLyHi0jPzAvaQa/ENMG16PUjxjpN4YDgm9z0KwpCUr8x5ZAv8SoESJ1/1AbivgndHAKbKDfej2c5nbLs1818WqZoG8egW+i5+y4DgcCTsO6soL7Ytsah0Va+U+KrPHKotRQxpewrp2uZPrjn7j92CKMnsvDoZBA0E0vAbQgFqhkAzioKSQKb/ajalFFtPXySsglTBp/vDQix2jkiViZlgzHL8yp4fCPKkYuK/gnN3Pe+aNEKxaRIVkYzfnLlLyo5EwDmcx4jj5LTnwvrmcNsYv/30EhopWuA+9EjFuVAdafSJMI83d1D4NGj/B6EPwfi/F9CjUY9oK1w4LbV8/yxB/uurrrfVH3Nv1YIatYY8EigZ3jk9NPgYn66SeccfIwMaeWoQtlaax7jp5Uk6yqLqJAfF5SaT9P/x1ST6gGFAgFTgHvs+GN9kW94omAYY2YumCCRDhPnJ59p0Wg==;UHnhYfqql8AMUW5Zs5KAoA=="
 ---

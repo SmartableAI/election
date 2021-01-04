@@ -446,6 +446,22 @@ related:
         width: 2642
         height: 1761
         isCached: true
+  - title: "Listen to the full audio of Trump's phone call with the Georgia secretary of state"
+    excerpt: "In an astounding phone call, President Donald Trump for over an hour berated and threatened Georgia Secretary of State Brad Raffensperger, repeating various false claims about voter fraud and begging the Republican official to overturn the election results."
+    publishedDateTime: 2021-01-03T23:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/listen-full-audio-trump-s-phone-call-georgia-secretary-state-n1252696"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252696"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252696"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_53/3439288/210103-donald-trump-jm-1619_a67bfcb4b233682890956e527ecbe768.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
     excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
     publishedDateTime: 2020-12-31T23:57:00Z
@@ -531,6 +547,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Md89tOKSx74oluFWpay72gxidQOWpOssP7i/Zqj5fh3+ttTSHAcZ8ozXcIFENCacIblXivymhY3fVevg/ainLm81tRWabvMeskL4uvkVeiwGhSO9QHeSUIzI9HiBUOMYZ+F7vYNF2qAwBx85tbA/i2Vc0mLtdAyjmm4yjZ+hTxP2evJ0XbFW0ByNc/66EZXJ5f4C0IptpELV7lVUj4jG1Lk8GF+DFHIS9Lhfxr3n7MzHw/WSZ1549qLaKUAf0p0Ecp08lwXwEChjn7sd9OhnVlaSugHehsNNtZDZ2BnKW4zJOAnMky5hzPjv94O0hbS7+Cvbjl5MJB5LgA1i9rsSmM3GYxt9W4wC9jcjL0MH4sQ=;ye9aAQwy8jqzMKiFsJfgxw=="
+secured: "dBPFyt6Wggy7iJAlVgO31fgL7/3zCf3sOBDv2EvsXW8gH1QgYCO470rV+Ky9yRBYIESQvY64UB0MO0frCjbh5Qgp0OOLUfARnB2dSq59Ye1TGBJ+Bq8C00n/J59aRSCqjC0H4n5BWELgHVowNDkeyekK4EcZCTE7CZ8key0BNAt9QXFCOY0k08m78Aft+r61mTAl2WJ3p/8GYpo9pun+Rk8Xub8cxfUXv85rUNEhPWGv2dRHZwC+YR66darHINu7/YzBqegSTzBLhRP5PTyWS09GcnP+KUnuuriSJraecsl/gzoOOpSySbwBwpGtu9iyLKARUQDFmArEIprcLJeO7XoOpWBsK8+p53ueHWPu3RQsZgMdRwXmldJqr/UYEnQA9DqhZ+iAgcimXtofIU1k1z8ecc75ryirDmmSodVvrQ7LysLbGlRDB9MLQ0A+WnSxlAmhunffRAF4k9+Bm7TdNo//m7fSoA3DmMYxlzkVxulqgil5iB2xEeG+narIjqgityIOmdfGQXXt5MN2eu1vPA==;9NLlP/K1cxOpF3invrj6OA=="
 ---
 

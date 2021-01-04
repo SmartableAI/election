@@ -45,21 +45,19 @@ related:
         width: 2500
         height: 1524
         isCached: true
-  - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
-    excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
-    publishedDateTime: 2021-01-03T22:49:00Z
-    webUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call"
-    ampWebUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
+  - title: "Here’s the full transcript and audio of the call between President Trump and Brad Raffensperger"
+    excerpt: "The call transcript was edited to remove a name about whom Trump makes unsubstantiated claims."
+    publishedDateTime: 2021-01-04T00:36:11Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raffensperger-call-transcript-georgia-vote/2021/01/03/2768e0cc-4ddd-11eb-83e3-322644d82356_story.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 93
     images:
-      - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_2.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DIWJRGCOA4I6XA7DGITEJWBDKY.jpg&w=1440"
         width: 1440
-        height: 880
+        height: 960
         isCached: true
 
 secured: "6dHOB0Rwnq3a7sul85eVWOFrYL/pOYKRMdR+DH3YWYUjiTj2P6wTD2ceHbUNcg/SGreiWfaSywbyysVKO4E4Y1eG+Qf+64Jgqy1I8hZPVECFPSbTL5epEEvcieg2jyZ8X1VzBeMZTklBX7Dg/QDfptaC68AH0HXhQJQ3pxYW0haPVMlQwxHH02j8QqyD1hybGEMkuq0vlYJ1poGhlKhG/+MRSwEl+ZTWAiPmWgNYm3VlTlQ1nlT41iLWiT7tFCH+/S+URaabh5pvgvIZ3opFEyQQANoIcNsW+dEeBI/xjyhMv3OWYJH5bBFn18kUxDjd8ZT0zw8QA4HNLQ07Avhs4vvAVk7cXC1189ey8y5FoGHcs/aA5trVbNrB1ZZ8Uf5WMnnNRJ1uZbceps5WaUlG/jVer8+Mvx7MbV0R+0VltLjszU5An5lOXzG0fMBXD9ou6J+0xUvJ5Jdw+fF3q55rNPQcz0z6QwNp/UL7EUb6JcjII6Z9z+M1AlwuFVCfx1MigBLnuY8LE62W9qsIP5VQC8ZhQigZ4mcKeHZrGFIYIv4=;vGdfW7rfhqsYXumDRWyuiQ=="

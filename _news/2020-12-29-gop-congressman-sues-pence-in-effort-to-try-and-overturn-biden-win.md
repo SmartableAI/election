@@ -183,14 +183,14 @@ related:
         isCached: true
   - title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
     excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
-    publishedDateTime: 2021-01-03T22:24:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/4120484001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4120484001"
+    publishedDateTime: 2021-01-03T23:21:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 53
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/eb8d47e8-dbef-4300-b47d-0eea8dc13aee-AP20343703704788.jpg?auto=webp&crop=5999,3374,x0,y508&format=pjpg&width=1200"

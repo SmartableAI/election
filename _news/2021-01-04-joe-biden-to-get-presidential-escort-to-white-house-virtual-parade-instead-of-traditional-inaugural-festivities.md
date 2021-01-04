@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
 excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
-publishedDateTime: 2021-01-03T22:24:00Z
-originalUrl: "https://www.tennessean.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-webUrl: "https://www.tennessean.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-ampWebUrl: "https://amp.tennessean.com/amp/4120484001"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4120484001"
+publishedDateTime: 2021-01-03T23:21:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -214,6 +214,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Drg6zY6jncB/ozq4HoztHs2qI5+J87iYv8K8tCop/Xg98Pg9HP2Ko8TQnFw7wfUfomJ1czFGLxaIfycIUtlE7uz4OATTDPn2VdiBbkugDJKWe0FsqUP/96g153qA1yUoUiNLfL2LNXUP7gogTcwwGwS8ygiktrX3dwonU/rR7To3fGCx1n5jAQLc4NQwjg2vm9PtaF0mYrCf8P6z4IynOdVJkOb5h/xY+QBPNViw3+Uh0bnTpd4fwKGPiV12eIQFJ/uHrAQz+qKyfq4G3lszOvN3OuhdvXg8Z7s0dpf3Qj/4zTv5cLMKAeMU/fSJHpcKDXbNTtNsSK9QTmjpci1DVVvSHO4/cxAwHdzR30G1bE0=;7khqPv/lrsNwGCYFu6tkcg=="
+secured: "O5CcpVnUuo4+dBNJBiHnjkSXYjwI5hEiOkopLqfkhvZ6vt0Ip41CPv7WcOT36y5szH3MLgZt1nhP8LkDnm4RnjHSYUvxRpE8g3CMkUQLmSZrkB3O+HDNM1ygmMaiC6zJmzR7MEvuIkX0019gUzSi2ZTHx7Q6auWJrb0p3Ij0zBwznN7yN0/f1mHyQ4YfBvhSdr+y9EfdAKkK/r1iCyCi+opENCdHe0uSQmHgQ1OcGEtPjcAnYEvywJiycB7l34SnloYtrEtk4yWMAA6bR2f2pZd5R5kfJ/s3bnFOjoG4/UJ2pQiAdkta5aqF5FtfB/UiIMTOqzfUkluMIhHymaJVRrascSFFxQ5Mo1R7M2qSKb0=;EGsJS3tNifVX5irdmuNd8g=="
 ---
 

@@ -187,6 +187,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "'I just want 11,780 votes': Trump pressed Georgia to overturn Biden win – report"
+    excerpt: "Trump asked secretary of state Brad Raffensperger in hour-long phone call to recalculate vote"
+    publishedDateTime: 2021-01-03T14:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/ef50fd94529c5075f1f3ddf5a581dcdfec6735ae/0_152_5469_3282/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c54870c1ba952942958b6060f010ab75"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
     publishedDateTime: 2020-12-29T00:34:00Z
@@ -827,6 +843,6 @@ related:
         height: 683
         isCached: true
 
-secured: "bhhoAeiImz6HSaPeVHgobNF25AW+RZAsjEJvAX8AzKnYFJY+esWD1/Tcs6QwlhDGW+Wcc6TWs5K7jP2jeRk99kwpgkzGdrhofBfPFfftg/4HW5ExFWBwrAdAlOnZsGjCfhzirBCMQTQ9a5M2EtPC//7dcTBZEtCrIJmbh7RRCxeI7ynFjgO8keqcutnKx1VdS6fRPM+zE2kuW9mMaLjnIPfIRvRDrqzlzc7+Hgl+XYDp/GpiHXfAt8jsh7yxN+OIOrtKdVctTNz6qxanXwqhlwN+EC3Md/HbNYi6DE6Gt4bxWqAYFyFhTtIL0bSgQxYcAsSBV+uRIiudSXpOZ30J53p/mDHnZcsPkEYlgQaUgEU=;9l1FvfB5+HQXNzh6VCQ4Lg=="
+secured: "pAXyZMzvdOy/B32BiLrvLziBCT8p5++cU85bGAvC1QhirmU7XvSQ7FuiN7KVydX3WS8Y+i6VQpSQo69d5dbReD9bmiq2HnNKROVzKid5NUEHFG5FMZnkS5nfZvEYPxeWDhcFpRiY1AMm2WoRac4Z6lXqhkRxG3v8Z4QaKRb4PvEen7N5kvjPIGz9dqvhbeR+n2FyRwavT90HGdcl5bKFzQZz6IeVVgl+fjwFA1sYCGhqcgxHvp18n7Al3ZihGO2YgVmdTA928uaTZkMi7og0zYBeB3hXfcUxNh68grwNWCK2y1L4LM/cg9qm+WQ7SMn63HXSZZlUfcB/g7qVXBY0FmOKXGHgCJlW7cOKlXjxTYbf6otX9GniYJf/UJ4TfJ95Zku7M8dA7CdiHOwSUxUJJLZvw7sxOdZlUVh+Ic8Fu17msdpaeFpZeZIuW6uYk4FIfX+7Cct5ahcbnuWL4S0uGUveKsjwCOJtm1GaNCeeiK2dXdOkKoSTlB6nhQyeWg0pJQ2bP2pUWo4eoyONmZpreQ==;GWD5TGiV84j9/wrZzuH13w=="
 ---
 

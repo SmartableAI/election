@@ -153,22 +153,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris’s groundbreaking path to the White House"
-    excerpt: "How Harris got where she is, and where she’s likely headed, is the subject of Dan Morain’s “Kamala’s Way.” From the start, he explains, it’s been a complicated path, mixing principles and pragmatism,"
-    publishedDateTime: 2021-01-01T14:30:00Z
-    webUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/rcGgsBKubkAqaZioP9K6GjrB36I=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6POFLXWAZB7LM373XXSTZVNLI.jpg"
-        width: 1200
-        height: 891
-        isCached: true
   - title: "‘This is about saving lives’: Vice President-elect Kamala Harris receives COVID vaccine on live TV"
     excerpt: "Vice President-elect Kamala Harris on Tuesday morning received the first dose of the COVID-19 vaccine on live television, urging Americans to trust not only the scientists who researched and produced the vaccines but frontline health care providers in communities across the country."
     publishedDateTime: 2020-12-29T16:38:00Z
@@ -184,20 +168,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UYW5JSQI3ZBPFHJI7AK7BZJLAM.JPG"
         width: 3149
         height: 2100
-        isCached: true
-  - title: "VP-elect Kamala Harris receives coronavirus vaccine"
-    excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
-    publishedDateTime: 2020-12-29T18:36:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/vp-elect-kamala-harris-receives-coronavirus-vaccine/IMNYPWEP4VDMZOB3COK62KHSMQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 55
-    images:
-      - url: "https://www.ajc.com/resizer/HHv1BPHsIICavj07Z2odFiTQndA=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-20-2020/t_74fafcf1b29243b9a5def943e485f92b_name_t_d1a80fe1206e4f32b22e917a53a03f39_name_DNC_Harris__scaled.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "vlB2gFP97g3f92melxE+ulYYhN8r+6WiYF6X7Z88P7aPsBGpHVVuCmlHmdAzZeWPiJ3zGs0FPTuvoALo0oLRJoTm/GuRf5G+pkXslAfJTf+KUxltcStiaMKvW5DI/Q1w9uSguWfjnZ4Udc3v/Lb9CPOBqVy9sw0FChz0J369Q0Hc4H41MYwSfMwJTJAsNxkFs91izRM9PSSUKFFWLSuTM9JWWToYbDLt/DWEJkLlisaGpw6EdUXGyaT0CABid4lhGMSw7e8gSGqpyFKcj0TK55CNcASwFtAzhNdriIm+0FD5/IOu6khUB2/FEp6IH9ERvjRG1fHWT3Zv0FaLjOKsbs3Tsx0kfqlil6Gjbj53QsU=;qktXqpfLw8+R982q+oYz/A=="

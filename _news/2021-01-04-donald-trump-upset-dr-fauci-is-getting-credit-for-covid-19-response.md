@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Coronavirus updates: Donald Trump says US 'China Virus' data exaggerated; Dr. Anthony Fauci protests, draws president's wrath"
+    excerpt: "Anthony Fauci dismissed claims tweeted by President Donald Trump that coronavirus cases and deaths in the U.S. are \"fake news.\" Latest COVID news."
+    publishedDateTime: 2021-01-04T00:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/03/covid-update-larry-king-ill-4-million-december-vaccinations-us/4114363001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4114363001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114363001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/31/USAT/414bbc39-9b0a-4ff7-9a7f-0f396afdb7c3-AFP_AFP_8XY98A.jpg?auto=webp&crop=5471,3077,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
     excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
     publishedDateTime: 2020-12-21T22:06:00Z

@@ -29,131 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls for Georgia Gov. Brian Kemp, a fellow Republican, to resign"
-    excerpt: "The president’s demand stems from the governor’s refusal to embrace Trump’s baseless claims of widespread election fraud."
-    publishedDateTime: 2020-12-30T14:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4GRMSKVUI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 1149
-        isCached: true
-  - title: "Trump calls on Republican governor of Georgia to resign: ‘Fools!’"
-    excerpt: "Gov. Brian Kemp on Wednesday called a tweet by President Donald Trump demanding his resignation a “distraction.”"
-    publishedDateTime: 2020-12-31T13:55:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-brian-kemp-resign-20201231-jrfoh27hy5gm5i3mt2wfhmxx4y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-brian-kemp-resign-20201231-jrfoh27hy5gm5i3mt2wfhmxx4y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-brian-kemp-resign-20201231-jrfoh27hy5gm5i3mt2wfhmxx4y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/miTadWLCHb1PR8GR3Sk5MEa_2Js=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BV5BLSHAXBFQDAOHPVSFAEZTCQ.jpg"
-        width: 1200
-        height: 957
-        isCached: true
-  - title: "Trump lashes out at ‘weak and tired’ Republican congressional leadership"
-    excerpt: "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance."
-    publishedDateTime: 2020-12-30T00:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Durbin: Trump Georgia call 'merits nothing less than a criminal investigation'"
-    excerpt: "Senate Minority Whip Dick Durbin (D-Ill.) said Sunday that President Trump’s call with Georgia Secretary of State Brad Raffensperger (R) “merits nothing less than a criminal investigation.”"
-    publishedDateTime: 2021-01-03T22:23:00Z
-    webUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation"
-    ampWebUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/durbinrichard_062420bc_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump pushes Georgia secretary of state to 'find' votes during phone call, Washington Post reports"
-    excerpt: "The Washington Post released audio excerpts of a call in which Trump pressures Raffensperger to \"find\" enough votes to reverse his election loss."
-    publishedDateTime: 2021-01-03T20:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/03/trump-pressured-georgia-election-official-call-washington-post-report-says/4119948001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4119948001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4119948001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/8d2d59a1-292e-493e-a149-97eb72904e36-AP_Trump_Legacy_By_The_Numbers.jpg?auto=webp&crop=4766,2681,x0,y242&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "At odds with fiscal conservatism, Georgia's GOP candidates support Trump's demand for $2,000 stimulus checks"
-    excerpt: "Sens. Loeffler and Perdue said they support President Trump's call for bigger stimulus checks going to the American people, putting them at odds with fiscal conservatism."
-    publishedDateTime: 2020-12-29T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
+  - title: "Trump vetoes Calif. fishing bill over seafood trade deficit"
+    excerpt: "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California"
+    publishedDateTime: 2021-01-02T00:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 106
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/stimulis-checks-covid-kelly-loeffler-david-perdue-04-gty-llr-201229_1609264424598_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump's call for $2,000 cheques blocked by Senate leader"
-    excerpt: "US Senate Republican leader Mitch McConnell has rejected calls from an unlikely alliance of President Donald Trump, congressional Democrats and some Republicans to boost coronavirus aid. The House of Representatives,"
-    publishedDateTime: 2021-01-01T18:54:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55484625"
+  - title: "Trump vetoes California fishing bill over seafood trade deficit"
+    excerpt: "President Donald Trump vetoed a bill to gradually end the use of large-mesh drift gillnets deployed in federal waters off the coast of California."
+    publishedDateTime: 2021-01-01T23:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/trump-vetos-california-fishing-bill-seafood-trade-deficit/4110144001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4110144001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110144001"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Donald Trump Ridiculed For Claiming Upcoming Georgia Run-Off Is ‘Illegal And Invalid’"
-    excerpt: "Donald Trump once again found himself the subject of ridicule when he continued to make claims regarding both the Presidential and special runoff elections."
-    publishedDateTime: 2021-01-02T16:25:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
+  - title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
+    excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
+    publishedDateTime: 2021-01-02T07:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-senate-idUKKBN2962KZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962KZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962KZ"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 68
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/31/imagesus-president-donald-trump-plays-golf-at-his.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546362263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0019U"
+        width: 849
+        height: 545
         isCached: true
 
 secured: "4OacDyjShTXLzQ6SfGERWoQJYAkM7CK8J4nOR05UkS+jZqZEm4cSzJ8BkLHa76ooR7QDlOnHqhSTJxNYHRnz6kDdM32ieYONyvP+o+O44quO+a1jd2FSVUCnueBR0GZUN1NxkEa2oI/LDwk4MXm05hyg9nPZHeGyEBZ4Qts9Q0FOJNFvm3SXlCAc9qHXnDscLZEey6AXRggBO0ZDQN+3lO3Uer3IQGXHR904PEzns+NzNFGsodk9OpqXe40UjuZzhxWdxE6sakDuzscxlEIyNcbNm5q8CpZ7xxb5IXsNw8Qz/IyHwef/NMfo2vvwhXnqAXxxnImku6omN1R3+Cg9BO45mDKeAbW38icZcU7E2htsfSJG5PvEmwQZYde9l+J+dhq8EJKA9Tp+s/7qZ6HuZ0FpY2vfrbwbgqiKZV/pP06a+D/8RFB2BXOdfZCwe8QlOR+ysT+0trxgg7ZbW4+889Izsu6BYIQmHXYQe8pNRgPnkiMLJ3/QCJVh7p9dniqB1b9v+okhcggpjM/6NUmuhQ==;jTk6bMhm7rvfOonvasSiRQ=="

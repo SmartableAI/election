@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,52 @@ images:
     isCached: true
 
 related:
+  - title: "Harris calls Trump's plea to Georgia election officials an 'abuse of power'"
+    excerpt: "While at a campaign rally in Georgia, Vice President-elect Kamala D. Harris on Jan. 3 slammed President Trump's call with Georgia election officials, in which he urged fellow Republican Brad Raffensperger to “find” enough votes to overturn his defeat."
+    publishedDateTime: 2021-01-04T00:13:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/harris-calls-trumps-plea-to-georgia-election-officials-an-abuse-of-power/2021/01/03/ae84f2e0-e5b6-4c9c-97c9-85f31345cd64_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_8654d3ef7444453fa1b4a8b96019ae62_name_Screen_Shot_2021_01_03_at_6_02_05_PM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
+    excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
+    publishedDateTime: 2021-01-04T00:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4107424001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4107424001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris to campaign in Georgia next week"
+    excerpt: "Vice President-elect Kamala Harris will be traveling to Georgia Monday to campaign with Democratic Senate candidates Jon Ossoff and Reverend Raphael Warnock. Both men are engaged in highly competitive and high-profile runoff races that will decide which party controls the U."
+    publishedDateTime: 2020-12-18T17:57:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-georgia-senate-runoff/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/17/5e18729d-7069-40ea-9bf1-1597ddfc9cf7/thumbnail/1200x630/80a7cccaf3029fd99ea448c02d502fcd/gettyimages-1230034648.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump calls on Republican governor of Georgia to resign: ‘Fools!’"
     excerpt: "Gov. Brian Kemp on Wednesday called a tweet by President Donald Trump demanding his resignation a “distraction.”"
     publishedDateTime: 2020-12-31T13:55:00Z
@@ -47,37 +93,21 @@ related:
         width: 1200
         height: 957
         isCached: true
-  - title: "Trump lashes out at ‘weak and tired’ Republican congressional leadership"
-    excerpt: "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance."
-    publishedDateTime: 2020-12-30T00:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Durbin: Trump Georgia call 'merits nothing less than a criminal investigation'"
-    excerpt: "Senate Minority Whip Dick Durbin (D-Ill.) said Sunday that President Trump’s call with Georgia Secretary of State Brad Raffensperger (R) “merits nothing less than a criminal investigation.”"
-    publishedDateTime: 2021-01-03T22:23:00Z
-    webUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation"
-    ampWebUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
+  - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
+    excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
+    publishedDateTime: 2021-01-03T22:49:00Z
+    webUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call"
+    ampWebUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 121
+    quality: 122
     images:
-      - url: "https://thehill.com/sites/default/files/durbinrichard_062420bc_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_2.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Trump pushes Georgia secretary of state to 'find' votes during phone call, Washington Post reports"
     excerpt: "The Washington Post released audio excerpts of a call in which Trump pressures Raffensperger to \"find\" enough votes to reverse his election loss."
@@ -95,65 +125,230 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "At odds with fiscal conservatism, Georgia's GOP candidates support Trump's demand for $2,000 stimulus checks"
-    excerpt: "Sens. Loeffler and Perdue said they support President Trump's call for bigger stimulus checks going to the American people, putting them at odds with fiscal conservatism."
-    publishedDateTime: 2020-12-29T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
+  - title: "Kamala Harris receives COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris received her first dose of the COVID-19 vaccine Tuesday in Washington, D.C. She got the shot on camera in hopes of encouraging Americans to get vaccinated when it's their turn."
+    publishedDateTime: 2020-12-29T17:09:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-receives-covid-19-vaccine/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 106
-    images:
-      - url: "https://s.abcnews.com/images/Politics/stimulis-checks-covid-kelly-loeffler-david-perdue-04-gty-llr-201229_1609264424598_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump's call for $2,000 cheques blocked by Senate leader"
-    excerpt: "US Senate Republican leader Mitch McConnell has rejected calls from an unlikely alliance of President Donald Trump, congressional Democrats and some Republicans to boost coronavirus aid. The House of Representatives,"
-    publishedDateTime: 2021-01-01T18:54:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55484625"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/229b2034-c8f3-46bf-aae1-ce6af52f38dc/thumbnail/1200x630/46f208de17f32695d3cbcebe5deb5628/cbsn-fusion-kamala-harris-receives-covid-19-vaccine-thumbnail-617698-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Donald Trump Ridiculed For Claiming Upcoming Georgia Run-Off Is ‘Illegal And Invalid’"
-    excerpt: "Donald Trump once again found himself the subject of ridicule when he continued to make claims regarding both the Presidential and special runoff elections."
-    publishedDateTime: 2021-01-02T16:25:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ridiculed-claiming-upcoming-georgia-run-illegal-invalid-3113276?amp=1"
+  - title: "Kamala Harris Receives First Dose of Covid-19 Vaccine"
+    excerpt: "Vice President-elect Kamala Harris receives her first dose of Moderna's Covid-19 vaccine at United Medical Center in Southeast Washington, D.C. (Source: Bloomberg)"
+    publishedDateTime: 2020-12-29T16:39:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-12-29/kamala-harris-receives-first-dose-of-covid-19-vaccine-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioeIXMANEEsk/v5/-1x-1.jpg"
+        width: 950
+        height: 534
+        isCached: true
+  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
+    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
+    publishedDateTime: 2021-01-04T00:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-defense-idUSKBN29901P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29901P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29901P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
+    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
+    publishedDateTime: 2020-12-30T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
+    publishedDateTime: 2020-12-29T16:29:00Z
+    webUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230345925.jpg?itok=9kpTgTT4"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Kamala Harris receives COVID-19 vaccine shot"
+    excerpt: "Vice President-elect Kamala D. Harris received the first dose of Moderna’s COVID-19 vaccine Tuesday in Washington."
+    publishedDateTime: 2020-12-29T16:57:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/29/Virus_Outbreak_Harris_11714.jpg-7528b_c0-192-4014-2533_s1200x700.jpg?2599c9a0d34520e2d6e2d09a62f00f5522b82bbe"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris’s groundbreaking path to the White House"
+    excerpt: "How Harris got where she is, and where she’s likely headed, is the subject of Dan Morain’s “Kamala’s Way.” From the start, he explains, it’s been a complicated path, mixing principles and pragmatism,"
+    publishedDateTime: 2021-01-01T14:30:00Z
+    webUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/rcGgsBKubkAqaZioP9K6GjrB36I=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6POFLXWAZB7LM373XXSTZVNLI.jpg"
+        width: 1200
+        height: 891
+        isCached: true
+  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
+    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
+    publishedDateTime: 2021-01-03T21:34:00Z
+    webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+    ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
+    cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
+    type: article
+    provider:
+      name: Savannah Morning News
+      domain: savannahnow.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Trump Tapes:' Listen To Recordings Of President Urging Georgia Official To 'Find Votes'"
+    excerpt: "The Washington Post released a phone call recorded Saturday of President Donald Trump attempting to persuade Georgia’s Secretary of State Brad Raffensperger to overturn state election results. While there has been no evidence of voter fraud in Georgia,"
+    publishedDateTime: 2021-01-03T22:56:00Z
+    webUrl: "https://www.ibtimes.com/trump-tapes-listen-recordings-president-urging-georgia-official-find-votes-3113654"
+    ampWebUrl: "https://www.ibtimes.com/trump-tapes-listen-recordings-president-urging-georgia-official-find-votes-3113654?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-tapes-listen-recordings-president-urging-georgia-official-find-votes-3113654?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 68
+    quality: 66
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/31/imagesus-president-donald-trump-plays-golf-at-his.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
         width: 1024
-        height: 576
+        height: 642
         isCached: true
-  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
-    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
-    publishedDateTime: 2020-12-29T22:47:00Z
-    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
+    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
+    publishedDateTime: 2020-12-29T22:29:00Z
+    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 60
+  - title: "Kamala Harris to Receive Coronavirus Vaccine"
+    excerpt: "Kamala Harris’ vaccination comes a little over a week after President-elect Joe Biden received his first dose live on television."
+    publishedDateTime: 2020-12-29T13:46:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Kamala Harris goes to Black community in D.C. for vaccine"
+    excerpt: "Harris said she deliberately chose the city’s only public hospital, United Medical Center, because it serves neighborhoods in the city’s Southeast quadrant that are predominantly Black. WASHINGTON — Vice President-elect Kamala Harris said she “barely felt” the COVID-19 vaccine shot in her left arm on Tuesday after she was inoculated with the first of two Moderna doses at a Washington hospital in the heart of the city’s Black community."
+    publishedDateTime: 2020-12-30T05:26:00Z
+    webUrl: "https://www.pressherald.com/2020/12/29/kamala-harris-goes-to-a-black-community-in-dc-for-her-covid-19-vaccine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/12/APTOPIX_Virus_Outbreak_Harris_11063.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "VP-elect Kamala Harris receives coronavirus vaccine"
+    excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
+    publishedDateTime: 2020-12-29T18:36:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/vp-elect-kamala-harris-receives-coronavirus-vaccine/IMNYPWEP4VDMZOB3COK62KHSMQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/HHv1BPHsIICavj07Z2odFiTQndA=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-20-2020/t_74fafcf1b29243b9a5def943e485f92b_name_t_d1a80fe1206e4f32b22e917a53a03f39_name_DNC_Harris__scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Request To 'Find' Votes For Him Sparks Political Uproar"
+    excerpt: "The release on Sunday by US media of a stunning audio tape in which President Donald Trump pressured Georgia's secretary of state to \"find\" enough votes to overturn his election defeat there to Democrat Joe Biden sent shockwaves across Washington."
+    publishedDateTime: 2021-01-03T22:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-request-find-votes-him-sparks-political-uproar-3113583"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/lawmakers-return-to-the-us-capitol-for-a.jpg"
         width: 1024
-        height: 642
+        height: 681
+        isCached: true
+  - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
+    excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
+    publishedDateTime: 2020-12-29T16:22:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6819818-Kamala-Harris-to-receive-shot-in-bid-to-boost-U.S.-confidence-in-vaccines"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 54
+    images:
+      - url: "https://www.fccnn.com/incoming/6819834-78kn7o-U.S.-President-elect-Joe-Biden-announces-his-nominee-for-secretary-of-education/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20announces%20his%20nominee%20for%20secretary%20of%20education"
+        width: 1140
+        height: 712
+        isCached: true
+  - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
+    excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."
+    publishedDateTime: 2021-01-03T23:32:00Z
+    webUrl: "https://www.11alive.com/video/news/politics/elections/kamala-harris-savannah-georgia/85-0ed6ae43-d781-4f5b-a472-44afe8e1884c"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 54
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "LPJ6s20jRjjqnvWIWaZXjMx7WidgSWuZBxI+EX5O5dxBHzIskXtAb5aAJJkBoKln2KONpmkcrKCflYP72gh8McbTNTS+iA9unVrx5u9ZGW974Wc9h80Lm0kUu8jyYAI+Gzbtw7EOf5wjuY5prGpVcEK+1VD26aXtBlgLzai0z+PbnP7IxGKQC32hxbKrWJE0/YKj+JCaqqVnpe2jwUrh+W7YF0+VgrmP4bH0VX99hrl77Ld6EddSs8gxA0TCZXD7vhMs8IYKkCktRL8QDgcF0LY5TJ9uhbf0aJS9SVoogF8zl9UO/ES6zafTjjUrgzcIwXDQzrl3UNuY/ZarQY3vI3P6nHnRrtNrjd56dfiMDbWUzGuL6fAjJa1lItgFuXHlqP/y6j2B6USD8E9HFJkoHgl/Ndab7Pv8QVRAJFOrBLT+fhlRpKPYpJSImREX3eegqrhs13SCwaMeTr1pV6KeuoVb9GADAYFLpvQHGwm8flb1nD3z5YB1TwfgdWpq9FXunZC5HrcrrEMziFxycOQGGg==;9kyP5PsaT+lbvwCT2P/cNQ=="
