@@ -144,6 +144,22 @@ related:
         width: 2500
         height: 1670
         isCached: true
+  - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
+    excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
+    publishedDateTime: 2021-01-04T03:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-biden-inaugural/03dc-biden-inaugural-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
     excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
     publishedDateTime: 2020-12-29T01:27:00Z

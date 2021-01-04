@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-vio
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
 type: article
 quality: 131
-heat: 631
+heat: 651
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/8cf09a05e8b6289779c9cbdff24e2570fd455214/0_66_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5cb0c074ddd38a0d2a371b27768caa25"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump to give ally Nunes the Presidential Medal of Freedom"
+    excerpt: "President Trump on Monday is expected to give Rep. Devin Nunes (R-Calif.) the Presidential Medal of Freedom, the nation’s highest civilian honor, according to someone familiar with the plans."
+    publishedDateTime: 2021-01-04T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYWUWHA2ZAI6VF32CWTHCDWW3I.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
     excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."

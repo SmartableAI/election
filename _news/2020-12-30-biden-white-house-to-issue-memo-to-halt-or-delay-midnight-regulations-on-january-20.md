@@ -127,6 +127,22 @@ related:
         width: 2500
         height: 1670
         isCached: true
+  - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
+    excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
+    publishedDateTime: 2021-01-04T03:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-biden-inaugural/03dc-biden-inaugural-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers"
     excerpt: "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\""
     publishedDateTime: 2020-12-27T12:56:00Z

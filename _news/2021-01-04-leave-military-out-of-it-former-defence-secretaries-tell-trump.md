@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump to give ally Nunes the Presidential Medal of Freedom"
+    excerpt: "President Trump on Monday is expected to give Rep. Devin Nunes (R-Calif.) the Presidential Medal of Freedom, the nation’s highest civilian honor, according to someone familiar with the plans."
+    publishedDateTime: 2021-01-04T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYWUWHA2ZAI6VF32CWTHCDWW3I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Paleologos on the Poll: A 'cult president'? Breaking down Trump's support"
     excerpt: "Donald Trump could at the very least be characterized as one of the few U.S. presidents with a cult of personality and a cult-like following."
     publishedDateTime: 2020-12-24T13:18:00Z
@@ -416,6 +432,6 @@ related:
         height: 630
         isCached: true
 
-secured: "q5eUFfN5IA3lYL588TVUS8kl70/rSqowoQv0gOKJfWGAg/4BB5F5Rz2MUViVPGl+EJscC7vIra+wzZ9wJAbEazJvbiuyMTWvxRTqjWHKXzHKwYoferNerFd1l+qDs6eLfGEgcFAOmjHELzZVjgFOEBIuSw91Oug5Jtje3uHxJkIwqInX+fHR4y14BVKKyHrsv/4gvKYTrQl7cMGmJjWHlZT/LBzHk7KwilzpDnNBTgOVZeZbrZ8BDZfKdV2bP0kaHqfctGg1E4G+y2wsBRKUNoUveWbU9akUsAwpygiBi2/qUdHSGtAFuG4alwRWsXeLPSezNVewmqUeUmBC95rrZMFCwLRIlMexl3X2f8W5nGY=;pahGr67f54BRsJqxECKALQ=="
+secured: "hbiyXC7h6N+B+5v0yUplb2bLD+HWHsGlgiNmICH63iqMCYjkHo3Dq7IchHpJOyALTYe61K7AnLp83xZP0O8/N8xrfbysup7leK9TDt+qV5gTmFqPiRtDG+iauL8vb6WRQjFgV8s5d+iH95IefdystC+3M9/UdJitDQtRx/FD+2m/DoyGMe4s9JIElJwUeFCAtj8VaRuZB1XXR58qvZdJCNJmXeq1tJC0fd9EDTDJHqt+3J4qFgFyyuOJd0+JtnwR2O7fiINm1WjbiZUCKXdv/zpIjCdS8kxzZ4hTIJh3jmXyUPA9lqf1nU2lVckH9Cwsq2RY2AJa+LUb8km1iAdqZxzaMqTToDauLdNGGgy8nQzxvDxRQK058E2s/bBbTf/rUhfgtFQ0fM/UKJMyinjqGmMjZUINyHTDJF8dKnhlbnum8KRekHM3zur9XH63JBBpSXHkG3Rh7SQ1qQ09zy26lPyEXxeC8QudIuj47c/kFRcNiuFA01Hf9oANktx1pQOPo/x7HN50akuAICgmRWhJHg==;PucDN6R7m0CBQe0BPJe6cA=="
 ---
 

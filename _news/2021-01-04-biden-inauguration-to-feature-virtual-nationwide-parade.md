@@ -2,21 +2,21 @@
 category: news
 title: "Biden inauguration to feature virtual, nationwide parade"
 excerpt: "President-elect Joe Biden’s inauguration will include a “virtual parade across America” consistent with crowd limits during the coronavirus era"
-publishedDateTime: 2021-01-04T00:22:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-virtual-nationwide-parade/2021/01/03/a75349e6-4e21-11eb-a1f5-fdaf28cfca90_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-virtual-nationwide-parade/2021/01/03/a75349e6-4e21-11eb-a1f5-fdaf28cfca90_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-to-feature-virtual-nationwide-parade/2021/01/03/a75349e6-4e21-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-to-feature-virtual-nationwide-parade/2021/01/03/a75349e6-4e21-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+publishedDateTime: 2021-01-04T01:25:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-virtual-nationwide-parade-75027469"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-virtual-nationwide-parade-75027469"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-virtual-nationwide-parade-75027469"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-virtual-nationwide-parade-75027469"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5b154f12b3704f6d9eafe32fd554a658_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -511,6 +511,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8GkENDjaa9scQuZsmZB7sy3ReGogY8KYlvQHeC34KmCl5nazek9Bjs7tGANJPid4uPlfNw7l/6nWHQaB6UzZh+tITSXrQSNiiQMYPPDr9tw6WlPXf9b5Un6du5zqJo5p29MzQs0qlHJlOmy9DgjKLWuYJ7XHa83BUZeanNNRHpR7uexfC3cvpLVBJvrkZcHaRxgLWH6Clld6i1hAgvXh5V1ODlHy1RKp+Iv9B3Zb4beSiKPr2nFkxK3h3POEr3im382Sz0b7sxmahzxmuvZ73/+XhUzcpsBW55nI7U6TWaVboCeYpwX7TW/uo6VT11M7m4HqcJ87HeBpN2JV9oO360UUPlJCtBbFtkByBGU/MEQ=;B1uLTlJqCN+MCTXKmGduTg=="
+secured: "o1OpHE8txg3TQkel199sg4/x4EJxvMYoBxGJE+1DPj32eUh48DXsJPC70EZfXTDCdYT0xBymxph5FbihO+Fav/Dm5Tl/tOs57CVZXV/Z6XEMxS2JZygl/KVsJn2fEjtBUXCAOzZ4vxCrySwjglBsDfvZpw9vJYe7JaIwUgqPsOnC7JaaDslT0j5YZRntQwgcgLzBw7HdyPY96WTd4fjOx4aVotR7ZWo87Nzy6Qi/O/+9x1zbWY6edkFeXuqrerRuu0Ddrv+u9lRLC4yYJ3WSmll9ucz43Lg1YdwXeDKDogAFi5zTkEEGe1vFW2Or+CnZ8qrC25D7fefLA//6qeBxIlckda0fso5p4sJE8/5S8m4=;VSbL1beArC5mC8/cRCaNKw=="
 ---
 

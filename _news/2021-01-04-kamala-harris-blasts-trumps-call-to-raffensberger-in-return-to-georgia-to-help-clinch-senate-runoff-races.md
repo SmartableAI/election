@@ -137,6 +137,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "‘Find’ winning votes for him, Trump demands in taped call with Georgia official"
+    excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused."
+    publishedDateTime: 2021-01-03T20:20:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/102580c/2147483647/strip/true/crop/4159x2716+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F9d%2F7a97face49cf8ef215d0731921e6%2Fap20309660647036.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Harris on Trump GA call before Senate runoff"
     excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
     publishedDateTime: 2021-01-04T02:55:00Z
@@ -286,6 +302,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's Call With Georgia Officials To 'Find' Votes Could Be Illegal, Criminal"
+    excerpt: "Trump pressured Georgia election officials to “find” 11,780 votes The president threatened the officials with “a criminal offense” The call could violate laws that prevent election fraud Donald Trump pressured Georgia’s secretary of state to “find” him enough votes to overturn the results of the 2020 election,"
+    publishedDateTime: 2021-01-04T02:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-call-georgia-officials-find-votes-could-be-illegal-criminal-3113726"
+    ampWebUrl: "https://www.ibtimes.com/trumps-call-georgia-officials-find-votes-could-be-illegal-criminal-3113726?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-call-georgia-officials-find-votes-could-be-illegal-criminal-3113726?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "‘Trump Tapes:' Listen To Recordings Of President Urging Georgia Official To 'Find Votes'"
     excerpt: "The Washington Post released a phone call recorded Saturday of President Donald Trump attempting to persuade Georgia’s Secretary of State Brad Raffensperger to overturn state election results. While there has been no evidence of voter fraud in Georgia,"
     publishedDateTime: 2021-01-03T22:56:00Z
@@ -393,6 +425,6 @@ related:
         height: 641
         isCached: true
 
-secured: "TeP5HYt13LhYJRufgezpIwet5eIeC5DarTv1ToFgXbSWZzwPksjATf7FL61P5StK7dLRaD4VslyJjimGsPQyaYaZrE8iFsVsOn0GrRTRgzF9NNkHaf64mxPIV5dFNHJief3F4gZD/gAFzbs26lOrFYEx4mmc3SrTNv05Oj3yJWWCuFZwNM6bc4DuMl3ASr4uNS4wsab5YaERacLI3whbS2chJJVVLQeyzqS0cSa5rsR0IQMyX7WKi5n1TuGdMDkn54yBHrIaqQHZu3WXMft5tNDHHZ+Yfvlny35ark3QeQKQljR7T2/JakagAQ/+5f8/rGlkp3dCJwffovy4g2wqmjlR3IVQEqrIxvx1ys+AddI=;Hb3TyrtZsQoJ8zjCLZXCGA=="
+secured: "/RKcY3Owj5YfG34sF0ZnGZiYX6EtblvDfWr4uWqlm/Ghm78sWAV003cM+olVr2IiwHCRCNECwHkXpoKGH4dZU24LixLIn+UQ+3aFdw0+eZxfy2uRjhzP4I3TF81VdW0KyQ8uqHm9Dw2NOSqqfSbbUvGXum+tzJPBQ7bf9fxqOyVSTgrRUVx9VJcI3nlW+0pkYPJ46JVYplzZMnSdRccxthK0KQrDH+TPa+bcD+LFYx82jSNeEgX/Pf83wvl5bn0KKuYB52DynE3dMLf7eohMMvnH9vPuq7O2ZgKCA5G5hhAd7Fz3R+xIZkQwGoH7QTtqXQLc5Szy3rQQNLt/TzLZSvTt1vYPvKaPrXKat8Aj4d3AfD9VRhljLnYhC56BZ7lrr0jj27Qwz/5RopdKx6BqyisOmSXdPiDNFsz+t9JYyEajMczXuO4+zkHv5lzKScjH4CZDlLvusqVQ77QAX0NYExNjZpkljPq96ROeGMFRA7cVOKUkrwHosCgCcUUPCcDiqa9Ro2rhfS4xBUAwafycsQ==;+1YYQ4lu9RYh6W5tBgX4/w=="
 ---
 

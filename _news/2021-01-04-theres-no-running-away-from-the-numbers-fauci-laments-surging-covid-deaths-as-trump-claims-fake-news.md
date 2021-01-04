@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/running-numbers-fauci-laments-su
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/running-numbers-fauci-laments-surging-covid-deaths-trump/story?id=75015805"
 type: article
 quality: 107
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "US Surgeon General says he has 'no reason to doubt' the 350,000 COVID-19 death toll in the US after Trump baselessly questioned its accuracy"
-    excerpt: "Surgeon General Jerome Adams on Sunday joined Dr. Anthony Fauci in defending CDC data, which Trump baselessly claimed was \"far exaggerated.\""
-    publishedDateTime: 2021-01-03T18:28:00Z
-    webUrl: "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jerome-adams-no-reason-to-doubt-350000-covid-19-deaths-2021-1?amp"
+  - title: "'That's real:' Fauci rejects Trump claim that U.S. coronavirus deaths overcounted"
+    excerpt: "Two top U.S. health officials on Sunday disputed a claim by President Donald Trump that federal data on COVID-19 cases and deaths in the United States is overblown, and both expressed optimism that the pace of vaccinations is picking up."
+    publishedDateTime: 2021-01-04T04:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-data-idUSKBN2980GC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980GC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980GC"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://i.insider.com/5ff201de9ff41f001883fb06?width=1200&format=jpeg"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546466107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0208C"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Coronavirus live news: Trump passes Covid aid package; Indonesia to ban foreign travellers for two weeks"
+    excerpt: "Trump has passed a $900bn aid bill to support the US economy; Jakarta cities concerns around the new strains of coronavirus for ban"
+    publishedDateTime: 2020-12-28T10:26:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates?page=with:block-5fe9a50a8f08d0452b086195"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 108
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Coronavirus updates: Donald Trump says US 'China Virus' data exaggerated; Dr. Anthony Fauci protests, draws president's wrath"
+    excerpt: "Anthony Fauci dismissed claims tweeted by President Donald Trump that coronavirus cases and deaths in the U.S. are \"fake news.\" Latest COVID news."
+    publishedDateTime: 2021-01-04T00:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/03/covid-update-larry-king-ill-4-million-december-vaccinations-us/4114363001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4114363001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114363001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/31/USAT/414bbc39-9b0a-4ff7-9a7f-0f396afdb7c3-AFP_AFP_8XY98A.jpg?auto=webp&crop=5471,3077,x1,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
+    excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
+    publishedDateTime: 2021-01-03T20:27:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "‘The deaths are real deaths’: Fauci rejects Trump effort to cast doubt on U.S. COVID numbers"
     excerpt: "All you need to do is to go out into the trenches, go to the hospitals, see what the health care workers are dealing with,' Dr. Anthony Fauci said Sunday."

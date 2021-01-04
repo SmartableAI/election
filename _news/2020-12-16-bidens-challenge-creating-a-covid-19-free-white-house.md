@@ -7,7 +7,7 @@ originalUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-
 webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
+    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
+    publishedDateTime: 2020-12-21T22:06:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 94
 
 secured: "pLWTL4CwGL7Pr1L1p5/VH2pkzYI/5ET7EdfAs+Qe/IpCgtaD0cXOXflXbpIjeIbKINym3Nln21SKdsBqbiLswAIb1r9fzAVd0NoD+ymNM/evADNM/dtJq2EFv8zL9kvuRE9l8F092OxMRtxTBJBKoWaztwbTK3SJsc0zhaRMP1qg3RZnSEPy8uZbGqArdRKXp9iOSJtweGi2KGb5N0i8dKUFLXKNePn1cWZ/Qdofp0qxlFo4sCU8ENJph8DPe6/JOgu6aiewZeVR4K5bVGSHREm7alCC3DHxLMlRlsVJFAPh8maFDBsak5nZX/AkK7FMDVJPOlCRAR3kAE9M4VDJT5X3lyla3CTZg+QnMiRfpk2+ViTrcJXKjGE2RzPy8BaprUoumVs2L7cdWRMDGacJQeM3Re6nB4oMBG6r0gorRGvXIRt7GyfNm+Fr3WolRiaFJ3UNaCrzhUhZJGqgSSDiAj2J9UcHVyGRJaSll6DIYZ13jkk/BMk/XNqocJIFcKGbkTYh32uaqbMzkQjWjmzU9A==;YBdfPUJz12N/agk9cibfhw=="
 ---

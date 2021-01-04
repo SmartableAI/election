@@ -73,6 +73,38 @@ related:
         width: 1200
         height: 820
         isCached: true
+  - title: "Trump knows no limits as he tries to overturn the election"
+    excerpt: "His pathetic Saturday telephone call to change Georgia’s results shows his desperation. And some Republicans continue to encourage him."
+    publishedDateTime: 2021-01-04T04:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-knows-no-limits-as-he-tries-to-overturn-the-election/2021/01/03/e192bf90-4e05-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-knows-no-limits-as-he-tries-to-overturn-the-election/2021/01/03/e192bf90-4e05-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-knows-no-limits-as-he-tries-to-overturn-the-election/2021/01/03/e192bf90-4e05-11eb-83e3-322644d82356_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2VPXQSOAAI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Georgia election guardian Raffensperger faces heat as Trump contests defeat"
+    excerpt: "Georgia's Republican secretary of state, Brad Raffensperger, cemented his status as an unlikely hero for U.S. Democrats following a fresh clash in which he rejected President Donald Trump's claims that his election defeat was the result of widespread fraud."
+    publishedDateTime: 2021-01-04T04:22:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-raffensperger-idUKKBN2980QZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2980QZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2980QZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "In recorded call, Trump pressures Georgia official to change election results - media"
     excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call released by U."
     publishedDateTime: 2021-01-03T22:40:00Z
@@ -400,6 +432,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "In Recorded Call, Trump Pressures Georgia Official to 'Find' Votes to Overturn Election"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
+    publishedDateTime: 2021-01-04T04:08:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-03/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
     excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
     publishedDateTime: 2020-12-26T17:24:00Z

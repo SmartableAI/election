@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1524
         isCached: true
+  - title: "'Impeachable Offence': AOC Wants to Sanction Trump Over Phone Call With Raffensperger"
+    excerpt: "\"If it was up to me, there would be articles on the floor quite quickly,\" Congresswoman Alexandria Ocasio-Cortez said."
+    publishedDateTime: 2021-01-04T04:08:00Z
+    webUrl: "https://www.newsweek.com/impeachable-offence-aoc-wants-sanction-trump-over-phone-call-raffensperger-1558619"
+    ampWebUrl: "https://www.newsweek.com/impeachable-offence-aoc-wants-sanction-trump-over-phone-call-raffensperger-1558619?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/impeachable-offence-aoc-wants-sanction-trump-over-phone-call-raffensperger-1558619?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1697045/alexandria-ocaso-cortez-washington-dc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Audio: Trump berates Ga. secretary of state Brad Raffensperger, urges him to ‘find’ votes"
     excerpt: "Listen to excerpts from a one-hour call on Saturday between the president and Georgia election officials."
     publishedDateTime: 2021-01-03T20:55:25Z
