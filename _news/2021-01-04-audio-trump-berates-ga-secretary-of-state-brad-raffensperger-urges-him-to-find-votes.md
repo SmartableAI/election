@@ -45,22 +45,6 @@ related:
         width: 2500
         height: 1524
         isCached: true
-  - title: "Trump 'just plain wrong' on fraud claims: Georgia Secretary of State Raffensberger"
-    excerpt: "Secretary of State Raffensperger joined \"Good Morning America\" for an exclusive interview after President Trump demanded he \"find\" more votes so he could win Georgia."
-    publishedDateTime: 2021-01-04T12:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/absentee-voting-01-gty-llr-201223_1608756959214_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "'Impeachable Offence': AOC Wants to Sanction Trump Over Phone Call With Raffensperger"
     excerpt: "\"If it was up to me, there would be articles on the floor quite quickly,\" Congresswoman Alexandria Ocasio-Cortez said."
     publishedDateTime: 2021-01-04T04:08:00Z
@@ -77,6 +61,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump's phone call to Brad Raffensperger: six key points"
+    excerpt: "Conversation between president and Georgia’s secretary of state laid bare Trump’s determination to cling on to power"
+    publishedDateTime: 2021-01-04T03:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Here’s the full transcript and audio of the call between President Trump and Brad Raffensperger"
     excerpt: "The call transcript was edited to remove a name about whom Trump makes unsubstantiated claims."
     publishedDateTime: 2021-01-04T00:36:11Z

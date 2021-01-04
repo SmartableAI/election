@@ -139,6 +139,20 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Harris on Trump GA call before Senate runoff"
+    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
+    publishedDateTime: 2021-01-04T02:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "'That was easy': Kamala Harris receives Covid-19 vaccine – video"
     excerpt: "Describing the process as 'relatively painless', Harris urged all Americans to get vaccinated"
     publishedDateTime: 2020-12-29T15:53:00Z
@@ -150,6 +164,47 @@ related:
     quality: 105
     images:
       - url: "https://i.guim.co.uk/img/media/b3bda882fe05dfd40010b9089a9865fc47945c2a/141_311_2923_1754/master/2923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b7613345404fe29dfb72e262a0988ab"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris’s groundbreaking path to the White House"
+    excerpt: "How Harris got where she is, and where she’s likely headed, is the subject of Dan Morain’s “Kamala’s Way.” From the start, he explains, it’s been a complicated path, mixing principles and pragmatism,"
+    publishedDateTime: 2021-01-01T14:30:00Z
+    webUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/rcGgsBKubkAqaZioP9K6GjrB36I=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6POFLXWAZB7LM373XXSTZVNLI.jpg"
+        width: 1200
+        height: 891
+        isCached: true
+  - title: "Kamala Harris on Trump call: A bold abuse of power"
+    excerpt: "Vice President-elect Kamala Harris reacts to audio obtained by the Washington Post of President Donald Trump pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the elect"
+    publishedDateTime: 2021-01-04T13:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-on-trump-call-a-bold-abuse-of-power/video_b15b087d-054b-59f9-9bc6-fd57dbef0713.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
+  - title: "VP-elect Kamala Harris receives coronavirus vaccine"
+    excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
+    publishedDateTime: 2020-12-29T18:36:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/vp-elect-kamala-harris-receives-coronavirus-vaccine/IMNYPWEP4VDMZOB3COK62KHSMQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/HHv1BPHsIICavj07Z2odFiTQndA=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-20-2020/t_74fafcf1b29243b9a5def943e485f92b_name_t_d1a80fe1206e4f32b22e917a53a03f39_name_DNC_Harris__scaled.jpg"
         width: 1200
         height: 630
         isCached: true

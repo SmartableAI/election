@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-majo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
 type: article
 quality: 146
-heat: 1346
+heat: 1026
 published: true
 
 provider:
@@ -144,54 +144,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump, Biden face new head-to-head contest in Georgia"
-    excerpt: "President Trump and President-elect Joe Biden will travel to Georgia on Monday, making one final push in the state’s U.S. Senate runoffs that will decide which party controls the upper chamber for the next two years."
-    publishedDateTime: 2021-01-04T01:34:00Z
-    webUrl: "https://thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia"
-    ampWebUrl: "https://thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_123120getty_split_georgia-biden-trump.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump, Biden to rally in Georgia ahead of high-stakes Senate races"
-    excerpt: "President Donald Trump travels to Georgia on Monday in a bid to keep the U.S. Senate in the hands of his Republican Party, after his efforts to overturn his own defeat in the state have injected new uncertainty into a pair of races that are seen as too close to call."
-    publishedDateTime: 2021-01-04T16:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN29912P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29912P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29912P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546530199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH030IH"
-        width: 769
-        height: 545
-        isCached: true
-  - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
-    excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
-    publishedDateTime: 2021-01-02T17:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/8dc540bec1a7d9c55084a25600358e55896ed6d5/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f39a4b7b0d2576d3eff26f15ceada36"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump-Biden transition live updates: Trump back at WH, Biden plans COVID memorial"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 20 days. Russ Vought, the current director of the Office of Management and Budget, struck back at President-elect Joe Biden's transition team one day after it leveled allegations that Trump's OMB was hindering the incoming team."
     publishedDateTime: 2021-01-01T02:29:00Z
@@ -207,38 +159,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump2-01-gty-iwb-201231_1609441395060_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "'I just want 11,780 votes': Trump pressed Georgia to overturn Biden win – report"
-    excerpt: "Trump asked secretary of state Brad Raffensperger in hour-long phone call to recalculate vote"
-    publishedDateTime: 2021-01-03T14:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 135
-    images:
-      - url: "https://i.guim.co.uk/img/media/ef50fd94529c5075f1f3ddf5a581dcdfec6735ae/0_152_5469_3282/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c54870c1ba952942958b6060f010ab75"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Live updates: Biden, Trump plan dueling events in Georgia ahead of Senate runoffs"
-    excerpt: "The president and president-elect both plan high-profile trips to a state where two Senate contests on Tuesday will determine which party controls the chamber in Washington."
-    publishedDateTime: 2021-01-04T12:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 135
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBB7HXHLXZHBLCJ7VNHMATDLNI.jpg&w=1440"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
@@ -430,70 +350,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Rebuking Trump, Republican-led Senate overrides defense bill veto"
-    excerpt: "President Donald Trump's fellow Republicans in the U.S. Senate on Friday overrode his veto for the first time in his nearly four years in office, pushing through a defense policy bill against his objections just weeks before he leaves office."
-    publishedDateTime: 2021-01-01T22:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUKKBN2962I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962I0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962I0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546357129&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0018S"
-        width: 821
-        height: 545
-        isCached: true
-  - title: "Rejecting Trump veto, Republican-led Senate backs defense bill"
-    excerpt: "President Donald Trump suffered a stinging rebuke in the U.S. Senate on Friday when fellow Republicans joined Democrats to override a presidential veto for the first time in his tenure, pushing through a defense policy bill he opposed just weeks before he leaves office."
-    publishedDateTime: 2021-01-02T05:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/defying-trump-u-s-senate-overrides-defense-bill-veto-idUKKBN2962I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962I6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962I6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546357129&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0018S"
-        width: 821
-        height: 545
-        isCached: true
-  - title: "Senate overrides Trump's veto of defense bill"
-    excerpt: "The Senate on Friday overrode President Trump's veto of the National Defense Authorization Act, the $740 billion defense policy bill. This veto, in the waning days of Mr. Trump's presidency, marked the first time Congress has voted to override him."
-    publishedDateTime: 2021-01-02T12:40:00Z
-    webUrl: "https://www.cbsnews.com/news/senate-overrides-trump-veto-defense-bill/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-overrides-trump-veto-defense-bill/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-overrides-trump-veto-defense-bill/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/3cdbe37c-81c6-476b-8d44-10e62d7db7ab/thumbnail/1200x630/df1abc3a29d6681129db66683375189d/gettyimages-1230346650.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
-    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-    publishedDateTime: 2021-01-04T03:12:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
     excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
     publishedDateTime: 2020-12-26T10:31:00Z
@@ -567,22 +423,6 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-29-2020/t_fa48a779c9da4288a801dc48894fc8b2_name_63b5578c_4a1c_11eb_97b6_4eb9f72ff46b_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
-        isCached: true
-  - title: "AUDIO TRANSCRIPT: Trump pressures Georgia secretary of state to 'find' votes to overturn Biden's statewide win"
-    excerpt: "In an hour-long phone call, Trump repeatedly made the false claim that he won Georgia and continued to bring up debunked voter fraud allegations."
-    publishedDateTime: 2021-01-04T05:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01"
-    ampWebUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
         isCached: true
   - title: "Carl Bernstein says Trump's call asking a Georgia official to help him overturn Biden's win is 'worse than Watergate'"
     excerpt: "The Washington Post published audio from the call where Trump asked Brad Raffensperger to \"find\" votes to overturn Biden's win."
@@ -662,20 +502,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "No reason given for Trump cutting vacation short"
-    excerpt: "President Donald Trump departs Florida as he cuts short his Florida vacation and returns to Washington on Thursday, one day earlier than expected for reasons the White House didn't explain. (Dec. 31)"
-    publishedDateTime: 2020-12-31T17:51:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/31/no-reason-given-trump-cutting-vacation-short/4100892001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9c79e657-516f-43c9-91cc-9af1a5c64a59_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Congress overrides Trump veto of defense bill"
     excerpt: "Congress has overridden President Donald Trump's veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago. (Jan. 1)"
     publishedDateTime: 2021-01-01T22:04:00Z
@@ -703,31 +529,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Senate overrides first Trump veto to uphold defense policy bill"
-    excerpt: "The Republican-controlled U.S. Senate overturned President Donald Trump's veto of a $740 billion defense bill on Friday, handing the Republican president the first veto defeat of his presidency weeks before he leaves office."
-    publishedDateTime: 2021-01-01T20:07:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-senate-override/senate-overrides-first-trump-veto-to-uphold-defense-policy-bill-idUSL1N2JC0CA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JC0CA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JC0CA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Senate overrides Trump's veto on defense bill"
-    excerpt: "Top News Senate overrides Trump's veto on defense bill. Posted . President Donald Trump's fellow Republicans in the U.S. Senate on Friday overrode his veto for the first time in h"
-    publishedDateTime: 2021-01-02T11:21:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVDTDODSV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210101&i=OVDTDODSV&r=OVDTDODSV&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Here's the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
     excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
@@ -867,22 +668,6 @@ related:
         width: 493
         height: 768
         isCached: true
-  - title: "Trump and Biden head to Georgia for dueling rallies on eve of pivotal Senate runoffs"
-    excerpt: "The dramatic clash comes just a day after reports surfaced of Trump’s new effort to pressure election officials to overturn his defeat in the presidential vote."
-    publishedDateTime: 2021-01-04T14:16:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 83
-    images:
-      - url: "https://www.nydailynews.com/resizer/zGp9-DqHnTtapD4TEFOai1grPis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZJN2Q5IPVEMDMOGTVOWNQZCJ4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump Is America's Most Admired Man In 2020"
     excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
     publishedDateTime: 2020-12-30T04:38:00Z
@@ -898,22 +683,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/time-is-running-out-on-us-president-donald.jpg"
         width: 1024
         height: 625
-        isCached: true
-  - title: "How Georgia Senate runoffs could close door on Trump era — or cripple Joe Biden’s presidency before it starts"
-    excerpt: "With the U.S. set to inaugurate a new president in just two weeks, the Georgia Senate runoffs have become the second most important election in recent history — with nothing less than control of the entire U."
-    publishedDateTime: 2021-01-04T04:00:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-runoff-trump-biden-20210104-eu63rtpxejcrrfrw4rqoyppl2q-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-runoff-trump-biden-20210104-eu63rtpxejcrrfrw4rqoyppl2q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-runoff-trump-biden-20210104-eu63rtpxejcrrfrw4rqoyppl2q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 71
-    images:
-      - url: "https://www.nydailynews.com/resizer/FyNJXGzYNFQkR-P-ud24j2R52Nc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T6BPAPOYRCBKEUJBBPNY4CSE2U.aspx"
-        width: 1200
-        height: 724
         isCached: true
   - title: "Biden Says Trump Vaccine Plan Falling 'Far Behind'"
     excerpt: "US President-elect Joe Biden on Tuesday vowed a relentless effort to fight Covid-19 the moment he takes office, as he warned that Donald Trump's vaccination drive was falling dangerously short. Speaking after a briefing by experts,"
@@ -942,22 +711,6 @@ related:
       - url: "https://www.ajc.com/resizer/zEKCcn-DiEMFCBmQ1NJ6n0VY7WU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/FL7YP6OTPIEXYVGZABEULRYNEU.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "President Donald Trump, in call with Georgia secretary of state, makes another failed attempt to overturn loss to Joe Biden"
-    excerpt: "Republicans seeking to disenfranchise millions of voters and overturn the election. But now, Trump wants more votes to be counted. Or, at least, he wants the Georgia count “recalculated.” During an hour-long call obtained by The Washington Post,"
-    publishedDateTime: 2021-01-03T20:58:00Z
-    webUrl: "https://www.masslive.com/politics/2021/01/president-donald-trump-in-call-with-georgia-secretary-of-state-makes-another-failed-attempt-to-overturn-loss-to-joe-biden.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/01/president-donald-trump-in-call-with-georgia-secretary-of-state-makes-another-failed-attempt-to-overturn-loss-to-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/01/president-donald-trump-in-call-with-georgia-secretary-of-state-makes-another-failed-attempt-to-overturn-loss-to-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 64
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WMESNELVLJCGBIYTR4ZUTLLMWM.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "WL2CvqNe11mVVostfR9t9stPvWQPHvqu5w77ech5sAVLkJANhALUcblKjPnCInX5SWc6OrEcqNl29OsqtaP27rzR8Px+4gRlLKrHAV+nqiB8m6w+evpUgYQ44Uo8rsTxmKVI3YKGVpF+XmR1D5pmdgs7xI7QmdBCpQ6GxZXMUZY/8kAU654xwO7OYSUfF+AGr8+cHlkMYOMBxYgAA6jIwqMC1Waeqez9/9MhCPDZxfRVyj0i09FTvGqAE5nJZzQo9F1k+e+dhLJW3V0ssV4/f5f+DP4NdSlCuscnkYKeJBQKiTUDf8+S/3SNFsY2AI2hsfN2VTztBGM5J5j5oMCW4w+weTMsEEPApNJXMxKgs2k=;GHe3t5IPdJxQiUqdAPtDFA=="

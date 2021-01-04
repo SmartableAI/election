@@ -207,22 +207,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "US Congress overrides Trump defence spending bill veto"
-    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-    publishedDateTime: 2021-01-02T04:09:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
     excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
     publishedDateTime: 2021-01-02T19:22:00Z
@@ -318,20 +302,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Congress overrides Trump defence spending bill veto"
-    excerpt: "US Congress overturns President Donald Trump's veto of a defence spending bill, for the first time in his presidency."
-    publishedDateTime: 2021-01-01T20:40:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55509883"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p092w75k.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Trump extends COVID-related bans on visas, green cards; court clears health insurance requirement for immigrants"
     excerpt: "Trump said the measures would protect American jobs in a pandemic-wracked economy, while business groups said they would hamper a recovery."

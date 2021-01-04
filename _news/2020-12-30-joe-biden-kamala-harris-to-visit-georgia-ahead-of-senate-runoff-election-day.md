@@ -369,6 +369,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Some GOP lawmakers push to dispute Joe Biden's victory"
+    excerpt: "At least a dozen Republican senators say they will officially object to Joe Biden's victory in the Electoral College during a joint session of Congress on Wednesday. The group, led by Senator Ted Cruz of Texas,"
+    publishedDateTime: 2021-01-04T18:02:00Z
+    webUrl: "https://www.cbsnews.com/video/some-gop-lawmakers-push-to-dispute-joe-bidens-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/04/f493bbcf-2362-43ba-862b-75811972c95f/thumbnail/1200x630/910b5622a37d6cdee14a25e9be9f26d9/0104-cbsn-hkb-goplawmakersdelaybiden-619831-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon hires lobbyist with ties to President-elect Joe Biden's White House counsel"
     excerpt: "CNBC.com reporter Brian Schwartz discusses whether Amazon's new hire in Washington, DC could present a conflict of interest with one of President-elect Joe Biden's closest advisors."
     publishedDateTime: 2020-12-28T13:33:00Z

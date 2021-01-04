@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "At odds with fiscal conservatism, Georgia's GOP candidates support Trump's demand for $2,000 stimulus checks"
-    excerpt: "Sens. Loeffler and Perdue said they support President Trump's call for bigger stimulus checks going to the American people, putting them at odds with fiscal conservatism."
-    publishedDateTime: 2020-12-29T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 106
-    images:
-      - url: "https://s.abcnews.com/images/Politics/stimulis-checks-covid-kelly-loeffler-david-perdue-04-gty-llr-201229_1609264424598_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "White House economic advisor breaks with Trump and says he's 'not so sure we need this massive stimulus bill'"
     excerpt: "After Congress finally passed the second stimulus relief package, which included $600 checks, President Trump pushed for a deal on $2,000 checks."

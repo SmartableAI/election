@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Georgia elections official urges Trump to rein in supporters"
-    excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-    publishedDateTime: 2020-12-02T05:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "U.S. judiciary, shaped by Trump, thwarts his election challenges"
     excerpt: "U.S. President Donald Trump's reshaping of the federal judiciary has done little to help him win lawsuits challenging the election outcome, with Trump appointees rebuffing him and the U.S. Supreme Court showing little interest in getting involved."
     publishedDateTime: 2020-12-01T23:17:00Z
@@ -110,22 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_ecb141ae0fee4d9cb0135cedf36c24f9_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Power Up: Trump, Pence head to Georgia as election fraud claims risk depressing Senate runoff turnout"
-    excerpt: "They'll rally voters in the Peach State ahead of two Senate runoff races that will decide which party controls the chamber for the next two years. Their approach will be especially critical after pro-Trump attorneys Lin Wood and Sidney Powell urged Georgians not to cast ballots unless state leaders fight to overturn the results of the November presidential election results that clinched the state for Joe Biden."
-    publishedDateTime: 2020-12-04T11:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GKLNBBBPMYI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump loves to win but keeps losing election lawsuits"
     excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
@@ -191,22 +159,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump inciting violence, warns Georgia election official"
-    excerpt: "An election official in the US state of Georgia has said President Trump will bear responsibility for any violence that results from unsubstantiated election fraud claims he has stoked. \"It's all gone too far,"
-    publishedDateTime: 2020-12-05T04:58:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55153918?fbclid=IwAR2fD8Zl3UORWlMMq0z0jVZX5VnHJsb-X6-yQLe0fWco9gZb48qtRF2_0dM"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55153918"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55153918"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/53A8/production/_115761412_gettyimages-1229491924.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Trump loves to win but keeps losing election lawsuits"
     excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
     publishedDateTime: 2020-12-05T00:28:00Z
@@ -238,22 +190,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/12/4afa95dd-498c-4d60-ac1e-9cc969639247/thumbnail/1200x630/730db0b2ac6472193edfb66c60b3b45a/gettyimages-1211885659.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump presses Georgia governor to help subvert election"
-    excerpt: "President Donald Trump’s first political rally since losing the election is meant to boost Republican incumbents campaigning in two Georgia runoffs that will decide which party controls the Senate"
-    publishedDateTime: 2020-12-06T00:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Trump tactics to overturn election could have staying power"
     excerpt: "Even after he exits the White House, President Donald Trump’s efforts to challenge the legitimacy of the election and seeking to overturn the will of voters could have staying power"
@@ -718,22 +654,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/5331e166-9612-4ec8-9820-957905b145ec-Trump_video.jpg?auto=webp&crop=5597,3149,x0,y284&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
-    excerpt: "President Donald Trump filed a new lawsuit in Georgia Friday afternoon contesting the results of the election and requesting a do-over in his latest long-shot legal bid."
-    publishedDateTime: 2020-12-05T05:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-election-georgia-01-rt-llr-201204_1607128269526_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Texas asks U.S. Supreme Court to help Trump upend election in long-shot lawsuit"
     excerpt: "The state of Texas on Tuesday asked the U.S. Supreme Court to throw out the voting results in four other states in a long-shot legal gambit intended to help President Donald Trump upend his election loss to President-elect Joe Biden."
@@ -1583,22 +1503,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump urges Georgia governor to call special session of state legislature"
-    excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."
-    publishedDateTime: 2020-12-05T22:26:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-trump-idAFKBN28F0V7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28F0V7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28F0V7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543566578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB40L4"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Live politics updates: After losing election and legal challenges, Trump still insists, 'It's not over'"
     excerpt: "\"It's not over,\" Trump said of the election, despite losing the certified vote tally by more than 7 million and the rejection of his court challenges."
     publishedDateTime: 2020-12-13T14:40:00Z
@@ -1867,20 +1771,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump makes false claims about election results at Georgia rally"
-    excerpt: "President Trump visited Georgia to campaign for two Republican Senate candidates, but used the rally to complain and repeat false claims about the presidential election. Chip Reid reports."
-    publishedDateTime: 2020-12-07T00:05:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-makes-false-claims-about-election-results-at-georgia-rally/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/06/48ff8c01-9b6e-402e-82be-f23532f545ad/thumbnail/1200x630/ae25ba5520ef4e579278b166a5617af3/1206-wn-reid-602626-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump tactics to overturn election could have staying power"
     excerpt: "Even after he exits the White House, President Donald Trump's efforts to challenge the legitimacy of the election and seeking to overturn the will of voters could have staying power."
     publishedDateTime: 2020-12-07T09:05:00Z
@@ -1947,17 +1837,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Georgia high court rejects latest Trump election appeal"
-    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
-    publishedDateTime: 2020-12-14T08:44:00Z
-    webUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Idaho’s 4 electors cast votes for Trump and Pence"
     excerpt: "All four of Idaho’s Republican electors on Monday cast their ballots for President Donald Trump and Vice President Mike Pence. The formal but brief ceremony at the"
     publishedDateTime: 2020-12-14T19:55:00Z
@@ -2736,20 +2615,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/da2a9acc-8192-4847-abf2-98a0cf57e922-Newt_Gingrich.JPG?auto=webp&crop=2425,1364,x0,y321&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Local Matters: Georgia's Republican governor rejects Trump's request to call special session to overturn election results"
-    excerpt: "Georgia's Republican Governor Brian Kemp has rejected a request from President Trump to call a special session to overturn the results of the November election. In a statement Sunday, Kemp said Mr. Trump asked him to choose a new slate of presidential electors for when the electoral college casts its official vote next week,"
-    publishedDateTime: 2020-12-08T02:02:00Z
-    webUrl: "https://www.cbsnews.com/video/georgia-republican-governor-rejects-trump-request-to-call-special-session-to-overturn-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/70f26f6c-bb5c-47b7-9bce-f8fe5fd26310/thumbnail/1200x630/c0929f2f330b4ce91f553b4858c6a84e/cbsn-fusion-georgias-republican-governor-rejects-presidents-request-to-call-special-session-to-overturn-election-results-thumbnail-603557-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Oklahoma's electors award 7 electoral votes to Trump, Pence"
     excerpt: "Oklahoma’s seven presidential electors officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence on Monday during a meeting at the"

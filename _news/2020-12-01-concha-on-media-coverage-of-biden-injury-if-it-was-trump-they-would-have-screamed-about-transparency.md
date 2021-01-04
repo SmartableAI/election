@@ -463,6 +463,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump, Biden hold dueling campaign events on eve of Georgia runoffs as candidates make final pitches"
+    excerpt: "With the Senate majority up for grabs, which will likely determine how successful President-elect Joe Biden will be in passing his incoming administration’s agenda, the stakes in Tuesday’s twin Senate runoff elections in Georgia were already enormous."
+    publishedDateTime: 2021-01-04T17:21:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kl5Kqu3J_Fg/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia’s Kemp again rejects lawmakers replacing electors after call with Trump"
     excerpt: "Gov. Brian Kemp, the Georgia Republican, issued a joint statement Sunday night that said it would be in violation of state law for him to call a special session of the legislature to overturn his state’s election results."
     publishedDateTime: 2020-12-07T04:47:36Z

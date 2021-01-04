@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1483
+heat: 1323
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pence comes to Georgia as calm before potential Trump storm"
-    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes runoffs that will determine which party controls the U.S. Senate as he campaigns in Georgia a day bef"
-    publishedDateTime: 2020-12-04T22:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
     publishedDateTime: 2020-12-05T09:48:00Z
@@ -63,22 +47,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543523100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB401N"
         width: 817
         height: 545
-        isCached: true
-  - title: "At Georgia rally, Trump spouts election falsehoods, amplifies old grievances"
-    excerpt: "Trump falsely proclaimed himself the victor of the presidential race at Saturday's rally, his first since losing the election to Joe Biden."
-    publishedDateTime: 2020-12-06T02:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QACYZSRXNAI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
@@ -352,22 +320,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "New Congress sworn in as Georgia runoffs loom and Trump runs amok"
-    excerpt: "Swearing in of lawmakers amid extraordinary political turmoil"
-    publishedDateTime: 2021-01-03T20:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/03/congress-georgia-senate-runoffs-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/congress-georgia-senate-runoffs-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/congress-georgia-senate-runoffs-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/2b6d1c5552244638b7046697bfdc5d92c12dd4aa/0_154_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=92eb54766420ff2d02200b666de8d150"
-        width: 600
-        height: 360
-        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -526,22 +478,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "As Donald Trump Causes Chaos for Georgia GOP, Democrats Pull Away in Runoff Polls"
-    excerpt: "Democratic Senate candidates Jon Ossoff and Raphael Warnock have pulled ahead of their Republican rivals in Georgia runoff polls, as President Donald Trump continued to cause difficulties for the GOP incumbents over the weekend."
-    publishedDateTime: 2021-01-04T10:59:00Z
-    webUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667"
-    ampWebUrl: "https://www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/georgia-polls-democrats-ahead-trump-gop-chaos-1558667?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1697180/democratic-senate-candidates-ossoff-warnock.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Trump keeps up false claims of widespread fraud at Georgia rally for U.S. senators"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
     publishedDateTime: 2020-12-06T14:21:00Z
@@ -573,22 +509,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
         width: 817
         height: 545
-        isCached: true
-  - title: "Georgia runoff campaigns ending as Trump, GOP continue to contest November's outcome"
-    excerpt: "Control of the Senate for the first two years of President-elect Joe Biden's administration hinges on the dual runoff elections taking place in Georgia on Tuesday."
-    publishedDateTime: 2021-01-04T10:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-runoff-campaigns-ending-trump-gop-continue-contest/story?id=74971959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/warnock-ossoff-file-gty-jef-210103_1609699766033_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump campaigns in Georgia for two Republican candidates while pressing vote fraud claims"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party fear could end up hurting, not helping, their chances if he focuses on efforts to reverse his own election defeat."
@@ -701,22 +621,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump presses his own grievances over losing the presidential race at Georgia rally for Republican senators facing runoff election"
-    excerpt: "Trump spread baseless allegations of misconduct in last month’s vote, even as he pushed supporters to cast ballots for a pair of Republican Senate candidates."
-    publishedDateTime: 2020-12-06T04:18:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 110
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_ezZ-C7LaTkE2cMNaCG08IIpOD0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWJMRQS2OTX7JQWEOM5DUR3RFA.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "'It's time for us to move on': Georgia Lt. Gov. Geoff Duncan fears that Trump's election legal battles are hurting the GOP's image"
     excerpt: "\"I'm very, very worried that this affects our brand of conservatism,\" Geoff Duncan told CNN. He was criticized by the president as \"a RINO Never Trumper.\""
@@ -851,20 +755,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/12/04/story_07986340_1607125204.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump campaigns in Georgia for Republican senators"
-    excerpt: "Rough Cuts Trump campaigns in Georgia for Republican senators. Posted . In a speech to his supporters, U.S President Donald Trump told the chanting crowd that he came to southern"
-    publishedDateTime: 2020-12-06T11:35:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD7VJL5R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201206&i=OVD7VJL5R&r=OVD7VJL5R&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "In Arizona, Trump's false claims have torn open a GOP rift"
     excerpt: "Arizona Gov. Doug Ducey spent much of Donald Trump's presidency trying not to provoke confrontation with the president or his fervent defenders. He almost made it through."
@@ -1007,20 +897,6 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
-    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
-    publishedDateTime: 2020-12-05T11:00:00Z
-    webUrl: "https://www.nujournal.com/uncategorized/2020/12/05/mike-pence-comes-to-georgia-as-calm-before-potential-trump-storm/"
-    type: article
-    provider:
-      name: Journal
-      domain: nujournal.com
-    quality: 70
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.nujournal.com/images/2016/11/28163139/fblike.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
     excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."

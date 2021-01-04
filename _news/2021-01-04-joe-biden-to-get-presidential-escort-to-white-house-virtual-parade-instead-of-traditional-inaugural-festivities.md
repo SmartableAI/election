@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
 excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
-publishedDateTime: 2021-01-03T22:19:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-ampWebUrl: "https://amp.azcentral.com/amp/4120484001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4120484001"
+publishedDateTime: 2021-01-03T23:21:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -197,6 +197,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
+    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
+    publishedDateTime: 2021-01-04T18:07:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 50
+    images:
+      - url: "https://www.baltimoresun.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
     excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
     publishedDateTime: 2020-12-28T09:47:00Z
@@ -214,6 +230,6 @@ related:
         height: 683
         isCached: true
 
-secured: "7hoAvTjttufYYyphQSHpX6MpQRzeYho0a40K/glE2Neggc92ePUSdd8QQtGDEqz8wMkcbcqNsfe4IEeWbsaOeKjf62r4bL2TQp8wik6j+RqKQihR5q50lwmNGS90aVbjoNHzqueDzyUhK58MRnS+WQDHVfJTReQKfBOswZKBdanFCJ0gw0nYCMpRVgfa9HJ+WGdrkXvWRhiF8B1+PMgeyiCGkNq9jIPo8YerXwZgmRNmSGW9NWYTZa5iy4+Z3fiskGNhuPVwocmqsu2XT0QJl1mB+XAXUYJk9tdBd8gc/ZbmT3BdeNHtmcGP5PQET8QOC/FYOEF0TMtBkRlu3k+6bIMDiZn/sA6gwjc6wThjKV6XH2tzJDzC8L1WXcBvjqwxC0rwovxqdf8qdhP1cEsSY9pB+A/RSvSQecIQiFAcjQmEECgaga2D+tW+4Wuhf4WiHBkgqUbQM0vFeZ3T6yg1KkhDnYcEg5o+2OZyGe0kXWdPADflmXoBle09U4GLI9+rFPeXP6jhEkM5cW3oz26XAg==;ipUWsrctzu1L8L3z8o/rFg=="
+secured: "u7lqT/EBmKIym3mMHqUNYBtC0knYYFxqpRIeorbXkYp7iXOSEjogv5uBe8yiKFbkyL3e/U7kWMq4wSQ9JFa8mRLAC1tW+h75zOUwF6tfZcTFdX6444rR215zplgwdta1/r24F1Z11X2jbBIaoIFzXZTAEhdlI2+aGY3puM6thuAdf8WDKShg9tuxF400auicKTmXbQ/Rt/7x4PCLJ3rFMDJrefCI4QXKiOXm0HACKtFOSnKI/AQ9xY32/jZkCPzFAhHDWCIRAj1CHRj6wXXYP7M5eUQ+AWkctoG5geOFUz2gSBQWcax0jpqH61er8taxDe0fAqTAohzQolNs24InmAl4HaWzRR0xP3sKn9SxwrE=;MaoNPAJh+qgbtLWqRtPFZQ=="
 ---
 

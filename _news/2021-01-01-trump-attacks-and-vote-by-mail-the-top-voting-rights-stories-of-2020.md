@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
         width: 1200
         height: 908
-        isCached: true
-  - title: "Trump Heard On Tape Urging State Official To 'Find' Votes For Him"
-    excerpt: "President Donald Trump pressured the Georgia secretary of state in an extraordinary phone conversation Saturday to \"find\" enough votes to overturn Joe Biden's victory in the Southern state, news media reported Sunday."
-    publishedDateTime: 2021-01-03T20:28:00Z
-    webUrl: "https://www.ibtimes.com/trump-heard-tape-urging-state-official-find-votes-him-3113640"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
-        width: 1024
-        height: 657
         isCached: true
 
 secured: "jt/yNgzBawff/x0QDAiMDUhVPfyj196CcSXsj5kFuzWB5J3H6RuJcjTFUm/fbHLMWhspunZVZr2L9LLL8/n2T98Bi68HcbvkY3MY67UUDv5Em/tiZLKn8Fwm4YKxrw3GOx4meDobyfVdM2Nz0HRjtIWPLwT0yP10mDWu1oLuQiZ2Ybw4hqfzNCLTKZmbm0K4ZWT+xlD7RhTnORexR/ivI4HB8BbfkXi3B8IC9gJ6euUjqax8qMuYFM+oX4JBLrfx+noA/2gwMdeNGXNPYaJ5fkmMlD6ocHY3IpO1zQMHu34fhdZv+2byvQjGzuPq4AytnyJcVsE32C62ismtTK3nGz8bxBDXZxWesFUyd0WudbAjtG03C5cBdMpW8ghmLR4/dqHmsZ1Kh9TUhNhEGNxY61iqIh5WIneXcXYbqX5O+UsYrQz8alwuOvWK7v1OVa1ZScxfSxMd7At/OvfKdZYVrdB6iMw2MiLnheeeXRJt7cripagZTYXRgz3aM30RUif9jIIEC6c/Xsq/HZEi7cjkPg==;FBUlk5KlRsO4eVeVOURbng=="

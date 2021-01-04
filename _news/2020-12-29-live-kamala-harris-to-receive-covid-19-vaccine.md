@@ -119,6 +119,34 @@ related:
         width: 2048
         height: 1377
         isCached: true
+  - title: "Kamala Harris receives COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris received her first dose of the COVID-19 vaccine Tuesday in Washington, D.C. She got the shot on camera in hopes of encouraging Americans to get vaccinated when it's their turn."
+    publishedDateTime: 2020-12-29T17:09:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-receives-covid-19-vaccine/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/229b2034-c8f3-46bf-aae1-ce6af52f38dc/thumbnail/1200x630/46f208de17f32695d3cbcebe5deb5628/cbsn-fusion-kamala-harris-receives-covid-19-vaccine-thumbnail-617698-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris Receives First Dose of Covid-19 Vaccine"
+    excerpt: "Vice President-elect Kamala Harris receives her first dose of Moderna's Covid-19 vaccine at United Medical Center in Southeast Washington, D.C. (Source: Bloomberg)"
+    publishedDateTime: 2020-12-29T16:39:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-12-29/kamala-harris-receives-first-dose-of-covid-19-vaccine-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioeIXMANEEsk/v5/-1x-1.jpg"
+        width: 950
+        height: 534
+        isCached: true
   - title: "Alex Padilla to replace Kamala Harris in Senate, becoming California's first Latino senator"
     excerpt: "Governor Gavin Newsom tapped California Secretary of State Alex Padilla to fill the U.S. Senate seat that's soon to be vacated by Vice President-elect Kamala Harris. Padilla will become the first Latino to represent California in the Senate."
     publishedDateTime: 2020-12-22T23:56:00Z
@@ -226,6 +254,38 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2881609243978/2020/1/9ea9e7ae3bd6f888b482fd7a18aea13a/v1.5/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
+    publishedDateTime: 2020-12-29T16:29:00Z
+    webUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230345925.jpg?itok=9kpTgTT4"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Kamala Harris receives COVID-19 vaccine shot"
+    excerpt: "Vice President-elect Kamala D. Harris received the first dose of Moderna’s COVID-19 vaccine Tuesday in Washington."
+    publishedDateTime: 2020-12-29T16:57:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/29/Virus_Outbreak_Harris_11714.jpg-7528b_c0-192-4014-2533_s1200x700.jpg?2599c9a0d34520e2d6e2d09a62f00f5522b82bbe"
+        width: 1200
+        height: 700
         isCached: true
   - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
     excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
@@ -364,6 +424,17 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
+  - title: "Kamala Harris to Receive Coronavirus Vaccine"
+    excerpt: "Kamala Harris’ vaccination comes a little over a week after President-elect Joe Biden received his first dose live on television."
+    publishedDateTime: 2020-12-29T13:46:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Kamala Harris gets Moderna COVID-19 vaccine"
     excerpt: "U.S. Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the"
     publishedDateTime: 2020-12-29T19:59:00Z
@@ -375,6 +446,34 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
+  - title: "Kamala Harris goes to Black community in D.C. for vaccine"
+    excerpt: "Harris said she deliberately chose the city’s only public hospital, United Medical Center, because it serves neighborhoods in the city’s Southeast quadrant that are predominantly Black. WASHINGTON — Vice President-elect Kamala Harris said she “barely felt” the COVID-19 vaccine shot in her left arm on Tuesday after she was inoculated with the first of two Moderna doses at a Washington hospital in the heart of the city’s Black community."
+    publishedDateTime: 2020-12-30T05:26:00Z
+    webUrl: "https://www.pressherald.com/2020/12/29/kamala-harris-goes-to-a-black-community-in-dc-for-her-covid-19-vaccine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/12/APTOPIX_Virus_Outbreak_Harris_11063.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
+    excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
+    publishedDateTime: 2020-12-29T16:22:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6819818-Kamala-Harris-to-receive-shot-in-bid-to-boost-U.S.-confidence-in-vaccines"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 54
+    images:
+      - url: "https://www.fccnn.com/incoming/6819834-78kn7o-U.S.-President-elect-Joe-Biden-announces-his-nominee-for-secretary-of-education/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20announces%20his%20nominee%20for%20secretary%20of%20education"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
     excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
     publishedDateTime: 2020-12-22T18:30:00Z

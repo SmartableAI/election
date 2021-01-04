@@ -175,22 +175,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
-    excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
-    publishedDateTime: 2020-11-24T23:52:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2842XI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2842XI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Options dwindling, Trump faces likely setback in Georgia recount"
     excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
     publishedDateTime: 2020-11-19T15:30:00Z
@@ -238,22 +222,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_62f5263a70994a769b6a88749646c443_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump team requests official recount of Georgia presidential vote"
-    excerpt: "President Trump's legal team says his campaign has requested an official recount of votes in the Georgia presidential race using safeguards including signature matching."
-    publishedDateTime: 2020-11-22T04:34:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
-        width: 320
-        height: 209
         isCached: true
   - title: "As Trump gets more brazen about trying to steal the election, can congressional Republicans ditch him?"
     excerpt: "Congressional Republicans reluctantly backed President Trump on his false voter fraud claims in the hope that the situation would provide a natural exit ramp for them. His legal cases would wind down,"

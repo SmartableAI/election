@@ -25,197 +25,37 @@ topics:
   - Donald Trump
 
 related:
-  - title: "US election: Pro-Trump rallies see scuffles in US cities"
-    excerpt: "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,"
-    publishedDateTime: 2020-12-30T10:28:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55292610"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55292610"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Pence Can’t Reverse Trump’s Loss on Jan. 6, Elector Tells Judge"
-    excerpt: "A Democratic presidential elector from Colorado asked a federal judge for permission to intervene in a “last ditch” lawsuit filed by a Republican congressman who claims Vice President Mike Pence has the power to unilaterally reverse President Donald Trump’s election loss."
-    publishedDateTime: 2020-12-31T22:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-31/pence-can-t-reverse-trump-s-loss-on-jan-6-elector-tells-judge"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-31/pence-can-t-reverse-trump-s-loss-on-jan-6-elector-tells-judge"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-31/pence-can-t-reverse-trump-s-loss-on-jan-6-elector-tells-judge"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 140
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwvZCs4Nv0KE/v0/360x-1.jpg"
-        width: 360
-        height: 233
-        isCached: true
-  - title: "Georgia election: Donald Trump's phone call fact-checked"
-    excerpt: "The president made a string of claims in a phone call with officials in Georgia as he disputes the state's election result."
-    publishedDateTime: 2021-01-04T13:45:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55529230"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55529230"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55529230"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D8D0/production/_116340555_gettyimages-1230086798.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Growing chorus of Republicans protesting Trump's election challenges"
-    excerpt: "Paul Ryan, Larry Hogan, Mitt Romney, growing chorus of others say his efforts are undermining Americans' faith in democracy."
-    publishedDateTime: 2021-01-04T12:39:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-election-challenges-more-republicans-protesting/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-election-challenges-more-republicans-protesting/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-election-challenges-more-republicans-protesting/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 140
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/07/21/e27a4bba-e666-4d1a-bbc8-44c77407f45b/thumbnail/1200x630/4a798d2e15b80824aadf5382597c948d/gettyimages-1215622835.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Republicans condemn GOP ‘scheme’ to undo election for Trump"
-    excerpt: "The extraordinary Republican effort to overturn the presidential election was condemned Sunday by an outpouring of current and former GOP officials."
-    publishedDateTime: 2021-01-04T00:07:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
-    images:
-      - url: "https://www.chicagotribune.com/resizer/5Jl76CuQA8ORYHm-ieeRZ6fjzsI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/57OFMNP3SJHCXBTIHTKHOLPVWA.jpg"
-        width: 1200
-        height: 820
-        isCached: true
-  - title: "Trump knows no limits as he tries to overturn the election"
-    excerpt: "His pathetic Saturday telephone call to change Georgia’s results shows his desperation. And some Republicans continue to encourage him."
-    publishedDateTime: 2021-01-04T04:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-knows-no-limits-as-he-tries-to-overturn-the-election/2021/01/03/e192bf90-4e05-11eb-83e3-322644d82356_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-knows-no-limits-as-he-tries-to-overturn-the-election/2021/01/03/e192bf90-4e05-11eb-83e3-322644d82356_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-knows-no-limits-as-he-tries-to-overturn-the-election/2021/01/03/e192bf90-4e05-11eb-83e3-322644d82356_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2VPXQSOAAI6XA7DGITEJWBDKY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Georgia election guardian Raffensperger faces heat as Trump contests defeat"
-    excerpt: "Georgia's Republican secretary of state, Brad Raffensperger, cemented his status as an unlikely hero for U.S. Democrats following a fresh clash in which he rejected President Donald Trump's claims that his election defeat was the result of widespread fraud."
-    publishedDateTime: 2021-01-04T04:22:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-raffensperger-idUKKBN2980QZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2980QZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2980QZ"
+  - title: "Trump downplays impact of massive hacking, questions Russia involvement"
+    excerpt: "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat."
+    publishedDateTime: 2020-12-20T07:22:00Z
+    webUrl: "https://www.reuters.com/article/us-cyber-breach/trump-downplays-impact-of-massive-breach-of-government-computer-systems-idUSKBN28T0QL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0QL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0QL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 138
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545156451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0DB"
         width: 817
         height: 545
         isCached: true
-  - title: "In recorded call, Trump pressures Georgia official to change election results - media"
-    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call released by U."
-    publishedDateTime: 2021-01-03T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2980MG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980MG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980MG"
+  - title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
+    excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
+    publishedDateTime: 2020-12-23T11:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 133
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
-        width: 818
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545498490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM009"
+        width: 817
         height: 545
-        isCached: true
-  - title: "In recorded call, Trump pressures Georgia official to 'find' votes to overturn election"
-    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call published by U."
-    publishedDateTime: 2021-01-04T08:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN2990B7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990B7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990B7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Georgia elections board member says Trump could be charged for soliciting election fraud"
-    excerpt: "The sole Democrat on Georgia’s state Board of Elections said has called for a civil and criminal probe in a call in which President Trump pressured Secretary of State Brad Raffensperger to “find” more votes for him."
-    publishedDateTime: 2021-01-04T13:44:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/532485-georgia-elections-board-member-says-trump-could-be-charged-for"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/532485-georgia-elections-board-member-says-trump-could-be-charged-for?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/532485-georgia-elections-board-member-says-trump-could-be-charged-for?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 131
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald2_11052020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "In recorded call, Trump pressures Georgia election official to change results - Washington Post"
-    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
-    publishedDateTime: 2021-01-03T20:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post-idUSKBN2980MG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980MG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980MG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 128
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Stacey Abrams Refutes Comparison of Trump's Fraud Claims to Her 2018 Election Bid Ahead of Runoffs"
-    excerpt: "\"It's not simply a different circumstance. It's apples and, you know, bowling balls,\" said the former Georgia gubernatorial candidate."
-    publishedDateTime: 2021-01-03T20:24:00Z
-    webUrl: "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594"
-    ampWebUrl: "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 126
-    images:
-      - url: "https://d.newsweek.com/en/full/1696956/president-elect-joe-biden-campaigns-georgia-senate.jpg"
-        width: 2500
-        height: 1654
         isCached: true
   - title: "Trump veto threat raises the prospect of year-end government shutdown"
     excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
@@ -233,312 +73,176 @@ related:
         width: 738
         height: 545
         isCached: true
-  - title: "US Congress overrides Trump veto for first time"
-    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-    publishedDateTime: 2021-01-03T06:06:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
-    excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
-    publishedDateTime: 2020-12-31T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMSD6R4UMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 934
-        isCached: true
-  - title: "Donald Trump Shares Tweet on Whether Presidential Inauguration Can Be Delayed"
-    excerpt: "President Donald Trump shared a tweet on Sunday questioning whether the constitutionally mandated inauguration date of January 20 can be delayed. The Constitution explicitly states in the 20th Amendment,"
-    publishedDateTime: 2021-01-03T17:14:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-shares-tweet-whether-presidential-inauguration-can-delayed-1558577"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-shares-tweet-whether-presidential-inauguration-can-delayed-1558577?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-shares-tweet-whether-presidential-inauguration-can-delayed-1558577?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1696944/donald-trump.jpg"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "U.S. Congress inches closer to Trump veto override as Republican tensions grow"
-    excerpt: "The U.S. Senate was due on Wednesday to hold a procedural vote that could pave the way for Congress to override President Donald Trump's veto of a key defense bill, as tension between the outgoing Republican president and party leaders grows."
-    publishedDateTime: 2020-12-30T16:28:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29411U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29411U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29411U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
-    excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
-    publishedDateTime: 2020-12-29T22:06:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
-    excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
-    publishedDateTime: 2021-01-03T14:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/03/congress-house-senate-members-sworn-covid-19-rages/6410063002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6410063002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6410063002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/97ca686a-8201-445e-96a5-bdb07c28b1a2-sinful-cities-09-dc.jpg?auto=webp&crop=1962,1104,x369,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump pressured Georgia official on vote tally as allies seek to overturn results in Congress"
-    excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused Trump's demands."
-    publishedDateTime: 2021-01-03T20:20:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
+  - title: "Trump finds himself isolated in refusal to blame Russia for big cyberattack"
+    excerpt: "President Trump’s dismissive characterization of a massive cyberattack targeting multiple U.S. agencies drew pushback Sunday from lawmakers, cybersecurity experts and the incoming Biden administration amid growing questions over the president’s refusal to acknowledge that Russia was likely behind the intrusions."
+    publishedDateTime: 2020-12-21T02:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 114
+    quality: 123
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/102580c/2147483647/strip/true/crop/4159x2716+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F9d%2F7a97face49cf8ef215d0731921e6%2Fap20309660647036.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/382d7fb/2147483647/strip/true/crop/4651x3038+374+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F33%2F1e4dcf792e85239693113608299b%2Fd47918cfadda477f8b5fa5fed2afeba0"
         width: 320
         height: 209
         isCached: true
-  - title: "GOP Congressman-elect Burgess Owens says 'there's no question' that Trump was reelected to a second term"
-    excerpt: "Utah Rep. Owens said challenges to President-elect Joe Biden's presidential victory on the House floor is \"the right thing to do.\""
-    publishedDateTime: 2021-01-02T17:43:00Z
-    webUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01"
-    ampWebUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
+  - title: "RPT-UPDATE 2-Trump downplays impact of massive breach of government computer systems"
+    excerpt: "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame."
+    publishedDateTime: 2020-12-19T18:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2IZ0F0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28T0QL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0QL"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/5ff0a420a18a450018cb6856?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545149596&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0D6"
+        width: 812
+        height: 545
         isCached: true
-  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
-    excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
-    publishedDateTime: 2020-12-31T20:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 107
-    images:
-      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "A look at federal executions under the Trump administration"
-    excerpt: "The U.S. government later this month is set to execute the only woman on federal death row. Federal executions have become commonplace under the Trump administration, with 10 people having been put to death since July and three more executions scheduled before President-elect Joe Biden is sworn in."
-    publishedDateTime: 2021-01-02T20:24:00Z
-    webUrl: "https://www.cbsnews.com/video/a-look-at-federal-executions-under-the-trump-administration/"
+  - title: "Trump downplays massive cyberattack while Pompeo blames Russia"
+    excerpt: "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months."
+    publishedDateTime: 2020-12-19T20:06:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-downplays-massive-cyberattack-mike-pompeo-blames-russia/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/02/c7f0d68d-ee3c-4edf-ad62-6b8f4104804e/thumbnail/1200x630/ee496b9b28e36d4fdf7905f84f1dee8c/cbsn-fusion-a-look-at-federal-executions-under-the-trump-administration-thumbnail-619109-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/c4fe8484-65cb-4e80-9c18-bcd7156e46d5/thumbnail/1200x630/c917a8dd6992345c8768d9b7ab63fb51/cbsn-fusion-president-trump-downplays-massive-cyberattack-mike-pompeo-blames-russia-for-breach-thumbnail-612837-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes"
-    excerpt: "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call."
-    publishedDateTime: 2021-01-03T18:16:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html"
+  - title: "Eye Opener: Trump pardons former advisers convicted in Russia probe"
+    excerpt: "President Trump announced another round of pardons and commutations on Wednesday, with former advisers Paul Manafort and Roger Stone both on the list. Also, American airports are buzzing with travelers despite warnings from health officials."
+    publishedDateTime: 2020-12-24T12:49:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/24/2ba3d634-673e-4d57-b175-5c4538502b19/thumbnail/1200x630/a41c34924ee8c14dfc7664f7bb1b5694/cbsn-fusion-eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe-thumbnail-615578-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "CORRECTED-Trump voices concern about trade deficit in call with Vietnam PM"
-    excerpt: "U.S. President Donald Trump raised concern about his country's trade deficit with Vietnam in a phone call on Tuesday with its Prime Minister Nguyen Xuan Phuc, the White House said."
-    publishedDateTime: 2020-12-23T10:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-vietnam-idUSL1N2J30A1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J30A1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J30A1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters"
-    excerpt: "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa"
-    publishedDateTime: 2020-12-31T18:57:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
+  - title: "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent"
+    excerpt: "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record."
+    publishedDateTime: 2020-12-19T16:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 103
+    quality: 104
     images:
-      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
+      - url: "https://www.chicagotribune.com/resizer/19lNjHaESAwNGzeUPAfEWTjRL6M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CABCYCUO3BGJHLONLPWXO7J7AY.jpg"
         width: 1200
-        height: 800
+        height: 796
         isCached: true
-  - title: "Republicans condemn 'scheme' to undo election for Trump"
-    excerpt: "The extraordinary Republican effort to overturn the presidential election has been condemned by an outpouring of current and former GOP officials warning the effort to sow doubt in Joe Biden's win and keep President Donald Trump in office is undermining Americans’ faith in democracy."
-    publishedDateTime: 2021-01-04T06:02:00Z
-    webUrl: "https://www.chron.com/news/article/Republicans-condemn-scheme-to-undo-election-for-15843718.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Republicans-condemn-scheme-to-undo-election-for-15843718.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republicans-condemn-scheme-to-undo-election-for-15843718.php"
+  - title: "Attorney General Barr breaks with Trump, says Russia likely behind cyberattack"
+    excerpt: "Attorney General William Barr said on Monday that Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. CBS News' Paula Reid reports on the latest developments and expert cyberthreat intelligence analyst Charity Wright joins CBSN to discuss."
+    publishedDateTime: 2020-12-22T04:46:00Z
+    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-trump-says-russia-likely-behind-cyberattack/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
-    excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
-    publishedDateTime: 2021-01-02T23:38:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
+  - title: "Romney says Trump has 'blind spot' on Russia, calls hack 'extraordinarily damaging'"
+    excerpt: "Republican U.S. Senator Mitt Romney said a widespread data breach across the U.S. government was \"extraordinarily damaging\" and that President Donald Trump has a \"blind spot\" when it comes to Russia,"
+    publishedDateTime: 2020-12-20T15:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J008N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J008N"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 86
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+  - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
+    excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-president-trump-says-russia-likely-behind-cyberattack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
-    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
-    publishedDateTime: 2020-12-24T21:34:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+  - title: "Disputing his own top officials, Trump blames China, not Russia, for government agency hack"
+    excerpt: "Cybersecurity experts and Secretary of State Mike Pompeo say evidence points to Russia for a massive hack of U.S. government agencies, but President Trump is pointing the finger at China. CBS News White House correspondent Paula Reid spoke with CBSN's Anne-Marie Green about what the Biden administration can do to deter Russian hacking and interference,"
+    publishedDateTime: 2020-12-21T15:49:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-blames-china-not-russia-for-government-agency-hack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/21/76e4379e-d249-4937-bdad-62f94b8f2e36/thumbnail/1200x630/ef9879eba68ee8292eea612d940aed45/cbsn-fusion-president-trump-blames-china-not-russia-for-government-agency-hack-thumbnail-613606-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump issues wave of pardons and commutations to Russia probe defendants, former GOP lawmakers, Blackwater guards, and Border Patrol agents"
+    excerpt: "Trump issued pardons and commutations to 20 people including multiple close associates ensnared in the Russia probe and former GOP congressmen."
+    publishedDateTime: 2020-12-23T10:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5fd0bd5ecee0cf00114fa55e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump downplays hack as Pompeo blames Russia"
+    excerpt: "Watch \"President Trump downplays U.S. government hack as Pompeo blames Russia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221123118-president-trump-downplays-u-s-government-hack-as-pompeo-blames-russia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
+  - title: "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin"
+    excerpt: "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,"
+    publishedDateTime: 2020-12-19T02:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
     type: article
     provider:
       name: New York Magazine
       domain: nymag.com
-    quality: 75
+    quality: 73
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/6af/d6c/26cd6125882e55475038280280ed424f15-trump-putin.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 1200
+        height: 630
         isCached: true
-  - title: "Donald Trump leaves mark on immigration policy, some of it lasting"
-    excerpt: "When President Donald Trump was running for reelection, foreign-born U.S. residents were rushing to get their American citizenship before it might be too late. “I didn’t know what would happen if Trump got a second term,"
-    publishedDateTime: 2020-12-30T11:40:00Z
-    webUrl: "https://www.cleveland.com/nation/2020/12/donald-trump-leaves-mark-on-immigration-policy-some-of-it-lasting.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2020/12/donald-trump-leaves-mark-on-immigration-policy-some-of-it-lasting.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2020/12/donald-trump-leaves-mark-on-immigration-policy-some-of-it-lasting.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NJPOVSCIKBC25CJQ4T6HU27WNE.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
-    excerpt: "Efforts to involve the U.S. armed forces in resolving election disputes would take us into dangerous, unlawful and unconstitutional territory,” in an op-ed pieces signed by all 10 living former U.S. Secretaries of Defense."
-    publishedDateTime: 2021-01-04T14:00:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
-        width: 1200
-        height: 906
-        isCached: true
-  - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
-    excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."
-    publishedDateTime: 2021-01-01T20:13:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 71
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WMESNELVLJCGBIYTR4ZUTLLMWM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
-    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
-    publishedDateTime: 2020-12-26T17:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Lntdfbv/2bZIrRWy7nevWBhhFdnSB5GxliNrF1aFCjcv7AB+pdvBObiCMVWgeiZdiO6z4mM4FjZcx3GXbOTexSHPn/lX/LiogYM/NAjDzl0n+FKbNxBCtysNjNuAjxa9tIprD/iWu4KogPFG0wM3ZjGAMeKMn1XuJf/Iv2tNbdo4oD38d2al7aOe56U4PPO5o4n9r/IvUmGscQXof5g3h4TujpqdLwDtvLokHkgk4pZMRf+MvPVmtzBMZKsv3ILIm2w5bnxSESvQvOIn8g6FJOqVIun7KxMNb8L3KvVwjYx9WDlH1c+7t6ddOPtcnB94SAhZcwZK4Z1o3LTJsmD/0JuwfzVDZpFV8lY3iIQPEbA=;xFtTycSC9zFK/PDp16b91g=="
 ---

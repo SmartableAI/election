@@ -77,21 +77,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
-    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
-    publishedDateTime: 2020-12-29T06:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+  - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
+    excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."
+    publishedDateTime: 2021-01-01T20:13:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 71
     images:
-      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
-        width: 600
-        height: 360
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WMESNELVLJCGBIYTR4ZUTLLMWM.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "4OacDyjShTXLzQ6SfGERWoQJYAkM7CK8J4nOR05UkS+jZqZEm4cSzJ8BkLHa76ooR7QDlOnHqhSTJxNYHRnz6kDdM32ieYONyvP+o+O44quO+a1jd2FSVUCnueBR0GZUN1NxkEa2oI/LDwk4MXm05hyg9nPZHeGyEBZ4Qts9Q0FOJNFvm3SXlCAc9qHXnDscLZEey6AXRggBO0ZDQN+3lO3Uer3IQGXHR904PEzns+NzNFGsodk9OpqXe40UjuZzhxWdxE6sakDuzscxlEIyNcbNm5q8CpZ7xxb5IXsNw8Qz/IyHwef/NMfo2vvwhXnqAXxxnImku6omN1R3+Cg9BO45mDKeAbW38icZcU7E2htsfSJG5PvEmwQZYde9l+J+dhq8EJKA9Tp+s/7qZ6HuZ0FpY2vfrbwbgqiKZV/pP06a+D/8RFB2BXOdfZCwe8QlOR+ysT+0trxgg7ZbW4+889Izsu6BYIQmHXYQe8pNRgPnkiMLJ3/QCJVh7p9dniqB1b9v+okhcggpjM/6NUmuhQ==;jTk6bMhm7rvfOonvasSiRQ=="

@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
+    excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
+    publishedDateTime: 2020-12-29T22:06:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
     excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
     publishedDateTime: 2021-01-04T08:44:00Z
@@ -122,6 +138,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
+    excerpt: "Efforts to involve the U.S. armed forces in resolving election disputes would take us into dangerous, unlawful and unconstitutional territory,” in an op-ed pieces signed by all 10 living former U.S. Secretaries of Defense."
+    publishedDateTime: 2021-01-04T14:00:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
+        width: 1200
+        height: 906
+        isCached: true
 
 secured: "U+dwTSqEt1HVM0G6GCeSkE5BOYreNOJdiPTy/oVHCG8LLW3r1ZCDugaGx7V9wNj2KYNLZ/vp4VnnGNGyuueiIh8FV8p/CiEu4DGDdAUzP85eOqNiUluUvLm6oRsQSzYLuYHEzu7RULy7bkgDj6g6QrjV2rRFlBznmjYcfrBG7UJrHITnCvkmq0cJobZxfKUnicz3CF/xGqFgvHzy3z6gCTOJPdDeSyB5ZptS+V8BoNrPKfjfKejKF4T2KF4RkbagTomVI9A3zncUuJ32kAifCRkloyv8INMKflDnJMnf0KZ8/+DAdq6NK4QkVy2+8TW0QX+zfoqnJ1jFsPwk8sZ5H45gU4Q/Fx/ECY5KPCEsKtTJIot8HJv5IUYOZCOokVvgF8oZUymNXcmEXvBw9F7aP72zXkJOcT0GhSsRdu/TiqDmjY7+YkNQyhDKYfoRkCQn1GCkfPAQ4qDC6K9riLOuJqKqNKm/UgGb6rBMO3nIl94giSwd7/kSJaz9RVJSDY8MFhCYC3jo9pC3ZoaTk/xtQA==;j3i7VYSEGATIgF5UK8HQhQ=="
 ---

@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McCarthy reacts to leaked phone call of Trump pressing Georgia's secretary of state"
+    excerpt: "House Minority Leader Kevin McCarthy told “Fox & Friends” on Monday that “we have to make sure that our elections are accountable, have integrity and are safe.”"
+    publishedDateTime: 2021-01-04T17:52:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/umnCxQRv_S0/mccarthy-leaked-call-trump-georgia-accountability"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
     excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
     publishedDateTime: 2021-01-03T22:02:00Z
@@ -143,6 +159,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Watch Live: President Trump Hosts Rally Ahead Of Georgia Runoff"
+    excerpt: "Right Side Broadcasting Network provides coverage from Dalton, GA as President Donald Trump holds a rally for Senator David Perdue and Senator Kelly Loeffler ahead of the January 5 runoff election."
+    publishedDateTime: 2021-01-04T18:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/watch_live_president_trump_hosts_rally_with_loefler_and_perdue_in_georgia.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/48/481900.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "Go78a659cKRMjoN9fPXCVDeyvIP7BE/0EJzvLcbJl457mxQwvSrbt/Jeh7ero5A3iFjxA6mKIZWQnreZBRjKRqGW2wCOHw/ZV5QzIg69GV9THiVGSZzjJ30aZrp82wjtYOD+zEh8LK8GpTxBflA5LXMTR7B1+oIdrMQ/qXtIYpTuEz4aKazMzD4HQR8Pu4Lue2PWk0+3tnKTSLWXG+Qup1QdcjZWa1MgSu7sDg/Pp7qEr7Rka3PaMBKAh4qSyREtuOHT4FpNTbXeLssQKm/v6QmmnYIE3D6a91FjpbjIkA/Ubef4c8nNIhKo5TGV6Ny0L20yVebXADgoa8GuDIYIwGW1Lh+GJsxHm6Z5zYfHrcs=;TYXC2d/J/HvFVyJD5F4Idg=="

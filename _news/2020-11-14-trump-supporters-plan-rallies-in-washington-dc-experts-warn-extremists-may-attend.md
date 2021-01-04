@@ -95,22 +95,6 @@ related:
         width: 813
         height: 545
         isCached: true
-  - title: "Power Up: Trump divides Republican Party on his way out of Washington"
-    excerpt: "Leave it to President Trump to divide the Republican Party on his way out the door and right before two Georgia runoffs that will determine control of the Senate. There was Trump's last minute demand for $2,"
-    publishedDateTime: 2021-01-04T10:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXOHKBCOKQI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"
     excerpt: "The street closures will go into effect about 6 a.m. Saturday and will be enforced through the end of the day."
     publishedDateTime: 2020-12-09T22:46:00Z
@@ -126,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HTI4WRGXYI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
+    excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
+    publishedDateTime: 2020-12-31T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMSD6R4UMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 934
         isCached: true
   - title: "At least 23 arrested as crowds turn unruly after pro-Trump rally in Washington, DC"
     excerpt: "Supporters of President Donald Trump gathered Saturday to demand election integrity. The scene later turned tense as rival groups clashed."

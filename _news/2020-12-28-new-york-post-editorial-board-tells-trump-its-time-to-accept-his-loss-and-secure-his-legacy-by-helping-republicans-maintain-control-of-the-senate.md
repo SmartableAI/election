@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 908
         isCached: true
-  - title: "Trump Heard On Tape Urging State Official To 'Find' Votes For Him"
-    excerpt: "President Donald Trump pressured the Georgia secretary of state in an extraordinary phone conversation Saturday to \"find\" enough votes to overturn Joe Biden's victory in the Southern state, news media reported Sunday."
-    publishedDateTime: 2021-01-03T20:28:00Z
-    webUrl: "https://www.ibtimes.com/trump-heard-tape-urging-state-official-find-votes-him-3113640"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
-        width: 1024
-        height: 657
-        isCached: true
 
 secured: "Z4WmR5LuF8KNTbP8mMS6PfZs+eSS99nKIdATAR2YSAlat0e8ZKLr4iZTGwWnF1bvdNKtI5bT9bh5hSwnNC0skh1xyZxhDF46kX9Y1UaWKltmOqveKumSLwcFj19r2ZG3Le3Ldeha1iNuXcMZY+jwy4WmL+WQ7HtPJ+27822tdrIIJ2TV+T2LWz7fVPJTtW8dNbMx+l5ZWIGsXWIZmbgKVBwulJFu6+p2VLy8hPujbO0bpUAIF46OX7jJoPjrgaeMidV+bbfYE5v/bUhSt7BhVt7/bmW0Ied/BYE/Cf46WlMDdSd7WujUxGAX7e4LStsaCYKASo2Uh1/RwM9IVk4zFjGfHimLseuPBKOBdXSDk/o=;ALbhVqlTXTWKgpFOvYVU+w=="
 ---

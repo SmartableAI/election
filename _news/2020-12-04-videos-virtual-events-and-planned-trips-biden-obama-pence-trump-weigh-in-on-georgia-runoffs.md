@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-run
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
 type: article
 quality: 202
-heat: 1602
+heat: 1622
 published: true
 
 provider:
@@ -438,6 +438,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEyL8hQB2X0/biden-makes-big-investment-in-georgias-senate-runoffs"
     ampWebUrl: "https://www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump, Biden hold dueling campaign events on eve of Georgia runoffs as candidates make final pitches"
+    excerpt: "With the Senate majority up for grabs, which will likely determine how successful President-elect Joe Biden will be in passing his incoming administration’s agenda, the stakes in Tuesday’s twin Senate runoff elections in Georgia were already enormous."
+    publishedDateTime: 2021-01-04T17:21:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kl5Kqu3J_Fg/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
     type: article
     provider:
       name: Fox News

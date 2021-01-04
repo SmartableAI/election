@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4101264001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001"
 type: article
 quality: 126
-heat: 246
+heat: 286
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
+    excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
+    publishedDateTime: 2020-12-29T22:06:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
     excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
     publishedDateTime: 2021-01-04T08:44:00Z
@@ -122,6 +138,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
+    excerpt: "Efforts to involve the U.S. armed forces in resolving election disputes would take us into dangerous, unlawful and unconstitutional territory,” in an op-ed pieces signed by all 10 living former U.S. Secretaries of Defense."
+    publishedDateTime: 2021-01-04T14:00:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
+        width: 1200
+        height: 906
+        isCached: true
 
 secured: "7MUL1egpxLCVwRnIY+sAEJ2GW2i1su8vIWL+Lf6dQA3w4DXPXq7zn39LXOv3wihxwmO7d4wswuiaSfjoYXKbRgOncM3feQq8n9P0Pp2ZBXFc/dnJmNzbQXOsSMhOLW7obmYel9WuxkCSNcMaG36MEeaGdjkX13NyXeOfEam750u0blmBvLfMYIYdTqDjrq3qCoPVVz/opj5kkUEvDaRDABSkThJS+oXzE14FDNEKAbkprBNtHTq8VBHVOhm8quxWbi2ZtDqCNq7DRf6pz9ZZ7NSmxF6RDqdSulxAhpQk7vQMqRJhyVkkab5IrVvPZW83KJEO3fKopQWzZwx+n2AgO4QwZ87KllN6icoiwoAwZRE=;i3Dfh+6XDP6G6bxITKY5MQ=="
 ---

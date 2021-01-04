@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: President Trump spent Thanksgiving with troops in Afghanistan in 2019, not 2020"
-    excerpt: "Social media users having been sharing posts that claim President Donald Trump spent Thanksgiving 2020 with troops in Bagram, Afghanistan, not playing golf. This claim is false: the photo of Trump in Bagram is from 2019."
-    publishedDateTime: 2021-01-01T14:56:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN296286"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN296286"
+  - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
+    excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
+    publishedDateTime: 2021-01-04T18:43:00Z
+    webUrl: "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 115
+    quality: 118
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546338440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH00140"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
         width: 818
         height: 545
         isCached: true

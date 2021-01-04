@@ -244,6 +244,17 @@ related:
       name: NPR
       domain: npr.org
     quality: 85
+  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
+    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
+    publishedDateTime: 2020-12-26T17:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "6v/gYtAxyC0ylYo4owehBbEJna1VD97BFTDRjxIYkMsh5FD5yjL4iSCjiOx/fCqoECvLPpWy4nh0j6nY6XPstJlx09IvNOo61wlB/K08CEtmb4WaeKoMC/GwRU7Bg3fL7t0MrEmD4pbt6yfubf8LqpG9nRLYATKmgKi69MSK2SRiR4J8PsM5jhAuG4LqDfApaSZkEIXG/0/jz1zFtw+PG8y7vlLzej2CHjIYamJS91IuQVZ2twXGI3rB30QflcdSygaOc+1yz2wVPSmJti06pQayCjLHIP7YAKRd6BExTNCAutfbuxLs0lHapX1MiRt1TmnM3QnaFpPHSFUFoVgsIk26s89jSu2yIyfHa5BRPDUIraDuWxGptz1ubjOL0msLTu6YA27RazXSCl74Y+4ghHP4iMveQ5o75B2bs4bQGizZvm20KPhw2DU5Pz7yHHBK5nFqVO7oludFOhV1thJtRYqXQuKBw3uSLMbUpL8aluRqqplz1Yf7oZOQmwEHUogY2ExqRFzvJQpU+v8y1kJ/qA==;GZyv+YETuOiLIEDTXbECgg=="
 ---

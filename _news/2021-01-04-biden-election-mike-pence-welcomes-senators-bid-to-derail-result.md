@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55517626"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55517626"
 type: article
 quality: 155
-heat: 795
+heat: 815
 published: true
 
 provider:
@@ -357,6 +357,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Some GOP lawmakers push to dispute Joe Biden's victory"
+    excerpt: "At least a dozen Republican senators say they will officially object to Joe Biden's victory in the Electoral College during a joint session of Congress on Wednesday. The group, led by Senator Ted Cruz of Texas,"
+    publishedDateTime: 2021-01-04T18:02:00Z
+    webUrl: "https://www.cbsnews.com/video/some-gop-lawmakers-push-to-dispute-joe-bidens-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/04/f493bbcf-2362-43ba-862b-75811972c95f/thumbnail/1200x630/910b5622a37d6cdee14a25e9be9f26d9/0104-cbsn-hkb-goplawmakersdelaybiden-619831-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
     publishedDateTime: 2020-12-30T13:58:00Z

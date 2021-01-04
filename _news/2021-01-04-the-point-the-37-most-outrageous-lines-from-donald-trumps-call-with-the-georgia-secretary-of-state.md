@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Republicans rush to Trump's defense over Georgia call as Democrats prep censure resolution"
+    excerpt: "Many conservative House Republicans defended President Donald Trump in the aftermath of his phone call demanding Georgia Secretary of State Brad Raffensperger \"find\" the votes needed for him to win the elections in his state -- as Democrats began drafting a resolution seeking to censure Trump over the"
+    publishedDateTime: 2021-01-04T17:52:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5E_Vej0Pft8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/trump-call-republican-reaction-censure-resolution/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/trump-call-republican-reaction-censure-resolution/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104115130-donald-trump-december-8-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, Biden head to Georgia in final campaign push ahead of Tuesday Senate elections"
     excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump each will make one final in-person pitch in Georgia’s Senate race Monday ahead of the runoff elections on Tuesday. Biden is scheduled to travel to Atlanta to campaign on behalf of Democratic Senate."
     publishedDateTime: 2021-01-04T12:16:00Z
@@ -286,6 +302,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103124447-brad-raffensperger-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump drive to overturn election, rescue Senate majority collide in Georgia"
+    excerpt: "Both Trump and President-elect Joe Biden are traveling to the state for last-minute campaign events on the eve of Tuesday's Senate runoffs."
+    publishedDateTime: 2021-01-04T18:22:00Z
+    webUrl: "https://www.politico.com/news/2021/01/04/trump-biden-georgia-senate-runoffs-454533"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/04/trump-biden-georgia-senate-runoffs-454533"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/04/trump-biden-georgia-senate-runoffs-454533"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/e6/a1/ab79277044c79441676b700ec5f9/20210104-trump-georgia-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
     excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
@@ -426,6 +458,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "POLITICO Playbook PM: Will Trump derail the Georgia GOP — or put them over the top?"
+    excerpt: "ELECTION DAY in Georgia is tomorrow, but Trump and his congressional allies are ensuring that the final hours of campaigning are focused on … the last Election Day. THE RADICAL ATTEMPT to subvert the results of November’s presidential election,"
+    publishedDateTime: 2021-01-04T18:15:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/04/will-trump-derail-the-georgia-gop-or-put-them-over-the-top-491285"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/17/3a/458cc97b4679a0835895750f8157/gettyimages-1293915299.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "MHX7Rqvo44ATJGG5nv6wHtqGk8sI39bPFQbO0gsvqIzNkrPMZ98uj+4/+8dci8XbxyG2G2a2DP6kCVKOJ5kr9craFQvk6urzZvSPUWZy7P1j7592wQThQOVa+HuoWzatNyamQ/VtyJjebv+z6BlNfOU4NHRCkDg4wX4L8Ber0alGvCLHMCXx2dKlALgJvfmWNRgpoN3Dmvr+fto0njAsXzP4GVFgJtZKMw3g3UjvIecYRhZPVSbXNiu7euuq6poS606ryRbQ/QZpC5tTfzM0tZrajOsRzHykW29RNiv9zrrQLi/YMHcdKO7uNNlW/LjeZbv0FndBfz1aobRYYczNSp6R0lToDT0WeEXYGDgeScs=;E/x8Nc+6FK2By4N9eHfdXQ=="

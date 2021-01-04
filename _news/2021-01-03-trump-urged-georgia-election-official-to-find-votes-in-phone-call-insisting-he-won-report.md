@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-cal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
 type: article
 quality: 179
-heat: 319
+heat: 359
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McCarthy reacts to leaked phone call of Trump pressing Georgia's secretary of state"
+    excerpt: "House Minority Leader Kevin McCarthy told “Fox & Friends” on Monday that “we have to make sure that our elections are accountable, have integrity and are safe.”"
+    publishedDateTime: 2021-01-04T17:52:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/umnCxQRv_S0/mccarthy-leaked-call-trump-georgia-accountability"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
     excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
     publishedDateTime: 2021-01-03T22:02:00Z
@@ -142,6 +158,20 @@ related:
       - url: "https://images.wsj.net/im-278391/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Watch Live: President Trump Hosts Rally Ahead Of Georgia Runoff"
+    excerpt: "Right Side Broadcasting Network provides coverage from Dalton, GA as President Donald Trump holds a rally for Senator David Perdue and Senator Kelly Loeffler ahead of the January 5 runoff election."
+    publishedDateTime: 2021-01-04T18:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/watch_live_president_trump_hosts_rally_with_loefler_and_perdue_in_georgia.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/48/481900.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "zOYSJegM672KsX3nk0l5DREl5Lx4g3HGkXGWWv1AHftU6YNG6laEiNacKvkM0elWTOBMSvDYrQiugaXGRoabql2HZvhVrdBvbSoWxZGGSghz9WV1vY5lWCPqVT7shwTJ76w8EriHJO4SaJYE1hAg8QSLyTulkv/HOYDeoKfNwW2I9fbPLg0ryO3/hKRETJi8nO6oJuHjxrcmRXuuk0qc25+6gvE/SVMsIfC2f/76+6HbVKMZj8r3Gw/ygxjg6OkTFRn5NBDq7ELrYbiIezLZtaoXCJmg5wmG9OnuZnJJKq5BYMZW/xzaW3+2EbR0igfgsxy3Vv1PyBQ3NQrOQtxS2AeERPgkdRqjKzWtL04E+mk=;gU4H/MeItfGKspIiQxkQQA=="

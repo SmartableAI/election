@@ -159,22 +159,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"
-    publishedDateTime: 2020-12-29T22:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2930SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
     excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."
     publishedDateTime: 2020-12-29T18:41:00Z
@@ -300,22 +284,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Herschel Walker Under Fire After Siding With Trump About Voter Fraud In Georgia"
-    excerpt: "The University of Georgia alumni announced his opinions on Twitter on what he believes happened in Georgia during the 2020 presidential election."
-    publishedDateTime: 2021-01-02T16:51:00Z
-    webUrl: "https://www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274"
-    ampWebUrl: "https://www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/29/voter-fraud.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "4joYNsNy3tsEU4ft8GcyUSJJKp+eRC9PZN1H3pwJ2NfWmzzBnFfO3fKCTg20Qlx2hxTcjWLyZP9nbRLRTB7DobN2V+7XkCCHulQYPOZFwEmSvVyIZxupKEFG5VIRTda208DIhwriaCUFn0qWZqN7YhF53WO6hqBizjIzryDty5+yOewbD9bhhFV4O4W/LfY1qyQVPZoy81t/MJ9YmkzjCMhV0UOiZ7Di5V+cMzUKjMkBosf3tdbFrloYs0ciuGq6eeWgWhdyzI/Y2tPqwoJryykYioC4GRTMdvHJYTpz4T4HwWBoaP4NDHalfmXUH2GbXzyvvv/w2+DACqXbSd4NOFxJQHWLdnzIBIVt5xU+s77jcBotfWcS2oVFGyxTXeFMEHQNyX6zjh+9Y7SDJwVlEk6E93eCQ23KH0tLNhbphwmkjkIjy2j+Wwgl6oTLjxEWkNYahOxPz4Wq9KoyrtgIJ0IHK9PGcns4A5TXxZtNLozV7i9LKKlE5Hz+v5I5q6y9PWGoAFS+0gpxcjndy5TtMw==;Zj1YX9KX+m6IXmVENA0b6g=="

@@ -187,17 +187,33 @@ related:
         isCached: true
   - title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
     excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
-    publishedDateTime: 2021-01-03T22:19:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4120484001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4120484001"
+    publishedDateTime: 2021-01-03T23:21:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 53
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/eb8d47e8-dbef-4300-b47d-0eea8dc13aee-AP20343703704788.jpg?auto=webp&crop=5999,3374,x0,y508&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
+    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
+    publishedDateTime: 2021-01-04T18:07:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 50
+    images:
+      - url: "https://www.baltimoresun.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
         width: 1200
         height: 675
         isCached: true
