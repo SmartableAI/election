@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden: Georgia's Republican Senators \"Think They Swore An Oath To Donald Trump, Not The US Constitution"
+title: "Biden: Georgia's Republican Senators \"Think They Swore An Oath To Donald Trump, Not The US Constitution\""
 excerpt: "Campaigning on Monday afternoon ahead of Georgia's double Senate runoff election, former VP Joe Biden blasted Republican senators Kelly Loeffler and David Perdue. \"You have two senators now who think they don't work for you,"
-publishedDateTime: 2021-01-04T22:18:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/01/04/biden_georgias_republican_senators_think_they_swore_an_oath_to_donald_trump_not_the_us_constitution.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/01/04/biden_georgias_republican_senators_think_they_swore_an_oath_to_donald_trump_not_the_us_constitution.html"
+publishedDateTime: 2021-01-04T22:28:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/01/04/biden_georgias_republican_senators_think_they_swore_an_oath_to_donald_trump_not_the_us_constitution.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/01/04/biden_georgias_republican_senators_think_they_swore_an_oath_to_donald_trump_not_the_us_constitution.html#!"
 type: article
-quality: 64
+quality: 63
 heat: -1
 published: false
 
@@ -441,6 +441,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ypnjfRnvX/jLeETFOxfxltgNhgfJAnl1d+cujTC6w+Qjfp1XoAvtQc6nPooFb+/QuTHKgJXADkA2iSrDrXd0e1BjzfoZZ6UJWbBmsq/QJ7FAVEyjgFDFxSEKTjvkRuUo10+XuxOabIFQvfFG7qNZHK8J2opq4Tw28JSsScYyFpT9OSUJdZ/zw10jY2+dEWNZHd8LsFjoHZOg9oExCjGmadHG0yHmMMwRd2mUfQH+aXfrU7gQ+KPDn6j6XICsRrzKjVNoC3VBdDLUXiqe1supLBC3bFIxdQA3F0zUZueWiki+CCw7mfAvHzQbF5350dLeaZ3/tArK9WM8ucQ2qOlNIp0QGYrSeBk+MoQJy8FiHYoAHb/flD0zjx9mj5y5DlKxHiik2N/E03/AovuWV/140BvERjMHGoTmNI8V9T9CSAz1D922m84EGU02AXGG8mKWpM5IScD8iJfzd8oGKVdOoxhnGLd0+VHlGRP97h7cSGf4BXUPiKj3r/16Dh5RIkUfXsU2L4HFkAgJbUmUcuxOLg==;TdH0EzehOjj3EXocmxpPow=="
+secured: "x2KoLo3LILiJuaHYEt+yL7dlFi+aGr0Vsk2eC9FU4XDDByZYj/I3NtBSNP3IxFX/ZDyGbtP60xg88tcZZdNMRkbQfGzaE6V/IF3ddwnsjnad9df3USiY65RGC2M8PxkLEJXlBEvl0o1F+rEveDMq2r4kqBya9Y2d21dkkpbPIKp30dTXJGEDWxjGapzKLcrne8ExUMOJfT9l8AQJsEtYbnCAbJjV10m/2VHpVhCngwLz9asBb85FWyaW5RLNDatov1wg9kVStBNuThIkAeNtPN7c3QbWwsM+jnswfqQZccDS2xmSN28NLDWfBnrUGwetRiDst+aU2eQZ+sxDlRibwHKiahOAcuFTMkeLSz2AfC4=;jHmRd9Mr+82Pm+EjkyMhcw=="
 ---
 

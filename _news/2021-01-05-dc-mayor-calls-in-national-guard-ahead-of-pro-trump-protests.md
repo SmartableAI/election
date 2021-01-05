@@ -281,6 +281,22 @@ related:
         width: 769
         height: 545
         isCached: true
+  - title: "Trump urges Georgia voters to preserve GOP control of Senate; pressures Pence over election protests"
+    excerpt: "Some Trump supporters falsely believe Pence can throw out electoral votes from Biden states after GOP lawmakers protest."
+    publishedDateTime: 2021-01-05T03:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/donald-trump-stumps-georgia-republicans-senate-runoff/4124475001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124475001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124475001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/82ce36ca-0da7-4d0c-a46c-5201dc8f1ebe-AP20358775512344.jpg?auto=webp&crop=4271,2402,x1,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -328,6 +344,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QACYZSRXNAI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Top Georgia election official says White House pushed him to take Trump call"
+    excerpt: "Georgia's top election official said on Monday that fellow Republican President Donald Trump had pushed him to take an \"inappropriate\" call in which he pressured the state to overturn his November presidential election defeat there."
+    publishedDateTime: 2021-01-05T04:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2991Q5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2991Q5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2991Q5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546585876&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0314P"
+        width: 904
+        height: 545
         isCached: true
   - title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
     excerpt: "President Donald Trump filed a new lawsuit in Georgia Friday afternoon contesting the results of the election and requesting a do-over in his latest long-shot legal bid."
@@ -741,6 +773,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump-appointed US attorney resigns in Georgia"
+    excerpt: "BJay” Pak, who was appointed by Trump, announced his resignation as U.S. attorney for the Northern District of Georgia in a news release. The statement did not say why Pak was leaving or what he plans to do next."
+    publishedDateTime: 2021-01-05T04:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-appointed-us-attorney-resigns-georgia-75045394"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-appointed-us-attorney-resigns-georgia-75045394"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-appointed-us-attorney-resigns-georgia-75045394"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1c4b624c5b80489998dc2a81c6c026fa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Truth matters,' says Georgia official resisting Trump pressure"
     excerpt: "Georgia's secretary of state, Brad Raffensperger, says he was just following the law when he rejected claims by Donald Trump, his fellow Republican, that the president's election defeat was the result of widespread fraud."
     publishedDateTime: 2021-01-04T20:57:00Z
@@ -804,6 +852,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1697248/georgia-sos-brad-raffensperger.jpg"
         width: 1024
         height: 624
+        isCached: true
+  - title: "Nation's capital braces for violence as extremist groups converge to protest Donald Trump's election loss"
+    excerpt: "The Washington Metropolitan Police Department has stepped up precautions, including erecting signs stating that open carry of guns is illegal."
+    publishedDateTime: 2021-01-05T04:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/04/january-6-dc-protests-against-election-certification-could-violent/4132441001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4132441001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4132441001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/baa46f74-afd5-4813-bdd3-579d8cecb583-USP_News__Alleged_Voter_Fraud_Rally_in_Washington_1.jpg?auto=webp&crop=4060,2284,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Georgia GOP official urges Trump to respect results of the Electoral College"
     excerpt: "\"If they chose Joe Biden, then Joe Biden is the president,\" said Cobb County Republican Party chairman Jason Shepherd."
@@ -1126,6 +1190,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump pushes baseless voter fraud claims at Georgia rally on eve of crucial Senate runoffs"
+    excerpt: "The president said he hopes Vice President Mike Pence \"comes through for us\" when Congress meets this week to count the Electoral College vote."
+    publishedDateTime: 2021-01-05T04:10:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-dalton-georgia-watch-live-stream-today-2021-01-04/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-dalton-georgia-watch-live-stream-today-2021-01-04/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-dalton-georgia-watch-live-stream-today-2021-01-04/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/05/525d4a2b-5e55-42c2-bd10-bbd93d23392a/thumbnail/1200x630/c27e4f4be894b136ae9ef5938d2d607a/2021-01-05t025529z-1043258129-rc2e1l9ik335-rtrmadp-3-usa-election-georgia-trump.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump pressured Georgia official on vote tally as allies seek to overturn results in Congress"
     excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused Trump's demands."
@@ -1534,13 +1614,13 @@ related:
   - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
     excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
     publishedDateTime: 2021-01-03T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4107424001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4107424001"
+    webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+    ampWebUrl: "https://amp.statesman.com/amp/4107424001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4107424001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
@@ -1777,6 +1857,17 @@ related:
         width: 1024
         height: 657
         isCached: true
+  - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
+    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
+    publishedDateTime: 2021-01-05T04:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "rk9rN99Z01zgPVn1I4lbW+34UXds1liTmPn7M1t3bv/hAe/huqcFmG/QudkXVz0w8NpdChNFULZ0wCXoO18/uGet5WlrK2z4+FNgqHXownelatPCicq1hF5MoLbJCjbJQLSjqYoM71lPDoJxwEIhSNHqO+gJosZxh6g578mYJp8pK8Idx9iiETyeWGq5x35dU0FlUdcXeqoBm7d6wSgJUbND6/1urdqdh1rwXCuvMMvp37U+jV5AJ7jOFDAFWGKF+4glz8LQolet2yapDSMn1lBrp9qV8WhOVONwRAM16KiYO8Vm1n9V68f6gBp/ffWgnd27W6QDnnyV2qL93B8sf3763aSzk7D1k8S0EHQGaCTfKGI/ROAUcx/QVLV8fi1WeK6TcBAzItzBxXBLygR+0Uv8ssvPvxMzp3z4mu5nMbi2COIb9xtu/Mab2LqPR5kQBxkmdgsn1f8HZZKksKGFXHZOKU9oa3yZ05EfmmVrF/S6gLpUeayqhgXOyXPmU17sJnHwQ54pM3QhNQT6TF9rpw==;jcGwWjbcU5ZNDPTZRAXwKw=="
 ---

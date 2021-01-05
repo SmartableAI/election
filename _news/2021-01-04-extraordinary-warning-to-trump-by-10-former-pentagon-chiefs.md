@@ -139,6 +139,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "U.S. judge blocks Trump sanctions targeting human rights lawyers, war crimes tribunal"
+    excerpt: "A U.S. judge on Monday blocked the Trump administration from sanctioning human rights lawyers for supporting the work of the world's war crimes tribunal, the International Criminal Court."
+    publishedDateTime: 2021-01-05T04:44:00Z
+    webUrl: "https://www.reuters.com/article/us-warcrimes-afghanistan-trump/u-s-judge-blocks-trump-sanctions-targeting-human-rights-lawyers-war-crimes-tribunal-idUSKBN2992MD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2992MD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992MD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546601042&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0319Y"
+        width: 806
+        height: 545
+        isCached: true
 
 secured: "NDV/9Zdiaz4JIhgPcOGMAtjpSELMs9N7wleBtxvWsoiKCBKG8J4KY5w/RkI/8nVjGVs4V/Bp8K929mvRPLTeWLhJGiZArw8YOoJK/FkDLiZ3xNMm+gPLfthAy30Tf21baU7As5OsgJf7406JbLIxKw/KPBhaSUw+pfHEzYtYiZhkdbE9fYVLDVNd0MXAAvjJykO8K23gSFLSu3J6Awa4sWCvL2Cvr6+I4ry9Tu6TYZiGQH74YwNCeGgbIYgWtVNTpgNkktSU7V0nIRiqnMDRPSTaxzY+JarMrv0HWlppBDqJNYmvIWdgfRbNJ7Ft3Tb4pBwVjUDkzTtSsw+5YnM0MPDB915t01a8bXV/kuwcnX0=;+PSq6rLi1ZJqoAOYJIXmsg=="
 ---
