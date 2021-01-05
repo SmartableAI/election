@@ -137,6 +137,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump directed that Navy carrier return to Middle East"
+    excerpt: "President Donald Trump directed acting Defense Secretary Chris Miller to return the aircraft carrier USS Nimitz and its carrier strike group to the Middle East, reversing Miller's decision last week to bring the carrier home,"
+    publishedDateTime: 2021-01-05T06:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-directed-navy-carrier-return-middle-east/story?id=75036786"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-directed-navy-carrier-return-middle-east/story?id=75036786"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-directed-navy-carrier-return-middle-east/story?id=75036786"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/nimitz-1-ap-er-201204_1609792111345_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
     excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
     publishedDateTime: 2020-12-22T11:16:00Z

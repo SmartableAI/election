@@ -238,6 +238,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia Girds for Senate Runoffs in Wake of Trump Call to Overturn Vote"
+    excerpt: "Georgians were bracing for Tuesday’s Senate runoff elections after President Trump urged state officials in a weekend phone call to nullify President-elect Joe Biden’s win in the November vote."
+    publishedDateTime: 2021-01-05T08:37:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-girds-for-senate-runoffs-in-wake-of-trump-call-11609785914"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-girds-for-senate-runoffs-in-wake-of-trump-call-11609785914"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-girds-for-senate-runoffs-in-wake-of-trump-call-11609785914"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-280120/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
     excerpt: "Vice President Mike Pence plans to campaign in Georgia Friday for the Republican runoff candidates, Sens. David Perdue and Kelly Loeffler, whose races will decide which party controls the Senate. Both races headed to a Jan."
     publishedDateTime: 2020-11-20T09:34:00Z

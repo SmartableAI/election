@@ -2,19 +2,19 @@
 category: news
 title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
 excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
-publishedDateTime: 2021-01-04T21:24:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
-webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
-ampWebUrl: "https://amp.statesman.com/amp/4130687001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4130687001"
+publishedDateTime: 2021-01-04T19:39:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+ampWebUrl: "https://amp.indystar.com/amp/4130687001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4130687001"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -369,17 +369,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
-    excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
-    publishedDateTime: 2021-01-05T06:31:00Z
-    webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Some GOP lawmakers push to dispute Joe Biden's victory"
     excerpt: "At least a dozen Republican senators say they will officially object to Joe Biden's victory in the Electoral College during a joint session of Congress on Wednesday. The group, led by Senator Ted Cruz of Texas,"
     publishedDateTime: 2021-01-04T18:02:00Z
@@ -515,6 +504,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "US Election: Meet the kids who are related to Joe Biden!"
+    excerpt: "As January and Joe Biden's inauguration day gets closer we wanted to get to know a little more about the future President of the United States so Hayley spoke to some children who are related to him."
+    publishedDateTime: 2021-01-05T08:48:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/55317647"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "http://c.files.bbci.co.uk/14DA1/production/_116090458_p091lgd7.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
     excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
     publishedDateTime: 2021-01-01T02:42:00Z
@@ -564,6 +567,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/M+1C4Yr/zxwHMI/r1poECu+B7azBOuYnrhD5v+JS9Y9QgItcTE+9JPubH1NUgTvQ/tF06EKtj8PDc1cwjUMqR/8Qz8foLZ3alqA47gOf5CYFAn3YJNAz1ZlJZl8f1TKCCcbFy+T8Rwx6G4zWx4X8gv85pa1+A87VgJznBXKLRNKtK26ONi5PamaENDpQ71m7I+2gLyM1Z5sqr1+BPhUMtkgTraOB7cOCZNXH9K+F97MC5Uc3gyMkTooUzqilG3gEw43gIP9KCswbeEaaOJhaivX9VDwIr+6BFTb0l5DWzONdBncTgveonUERCxFDgqE5/dMWBdp8RBwhDXCvj5u7p63tJb9s9J59PIkqqPjIfKpAeeLcjdQfx5op4tRG4lLpGACo3AhSSOBFwVT7QqONWfVqmiJIvizIxDXcgkFDe/hy9dnsQTM/RUBLInZla32VcWFcQ0iML6Fdd6qi06mP9d7HtDb49saQ1zmB62nwN58jlzJCxqrPT2RYNrM3LuYw63hMUDvnnx1Jg+6uAcNyA==;F3IEVaAsvivId2/JY0eprA=="
+secured: "WYXx0Qki3t6In9TK2GiFo00xSOpGEgx7IIPsditrNZ3pvGgTUSWIhkHJdBY0rxDbUa1zNwsxTC20kKr6wq4QGTTL9bKCZVXfHieT/sfurs6/WO8kcp10zWtVzCLL77/Pxk1HMuEVylTsblgr5wWk8QIMunooNbaGA4W75hdL5vacFQ9IUBIjETB8Y8uVDJr9kUUPkvuZqLlxdbDN/fSFGQ9e9K+1mnIapWVqP4e4uvbFjKk8sOl0X7Th6wKOB0jrFT9KxLdeg5m6WpJfAbzOte3KE6Y7IMOP6X2dnXr/L7NrVGhlqXJHskEBAt4THshtydqImKsQrmvGk/PexHoax0f0AvBUB7hyorPwFEFRtmw=;GMs1r2zq6Tv95VhGmXnZHQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-14-how-the-deep-state-scientists-vilified-by-trump-helped-him-deliver-an-unprecedented-achievement.md",
+      "title": "How the ‘deep state’ scientists vilified by Trump helped him deliver an unprecedented achievement",
+      "excerpt": "A $14-billion partnership between government and industry is spurring the quickest vaccine development in U.S. history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "originalUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LPMJUBR5JQI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "publishedDateTime": "2020-12-14T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-a-lifelong-republican-stood-up-to-trump-his-reward-death-threats.md",
       "title": "A lifelong Republican stood up to Trump. His reward: Death threats",
       "excerpt": "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system.",
@@ -1287,63 +1339,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-the-us-sends-egypt-billions-in-aid-fearing-extinction-rights-activists-hope-biden-will-act.md",
-      "title": "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act.",
-      "excerpt": "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "originalUrl": "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250554",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554",
-      "publishedDateTime": "2020-12-12T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

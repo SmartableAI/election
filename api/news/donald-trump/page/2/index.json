@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-01-trump-reportedly-lashed-out-at-kushner-over-increased-covid-19-testing-im-going-to-lose-and-its-going-to-be-your-fault.md",
+      "title": "Trump reportedly lashed out at Kushner over increased COVID-19 testing: 'I'm going to lose, and it's going to be your fault'",
+      "excerpt": "Trump reportedly told Kushner, \"I want to do what Mexico does. They don't give you a test till you get to the emergency room and you're vomiting.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fee7be9a18a450018cb67d6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp",
+      "publishedDateTime": "2020-12-31T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-amid-election-turmoil-caused-by-trump-chief-justice-roberts-lauds-judiciary-for-pandemic-response.md",
       "title": "Amid election turmoil caused by Trump, Chief Justice Roberts lauds judiciary for pandemic response",
       "excerpt": "Roberts notably avoided any mention of the judiciary's other historic challenges caused in large part by President Donald Trump, his frequent nemesis.",
@@ -969,7 +1021,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1518,58 +1570,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-prosecutors-have-mounting-amount-of-evidence-against-trump-michael-cohen-says.md",
-      "title": "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says",
-      "excerpt": "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/24/914512ec-439b-42dd-a227-685aaa671d68/thumbnail/1200x630/081f1dacbf03b1eaddf486ed306c8c8b/cbsn-fusion-michael-cohen-trump-lawyer-on-pardons-thumbnail-615721-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
-      "publishedDateTime": "2020-12-24T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

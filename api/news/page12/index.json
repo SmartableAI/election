@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-17-biden-introduces-pete-buttigieg-as-transportation-secretary-nominee.md",
+      "title": "Biden introduces Pete Buttigieg as transportation secretary nominee",
+      "excerpt": "President-elect Joe Biden will introduce former South Bend, Indiana, Mayor Pete Buttigieg as his nominee for transportation secretary at an event in Wilmington, Delaware on Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pzpz_blqcT4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pzpz_blqcT4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216123723-03-pete-buttigieg-1216-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html",
+      "publishedDateTime": "2020-12-16T19:39:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-kt-mcfarland-there-is-significant-evidence-hunter-biden-has-been-compromised-by-chinese.md",
       "title": "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'",
       "excerpt": "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China.",
@@ -1285,49 +1341,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-pence-lauds-vaccine-effort-during-stop-at-indiana-plant.md",
-      "title": "Pence lauds vaccine effort during stop at Indiana plant",
-      "excerpt": "Vice President Mike Pence said Tuesday that he's looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "originalUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/f754d3185f964607a8735a917ca88426/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

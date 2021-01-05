@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-12-the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term.md",
+      "title": "The Latest: Trump backs McDaniel for another RNC chair term",
+      "excerpt": "President Donald Trump is endorsing the chair of the Republican National Committee for another term, despite his electoral defeat",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-11T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-parler-mewe-gab-gain-momentum-as-conservative-social-media-alternatives-in-post-trump-age.md",
       "title": "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age",
       "excerpt": "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means.",
@@ -1524,58 +1576,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/6173694002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6173694002",
       "publishedDateTime": "2020-11-06T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-president-donald-trump-handily-wins-kentucky-once-again.md",
-      "title": "President Donald Trump handily wins Kentucky once again",
-      "excerpt": "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6130620002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002",
-      "publishedDateTime": "2020-11-06T13:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

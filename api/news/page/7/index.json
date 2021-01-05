@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-24-trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.md",
+      "title": "Trump issues stern warning to Iran after rocket attack on US Embassy in Baghdad",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E5zqiMcWaoc/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E5zqiMcWaoc/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
+      "publishedDateTime": "2020-12-24T02:51:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-exclusive-as-trump-leaves-office-50-of-americans-see-him-as-a-failed-president.md",
       "title": "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president",
       "excerpt": "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected",
@@ -1289,58 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter.md",
-      "title": "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter",
-      "excerpt": "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
-      "originalUrl": "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/12/18/ap_20351771171034_wide-a1d0787ca4b6ff4d60a877fc34a43008e8f5a91a.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

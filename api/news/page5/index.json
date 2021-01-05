@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-30-how-richard-jewells-lawyer-became-a-pro-trump-conspiracy-theorist.md",
+      "title": "How Richard Jewell’s Lawyer Became a Pro-Trump Conspiracy Theorist",
+      "excerpt": "The defamation lawyer L. Lin Wood has transformed into a fierce advocate for President Trump whose error-riddled lawsuits have promoted falsehoods about election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/24/us/politics/00linwood/merlin_180740733_49d0afaf-b8b3-49bf-b2f8-8b3fa28413ca-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.amp.html",
+      "publishedDateTime": "2020-12-29T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-trump-joins-michelle-obama-at-top-of-gallups-most-admired-lists.md",
       "title": "Trump joins Michelle Obama at top of Gallup's 'Most Admired' lists",
       "excerpt": "President Trump dethroned former President Barack Obama as the most admired man in 2020, while Obama's wife, Michelle Obama, was named most admired woman for the third year in a row.",
@@ -440,7 +497,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -921,7 +978,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1291,58 +1348,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-trump-is-threatening-iran-and-biden-says-the-pentagon-is-stonewalling-him-on-many-things-with-less-than-a-month-until-his-inauguration.md",
-      "title": "Trump is threatening Iran, and Biden says the Pentagon is stonewalling him on 'many things' with less than a month until his inauguration",
-      "excerpt": "Lame-duck presidents typically wouldn't dream of threatening war in their final days. But Trump is anything but typical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe4f568a644880018193593?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
-      "publishedDateTime": "2020-12-26T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

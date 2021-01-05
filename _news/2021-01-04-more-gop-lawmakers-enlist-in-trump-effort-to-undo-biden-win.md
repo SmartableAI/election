@@ -367,17 +367,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
-    excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
-    publishedDateTime: 2021-01-05T06:31:00Z
-    webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Some GOP lawmakers push to dispute Joe Biden's victory"
     excerpt: "At least a dozen Republican senators say they will officially object to Joe Biden's victory in the Electoral College during a joint session of Congress on Wednesday. The group, led by Senator Ted Cruz of Texas,"
     publishedDateTime: 2021-01-04T18:02:00Z
@@ -502,16 +491,30 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
-    excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
-    publishedDateTime: 2021-01-04T21:24:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
-    ampWebUrl: "https://amp.statesman.com/amp/4130687001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4130687001"
+  - title: "US Election: Meet the kids who are related to Joe Biden!"
+    excerpt: "As January and Joe Biden's inauguration day gets closer we wanted to get to know a little more about the future President of the United States so Hayley spoke to some children who are related to him."
+    publishedDateTime: 2021-01-05T08:48:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/55317647"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "http://c.files.bbci.co.uk/14DA1/production/_116090458_p091lgd7.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
+    excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
+    publishedDateTime: 2021-01-04T19:39:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4130687001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4130687001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 64
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"

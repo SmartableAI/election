@@ -46,6 +46,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
+    excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
+    publishedDateTime: 2021-01-05T07:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A0D0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A0D0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 151
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546616266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0406D"
+        width: 783
+        height: 545
+        isCached: true
   - title: "Loyal soldier Pence torn between Trump, Constitution"
     excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
     publishedDateTime: 2021-01-05T06:09:00Z
@@ -1066,6 +1082,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Is Donald Trump Mad at Mike Lee? President Scolds Senator at Georgia Rally"
+    excerpt: "Lee helped to lead the president's defense in his impeachment trial but has refused to oppose ratifying Biden's win."
+    publishedDateTime: 2021-01-05T08:42:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1698318/president-trump-jokes-senator-mike-lee.jpg"
+        width: 3772
+        height: 2573
+        isCached: true
   - title: "Georgia elections chief battles fellow Republicans, Trump"
     excerpt: "Georgia's secretary of state is a man on an island, and the political flood is rising fast, as President Donald Trump and his allies vent their outrage at the fellow Republican and make unsupported claims that mismanagement and fraud tainted the state's presidential election."
     publishedDateTime: 2020-11-17T16:56:00Z
@@ -1133,6 +1165,20 @@ related:
       - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
         width: 750
         height: 562
+        isCached: true
+  - title: "'I hope Mike Pence comes through for us': Trump puts vice president under pressure – video"
+    excerpt: "Trump puts vice president under pressure – video"
+    publishedDateTime: 2021-01-05T08:06:00Z
+    webUrl: "https://www.theguardian.com/global/video/2021/jan/05/i-hope-mike-pence-comes-through-for-us-trump-puts-vice-president-under-pressure-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/2a3f990fc29317b0ec66698d6e841818d3177eeb/0_26_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07b9f6266286d301aa4dd75c0c949c55"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump 'just plain wrong' on fraud claims: Georgia Secretary of State Raffensberger"
     excerpt: "Secretary of State Raffensperger joined \"Good Morning America\" for an exclusive interview after President Trump demanded he \"find\" more votes so he could win Georgia."

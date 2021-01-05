@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runof
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp"
 type: article
 quality: 199
-heat: 559
+heat: 579
 published: true
 
 provider:
@@ -237,6 +237,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20325565789319-e1606069535796.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Georgia Girds for Senate Runoffs in Wake of Trump Call to Overturn Vote"
+    excerpt: "Georgians were bracing for Tuesday’s Senate runoff elections after President Trump urged state officials in a weekend phone call to nullify President-elect Joe Biden’s win in the November vote."
+    publishedDateTime: 2021-01-05T08:37:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-girds-for-senate-runoffs-in-wake-of-trump-call-11609785914"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-girds-for-senate-runoffs-in-wake-of-trump-call-11609785914"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-girds-for-senate-runoffs-in-wake-of-trump-call-11609785914"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-280120/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
     excerpt: "Vice President Mike Pence plans to campaign in Georgia Friday for the Republican runoff candidates, Sens. David Perdue and Kelly Loeffler, whose races will decide which party controls the Senate. Both races headed to a Jan."
