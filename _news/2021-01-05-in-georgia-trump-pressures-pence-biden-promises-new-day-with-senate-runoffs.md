@@ -2,11 +2,11 @@
 category: news
 title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
 excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
-publishedDateTime: 2021-01-05T07:16:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
-webUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A0D0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A0D0"
+publishedDateTime: 2021-01-05T12:33:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
+webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2992MO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2992MO"
 type: article
 quality: 151
 heat: -1
@@ -44,22 +44,6 @@ related:
     quality: 155
     images:
       - url: "https://s.abcnews.com/images/Politics/mike-pence-01-gty-jc-210104_1609778952307_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Loyal soldier Pence torn between Trump, Constitution"
-    excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
-    publishedDateTime: 2021-01-05T06:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c73f2e2a9d7b46deb1ee0331c8cdd5fa_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -286,6 +270,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_52ca949ed7f54c659765461e621d0ab2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Loyal soldier Pence torn between Trump, Constitution"
+    excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
+    publishedDateTime: 2021-01-05T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump, Biden to rally in Georgia ahead of high-stakes Senate races"
     excerpt: "President Donald Trump travels to Georgia on Monday in a bid to keep the U.S. Senate in the hands of his Republican Party, after his efforts to overturn his own defeat in the state have injected new uncertainty into a pair of races that are seen as too close to call."
@@ -2039,6 +2039,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "2OEKsPm+/QqZlh06gNQZvhHlSG//4eDHvxTgzOQG4ioGpBprPv6Ua0TZ7KrrQxI31aH8qHwzNcKVQ5Bb2W8XnTlMORJDKVPtNRZNGYhNLOb4uIFDn5WenF3ToEU4FlOgtfg5eGZD9cc28u0nrtBsSDorRH7sUWm1Je2L42dkKwdTccYQdsrAyQlIonuHJsOqIh2yS0lo25KAC+ifoUqlR+rkYOL9YiYRMCljSz/tNTI4TneBMsUK9VFpf0+ycPevYEFdeWS+mTeANmJ4MghKfsACep+QSSAvY8N5R8KEImDy07qunxsAGsZE/fh7pNQtvqLzpoSvvVNnBF1vzCu4TE77XV8bau0RsyoF7er/6jdi8DJb9uOPH88lEZcL3CVQ2uQoCDq3+aL9thn9iyX+7JjKEFm4hlR+MxOVy/GzU4M2CNDJsw3LLAIWAp6+d/8kG4bmnUw7yHL4m5fEZBYR4YvR7XK1WlIeLh0V/wdN5ibcChymtUTKiUSNS0NyZtzuxCGTw71q4vFw4yy6X4r9UQ==;gchZ2afBsFRMKMqXUcwuHQ=="
+secured: "3Bzmltet7m7H0fzNjJ2z3n3W8ig71/r5W9fVoGnt7bkR9c3TCBsqdN4+xfEa0ofl9zeYi39D6vSmBnT3ZGUgXRUl67c7dFJNH/zqAgJxUTc/5f+AJ/bEA9Pi3xtZjOMkzGSJdblKPH9OjARWWFDpaMGzGEpAFzklmwjCf/+S3uqdNTLBOCvVYgAgcYRwcBO6waDUEvUxDDi6JEu3XiY8pLhBIMcSsIYnoxxo3xBh2uBctxCHw/LSicII+hH9CXpGcIy6oiZJKuSHitUhY2o1ydlQIL7eSskFPeOXDvHg7Zd7PpJmbiiWPecr5bF07m80AbiHt7h09haVesGH2ebpRJvUDHYxH/RFpQWlByX59Y0=;p6L9q7b1o5Dn2JGvvnCyuA=="
 ---
 

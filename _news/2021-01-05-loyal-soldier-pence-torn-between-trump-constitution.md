@@ -2,33 +2,32 @@
 category: news
 title: "Loyal soldier Pence torn between Trump, Constitution"
 excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
-publishedDateTime: 2021-01-05T06:09:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-webUrl: "https://abcnews.go.com/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
+publishedDateTime: 2021-01-05T10:52:00Z
+originalUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html"
+webUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
-quality: 150
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Mike Pence
-  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c73f2e2a9d7b46deb1ee0331c8cdd5fa_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -50,10 +49,10 @@ related:
         isCached: true
   - title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
     excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
-    publishedDateTime: 2021-01-05T07:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A0D0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A0D0"
+    publishedDateTime: 2021-01-05T12:33:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2992MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2992MO"
     type: article
     provider:
       name: Reuters
@@ -2040,6 +2039,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4siG8V3gD404tLanCCiwbMKuU4d/OS1n/OA8CUFbNPviPeAZIee+FXn2PNWeLgFYWCvpLbkJqdNwo7XWDqZxD6NGIguxriONEdxqhJtozJrzFFBeHttxNHqYJn+HZI/XGyOkGmd2rjpgrb+ybXvcnIWCi2NhrxOkX/ubX2TOasvx8QqxRL8KOBkssrifnPOfualAvhupWCfsuybap7E+1WiEZcy/OBGhcAom7c/TqIYlGB1QxziIq2HdKNTzHL+/gjWeSqEQv0RJwJ041g7ahIWMBvsY0HlEkNCv5UGzcIDZ2ZtgQNDSRqmLXRYSrijmMi7CL0j9sh/9Wtnzr7sUWymxagnTGxavpVKoxUFc8h4=;p0CmQELr03H57ghewBCo2w=="
+secured: "cnhW1CaSlA3Z4eVZxXYUbktxWJ49W3mpkBnximoa5ggK0WQdklM7UnFOl8P0cXRoIP3hQIeUDrS6TqYqBrGIwwSn3Hq772ZL5b2e41FFQNLeUGzjAGNiElzZcXy7bpuOO7WRRRN2NjCouuV5NYyCS1/XbfT7naU0IYDtlxkB7hCWvJ91/MnyyyWD4/gSpVBZDkwZlma2EY9ft00hjMqbLSLMu22SC1zmDKYMnStPLAV5Gxj8QkbmIx4BmisfQUOSAGnnxtAbE1zYpsEKAqZRkxqbqT0i4pOlyPM1hzSBdWB0wkGBt3w7EEuav7lbh7eWjp2zTt++Ee77hhDKLB888O57aS4V70ZOfYIXaSw2Fpc=;lh69vgsCEBjcLdRNoaLPBg=="
 ---
 

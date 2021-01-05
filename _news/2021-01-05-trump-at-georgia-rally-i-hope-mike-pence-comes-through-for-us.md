@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Ilhan Omar wants Trump impeached over Georgia phone call"
-excerpt: "Minnesota Democratic Rep. Omar says Trump should be impeached for pressuring Georgia secretary of state to change presidential election result."
-publishedDateTime: 2021-01-05T02:53:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oBl8F-3jY70/ilhan-omar-trump-impeach-georgia-phone-call"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oBl8F-3jY70/ilhan-omar-trump-impeach-georgia-phone-call"
-ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
+title: "Trump at Georgia Rally: I Hope Mike Pence \"Comes Through\" For Us"
+excerpt: "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College."
+publishedDateTime: 2021-01-05T12:29:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html"
 type: article
-quality: 175
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Mike Pence
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6ac0651-927c-4978-8c0f-068568396c9f/bc48ade1-91e4-46e6-aebd-b4c10c8327af/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/53/531389.jpg"
+    width: 752
+    height: 564
     isCached: true
 
 related:
@@ -108,6 +103,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ilhan Omar wants Trump impeached over Georgia phone call"
+    excerpt: "Minnesota Democratic Rep. Omar says Trump should be impeached for pressuring Georgia secretary of state to change presidential election result."
+    publishedDateTime: 2021-01-05T02:53:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oBl8F-3jY70/ilhan-omar-trump-impeach-georgia-phone-call"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6ac0651-927c-4978-8c0f-068568396c9f/bc48ade1-91e4-46e6-aebd-b4c10c8327af/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -239,20 +250,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump at Georgia Rally: I Hope Mike Pence \"Comes Through\" For Us"
-    excerpt: "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College."
-    publishedDateTime: 2021-01-05T12:29:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/53/531389.jpg"
-        width: 752
-        height: 564
-        isCached: true
   - title: "Watch Live: President Trump Hosts Rally Ahead Of Georgia Runoff"
     excerpt: "Right Side Broadcasting Network provides coverage from Dalton, GA as President Donald Trump holds a rally for Senator David Perdue and Senator Kelly Loeffler ahead of the January 5 runoff election."
     publishedDateTime: 2021-01-04T18:52:00Z
@@ -282,6 +279,6 @@ related:
         height: 375
         isCached: true
 
-secured: "uBMqrO3XRtIPp0jHgM8BMwBAgXq8TxPiDMUJHJ9LJjl6zXkzEcXHlTNcCImlzyo427KblsCPrhmtXqj5B3NwXFHVaOp/U/g7GO2gJva3YER1k5VEFFbgb3vXqXRn87gkN/IYcVzv0fb++He2IiKW9BAgzS/LPLod1ZhkDw7cy5NE8mWe2yuWHMSANohOxDXJihNAJhYpEA4VKSn8bQl3WB6Ni9stSaLsDU4usha1lygif1drjXIbze/BRyE63nK1H7E4KiNStXtUe4wtWDqDVgDa1oLvrvL3Qvfly6Yi9zaqX08NyfdwpSsZ1utM89+jlYRSG6PfpYDK/SOw6Ypn4g3jLgicSfjasH5waUekAvc=;dqdS5GzNJGtjYlUYEvFfRw=="
+secured: "XpFY6d7OP84vVk8PRpIv84MBChxacjMomw+PvFfR+uhrwI3hujcHzTdzxle/ArvyVIbhZPlnMjK5FHEBmE/wgRO/anny3dVt5OIDe8pbacWTgV1C7S6aLhVW/+tTsd6s0KuXYuATLpB0QcKjK8o+DoNIyNI+3LhV4+4mXMPo74UdJ+ECs5KuYVqIEwfo3CDuyw+obJdk/dHLbeWmiEaeusy/DhR302usYVNbBCfoRAuEH9vS1EugSHUMfdv6V/VhM0u3i1RVa8y0oLWNxbvIA7Fu11mze1PmiLqM/bymEw6I+jry2cWdS7OUTzy40Am17x9Au4yHM6HmEuoiXmsajP7zCUE7u3wAEpmCdzgLKJc=;f16Hk59QYr/7q0PHUFqnpA=="
 ---
 

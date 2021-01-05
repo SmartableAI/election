@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Under Biden, the Justice Department will again police the police"
-excerpt: "The restructuring of the East Haven, Conn., police department followed the kind of court-mandated change that the Trump administration largely abandoned."
-publishedDateTime: 2020-12-29T18:10:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+title: "Donald Trump and Joe Biden vs. Facebook and Twitter: Why Section 230 could get repealed in 2021"
+excerpt: "Section 230, which shields Facebook, Google and Twitter from liability for what users post, is facing growing bipartisan fire and possible repeal."
+publishedDateTime: 2021-01-05T12:26:00Z
+originalUrl: "https://www.usatoday.com/story/tech/2021/01/04/trump-biden-pelosi-section-230-repeal-facebook-twitter-google/4132529001/"
+webUrl: "https://www.usatoday.com/story/tech/2021/01/04/trump-biden-pelosi-section-230-repeal-facebook-twitter-google/4132529001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4132529001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4132529001"
 type: article
-quality: 125
+quality: 128
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BF5H7OSBV4I6XNMLCYR7MJTZMA.jpg&w=1440"
-    width: 1440
-    height: 1000
+  - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -239,22 +239,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump and Joe Biden vs. Facebook and Twitter: Why Section 230 could get repealed in 2021"
-    excerpt: "Section 230, which shields Facebook, Google and Twitter from liability for what users post, is facing growing bipartisan fire and possible repeal."
-    publishedDateTime: 2021-01-05T12:26:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/04/trump-biden-pelosi-section-230-repeal-facebook-twitter-google/4132529001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4132529001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4132529001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 128
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
     excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
     publishedDateTime: 2020-11-25T01:19:00Z
@@ -348,6 +332,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/874f7bf1c2a60b5e92d5ba0b61e5c77539550373/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=168c42250400e9089455a630c0cb98d5"
         width: 600
         height: 360
+        isCached: true
+  - title: "Under Biden, the Justice Department will again police the police"
+    excerpt: "The restructuring of the East Haven, Conn., police department followed the kind of court-mandated change that the Trump administration largely abandoned."
+    publishedDateTime: 2020-12-29T18:10:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BF5H7OSBV4I6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 1000
         isCached: true
   - title: "In a first, Congress overrides Trump veto of defense bill"
     excerpt: "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago"
@@ -774,6 +774,6 @@ related:
         height: 630
         isCached: true
 
-secured: "RInlyB8xz5HOBN2swU0D1bnT1eZ4Pli0nZSSfDUpPXV+7BM8z64oprPO+W0SYhqu6pkknENHSxxobsSZv3QVeT69tywDc0ZZ/VQMRwfM9MFJOH2Xd5I2l0G8XVv/BzGIcuRBGAqvVTH651oy1JaZNBNuQWPCpvjKrIEogj3OTFXwQWrkyKqhS09xiv46axq41O9pPnQJniAh5sDRo0QPc7j5yur/u0QNLUP1WtYQLwewkBZI5EjyNqOddb8ZhimCX3+6Oa5osXK291SAotZkW24qSDw8ub9TM7vmDJJqbmUV0HMxuCUZPo4pU38oaCYaO3+/r0UA0NtOLPRoS+W1MkmYfCgK4gtga+pO0gAVIOon00iUYSkU8RmT6tkm0VP0hbJGhTaHPPFRrWj+1ZsLOcnMhFh6Hxhcr/+dQ0GJJFucijrQCpJDPeHh0QPD51wQMnXt9bBTCwFkLE7CAhZFTJFFuxHZ2qgtUm1F/KeWAcvYjUpCD83srsTBX/FGk1EIwzIDnJPKK+q0VITc2GsbZw==;0YVILPArrO16XY1WyFYPkg=="
+secured: "4aB/omGTJmOq+1BV/VFORpIbS6LMeydFt6rl8JsQUIaxv+MG+kXXj6/C/9gtzPw+tAeHuZcXYR751yXdQFQUP1RA0zvmMHkdHxHuO1p8QS36pciR8aIzBzP/qp6d4pqEvcLlAeLnTnZp/ApjYSA/byHZSaQOvt96nd4jHNiyr52EPL2lRZ4cz3FCYVdtT0ITPzIs3Fzth2NOI+OH+N+WoGm5iU+DB2hafni5IPDHIhPKxs0pf8JCKzpDkkbEmy2mWMfhaedlAy5NIR3N9Y72bdjz6Gp8ha0wBj5FbiYDolGts3MeBm4ADzxLZr1TkphW16skPj7sVMEVGbrtcxM1iNPJnACsjt5Vc1MamDrzMWU=;Kq7TPIHViwAp7DdJdtyO0A=="
 ---
 

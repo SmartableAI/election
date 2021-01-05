@@ -234,6 +234,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Qpudet5O9ffHwUaKd/JM09llTmEqKxrjVnvMakRynl6gs4oCIORqI6Eu7ZvvojboFVcrhV+mqF4KiJQxHAtJAWX1ttvZ1cbC6pHEJRFD86BeQGJjMQUq6tfGNM9vMFuJ9rX3Y7bSR7ruQJ6e4sSd/v0YEKyOZ40yfuYtCYjI3ld3JtVcsEo8aJb7lolh+Q51WAsjm6gYcspnTDDm7j2SH4t+47wIs/imNLslYJQxKBvnrIROfFjB6WeKFI64wzi14NlF1Js+pL5O+TOlXzn3P/k4CvxBhQUzzKpfbg9ojY/3dZ+No4MllKNd3MV0zW/QHKds+bk/Ols/EEdpM6Qll7hCeFoNT7bI/EJsQDMnAtE=;3KBcPMBF/+e+WRvnqSjVBA=="
+secured: "+mFgtohtXirFgmelGe3MM1iZF+6+sfEfkSPQNsYLtynuuLJIuqHG87ompzX3Tp+l6Oeny64E0Ry+jUZD/h+g2j61J14JvoPOobyWO4WZilACSpg0/TXp96DOcWvBQeh8qq7dfmr+FzjLZ3sZTWR54tt0uK9VbchcETXhowePUVgacGSprtnDjnGyhzg0svTQxp/8CpUzd2brU5VPK+drg+JtY0JBFzmPxxIV1o922vSfn/vngHVhrEUelS0aoc4LgzZ/F1AmEmbXT+Y2hB1tAvDI8SdNfSZwW9rPT+JLPhPlpNIVRughfCOq3EcU2wOjOHAd4FeWLLs/cKuVp3K4beFF2rIvW6kbuuP9zuK6VroRsk/HjRcZvjBt5x/iWnApomqD7CQPjmvF3YIlDgsysv4Veo6LM6hMUvfkD8/ch1HT0UvdWQZCZnGEtT9wbtJCfLRAxio4iFW25SorNPicqusRgF7oA8r7+fHfvLI+/oo8KeUEFca2NZn0WsSJHJVKvlhlUoDhuX9pXJR1JLzGQQ==;1lk6TD4AXl+tivKJGF9Bgw=="
 ---
 

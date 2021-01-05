@@ -250,6 +250,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump at Georgia Rally: I Hope Mike Pence \"Comes Through\" For Us"
+    excerpt: "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College."
+    publishedDateTime: 2021-01-05T12:29:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/53/531389.jpg"
+        width: 752
+        height: 564
+        isCached: true
   - title: "Watch Live: Trump Hosts Rally Ahead Of Georgia Runoff"
     excerpt: "Right Side Broadcasting Network provides coverage from Dalton, GA as President Donald Trump holds a rally for Senator David Perdue and Senator Kelly Loeffler ahead of the January 5 runoff election."
     publishedDateTime: 2021-01-05T04:30:00Z
@@ -265,6 +279,6 @@ related:
         height: 375
         isCached: true
 
-secured: "hfivsLB8brNHjJ14J3e3cBVNDqRDKBX8rWaIV93kpO2Y3NNpT4sf5AgIbY0uJ9tLf2/ROsrnOLbrl4221wJRD4htmdS7AZeKfCQJhiqJJNRrfBw92cqYdLKitijSQK+NLOmyGzM3tF+DvwTPzamqZRUwuYj4ohuYfI10IN5cDwPtJSS0rWHehjRYxxUTEofrFX2quoCOjiFoQWpBn5VDqullG+x1Zp/h0qbwfzGdTrourA/2Mje35TWR5kStwjveFYGCxdIjTaJva+ct+qiJe5Sc2D+x3i/PgspZxPxnBnF1+i2Re+3SPkBBV3hR8RTqsIzR3TdWd3UiNOcEQGVBq/7WQ0eG//Kg6ojC/1jcwig=;Q2cWcSzNQ94uw3OxLQlg2Q=="
+secured: "HbIek3rzyuYVWzXpaIJhFmgIh0OUMXT9HQv1LzEYPF3iLiDnUJz8Q9CGqdCwi2uKH2uN3kH26OYnkXG3jbhWm4N2BWjFTXzfHePwItTo3raRFSv4++L9yc4xBCvFnEyN44K0tuojvBdBxWf+An//F5eOJXXo+NfHSpCC1QLWsFpNC0/d+FoAFOgPBiagp2E+QIVKxAPR25Kqt8xkGcs/lQM04JEqCkoof1dpddMj0Gx65Ra+1FNBUzCmqA/Pb1riKejWifnE7pMxxhwOubVtKtP1z1xn9FX722nXc3dP1rPMMfniQqG3xn6X2advuZeCgGdvJazg7+UrTufaJy7yt9hEKb9u0GSf1RwaKm/doBoUIq8JBp4785BiLogOmXB1OFYR/4f4BAvi46P/cslqM5bqjevwsY1fBRFpOmkJt/DbB962ErKE98KuL3KQ7csB3Pknmt646tHGoQZrR9SzQ8DDQD7Q4sxqVjr06ekkD+gvenVFXEo1BaZRlXh4/06pjOC0WkGbRCKa79V7PC86rA==;HM/If9ZW6R+Fb80m2rIjGg=="
 ---
 

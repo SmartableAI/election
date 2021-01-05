@@ -33,8 +33,8 @@ images:
 related:
   - title: "'One state can chart the course': Biden rallies in Georgia on eve of Senate runoffs"
     excerpt: "President-elect speaks at Atlanta rally alongside Democratic candidates Jon Ossoff and the Rev Raphael Warnock"
-    publishedDateTime: 2021-01-04T23:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
+    publishedDateTime: 2021-01-05T08:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
     type: article
@@ -43,7 +43,7 @@ related:
       domain: theguardian.com
     quality: 119
     images:
-      - url: "https://i.guim.co.uk/img/media/20a32beb1ddc9bc45ea6d852f9c7c177804b370a/0_118_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4b2a68590556e23dd15d8c6f851e9ac7"
+      - url: "https://i.guim.co.uk/img/media/ff660c0bf5f9e314ad581ab5f09ccf159f026916/0_169_5083_3050/master/5083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=495cdcf4a59e96a0b43afc9340c2cf00"
         width: 600
         height: 360
         isCached: true

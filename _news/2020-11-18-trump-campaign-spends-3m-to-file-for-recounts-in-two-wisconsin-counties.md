@@ -128,7 +128,7 @@ related:
         height: 720
         isCached: true
   - title: "White House responds to report suggesting Trump will head to Scotland before inauguration"
-    excerpt: ""
+    excerpt: "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration."
     publishedDateTime: 2021-01-05T05:04:42Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration"
     ampWebUrl: "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"

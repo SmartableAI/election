@@ -240,6 +240,20 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Trump at Georgia Rally: I Hope Mike Pence \"Comes Through\" For Us"
+    excerpt: "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College."
+    publishedDateTime: 2021-01-05T12:29:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/53/531389.jpg"
+        width: 752
+        height: 564
+        isCached: true
   - title: "Watch Live: President Trump Hosts Rally Ahead Of Georgia Runoff"
     excerpt: "Right Side Broadcasting Network provides coverage from Dalton, GA as President Donald Trump holds a rally for Senator David Perdue and Senator Kelly Loeffler ahead of the January 5 runoff election."
     publishedDateTime: 2021-01-04T18:52:00Z

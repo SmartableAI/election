@@ -50,10 +50,10 @@ related:
         isCached: true
   - title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
     excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
-    publishedDateTime: 2021-01-05T07:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A0D0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A0D0"
+    publishedDateTime: 2021-01-05T12:33:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2992MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2992MO"
     type: article
     provider:
       name: Reuters
@@ -63,22 +63,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546616266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0406D"
         width: 783
         height: 545
-        isCached: true
-  - title: "Loyal soldier Pence torn between Trump, Constitution"
-    excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
-    publishedDateTime: 2021-01-05T06:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c73f2e2a9d7b46deb1ee0331c8cdd5fa_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Georgia elections official urges Trump to rein in supporters"
     excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
@@ -303,6 +287,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_52ca949ed7f54c659765461e621d0ab2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Loyal soldier Pence torn between Trump, Constitution"
+    excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
+    publishedDateTime: 2021-01-05T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump, Biden to rally in Georgia ahead of high-stakes Senate races"
     excerpt: "President Donald Trump travels to Georgia on Monday in a bid to keep the U.S. Senate in the hands of his Republican Party, after his efforts to overturn his own defeat in the state have injected new uncertainty into a pair of races that are seen as too close to call."

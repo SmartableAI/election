@@ -2,9 +2,9 @@
 category: news
 title: "'One state can chart the course': Biden rallies in Georgia on eve of Senate runoffs"
 excerpt: "President-elect speaks at Atlanta rally alongside Democratic candidates Jon Ossoff and the Rev Raphael Warnock"
-publishedDateTime: 2021-01-04T23:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
-webUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
+publishedDateTime: 2021-01-05T08:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg"
+webUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/20a32beb1ddc9bc45ea6d852f9c7c177804b370a/0_118_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4b2a68590556e23dd15d8c6f851e9ac7"
+  - url: "https://i.guim.co.uk/img/media/ff660c0bf5f9e314ad581ab5f09ccf159f026916/0_169_5083_3050/master/5083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=495cdcf4a59e96a0b43afc9340c2cf00"
     width: 600
     height: 360
     isCached: true
@@ -48,6 +48,6 @@ related:
         height: 779
         isCached: true
 
-secured: "45wkL3lz80kh82WPhjDp8bE6Fuhvuy+NKTIo5hBO56HwQs/EbhW2gga7NaHiIAO4XoC9fvdjKLfN4ardjStub3R8jk+DBnkLIjlwdnzCUCr4R1CZERahMoLf5ffv5pECqhgEO5ti8mrlD6RwK/XRcow6dYqRs7XNNh/rLLw0tw+9kJCrVA+j6P1663kYTdUIGrnj7A2QVcuD4DOATVEM2Evd3kFnpvfsmqeW+D08/KXsJo1Tj7hY5btPEKgukoHWzBb4337e7aHNhuJZa9FDYdzmm6AdrXzGNRO9HpAAQ3hb1PY9ftkQ4hhKqR5vle0Ij3ZofIClLkdRyclMZcSRJnR0DjC/I5OnrE2Hv4IqLJqt/GKPpP22hB67zn7IM2jufW12M/SIXXhlrGkB8v4AeEsir26V/BQ9ue9P3kBDkL8YUUDuLgPyAKcLDjWz3SPlgWYPfCFYv0LP5N1xOcQDHq4dzQtJ9v5Af8WRDohie2vq0uDgb6d2s0L9BDVwAQ7qiCqqpLitMYS6FBu0YQAQQw==;EX8YXpbfwBquIO71kyS14w=="
+secured: "abSTBIEMBS1t/6b5vCopP7HGWi4ThAjzmXOifZbqA48YNoenheIbRDc+zHpXzohs0i3LCBIDYk8blqSfr8wp35IrAEP5hoWTnjJZ7Fec+QFTHrs2iJZOD5IjsKFru6Qmntn8m6YN/yj3l8UtyyV2GsjRUOM+3vd0B9G/wdkO2aPqC6kzoLF3vk4sn5Toy4Lh7a3kas0Q9ITNPt1mP53IzHe2w9vor/Vnq8mkZzoJ67tYevIDBPMGRYGtU+VUTKt409XBIHG7xeyESRaM1fk31wQkW/B/l7ZEk6N7AyZeCLX0EI196nVq+FO6J2YY7dtqTFi71RSovTx4tjy3GnzySX0mgS/QI9K7Hel3PH6SupI=;koWjtwzIAK8wvBL/ViKCTg=="
 ---
 
