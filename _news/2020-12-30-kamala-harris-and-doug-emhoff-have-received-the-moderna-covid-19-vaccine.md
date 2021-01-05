@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Fact check: Footage shows Kamala Harris receiving COVID-19 vaccination"
+    excerpt: "Social media users have been sharing content online that claims Vice President-elect Kamala Harris’s COVID-19 vaccination was faked. This claim is false."
+    publishedDateTime: 2021-01-05T21:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-covid-vaccina/fact-check-footage-shows-kamala-harris-receiving-covid-19-vaccination-idUSKBN29A2K7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2K7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2K7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546711353&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CS"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Can Kamala Harris as vice-president be both loyal deputy and heir apparent?"
     excerpt: "Harris says her model will be Biden’s role as veep to Obama but the president-elect’s age means speculation about an elevation to the Oval Office is intense"
     publishedDateTime: 2021-01-03T09:02:00Z

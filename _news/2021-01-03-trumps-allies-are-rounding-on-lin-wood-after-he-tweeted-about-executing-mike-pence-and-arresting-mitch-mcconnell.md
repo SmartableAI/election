@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
 type: article
 quality: 129
-heat: 469
+heat: 489
 published: true
 
 provider:
@@ -301,6 +301,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump lawyer Cleta Mitchell quit her law firm after being part of the president's controversial Georgia phone call"
+    excerpt: "One of President Trump's lawyers quit her law firm after participating in a phone call attempting to overturn the election results in Georgia, Insider has learned."
+    publishedDateTime: 2021-01-05T21:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyer-cleta-mitchell-quits-law-firm-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/5ff4d724d184b30018aad2c6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ZqQ9wjxGf8IJHCSAlqEQvc0OIzG197b5DbDdXdmw1Vn6VY4LgVkCAW1aqSzdWcrmxIHVocKDuLlonJG7d8e15gVnrYkmArh9c/X1ytHeZVpTZoNqM+X7XjzlhSZfjS2WW6g2Kxliv6WE8ZkyCvnjdKHlERNA9v29zRkgvLyA7ihoDkylBnptL/61VysNa4YVj/B7qPlTmNgUkN9RFRgEeF9V5SztG4Pc8xcxnj1vdz07sKYGAeqjrmzvwNbmAKd0YwdqbS868eEQA1DgUhEtIT4ez60xh7d/UxtJoeQJlWhkFykjgaSmm8282T5y77d8zBKCZOYwshuogvylAqW6yssV3CSwKS40ZVilzTNqoupTaz+w94M0DdtV9Tc4aVKwOR94rCR4ElUzNn5UavtGAzVQ6bWXrJ5RgI9aC9SLsggtn5Hq1EssUAqmGFBfvqYYIaTVzbd4Irpla5WSAy2ymm3xutl/Y3TJSdQgOfTrZzz4/6oDGAYBUY+y7GPZf4XN3Q5xfgqGQrvzA92ch1EMeA==;tN6YGL7p6aG+044czQ2d5g=="

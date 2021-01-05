@@ -319,6 +319,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Live politics updates: 90 House Democrats support Trump censure over Georgia election call"
+    excerpt: "More than 90 House Democrats signed on to a censure resolution against President Donald Trump over his phone call with Georgia election officials."
+    publishedDateTime: 2021-01-05T22:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/live-politics-updates-monday-donald-trump-joe-biden/4124328001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124328001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124328001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/media/2015/01/17/USATODAY/USATODAY/635570813184368521-146794638.jpeg?auto=webp&crop=3867,2185,x0,y197&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "With time running out, Trump and GOP allies turn up pressure on Supreme Court in election assault"
     excerpt: "More than 100 Republican House members signed on to a legal brief supporting a Texas-led motion that experts called a political exercise bound to fail in the high court."
     publishedDateTime: 2020-12-11T00:49:00Z

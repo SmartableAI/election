@@ -853,6 +853,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Trump Makes Georgia Senate Runoffs All About Himself"
+    excerpt: "Narcissistic to the very end, Trump has ensured that whatever happens in Georgia, the heaviest consequences will involve his own political future."
+    publishedDateTime: 2021-01-05T22:36:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/georgia-runoff-trump-makes-senate-elections-about-himself.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/georgia-runoff-trump-makes-senate-elections-about-himself.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/georgia-runoff-trump-makes-senate-elections-about-himself.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7fd/ac9/d68026dac7e814657594e4413a13bbb48f-trump-dalton.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence rallies evangelicals in Georgia to vote for GOP senators in runoff"
     excerpt: "Vice President Mike Pence rallied evangelical Christian voters Monday during a campaign stop in Georgia, calling on voters of faith to play their part this week in defending the Republican majority in the Senate."
     publishedDateTime: 2021-01-04T19:28:00Z

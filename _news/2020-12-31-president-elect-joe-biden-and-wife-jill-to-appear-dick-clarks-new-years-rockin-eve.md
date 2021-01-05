@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Fact check: False news report indicates Biden plans to step down as president-elect"
+    excerpt: "Viral posts posing as a news report falsely claim that Joe Biden is resigning as president-elect due to health issues. This is unfounded."
+    publishedDateTime: 2021-01-05T21:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/05/false-claim-biden-plans-step-down-president-elect/4113914001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4113914001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4113914001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
     excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
     publishedDateTime: 2020-12-29T11:00:00Z

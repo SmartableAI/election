@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perd
 ampWebUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
 type: article
-quality: 139
+quality: 149
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Mike Pence
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05transition-briefing-trump-pence-twee1/05transition-briefing-trump-pence-twee1-videoSixteenByNineJumbo1600.jpg"

@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Attorney who assisted Trump on call with Georgia officials resigns from law firm"
+    excerpt: "Cleta Mitchell, a lawyer who assisted President Donald Trump on the January 2 call when Trump pressured Georgia officials to \"find\" him votes, has resigned from her law firm.\n    \n"
+    publishedDateTime: 2021-01-05T22:11:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W5kXECe1vB0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/cleta-mitchell-resigns-trump-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/cleta-mitchell-resigns-trump-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105164240-cleta-mitchell-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia GOP lieutenant governor says Trump call with secretary of state 'inappropriate'"
     excerpt: "Georgia's Republican lieutenant governor on Monday condemned President Donald Trump's phone call with Secretary of State Brad Raffensperger, saying the President's effort to pressure the state's top election official to falsify election results was \"inappropriate.\"\n    \n"
     publishedDateTime: 2021-01-04T14:37:29Z
@@ -222,6 +238,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130161114-raffensperger-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump, Biden head to Georgia in final push ahead of Tuesday Senate elections"
+    excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump each will make one final in-person pitch in Georgia’s Senate race Monday ahead of the runoff elections on Tuesday. Biden is scheduled to travel to Atlanta to campaign on behalf of."
+    publishedDateTime: 2021-01-05T22:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-head-georgia-final-campaign-push-ahead-tuesday-senate-n1252709"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252709"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252709"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 162
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439325/210104-georgia-runoff-mc-1137_78e072abc3712a94b802e35383c543ba.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "The Point: The 37 most outrageous lines from Donald Trump's call with the Georgia secretary of state"
     excerpt: "Over the weekend, President Donald Trump spent an hour on the phone with Georgia Secretary of State Brad Raffensperger (R) in an attempt to convince the state's top election official to overturn the results of the 2020 presidential election in the state. Even for Trump, it was a remarkable moment --"

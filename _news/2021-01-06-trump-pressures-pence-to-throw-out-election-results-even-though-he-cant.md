@@ -686,6 +686,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
+    excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
+    publishedDateTime: 2021-01-05T12:58:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05transition-briefing-trump-pence-twee1/05transition-briefing-trump-pence-twee1-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump drive to overturn election, rescue Senate majority collide in Georgia"
     excerpt: "Both Trump and President-elect Joe Biden are traveling to the state for last-minute campaign events on the eve of Tuesday's Senate runoffs."
     publishedDateTime: 2021-01-04T18:22:00Z
@@ -717,22 +733,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439555/210104-georgia-donald-trump-kelly-loeffler-rally-ac-1159p_905398a7de4c07e8af6ea1193f82fcf5.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
-    excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
-    publishedDateTime: 2021-01-05T12:58:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 139
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05transition-briefing-trump-pence-twee1/05transition-briefing-trump-pence-twee1-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "How Trump warped HHS long before Covid-19"
     excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"
@@ -1013,6 +1013,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Em6GoV/B2bL0yceSd6wOgWTKM5i6VKBVRMdQfegfmghYOgu99dBsLX7Gy6xZoWTJo0IJbSSy77rtiW9nieTPEkh3BTZ5Rm7QIxCuslp3lVJgx2Iw7MCJ6MKHE4ose279JqvBEy1uyW3xBI1yqTjH+//H1oQDSFmFPKYhRe1qjZBbrpUjUCQy/sS2671vbjWyI/opyh1UvE+jYn3CNk/UMJhRUVTo6r0CZvRSuvtc4TsI9AjpQ1E2/lxbF48F9qLnaJADaDBe0Db1RiiXVVQ37EtiyKGLwIun+9ta9AJHVxlBo+fOyDYNz3JlVsYwQbzmbuJG33iaH+MYlZVrktvPlYplRyOyXd/BqF2llpIX34E=;8CQ4PA+THor24sUCHPRgMw=="
+secured: "keOc/ngwZTcN9otmQ9u3MxvN02jaa1j0NNwwN5We5hhXlsw2S1d89KothC8Um1L+Se5qZ43gjEzw2FaXHPmk6bkxQnX8YyXRzn5gky+AOKXoMKtTE8rKbcbUWqP8jNCc7PszM7TiMjYOVxyHxjN4g3zv/U5bKS7ue1TTAHJ939bFZXppMUsh7KFY0VPD4eGlu6k5vaCqAHzxkeyZqvWOT4SgU3WV0hIy1vtAJmCS1eRUrH1HHumXSCf3YGd2A582722afVnmkSKwpEDtYV/liGOZFY41HsUxmlwcZHLLxvwSq3W+gqpjqcFPTOF/4dW61p3W/clPW/rQ37l0MJU4J+A6vj3DKvl5WelfF3SjVAYrcxFYSkEvf5ANM4qNlY6F0mt46HOG4lfLourrOTgxL8hAbu3mm6OiJ443UUsNn+4sQ5tbCYb8QFg+DglJDMM6yMYEVKTrmyXfNaBt+P70FZHxUumPGIO+PWdk9ovgbIKai2ApqS3bPACV1/Vrjh8Bv9edBI6Ri/FOnjzn2qyI2w==;Tu+y//VLcVeR31hSr1euRw=="
 ---
 

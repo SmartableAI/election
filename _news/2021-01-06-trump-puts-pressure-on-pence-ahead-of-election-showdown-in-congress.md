@@ -272,6 +272,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Tim Scott 'grateful' for Trump, but opposes GOP colleagues' electoral vote challenge"
+    excerpt: "Sen. Tim Scott, R-S.C., thanked President Trump for his service and accomplishments, but came out against plans from some of his Republican colleagues to challenge electoral votes from several states when they are counted at Wednesday's joint session of Congress."
+    publishedDateTime: 2021-01-05T21:46:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NT87E7Ol6Vo/sen-tim-scott-grateful-trump-opposes-gop-electoral-vote-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-tim-scott-grateful-trump-opposes-gop-electoral-vote-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-tim-scott-grateful-trump-opposes-gop-electoral-vote-challenge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116244fa-ac1e-4faf-85c9-04dd356cfc3f/deb67d8c-a0f5-486c-a3be-a3e50f207b20/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Baier presses Hawley over elector challenge: Are you arguing 'Trump will be president' Jan. 20?"
     excerpt: "Sen. Josh Hawley, R-Mo., told Fox News Monday night that he intends to challenge slates of electors from a handful of swing states \"to raise the concerns that my constituents have\" about the 2020 presidential election."
     publishedDateTime: 2021-01-05T02:25:12Z

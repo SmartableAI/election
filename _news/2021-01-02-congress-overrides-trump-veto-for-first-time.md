@@ -688,6 +688,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
+    excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
+    publishedDateTime: 2021-01-05T12:58:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05transition-briefing-trump-pence-twee1/05transition-briefing-trump-pence-twee1-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump drive to overturn election, rescue Senate majority collide in Georgia"
     excerpt: "Both Trump and President-elect Joe Biden are traveling to the state for last-minute campaign events on the eve of Tuesday's Senate runoffs."
     publishedDateTime: 2021-01-04T18:22:00Z
@@ -733,22 +749,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c525203e-595e-4147-971b-1d343b2d2960/5e45f899-c74d-4093-a529-e64368fff26c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
-    excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
-    publishedDateTime: 2021-01-05T12:58:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 139
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05transition-briefing-trump-pence-twee1/05transition-briefing-trump-pence-twee1-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "How Trump warped HHS long before Covid-19"
     excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"

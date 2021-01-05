@@ -2,26 +2,26 @@
 category: news
 title: "Kamala Harris: 'We are going to be inaugurated'"
 excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
-publishedDateTime: 2021-01-05T10:34:00Z
-originalUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
-webUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+publishedDateTime: 2021-01-05T10:39:00Z
+originalUrl: "https://www.freep.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+webUrl: "https://www.freep.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d795040e-4df7-428e-955d-7feb21a4554c_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
+    width: 852
+    height: 480
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 960
         isCached: true
 
-secured: "fjEt7RO3GIHCCsOGXknN8yu/N4bSt2xwIcgePtP4yMT03NRLkHyF/88WC4oWDsP/90a2h3SjEymWTHExmKP8CYkb0pvm4vE65jD160NY0scL5y8e053Ti6N96VwRYAvkd872DhrTFu1iXvwZL/CPxScgbYYDHcJafI47egBN2PVyNLnYTHHNZhav2uZHYl0Jx6Q+QVzCMVoUEBYy8q8Zic6WK2HTx7dm70Mmrn3AWCH54+knMB9DtWrihLhZevxkna1HvjZx8bKyqBpePH1ZtkLtg35YleJWtZWB0kLruXoSsmEWRP5vjyrj2Tuh+UdqizIFLlj6GdJyuqy7kJtXKKUftnILPubDIdJ4t1/5TI3xzJWBYLbIzQURN6wraSDsrs0egY5etfp0+ZIMDdWlPPFUrGqHvgVX6TokyGxbz0XalEpkE82Po3Bq3+Mga5ewpO7Jk80Lk7wDnY1DreBcWqG4YK0+hvVQMCTzKIFoehqfjVqmze0av8BuID8hrpQ59pKpNzof/yGrcg/Ps0mRbA==;JP79kS8D7Di9kRra+IW0Bw=="
+secured: "PUcbTwDICxGFSN+9owvra2Zw+OKbCbkMv2iJjRsMmvCdel9gcO0q5FzFRixSBYAPuJNkejCUWGaslcNGswtg7r2SsFBlSdurjemUkL5eeG0CH8kitpDXESvraWhShKxWJo2Sytav2bpf5iDJJqztkuU1ZObZ5i1f4ZkDnQwggBcKPxib0XR6722PFVNQOrIPxnQ5ku/fyXa56/5X76baiZU/RQa4T5OMmyeJ2OttBjesIa85TgWzb32yQ9fShyM0zwrhlCjYL7mQoh3+x+pDIEz/S2Ntonr5xKASRI02Cz0/CKhWZ5EN9Vp5smxCrl7Y+oO9k82KTSTAW3uAec5Ok3oOuYVa6O/AMMwzrbYZqjk=;8QphGr594iNk+83UH92/dA=="
 ---
 

@@ -612,6 +612,17 @@ related:
         width: 1200
         height: 906
         isCached: true
+  - title: "Georgia Election Officials Slap Down Trump Tweet About Voting Machines"
+    excerpt: "Georgia officials overseeing the state's Senate runoffs on Tuesday hit back at a tweet from President Donald Trump stoking fears about voting machines, saying that despite an early problem in one county,"
+    publishedDateTime: 2021-01-05T22:31:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-05/georgia-election-officials-slap-down-trump-tweet-about-voting-machines"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-05/georgia-election-officials-slap-down-trump-tweet-about-voting-machines?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-05/georgia-election-officials-slap-down-trump-tweet-about-voting-machines?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
     excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
     publishedDateTime: 2020-12-26T17:24:00Z
@@ -629,6 +640,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-04/urging-calm-dc-mayor-calls-in-national-guard-for-protests"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-04/urging-calm-dc-mayor-calls-in-national-guard-for-protests?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-04/urging-calm-dc-mayor-calls-in-national-guard-for-protests?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Why Donald Trump Is Still a Top Global Risk in 2021"
+    excerpt: "The challenges Joe Biden will face from a divided country and angry predecessor will ripple around a world recovering from a pandemic, analysts say."
+    publishedDateTime: 2021-01-05T21:41:00Z
+    webUrl: "https://www.usnews.com/news/best-countries/articles/2021-01-05/us-polarization-instability-from-covid-19-recoveries-seen-as-top-global-threats-in-2021"
+    ampWebUrl: "https://www.usnews.com/news/best-countries/articles/2021-01-05/us-polarization-instability-from-covid-19-recoveries-seen-as-top-global-threats-in-2021?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2021-01-05/us-polarization-instability-from-covid-19-recoveries-seen-as-top-global-threats-in-2021?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

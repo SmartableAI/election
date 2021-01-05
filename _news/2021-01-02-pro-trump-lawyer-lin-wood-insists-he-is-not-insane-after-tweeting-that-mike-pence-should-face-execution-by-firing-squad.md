@@ -302,6 +302,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump lawyer Cleta Mitchell quit her law firm after being part of the president's controversial Georgia phone call"
+    excerpt: "One of President Trump's lawyers quit her law firm after participating in a phone call attempting to overturn the election results in Georgia, Insider has learned."
+    publishedDateTime: 2021-01-05T21:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyer-cleta-mitchell-quits-law-firm-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/5ff4d724d184b30018aad2c6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "mEoJfkPhgXlv+MlwvpUYY0yscrVrYp6WdlSRyGzfstO4b4323W0xMEdVxuUs+oZXUG5PkOo7582TXqoK41XzMFkb/ZrhR/pF7yRcLbYDF/2KVqePD3uIv6meOEpvC9HdNieT3d4+LIWNeccLS65TqYX1TqTrTsHo07VVgwJOmR3lAim9dGjVEXrWIQ2rImUO4qd7q1V4o+Bz2RMBPTb68A2K9VAs8q/7j0JCFmxXYqzTGl/64mwcP5Q+riB5/zEu6dCXklnX1hMYTpxuYorjLRLT70dD7n4iLuleCN3OOxw9NEUHDD494XdRQ/fFLRhdjcWxZLYOsMYOD5RxdNxl2PVURkrSpfDdt5+tdGMRRmE=;4L6uDXmFaFfimcfZd+yaDA=="
 ---

@@ -351,6 +351,22 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "John Cornyn says he won't join growing number of Texas Republicans planning to object to certification of Joe Biden's win"
+    excerpt: "The state's senior senator said Tuesday he will not object to certifying President Donald Trump's reelection defeat \"based on unproven allegations.\""
+    publishedDateTime: 2021-01-05T18:43:00Z
+    webUrl: "https://www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 50
+    images:
+      - url: "https://thumbnails.texastribune.org/Z9D2ut_rQy0arSv7iRJw9d2_hBo=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/58eb5d0589c44f8099a945abbe74087d/John%20Cornyn%20REUTERS%202020%20TT%20.jpg"
+        width: 1200
+        height: 804
+        isCached: true
 
 secured: "+8J6oCwaAvWPiLtXwp18rurvnFXqpYgpOGfVLuanZMKfwLIFsj1etCGP3qCCc+zj/hcCL6sZOdOxT5/WVsgGI1fIDZM0AwSzROdfcYQMnC4uN0TXlXMg1aCnnvWiS+zgxzjhbgexdnptfupGqn9XMy4k1lzFUkJQwcWwvu+Oqdh7ww/2TMSCqWj43T9cnAoOK7QjdmEcSljYTxVTTuoE4dA36wHp3/75Q3jerjnLRVNEvTEiuYJPBJrU2rRUtxuBX+LoV5ZnscqUtzmdVOQcPz8P2NlzTdEM6UFKhYd25KY+/Bi7cdMNBL0hjimSDkdHr4Q9135Z1ffnnYobH/X78G/RUY/Mn+ymRgRQO3p0YqNNnU2ggxKIOetpia7PxcxP4wvHkMPb0/1PXy9kkfR0nRYPA3X+UQJ+B8eR5uVu8Va3LtBDqNIm42ZU9xv+973l+Ryy2on2XOsltDBs7n4UVW+Id9T4TdNBGIB1+r4b9LKHCPG5aPE2MDzPXAkgyFV+fnKl/hfpuSma64LKdjovHA==;DOOKRBtDjItEgwlfRusTYw=="
 ---

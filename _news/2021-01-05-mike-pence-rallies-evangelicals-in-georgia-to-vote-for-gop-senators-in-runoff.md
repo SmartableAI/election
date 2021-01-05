@@ -865,6 +865,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Trump Makes Georgia Senate Runoffs All About Himself"
+    excerpt: "Narcissistic to the very end, Trump has ensured that whatever happens in Georgia, the heaviest consequences will involve his own political future."
+    publishedDateTime: 2021-01-05T22:36:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/georgia-runoff-trump-makes-senate-elections-about-himself.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/georgia-runoff-trump-makes-senate-elections-about-himself.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/georgia-runoff-trump-makes-senate-elections-about-himself.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7fd/ac9/d68026dac7e814657594e4413a13bbb48f-trump-dalton.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-05T11:00:00Z

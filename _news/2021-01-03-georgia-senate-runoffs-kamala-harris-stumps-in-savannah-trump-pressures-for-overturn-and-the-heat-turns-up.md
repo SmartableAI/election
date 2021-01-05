@@ -3,18 +3,18 @@ category: news
 title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
 excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
 publishedDateTime: 2021-01-03T00:00:00Z
-originalUrl: "https://www.statesman.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-webUrl: "https://www.statesman.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-ampWebUrl: "https://amp.statesman.com/amp/4119965001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4119965001"
+originalUrl: "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+webUrl: "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+ampWebUrl: "https://amp.indystar.com/amp/4119965001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4119965001"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -571,6 +571,6 @@ related:
         height: 641
         isCached: true
 
-secured: "VI4VoyV7wUViRLbPKNHgX/GmYfOlI0IaJdSoptW8JqhMCdo2fYufHqJkxSMTf6NFtnroZz9+vFyqwJX075aBPpQ3rUs/23FSDng3Dsys1/MD6lxmzZtu0Zggei/sDBBhtpzXzbA4Z/KmoP54DkE5JkaR/+H/Q2xCMPlJ3KsxPMVjkpWh2wgoWUYRHch86MdIjjOU03sXltPFLD3A5LloM0mZoElZ7AZSXtxN1WuuvUMMXcYpRr27DToqwC5I87z9Euc9UZa3BQEUDG9TzS6zKaQjnzSeyOX61jvqRoNcvfXuJ52IBbZ/cnoURM7ugB0nZoqvTSu6x1ycs2jeRSMPE4hM1ODG1ov8epJnlAKa54g=;uLlgQrl0RozM1OId9NHDOQ=="
+secured: "nVoYp39aOAFn4mu3ELUCi/RTtx+o5TJzzWcbbZyIdjS7aS28zuhiDyjAvN5gshl5D3PK9Q2xkNYfiSet1JWegtkUUkQh0PqFbwkv01mzuj0lXJHCJ/FAvytPQmQ1RNUPrC0sDYGEIRlFKRs4g1c0UiLX0fNYVYxf5GPBwDPMcAIVWF3ajda/wVsFEVfCc+lhttyqkFqzdCLtmHZ1Uet3bU8J4dGf2NvS7itSWHRBzGWn70rHK5TDSx26FlgtctdF+ba2Wfl3Sq2wVLzTWo+34A9SxsEZo+1iJmEWjiapdvaIrL5Ya+uYcd+QBRaThmi6xeThOaFYy4q/af4GigUNZ7N0MquZ1YcFAWFZsY58uSY=;vQlllH8qDhrheQmFcr4tOg=="
 ---
 
