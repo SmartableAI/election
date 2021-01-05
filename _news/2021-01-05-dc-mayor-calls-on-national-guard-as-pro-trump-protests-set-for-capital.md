@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The final Trump loyalty test for Congress is coming"
+    excerpt: "The test for what the Republican Party will be in the wake of Donald Trump's presidency is coming in a little over 24 hours and on the heels of Georgia Senate runoffs that will finally determine the balance of the US Senate.\n    \n"
+    publishedDateTime: 2021-01-05T14:07:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4vIgGdZqiLM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/congress-state-of-play-trump-electoral-college-certification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/congress-state-of-play-trump-electoral-college-certification/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216040347-02-mitch-mcconnell-1215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to award Medal of Freedom to GOP Reps. Devin Nunes and Jim Jordan "
     excerpt: "Before he leaves office, President Donald Trump will award the nation's highest civilian honor to two of his most vocal political allies who defended him throughout his impeachment, Rep. Devin Nunes of California and Rep. Jim Jordan of Ohio, as the White House has been inundated with requests for others,"
     publishedDateTime: 2021-01-04T02:24:25Z

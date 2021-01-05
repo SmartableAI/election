@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/republican-reaction-trump-overturn-election/index.html"
 type: article
 quality: 190
-heat: 810
+heat: 830
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The final Trump loyalty test for Congress is coming"
+    excerpt: "The test for what the Republican Party will be in the wake of Donald Trump's presidency is coming in a little over 24 hours and on the heels of Georgia Senate runoffs that will finally determine the balance of the US Senate.\n    \n"
+    publishedDateTime: 2021-01-05T14:07:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4vIgGdZqiLM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/congress-state-of-play-trump-electoral-college-certification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/congress-state-of-play-trump-electoral-college-certification/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216040347-02-mitch-mcconnell-1215-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

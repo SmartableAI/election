@@ -122,6 +122,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia election official who slammed Trump's voter fraud claims says he'll vote for GOP Senate candidates"
+    excerpt: "Georgia election official Gabriel Sterling, who has pushed back against President Trump’s claims of voter fraud in public and on a recorded phone call that was later leaked, announced Tuesday that he is voting for Republicans Sen. Kelly Loeffler and former Sen. David Perdue."
+    publishedDateTime: 2021-01-05T14:44:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hUIGkVseTp8/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP-Gabriel-Sterling.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
     excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."
     publishedDateTime: 2021-01-04T13:16:35Z
@@ -250,6 +266,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Late-night hosts mock Trump's call with Georgia Secretary of State Brad Raffensperger"
+    excerpt: "Following the bombshell release of President Donald Trump’s call with Georgia Secretary of State Brad Raffensperger, late-night hosts had a field day with the material during their first shows of 2021 on Monday."
+    publishedDateTime: 2021-01-05T14:18:00Z
+    webUrl: "https://www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger"
+    ampWebUrl: "https://www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/LateNightHosts1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Watch Live: President Trump Hosts Rally Ahead Of Georgia Runoff"
     excerpt: "Right Side Broadcasting Network provides coverage from Dalton, GA as President Donald Trump holds a rally for Senator David Perdue and Senator Kelly Loeffler ahead of the January 5 runoff election."
     publishedDateTime: 2021-01-04T18:52:00Z
@@ -279,6 +311,6 @@ related:
         height: 375
         isCached: true
 
-secured: "XpFY6d7OP84vVk8PRpIv84MBChxacjMomw+PvFfR+uhrwI3hujcHzTdzxle/ArvyVIbhZPlnMjK5FHEBmE/wgRO/anny3dVt5OIDe8pbacWTgV1C7S6aLhVW/+tTsd6s0KuXYuATLpB0QcKjK8o+DoNIyNI+3LhV4+4mXMPo74UdJ+ECs5KuYVqIEwfo3CDuyw+obJdk/dHLbeWmiEaeusy/DhR302usYVNbBCfoRAuEH9vS1EugSHUMfdv6V/VhM0u3i1RVa8y0oLWNxbvIA7Fu11mze1PmiLqM/bymEw6I+jry2cWdS7OUTzy40Am17x9Au4yHM6HmEuoiXmsajP7zCUE7u3wAEpmCdzgLKJc=;f16Hk59QYr/7q0PHUFqnpA=="
+secured: "JuIGJlUawkk4fWWrFTQHnhGroB5j75TqYpCQrgUbcAbpG/xTFeDhhANldyzbfGaFvUHONpQ+DgS5TCA+Rr8LZGmY2wCAor33ooFrOmOzQKmGuL17s8lf5SUpfaWUErs99kF4TsvcPO+5HXUkrnUbreKsVDAgtiDeU2F+J6z5DLymCPGSyVNGTnfi8MSAqhpzefhH9QddqFsNbWW+/trIML6HFCp/rBLNCKmkGcdzMtiMSV+a8pP5d9/yumO4wes5Zx1RPQEgUw8qpAWg4nU6shJ2jNT5tqpOiNcDpi03f9cH3msOngD5kLdNjHazPll2himbIN86DCuuyDcCtM9ZZTUXlb9oeAMRcpGahANAWskRp/0OnRMDwbeF+P0pGEVO+hwIgLaM5Tuw0LgCfnykwyJeItHtz3Oh8ywrrkGf4JVfKOiW1IeiIO2UMOZnbk9+G1XDDscWOme/SEM2ozNBxa/ACVs3hpsbR3Lj2jVvXHBsjUKuclwGpq6SvrucgU/u7yizXHLeb5j/rcIrKO8DPA==;WkokyfObkc/vYiXIv/WMdw=="
 ---
 

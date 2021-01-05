@@ -1785,13 +1785,13 @@ related:
   - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
     excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
     publishedDateTime: 2021-01-03T00:00:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-    ampWebUrl: "https://amp.statesman.com/amp/4107424001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4107424001"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4107424001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4107424001"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"

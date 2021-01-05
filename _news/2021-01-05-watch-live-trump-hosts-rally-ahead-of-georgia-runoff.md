@@ -122,6 +122,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia election official who slammed Trump's voter fraud claims says he'll vote for GOP Senate candidates"
+    excerpt: "Georgia election official Gabriel Sterling, who has pushed back against President Trump’s claims of voter fraud in public and on a recorded phone call that was later leaked, announced Tuesday that he is voting for Republicans Sen. Kelly Loeffler and former Sen. David Perdue."
+    publishedDateTime: 2021-01-05T14:44:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hUIGkVseTp8/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP-Gabriel-Sterling.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
     excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."
     publishedDateTime: 2021-01-04T13:16:35Z
@@ -249,6 +265,22 @@ related:
       - url: "https://images.wsj.net/im-278391/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Late-night hosts mock Trump's call with Georgia Secretary of State Brad Raffensperger"
+    excerpt: "Following the bombshell release of President Donald Trump’s call with Georgia Secretary of State Brad Raffensperger, late-night hosts had a field day with the material during their first shows of 2021 on Monday."
+    publishedDateTime: 2021-01-05T14:18:00Z
+    webUrl: "https://www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger"
+    ampWebUrl: "https://www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/LateNightHosts1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump at Georgia Rally: I Hope Mike Pence \"Comes Through\" For Us"
     excerpt: "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College."

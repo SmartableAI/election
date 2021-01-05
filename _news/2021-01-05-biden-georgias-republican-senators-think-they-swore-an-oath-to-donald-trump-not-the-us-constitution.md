@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence Faces Dilemma Over Biden Election Confirmation, as Trump Digs In"
+    excerpt: "Vice President seeks to balance president’s concerns with his constitutional role in ratifying the Nov. 3 results."
+    publishedDateTime: 2021-01-05T14:50:00Z
+    webUrl: "https://www.wsj.com/articles/pence-faces-dilemma-over-biden-election-confirmation-as-trump-digs-in-11609858039"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pence-faces-dilemma-over-biden-election-confirmation-as-trump-digs-in-11609858039"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pence-faces-dilemma-over-biden-election-confirmation-as-trump-digs-in-11609858039"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 190
+    images:
+      - url: "https://images.wsj.net/im-280361/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
     excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
     publishedDateTime: 2020-12-26T18:55:01Z

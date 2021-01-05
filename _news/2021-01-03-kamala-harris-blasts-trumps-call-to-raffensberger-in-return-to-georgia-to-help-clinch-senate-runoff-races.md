@@ -3,18 +3,18 @@ category: news
 title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
 excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
 publishedDateTime: 2021-01-03T00:00:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-ampWebUrl: "https://amp.statesman.com/amp/4107424001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4107424001"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/4107424001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4107424001"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -2035,6 +2035,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "q88GItNabs/s/QmvEr76aBIYq4uBf3a8QKVHBKLk3sKbu3rpKa7IEOWcVrNZxtD6t4YBRyW8tImfLHY2rjK82tVNwOAFzQnVs2xm3KTga7WX0zkxX9zLkl2F5+pQJCInt5sd5DBaIu3acre7A45tHjHGpN7cjvPO630ZheZpOLnQIRCf/xuXL53ftsfgvHaPhKx4h/PGBqwnBA8BlCPjZtIjFxDuRyUNfasHlZ79Ur3CBQsehusVh8s4AcX0Dl4IGgzmJ8g6XZUkQyuggM2BxvDMFoediQ/96c7FpCjCHN9+udHluwFWHBfFMIp5lUaHOinUTPvKBZMrUwTX6gjOg+g5hF80sCGsJ+QllFhnsrGcmE5n8zREZUxSWzyuyxIpnRarrZCHd8EwwYeaOgEAFb0qIwEkDwmdHhCSW0dsTL+i36uw4/lJAYNRS8NM+DMjVz1F/8mELhXq7yDlD5TAMM5RCDUXklyBC6zgN9HumavwhzmAMCSeQKadpNahKLRGNhD5x9oe3mFzx5lcClaevg==;v9sSCv1tJ/TnYqOZEdgSGg=="
+secured: "3fL1sNrKYsscgJ6nyv+UYa3ThxrW6vpSytiG372fwOi2RS77RFXI9rC0O2roGIYHSTIg/8ASA31TS+WVPmocjZ0cK7oOOmjpepfbVBXaJLJYzejq7bVwmv4FnpijtWqo6/yWDKvO4uHWqqRV1LlBEyMrj0CPJRDF/4d9AV8OO0Dzk+hqnukgswZjABJEp8roPVcN9iBnyt94tHlyiEowUTJBNrAkxZY2MXT+0jCCbruvxJpmqUsM/1Dx+QdYIbTqT63S+mBbtBS4Kk4YRyFwpF0HsvhiK+OdNxnRofNlcvgkZbdmEK42uBBR0jzfp3NKCYbHDkeotfbhYmXIHq+MYLFLfbgU1/PLguEx01h2TKU=;N1WnShIyTs7y9wUiItRnLQ=="
 ---
 
