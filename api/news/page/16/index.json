@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-11-kamala-harriss-husband-will-teach-at-georgetown-law-school.md",
+      "title": "Kamala Harris’s husband will teach at Georgetown Law school",
+      "excerpt": "Vice President-elect Kamala Harris’ husband Douglas Emhoff will join the staff of Georgetown University’s law school next month. Emhoff, 56, will be the first non-female and first Jewish ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
+      "originalUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/georgetown-law1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
+      "publishedDateTime": "2020-12-10T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-in-leaked-audio-suggests-gop-beat-the-living-h-out-of-us-over-defund-the-police.md",
+      "title": "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'",
+      "excerpt": "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
+      "publishedDateTime": "2020-12-10T13:30:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-ilhan-omar-quite-happy-with-biden-officials-receptiveness-to-her-ideas.md",
       "title": "Ilhan Omar 'quite happy' with Biden officials' receptiveness to her ideas",
       "excerpt": "“Squad” member Rep. Ilhan Omar, D-Minn., said she was “quite happy” with the response after submitting a list of proposed left-wing executive actions at a meeting with President-elect Joe Biden’s transition team.",
@@ -1241,115 +1345,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-lawyer-rudy-giuliani-receiving-same-covid-drugs-as-president.md",
-      "title": "Trump lawyer Rudy Giuliani receiving same Covid drugs as president",
-      "excerpt": "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-55243581",
-      "originalUrl": "https://www.bbc.com/news/world-55243581",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-55243581",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581",
-      "publishedDateTime": "2020-12-09T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
-      "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
-      "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-bidenhud1/08dc-bidenhud1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "publishedDateTime": "2020-12-08T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

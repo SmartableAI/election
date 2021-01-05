@@ -288,6 +288,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden transition hoping for victory but bracing for defeat in Georgia"
+    excerpt: "The president-elect’s team won’t change their legislative priorities. But the runoff results could force them to scale back significantly."
+    publishedDateTime: 2021-01-05T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/01/05/biden-transition-georgia-senate-454928"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/05/biden-transition-georgia-senate-454928"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/05/biden-transition-georgia-senate-454928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9a/38/51b48e8d46c6bf9d50410002adce/0104georgia1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
     publishedDateTime: 2021-01-04T03:07:00Z

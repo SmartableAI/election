@@ -987,6 +987,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump call to Georgia secretary of state electrifies voters in Senate runoffs"
+    excerpt: "Some voters not surprised by president’s call but expressed uncertainty over how it would impact the race"
+    publishedDateTime: 2021-01-05T07:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/trump-georgia-phone-call-senate-runoffs"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/trump-georgia-phone-call-senate-runoffs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/trump-georgia-phone-call-senate-runoffs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/21d5a0d5aebeda662d3caa42657c417dbdf9c367/0_7_4052_2430/master/4052.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c34cc37fbb219a4be1b528c90a7a9b7d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
     excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
     publishedDateTime: 2020-12-29T06:36:00Z
@@ -1180,6 +1196,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/absentee-voting-01-gty-llr-201223_1608756959214_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Georgia Senate runoffs, pro-Trump protests, Heisman Award: 5 things to know Tuesday"
+    excerpt: "The Georgia Senate runoffs will determine control the chamber, pro-Trump protests are expected to begin and more news to start your Tuesday."
+    publishedDateTime: 2021-01-05T10:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/05/georgia-senate-runoffs-pro-trump-protests-5-things-know-tuesday/4123581001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4123581001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4123581001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/1487aa78-0f7f-4983-8662-927f39a6f6de-GTY_1294496725.jpg?auto=webp&crop=4840,2723,x0,y350&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Georgia runoff campaigns ending as Trump, GOP continue to contest November's outcome"
     excerpt: "Control of the Senate for the first two years of President-elect Joe Biden's administration hinges on the dual runoff elections taking place in Georgia on Tuesday."
@@ -1541,6 +1573,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Fight like hell': grievance and denialism rule at Trump Georgia rally"
+    excerpt: "Unrepentant president urges voters to support Republicans in the Senate runoffs on Tuesday and veers off script with bogus claims of a stolen election"
+    publishedDateTime: 2021-01-05T06:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/fight-like-hell-grievance-and-denialism-rule-at-trump-georgia-rally/"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/fight-like-hell-grievance-and-denialism-rule-at-trump-georgia-rally"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/fight-like-hell-grievance-and-denialism-rule-at-trump-georgia-rally"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "What Trump's call means for Georgia Senate races: Politics Weekly Extra"
     excerpt: "Jonathan Freedland and David Smith discuss a call made by the outgoing president to a state legislator in Georgia that could spell more trouble for Donald Trump."
     publishedDateTime: 2021-01-04T20:16:00Z

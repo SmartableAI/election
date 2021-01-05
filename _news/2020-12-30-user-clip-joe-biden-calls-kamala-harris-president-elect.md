@@ -36,6 +36,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris: 'We are going to be inaugurated'"
+    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
+    publishedDateTime: 2021-01-05T10:34:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d795040e-4df7-428e-955d-7feb21a4554c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "iDYjMCdmnIqFeLIrdQNr5BxDAnKPi9f//7PmwO1RAd9dCxX4clSWVYjMV4Utm+j23BL5col+Sgbk7GZOz2XxWasyM0VFyYSm/GpWGSe7VL7Y4KwFtOpgXKzmhyxKkoNpoavoflnut3oRuLrR02c0pvPNsU9QdtYm9YJbq/uTFFm4DLltLO4OoYRfVxMKHZw0t0wyBVsqmRvVIhDDRkGySg94sVWlkch8WpBPm7gp+AswdosfECoiBCqo6BMVvdlfheiWysQ3hfi0stiC2+QIN5HTOCI4w/F950wbE8gYhHDqSyQObjkLLTbSk6B8FTp0k6BKHoxAn7affun3eQ6NlTcGXNP+tCIzqfUm5ZMwCJrtTRUOGtrJgLM+z7p688/0Ptuw2y8nFK8W7LVeDmkmdkGv/Z/ELEvX1pZtGrsAHuUCmPkwfmFShUUDVMtHt5AVqQJj7z1uHka+UlooNIxT1POHLz4n+xgbGC6Mbk7F3j8HCv6wQLl3mfx8+Yk4PW63zN3K9czwRCV5LA8zwBq6Dw==;CqHvR9C4OQHR8NFPNBIL+w=="
 ---

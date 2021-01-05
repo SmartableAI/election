@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-20-folks-were-in-crisis-joe-biden-introduces-environmental-advisers.md",
+      "title": "'Folks, we're in crisis': Joe Biden introduces environmental advisers",
+      "excerpt": "President-elect announces racially diverse team to face ‘existential threat of our time’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/03159c767c65ac80359381a5b009af4b78e0b79e/0_211_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dad6a73e9673345a1d1669253a4318",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
+      "publishedDateTime": "2020-12-19T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-jim-carrey-hanging-up-his-joe-biden-snl-impression.md",
       "title": "Jim Carrey hanging up his Joe Biden ‘SNL’ impression",
       "excerpt": "Jim Carrey is turning in his aviators and giving up his gig of impersonating Joe Biden on \"Saturday Night Live.\"",
@@ -1540,58 +1592,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-what-we-know-about-retired-general-lloyd-austin-bidens-choice-for-defense-secretary.md",
-      "title": "What we know about retired General Lloyd Austin, Biden's choice for defense secretary",
-      "excerpt": "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/",
-      "originalUrl": "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

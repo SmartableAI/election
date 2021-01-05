@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-biden-wants-to-boost-democracy-he-should-shelve-the-summit-and-look-to-europe.md",
+      "title": "Biden Wants to Boost Democracy. He Should Shelve the Summit and Look to Europe.",
+      "excerpt": "President-elect Joe Biden has promised to host a major “Summit of Democracies” in his first year in office as part of his effort to fight global democratic erosion and reverse President Donald Trump’s tilt toward authoritarian strongmen. Biden has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2021/01/05/biden-wants-to-boost-democracy-he-should-shelve-the-summit-and-look-to-europe-454823",
+      "originalUrl": "https://www.politico.com/news/magazine/2021/01/05/biden-wants-to-boost-democracy-he-should-shelve-the-summit-and-look-to-europe-454823",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/13/b2/119c0e1245498dde519f6c0b8a70/d-mti20200107010-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-politico-reporter-tells-journalists-call-gopers-objecting-to-biden-win-radicals-extremists.md",
       "title": "Politico reporter tells journalists: Call GOPers objecting to Biden win 'radicals', 'extremists'",
       "excerpt": "Politico chief political correspondent Tim Alberta is urging other journalists to refrain from characterizing any Republican who supports President Trump's ongoing efforts to challenge the results of the 2020 presidential election as a \"conservative.",
@@ -1551,58 +1608,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-folks-were-in-crisis-joe-biden-introduces-environmental-advisers.md",
-      "title": "'Folks, we're in crisis': Joe Biden introduces environmental advisers",
-      "excerpt": "President-elect announces racially diverse team to face ‘existential threat of our time’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/03159c767c65ac80359381a5b009af4b78e0b79e/0_211_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dad6a73e9673345a1d1669253a4318",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "publishedDateTime": "2020-12-19T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

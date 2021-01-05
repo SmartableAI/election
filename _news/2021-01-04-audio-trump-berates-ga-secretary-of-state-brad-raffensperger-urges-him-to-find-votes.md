@@ -72,6 +72,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 105
+  - title: "Raffensperger addresses Trump phone call"
+    excerpt: "Watch \"Georgia Secretary of State Raffensperger addresses controversial phone call with President Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-05T10:27:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210105004615-georgia-secretary-of-state-raffensperger-addresses-controversial-phone-call-with-president-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/04/e09437c2-308a-40a1-8eba-40c4d5169b6a/thumbnail/1200x630/434bef8a9a2f24dab9a984d47bb7cc16/0104-en-raffenspe-odonnell-620090-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here’s the full transcript and audio of the call between President Trump and Brad Raffensperger"
     excerpt: "The call transcript was edited to remove a name about whom Trump makes unsubstantiated claims."
     publishedDateTime: 2021-01-04T00:36:11Z

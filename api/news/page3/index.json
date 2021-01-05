@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-03-on-the-anniversary-eve-of-the-drone-strike-ordered-by-trump-that-killed-its-top-general-iran-reveals-its-plan-to-enrich-uranium-to-20-purity.md",
+      "title": "On the anniversary eve of the drone strike ordered by Trump that killed its top general, Iran reveals its plan to enrich uranium to 20% purity",
+      "excerpt": "\"We are like soldiers and our fingers are on the triggers,\" the head of Iran's civilian atomic energy organization said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
+      "originalUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff09eeea18a450018cb684d?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
+      "publishedDateTime": "2021-01-02T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-iran-foreign-minister-warns-trump-fireworks-will-backfire-as-tensions-escalate.md",
+      "title": "Iran foreign minister warns Trump 'fireworks will backfire,' as tensions escalate",
+      "excerpt": "Amid heightened tensions between the U.S. and Iran, Iranian Foreign Minister Javad Zarif on Saturday warned President Trump that any \"fireworks would backfire.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkB2d3g5suw/iran-foreign-minister-trump-fireworks-tensions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkB2d3g5suw/iran-foreign-minister-trump-fireworks-tensions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da8e2e81-5d8e-4402-af75-20071631d3d5/a53734ae-089b-4aba-b13a-78de4459ea84/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
+      "publishedDateTime": "2021-01-02T08:40:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-a-former-blackwater-contractor-pardoned-by-trump-said-he-acted-correctly-and-feels-at-peace-for-his-role-in-death-of-14-iraqi-civilians.md",
       "title": "A former Blackwater contractor pardoned by Trump said he 'acted correctly' and feels at 'peace' for his role in death of 14 Iraqi civilians",
       "excerpt": "In an Associated Press interview, Evan Liberty showed little remorse for his role in the 2007 Baghdad shooting that killed 14 Iraqi civilians.",
@@ -1228,114 +1336,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-in-scathing-facebook-post-gop-senator-calls-colleagues-arsonists-over-plot-to-challenge-election-results-accuses-trump-of-bilking-supporters.md",
-      "title": "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters",
-      "excerpt": "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-31T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-one-of-trumps-biggest-services-to-america-was-exposing-liberal-media-jeffrey-lord.md",
-      "title": "One of Trump's 'biggest services to America' was exposing liberal media: Jeffrey Lord",
-      "excerpt": "One of President Trump's top accomplishments came not on the domestic policy or foreign policy front, but in simply exposing left-wing media figures for their biases, columnist and political analyst Jeffrey Lord said Wednesday on \"The Ingraham Angle.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bQxbkc32hmk/jeffrey-lord-trumps-biggest-services-america-exposing-liberal-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bQxbkc32hmk/jeffrey-lord-trumps-biggest-services-america-exposing-liberal-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56bf0c45-2743-4138-af2b-5e24826e33b5/85562153-2a5f-410b-b498-dbeec5bf791f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jeffrey-lord-trumps-biggest-services-america-exposing-liberal-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jeffrey-lord-trumps-biggest-services-america-exposing-liberal-media.amp",
-      "publishedDateTime": "2020-12-31T10:38:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

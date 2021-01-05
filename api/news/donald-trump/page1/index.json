@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-trump-shared-the-wrong-number-for-a-michigan-lawmaker-a-28-year-old-has-gotten-thousands-of-angry-calls.md",
+      "title": "Trump shared the wrong number for a Michigan lawmaker. A 28-year-old has gotten thousands of angry calls.",
+      "excerpt": "The number the Trump campaign posted belonged to a 28-year-old Michigan native who has received now thousands of angry calls and texts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZGRPOTU3VQI6VLLZ5334242GIE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
+      "publishedDateTime": "2021-01-05T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-trumps-epa-finalizes-last-minute-limits-on-science-used-in-rulemaking.md",
       "title": "Trump's EPA finalizes last minute limits on science used in rulemaking",
       "excerpt": "The U.S. Environmental Protection Agency (EPA) chief said on Monday he has finalized a rule to limit what scientific research the agency can use to formulate regulations, in a concession to big business weeks before President Donald Trump leaves office.",
@@ -218,7 +270,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -374,7 +426,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2695,
+      "heat": 2755,
       "tags": null,
       "images": [
         {
@@ -1507,58 +1559,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-from-covfefe-to-the-mooch-10-funny-moments-from-the-trump-presidency.md",
-      "title": "From covfefe to the Mooch: 10 funny moments from the Trump presidency",
-      "excerpt": "Amid four years of corruption, caging children and trashing democracy there were some light-hearted moments – no really",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/76465e089e54707c797f297b9ad6992732765620/0_0_3465_2080/master/3465.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=989b841aea1fe87f1b98431a116acc58",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
-      "publishedDateTime": "2020-12-31T23:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

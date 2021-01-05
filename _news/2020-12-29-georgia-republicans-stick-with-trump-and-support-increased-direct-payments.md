@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Georgia votes, Trump tries to destroy America's faith in democracy"
+    excerpt: "Desperate, deluded and dangerous, President Donald Trump drove America deeper into a political abyss on Monday night in his zeal to steal an election he lost and to destroy faith in the democracy that fairly ejected him from office.\n    \n"
+    publishedDateTime: 2021-01-05T09:52:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EgxJDEaaKEE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104214240-04-donald-trump-dalton-ga-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
     excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
     publishedDateTime: 2021-01-03T17:19:48Z

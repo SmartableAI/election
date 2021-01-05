@@ -2,19 +2,19 @@
 category: news
 title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
 excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
-publishedDateTime: 2021-01-04T19:39:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
-ampWebUrl: "https://amp.indystar.com/amp/4130687001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4130687001"
+publishedDateTime: 2021-01-04T21:24:00Z
+originalUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
+ampWebUrl: "https://amp.statesman.com/amp/4130687001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4130687001"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -567,6 +567,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WYXx0Qki3t6In9TK2GiFo00xSOpGEgx7IIPsditrNZ3pvGgTUSWIhkHJdBY0rxDbUa1zNwsxTC20kKr6wq4QGTTL9bKCZVXfHieT/sfurs6/WO8kcp10zWtVzCLL77/Pxk1HMuEVylTsblgr5wWk8QIMunooNbaGA4W75hdL5vacFQ9IUBIjETB8Y8uVDJr9kUUPkvuZqLlxdbDN/fSFGQ9e9K+1mnIapWVqP4e4uvbFjKk8sOl0X7Th6wKOB0jrFT9KxLdeg5m6WpJfAbzOte3KE6Y7IMOP6X2dnXr/L7NrVGhlqXJHskEBAt4THshtydqImKsQrmvGk/PexHoax0f0AvBUB7hyorPwFEFRtmw=;GMs1r2zq6Tv95VhGmXnZHQ=="
+secured: "Fc3GdwCPr9nTpbv/YFQGEMj/G5l7bHyy56fXHJLCLcqeEPlney8cTd9X3eJb1PUWdTYaPa7Dnf90zTZAE1LbtaXtcqLV4N8/HwxL+X1K5jWJTKXx7lqmOAZhERgdbGzKWQeM1feeX3OCFCC2/IE+yR1feOXen/8hitdl5YtgYJiksfdtDG9BfeX4oarnSfq8Mht1dBmmaSGdiybJ/G5pBF3xZwFHvQAjN7pAJTK9rfGIUj8iFlq9ETZiEn4gUaYiCm/BicEbuhrWO3ac4mRgsksu2TW70aZKasBX/ZtLAMqcg8BHVAnSSRruFDFzJyH8t73EXez8i7Ahg5EgAiLkjmsAe3YKJgUb8npqGxYKgfM=;uU0zJ6SXcBJ1tTEEF7i9Og=="
 ---
 

@@ -2,6 +2,114 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-21-chris-christie-wont-rule-out-challenging-trump-in-2024.md",
+      "title": "Chris Christie won't rule out challenging Trump in 2024",
+      "excerpt": "Former two-term New Jersey Gov. Chris Christie says he wouldn’t rule out another presidential bid even if his longtime friend President Trump launches a 2024 run to try to return to the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqSJNmbibe8/chris-christie-trump-2024-presidential-run",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqSJNmbibe8/chris-christie-trump-2024-presidential-run",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp",
+      "publishedDateTime": "2020-12-21T12:08:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-fierce-pushback-fear-of-new-and-onerous-regulations-from-small-farmers-on-joe-bidens-choice-of-tom-vilsack-for-usda.md",
+      "title": "Fierce pushback, fear of new and onerous regulations from small farmers on Joe Biden’s choice of Tom Vilsack for USDA",
+      "excerpt": "Tom Vilsack faces a steep challenge, with progressive and environmental groups warning that he is too friendly with big industrial agriculture businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/xLvqWsH5LQofg-buDy_LLC5xpC4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSJOTAXPZZSPKG6PXYDA3FJP4A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-21T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-maxine-waters-says-congress-missed-opportunity-to-impeach-trump-for-treason.md",
       "title": "Maxine Waters says Congress 'missed opportunity' to impeach Trump 'for treason'",
       "excerpt": "Rep. Maxine Waters, D-Calif., said Sunday that Congress missed the opportunity to impeach President Trump for treason.",
@@ -1235,114 +1343,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-former-us-cybersecurity-chief-chris-krebs-warned-not-to-conflate-voting-system-security-with-the-solarwinds-hack-despite-trumps-claim.md",
-      "title": "Former US cybersecurity chief Chris Krebs warned not to 'conflate' voting system security with the SolarWinds hack despite Trump's claim",
-      "excerpt": "Chris Krebs' warning came after President Donald Trump tweeted there could have been a hit on \"our ridiculous voting machines during the election.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12",
-      "originalUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fde505fc910a400192e88ba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12?amp",
-      "publishedDateTime": "2020-12-19T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-claims-china-may-have-been-behind-cyber-attack-after-pompeo-says-it-was-pretty-clearly-russia.md",
-      "title": "Trump claims China 'may' have been behind cyber attack after Pompeo says it was ‘pretty clearly’ Russia",
-      "excerpt": "President Trump on Saturday claimed China \"may\" have been behind a massive cyberattack on U.S. government systems -- a day after Secretary of State Mike Pompeo said the attack was \"pretty clearly\" perpetrated by Russians.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3_fMUsfDY8g/trump-china-cyber-attack-pompeo-russia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3_fMUsfDY8g/trump-china-cyber-attack-pompeo-russia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16510a01-9950-4ec7-9359-dc658807fa0e/1c3995eb-70c7-40b8-ab18-1f83cdd06758/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-cyber-attack-pompeo-russia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-cyber-attack-pompeo-russia.amp",
-      "publishedDateTime": "2020-12-19T09:11:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
