@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's desire to stop the border wall could be costly and arduous "
-    excerpt: "President-elect Joe Biden pledged to end construction of his predecessor's signature border wall, but halting the ongoing, multibillion-dollar project will be an arduous, complex and potentially costly process.\n    \n"
-    publishedDateTime: 2020-12-05T22:56:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to tap Susan Rice to lead White House Domestic Policy Council"
     excerpt: "President-elect Joe Biden is expected to tap Susan Rice, the former national security adviser during the Obama administration, to lead the White House Domestic Policy Council, two sources familiar told CNN.\n    \n"
     publishedDateTime: 2020-12-10T16:00:58Z

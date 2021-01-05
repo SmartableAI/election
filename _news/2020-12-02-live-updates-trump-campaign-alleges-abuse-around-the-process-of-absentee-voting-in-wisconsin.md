@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
+    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
+    publishedDateTime: 2020-12-03T19:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to call for 100 days of masks after inauguration"
     excerpt: "President-elect Joe Biden said during an interview on Thursday that he plans to ask the American public to wear masks for 100 days, starting on the day he is inaugurated."
     publishedDateTime: 2020-12-03T22:41:57Z
@@ -142,6 +158,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
+    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
+    publishedDateTime: 2020-12-03T20:13:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "uQbjWfgJypdNl0RTcdoQmVagBNm89EpP7VA98qYaUS0rq7DEwLb1Zl4wjpDGkljcKoyP0P5mpvbK9VWDNzhSUqV5FV5KC+Rgw2rwq2qUTvSz740S3AY1orbUeIbKV6fzU68aK67ivq5TKpo1/gRfGjFHVudc+VuQ34EXZ2ceKVfzptV/mqvK/yB7SLtV4zwD0h01O6Z1+MCAUhhwyTGOEr5XM9MFK0Do8cD816+1mQu7gkH92pN8teKXREJyLPIYZCngIuInM9yoU2ltoU6yE6bXMX7gqSVnwEkzhMbjO+XAPzpjcLmcNc4OV9gnc5cQ9/vzCg0zx/h/V6zLOrmQJcOWs6SZNnQFCnDPmQp0Hgw=;6gf4bKPfG15w32ycATBqGw=="

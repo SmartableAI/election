@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date"
+    excerpt: "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6."
+    publishedDateTime: 2020-12-24T19:47:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTyReV9x0Xw/trump-campaign-election-challenges-ongoing-jan-6-date"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Texas-SCOTUS-Challenge.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign files lawsuit over New Mexico ballot drop boxes"
     excerpt: "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes."
     publishedDateTime: 2020-12-15T20:21:54Z
@@ -96,6 +112,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
+    excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
+    publishedDateTime: 2020-12-24T14:07:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "LIVE UPDATES: Trump turns his attention to Georgia, announces rally"
+    excerpt: "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line."
+    publishedDateTime: 2020-12-28T05:42:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell: Pelosi, Schumer could have had COVID aid bill months ago, but wanted to damage Trump campaign"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., praised the coronavirus stimulus bill that's poised to pass Congress Monday after months of stalled negotiations, but added that Democrats could have had the same deal months ago had they not prioritized damaging President Trump's reelection hopes."
     publishedDateTime: 2020-12-21T20:26:26Z
@@ -111,6 +159,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4075735f-49a6-4cdc-891c-07958e64eca1/f8e5afac-7cf8-49c2-8e7a-12643376b67d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
+    excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
+    publishedDateTime: 2020-12-24T18:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Questions linger over the Left's plot against Donald Trump"
     excerpt: "For four years, we listened to unsupported allegations of a conspiracy by a foreign government to interfere with our presidential election, that Russia stole the election of 2016, implanting their Russian asset,"
@@ -221,6 +285,20 @@ related:
       - url: "https://images.wsj.net/im-278216/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
+    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
+    publishedDateTime: 2020-12-26T10:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/530656.jpg"
+        width: 910
+        height: 682
         isCached: true
 
 secured: "Rlfe6sdNOG9CaO9qGR8cpCitj4WCj4l4QGkcNqmIc0pjIHVWgzgriWKYl3w5Qag8HqccmRG196n8ICgDnmMhuToUjS+u/z8VEX98nZnloyiRLFRL7zOxk76+ffuUVp+F/d8Hh7f+YanYKvDCIJn5EVhEzvNWoDbrwmrmv7PzCSGJ5pt5HK0cKC+Uu3DfpRX158/CdorB3THIfR5p1E31snVOgLBaZ7LZS7YPqhHNbNbbdG/gWSXGEcas55ElvvbiD0w0gvn4LUSe2jKfAJ5iRR0Dp/eUkO24Uls3IKHx7AeaZLbbPxRkf5GsBQk+M4Km3J2PTS4LP87N62rSLJ5PQMAj9OCLlkyXTz7WPWJgL6w=;SQ2K/IUZm4adrb11Dp8Bmg=="

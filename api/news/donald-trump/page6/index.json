@@ -2,6 +2,230 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-09-trump-won-new-yorks-suffolk-county-why-that-signals-hope-for-democrats.md",
+      "title": "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats.",
+      "excerpt": "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "originalUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-267145/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "publishedDateTime": "2020-12-08T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-trump-act-v-shakespeare-but-with-a-twist.md",
+      "title": "Trump, Act V: Shakespeare, but With a Twist",
+      "excerpt": "A reader says the Bard’s heroes, unlike the president, were remorseful in the end. Also: Children at play among the leaves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/07/business/07dc-presidentA1-inyt/merlin_180770211_a7e6f448-b301-478d-9187-fe0092cf5bb1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
+      "publishedDateTime": "2020-12-08T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-former-israeli-space-security-chief-says-extraterrestrials-exist-and-trump-knows-about-it.md",
+      "title": "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it",
+      "excerpt": "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
+      "originalUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg",
+          "width": 2500,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250333",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333",
+      "publishedDateTime": "2020-12-08T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
+      "title": "Politics updates: Trump reached out to PA House speaker over election",
+      "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1850,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6484311002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002",
+      "publishedDateTime": "2020-12-08T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-who-is-behind-the-fake-trump-presidential-library-website-we-talk-to-the-anonymous-architect.md",
       "title": "Who is behind the fake Trump Presidential Library website? We talk to the anonymous architect",
       "excerpt": "Not quite as mysteriously as a monolith, a website has appeared for a fictional Donald J. Trump Presidential Library. The anonymous architect tells us why they did it.",
@@ -62,7 +286,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/ng-interactive/2020/dec/08/us-election-results-2020-joe-biden-defeats-donald-trump-to-win-presidency",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5315,
+      "heat": 5335,
       "tags": null,
       "images": [
         {
@@ -624,6 +848,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-as-deadline-lapses-trump-administration-continues-tiktok-talks.md",
+      "title": "As Deadline Lapses, Trump Administration Continues TikTok Talks",
+      "excerpt": "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
+      "publishedDateTime": "2020-12-04T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1294,271 +1575,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-administration-pushes-pay-freeze-for-federal-workers-after-initially-calling-for-a-1-percent-raise.md",
-      "title": "Trump administration pushes pay freeze for federal workers, after initially calling for a 1 percent raise",
-      "excerpt": "Trump’s early-year budget plan had called for the raise along with proposals to reduce the value of retirement benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-02T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
-      "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
-      "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "publishedDateTime": "2020-12-02T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
-      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
-      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "publishedDateTime": "2020-12-02T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-mary-trumps-next-book-probes-americas-national-trauma-under-trump-presidency.md",
-      "title": "Mary Trump’s next book probes ‘America’s national trauma’ under Trump presidency",
-      "excerpt": "Mary Trump's \"The Reckoning,\" a follow-up to the bestselling exposé she wrote about her uncle Donald, will examine how \"America is suffering from PTSD.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ce164d8/2147483647/strip/true/crop/3000x1959+0+77/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F60%2Fdff1233a4316bfb87aa7e431a470%2Ftrump-taj-mahal-opening-06047.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true",
-      "publishedDateTime": "2020-12-02T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-teases-2024-run-for-president-at-white-house-christmas-party-ill-see-you-in-four-years.md",
-      "title": "Trump teases 2024 run for president at White House Christmas party: ‘I’ll see you in four years’",
-      "excerpt": "President Donald Trump teased running again for president in 2024 as he hosted a holiday reception at the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/eWz6YaZpjv13UyZnuMN9_9d0L3U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MR5JQFF7QVAAZGFBXYO4BDLZII.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-02T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

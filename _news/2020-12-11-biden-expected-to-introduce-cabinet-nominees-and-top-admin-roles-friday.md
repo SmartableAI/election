@@ -31,202 +31,154 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on Trump administration distributing vaccine: 'There is no detailed plan' "
-    excerpt: "President-elect Joe Biden said Friday that the Trump administration had shared information with his transition team about distributing a vaccine to various states, but Biden said his team had not seen a \"detailed plan.\"\n    \n"
-    publishedDateTime: 2020-12-04T20:44:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOVMIb1D9Yw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+  - title: "Biden names retired Gen. Lloyd Austin as secretary of defense nominee"
+    excerpt: "President-elect Joe Biden has named retired Army Gen. Lloyd Austin as his nominee for secretary of defense, the Biden transition team announced Tuesday.\n    \n"
+    publishedDateTime: 2020-12-08T22:14:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden picks retired Gen. Lloyd Austin to be his secretary of defense"
+    excerpt: "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n"
+    publishedDateTime: 2020-12-08T00:33:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EqU31lITSQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Biden likely to announce defense secretary Tuesday and more Cabinet picks Friday"
+    excerpt: "President-elect Joe Biden will likely announce retired Army Gen. Lloyd Austin as his nominee for defense secretary on Tuesday, a source familiar with the matter told CNN, and is now expected to announce some domestic Cabinet picks on Friday.\n    \n"
+    publishedDateTime: 2020-12-08T03:12:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x7_ePzbNrAg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-secretary-of-defense-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-secretary-of-defense-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration must accept new DACA applications, judge orders"
-    excerpt: "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n"
-    publishedDateTime: 2020-12-04T22:38:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
+  - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
+    excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
+    publishedDateTime: 2020-12-09T17:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "What you need to know about Biden's nominees"
-    excerpt: "President-elect Joe Biden has moved swiftly to build out his administration since his election last month, and has named several people to top roles in his Cabinet and other key posts.\n    \n"
-    publishedDateTime: 2020-12-09T18:03:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdB85qBLaj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+  - title: "Raimondo says she won't be Biden's health secretary"
+    excerpt: "The Rhode Island governor, who had recently emerged as a frontrunner for the job, was strongly opposed by progressives."
+    publishedDateTime: 2020-12-03T22:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209105126-biden-cabinet-announcement-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/83/de/b9ea4027407c90eb5835f66aaf32/20201203-gina-raimondo-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Biden announces slate of new Cabinet and top administration picks"
-    excerpt: "President-elect Joe Biden on Thursday announced a slate of new Cabinet nominees and picks for top roles in his administration, including Denis McDonough for secretary of Veterans Affairs, Tom Vilsack for Agriculture secretary and Marcia Fudge for secretary of Housing and Urban Development.\n    \n"
-    publishedDateTime: 2020-12-10T17:58:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_L4ak3Jg-Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+  - title: "Hunter probe complicates Joe Biden's attorney general pick"
+    excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
+    publishedDateTime: 2020-12-12T01:49:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
+        width: 1161
+        height: 773
         isCached: true
-  - title: "Narrow House majority will test Democratic unity in Biden administration "
-    excerpt: "Democrats' shrinking House majority will test Speaker Nancy Pelosi's resolve to keep her caucus united and could limit the party's ability to push through President-elect Joe Biden's legislative agenda in their own chamber if they can't stick together.\n    \n"
-    publishedDateTime: 2020-12-10T01:43:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvRI886ciY8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204173254-02-pelosi-1204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
-    excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
-    publishedDateTime: 2020-12-02T01:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/arizona-governor-becomes-latest-trump-target-after-certifying-biden-s-n1249549"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249549"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249549"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3432215/201201-doug-ducey-jm-1315_ccc9214d85bd81690c88ec066db05fb6.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden Criticizes Trump on Vaccine Distribution and Pledges to Pick Up Pace"
-    excerpt: "Three weeks from taking office, Joe Biden called vaccinating Americans “the greatest operational challenge we’ve ever faced as a nation” and offered a bleak assessment of the months ahead."
-    publishedDateTime: 2020-12-30T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
+  - title: "As Biden Prepares to Take Office, a New Rush at the Border"
+    excerpt: "The president-elect has promised a more humane border policy. But devastated economies and natural disasters in Latin America have fueled a spike in migration that could make pledges hard to keep."
+    publishedDateTime: 2020-12-13T20:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 148
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/29/us/politics/29dc-biden/29dc-biden-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/11/us/00BORDER-1-SUB/merlin_180953598_82987d66-deda-4124-a4d2-62a8e173e4b1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "As Deadline Lapses, Trump Administration Continues TikTok Talks"
-    excerpt: "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,"
-    publishedDateTime: 2020-12-05T02:07:00Z
-    webUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
+  - title: "Investigation of His Son Is Likely to Hang Over Biden as He Takes Office"
+    excerpt: "Unless the Trump Justice Department clears Hunter Biden, the new president will confront the prospect of his own administration handling an inquiry that could expose his son to criminal prosecution."
+    publishedDateTime: 2020-12-11T01:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch live: Biden introduces key members of his administration"
-    excerpt: "Watch live coverage as President-elect Joe Biden and Vice President-elect Kamala Harris hold an event to introduce nominees and appointees for their administration."
-    publishedDateTime: 2020-12-11T17:51:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-introduces-key-members-of-his-administration-97548357679"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97548357679"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97548357679"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_econ_nom.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump administration hands over new data on families separated at border"
-    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
-    publishedDateTime: 2020-12-04T00:21:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
     quality: 134
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10dc-investigate1/10dc-investigate1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Calls grow for Trump administration to stop execution of Brandon Bernard"
-    excerpt: "NBC News’ Erik Ortiz reports on the growing calls from lawmakers and celebrities, including Kim Kardashian, for the Trump administration to stop the execution of Brandon Bernard who was 18 at the time of his crime."
-    publishedDateTime: 2020-12-11T02:09:00Z
-    webUrl: "https://www.nbcnews.com/now/video/calls-grow-for-trump-administration-to-stop-execution-of-brandon-bernard-97517637773"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97517637773"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97517637773"
+  - title: "Biden taps Susan Rice for domestic policy adviser, Denis McDonough for VA secretary"
+    excerpt: "WASHINGTON — President-elect Joe Biden has tapped two veterans of the Obama White House to serve in his administration, naming Susan Rice as his domestic policy adviser and Denis McDonough to serve as secretary of the Department of Veterans Affairs."
+    publishedDateTime: 2020-12-10T16:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-taps-susan-rice-domestic-policy-adviser-denis-mcdonough-va-n1250712"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250712"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250712"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 129
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_execution_201210_1920x1080.jpg"
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_hallie_brk_rice_biden_201210_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Experts, advocates pressure Biden administration to reunite separated migrant families"
-    excerpt: "NBC News’ Julia Ainsley reports on how advocates and mental health experts are urging the Biden administration to commit to reuniting the migrant families separated at the border during the Trump administration."
-    publishedDateTime: 2020-12-11T00:51:00Z
-    webUrl: "https://www.nbcnews.com/now/video/experts-advocates-pressure-biden-administration-to-reunite-separated-migrant-families-97507909806"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97507909806"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97507909806"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_migrant_201210_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Will the Biden administration really look like America?"
-    excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
-    publishedDateTime: 2020-12-04T17:30:00Z
-    webUrl: "https://www.politico.com/newsletters/women-rule/2020/12/04/will-the-biden-administration-really-look-like-america-491062"
+  - title: "Biden, Austin vow to safeguard civilian control"
+    excerpt: "Joe Biden defends his choice of Lloyd Austin for defense secretary and says he will get civil-military relations “back on track.” — A new blueprint outlines how Congress can get back in the business of fulfilling its war powers responsibilities."
+    publishedDateTime: 2020-12-10T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/10/biden-austin-vow-to-safeguard-civilian-control-792196"
     type: article
     provider:
       name: Politico
@@ -236,6 +188,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "California labor secretary in serious contention for Biden cabinet"
+    excerpt: "California's labor secretary began her legal career fighting for Thai garment workers held captive in a Los Angeles sweatshop. Decades later, she's in serious contention to join the Biden administration as secretary of the U."
+    publishedDateTime: 2020-12-11T03:08:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/10/california-labor-secretary-in-serious-contention-for-biden-cabinet-1345100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/e0/9c/faa336fa4794a0ea215d1e7510ce/201210-julie-su-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "MiYHvr/mV4cUXGbRf/RrLgMCdZeH1ooX1pLji0fCePkaksXzRfNMUQ+uKkGW/qPREiR06nTV5cu+NxDdNyOqVWg8Pk8WfpL93qsKfVTqCk6jUrXtc5HHCyNPs4o+p6D82Vbj0/vN24cZ4ONr3XRh15+5amHDDthmOwXHlArYoZEs1YmnqWACB3xz5AmpLqpEH8OKPW4J+tsgauzyfQqZc+e/AAZRpGAi78kivRNT7yymhZ+VWb8d9gekHJXqzXeVBYpPW8voA/FbTc1dGznXbzUCl9JVpHQg25hANrQSjEKzinK7uxZC9uO0Wv6H8l9WzP9WdC4LSo812TaakJ1STXdoJMaH3Zy7hX1DHSleyjo=;W2f/3Zy8vM4vaB+YGl5u8Q=="

@@ -175,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘It Has All Gone Too Far’: Georgia Election Official Lashes Trump"
-    excerpt: "Gabriel Sterling, a voting system official in Georgia, harshly criticized the president for failing to condemn threats of violence against people overseeing the voting system in his state."
-    publishedDateTime: 2020-12-02T00:50:00Z
-    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01georgia-vote/01georgia-vote-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
     excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."
     publishedDateTime: 2020-12-03T00:44:00Z
@@ -223,21 +207,37 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
-    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
-    publishedDateTime: 2020-12-02T23:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
+  - title: "Trump administration hands over new data on families separated at border"
+    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
+    publishedDateTime: 2020-12-04T00:21:00Z
+    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 134
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Calls grow for Trump administration to stop execution of Brandon Bernard"
+    excerpt: "NBC News’ Erik Ortiz reports on the growing calls from lawmakers and celebrities, including Kim Kardashian, for the Trump administration to stop the execution of Brandon Bernard who was 18 at the time of his crime."
+    publishedDateTime: 2020-12-11T02:09:00Z
+    webUrl: "https://www.nbcnews.com/now/video/calls-grow-for-trump-administration-to-stop-execution-of-brandon-bernard-97517637773"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97517637773"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97517637773"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_execution_201210_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump Organization must turn over documents to NY attorney general, judge rules"
     excerpt: "A state judge ruled Tuesday that the Trump Organization must turn over documents related to a property whose tax abatements were being investigated by New York Attorney General Letitia James' office."

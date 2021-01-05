@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Donald Trump is already the 2024 GOP frontrunner"
-    excerpt: "Poll of the week: A new Gallup poll finds that 87% of self-identified Republican voters approve of President Donald Trump's job performance.\n    \n"
-    publishedDateTime: 2020-12-27T13:30:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kmk8N2CSQRA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump chooses chaos with delayed signature of Covid relief bill "
     excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart.\n    \n"
     publishedDateTime: 2020-12-28T11:13:34Z
@@ -140,22 +124,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump angered by Mar-a-Lago renovations, sources say"
-    excerpt: "His mood darkened as soon as he walked into his members-only club Mar-a-Lago, three days before Christmas, according to multiple sources. The changes to his private quarters, many of which were overseen by his wife, first lady Melania Trump, were not to President Donald Trump's liking, and he was mad"
-    publishedDateTime: 2020-12-29T19:45:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ru4myzdL8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-mar-a-lago-renovations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-mar-a-lago-renovations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -191,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's inaction on stimulus bill leaves Georgia's GOP runoff candidates in awkward spot"
+    excerpt: "President Donald Trump's waffling over the $900 billion Covid relief package, which he has yet to sign, is leaving his fellow Republicans in Georgia in a tough spot as they fight to maintain control of the US Senate.\n    \n"
+    publishedDateTime: 2020-12-27T01:27:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iZJhCM5cTuc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/26/politics/georgia-senate-runoffs-trump-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/26/politics/georgia-senate-runoffs-trump-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional backers cite cybersecurity provisions as they push Trump to sign defense bill"
     excerpt: "The massive defense bill that President Donald Trump is threatening to veto contains provisions for increased cybersecurity, which has taken on significantly more importance in the wake of a massive cyberattack on federal agencies at the hands of suspected Russian hackers.\n    \n"
     publishedDateTime: 2020-12-18T20:32:33Z
@@ -222,22 +206,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/18/world/18ZELENSKY1/18ZELENSKY1-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-    publishedDateTime: 2020-12-23T11:50:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "Christmas comes early for Trump allies with more pardons"
     excerpt: "Christmas came early for some of President Donald Trump's friends and associates as he issued a second wave of pardons and commutations late Wednesday. Here is what we're watching this Christmas Eve."
@@ -346,6 +314,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/f3/2a/4c4082b441c49c24c9c67ff08473/ap20358774087431-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Snowden allies see opening amid Trump clemency blitz"
+    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
+    publishedDateTime: 2020-12-24T21:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
         width: 1160
         height: 773
         isCached: true

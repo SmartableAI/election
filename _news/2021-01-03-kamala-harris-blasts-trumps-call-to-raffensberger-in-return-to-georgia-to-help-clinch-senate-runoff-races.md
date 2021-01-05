@@ -3,18 +3,18 @@ category: news
 title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
 excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
 publishedDateTime: 2021-01-03T00:00:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/4107424001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4107424001"
+originalUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+ampWebUrl: "https://amp.statesman.com/amp/4107424001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4107424001"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -45,10 +45,10 @@ related:
         isCached: true
   - title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
     excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
-    publishedDateTime: 2021-01-05T09:53:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A0D0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A0D0"
+    publishedDateTime: 2021-01-05T12:33:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2992MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2992MO"
     type: article
     provider:
       name: Reuters
@@ -58,6 +58,38 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546616266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0406D"
         width: 783
         height: 545
+        isCached: true
+  - title: "Judge Denies Donald Trump's Request to Decertify Joe Biden's Win in Georgia"
+    excerpt: "Governor Brian Kemp and Secretary of State Brad Raffensperger said in a court filing that Trump's requests were \"absurd\" and that his lawsuit was the result of a \"manufactured crisis.\""
+    publishedDateTime: 2021-01-05T18:51:00Z
+    webUrl: "https://www.newsweek.com/judge-denies-donald-trumps-request-decertify-joe-bidens-win-georgia-1559090"
+    ampWebUrl: "https://www.newsweek.com/judge-denies-donald-trumps-request-decertify-joe-bidens-win-georgia-1559090?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/judge-denies-donald-trumps-request-decertify-joe-bidens-win-georgia-1559090?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 148
+    images:
+      - url: "https://d.newsweek.com/en/full/1698667/president-trump-campaigns-georgia-runoffs.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump is repaying Pence's 4 years of unflinching loyalty by making him a scapegoat for his election loss"
+    excerpt: "Trump's move to put all of this on Pence means that the vice president is likely to be vilified in the eyes of the president's supporters."
+    publishedDateTime: 2021-01-05T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-throws-pence-under-bus-falsely-claiming-can-overturn-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-throws-pence-under-bus-falsely-claiming-can-overturn-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-throws-pence-under-bus-falsely-claiming-can-overturn-election-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 148
+    images:
+      - url: "https://i.insider.com/5ff4a3bc3793140019e286b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Power Up: Trump, Pence head to Georgia as election fraud claims risk depressing Senate runoff turnout"
     excerpt: "They'll rally voters in the Peach State ahead of two Senate runoff races that will decide which party controls the chamber for the next two years. Their approach will be especially critical after pro-Trump attorneys Lin Wood and Sidney Powell urged Georgians not to cast ballots unless state leaders fight to overturn the results of the November presidential election results that clinched the state for Joe Biden."
@@ -1622,6 +1654,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
+    excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
+    publishedDateTime: 2021-01-05T18:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-pressures-pence-to-violate-the-constitution-and-overturn-the-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-pressures-pence-to-violate-the-constitution-and-overturn-the-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pressures-pence-to-violate-the-constitution-and-overturn-the-election-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5ff494f83793140019e28654?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Local Matters: Georgia's Republican governor rejects Trump's request to call special session to overturn election results"
     excerpt: "Georgia's Republican Governor Brian Kemp has rejected a request from President Trump to call a special session to overturn the results of the November election. In a statement Sunday, Kemp said Mr. Trump asked him to choose a new slate of presidential electors for when the electoral college casts its official vote next week,"
     publishedDateTime: 2020-12-08T02:02:00Z
@@ -1713,6 +1761,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/DZpxkQVrQMiK0ZuTlrPZbsGTrtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3RQWOBI2KPYB5TQ7JEHW7OMZZU.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Vice President Mike Pence torn between President Donald Trump and Constitution"
+    excerpt: "Now Vice President Mike Pence finds himself in the most precarious position of his tenure as he prepares to preside over Wednesday’s congressional tally of Electoral College votes, the last front in Trump’s futile attempts to overturn President-elect ..."
+    publishedDateTime: 2021-01-05T18:56:00Z
+    webUrl: "https://www.masslive.com/politics/2021/01/vice-president-mike-pence-torn-between-president-donald-trump-and-constitution.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/01/vice-president-mike-pence-torn-between-president-donald-trump-and-constitution.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/01/vice-president-mike-pence-torn-between-president-donald-trump-and-constitution.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AZXB3XUPW5ERXL4BY5FIKFTLNY.jpg"
+        width: 4657
+        height: 3105
         isCached: true
   - title: "Trump's Refusal To Accept Election Loss Is World's Biggest Threat In 2021: Report"
     excerpt: "President Donald Trump’s refusal to accept his loss in the U.S. presidential election is the world’s biggest threat in 2021, according to a prominent risk assessment firm. A n"
@@ -2047,6 +2111,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "FfbwHBZss4XpCMM2Ks7V+iKTWaSShmcsElth9nRudo8GR6yb/enupRlPhcxNKpF9Zi6vcN2Ph21l/s3b3YqWRzePvbq6OEl4M7qzlR+ZenVberd+L7tA8Tr8qwO9okCmyGTd9sKzxUT4N0KTotC9c9Jfj8ljOSU+MLb/AZQBHos0Yxq2MEtSJ3vVCILmfvW/6KVnSUWKqXeNPGU+CgipYUt2y33twGnnS1ZNXpEUlE4ZPtARSJU0sKwuDSmX2nUmec6VKpH3Uqsn8MTrgngwH8pEKJthXKlivXiTK0iArcBaqFLmmS5gP9/xQsmpFGYwqxFy5vlXOGMo09cdfxdydbj5VV3HEIHT9cftRL2muVa+R1u0L1uVS57mbUr8ZXc1Kt0fU9DnoH94Apo0B3W3o7Ltgh55oRstWKZszGUuv45keI5f8ke7JEkWKxIApoFi21Yhjba++DFmcYAkcVLQ/6qf0EMU9KgzcoYMyIwRnYXc/3FwrKM8ZVDxyZB3VUURUzHJD5ZdiEaTQlRI3a+VZA==;1MI6gKur3JLfZeWV/jbhzg=="
+secured: "4NgTPiQJUGaO53rSZIjg2iCkw8lVaUVSA37hWKsG38G0IfzIDuENxjwN1nKrd9fvjdrWCzeQTU/SapfW/cPcPmLOFw/8H1Wm86XGXNy7psWTiV1gzqGVZj9N0lowK/3bg2qqr+3rkEn8dgpH24t6HsWQtgvaUPhhacTQHL0JL4Yln20a/d6ajeE1LVsuHWAdZuJMaxyAS6JugOkAx8zDL1Jb7DH5h2hxw14CIlilWkogiynmYOK+lvSlhM2F6KU/eIx7szDZsRyNV7rw+WDOOaqInf64xOUqGAyhlHCtOv26/l831fWgsp+yTgoUXeenpri9oJekB787RA6sQI9gEQk4BX5CYBX83at880F3ZlQ=;UIuiuQTh9U1TtqAucFlT2A=="
 ---
 

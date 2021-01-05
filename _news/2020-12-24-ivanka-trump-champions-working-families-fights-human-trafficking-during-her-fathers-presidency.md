@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-champions-working-fami
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 182
+published: true
 
 provider:
   name: Fox News
@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump accuses McConnell, others in GOP of failing to fight for him"
-    excerpt: "President Trump on Saturday accused Senate Majority Leader Mitch McConnell and other Republicans of failing to fight on his behalf regarding the outcome of the 2020 presidential election – which Trump continues to argue was \"Rigged & Stolen.\""
-    publishedDateTime: 2020-12-27T09:22:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p17WdhLCJts/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.amp"
+  - title: "Texas woman on President Trump commuting her remaining term of supervised release from prison"
+    excerpt: "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence."
+    publishedDateTime: 2020-12-28T02:41:00Z
+    webUrl: "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years"
+    ampWebUrl: "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 124
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/trump-mcconnell-split.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
-    excerpt: ""
-    publishedDateTime: 2020-12-28T09:55:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:40:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:54:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Morning Joe' mainstay Donny Deutsch blames media for continuing to obsess over Trump: 'We are guilty'"
-    excerpt: "Joe\" regular Donny Deutsch slammed the mainstream media on Monday for continuing to obsess over President Trump with non-stop coverage and said the press is \"guilty\" of focusing extensive coverage on him rather than President-elect Joe Biden."
-    publishedDateTime: 2020-12-28T19:44:00Z
-    webUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty"
-    ampWebUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "2+5/de6l4aC3KeU1jPt7LE+tR1K1jbuvuXuVUfMTaG3GOtz/c6/RRRbjkRCwF6pD1OzvXQgJT+Zbkyq6aqQdk4c0HtiXBdnoA2lkTL3/Ke776olXUUQegF8AxMzwmddrO5REIF8SVsjsvmCvFm+qXN6roT8xdef0mLfwwlLew+1njq/Q85EasTjQqoxbUV2Rh/IFCti1HTypkH60GToqrdRN34Unm8FsqRGj/H917PcDz28+viXo7PN1adkO9kXlegsC5luuOXq4+xMMQKu3+iYhsP/C1IQpxtgtLf8WU6RLngi4ApwHrN7SjA7nG76tvylFVvkcxaqgrrcfc1aXWFRsw/0CYCGcWB2GCrt9O/o=;lMazwH3KQ49i0rOyd2yVUw=="

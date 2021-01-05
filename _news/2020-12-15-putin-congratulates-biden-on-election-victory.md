@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
 type: article
 quality: 190
-heat: 1930
+heat: 1950
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94263045-eb33-4a8d-a418-079be75f1161/e3bf2dbe-1805-4073-8722-3e255f507b05/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden makes big investment in Georgia’s Senate runoffs"
+    excerpt: "Hoping to help the Democrats win back the majority in the Senate, President-elect Joe Biden’s making what’s being described as a mid-seven figure investment in Georgia’s twin Senate runoffs, where the GOP’s control of the chamber is at stake"
+    publishedDateTime: 2020-12-11T20:42:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEyL8hQB2X0/biden-makes-big-investment-in-georgias-senate-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden's Health and Human Services pick has no public health experience"
     excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."

@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hispanic caucus expresses frustration to Biden team with how Michelle Lujan Grisham has been treated"
+    excerpt: "Members of the Congressional Hispanic Caucus expressed frustration in a meeting with leaders of President-elect Joe Biden's transition team on Thursday with how they believe New Mexico Gov. Michelle Lujan Grisham has been treated in the Cabinet selection process.\n    \n"
+    publishedDateTime: 2020-12-04T02:28:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n-n_949UjLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/hispanic-caucus-lujan-grisham-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/hispanic-caucus-lujan-grisham-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730001746-02-michelle-lujan-grisham-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Ekdn3LSufe+QEJH6FYfiUikc6h0JCK4fz8gzNYbNLExR6sgosQ6lzIGtuUvoVsOYgwKw7tLdue4MtLZobohvJgtR4HaWFp2D9QEbzPfXjqsZsf68UNh/O4pKIvn/1wsD2Z1XVckA6c9Wd9Xf9mJ9xWKnCHZNFkxAW/y1OB6twEISupym6zk52pQ7UWuccKExr5P2cqPKs82rb+yW7+XXySPvKWDPsgd8HwHvl/QBeeBBm5kdzl+iAtNh1WMnpI6ou792esTK7vyLWGfc8LM9GcBoeSSA7LBH8+vJcwAWc5xEeHfRSzK9CLk3AgecWEl2WLauZyW1/lTbzIfbVdEiiPd0fItOBpwvgz6uf8X3Tqc=;HOLvbqfL+GE9SsERnSV0pg=="
 ---

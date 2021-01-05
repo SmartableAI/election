@@ -47,22 +47,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Biden's desire to stop the border wall could be costly and arduous "
-    excerpt: "President-elect Joe Biden pledged to end construction of his predecessor's signature border wall, but halting the ongoing, multibillion-dollar project will be an arduous, complex and potentially costly process.\n    \n"
-    publishedDateTime: 2020-12-05T22:56:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden expected to nominate Katherine Tai to serve as US Trade Representative"
     excerpt: "President-elect Joe Biden is expected to nominate Katherine Tai as US Trade Representative, three sources familiar with the decision confirmed to CNN.\n    \n"
     publishedDateTime: 2020-12-09T23:55:06Z

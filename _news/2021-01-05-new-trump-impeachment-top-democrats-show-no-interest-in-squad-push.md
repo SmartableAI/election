@@ -2,14 +2,14 @@
 category: news
 title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
 excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
-publishedDateTime: 2021-01-05T15:36:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n7CeMSO9tzQ/trump-impeachment-squad-georgia-raffensperger-democrats"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n7CeMSO9tzQ/trump-impeachment-squad-georgia-raffensperger-democrats"
+publishedDateTime: 2021-01-05T15:50:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
+webUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
 ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
 type: article
-quality: 175
-heat: 175
+quality: 135
+heat: 135
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "HCF9IIk+vjL0dhETHRgONDSx7SyFAUYr0DL0j9O1gC4nISNMH5RCyOO9lq7wW/1VSqo35tygKXuQRx117COC1kvgpXQhi2E1lVNfU4DB8CzZqQXzjqFsDadEwlrEGSuOMNmZY9SE5MSAkyKOxqFWH11akkzRO0UUus2vbvg0jSIkOpk2lf57hIbuHlMox9a/P4FrEayg39NV+VBxSGgghPMglyaqcnzpyY0F5jeyZC8LGoHXDSqemDm079OOQuqKQBKuS6c58cwJ8/TrR1hVUQ9JXfnHsrrXfjTNUn1Pxf5ALMrmyCNLVu4wFTcWwXWkOnAtLsVfL9ejZeHoQjqRSA1LGWWygyMXCzQLecxoUdU=;fMhAq5fPfcOsG/aa3kBUcA=="
+secured: "vp0mHW32qnfhyka8l/61r14EcSJJZvR+oK748YaItLdqxkiD32r2AgCMeOP75qVu0thdrZb/RKEcyct9nMqomaLax3ode2on6mm8wFX47OlqB3T6vhyncgL03diRZFOFrQAilwI4WV0c9U7O5vv+htmPfDQwEu5jJgbxg4srWeozl7MslIKcEqLXqt/tSzSIxyEKwE8Q73aETCWM6DDxvivQTYlCxmsvMHjWjQjh8yHjTGanQ+qHzDAuS/vkv9XWniTVW93uGUZD4UO2hClA+aMMXPzqPL0dD9eNonX2r84dQIE45nDreQNXAAM0gUquS4edsSlXWjLigcUymyHmCrfeOjFOQT4Ht2/9RU1+shY=;sfp8UMfEoFBOkkxSHfQdFw=="
 ---
 

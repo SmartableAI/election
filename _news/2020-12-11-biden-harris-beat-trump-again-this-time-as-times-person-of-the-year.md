@@ -113,22 +113,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Al Gore conceded on this date. Trump still hasn't"
-    excerpt: "President Donald Trump shows no signs of acknowledging reality, as he continues his hopeless journey to overturn the 2020 election results. Whether he likes it or not, it's President-elect Joe Biden who will be president starting on January 20.\n    \n"
-    publishedDateTime: 2020-12-13T15:21:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mFygR2rYmmc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
     excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
     publishedDateTime: 2020-12-10T19:20:22Z

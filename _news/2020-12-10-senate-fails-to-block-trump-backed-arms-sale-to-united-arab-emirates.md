@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
-    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
-    publishedDateTime: 2020-12-09T22:36:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump tells allies he will run in 2024, but hints he may back out"
     excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
     publishedDateTime: 2020-12-14T09:37:00Z

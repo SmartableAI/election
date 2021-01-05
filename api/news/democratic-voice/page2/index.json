@@ -2,6 +2,233 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-27-health-care-policing-and-same-sex-marriage-joe-bidens-domestic-policy-answers.md",
+      "title": "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers",
+      "excerpt": "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidendomestic_20122700__738195.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo98420293932",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98420293932",
+      "publishedDateTime": "2020-12-27T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-americans-suffer-at-christmas-while-trump-golfs-and-sows-chaos.md",
+      "title": "Americans suffer at Christmas while Trump golfs and sows chaos",
+      "excerpt": "For Christmas this year, Washington is giving the country more pain.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inYzHPEBeqY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inYzHPEBeqY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224150348-trump-golf-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/donald-trump-christmas-election/index.html",
+      "publishedDateTime": "2020-12-25T04:15:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-biden-teams-multibillion-dollar-school-testing-plan-takes-shape.md",
+      "title": "Biden team's multibillion-dollar school testing plan takes shape",
+      "excerpt": "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "originalUrl": "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "publishedDateTime": "2020-12-24T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
+      "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
+      "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/21/books/00trumpbooks2/merlin_179822574_2e450d6e-0246-43c1-a80c-8d197ee7f3bc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
+      "publishedDateTime": "2020-12-24T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-california-conservatives-rebuke-trump-pardon-of-duncan-hunter.md",
       "title": "California conservatives rebuke Trump pardon of Duncan Hunter",
       "excerpt": "Trump granted a full pardon Tuesday to Hunter, who was set to begin an 11-month sentence at a federal prison in two weeks after pleading guilty to stealing campaign funds for personal use.",
@@ -127,7 +354,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 675,
+      "heat": 655,
       "tags": null,
       "images": [
         {
@@ -791,6 +1018,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-22-biden-transition-highlights-congress-reaches-a-deal-on-stimulus-package.md",
+      "title": "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package",
+      "excerpt": "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-21T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-four-key-ways-barr-broke-with-trump-at-the-attorney-generals-news-conference.md",
       "title": "Four key ways Barr broke with Trump at the attorney general's news conference",
       "excerpt": "Two days before he leaves the Justice Department, Attorney General William Barr offered his sharpest rebuke to date of President Donald Trump's baseless allegations surrounding the election result, rejecting Trump's efforts to act on the conspiracy theories the President has embraced to explain his loss",
@@ -803,7 +1087,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -859,7 +1143,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 726,
+      "heat": 746,
       "tags": null,
       "images": [
         {
@@ -915,7 +1199,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 151,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -972,7 +1256,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1185,6 +1469,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-18-biden-vows-to-impose-costs-for-russian-aggression-when-he-becomes-president.md",
+      "title": "Biden vows to impose 'costs' for Russian aggression when he becomes president",
+      "excerpt": "President-elect Joe Biden's approach to Russia is now an even tougher challenge with news that Moscow may be responsible for a massive cyber attack on US federal agencies -- one Biden said he will impose \"costs\" for.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOiNtkVviR8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOiNtkVviR8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html",
+      "publishedDateTime": "2020-12-18T11:49:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-covid-19-live-updates-pence-mcconnell-and-other-us-officials-receive-vaccines.md",
       "title": "Covid-19 Live Updates: Pence, McConnell and Other U.S. Officials Receive Vaccines",
       "excerpt": "Experts fear the country’s deep partisan divide may limit the vaccine's reach to Republicans. France’s president details his symptoms.",
@@ -1197,7 +1537,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1254,7 +1594,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1351,345 +1691,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-biden-transition-head-speaks-out-on-difficult-and-intense-process.md",
-      "title": "Biden transition head speaks out on 'difficult and intense' process",
-      "excerpt": "Biden’s longtime chief of staff and a former senator, says that leading Biden’s transition team “has been the most difficult and intense workload that I've ever experienced.” \"I thought we [saw] the most difficult transition because of the Great Recession,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "originalUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/93/34/c676a33a48e5800ae13b0b6b79e3/ted-kaufman-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "publishedDateTime": "2020-12-18T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-trump-praises-tuberville-after-alabama-gop-senator-elect-leaves-open-objecting-to-election-results-january-6.md",
-      "title": "Trump praises Tuberville after Alabama GOP senator-elect leaves open objecting to election results January 6",
-      "excerpt": "President Donald Trump lauded Tommy Tuberville this week after the Republican Alabama senator-elect said he is not ruling out joining a House member to object to the election results when Congress meets in a joint session to accept the votes of the Electoral College.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029152327-alabama-senate-race-doug-jones-tommy-tuberville-nws-orig-00002315-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
-      "publishedDateTime": "2020-12-18T08:31:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-jill-biden-says-her-doctorate-is-among-her-proudest-achievements-i-worked-so-hard-for-it.md",
-      "title": "Jill Biden says her doctorate is among her proudest achievements: 'I worked so hard for it'",
-      "excerpt": "Jill Biden was surprised by a recent newspaper op-ed piece suggesting she stop using the \"Dr.\" title before her name, she told TV host Stephen Colbert on Thursday evening.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
-      "publishedDateTime": "2020-12-18T05:21:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
-      "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
-      "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/18/arts/18latenight/18latenight-facebookJumbo.png",
-          "width": 876,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "publishedDateTime": "2020-12-17T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-joe-biden-wears-a-kick-me-sign.md",
-      "title": "Joe Biden Wears a ‘Kick Me’ Sign",
-      "excerpt": "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e3/5e/3ba27c9c4f00b80e8b1e6788411a/ap20350034179902-1-c.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
-      "publishedDateTime": "2020-12-17T19:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-accept-defeat-see-trump-allys-message-after-election-loss.md",
-      "title": "'Accept defeat': See Trump ally's message after election loss",
-      "excerpt": "Former New Jersey Governor Chris Christie talks to CNN's Chris Cuomo about the election and how President Donald Trump and some Republicans have refused to concede.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217102245-chris-christie-cpt-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "publishedDateTime": "2020-12-17T18:53:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

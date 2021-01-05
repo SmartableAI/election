@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump returning to White House ahead of Mar-a-Lago New Year's Eve party"
-    excerpt: "President Trump plans to return to the White House from Florida on Friday -- earlier than originally planned, according to a schedule released late Wednesday night."
-    publishedDateTime: 2020-12-31T06:35:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xJORGa9nbBc/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26d64889-2702-446b-b0b0-cf5d9e1f6c03/a6320754-c749-4dfd-87f3-050362c82218/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump the clear Republican 'front-runner' in next White House race"
     excerpt: "There's more than three years to go until the next Iowa caucuses and New Hampshire presidential primary, but what some considered the first cattle call in the 2024 White House race takes place next week."
     publishedDateTime: 2021-01-02T11:53:21Z
@@ -60,31 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash"
-    excerpt: "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash."
-    publishedDateTime: 2021-01-02T19:34:00Z
-    webUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/"
-    ampWebUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump's Stuning Achievement in Middle East"
-    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
-    publishedDateTime: 2020-12-30T12:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "C1XgmXiBMPMqB8CiIckyl6ZRZM5Zswdnt0cjZClHV979rdarq0CwclFtFCuJO29s66cysW2xojYh8tjUFyGceQQgDpMAmXFbgXB/i1UAtTX+OrnJE+xCXbeR3UuNy9zfyavk7zI3Ho3DBvAMq7Ot3ONyE8YxN/IXSKsF4mqh9X9mWUfOmSkSCEM/OLRZfSsQI1FKN8vCFbKDtOfBEPKVa8riSc6NvWXoMqQexT0+04W9FJbd7bc+4Hdqp97zPr/jYqVusBRRhYKBwus2zlkLdCz3+A4fGhUwmZI/kPUveE7sRYcSwc2dqjl9aH8LCHBz5QKVQJ2SUt/QtoD3nzaXpwCjgmMVelC9LHdpne64A4A=;iDVgfyh8oSfBCmmTqJ2OhA=="
 ---

@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-asks-judge-to-toss-niece-mary-trumps-conspiracy-laden-lawsuit.md",
+      "title": "Trump asks judge to toss niece Mary Trump’s ‘conspiracy’ laden lawsuit",
+      "excerpt": "President Trump says his niece’s lawsuit against the family is full of “conspiracy theories more befitting a Hollywood screenplay” — and all just part of a plan to make money off of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "originalUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/AP20268626599228.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "publishedDateTime": "2021-01-05T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-new-trump-impeachment-top-democrats-show-no-interest-in-squad-push.md",
+      "title": "New Trump impeachment? Top Democrats show no interest in 'Squad' push",
+      "excerpt": "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats",
+      "originalUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
+      "publishedDateTime": "2021-01-05T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-gary-cohn-former-goldman-sachs-exec-and-trump-economic-advisor-is-joining-ibm-as-vice-chairman.md",
       "title": "Gary Cohn, former Goldman Sachs exec and Trump economic advisor, is joining IBM as vice chairman",
       "excerpt": "At Goldman, Cohn helped ingratiate the bank into the fast-growing corners of Silicon Valley, forging early relationships with startup founders",
@@ -478,7 +583,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2755,
+      "heat": 2835,
       "tags": null,
       "images": [
         {
@@ -993,6 +1098,54 @@
       ]
     },
     {
+      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
+      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
+      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "publishedDateTime": "2021-01-02T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-on-the-anniversary-eve-of-the-drone-strike-ordered-by-trump-that-killed-its-top-general-iran-reveals-its-plan-to-enrich-uranium-to-20-purity.md",
       "title": "On the anniversary eve of the drone strike ordered by Trump that killed its top general, Iran reveals its plan to enrich uranium to 20% purity",
       "excerpt": "\"We are like soldiers and our fingers are on the triggers,\" the head of Iran's civilian atomic energy organization said.",
@@ -1361,7 +1514,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -1402,167 +1555,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-attacks-and-vote-by-mail-the-top-voting-rights-stories-of-2020.md",
-      "title": "Trump attacks and vote by mail: the top voting rights stories of 2020",
-      "excerpt": "The pandemic created new barriers to the ballot box and strengthened existing ones – aided by the president and his Republican allies",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5e11026192d8237ee0edc6181e2e4ab0c7fbb0e7/0_0_4000_2668/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9483731ba5514da97ac2b855bfcd44c3",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "publishedDateTime": "2021-01-01T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-reflects-on-his-historic-victories-in-new-year-message.md",
-      "title": "Trump reflects on his 'historic victories' in new year message",
-      "excerpt": "Biden looks ahead to 2021 in upbeat message as Trump points out he correctly predicted arrival of vaccine before year’s end",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e7308ad68cd54b588efab577a8ccb96227349bbb/0_83_2662_1598/master/2662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4cd354c61841787c0912a9f7ac8d4e45",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "publishedDateTime": "2021-01-01T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-blasts-covid-relief-bill-just-passed-by-congress-demands-changes.md",
-      "title": "Trump blasts Covid relief bill just passed by Congress, demands changes",
-      "excerpt": "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251966",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966",
-      "publishedDateTime": "2021-01-01T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

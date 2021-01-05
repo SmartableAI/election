@@ -61,35 +61,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "All eyes are on Georgia ahead of Trump's rally and Senate debate"
-    excerpt: "The eyes of the political universe will turn to Georgia this weekend, as the voter registration deadline for January's Senate runoffs approaches.\n    \n"
-    publishedDateTime: 2020-12-05T16:00:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJKKQCLU4DE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
+  - title: "Trump administration must accept new DACA applications, judge orders"
+    excerpt: "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n"
+    publishedDateTime: 2020-12-04T22:38:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202101313-warnock-ossoff-perdue-loefler-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrats' push to investigate Trump won't stop when he leaves office"
-    excerpt: "Democrats in Congress are still intent on investigating President Donald Trump and his administration after he leaves office, including a pursuit of Trump's tax returns, a drive that threatens to complicate President-elect Joe Biden's pledges of bipartisan unity since he won the election.\n    \n"
-    publishedDateTime: 2020-12-07T11:01:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQahw-CxCEI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204145825-02-trump-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -156,6 +140,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118051338-01-donald-trump-rose-garden-1113-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "What the Electoral College vote means for Trump and Biden"
+    excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
+    publishedDateTime: 2020-12-13T16:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/what-electoral-college-vote-means-trump-biden-n1250595"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250595"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250595"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
+        width: 2500
+        height: 1513
         isCached: true
   - title: "Trump Administration Plans a Rushed Effort to Encourage Americans to Be Vaccinated"
     excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."

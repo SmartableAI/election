@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: No, Mike Pence can't steal the election for Trump"
+    excerpt: "This is it. President Donald Trump's dogged effort to ignore the voters, state election officials, the courts and the Electoral College has come down to his latest wild idea -- that he'll just get Vice President Mike Pence to steal the thing for him.\n    \n"
+    publishedDateTime: 2021-01-05T17:33:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Dk5GdcezfQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 215
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105112259-01-trump-rally-ga-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence faces pressure from Trump to thwart Electoral College vote"
     excerpt: "Vice President Mike Pence's four years of faithful service to his boss, President Donald Trump, will culminate this week in a ceremonial act he's under increasing pressure to thwart.\n    \n"
     publishedDateTime: 2021-01-05T16:26:26Z
@@ -44,6 +60,38 @@ related:
     quality: 200
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump says he hopes Pence 'comes through' while he rallies for Georgia senators"
+    excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
+    publishedDateTime: 2021-01-05T04:50:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R7YMrWH5xBk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 196
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104214240-04-donald-trump-dalton-ga-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden's already more popular than Trump's ever been"
+    excerpt: "Poll of the week: A new Gallup poll finds that President-elect Joe Biden has a 55% favorable rating and a 41% unfavorable rating.\n    \n"
+    publishedDateTime: 2020-12-06T16:48:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WPqpjel5kPY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/biden-trump-popularity-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/biden-trump-popularity-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump deal with Morocco is yet another headache for Biden team"
+    excerpt: "On Thursday, Morocco became the fourth Arab state this year to announce it would establish relations with Israel. It was another diplomatic win for the Trump administration, with US President Donald Trump tweeting that it was \"a massive breakthrough for peace in the Middle East!\"\n    \n"
+    publishedDateTime: 2020-12-12T17:34:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j0m9Q7y9TfI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-morocco-analysis-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia election official shoots down Trump's election conspiracy theories"
     excerpt: "A top Georgia election official said Monday that \"everybody's vote did count\" in the state's November elections as he shot down a list of voter fraud conspiracy theories President Donald Trump aired in a call with Georgia Secretary of State Brad Raffensperger this weekend.\n    \n"
     publishedDateTime: 2021-01-05T00:44:16Z
@@ -95,19 +159,163 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence 'welcomes' congressional Republicans' bid to challenge electoral votes"
-    excerpt: "Vice President Mike Pence on Saturday signaled his support for a bid by Republicans lawmakers to challenge electoral votes when Congress is expected to certify President-elect Joe Biden's victory in a meeting this week.\n    \n"
-    publishedDateTime: 2021-01-03T16:26:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5A_PrrqLuRM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
+  - title: "Trump budget director accuses Biden team of 'false statements' in latest transition spat"
+    excerpt: "President Donald Trump's budget director is accusing President-elect Joe Biden's team of issuing \"false statements\" regarding his office's cooperation during the ongoing transition, insisting the office has been fully transparent over the course of 45 meetings.\n    \n"
+    publishedDateTime: 2020-12-31T21:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzvernCG60E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-biden-transition-budget-director/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 182
+    quality: 181
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229110145-01-mike-pence-1216-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190411200659-omb-acting-director-vought-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Glimmers of progress in stimulus negotiations as Trump's election sideshow drags on"
+    excerpt: "For the first time in months there were small signs of a functioning government Wednesday as congressional leaders negotiated a Covid-19 relief package and millions of vaccine doses were shipped out under the watchful eye of officials with Operation Warp Speed while carrying out contingency planning"
+    publishedDateTime: 2020-12-17T09:38:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mgDmvbWbiXk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/donald-trump-coronavirus-stimulus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216164205-us-capitol-snow-1216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump made big in-roads in Hispanic areas across the nation"
+    excerpt: "One of the most notable early results on Election Night came from Florida's heavily Hispanic Miami-Dade county. President Donald Trump lost it to President-elect Joe Biden by just 7 points, after losing it by 29 points in 2016.\n    \n"
+    publishedDateTime: 2020-12-12T18:21:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5qulWYsv4c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/trump-hispanic-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012171114-cuba-hispanic-vote-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Al Gore conceded on this date. Trump still hasn't"
+    excerpt: "President Donald Trump shows no signs of acknowledging reality, as he continues his hopeless journey to overturn the 2020 election results. Whether he likes it or not, it's President-elect Joe Biden who will be president starting on January 20.\n    \n"
+    publishedDateTime: 2020-12-13T15:21:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mFygR2rYmmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How voters rank Trump a historically bad president"
+    excerpt: "Poll of the week: A new Fox News poll finds that 42% of voters say history will remember President Donald Trump as one of the worst presidents ever.\n    \n"
+    publishedDateTime: 2020-12-20T17:42:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v8BuB2XBAaw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/trump-presidency-history-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump is still only out for himself "
+    excerpt: "In the six weeks since President-elect Joe Biden won the White House, President Donald Trump has proved again and again that he has little concern for anyone other than himself, scheming and spreading falsehoods as he seeks to overturn the election while seeming unmoved by the grim climb in coronavirus"
+    publishedDateTime: 2020-12-20T14:06:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tCwx1Cglt2g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/donald-trump-martial-law-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/donald-trump-martial-law-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210140000-01-trump-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Trump won the economic message battle"
+    excerpt: "President Donald Trump has always liked to talk about how strong the economy was under his watch.\n    \n"
+    publishedDateTime: 2020-12-25T11:52:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eOS6Wx_ZY7Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/25/politics/trump-economy-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/25/politics/trump-economy-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211141734-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Donald Trump is already the 2024 GOP frontrunner"
+    excerpt: "Poll of the week: A new Gallup poll finds that 87% of self-identified Republican voters approve of President Donald Trump's job performance.\n    \n"
+    publishedDateTime: 2020-12-27T13:30:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kmk8N2CSQRA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's grievances leave Americans in need in limbo"
+    excerpt: "President Donald Trump's dark mood is worsening — and the country is suffering his wrath.\n    \n"
+    publishedDateTime: 2020-12-28T00:20:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7IC5WRpKobU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/donald-trump-stimulus-bill-unemployment-benefits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/donald-trump-stimulus-bill-unemployment-benefits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223055901-02-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump angered by Mar-a-Lago renovations, sources say"
+    excerpt: "His mood darkened as soon as he walked into his members-only club Mar-a-Lago, three days before Christmas, according to multiple sources. The changes to his private quarters, many of which were overseen by his wife, first lady Melania Trump, were not to President Donald Trump's liking, and he was mad"
+    publishedDateTime: 2020-12-29T19:45:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ru4myzdL8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-mar-a-lago-renovations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-mar-a-lago-renovations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -124,6 +332,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107222839-fulton-county-ballot-counting-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump absent as vaccine distribution lags and thousands continue to die"
+    excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads.\n    \n"
+    publishedDateTime: 2020-12-31T11:00:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AD9G4wCpAuE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -159,38 +383,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'It's a dark place': Trump's call a window into a President consumed"
-    excerpt: "President Donald Trump had been trying for weeks to get Georgia's secretary of state on the phone.\n    \n"
-    publishedDateTime: 2021-01-04T21:25:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AAxwl3_SB1A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104115130-donald-trump-december-8-2020-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As Georgia votes, Trump tries to destroy America's faith in democracy"
-    excerpt: "Desperate, deluded and dangerous, President Donald Trump drove America deeper into a political abyss on Monday night in his zeal to steal an election he lost and to destroy faith in the democracy that fairly ejected him from office.\n    \n"
-    publishedDateTime: 2021-01-05T09:52:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EgxJDEaaKEE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104214240-04-donald-trump-dalton-ga-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The final Trump loyalty test for Congress is coming"
     excerpt: "The test for what the Republican Party will be in the wake of Donald Trump's presidency is coming in a little over 24 hours and on the heels of Georgia Senate runoffs that will finally determine the balance of the US Senate.\n    \n"
     publishedDateTime: 2021-01-05T14:07:26Z
@@ -207,35 +399,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count "
-    excerpt: "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n"
-    publishedDateTime: 2021-01-02T02:30:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html"
+  - title: "Analysis: Trump's impeachment foretold everything that's happened since "
+    excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
+    publishedDateTime: 2020-12-20T13:47:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iV-COVOYcPA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/20/politics/trump-impeachment-us-political-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/trump-impeachment-us-political-future/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121005656-louie-gohmert-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Appeals court dismisses Gohmert case asking Pence to interfere in Electoral College vote count "
-    excerpt: "A federal court on Saturday dismissed an appeal from Texas Rep. Louie Gohmert in his lawsuit to force Vice President Mike Pence to interfere in the Electoral College vote count.\n    \n"
-    publishedDateTime: 2021-01-03T11:28:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2jQNJPqF2kE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/gohmert-pence-electoral-college-case-appeal-dismissed/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/gohmert-pence-electoral-college-case-appeal-dismissed/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121005656-louie-gohmert-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -255,19 +431,115 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence asks judge to reject Gohmert lawsuit asking the VP to interfere in the Electoral College count"
-    excerpt: "Vice President Mike Pence's lawyers asked a federal judge Thursday to reject a request from Rep. Louie Gohmert of Texas that attempts to force Pence to ignore electoral votes of several key states when Congress meets to certify the 2020 presidential election next week.\n    \n"
-    publishedDateTime: 2020-12-31T23:34:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-kZaVxLQfA0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/pence-gohmert-electoral-college-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/pence-gohmert-electoral-college-lawsuit/index.html"
+  - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
+    excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
+    publishedDateTime: 2021-01-03T17:19:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ckea81hJeXs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump set for Georgia rally as GOP officials brace for post-phone call fallout"
+    excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
+    publishedDateTime: 2021-01-04T16:19:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R7YMrWH5xBk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's grip on GOP may be his greatest feat of political wizardry yet"
+    excerpt: "In his over-the-top bombast and grandiosity, President Donald Trump has always evoked one of the iconic characters in American entertainment.\n    \n"
+    publishedDateTime: 2020-12-06T13:35:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a2L6scSwdD8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/donald-trump-post-election-gop-control/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/donald-trump-post-election-gop-control/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229110145-01-mike-pence-1216-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump extends immigration restrictions, citing pandemic's impact on labor market "
+    excerpt: "President Donald Trump extended certain restrictions on legal immigration and on visas that allow immigrants to temporarily work in the United States on Thursday, just hours before those restrictions were set to lapse. Trump extended the restrictions through March 31, two months after he will leave office.\n"
+    publishedDateTime: 2021-01-01T00:38:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rvAwU8yfuBQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231163449-trump-final-days-early-white-house-return-election-results-collins-dnt-lead-vpx-00003317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump leans harder on Pence to flip election results, though he lacks that power"
+    excerpt: "The vice president will be thrust into the middle of the president's attempt to overturn his election defeat when he presides over the Electoral College count on Wednesday."
+    publishedDateTime: 2021-01-05T18:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-leans-harder-pence-flip-election-results-n1252849"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252849"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252849"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 170
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439696/210105-mike-pence-donald-trump-jm-1313_789943dc1e9ece25e89d4c61844b080f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
+    excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
+    publishedDateTime: 2020-12-29T18:48:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGcfz7wFK-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016121521-us-department-of-energy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read the full transcript and listen to Trump's audio call with Georgia secretary of state "
+    excerpt: "CNN has obtained the full January 2 audio call between President Donald Trump and Georgia Secretary of State Brad Raffensperger. Trump is joined on the call by White House chief of staff Mark Meadows and several lawyers.\n    \n"
+    publishedDateTime: 2021-01-04T02:22:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQXwjuC7C_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/trump-brad-raffensperger-phone-call-transcript/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/trump-brad-raffensperger-phone-call-transcript/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103150627-trump-raffensperger-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -367,6 +639,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Pressures Pence to Reject Electoral Votes"
+    excerpt: "The vice president plays a crucial but largely ceremonial role in certifying the election results in Congress. Here’s how Congress’s election tally actually works."
+    publishedDateTime: 2021-01-05T17:28:00Z
+    webUrl: "https://www.nytimes.com/2021/01/05/us/politics/pence-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/05/us/politics/pence-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/05/us/politics/pence-trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-explainer/05dc-explainer-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump drive to overturn election, rescue Senate majority collide in Georgia"
     excerpt: "Both Trump and President-elect Joe Biden are traveling to the state for last-minute campaign events on the eve of Tuesday's Senate runoffs."
     publishedDateTime: 2021-01-04T18:22:00Z
@@ -382,6 +670,38 @@ related:
       - url: "https://static.politico.com/e6/a1/ab79277044c79441676b700ec5f9/20210104-trump-georgia-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
+    excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."
+    publishedDateTime: 2021-01-05T05:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/we-won-trump-spreads-misinformation-about-2020-election-during-final-n1252802"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252802"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252802"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439555/210104-georgia-donald-trump-kelly-loeffler-rally-ac-1159p_905398a7de4c07e8af6ea1193f82fcf5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
+    excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
+    publishedDateTime: 2021-01-05T12:58:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/05/us/loeffler-ossoff-warnock-perdue.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 139
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05transition-briefing-trump-pence-twee1/05transition-briefing-trump-pence-twee1-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "How Trump warped HHS long before Covid-19"
     excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"
@@ -430,22 +750,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438954/201231-donald-melania-trump-se-1132a_bf0eb5979032a59e74990a7d9aca7aa6.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Trump extends Covid-related visa ban; health coverage policy advances"
-    excerpt: "Trump imposed a ban on green cards issued abroad that largely targets family members of people already in the United States."
-    publishedDateTime: 2021-01-01T12:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-extends-covid-related-visa-ban-health-coverage-policy-advances-n1252638"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252638"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252638"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_53/3439040/201231-donald-trump-jm-2209_8d217c1e62b5dc0eac865513ce5aab1f.jpg"
-        width: 2500
-        height: 1663
         isCached: true
   - title: "Congress overrides Trump veto for first time"
     excerpt: "The Senate joined the House in voting to override President Trump’s veto of a $741 billion defense bill, the first time Congress has blocked a veto from Trump."
@@ -511,21 +815,37 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump versus the truth: The most outrageous falsehoods of his presidency"
-    excerpt: "I have never seen a president in American history who has lied so continuously and so outrageously as Donald Trump, period,” presidential historian Michael Beschloss said."
-    publishedDateTime: 2020-12-31T09:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252580"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252580"
+  - title: "Trump Call to Georgia Official Might Violate State and Federal Law"
+    excerpt: "The president’s demand for action to overturn the result of the election in the state raised questions about whether he violated election fraud statutes, lawyers said, though a charge is unlikely."
+    publishedDateTime: 2021-01-04T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/01/03/us/politics/trump-call-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/03/us/politics/trump-call-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/03/us/politics/trump-call-georgia.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-trump-legal/03dc-trump-legal-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
+    excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
+    publishedDateTime: 2020-12-30T10:07:00Z
+    webUrl: "https://www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resistance-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resistance-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resistance-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 134
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_52/3437553/201222-trump-biggest-whoppers-main-cover-cs_03ea1ca899b5c3c15b942562ca290873.jpg"
-        width: 2500
-        height: 1408
+      - url: "https://static01.nyt.com/images/2020/12/24/us/politics/00Ossoff-resistance1/00Ossoff-resistance1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "D.C. mayor calls on National Guard as pro-Trump protests set for capital"
     excerpt: "Trump supporters are planning rallies in the capital as Congress is set to meet to formally count the Electoral College results."
@@ -542,22 +862,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439551/210104-washington-dc-protest-prep-ac-1128p_cc73cd26468a2c9f778aad70a33f7394.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "How Trump Tried, but Largely Failed, to Derail America’s Top Climate Report"
-    excerpt: "The White House repeatedly attempted to thwart the country’s premier climate science document, one meant to steer policy for years. Scientists got in the way."
-    publishedDateTime: 2021-01-01T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/31/climate/31CLI-ASSESSMENT2/merlin_160191879_1db5bea5-8dfe-4c3e-8d88-f3fcff2187ca-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "'NEVER FORGET’: Trump threatens Cotton over Electoral College certification"
     excerpt: "How can you certify an election when the numbers being certified are verifiably WRONG,” Trump tweeted. President Donald Trump warned Sen. Tom Cotton on Monday that Republican voters would \"never forget\" GOP lawmakers who fail to embrace Trump's baseless effort to contest President-elect Joe Biden's Electoral College victory."
@@ -619,22 +923,6 @@ related:
         width: 2500
         height: 1663
         isCached: true
-  - title: "Democrats ask FBI Director Wray to open criminal probe into Trump after leaked phone call"
-    excerpt: "Reps. Ted Lieu and Kathleen Rice wrote that they believe Trump \"engaged in solicitation of, or conspiracy to commit, a number of election crimes.\""
-    publishedDateTime: 2021-01-04T15:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/democrats-ask-fbi-director-wray-open-criminal-probe-trump-after-n1252732"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252732"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252732"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_29/2945271/190724-ted-lieu-ew-1159a_8d159ea0c909c1bc79b832054ce8364e.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud."
     publishedDateTime: 2021-01-03T20:13:00Z
@@ -662,6 +950,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/d1/d6/40f543904493880ca85ea2461cd8/gettyimages-1230254665.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The new center of Trump's political world: Palm Beach"
+    excerpt: "The center of gravity for the MAGA universe is moving zip codes with President Donald Trump. In anticipation of Trump setting up permanent residence at his Mar-a-Lago resort in Palm Beach after leaving the White House in January,"
+    publishedDateTime: 2021-01-01T01:13:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/trump-palm-beach-florida-453216"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

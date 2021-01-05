@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-gen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
-    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
-    publishedDateTime: 2020-12-14T03:20:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "UJFvJjTXTkEAcKOZj0PexOJ9yeDzdNg9/ahhjPT2pGHZL5FjcavkLMWLUiu99v0w3cTExUQ0Q0vk3Q3ZqC/OoKGKvOfl8RMphcgq3uRdQ/63nM+9oNAkXmhTmvCg62HlZktEHY1iirMGk8BCsNiy6Q6EMbc/q+Q7ms8SclJZFWtQ18OJ8hCw1e4gDYRIAVvCciEaNzK/3u1zL5FEtpAeoqHl4Mr7bqWuPlf/gHJgo78qph9isLwsZzCS4ef/AVDzf2IY/S8qdwHqynCVMMBMANz1rPygksU3h5JEYJv6wX9wKU4pWgNiQ+e89I6ga/TyKkdzcc5DTApChXM2tjR27U7a51fm+h22qf4XSnVK5SA=;x+vuOc3auAbPfTaMfIz4dQ=="
 ---

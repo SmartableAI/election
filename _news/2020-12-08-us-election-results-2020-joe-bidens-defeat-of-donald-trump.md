@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/ng-interactive/2020/dec/08/us-el
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/ng-interactive/2020/dec/08/us-election-results-2020-joe-biden-defeats-donald-trump-to-win-presidency"
 type: article
 quality: 155
-heat: 5315
+heat: 5335
 published: true
 
 provider:
@@ -597,6 +597,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump allies scrambling for strategy to overturn Biden win"
+    excerpt: "Republican lawmakers who are trying to overturn Joe Biden’s victory over President Donald Trump have not settled on a full strategy"
+    publishedDateTime: 2021-01-05T18:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
+    excerpt: ""
+    publishedDateTime: 2020-12-28T09:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
     excerpt: ""
     publishedDateTime: 2020-12-24T09:48:17Z
@@ -63,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
+    excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
+    publishedDateTime: 2020-12-25T00:10:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAbKf5U72vE/roger-stone-sue-hakeem-jeffries"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-sue-hakeem-jeffries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
     excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
     publishedDateTime: 2020-12-22T17:57:44Z
@@ -79,21 +111,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says Moderna COVID-19 vaccine distribution will start 'immediately,' signals to Europe vaccines to come"
-    excerpt: "President Trump on Friday said distribution of the Moderna vaccine will start \"immediately\" after it was \"overwhelmingly approved\" this week, while signaling to European nations that have been \"hit hard\" that coronavirus vaccines would be \"on their way\" to them, as well."
-    publishedDateTime: 2020-12-18T13:35:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mHqCzc-cOj0/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
+  - title: "'Growing body of evidence' that COVID-19 leak from Chinese lab a 'credible possibility,' Trump official claims"
+    excerpt: "Deputy National Security Adviser Matthew Pottinger made the claim in a virtual conference call with British lawmakers."
+    publishedDateTime: 2021-01-05T00:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f03e09b3-650c-4fb5-9d3f-171e055fea2b/a5c1edae-c5a0-4caa-813e-9e6533b35597/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
     excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
@@ -126,22 +158,6 @@ related:
       - url: "https://images.wsj.net/im-207060/social"
         width: 1281
         height: 670
-        isCached: true
-  - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
-    excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
-    publishedDateTime: 2020-12-22T18:03:00Z
-    webUrl: "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-274855/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
     excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
@@ -191,6 +207,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "U.S. Families, Economy, Government in Limbo as Trump Remains Mum on Covid-19 Aid Bill"
+    excerpt: "President has neither vetoed nor signed massive coronavirus relief package, a day before pandemic-related unemployment benefits expire."
+    publishedDateTime: 2020-12-25T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-families-economy-government-in-limbo-as-trump-remains-mum-on-covid-19-aid-bill-11608924128"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-278258/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
     excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
     publishedDateTime: 2020-12-25T05:23:00Z
@@ -207,6 +239,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's Stuning Achievement in Middle East"
+    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
+    publishedDateTime: 2020-12-30T12:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "fwS8utGyszGczoM4l2yqNvZ3s9mfrRp4rFQBzmqjDVWJoidFA1/iVVYCteRtYRCJBMxOt1C0Wv9lAOu12k2Bwz4LCQaXlXpOpJlRAa8cslLA2q3/mQIbfygk7yuURTRua0RKokyczaJB6jPFd6RHWg9s2Mo0yD39sK+M7zTD5D4t5T52LhsKhBy+Xe3ztQ2SYCrBvfj+IU3kd9x2Nop5uPxDAeyzRO77M/ALN+eN5aBn/4sgSnzTAbHcyt64ozF+EaZ9oaRoqFmurvhg61TiwDBWPuUpxdsZjmm+OfJPRqvFArHr/3vrm93dQ454FmzrQ71PpG9GDVzQyldJ3f3H38gTkkubSQinKXulXWTnynk=;5nHRQBTXDGCqcobfjBF+dQ=="
 ---

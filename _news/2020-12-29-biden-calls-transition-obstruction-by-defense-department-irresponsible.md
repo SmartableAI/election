@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tevi Troy's 'Fight House' Holds Valuable Lessons for a Biden Administration"
+    excerpt: "President Donald Trump and President-elect Joe Biden are quite different from each other. It is obvious in their personalities and in their policy"
+    publishedDateTime: 2020-12-25T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/12/25/tevi_troys_fight_house_holds_valuable_lessons_for_a_biden_administration_144922.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 83
+    images:
+      - url: "https://assets.realclear.com/images/52/529822_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "e5aYyj3yS5rDxIxWU5g8+tWX0IcUJJOBWOloOmiad1tJpXfVOSo3PEPOSQBXs9nA4ngDjjVhnNRiREY0spRwkIgl0duEp5FBmOww6wZp7JWcynQsb5IEY/djGGn9wggINhFHH7tndMTaqakF5Y9KQUxSIZMXOwR983m1Pt+VmwPSzd4UkZjkwfjcsx14kiVBT3rXCnWJsjgeRczLT2tcERxkg26G8rCqGspbAa7vK0deERZZg1rOiXEr+qUPaeAuR86XV3xYGvr5V5q4PkIHLSNScWHyvqCG/cEnVI9qbzuoY08T4+tqpun2Fx6HXZnPJQElqvk3uhV+ygLp6pW1LSnzwPNJDzwGTEQohMZqoKUKMacAdd4Vg2l7FvP2xOOIaleUykLlLN8x/czXOv3+7N6qEjXtrHHC8RW/lJljYO0nsxT0tNIn9P3/hiVBbdDPHudx3/DgLmXnvJh0BWWTwMYW8PzR8IgpHolyYIHjs9DZo4i1SpXFKSTqsazIe9cfysiGjeHSsvqVY7prf4bdqg==;zpf660EVm3RzcF67brN9ZA=="
 ---

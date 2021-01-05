@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'"
+    excerpt: "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden."
+    publishedDateTime: 2020-12-26T19:10:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Former DOJ lawyer apologizes for not doing more to resist Trump"
+    excerpt: "A former Justice Department attorney who worked for the Office of Legal Counsel wrote an op-ed for The New York Times in which she offered an apology for not taking a stronger stance against President Trump."
+    publishedDateTime: 2020-12-21T18:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fdzvCP71dUY/former-doj-lawyer-op-ed-resist-trump-apology"
+    ampWebUrl: "https://www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20355106504110-e1608575361908.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump accuses McConnell, others in GOP of failing to fight for him"
     excerpt: "President Trump on Saturday accused Senate Majority Leader Mitch McConnell and other Republicans of failing to fight on his behalf regarding the outcome of the 2020 presidential election – which Trump continues to argue was \"Rigged & Stolen.\""
     publishedDateTime: 2020-12-27T09:22:33Z
@@ -48,69 +80,69 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
-    excerpt: ""
-    publishedDateTime: 2020-12-28T09:55:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+  - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
+    excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
+    publishedDateTime: 2020-12-22T03:09:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aX2HxSADYtY/members-of-congress-trump-electoral-college-objections-on-jan-6"
+    ampWebUrl: "https://www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:40:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ivanka Trump champions working families, fights human trafficking during her father's presidency"
-    excerpt: "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements."
-    publishedDateTime: 2020-12-24T18:23:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:54:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
+  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
+    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-12-19T18:36:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-275358/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
+    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-12-21T02:24:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-275358/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'"
+    excerpt: "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden."
+    publishedDateTime: 2020-12-26T19:14:00Z
+    webUrl: "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 142
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Ra+61Ui1j93Yex7LHsi5LryizjXbWsF+yGySkm1eFqHsDyvqDETSNYICxxxexIlCKxuNlYyd2nrEsMuN0dgLhS8F9M1PxMGU5k74a42A6g+8TuDE7KClGmNYznqwdyr17bylJBiOzFGCpJ3MwLWbETBzwogUSTMXqXhKlhkT1KJLq8tXqHboppO8av8Xo1Z5mn9IFPRD0chaEr7bE3ensF38hCkLbIH670Z8ziXPvUJSG7VCHxat4St04jEcxZrLEdI4E3esO6uEknGQXLAMdAe0lldmG/MQuOcCEqrhVn0ioneo7qwwvpITt+FngowS9Ill7HmA2aYXw0j5cpGOCqXkFcw99ZKE7BkpKzQQoQA=;ZQMUNeyOknFadXqKtejK9Q=="

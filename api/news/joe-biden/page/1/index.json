@@ -372,6 +372,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
+      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
+      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-280273/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "publishedDateTime": "2021-01-04T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-two-biden-aides-will-recuse-on-blackrock-issues-as-past-ties-pose-questions.md",
       "title": "Two Biden aides will recuse on BlackRock issues as past ties pose questions",
       "excerpt": "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7.",
@@ -481,63 +538,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.md",
-      "title": "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial",
-      "excerpt": "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "originalUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "publishedDateTime": "2021-01-01T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-joe-bidens-approach-to-latin-america-will-be-major-departure-from-donald-trump.md",
       "title": "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump",
       "excerpt": "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming.",
@@ -599,7 +599,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -651,7 +651,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 447,
+      "heat": 467,
       "tags": null,
       "images": [
         {
@@ -1445,6 +1445,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-22-biden-transition-highlights-congress-reaches-a-deal-on-stimulus-package.md",
+      "title": "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package",
+      "excerpt": "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-21T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-fierce-pushback-fear-of-new-and-onerous-regulations-from-small-farmers-on-joe-bidens-choice-of-tom-vilsack-for-usda.md",
       "title": "Fierce pushback, fear of new and onerous regulations from small farmers on Joe Biden’s choice of Tom Vilsack for USDA",
       "excerpt": "Tom Vilsack faces a steep challenge, with progressive and environmental groups warning that he is too friendly with big industrial agriculture businesses.",
@@ -1522,58 +1579,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/3991548001",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001",
       "publishedDateTime": "2020-12-21T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-bidens-impact-on-federal-judiciary-may-be-limited-despite-liberals-talk-of-court-packing.md",
-      "title": "Biden's impact on federal judiciary may be limited despite liberals' talk of 'court-packing'",
-      "excerpt": "Beyond racial and ethnic demographics and job experiences, Biden's impact on the judiciary is not likely to be as dramatic as Trump's has been.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/20/trumps-impact-federal-judiciary-may-hard-biden-reverse/6541264002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/20/trumps-impact-federal-judiciary-may-hard-biden-reverse/6541264002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/28/USAT/9b599996-c89c-4a7d-b49c-08f693d8a1f8-AP_APTOPIX_Trump_Supreme_Court_Barrett.jpg?auto=webp&crop=2961,1666,x0,y150&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6541264002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6541264002",
-      "publishedDateTime": "2020-12-20T02:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438567/201229-donald-trump-1401_f626b008bb93154f6fd1f57f6610b06c.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "How McConnell and the GOP let Trump down gently"
+    excerpt: "Before recognizing Joe Biden as America’s next president, Mitch McConnell was careful to make sure President Donald Trump was in the loop. The Senate majority leader transmitted a message to the White House ahead of time that he would be giving remarks congratulating Biden on his win over Trump,"
+    publishedDateTime: 2020-12-15T23:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/15/mcconnell-gop-let-trump-down-gently-election-445690"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c4/38/729278f34d458534f28f6f35e8a9/ap20350731665251-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "vrm7zI8VtLSShXNp+DSb7RNggV6V7I50eV+qBRx4sb3il6JtYHb2vV8wEq9xx6TXUt03BWgWhSNlFwE7zBUA2fmJZmUTsQ8rS8a+ptvCSo27HQaDhn/sO41D1d62edH5ju7MaBog3yhyxq9tJ8SjUVXSHoBepCnyCAy2xGF7JZGZ88umiAMgMmxzveHmalnxz6JAUFhAOZLK4l1dgGE79BbNEdPsPoeWv32vjnjokbblNcfsKoNEiyFTOZxsue/xmVbv4aLth2awrlKIqim3Wf4gj7aLw37YNIUYZiqom0Dvd5Fstm/ork/ze9voN5lno6kxLTqwL1oDP33pVglRpbNZU7Pzg+CSoWAPuVo8dGo=;IaWFGvRjb1IJI7H+otriYw=="

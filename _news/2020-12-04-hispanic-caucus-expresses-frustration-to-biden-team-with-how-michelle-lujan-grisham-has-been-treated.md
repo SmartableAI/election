@@ -31,69 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden team weighs North Korea policy as the era of Trump's 'love' letters with Kim ends"
-    excerpt: "President-elect Joe Biden's foreign policy team will soon have access to the letters President Donald Trump exchanged with North Korean Leader Kim Jong Un, correspondence that belongs to the US government -- not Trump -- and could provide insight into one of the world's most enigmatic leaders.\n    \n"
-    publishedDateTime: 2020-12-03T11:04:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6kTc0KXVq-8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-north-korea-challenge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-north-korea-challenge/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 182
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023015900-trump-kim-biden-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden weighs ambassador picks amid pressure to diversify "
-    excerpt: "President-elect Joe Biden's team is in the early stages of considering who to appoint as ambassadors around the world, with a handful of selections for high profile posts expected to come sometime in January, according to three sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-12-05T14:22:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERyYyEOqh18/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
+  - title: "Hispanic lawmakers urge Biden to pick Lujan Grisham for HHS"
+    excerpt: "Members of the Congressional Hispanic Caucus have sent a letter to President-elect Joe Biden's transition team lobbying for New Mexico Gov. Michelle Lujan Grisham to be nominated for the role of health and human services secretary.\n    \n"
+    publishedDateTime: 2020-12-02T04:51:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V_3y23Xvk3g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/hispanics-congress-biden-michelle-lujan-grisham-hhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/hispanics-congress-biden-michelle-lujan-grisham-hhs/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730001614-01-michelle-lujan-grisham-lead-image-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Push me': Biden welcomes diversity push as he faces criticism over Cabinet picks"
-    excerpt: "President-elect Joe Biden got a lot of help from a lot of different people to beat President Donald Trump. Now he's already facing some frustration from constituencies that got him elected that he's not giving them enough room at the governing table.\n    \n"
-    publishedDateTime: 2020-12-04T05:10:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9WgPfyMM9Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
+  - title: "Biden expected to nominate Xavier Becerra to lead Health and Human Services"
+    excerpt: "President-elect Joe Biden is poised to nominate California Attorney General Xavier Becerra to lead the Department of Health and Human Services, a Biden transition official tells CNN.\n    \n"
+    publishedDateTime: 2020-12-07T00:56:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf3I4_se7F4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200710175823-california-attorney-general-xavier-becerra-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "5 big problems with Texas' bid to overturn Biden's win at the Supreme Court"
-    excerpt: "Texas' bid to overturn Biden's win at the Supreme Court \"This case is hopeless,\" said SCOTUSblog publisher Tom Goldstein, who argues frequently before the court. President Donald Trump calls it \"the big one,"
-    publishedDateTime: 2020-12-10T00:17:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/5-glaring-problems-texas-bid-overturn-biden-s-win-u-n1250606"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250606"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250606"
+  - title: "House chairman endorses Flournoy to be Biden's Secretary of Defense nominee "
+    excerpt: "The Democratic chairman of the House Armed Services Committee, Rep. Adam Smith, is backing Michele Flournoy to be President-elect Joe Biden's pick for Defense Secretary, saying Monday she is \"hands down\" the most qualified person for the job.\n    \n"
+    publishedDateTime: 2020-12-07T21:52:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZKXq6xUSRU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/adam-smith-endorses-flournoy-biden-secretary-of-defense/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
+      name: CNN
+      domain: cnn.com
+    quality: 172
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434566/201209-donald-trump-jm-1603_f57dd82fbced153aa6bcd2fbae9f2b3a.jpg"
-        width: 2500
-        height: 1607
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107105730-michele-flournoy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden selects Becerra as secretary of Health and Human Services"
+    excerpt: "WASHINGTON — President-elect Joe Biden has selected California Attorney General Xavier Becerra to serve as his secretary of Health and Human Services, choosing an experienced politician to help oversee the government’s response to the coronavirus pandemic,"
+    publishedDateTime: 2020-12-06T23:53:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/06/biden-selects-becerra-as-secretary-of-health-and-human-services-1342516"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "2/JFip0pzRxKclB17ZP1LR3O31dj/f+GjPZUuYtx8mGBNhga2Tc3gZCRuRpSz0rRqZlR4MLtCyKt8G56gBfHHuxQEgCGHUYOJ3fd5TUnsvtFV+XnUQDuQ+tpjfoBhiv8XIev+gRPIDajfpX1vLaErYaAZ0m/G1Y5fHBJiQiHMdzYsVObUaUa5Kr8TqZ31lZEnEjSLYlJEwDdy8bMXXJpdcm6Hb+PvxCAVugsuaog0JpZm2BxBnOGIXr9MjsAl3clDEKXmdt6avmoiYUa2v6NSvS+KO3t/giH15mUwFX+dmt8TzQ1BMoFPatgOs3tpD7JMHZJao328yzGr81q9P1XMVgCK0nNv/yYWCJthyIGAWs=;y66Ti6xVsYyJzgKa8FyQww=="

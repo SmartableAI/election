@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majorit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 354
+published: true
 
 provider:
   name: CNN
@@ -31,211 +31,149 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on Trump administration distributing vaccine: 'There is no detailed plan' "
-    excerpt: "President-elect Joe Biden said Friday that the Trump administration had shared information with his transition team about distributing a vaccine to various states, but Biden said his team had not seen a \"detailed plan.\"\n    \n"
-    publishedDateTime: 2020-12-04T20:44:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOVMIb1D9Yw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+  - title: "READ: Mitch McConnell's floor speech congratulating President-elect Biden"
+    excerpt: "Senate Majority Leader Mitch McConnell recognized Joe Biden's victory on Tuesday in a floor speech, where he congratulated the President-elect but also praised Donald Trump's presidency.\n    \n"
+    publishedDateTime: 2020-12-15T17:11:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lloSgAao-P4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration must accept new DACA applications, judge orders"
-    excerpt: "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n"
-    publishedDateTime: 2020-12-04T22:38:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
+  - title: "Biden wrestles with politics in effort to depoliticize the Justice Department "
+    excerpt: "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n"
+    publishedDateTime: 2020-12-04T11:03:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "What you need to know about Biden's nominees"
-    excerpt: "President-elect Joe Biden has moved swiftly to build out his administration since his election last month, and has named several people to top roles in his Cabinet and other key posts.\n    \n"
-    publishedDateTime: 2020-12-09T18:03:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdB85qBLaj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+  - title: "Inauguration committee says Biden's scaled-down swearing-in will include 'vigorous health and safety protocols'"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office at the US Capitol in January during a significantly scaled-down inauguration ceremony that will implement \"vigorous health and safety protocols,\" the Presidential Inaugural Committee said Tuesday.\n    \n"
+    publishedDateTime: 2020-12-15T17:55:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xQYc3EvnfX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/biden-harris-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/biden-harris-inauguration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209105126-biden-cabinet-announcement-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204050014-biden-harris-split-1204-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden announces slate of new Cabinet and top administration picks"
-    excerpt: "President-elect Joe Biden on Thursday announced a slate of new Cabinet nominees and picks for top roles in his administration, including Denis McDonough for secretary of Veterans Affairs, Tom Vilsack for Agriculture secretary and Marcia Fudge for secretary of Housing and Urban Development.\n    \n"
-    publishedDateTime: 2020-12-10T17:58:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_L4ak3Jg-Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden expected to introduce Cabinet nominees and top admin roles Friday"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce several Cabinet nominees and other top administration roles on Friday at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-11T16:19:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oIu8GnsWGcs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211024402-02-time-poy-joe-biden-kamala-harris-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
-    excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
-    publishedDateTime: 2020-12-02T01:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/arizona-governor-becomes-latest-trump-target-after-certifying-biden-s-n1249549"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249549"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249549"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3432215/201201-doug-ducey-jm-1315_ccc9214d85bd81690c88ec066db05fb6.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden Criticizes Trump on Vaccine Distribution and Pledges to Pick Up Pace"
-    excerpt: "Three weeks from taking office, Joe Biden called vaccinating Americans “the greatest operational challenge we’ve ever faced as a nation” and offered a bleak assessment of the months ahead."
-    publishedDateTime: 2020-12-30T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 148
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/29/us/politics/29dc-biden/29dc-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "As Deadline Lapses, Trump Administration Continues TikTok Talks"
-    excerpt: "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,"
-    publishedDateTime: 2020-12-05T02:07:00Z
-    webUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch live: Biden introduces key members of his administration"
-    excerpt: "Watch live coverage as President-elect Joe Biden and Vice President-elect Kamala Harris hold an event to introduce nominees and appointees for their administration."
-    publishedDateTime: 2020-12-11T17:51:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-introduces-key-members-of-his-administration-97548357679"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97548357679"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97548357679"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_econ_nom.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump administration hands over new data on families separated at border"
-    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
-    publishedDateTime: 2020-12-04T00:21:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Calls grow for Trump administration to stop execution of Brandon Bernard"
-    excerpt: "NBC News’ Erik Ortiz reports on the growing calls from lawmakers and celebrities, including Kim Kardashian, for the Trump administration to stop the execution of Brandon Bernard who was 18 at the time of his crime."
-    publishedDateTime: 2020-12-11T02:09:00Z
-    webUrl: "https://www.nbcnews.com/now/video/calls-grow-for-trump-administration-to-stop-execution-of-brandon-bernard-97517637773"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97517637773"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97517637773"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_execution_201210_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Experts, advocates pressure Biden administration to reunite separated migrant families"
-    excerpt: "NBC News’ Julia Ainsley reports on how advocates and mental health experts are urging the Biden administration to commit to reuniting the migrant families separated at the border during the Trump administration."
-    publishedDateTime: 2020-12-11T00:51:00Z
-    webUrl: "https://www.nbcnews.com/now/video/experts-advocates-pressure-biden-administration-to-reunite-separated-migrant-families-97507909806"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97507909806"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97507909806"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_migrant_201210_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Will the Biden administration really look like America?"
-    excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
-    publishedDateTime: 2020-12-04T17:30:00Z
-    webUrl: "https://www.politico.com/newsletters/women-rule/2020/12/04/will-the-biden-administration-really-look-like-america-491062"
+  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
+    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
+    publishedDateTime: 2020-12-14T21:55:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 147
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
+    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
+    publishedDateTime: 2020-12-14T03:20:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
+    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
+    publishedDateTime: 2020-12-11T14:30:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
+    excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."
+    publishedDateTime: 2020-12-03T09:49:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act."
+    excerpt: "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,"
+    publishedDateTime: 2020-12-12T09:33:00Z
+    webUrl: "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250554"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "In leaked recording, Biden says GOP used defund the police to 'beat the living hell' out of Democrats"
+    excerpt: "President-elect Joe Biden appeared to blame the \"Defund the Police\" movement for contributing to surprising Democratic downballot losses in the November election, telling civil rights leaders this week that they should proceed carefully on criminal justice issues."
+    publishedDateTime: 2020-12-10T19:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/leaked-recording-biden-says-gop-used-defund-police-beat-living-n1250757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250757"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434875/201210-joe-biden-ew-323p_fa242b6345a3492961d3c49904198d21.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "OY4L6d/u5uNbsiFPTaqRCpdiQqG958mIMJrOmVdUek4xmydZt8hfmAosq/n1kTck+kqkn/KU1nQi8vO/zW1ol4UQq3lJZcWGe1VJ7lGWD5vENZvyK0kxq4VSshr9Vv55n9FGsJQ9+oX3OtfLkzdKgcF52xPLGbiy/4kwsDRHgbc9DG0wfxzNRNPpmDJmi106F3B/yTPCS4a289UEhFpUaVuNeh+mjT0ZauBl7BR8rAJexdObjIOcRkGJqqHLr0N1HwQMHM2Whk18gzK+joUUwsUNlO+cGIN0OHp2sYYd7vKIkymY87DMyKgg7MdsxUqqXF46Z2kqboZ4WRNpyIQB2FeSyk2XT/fwLygCy3ds5P0=;g6+Lcg19t1fzUiOoPgReCA=="

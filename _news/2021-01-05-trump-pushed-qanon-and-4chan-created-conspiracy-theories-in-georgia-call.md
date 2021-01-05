@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he hopes Pence 'comes through' while he rallies for Georgia senators"
-    excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
-    publishedDateTime: 2021-01-05T04:50:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R7YMrWH5xBk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 196
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104214240-04-donald-trump-dalton-ga-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump and Hawley set off Republican meltdown with Georgia elections looming"
     excerpt: "President Donald Trump is stoking division in the Republican ranks days before control of the Senate -- and the balance of power in Washington -- is decided in a pair of runoff elections in Georgia.\n    \n"
     publishedDateTime: 2021-01-02T11:11:24Z
@@ -144,6 +128,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Georgia votes, Trump tries to destroy America's faith in democracy"
+    excerpt: "Desperate, deluded and dangerous, President Donald Trump drove America deeper into a political abyss on Monday night in his zeal to steal an election he lost and to destroy faith in the democracy that fairly ejected him from office.\n    \n"
+    publishedDateTime: 2021-01-05T09:52:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EgxJDEaaKEE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104214240-04-donald-trump-dalton-ga-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judge rejects another Trump attempt to decertify Georgia votes"
+    excerpt: "A federal judge in Georgia denied yet another attempt by President Donald Trump to decertify its presidential election results and President-elect Joe Biden's victory.\n    \n"
+    publishedDateTime: 2021-01-05T18:26:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNRqh84ONDk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/judge-trump-decertify-votes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/judge-trump-decertify-votes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105120818-03-georgia-early-voting-1214-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia Republicans stick with Trump and support increased direct payments"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler both announced Tuesday that they support an effort to amend the recently passed omnibus spending bill to increase direct payments for Americans under a certain income level from $600 to $2,000.\n    \n"
     publishedDateTime: 2020-12-29T17:03:35Z
@@ -157,38 +173,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
-    excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
-    publishedDateTime: 2021-01-03T17:19:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ckea81hJeXs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/georgia-election-brad-raffensperger-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump set for Georgia rally as GOP officials brace for post-phone call fallout"
-    excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
-    publishedDateTime: 2021-01-04T16:19:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R7YMrWH5xBk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-rally/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -221,22 +205,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130161114-raffensperger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read the full transcript and listen to Trump's audio call with Georgia secretary of state "
-    excerpt: "CNN has obtained the full January 2 audio call between President Donald Trump and Georgia Secretary of State Brad Raffensperger. Trump is joined on the call by White House chief of staff Mark Meadows and several lawyers.\n    \n"
-    publishedDateTime: 2021-01-04T02:22:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQXwjuC7C_4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/trump-brad-raffensperger-phone-call-transcript/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/trump-brad-raffensperger-phone-call-transcript/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103150627-trump-raffensperger-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -319,22 +287,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_53/3439270/210103-donald-trump-jm-1333_78a4f783db996bd0c33a419cd5fe47a3.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Trump Call to Georgia Official Might Violate State and Federal Law"
-    excerpt: "The president’s demand for action to overturn the result of the election in the state raised questions about whether he violated election fraud statutes, lawyers said, though a charge is unlikely."
-    publishedDateTime: 2021-01-04T00:22:00Z
-    webUrl: "https://www.nytimes.com/2021/01/03/us/politics/trump-call-georgia.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/03/us/politics/trump-call-georgia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/03/us/politics/trump-call-georgia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-trump-legal/03dc-trump-legal-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Trump and Georgia candidates jockey to define the stakes of Tuesday’s runoffs"
     excerpt: "A last-minute scramble for messaging takes place ahead of a presidential rally and an election that will determine which party controls the Senate."

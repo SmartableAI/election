@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-awards-nunes-with-medal-of-fr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk.amp"
 type: article
 quality: 163
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "White House responds to report suggesting Trump will head to Scotland before inauguration"
+    excerpt: "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration."
+    publishedDateTime: 2021-01-05T05:04:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "P1JXxEK1B0aJI2CWlNiKRWVVPf7osZXykJc5CbaQ3/+TnjXoBwUQQiQ+pG0ejGNhx05Ecy05mqrs+wFXXeFIav2+9e1dwXcwS31l3OEev+9jHWpya6OuxRT2r9Y5cgXpPGyAt1nkO/BqWpTloqwQbEMJuA4FqP4BdRcLYZMQl10H/sQu5nsfyaCBcFEDFtfw+/DEEkctbo9zKePR++pResI6dGpzI9nJhgMwsgDM2lTSE49oKgNIh+xYeNrUoMSMWmRHQCyU96MwzuZVbHcvHlbuaJ5YjPj8yPC0xDwGGw3bXcWBM+Rw4zVWZN2X6Tvvlu9jCspVlhf01I1ycZwPAEE2lHdohOpCSEAIqrxxXzo=;8r/b0pcunnOIQQY/p7AzQQ=="
 ---

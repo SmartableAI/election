@@ -32,33 +32,65 @@ images:
     isCached: true
 
 related:
-  - title: "How suing Mike Pence is the last gasp of the 'election fraud' crowd"
-    excerpt: "And rather than just playing the ceremonial role of president of the Senate on January 6, Pence was empowered to choose which electors are \"legal,\" which, I suppose, would exclude the electors from states where President-elect Joe Biden won but Trump has falsely suggested there was fraud,"
-    publishedDateTime: 2020-12-29T10:25:00Z
-    webUrl: "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html"
+  - title: "Pence 'welcomes' congressional Republicans' bid to challenge electoral votes"
+    excerpt: "Vice President Mike Pence on Saturday signaled his support for a bid by Republicans lawmakers to challenge electoral votes when Congress is expected to certify President-elect Joe Biden's victory in a meeting this week.\n    \n"
+    publishedDateTime: 2021-01-03T16:26:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5A_PrrqLuRM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 150
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229110145-01-mike-pence-1216-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge throws out Gohmert suit aimed at empowering Pence to overturn 2020 election results"
-    excerpt: "A federal judge has tossed out a GOP-led lawsuit aimed at empowering Vice President Mike Pence to unilaterally overturn President-elect Joe Biden’s victory, contending that the plaintiffs — Rep. Louie Gohmert (R-Texas) and 11 Arizona Republicans who would have been electors for Donald Trump — lacked standing to sue."
-    publishedDateTime: 2021-01-02T02:08:00Z
-    webUrl: "https://www.politico.com/news/2021/01/01/louie-gohmert-lawsuit-pence-453387"
+  - title: "GOP senator to delay affirming Biden victory by forcing votes on Electoral College results"
+    excerpt: "Missouri Republican Sen. Josh Hawley said Wednesday he will object when Congress counts the Electoral College votes next week, which will force lawmakers in both the House and Senate to vote on whether to accept the results of President-elect Joe Biden's victory.\n    \n"
+    publishedDateTime: 2020-12-30T16:50:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_V2-E4UXvoI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/josh-hawley-force-votes-electoral-college-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/josh-hawley-force-votes-electoral-college-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy gives green light to conservatives' push to overturn Biden's win, as senior Republicans raise alarms "
+    excerpt: "The top House Republican has quietly blessed an effort by conservative lawmakers to overturn President-elect Joe Biden's victory when a joint session of Congress meets later this week, even as other top congressional Republicans are raising alarms that the push could cause lasting damage to a pillar"
+    publishedDateTime: 2021-01-03T20:23:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BoReS_xoteI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/kevin-mccarthy-republican-push-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/kevin-mccarthy-republican-push-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200611135506-kevin-mccarthy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
+    excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
+    publishedDateTime: 2020-12-31T23:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 121
+    quality: 123
     images:
-      - url: "https://static.politico.com/38/e9/19e5c3f34a0a80d085ec10295880/ap20210686507718-1-1.jpg"
+      - url: "https://static.politico.com/f9/27/baaa8c084e7e96889e5435424831/1231pence.jpg"
         width: 1160
         height: 773
         isCached: true

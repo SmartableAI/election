@@ -2,23 +2,128 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-05-pence-faces-pressure-from-trump-to-thwart-electoral-college-vote.md",
-      "title": "Pence faces pressure from Trump to thwart Electoral College vote",
-      "excerpt": "Vice President Mike Pence's four years of faithful service to his boss, President Donald Trump, will culminate this week in a ceremonial act he's under increasing pressure to thwart.\n    \n",
+      "path": "_news/2021-01-05-trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.md",
+      "title": "Trump puts pressure on Pence ahead of election showdown in Congress",
+      "excerpt": "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump. But regardless of the president’s turning up the volume on his vice president, White House",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cWX4vD7oMo8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cWX4vD7oMo8/index.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 935,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
+      "publishedDateTime": "2021-01-05T10:50:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-asks-judge-to-toss-niece-mary-trumps-conspiracy-laden-lawsuit.md",
+      "title": "Trump asks judge to toss niece Mary Trump’s ‘conspiracy’ laden lawsuit",
+      "excerpt": "President Trump says his niece’s lawsuit against the family is full of “conspiracy theories more befitting a Hollywood screenplay” — and all just part of a plan to make money off of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "originalUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/AP20268626599228.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "publishedDateTime": "2021-01-05T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-analysis-no-mike-pence-cant-steal-the-election-for-trump.md",
+      "title": "Analysis: No, Mike Pence can't steal the election for Trump",
+      "excerpt": "This is it. President Donald Trump's dogged effort to ignore the voters, state election officials, the courts and the Electoral College has come down to his latest wild idea -- that he'll just get Vice President Mike Pence to steal the thing for him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Dk5GdcezfQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Dk5GdcezfQ/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1020,
+      "heat": 1415,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105112259-01-trump-rally-ga-0104-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +133,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/05/politics/mike-pence-donald-trump-electoral-college/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/mike-pence-donald-trump-electoral-college/index.html",
-      "publishedDateTime": "2021-01-05T08:26:26-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html",
+      "publishedDateTime": "2021-01-05T09:33:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -56,6 +161,63 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-new-trump-impeachment-top-democrats-show-no-interest-in-squad-push.md",
+      "title": "New Trump impeachment? Top Democrats show no interest in 'Squad' push",
+      "excerpt": "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats",
+      "originalUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
+      "publishedDateTime": "2021-01-05T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -108,62 +270,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-new-trump-impeachment-top-democrats-show-no-interest-in-squad-push.md",
-      "title": "New Trump impeachment? Top Democrats show no interest in 'Squad' push",
-      "excerpt": "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n7CeMSO9tzQ/trump-impeachment-squad-georgia-raffensperger-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n7CeMSO9tzQ/trump-impeachment-squad-georgia-raffensperger-democrats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
-      "publishedDateTime": "2021-01-05T07:36:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -489,6 +595,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-05-white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.md",
+      "title": "White House responds to report suggesting Trump will head to Scotland before inauguration",
+      "excerpt": "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
+      "publishedDateTime": "2021-01-04T21:04:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-it-is-time-new-york-law-firm-leaders-urge-congress-to-certify-biden-win.md",
       "title": "'It is time': New York law firm leaders urge Congress to certify Biden win",
       "excerpt": "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives.",
@@ -636,25 +798,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-baier-presses-hawley-over-elector-challenge-are-you-arguing-trump-will-be-president-jan-20.md",
-      "title": "Baier presses Hawley over elector challenge: Are you arguing 'Trump will be president' Jan. 20?",
-      "excerpt": "Sen. Josh Hawley, R-Mo., told Fox News Monday night that he intends to challenge slates of electors from a handful of swing states \"to raise the concerns that my constituents have\" about the 2020 presidential election.",
+      "path": "_news/2021-01-05-biden-trump-coronavirus-vaccine-rollout-is-off-to-a-god-awful-start.md",
+      "title": "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'",
+      "excerpt": "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm-Ny8LMe2E/bret-baier-josh-hawley-elector-challenge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm-Ny8LMe2E/bret-baier-josh-hawley-elector-challenge",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 183,
+      "heat": 530,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b35a2672-345b-40da-8e02-a17c39c4dd36/5f64718e-370f-4ef4-9f1b-4ff1343125df/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -662,65 +824,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp",
-      "publishedDateTime": "2021-01-04T18:25:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-growing-body-of-evidence-that-covid-19-leak-from-chinese-lab-a-credible-possibility-trump-official-claims.md",
-      "title": "'Growing body of evidence' that COVID-19 leak from Chinese lab a 'credible possibility,' Trump official claims",
-      "excerpt": "Deputy National Security Adviser Matthew Pottinger made the claim in a virtual conference call with British lawmakers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f03e09b3-650c-4fb5-9d3f-171e055fea2b/a5c1edae-c5a0-4caa-813e-9e6533b35597/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp",
-      "publishedDateTime": "2021-01-04T16:29:21-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "publishedDateTime": "2021-01-04T17:32:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1012,25 +1118,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-04-trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk.md",
-      "title": "Trump awards Nunes with Medal of Freedom for pursuing 'the Russia Hoax at great personal risk'",
-      "excerpt": "The White House lauded Nunes’ \"courageous actions\" in a statement Monday, claiming he \"helped thwart a plot to take down a sitting United States president.\" ",
+      "path": "_news/2021-01-04-its-a-dark-place-trumps-call-a-window-into-a-president-consumed.md",
+      "title": "'It's a dark place': Trump's call a window into a President consumed",
+      "excerpt": "President Donald Trump had been trying for weeks to get Georgia's secretary of state on the phone.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PTZgN7HSBTU/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PTZgN7HSBTU/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AAxwl3_SB1A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AAxwl3_SB1A/index.html",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 163,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c902c9c-970c-4aac-a10b-0344f3d11e29/c7d224fe-4b73-4162-b05b-2cc9077bcf19/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104115130-donald-trump-december-8-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1038,16 +1144,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk.amp",
-      "publishedDateTime": "2021-01-04T12:49:09-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html",
+      "publishedDateTime": "2021-01-04T13:25:11-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1064,7 +1170,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Democratic Voice"
       ]
     },
     {
@@ -1104,6 +1210,63 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
+      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
+      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-280273/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "publishedDateTime": "2021-01-04T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1174,167 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-donald-trump-house-hunts-in-a-surprising-place-which-home-will-he-pick.md",
-      "title": "Donald Trump house hunts in a surprising place — which home will he pick?",
-      "excerpt": "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-liststory-rdc-donald-trump-palm-beach-house-hunting-20210104-zhzyjuta6jh27dv47xvoeebebi-list.html",
-      "originalUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-liststory-rdc-donald-trump-palm-beach-house-hunting-20210104-zhzyjuta6jh27dv47xvoeebebi-list.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/j78sicOE8zZ2qxbXI1iTabt-WMo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YFZRIGJ2L5CLZKHDQVX2SCVOSU.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-pressure-on-georgia-election-official-puts-spotlight-on-pence-other-top-republicans.md",
-      "title": "Trump pressure on Georgia election official puts spotlight on Pence, other top Republicans",
-      "excerpt": "President Donald Trump's call to pressure a Georgia election official threatened to exacerbate a schism among top Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2755,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-01-gty-jc-210104_1609778952307_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "publishedDateTime": "2021-01-04T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-biden-to-campaign-in-georgia-ahead-of-runoff-elections.md",
-      "title": "Biden to campaign in Georgia ahead of runoff elections",
-      "excerpt": "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 630,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html",
-      "publishedDateTime": "2021-01-04T08:27:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

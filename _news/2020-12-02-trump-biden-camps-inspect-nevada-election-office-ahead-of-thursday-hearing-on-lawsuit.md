@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-camps-inspect-nevada-el
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
 type: article
 quality: 197
-heat: 337
+heat: 377
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/409efce1-a8af-4acf-85e9-aafda7d496b8/8e5cb760-5c18-487a-a1e4-1d048115f17b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
+    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
+    publishedDateTime: 2020-12-03T19:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -140,6 +156,22 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
+    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
+    publishedDateTime: 2020-12-03T20:13:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

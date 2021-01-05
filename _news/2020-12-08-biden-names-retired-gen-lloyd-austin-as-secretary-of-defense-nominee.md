@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 395
 published: true
 
 provider:
@@ -47,19 +47,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Expect a White House deep clean when Biden moves in "
-    excerpt: "When the White House welcomes a new first family it gets a thorough cleaning in the five hours allotted for the turnover. But with a global pandemic raging -- and an outgoing President whose orbit is rife with people shunning public health guidelines and coming down with Covid-19, this January 20 is"
-    publishedDateTime: 2020-12-10T18:17:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qpeAGoO10hU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
+  - title: "Biden expected to introduce Cabinet nominees and top admin roles Friday"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce several Cabinet nominees and other top administration roles on Friday at an event in Wilmington, Delaware.\n    \n"
+    publishedDateTime: 2020-12-11T16:19:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oIu8GnsWGcs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210125211-restricted-white-house-cleaning-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211024402-02-time-poy-joe-biden-kamala-harris-1107-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -76,22 +76,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden faces Democratic pushback over waiver to allow retired general to lead Pentagon "
-    excerpt: "Senate Democrats are uneasy about granting a rarely invoked waiver that would allow President-elect Joe Biden's pick of retired Gen. Lloyd Austin to head the Defense Department, the first nominee to encounter resistance from senators in the incoming President's own party.\n    \n"
-    publishedDateTime: 2020-12-08T19:57:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUaJV1l4cV8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,22 +127,6 @@ related:
         width: 1161
         height: 773
         isCached: true
-  - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
-    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
-    publishedDateTime: 2020-12-12T16:31:00Z
-    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "As Biden Prepares to Take Office, a New Rush at the Border"
     excerpt: "The president-elect has promised a more humane border policy. But devastated economies and natural disasters in Latin America have fueled a spike in migration that could make pledges hard to keep."
     publishedDateTime: 2020-12-13T20:50:00Z
@@ -175,19 +143,19 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
-    excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
-    publishedDateTime: 2020-12-09T10:55:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+  - title: "Investigation of His Son Is Likely to Hang Over Biden as He Takes Office"
+    excerpt: "Unless the Trump Justice Department clears Hunter Biden, the new president will confront the prospect of his own administration handling an inquiry that could expose his son to criminal prosecution."
+    publishedDateTime: 2020-12-11T01:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 133
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10dc-investigate1/10dc-investigate1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -220,20 +188,6 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
-        isCached: true
-  - title: "Biden to campaign in Atlanta"
-    excerpt: "And, yeah, I just think that’s something that we’re looking to see is, it’s something that I hope will be pushed.” BIDEN will travel to Atlanta on Tuesday for JON OSSOFF and RAPHAEL WARNOCK. VP MIKE PENCE will be in Georgia for a rally today."
-    publishedDateTime: 2020-12-10T11:13:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/10/biden-to-campaign-in-atlanta-491110"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f5/13/5df7571442f1ae4d5fb0b76da76f/201210-biden-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "California labor secretary in serious contention for Biden cabinet"
     excerpt: "California's labor secretary began her legal career fighting for Thai garment workers held captive in a Los Angeles sweatshop. Decades later, she's in serious contention to join the Biden administration as secretary of the U."

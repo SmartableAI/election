@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-20
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: Politico
@@ -32,83 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden wrestles with politics in effort to depoliticize the Justice Department "
-    excerpt: "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n"
-    publishedDateTime: 2020-12-04T11:03:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
+  - title: "Joe Biden Wears a ‘Kick Me’ Sign"
+    excerpt: "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration."
+    publishedDateTime: 2020-12-18T03:51:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden Says He Wants to Stand Up for Democracy. Here’s Where to Start."
-    excerpt: "President-elect Joe Biden has pledged to put democracy back on the agenda after four years of  Trump’s unapologetic coddling of dictators. Mr. Biden has promised to hos"
-    publishedDateTime: 2020-12-07T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/07/opinion/07hanna-01/07hanna-01-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material"
-    excerpt: "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall."
-    publishedDateTime: 2020-12-03T22:36:00Z
-    webUrl: "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 129
-    images:
-      - url: "https://static.politico.com/2f/86/c701e1f14b4b8695d6566e23a04f/ap120767208216.jpg"
+      - url: "https://static.politico.com/e3/5e/3ba27c9c4f00b80e8b1e6788411a/ap20350034179902-1-c.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "In leaked recording, Biden says GOP used defund the police to 'beat the living hell' out of Democrats"
-    excerpt: "President-elect Joe Biden appeared to blame the \"Defund the Police\" movement for contributing to surprising Democratic downballot losses in the November election, telling civil rights leaders this week that they should proceed carefully on criminal justice issues."
-    publishedDateTime: 2020-12-10T19:11:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/leaked-recording-biden-says-gop-used-defund-police-beat-living-n1250757"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250757"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250757"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 120
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434875/201210-joe-biden-ew-323p_fa242b6345a3492961d3c49904198d21.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "BAKER sends back POLICE REFORM bill — CLARK presses BIDEN on plastics — ROLLINS on U.S. ATTORNEY buzz"
-    excerpt: "He's not in office yet, but Rep. Katherine Clark is already calling on President-elect Joe Biden to address the world's \"indisputable plastic pollution crisis.\" Clark penned a letter with Oregon Sen."
-    publishedDateTime: 2020-12-11T12:30:00Z
-    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 100
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "X8nr9HfOt9+bh/jrf1VuxFzGVTGhBnxG0g1O2r2ChlyJQCZXcUMqiMl7DNHxE6XkPVqh250PuAwgLOrxVLuEKzmA0q4UYBU/zfM019eEIwGquiWSnNC2tSlwnfabOjf6EIIdgYNsKCG0aiK4pU5eKGLoydSLXzzdFeszZhTMXpDrKj0E9wqPuRvN2F1QJS8SY+MzK25dQpapUUhsYYyEF1I5OPaUINb+B/ZjoLGbN8EHCGYRg4ijmdsKwkwdyFR50vT+/hBlXZo4O2+kTTv4lA5JPpoM0QG5RRWji0xwtjBEWGxftcE4g1feP5GRmXixZuVelgR9U/WVL1SCWvlkzbXfV5OL8dRbkjmlKl5Z3oHdgazoiGtiQVbjDOPn5TcCmKKCpSZ+ZfblZiTxLDcjjPUEFJfcDKpYFd7aaRLxsOhzO8ANF2l06kdzmNgGCpbHXx+ApuwVdZtzaidLcrcM/n5ETv9tt1S6pZM2nFC23pmviutkl2S0rQJ+0ccpuQW+Pdpsj7NL1CeZC7vrXWfHfA==;tgemI/MYw5Ya0t74DY7m7g=="

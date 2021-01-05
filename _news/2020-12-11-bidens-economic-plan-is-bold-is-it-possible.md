@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's pick to lead Pentagon faces questions about whether he's right for the job"
+    excerpt: "President-elect Joe Biden's choice to lead the Pentagon is already facing critics, who question his judgment while he served as the top US commander in the Middle East, an issue that could complicate Gen. Lloyd Austin's path to confirmation.\n    \n"
+    publishedDateTime: 2020-12-10T22:10:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/foB3oIw40yk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/austin-confirmation-challenges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/austin-confirmation-challenges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser"
     excerpt: "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n"
     publishedDateTime: 2020-12-10T16:03:33Z
@@ -125,22 +141,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/12/20/books/20BIDENBOOKS/20BIDENBOOKS-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
-    excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
-    publishedDateTime: 2020-12-11T23:27:00Z
-    webUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11DC-JUDGES/11DC-JUDGES-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

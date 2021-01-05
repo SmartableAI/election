@@ -2,6 +2,174 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-28-biden-calls-transition-obstruction-by-defense-department-irresponsible.md",
+      "title": "Biden calls transition ‘obstruction’ by Defense Department irresponsible",
+      "excerpt": "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
+      "publishedDateTime": "2020-12-28T14:57:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-tennessee-governor-expects-trump-to-sign-emergency-declaration-request-were-very-grateful.md",
+      "title": "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'",
+      "excerpt": "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
+      "publishedDateTime": "2020-12-28T10:20:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.md",
+      "title": "McConnell praises Trump for signing COVID-19, government funding bills",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
+      "publishedDateTime": "2020-12-28T01:55:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-908-coalition-of-bipartisan-bicameral-lawmakers-tell-trump-to-sign-relief-package-or-veto-it-immediately.md",
       "title": "'908 Coalition' of bipartisan, bicameral lawmakers tell Trump to 'sign relief package or veto it immediately'",
       "excerpt": "A group of bipartisan and bicameral lawmakers, dubbing themselves the “908 Coalition,” signed a public letter on Sunday, urging President Donald Trump to sign a much-needed COVID-19 emergency relief package or “veto it immediately.”",
@@ -114,23 +282,23 @@
       ]
     },
     {
-      "path": "_news/2020-12-27-trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.md",
-      "title": "Trump accuses McConnell, others in GOP of failing to fight for him",
-      "excerpt": "President Trump on Saturday accused Senate Majority Leader Mitch McConnell and other Republicans of failing to fight on his behalf regarding the outcome of the 2020 presidential election – which Trump continues to argue was \"Rigged & Stolen.\"",
+      "path": "_news/2020-12-26-rep-kinzinger-swipes-at-trump-fellow-house-gop-for-denying-election-loss-its-sad.md",
+      "title": "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'",
+      "excerpt": "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p17WdhLCJts/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p17WdhLCJts/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 322,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/trump-mcconnell-split.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1",
           "width": 640,
           "height": 320,
           "title": null,
@@ -140,9 +308,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.amp",
-      "publishedDateTime": "2020-12-27T01:22:33-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "publishedDateTime": "2020-12-26T11:10:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -351,7 +519,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 555,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -391,63 +559,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-trump-lawyers-get-little-backup-from-their-firms-or-universities.md",
-      "title": "Trump Lawyers Get Little Backup From Their Firms or Universities",
-      "excerpt": "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "originalUrl": "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-277452/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "publishedDateTime": "2020-12-25T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -508,6 +619,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
+      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
+      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "publishedDateTime": "2020-12-24T10:23:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.md",
       "title": "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock",
       "excerpt": "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday.",
@@ -520,7 +687,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 238,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -650,62 +817,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
       "publishedDateTime": "2020-12-24T02:51:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.md",
-      "title": "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 390,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp",
-      "publishedDateTime": "2020-12-24T01:48:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -969,7 +1080,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1081,7 +1192,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 248,
+      "heat": 348,
       "tags": null,
       "images": [
         {
@@ -1250,7 +1361,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 302,
+      "heat": 402,
       "tags": null,
       "images": [
         {
@@ -1346,6 +1457,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-trump-will-face-different-twitter-rules-when-he-leaves-office.md",
+      "title": "Trump Will Face Different Twitter Rules When He Leaves Office",
+      "excerpt": "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "originalUrl": "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-274855/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "publishedDateTime": "2020-12-22T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1491,175 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
       "publishedDateTime": "2020-12-21T13:18:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.md",
-      "title": "Harris says ‘everything is at stake’ in Georgia’s twin Senate runoff elections",
-      "excerpt": "Vice president-elect Kamala Harris headlines a rally for Democratic candidates Jon Ossoff and Raphael Warnock in Columbus, Georgia in the state's twin Senate runoff elections.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6PkB0-WfvPc/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6PkB0-WfvPc/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 316,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-everything-is-at-stake-in-georgias-twin-senate-runoff-elections.amp",
-      "publishedDateTime": "2020-12-21T12:42:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-chris-christie-wont-rule-out-challenging-trump-in-2024.md",
-      "title": "Chris Christie won't rule out challenging Trump in 2024",
-      "excerpt": "Former two-term New Jersey Gov. Chris Christie says he wouldn’t rule out another presidential bid even if his longtime friend President Trump launches a 2024 run to try to return to the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqSJNmbibe8/chris-christie-trump-2024-presidential-run",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqSJNmbibe8/chris-christie-trump-2024-presidential-run",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp",
-      "publishedDateTime": "2020-12-21T12:08:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-maxine-waters-says-congress-missed-opportunity-to-impeach-trump-for-treason.md",
-      "title": "Maxine Waters says Congress 'missed opportunity' to impeach Trump 'for treason'",
-      "excerpt": "Rep. Maxine Waters, D-Calif., said Sunday that Congress missed the opportunity to impeach President Trump for treason.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSYwdn9zgow/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSYwdn9zgow/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Putin-drinking.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
-      "publishedDateTime": "2020-12-21T09:54:09-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

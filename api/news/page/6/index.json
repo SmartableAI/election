@@ -2,6 +2,383 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-27-health-care-policing-and-same-sex-marriage-joe-bidens-domestic-policy-answers.md",
+      "title": "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers",
+      "excerpt": "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidendomestic_20122700__738195.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo98420293932",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98420293932",
+      "publishedDateTime": "2020-12-27T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.md",
+      "title": "Ilhan Omar slams Trump for 'disgraceful' pardons of Blackwater guards",
+      "excerpt": "President Trump’s pardon of four Blackwater guards convicted in the killing of 14 Iraqi civilians was \"disgraceful,\" Rep. Ilhan Omar, D-Minn., asserted Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q0YODziVo1Q/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q0YODziVo1Q/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b45d6986-056f-4590-a12b-c4e41d83ca66/02deafa1-9ac6-49ee-98ed-11f9426e817c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.amp",
+      "publishedDateTime": "2020-12-27T01:41:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-trump-is-threatening-iran-and-biden-says-the-pentagon-is-stonewalling-him-on-many-things-with-less-than-a-month-until-his-inauguration.md",
+      "title": "Trump is threatening Iran, and Biden says the Pentagon is stonewalling him on 'many things' with less than a month until his inauguration",
+      "excerpt": "Lame-duck presidents typically wouldn't dream of threatening war in their final days. But Trump is anything but typical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe4f568a644880018193593?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
+      "publishedDateTime": "2020-12-26T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-gop-lawmaker-asks-trump-to-pardon-ex-congressman-calls-doj-corrupt-and-inept.md",
+      "title": "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'",
+      "excerpt": "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400",
+      "originalUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1675257/rep-paul-gosar.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1",
+      "publishedDateTime": "2020-12-26T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-mnuchins-loyalty-to-trump-could-end-with-painful-setback-as-president-shreds-stimulus-deal.md",
+      "title": "Mnuchin’s loyalty to Trump could end with painful setback as president shreds stimulus deal",
+      "excerpt": "Democrats and Republicans had thought Mnuchin was speaking for the president in negotiating the $908 billion pact, but Trump quickly called it a “disgrace.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/",
+      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GIKNNXUS4QI6VB5DELJSII2WGY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp",
+      "publishedDateTime": "2020-12-26T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-rep-kinzinger-swipes-at-trump-fellow-house-gop-for-denying-election-loss-its-sad.md",
+      "title": "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'",
+      "excerpt": "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "publishedDateTime": "2020-12-26T11:10:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-trump-slams-us-fashion-magazines-for-not-giving-melania-a-single-cover-shoot-while-he-has-been-in-office.md",
+      "title": "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office",
+      "excerpt": "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
+      "publishedDateTime": "2020-12-26T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-26-trump-doubles-down-on-defense-bill-veto-calls-it-a-gift-to-china-russia-big-tech.md",
       "title": "Trump doubles down on defense bill veto, calls it a 'gift to China, Russia & Big Tech'",
       "excerpt": "President Trump on Saturday defended his veto of the National Defense Authorization Act, calling it a \"travesty\" and again claiming it is a \"gift\" to China, Russia and Big Tech companies.",
@@ -287,7 +664,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 555,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -343,7 +720,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -436,63 +813,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-trump-lawyers-get-little-backup-from-their-firms-or-universities.md",
-      "title": "Trump Lawyers Get Little Backup From Their Firms or Universities",
-      "excerpt": "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "originalUrl": "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-277452/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200",
-      "publishedDateTime": "2020-12-25T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -817,6 +1137,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
+      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
+      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "publishedDateTime": "2020-12-24T10:23:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.md",
       "title": "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock",
       "excerpt": "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday.",
@@ -829,7 +1205,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 238,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -960,382 +1336,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with.amp",
       "publishedDateTime": "2020-12-24T03:23:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-iran-foreign-minister-dismisses-trumps-tweet-that-tehran-behind-attack-on-us-embassy-in-baghdad.md",
-      "title": "Iran foreign minister dismisses Trump's tweet that Tehran behind attack on U.S. Embassy in Baghdad",
-      "excerpt": "Iran’s foreign minister on Thursday dismissed U.S. President Donald Trump’s allegations that Iran was behind the recent rocket attack on the U.S. Embassy in Baghdad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
-      "originalUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545642257&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN0A1",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Y0JA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y0JA",
-      "publishedDateTime": "2020-12-24T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.md",
-      "title": "Trump issues stern warning to Iran after rocket attack on US Embassy in Baghdad",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E5zqiMcWaoc/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E5zqiMcWaoc/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
-      "publishedDateTime": "2020-12-24T02:51:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.md",
-      "title": "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 390,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp",
-      "publishedDateTime": "2020-12-24T01:48:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-exclusive-as-trump-leaves-office-50-of-americans-see-him-as-a-failed-president.md",
-      "title": "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president",
-      "excerpt": "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3926190001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001",
-      "publishedDateTime": "2020-12-24T01:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-pardons-former-campaign-chairman-manafort-associate-roger-stone.md",
-      "title": "Trump pardons former campaign chairman Manafort, associate Roger Stone",
-      "excerpt": "U.S. President Donald Trump on Wednesday granted pardons to former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions under the long-running Russia election probe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trump-pardons-idUSKBN28Y087",
-      "originalUrl": "https://www.reuters.com/article/usa-trump-pardons-idUSKBN28Y087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545625287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN03O",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Y087",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y087",
-      "publishedDateTime": "2020-12-23T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule.md",
-      "title": "'We're going to save lives': aid groups look to end of Trump's 'global gag rule'",
-      "excerpt": "Joe Biden’s election as US president raises reproductive funding hopes – but some caution that reversing rule’s impact will not be quick",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "originalUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7aa3102b9c27418e25e7d050f7935df38c88f1d8/0_208_5310_3186/master/5310.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3b025b0c10b1e6aadf9f1c938bde207",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "publishedDateTime": "2020-12-23T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-abraham-lincoln.md",
-      "title": "Roger Stone reacts to pardon, calls Trump 'greatest president since Abraham Lincoln'",
-      "excerpt": "In his first television interview since being pardoned by President Trump, longtime Republican consultant Roger Stone sounded off on being absolved and praised the president as the greatest since Abraham Lincoln.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFzfYVmDpUk/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFzfYVmDpUk/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aad1b5c-f865-4a8c-b449-bbe0d5fa0729/41d11d9b-8f05-44ae-934e-82fd8ee44704/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-reacts-to-pardon-calls-trump-greatest-president-since-lincoln.amp",
-      "publishedDateTime": "2020-12-23T18:34:54-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

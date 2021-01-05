@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-fro
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
+    excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
+    publishedDateTime: 2020-12-22T18:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-274855/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "NyqR0CRwjljlhiCQ2DAGiWDOjbh6aeAf2rM65TrqVUelG0EW7elJsAgqtF5nJxkZM6QQOSB7HOkSiAOoyd37y2IgaYnnqFkNWz8YRjjU+JRKKnqqBbe6UmAgbaob4NHpsu7y3SSw4RN6QaC+WrDOur0e9V5Yu65G0zyx3nyNvs2ITcqcXKohP7hGd1VXWHcH/W0aCx8Fyut4UiDxP5ZsUYxlfB3NeiFDU45qXNodPR2FiCSMx+pmHB2IY5OIN+ThE+Dn9vhqjfvURSzaffT7iguqcuS44q7vuA6V2ljpCPmOHH0YZMMmzi46ht8zQPN/O30ZQgKdzQblbZKcLjy+iVo9HA0gW85mCcKl7wUwhI9OvRCC53pWTKLobzlIZBeO65SEhj1sW7Jpr0aKs8AOQEPZwdr94hVihpM4qSF0z8dZPKfb9RyF2qM6YldX4csdlW4aNcU1TvvDZS7mBjVD9q3fB8GGFJIg/8YDCrL90RwDQYNvQHhuuFb56b8odUdl7/F+sLFyYwlKfITBv+dB/w==;eZ9JVfXMditLfHPzaTr5FA=="
 ---

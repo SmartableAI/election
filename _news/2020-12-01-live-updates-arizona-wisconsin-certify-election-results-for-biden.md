@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-12-1-2020.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
 type: article
 quality: 190
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20338756509391.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Live Updates: Biden introduces education pick Cardona"
+    excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
+    publishedDateTime: 2020-12-23T19:11:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Xt4emhaP1G7FEPhwoGCE3X9E5gPoEtegg9SFhuYAEJYooVobllzUpUl1yMj2oO37+tdGeWAfx2OooN3VROzxxyS10E9YkW2lDsp2tqS8Cu62hzLAulLcas8PE6Il8S/ntECktanupnOd4yiZfBrj69Uro5vN4lYO3F5IF9obNO3t9l37Tp5Hpp1PIlOiaWJe31cRHE9ayVlSGYc9UJ7Bn7DUtrjNucGDXec6w8PmGWuuVK/AhUEFzAuVSK2sCPQkQncpkDkc5sRQGH1TrA7rQMIKcfl8yjTylkSBTzzIxWCXmoRjP7eA4KNjmMOjeEr3fbV1X71C0Lb7w25UaiiV6QnnZ9FxPTuLHDWzX6wbREE=;HHM28u2Mlg/8V1N5+Q8uIA=="

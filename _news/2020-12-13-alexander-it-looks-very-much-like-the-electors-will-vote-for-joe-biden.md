@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97645637979"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979"
 type: article
 quality: 134
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: NBC News
@@ -30,40 +30,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
-    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
-    publishedDateTime: 2020-12-14T21:55:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 147
-    images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
-    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
-    publishedDateTime: 2020-12-11T14:30:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "pP7Y0utGD4zS9wZYbpvrX0r9DqwN2qjvQKF34Ih6Q9a3vnjK/2kaDlI4JTR1zXKkudQNTYIr0+41kO5J6CjOpQv2n40tlpOdqv+Aqg3nLiqzDWe0jPyKOBFo1Lr1hVhqtIegbH5STn/xzpXPWqjJz7AgyMpUtmcrd5sv9JXysdyMnurerrRSRU9c4R6p2/tpHHoEx7wvSmQCsPA1Pmb3P6q3q73dAjB0LnfY8j0pj35lk7hNfukJObnTGPiVg+ZwdDQD3cT/IC8MGJcIJ9Nn0LRDAWwQx/Q5jgNu1y/i6+JWC+XwQslbynCy9dnoBR1419cAQSSlb5Bo5hsVh1h3Rp8gkrQT6cRbJfRegaU+U2cHjFy3pNg7EsIa865n8myjfebsgzoXu/wF67nQGOMJEGSawbMkAXGeaLaTcmCBhGK5TjoSj4FM+zrw1qj2+ZlJfMMR//wCyRYxg21oq2UbddM7ygNDI6U4fx4Rezxal31JK0IjBwWykic79yQ1raYuw4VaOh/7KFRRvh0x/dMJ+A==;N4aD/CqEOitCPuI1p1sh7Q=="
 ---

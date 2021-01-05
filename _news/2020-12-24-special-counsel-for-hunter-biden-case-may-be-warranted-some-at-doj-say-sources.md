@@ -64,20 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden Must Appoint Secretary of Racial Justice to Cabinet"
-    excerpt: "With President-elect Joe Biden positioned to take office this upcoming January, he has a chance to rewrite history by rebuilding a new type of justice in America The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed,"
-    publishedDateTime: 2021-01-03T13:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/03/biden_must_appoint_secretary_of_racial_justice_to_cabinet_532558.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/530958_5_.jpg"
-        width: 750
-        height: 517
-        isCached: true
 
 secured: "4zeaiB/iKXWeis9Svy+DA/wc1uvMiDImqlgh9gu7tcwP2Ht2GzWkyWmle9YUgK/U+UihBLn6IHpNGZRpw7Er5iUllo+6N5Pqrz0gYN6ly9rG1YC70Xjc1ewUm+BfdnGagjWJR5tWlGUsIKnD758tFSB5VB+3X37iTUWreDjha1+fhwGPNwFBuOBO+tk7S1hPjet6UeL5iDxz2syoB4ZzwYBdS6NSgXwXxEnyyTK3ZDNkT0Dyu/TWjmO48q2hW4ouzVdjkhh5Gc2F8Oefc691kgg+vOFdZggCC+US4uzqPh6qZbUPQ7vXcTK+6YasJfIT9vGVRryb3CBWp7HSYZxZv6YXXkCDLvYc5iTd+7RKtZJt1n1eBsmp5QRxSiuHkSwXcnhw4fK80I6a6lFFMRm+nc3kWyczSXZl2OmlzUj17tUDeXgQDLxonLFTof+zAiVMSxo+K93jxZ4rXsddojCEKPW/se7hkAOL36Vz9jUGnmqw6naKNg/MKU+KQvvSz+f0AXvqPwlQr005yXjwcgWPAA==;T9qKZZK3B3Sr7xYggROIiA=="
 ---

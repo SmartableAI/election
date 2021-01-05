@@ -63,21 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Federal criminal investigation into Hunter Biden focuses on his business dealings in China"
-    excerpt: "President-elect Joe Biden's son, Hunter Biden, said Wednesday in a statement that he learned his tax affairs are being investigated by the US Attorney's Office in Delaware.\n    \n"
-    publishedDateTime: 2020-12-09T21:58:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QOnWTtL1W08/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/hunter-biden-tax-investigtation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/hunter-biden-tax-investigtation/index.html"
+  - title: "Watch live: Biden introduces key members of his administration"
+    excerpt: "Watch live coverage as President-elect Joe Biden and Vice President-elect Kamala Harris hold an event to introduce nominees and appointees for their administration."
+    publishedDateTime: 2020-12-11T17:51:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-introduces-key-members-of-his-administration-97548357679"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97548357679"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97548357679"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209123824-02-hunter-joe-biden-2016-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_econ_nom.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden Picks Latino Chief of Connecticut Schools as Education Secretary"
     excerpt: "Miguel A. Cardona will fulfill Joe Biden’s promise to appoint a diverse cabinet with an education secretary with public school experience."

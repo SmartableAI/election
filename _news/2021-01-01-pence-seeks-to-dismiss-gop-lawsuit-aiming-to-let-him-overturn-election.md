@@ -80,22 +80,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win"
-    excerpt: "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan."
-    publishedDateTime: 2020-12-29T14:36:00Z
-    webUrl: "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gohmert-sues-pence-overturn-biden-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "AheCrv/UhTe7z5im21lM0Fg+kco7JvPgkAOw/YkvdHp+X0EHiBOqcDngfYldGUl9HrF4ltG8fVryA+DkOcuN4xQZLYW9W0OjY8RsvzMqJkdU7IikAx0X6iEnZwW+pYewKyewPFv4smbgxa3Q0Ois6OHfj00eZ9Zwh4SgrqK+Z/JWsgyOHmgF3f7rVD95mQZQpwCskkdjY8oyrJXMbCAZBaXQ+svtXeUeHLJsPFsOWo8J6n8TxRrXSeaE0goeP2zD41/mdG3yFRfNEfBDRjNZglBHTnTcG/DpYqW/EMa9yi54M0YPqWtExeMe9UvAVwPRT80GCc5iE++MtK7r7h8zlF2OPH8HkiPaFF9qkhdiKPo=;6dZK2ErUrL6F8EMltBdvPQ=="
 ---

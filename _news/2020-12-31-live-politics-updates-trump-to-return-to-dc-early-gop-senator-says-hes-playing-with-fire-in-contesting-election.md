@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
 type: article
 quality: 127
-heat: 447
+heat: 467
 published: true
 
 provider:
@@ -282,6 +282,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/28/USAT/2a9a7016-ec61-42b0-9a1f-1b80e7c29194-AP_Virus_Outbreak_Congress.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Michigan Trump supporter headed to election rally in D.C. says ‘We are going with God’"
+    excerpt: "A group of dedicated supporters of President Donald Trump in mid-Michigan are preparing to hit the road Tuesday for an overnight bus trip to Washington, D.C. Instead of going sight-seeing, though, the group plans to join Trump supporters from around the country for a public rally as Congress convenes Wednesday,"
+    publishedDateTime: 2021-01-05T18:43:00Z
+    webUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html"
+    ampWebUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 82
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2CYRIMLMCBHNZPFUOUVBDQIYUI.JPG"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "HAfWllveH+NzdXjvd1LIkfUKoOw3pGCHp5fp7BblQ6RBZLPcpq35tWEZns6kgBtZ8WbyLdRdi3Nc24omZ8ZE0de6plFxWMMk81fY9BZfRmyxDc53UqOpkTBguoYXJcs8MsxJVge4KritysQaZG9rVYAHF4ivBnxbdkM7dZpogdVp5Pe5buC7AKT8XUzYGlUtZBYCK7ltS256tSqk9mpvBD2FIPq/4vYQNkv7jWx1IGYQWdtma6nXydj0oAUQVEFYKLW2jXAnpxC73RxbdvElOaERcmGNgvLwehxDXPX7zowwle79KN0GcHaEX+huaaeyVOC9S8kaV6g8y4rMIryCvCG3Lk516UuL40NqdMqWTIKQJwGjpAsOsMReRlN4nZEp9b/felAm2dtZhEwkF0NDACk9nB8izm+UOqPp+ecvmLWHgsBpwhyxcxNLhatrecp9aZbya/4rpRQVZGYwOb3P7hxmYaFauUH7X7+xlUj2AaGieTy/XeyW9OwyZsadRJvcObKRNx1FvnIFwyKq4qJHPQ==;nrEls3hzQo/AJvHZZHBXqQ=="

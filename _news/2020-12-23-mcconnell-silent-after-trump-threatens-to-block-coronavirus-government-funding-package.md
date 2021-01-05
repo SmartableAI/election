@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
-    excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
-    publishedDateTime: 2020-12-22T03:09:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aX2HxSADYtY/members-of-congress-trump-electoral-college-objections-on-jan-6"
-    ampWebUrl: "https://www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "House set for showdown over Trump demands on stimulus, spending; McConnell mum on potential veto"
     excerpt: "House Democrats and Republicans are set to make dueling \"unanimous consent\" requests on Thursday based on grievances President Trump aired Tuesday night to the massive coronavirus stimulus and government funding package lawmakers sent to his desk — exchanging political barbs as it's still unclear whether"
     publishedDateTime: 2020-12-24T12:20:04Z
@@ -142,38 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
-    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
-    publishedDateTime: 2020-12-19T18:36:00Z
-    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-275358/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
-    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
-    publishedDateTime: 2020-12-21T02:24:00Z
-    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-275358/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
     excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."

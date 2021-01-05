@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-fea
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -280,6 +280,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_fc9e91c267a54ba529f7e2f59370c929-h_91fcd3c81c0d0cb119b2f6ffdc0c4bc4.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Which Texas Republicans in Congress plan to object to certifying Joe Biden’s Electoral College victory?"
+    excerpt: "More than a third of the 25 Texas Republicans in Congress plan to object to the certification of Democrat Joe Biden’s White House victory"
+    publishedDateTime: 2021-01-05T17:18:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/05/which-texas-republicans-in-congress-plan-to-object-to-certifying-joe-bidens-electoral-college-victory/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 39
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LbXccO3V0HDUT3mrZSSCSusJXHc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2G57R5URCEHUMWCRYIGQMRW56A.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "6BR/DgEMnTCbr/X7voBwiUDSRJkCYinj3vCnl36N6m3bGsGmBY7KCnRqJi2HGVLdZQHRbWuu1hGSXnzOXhzJNnkyS4WeOPyfez9WVYn8LzBfGYJQiro9emosM6Yc7VlXWf9n3XXkDVSkmOTh42459YvY+bCip9CJ5VQ4Dg/oUHNVY0IHnet8FCn/KEongD5SWZqiR2SCYOiPQtxZMwDwYeMTAryBbXs3Lg4JH5RPZwcRIj8nMioLU3kWsur+oCB1M2D2Hm1k1M5GvuSJnTkepGhL7an+3i7v9sQZngxksuhWrR2ek2ty/HidobErCAxXPrVpVthCij9Tgd900lKwByWhYZb/VMNPvme3CGdIZbg=;odzBzMZ1xXPCT5MHnJZSew=="

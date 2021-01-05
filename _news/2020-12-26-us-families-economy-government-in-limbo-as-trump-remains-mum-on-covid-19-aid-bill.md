@@ -32,85 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump asks Supreme Court to void Wisconsin election results"
-    excerpt: "Trump’s attorneys filed a motion asking the Supreme Court to consider his case in an expedited manner."
-    publishedDateTime: 2020-12-31T02:54:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lz5c83sLdP8/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24fa9f1d-5516-4ebc-9cc2-6620e729de66/42668e91-b504-45d1-bde0-3625a49f8b0e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign asks Supreme Court to review Wisconsin voter fraud case"
-    excerpt: "The Trump campaign asked for a review before Congress meets to certify the Electoral College's vote on Jan. 6."
-    publishedDateTime: 2020-12-30T00:56:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp"
+  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
+    excerpt: ""
+    publishedDateTime: 2020-12-28T09:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e914d2fa-637f-4dcf-97ef-13291a923fdf/0bd28bcb-b691-4ace-9b8b-7284f1c04ac1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump immigration order restricting guest worker visas set to expire"
-    excerpt: "An executive order signed by President Trump over the summer, which expanded immigration restrictions in an effort to protect the labor market for American workers amid the coronavirus pandemic, is due to expire by the end of the week -- and immigration hawks are urging him to extend it."
-    publishedDateTime: 2020-12-30T21:41:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcHDdmhv0Yw/trump-immigration-order-visas-expire"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0f9774-6462-421e-bd32-a0f3b77bc88b/36f8d087-4aef-458a-b58a-ffcc8022c85e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
-    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
-    publishedDateTime: 2020-12-23T20:42:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump, House Republicans held call to discuss Electoral College rejection: Brooks"
-    excerpt: "House Republicans held a rare Saturday night conference call to address their goal of overturning the Electoral College results on Wednesday, U.S. Rep. Mo Brooks, R-Ala., told Fox News."
-    publishedDateTime: 2021-01-03T02:53:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2vgP48AqhFs/gop-splits-electoral-college-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+  - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
+    excerpt: ""
+    publishedDateTime: 2020-12-24T09:48:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles"
+    excerpt: "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter."
+    publishedDateTime: 2020-12-28T09:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Roger Stone vows to sue lawmaker for claiming he covered up Trump misconduct for clemency"
     excerpt: "Veteran political operative Roger Stone is vowing to sue a Democratic lawmaker, alleging that he falsely accused him of covering for President Trump in order to obtain clemency."
@@ -128,84 +96,159 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "White House responds to report suggesting Trump will head to Scotland before inauguration"
-    excerpt: "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration."
-    publishedDateTime: 2021-01-05T05:04:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
+  - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
+    excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
+    publishedDateTime: 2020-12-22T17:57:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Growing body of evidence' that COVID-19 leak from Chinese lab a 'credible possibility,' Trump official claims"
+    excerpt: "Deputy National Security Adviser Matthew Pottinger made the claim in a virtual conference call with British lawmakers."
+    publishedDateTime: 2021-01-05T00:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f03e09b3-650c-4fb5-9d3f-171e055fea2b/a5c1edae-c5a0-4caa-813e-9e6533b35597/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
+    excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
+    publishedDateTime: 2020-12-22T15:53:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Covid-19 Aid Bill Remains in Doubt as Congress Braces for Showdown With Trump"
-    excerpt: "Unemployment benefits used by millions of Americans lapsed overnight and the government was at risk of shutting down, as lawmakers were poised to face off with President Trump over his objections to sweeping pandemic-aid legislation and a defense-policy bill."
-    publishedDateTime: 2020-12-27T17:18:00Z
-    webUrl: "https://www.wsj.com/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
-    ampWebUrl: "https://www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
+    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
+    publishedDateTime: 2020-12-23T00:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-278361/social"
+      - url: "https://images.wsj.net/im-207060/social"
+        width: 1281
+        height: 670
+        isCached: true
+  - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
+    excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
+    publishedDateTime: 2020-12-26T23:30:00Z
+    webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278316/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "GOP reps gather on conference call with Trump over Electoral College certification rejection"
-    excerpt: "Ala., said Republican congressmen held a rare Saturday night conference call to address their goal of overturning the Electoral College’s votes Jan. 6."
-    publishedDateTime: 2021-01-03T03:11:00Z
-    webUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splits-electoral-college-certification.amp"
+  - title: "Trump says ‘good news’ is coming on COVID-19 relief bill"
+    excerpt: "President Trump on Sunday said “good news” was forthcoming on the $900 billion coronavirus relief bill which he has been refusing to sign. “Good news on Covid Relief Bill."
+    publishedDateTime: 2020-12-28T00:06:00Z
+    webUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/"
+    ampWebUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201227-trump-covid-bill.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Signs Covid-19 Aid Bill Averting Government Shutdown"
+    excerpt: "President Trump signed a sweeping pandemic-aid bill on Sunday night, according to people with knowledge of the matter, ending a standoff with Congress and paving the way for millions of Americans to get economic relief as the coronavirus pandemic surges across the country."
+    publishedDateTime: 2020-12-28T06:10:00Z
+    webUrl: "https://www.wsj.com/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841?mod=hp_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278393/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
+    publishedDateTime: 2020-12-25T05:23:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 124
+    quality: 123
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "House Republicans Splitting Apart From President Trump"
-    excerpt: "Nev., talking about President Donald Trump's call for Congress to increase COVID-19 relief checks for individuals from $600 to $2,000. \"I'm the guy who campaigned for the president, contributed to the president and voted for the president,"
-    publishedDateTime: 2021-01-04T12:47:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/04/house_republicans_splitting_apart_from_president_trump_144957.amp.html"
+  - title: "Trump's Stuning Achievement in Middle East"
+    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
+    publishedDateTime: 2020-12-30T12:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/531282_5_.jpg"
-        width: 750
-        height: 512
-        isCached: true
-  - title: "Trump's Stunning Achievement in Middle East"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-12-30T20:53:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stunning_achievement_in_middle_east_532387.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/525444_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
 
 secured: "NjoHpIBvlNJa8IloVFZxC9ACQQ0ztNWZeLjh5K714bNhnVH/0+b3SN40i/f9lVwr7P/p5cX1JdCDMJkQrBzYCGDOMmNHrPO8HbE9tFTQq5+Q1HJvC2V50tI53qB3/6Ph7JJE/9VkYTcE8wcpKQHXFyUiOb2DGvOu3ysl8t2HgDVLpcSj7J5WPAX9R4LCo9Qohd5ZEutIQFvR5+PtOfRrH40rd+OQSph4kAIqo6UrPuSHr6tKOixUGKgdsy7cGnYlqE56qmOUFeLMDZnQQSPWOxT/RqQ6DOflSv3GrZcWgbAcjvNSAtjHG9KAa6fXi2sFbS6zohf7V5+to9JnwpgUgVQNHhPTqbqoZzpdSeT1BAlsTto6Jy+AQxLNQMhzVHFksEi3iwnI/68PBZYhUedYTV2YH1/fMTWY+C20WeR7rr4346r/Od1OBD9UmF5Xv+gpHuYGf8c20tswd6WVxB/KJoc7VctkBMZh6RxaltdECjC/CgQQNAdudoZRgOggkGH6pHPPTfeAxbryV6it/syyXw==;qXYWuoJaa8gMxbTzmWSOQw=="
 ---

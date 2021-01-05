@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Biden's already more popular than Trump's ever been"
-    excerpt: "Poll of the week: A new Gallup poll finds that President-elect Joe Biden has a 55% favorable rating and a 41% unfavorable rating.\n    \n"
-    publishedDateTime: 2020-12-06T16:48:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WPqpjel5kPY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/biden-trump-popularity-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/biden-trump-popularity-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's window for election subversion is closing"
     excerpt: "President Donald Trump's legal team for weeks has worked to delay the certification of Joe Biden's election win in a long-shot effort to create an opening for Trump stay in power.\n    \n"
     publishedDateTime: 2020-12-08T05:02:07Z
@@ -620,22 +604,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump's grip on GOP may be his greatest feat of political wizardry yet"
-    excerpt: "In his over-the-top bombast and grandiosity, President Donald Trump has always evoked one of the iconic characters in American entertainment.\n    \n"
-    publishedDateTime: 2020-12-06T13:35:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a2L6scSwdD8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/donald-trump-post-election-gop-control/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/donald-trump-post-election-gop-control/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

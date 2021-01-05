@@ -32,211 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on Trump administration distributing vaccine: 'There is no detailed plan' "
-    excerpt: "President-elect Joe Biden said Friday that the Trump administration had shared information with his transition team about distributing a vaccine to various states, but Biden said his team had not seen a \"detailed plan.\"\n    \n"
-    publishedDateTime: 2020-12-04T20:44:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOVMIb1D9Yw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration must accept new DACA applications, judge orders"
-    excerpt: "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n"
-    publishedDateTime: 2020-12-04T22:38:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
+  - title: "Biden introduces Pete Buttigieg as transportation secretary nominee"
+    excerpt: "President-elect Joe Biden will introduce former South Bend, Indiana, Mayor Pete Buttigieg as his nominee for transportation secretary at an event in Wilmington, Delaware on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-17T03:39:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pzpz_blqcT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123723-03-pete-buttigieg-1216-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "What you need to know about Biden's nominees"
-    excerpt: "President-elect Joe Biden has moved swiftly to build out his administration since his election last month, and has named several people to top roles in his Cabinet and other key posts.\n    \n"
-    publishedDateTime: 2020-12-09T18:03:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdB85qBLaj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+  - title: "Biden announces Miguel Cardona as education secretary nominee"
+    excerpt: "Joe Biden's transition team late Tuesday announced Connecticut Education Commissioner Miguel Cardona as the President-elect's nominee for education secretary.\n    \n"
+    publishedDateTime: 2020-12-23T01:31:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUpCyfxo4mI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/miguel-cardona-education-secretary-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/miguel-cardona-education-secretary-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209105126-biden-cabinet-announcement-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221193203-miguel-cardona-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden announces slate of new Cabinet and top administration picks"
-    excerpt: "President-elect Joe Biden on Thursday announced a slate of new Cabinet nominees and picks for top roles in his administration, including Denis McDonough for secretary of Veterans Affairs, Tom Vilsack for Agriculture secretary and Marcia Fudge for secretary of Housing and Urban Development.\n    \n"
-    publishedDateTime: 2020-12-10T17:58:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_L4ak3Jg-Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+  - title: "Biden to introduce Pete Buttigieg as transportation secretary nominee Wednesday "
+    excerpt: "President-elect Joe Biden will introduce former South Bend, Indiana, Mayor Pete Buttigieg as his nominee for transportation secretary at an event in Wilmington, Delaware on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-16T15:33:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pzpz_blqcT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/biden-pete-buttigieg-event/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209170212-14-pete-buttigieg-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to introduce Cabinet nominees and top admin roles Friday"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce several Cabinet nominees and other top administration roles on Friday at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-11T16:19:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oIu8GnsWGcs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211024402-02-time-poy-joe-biden-kamala-harris-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Narrow House majority will test Democratic unity in Biden administration "
-    excerpt: "Democrats' shrinking House majority will test Speaker Nancy Pelosi's resolve to keep her caucus united and could limit the party's ability to push through President-elect Joe Biden's legislative agenda in their own chamber if they can't stick together.\n    \n"
-    publishedDateTime: 2020-12-10T01:43:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvRI886ciY8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204173254-02-pelosi-1204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
-    excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
-    publishedDateTime: 2020-12-02T01:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/arizona-governor-becomes-latest-trump-target-after-certifying-biden-s-n1249549"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249549"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249549"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3432215/201201-doug-ducey-jm-1315_ccc9214d85bd81690c88ec066db05fb6.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden Criticizes Trump on Vaccine Distribution and Pledges to Pick Up Pace"
-    excerpt: "Three weeks from taking office, Joe Biden called vaccinating Americans “the greatest operational challenge we’ve ever faced as a nation” and offered a bleak assessment of the months ahead."
-    publishedDateTime: 2020-12-30T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/biden-coronavirus-vaccines.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 148
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/29/us/politics/29dc-biden/29dc-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "As Deadline Lapses, Trump Administration Continues TikTok Talks"
-    excerpt: "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,"
-    publishedDateTime: 2020-12-05T02:07:00Z
-    webUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
+  - title: "Biden Picks Latino Chief of Connecticut Schools as Education Secretary"
+    excerpt: "Miguel A. Cardona will fulfill Joe Biden’s promise to appoint a diverse cabinet with an education secretary with public school experience."
+    publishedDateTime: 2020-12-24T00:16:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/00dc-edsecretary/00dc-edsecretary-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Trump administration hands over new data on families separated at border"
-    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
-    publishedDateTime: 2020-12-04T00:21:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
+  - title: "'Cabinet of firsts': Joe Biden touts Pete Buttigieg's historic nomination"
+    excerpt: "Buttigieg is expected to be the first Senate-confirmed gay member of a presidential Cabinet. He acknowledged the “eyes of history are on this appointment.”"
+    publishedDateTime: 2020-12-16T22:09:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/cabinet-firsts-joe-biden-touts-pete-buttigieg-s-historic-nomination-n1251477"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251477"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251477"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 134
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436251/201216-pete-buttigieg-jm-1649_bfe6eb7042971e4b7219e97925e8d90d.jpg"
+        width: 2500
+        height: 1481
         isCached: true
-  - title: "Calls grow for Trump administration to stop execution of Brandon Bernard"
-    excerpt: "NBC News’ Erik Ortiz reports on the growing calls from lawmakers and celebrities, including Kim Kardashian, for the Trump administration to stop the execution of Brandon Bernard who was 18 at the time of his crime."
-    publishedDateTime: 2020-12-11T02:09:00Z
-    webUrl: "https://www.nbcnews.com/now/video/calls-grow-for-trump-administration-to-stop-execution-of-brandon-bernard-97517637773"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97517637773"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97517637773"
+  - title: "Biden to Pick Latino Chief of Connecticut Schools as Education Secretary"
+    excerpt: "Dr. Miguel A. Cardona will fulfill Mr. Biden’s promise to appoint a diverse cabinet with an education secretary with public school experience."
+    publishedDateTime: 2020-12-22T14:42:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-education-secretary.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 134
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_execution_201210_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Experts, advocates pressure Biden administration to reunite separated migrant families"
-    excerpt: "NBC News’ Julia Ainsley reports on how advocates and mental health experts are urging the Biden administration to commit to reuniting the migrant families separated at the border during the Trump administration."
-    publishedDateTime: 2020-12-11T00:51:00Z
-    webUrl: "https://www.nbcnews.com/now/video/experts-advocates-pressure-biden-administration-to-reunite-separated-migrant-families-97507909806"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97507909806"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97507909806"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_migrant_201210_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Will the Biden administration really look like America?"
-    excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
-    publishedDateTime: 2020-12-04T17:30:00Z
-    webUrl: "https://www.politico.com/newsletters/women-rule/2020/12/04/will-the-biden-administration-really-look-like-america-491062"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/00dc-edsecretary/00dc-edsecretary-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "5vyVzBcxnTxoNPZk08jZwt6SAYDETnsFoh8AHGyGiVmfAzvsaJ0xw9ytWTTyEjQcP6A/hO4+T0UK7X2MRo+8Gb05Caetcs3yiisBfEi7YKtzrJRqf2IOSYwHllS3+OUcPGUBPHbWIlJxGQe9KBNw+6JXHRujBYAlc5V5hQkD9q8n2gW8K+6zNp1T4V7ITC2uoOVEweAXZxhjtVrWxzAp4dOLfc2qB6UZKAhLbZZ2enI+0T2y36EjmMau4t4Rjt9oPu3WULxOufG+WeMO4w9d/9K1zE0hal6kvF9jRtne2RZaDMFc99jsEodj/JBPncroRvZFH5fRJFrdqeR2cnDuFkgjyxjH5iLp8V/5e0+b1oOHMUnbGaeioxxVBVSC1c0DA8oIuJQdS5qesILHFAPbsjxOl6oHY7SB0bvVlnMDTEb0ctcm0GaDBcKJbY/kOk4RwK9OhxGIPANEemv7CnJdWdx7C02sILfKS3DOc4kRAijLr2WYrmRIWcmLl0NLkIMI4O7qfIdJmyi6tOxgcK++4A==;Dxl+jmJj5XdKWIAIxt++zQ=="

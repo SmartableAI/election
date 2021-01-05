@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
-    excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
-    publishedDateTime: 2020-12-05T14:23:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden transition to receive defense intelligence briefings on Monday"
     excerpt: "Members of the Biden transition team are scheduled to receive briefings from the Pentagon's intelligence agencies beginning on Monday, according to defense officials.\n    \n"
     publishedDateTime: 2020-12-06T19:52:08Z
@@ -91,22 +75,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democratic concerns over Morell and torture scramble Biden's CIA decision"
-    excerpt: "One of President-elect Joe Biden's initial frontrunners to be CIA director, Mike Morell, is facing increasingly complicated prospects as his potential nomination faces growing opposition, according to multiple sources familiar with transition discussions.\n    \n"
-    publishedDateTime: 2020-12-03T21:36:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v3CIJoZ4AlU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-cia-director-morell-concerns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-cia-director-morell-concerns/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170111193408-michael-morell-trump-amanpour-00013223-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -158,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Azar has met with Biden's transition team and says 20 million Americans could be vaccinated in 'the next several weeks'"
+    excerpt: "Health and Human Services Secretary Alex Azar said Wednesday that he has met with President-elect Joe Biden's transition team and pledged a smooth transition, a rare recognition of the coming transfer of power from a top member of President Donald Trump's administration.\n    \n"
+    publishedDateTime: 2020-12-09T16:27:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMLaZxfE5kU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/alex-azar-coronavirus-vaccine-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/alex-azar-coronavirus-vaccine-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112183403-alex-azar-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Legacy civil rights groups feel left out of Biden transition"
     excerpt: "Biden has named several Black officials to fill high profile jobs, but the civil rights leaders want to be included in the decision-making process."
     publishedDateTime: 2020-12-01T20:14:00Z
@@ -173,38 +157,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432088/201201-derrick_johnson-mc-1152_9f8ecccc4c4f61fd4f90136f36e97245.JPG"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "The Conspiracy Theory That Could Hand Joe Biden the Senate"
-    excerpt: "There is no evidence that Lin Wood and Sidney Powell are secretly working for the Democratic National Committee, but no one has definitively disproved it, either."
-    publishedDateTime: 2020-12-03T00:40:00Z
-    webUrl: "https://www.politico.com/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d4/b5/350ecf5f4e6fabd263f51e3804d2/gettyimages-1229684243-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "President-elect Joe Biden's cabinet picks draw criticism for lack of diversity"
-    excerpt: "Steve Kornacki tells Chuck Todd that Democrats are betting on \"growing non-white population and an assumption that they're going to continue to rack up gigantic margins\" in the vote."
-    publishedDateTime: 2020-12-06T16:17:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/president-elect-joe-biden-s-cabinet-picks-draw-criticism-for-lack-of-diversity-97212997650"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97212997650"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212997650"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607266802197_mtp_clip_kornackidemos_201206_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
     excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid-19 stimulus."
@@ -222,20 +174,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Industry privately urges Biden team to retain National Space Council"
-    excerpt: "The Commercial Spaceflight Federation’s new leader outlines her priorities — Companies back new initiative to recruit minorities into space industry"
-    publishedDateTime: 2020-12-04T12:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-space/2020/12/04/industry-privately-urges-biden-team-to-retain-national-space-council-491052"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "Becerra among new candidates for Biden’s health secretary"
     excerpt: "President-elect Joe Biden is eyeing three new candidates for health secretary after previous front-runners fell out of contention for the job this week, according to people familiar with the discussions."
     publishedDateTime: 2020-12-04T23:24:00Z
@@ -249,6 +187,20 @@ related:
       - url: "https://static.politico.com/71/3c/5d5f17854e198de23497914d09bd/190611-xavier-becerra-gtty-773.jpg"
         width: 4500
         height: 2999
+        isCached: true
+  - title: "Will the Biden administration really look like America?"
+    excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
+    publishedDateTime: 2020-12-04T17:30:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2020/12/04/will-the-biden-administration-really-look-like-america-491062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Transition Live Updates: Biden to Speak on ‘Stalling’ Economy Amid Sluggish Job Growth"
     excerpt: "President-elect Joe Biden is urging Congress to quickly pass another virus relief plan as leaders of both parties work toward a compromise. Vice President Mike Pence said the nation faced a ‘season of hope’ as vaccine efforts advance,"

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Are you trying to say' that 'Trump will be president?': Fox News host Bret Baier grills Sen. Josh Hawley over his election challenge"
+    excerpt: "\"That depends on what happens on Wednesday,\" Hawley said. \"No, it doesn't,\" Baier interrupted, followed by an explanation of the electoral process."
+    publishedDateTime: 2021-01-05T18:25:00Z
+    webUrl: "https://www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5ff4902c6056b60018721f80?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump lashes out at GOP after override vote on defense bill"
     excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
     publishedDateTime: 2020-12-30T19:17:00Z

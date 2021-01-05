@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-05-new-trump-impeachment-top-democrats-show-no-interest-in-squad-push.md",
-      "title": "New Trump impeachment? Top Democrats show no interest in 'Squad' push",
-      "excerpt": "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats.",
+      "path": "_news/2021-01-05-trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.md",
+      "title": "Trump puts pressure on Pence ahead of election showdown in Congress",
+      "excerpt": "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump. But regardless of the president’s turning up the volume on his vice president, White House",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n7CeMSO9tzQ/trump-impeachment-squad-georgia-raffensperger-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n7CeMSO9tzQ/trump-impeachment-squad-georgia-raffensperger-democrats",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 935,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
-      "publishedDateTime": "2021-01-05T07:36:26-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
+      "publishedDateTime": "2021-01-05T10:50:38-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,6 +54,112 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-asks-judge-to-toss-niece-mary-trumps-conspiracy-laden-lawsuit.md",
+      "title": "Trump asks judge to toss niece Mary Trump’s ‘conspiracy’ laden lawsuit",
+      "excerpt": "President Trump says his niece’s lawsuit against the family is full of “conspiracy theories more befitting a Hollywood screenplay” — and all just part of a plan to make money off of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "originalUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/AP20268626599228.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "publishedDateTime": "2021-01-05T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-new-trump-impeachment-top-democrats-show-no-interest-in-squad-push.md",
+      "title": "New Trump impeachment? Top Democrats show no interest in 'Squad' push",
+      "excerpt": "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats",
+      "originalUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp",
+      "publishedDateTime": "2021-01-05T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -115,25 +221,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-baier-presses-hawley-over-elector-challenge-are-you-arguing-trump-will-be-president-jan-20.md",
-      "title": "Baier presses Hawley over elector challenge: Are you arguing 'Trump will be president' Jan. 20?",
-      "excerpt": "Sen. Josh Hawley, R-Mo., told Fox News Monday night that he intends to challenge slates of electors from a handful of swing states \"to raise the concerns that my constituents have\" about the 2020 presidential election.",
+      "path": "_news/2021-01-05-white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.md",
+      "title": "White House responds to report suggesting Trump will head to Scotland before inauguration",
+      "excerpt": "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm-Ny8LMe2E/bret-baier-josh-hawley-elector-challenge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm-Ny8LMe2E/bret-baier-josh-hawley-elector-challenge",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 183,
+      "heat": 186,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b35a2672-345b-40da-8e02-a17c39c4dd36/5f64718e-370f-4ef4-9f1b-4ff1343125df/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -141,9 +247,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp",
-      "publishedDateTime": "2021-01-04T18:25:12-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
+      "publishedDateTime": "2021-01-04T21:04:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -171,25 +277,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-growing-body-of-evidence-that-covid-19-leak-from-chinese-lab-a-credible-possibility-trump-official-claims.md",
-      "title": "'Growing body of evidence' that COVID-19 leak from Chinese lab a 'credible possibility,' Trump official claims",
-      "excerpt": "Deputy National Security Adviser Matthew Pottinger made the claim in a virtual conference call with British lawmakers.",
+      "path": "_news/2021-01-05-biden-trump-coronavirus-vaccine-rollout-is-off-to-a-god-awful-start.md",
+      "title": "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'",
+      "excerpt": "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 530,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f03e09b3-650c-4fb5-9d3f-171e055fea2b/a5c1edae-c5a0-4caa-813e-9e6533b35597/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -197,9 +303,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp",
-      "publishedDateTime": "2021-01-04T16:29:21-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "publishedDateTime": "2021-01-04T17:32:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -256,62 +362,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
       "publishedDateTime": "2021-01-04T14:54:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk.md",
-      "title": "Trump awards Nunes with Medal of Freedom for pursuing 'the Russia Hoax at great personal risk'",
-      "excerpt": "The White House lauded Nunes’ \"courageous actions\" in a statement Monday, claiming he \"helped thwart a plot to take down a sitting United States president.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PTZgN7HSBTU/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PTZgN7HSBTU/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c902c9c-970c-4aac-a10b-0344f3d11e29/c7d224fe-4b73-4162-b05b-2cc9077bcf19/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-awards-nunes-with-medal-of-freedom-for-pursuing-the-russia-hoax-at-great-personal-risk.amp",
-      "publishedDateTime": "2021-01-04T12:49:09-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -396,25 +446,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-04-trump-i-hope-mike-pence-comes-through-for-us.md",
-      "title": "Trump: I Hope Mike Pence \"Comes Through\" For Us",
-      "excerpt": "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College.",
+      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
+      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
+      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html#!",
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 80,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.realclear.com/images/53/531389.jpg",
-          "width": 752,
-          "height": 564,
+          "url": "https://images.wsj.net/im-280273/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -422,14 +472,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T16:00:00-08:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "publishedDateTime": "2021-01-04T11:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -439,7 +498,63 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-trump-urged-georgia-election-official-to-find-votes-in-phone-call-insisting-he-won-report.md",
+      "title": "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report",
+      "excerpt": "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jznNwQcNG_A/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jznNwQcNG_A/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 479,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp",
+      "publishedDateTime": "2021-01-03T13:56:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -492,6 +607,54 @@
       ]
     },
     {
+      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
+      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
+      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "publishedDateTime": "2021-01-02T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-iran-foreign-minister-warns-trump-fireworks-will-backfire-as-tensions-escalate.md",
       "title": "Iran foreign minister warns Trump 'fireworks will backfire,' as tensions escalate",
       "excerpt": "Amid heightened tensions between the U.S. and Iran, Iranian Foreign Minister Javad Zarif on Saturday warned President Trump that any \"fireworks would backfire.\"",
@@ -521,6 +684,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
       "publishedDateTime": "2021-01-02T08:40:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-trump-the-clear-republican-front-runner-in-next-white-house-race.md",
+      "title": "Trump the clear Republican 'front-runner' in next White House race",
+      "excerpt": "There's more than three years to go until the next Iowa caucuses and New Hampshire presidential primary, but what some considered the first cattle call in the 2024 White House race takes place next week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZB1WUo0VtA/trump-clear-republican-frontrunner-2024-white-house-race",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZB1WUo0VtA/trump-clear-republican-frontrunner-2024-white-house-race",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp",
+      "publishedDateTime": "2021-01-02T03:53:21-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -649,120 +868,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.md",
-      "title": "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial",
-      "excerpt": "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "originalUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "publishedDateTime": "2021-01-01T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-extends-restrictions-on-work-visas-says-coronavirus-pandemic-still-disrupts-american-livelihoods.md",
-      "title": "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'",
-      "excerpt": "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "originalUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "publishedDateTime": "2020-12-31T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -936,12 +1041,12 @@
       ]
     },
     {
-      "path": "_news/2020-12-31-trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.md",
-      "title": "Trump returning to White House ahead of Mar-a-Lago New Year's Eve party",
-      "excerpt": "President Trump plans to return to the White House from Florida on Friday -- earlier than originally planned, according to a schedule released late Wednesday night.",
+      "path": "_news/2020-12-31-biden-campaign-promises-included-decriminalizing-hiv-exposure.md",
+      "title": "Biden campaign promises included decriminalizing HIV exposure",
+      "excerpt": "President-elect Joe Biden has promised to \"advance LGBTQ equality\" by reversing decades-old criminalization of HIV exposure and transmission laws that have no \"scientific basis\" and contribute to stigmas.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xJORGa9nbBc/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xJORGa9nbBc/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6zQ0wyEW-k/biden-campaign-promises-included-decriminalizing-hiv-exposure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6zQ0wyEW-k/biden-campaign-promises-included-decriminalizing-hiv-exposure",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -952,9 +1057,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26d64889-2702-446b-b0b0-cf5d9e1f6c03/a6320754-c749-4dfd-87f3-050362c82218/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20357736550164.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -962,65 +1067,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp",
-      "publishedDateTime": "2020-12-30T22:35:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-asks-supreme-court-to-void-wisconsin-election-results.md",
-      "title": "Trump asks Supreme Court to void Wisconsin election results",
-      "excerpt": "Trump’s attorneys filed a motion asking the Supreme Court to consider his case in an expedited manner.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lz5c83sLdP8/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lz5c83sLdP8/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 410,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24fa9f1d-5516-4ebc-9cc2-6620e729de66/42668e91-b504-45d1-bde0-3625a49f8b0e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp",
-      "publishedDateTime": "2020-12-30T18:54:24-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-promises-included-decriminalizing-hiv-exposure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-promises-included-decriminalizing-hiv-exposure.amp",
+      "publishedDateTime": "2020-12-30T20:10:52-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1060,7 +1109,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 161,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1100,6 +1149,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-acostas-admission-hell-go-easier-on-biden-shows-personal-vendetta-against-trump-kurtz.md",
+      "title": "Acosta's admission he'll go easier on Biden shows 'personal vendetta' against Trump: Kurtz",
+      "excerpt": "Fox News media analyst Howard Kurtz told \"America’s Newsroom\" Wednesday that CNN White House correspondent Jim Acosta’s admission he will approach a Biden White House in less adversarial fashion shows he's brought a \"personal vendetta\" to his reporting on the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
+      "originalUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1e622b6-6e10-4621-a6e1-1afd6135d900/51a5d55e-4bf6-42a7-96f7-16d475e23c5e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
+      "publishedDateTime": "2020-12-30T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1173,7 +1279,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 280,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -1218,62 +1324,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-30-biden-to-campaign-in-georgia-on-same-day-as-trump-ahead-of-pivotal-senate-elections.md",
-      "title": "Biden to campaign in Georgia on same day as Trump ahead of pivotal Senate elections",
-      "excerpt": "President-elect Joe Biden will campaign in Georgia the day before the Jan. 5 Senate runoff races there, the same day President Trump is scheduled to hold a rally for Sens. David Perdue and Kelly Loeffler.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dKAc7ftm5kY/biden-dueling-georgia-rally-trump-senate-races",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dKAc7ftm5kY/biden-dueling-georgia-rally-trump-senate-races",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1939,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dueling-georgia-rally-trump-senate-races.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dueling-georgia-rally-trump-senate-races.amp",
-      "publishedDateTime": "2020-12-30T04:29:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-30-appeals-court-upholds-bribery-conviction-for-chinese-think-tank-official-with-ties-to-hunter-biden.md",
       "title": "Appeals court upholds bribery conviction for Chinese think tank official with ties to Hunter Biden",
       "excerpt": "Despite Ho's claim of insufficient evidence, a three judge panel said evidence introduced at trial was \"more than sufficient\" to prove that Ho acted on behalf of a U.S. non-governmental organization to \"assist it in obtaining business for CEFC Energy\"",
@@ -1286,7 +1336,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 221,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1330,6 +1380,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-30-trump-campaign-asks-supreme-court-to-review-wisconsin-voter-fraud-case.md",
+      "title": "Trump campaign asks Supreme Court to review Wisconsin voter fraud case",
+      "excerpt": "The Trump campaign asked for a review before Congress meets to certify the Electoral College's vote on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e914d2fa-637f-4dcf-97ef-13291a923fdf/0bd28bcb-b691-4ace-9b8b-7284f1c04ac1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
+      "publishedDateTime": "2020-12-29T16:56:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-nikki-haley-says-americans-should-be-worried-about-woke-left-when-biden-is-president.md",
       "title": "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president",
       "excerpt": "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals.",
@@ -1342,7 +1448,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 227,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -1499,25 +1605,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-biden-calls-transition-obstruction-by-defense-department-irresponsible.md",
-      "title": "Biden calls transition ‘obstruction’ by Defense Department irresponsible",
-      "excerpt": "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe.",
+      "path": "_news/2020-12-29-trump-slams-weak-and-tired-senate-gop-leaders-amid-defense-veto-override-fight.md",
+      "title": "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight",
+      "excerpt": "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 254,
+      "heat": 190,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1525,9 +1631,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
-      "publishedDateTime": "2020-12-28T14:57:03-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp",
+      "publishedDateTime": "2020-12-29T08:40:10-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1551,119 +1657,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-tennessee-governor-expects-trump-to-sign-emergency-declaration-request-were-very-grateful.md",
-      "title": "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'",
-      "excerpt": "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "publishedDateTime": "2020-12-28T10:20:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-texas-woman-on-president-trump-commuting-her-remaining-term-of-supervised-release-from-prison.md",
-      "title": "Texas woman on President Trump commuting her remaining term of supervised release from prison",
-      "excerpt": "Crystal Munoz, who President Trump commuted the remaining term of supervised release from prison last week, told “Fox & Friends Weekend” on Sunday that she “was definitely over sentenced” for a marijuana offence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
-      "originalUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/texas-woman-on-president-trump-commuting-her-sentence-after-12-years.amp",
-      "publishedDateTime": "2020-12-27T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

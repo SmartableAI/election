@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP anticipation builds ahead of Trump's Georgia rally"
+    excerpt: "GOP anticipation and trepidation over Trump’s Georgia Senate runoffs rally."
+    publishedDateTime: 2020-12-05T13:40:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/beIj8e9AW1s/trump-georgia-rally-saturday-dec-5-gop"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Doug Collins for Georgia governor? Lawmaker dodges question after Trump praise"
     excerpt: "Rep. Doug Collins, R-Ga., demurred on questions about a possible run for Georgia governor after President Trump asked him if he would run during a rally in Valdosta, Ga., on Saturday."
     publishedDateTime: 2020-12-06T17:31:40Z
@@ -175,37 +191,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:08:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+  - title: "President Trump urges Georgia to turn out for Senate runoff election"
+    excerpt: "President Trump delivered his first stump speech since Election Day Saturday night, telling an enthusiastic Georgia crowd that the 2020 election was “rigged,” including in the Peach State —"
+    publishedDateTime: 2020-12-06T02:35:00Z
+    webUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/"
+    ampWebUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
+      name: New York Post
+      domain: nypost.com
+    quality: 150
     images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-2.jpg?quality=90&strip=all&w=978"
+        width: 978
+        height: 652
         isCached: true
   - title: "Trump Moves Forward With Changes to Federal Hiring, Firing"
     excerpt: "The Trump administration is rapidly moving forward with a last-minute push to ease hiring and firing standards for many federal workers."

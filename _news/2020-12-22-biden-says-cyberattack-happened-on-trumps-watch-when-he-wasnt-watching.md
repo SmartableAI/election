@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp"
 type: article
 quality: 188
-heat: 248
+heat: 348
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
+    excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
+    publishedDateTime: 2020-12-26T18:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgsULjmpAOk/biden-trump-covid-stimulus-direct-payments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d6934e-888e-4c80-bebb-6e4080d7717b/258bf19a-907d-4926-808b-b6a92ab955f3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden now says it will take ‘six months’ to reverse Trump’s immigration policies"
     excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions “on day one,” but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of “2 million people on our border.”"
     publishedDateTime: 2020-12-22T23:34:41Z
@@ -60,6 +76,70 @@ related:
     quality: 174
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/McConnell-Schumer-Split.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Trump and Biden are spending Christmas Day"
+    excerpt: "Oh Christmas tee, oh Christmas tee. President Trump spent Christmas Day doing what he does best, hitting the links at his Trump International Golf Course in Palm Beach, Florida where he will"
+    publishedDateTime: 2020-12-25T19:22:00Z
+    webUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
+    ampWebUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-trump-biden-christmas-day.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Live updates: Biden urges Trump to pass stimulus bill amid stalemate"
+    excerpt: "President-elect Joe Biden on Saturday has urged President Trump to sign the COVID-19 relief bill, after Trump rejected the bill and called for higher stimulus payments and less \"wasteful\" spending."
+    publishedDateTime: 2020-12-26T22:21:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president is spending Christmas at his private Florida club and President-elect Joe Biden will remain in Delaware, the unofficial headquarters of his transition to the White House."
+    publishedDateTime: 2020-12-26T01:10:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-278203/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
+    excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
+    publishedDateTime: 2020-12-26T18:59:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-covid-stimulus-direct-payments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d6934e-888e-4c80-bebb-6e4080d7717b/258bf19a-907d-4926-808b-b6a92ab955f3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

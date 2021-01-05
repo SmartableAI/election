@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Trump weighs pardons, GOP divided on whether Snowden should receive one"
+    excerpt: "The expectation that President Donald Trump will issue a flurry of pardons in his final days in office has sparked a contentious discussion among congressional Republicans over whether former National Security Agency contractor Edward Snowden deserves one.\n    \n"
+    publishedDateTime: 2020-12-18T17:03:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/leot3flwVr8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/gop-divided-edward-snowden-trump-pardon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/gop-divided-edward-snowden-trump-pardon/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218095929-edward-snowden-file-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pentagon anxiety rises as officers wait for Trump's next unpredictable move"
     excerpt: "It's like a low murmur just below the surface. \"We don't know what he might do,\" says one officer in the Pentagon. \"We are in strange times,\" says another officer. Some senior military officers are trying to steer clear of the White House for the next month, rather than be in the President Donald Trump's"
     publishedDateTime: 2020-12-22T10:00:39Z
@@ -157,22 +173,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222192556-02-bill-barr-profile-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Here are the high-profile pardons and commutations Trump has granted during his presidency"
-    excerpt: "The end of President Donald Trump's time in office has been marked by a renewed interest in granting clemency -- both from the President, and from members of his inner circle looking for protection before President-elect Joe Biden assumes office.\n    \n"
-    publishedDateTime: 2020-12-24T01:09:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hmdxClypLxU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-pardons-commutations-list/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204112620-trump-pardons-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -207,6 +207,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209084134-alex-azar-hhs-vaccine-distribution-newday-camerota-vpx-00000412-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Never-Trump movement splinters as its villain heads for the exit"
+    excerpt: "The defeat of Donald Trump might have been the easy part for never-Trump Republicans. Next up: taking on the more elusive target of Trumpism with their boogeyman gone from office. More than a dozen leaders of the never-Trump movement said in interviews that they see their work as far from over once Joe Biden is sworn in on Jan."
+    publishedDateTime: 2020-12-17T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/17/never-trump-what-next-447235"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/never-trump-what-next-447235"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/26/e0/b307118d44dfb9124b1b33c25bee/1216wh.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "How Trump Has Jeopardized Stimulus Relief"
     excerpt: "The president’s demand that Congress amend a giant coronavirus relief and government spending bill has raised the unexpected prospect that help may no longer be days away."

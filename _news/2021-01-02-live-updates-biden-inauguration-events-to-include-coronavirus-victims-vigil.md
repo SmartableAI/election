@@ -32,149 +32,275 @@ images:
     isCached: true
 
 related:
-  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
-    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
-    publishedDateTime: 2020-12-26T13:14:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+  - title: "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'"
+    excerpt: "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake."
+    publishedDateTime: 2021-01-05T01:32:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live Updates: Biden criticizes Trump over coronavirus vaccine rollout"
+    excerpt: "President-elect Joe Biden blasted President Trump on Monday for what he described as a painfully slow administration rollout of the COVID-19 vaccine. "
+    publishedDateTime: 2021-01-05T05:36:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NIEPMFqVLto/live-updates-biden-transition-1-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9956953f-65b9-4db8-8dc7-32efd1a32d43/ae7c741c-dcaf-4465-80b1-fde64c9eb4d4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
+    excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"
+    publishedDateTime: 2020-12-29T23:03:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7r-kq0svWU0/biden-trump-administrations-plan-distribute-vaccines-behind"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "After Biden criticism, Trump tells states to 'get moving' on COVID-19 vaccinations"
+    excerpt: "President Trump is taking aim at the states for the slow rollout so far of COVID-19 vaccinations across the country."
+    publishedDateTime: 2020-12-30T16:07:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sx3xN9hfZTo/biden-criticism-trump-states-covid-19-vaccinations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Bernie Sanders agrees with Trump’s push for more coronavirus stimulus"
+    excerpt: "Sen. Bernie Sanders, I-Vt., backs President Trump's decision to raise stimulus payments and urges Mitch McConnell to get on with a vote."
+    publishedDateTime: 2020-12-31T03:04:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fM4QHqv6BoE/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b370aa-373a-47b2-b50f-22488dcb8bec/b89ffe85-b89f-4280-b0d7-10846e06c8b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP"
-    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
-    publishedDateTime: 2020-12-26T00:26:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
+  - title: "Trump, Biden hold dueling campaign events on eve of Georgia runoffs as candidates make final pitches"
+    excerpt: "With the Senate majority up for grabs, which will likely determine how successful President-elect Joe Biden will be in passing his incoming administration’s agenda, the stakes in Tuesday’s twin Senate runoff elections in Georgia were already enormous."
+    publishedDateTime: 2021-01-04T17:21:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kl5Kqu3J_Fg/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
-    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
-    publishedDateTime: 2020-12-24T06:32:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
+  - title: "Perdue says Trump call with Georgia secretary of state won’t affect runoff"
+    excerpt: "Sen. David Perdue, one of two Republicans in Georgia fighting to keep their seats in a tight runoff election, said Sunday that he doesn't believe President Trump’s leaked phone call with the state's top election official will have any bearing on Tuesday’s election."
+    publishedDateTime: 2021-01-04T09:55:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
+    ampWebUrl: "https://www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Georgia Sens. Loeffler, Perdue back Trump on $2K coronavirus stimulus checks"
+    excerpt: "Georgia GOP incumbent Sens. Kelley Loeffler and David Perdue, who are fighting to keep their seats in special runoff elections next week, voiced support for $2,000 stimulus checks on Tuesday."
+    publishedDateTime: 2020-12-29T17:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eIFJAGR7Vsk/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6e5eab9-fe1b-4184-bbff-ce0cd1f58649/d4621cb8-0321-4aed-a53e-e94baa079ea1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "LIVE UPDATES: Biden electoral win facing challenge from Cruz, other GOP senators"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-03T05:11:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSC38ZpkmNs/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
+  - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
+    excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
+    publishedDateTime: 2020-12-28T12:26:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDDzr9WpMvw/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package"
+    ampWebUrl: "https://www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8fac15-3eba-4222-84a1-b2cfccf5077a/3eee8182-bf6c-49a4-983a-d596073af120/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-01T06:51:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden's transition team disabled chat function for reporters on conference Zoom calls"
-    excerpt: "Reporters on the call had to use a \"raise hand\" function to register they wanted to ask a question."
-    publishedDateTime: 2020-12-31T05:03:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ofymmkaz2A/live-updates-biden-transition-12-31-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/780aec92-7f87-43bc-b273-cb57accada7f/b08b1601-e71a-4dd7-b041-ce78525d5cd4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden announces new Cabinet, White House appointments"
-    excerpt: "President-elect Joe Biden today announced a number of new Cabinet and White House appointments and nominations."
-    publishedDateTime: 2020-12-30T20:36:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How Joe Biden Should Handle White House Infighting"
-    excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
-    publishedDateTime: 2021-01-02T10:01:00Z
-    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
+    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
+    publishedDateTime: 2020-12-28T22:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://images.wsj.net/im-279262/social"
+      - url: "https://images.wsj.net/im-278568/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
-    excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."
-    publishedDateTime: 2020-12-25T13:43:00Z
-    webUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief"
-    ampWebUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
+  - title: "Trump Campaign Asks Supreme Court to Overturn Biden’s Wisconsin Win"
+    excerpt: "Unless the high court expedites the case, the Trump campaign’s appeal likely will be moot before it comes up for consideration by the justices."
+    publishedDateTime: 2020-12-30T08:26:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-asks-supreme-court-to-overturn-bidens-wisconsin-win-11609298811"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-279136/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Judge dismisses Trump supporters’ last-ditch lawsuit challenging Joe Biden win"
+    excerpt: "A federal appeals court has tossed a lawsuit filed by a group of Republicans in a last-ditch effort to challenge President-elect Joe Biden’s win. The U.S. Court of Appeals for the Fifth"
+    publishedDateTime: 2021-01-03T05:02:00Z
+    webUrl: "https://nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/"
+    ampWebUrl: "https://nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/judge-dismisses-trump-supporters-lawsuit-challenging-joe-biden-win/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
+    excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"
+    publishedDateTime: 2020-12-29T23:07:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-administrations-plan-distribute-vaccines-behind.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 120
+    quality: 144
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gretchen-Whitmer-AP-e1608902899685.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20364769831212.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "After Biden criticism, Trump tells states to 'get moving' on COVID-19 vaccinations"
+    excerpt: "President Trump is taking aim at the states for the slow rollout so far of COVID-19 vaccinations across the country."
+    publishedDateTime: 2020-12-30T16:22:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticism-trump-states-covid-19-vaccinations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
+    excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
+    publishedDateTime: 2021-01-01T10:21:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
+    excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
+    publishedDateTime: 2021-01-01T02:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden: Georgia's Republican Senators \"Think They Swore An Oath To Donald Trump, Not The US Constitution\""
+    excerpt: "Campaigning on Monday afternoon ahead of Georgia's double Senate runoff election, former VP Joe Biden blasted Republican senators Kelly Loeffler and David Perdue. \"You have two senators now who think they don't work for you,"
+    publishedDateTime: 2021-01-05T01:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/biden_georgias_republican_senators_think_they_swore_an_oath_to_donald_trump_not_the_us_constitution.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 63
+    images:
+      - url: "https://assets.realclear.com/images/53/531361.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "0s2ZYEvxBZzIPgTeVRRVwm7xf0Xv7oQNrgmRt9F/97znR9qDQg2U58O7/apGzqx770Q69vUW3vAt99KEeaj2zn9AyrjhfC70PrL96zreJNYdDNkxr2I6wZtRfqhdpwjJ5syHn1CEqKJfupdjSVUV4bz1zMT9QB56bBh4O7RlAiIwFBH2j7v+qmxXUVZekhmC4DUwlXu3uNXNvtK3wkCkSHWm37g0Jl4xEDECjroDfS0U4u7hE3cFHu3bSljFJA1j9CFzlaubqVyTiHadxJ9IYqmlAzKbtSG6FmBIaArh+2ws6LysRXDznvwFkcptMeVDILRkGb75zycTsUVHHf88DptDsqbzKQfQsuFCiqejIrZX7rFPMc6Gr6lAxvy2Kr5yWaJhjVZltyGeQTe7S7J3QVvTuByW7EKDMtCc0bzHePHN0/mx1WH2zC2yjwTSaPgLdDYmxwsxHuIuVa4BuBlojK2pU1AXYPCsYWRH3IN9JS+6uHgjl4PYDZ/nS88S82NNXmGoOWh2gRKQ+LGUUJvvmQ==;hxPboFcJY1coRP3wDMJLvg=="

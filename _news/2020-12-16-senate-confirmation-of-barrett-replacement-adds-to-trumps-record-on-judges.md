@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Former DOJ lawyer apologizes for not doing more to resist Trump"
-    excerpt: "A former Justice Department attorney who worked for the Office of Legal Counsel wrote an op-ed for The New York Times in which she offered an apology for not taking a stronger stance against President Trump."
-    publishedDateTime: 2020-12-21T18:38:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fdzvCP71dUY/former-doj-lawyer-op-ed-resist-trump-apology"
-    ampWebUrl: "https://www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20355106504110-e1608575361908.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Barr sides with Pompeo over Trump that SolarWinds hack 'appears to be the Russians'"
     excerpt: "Attorney General William Barr on Monday contradicted President Trump and sided with Secretary of State Mike Pompeo in blaming the Russians for a major hack into American government systems that compromised several major agencies. "
     publishedDateTime: 2020-12-21T18:19:33Z

@@ -2,23 +2,80 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-05-pence-faces-pressure-from-trump-to-thwart-electoral-college-vote.md",
-      "title": "Pence faces pressure from Trump to thwart Electoral College vote",
-      "excerpt": "Vice President Mike Pence's four years of faithful service to his boss, President Donald Trump, will culminate this week in a ceremonial act he's under increasing pressure to thwart.\n    \n",
+      "path": "_news/2021-01-05-trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.md",
+      "title": "Trump puts pressure on Pence ahead of election showdown in Congress",
+      "excerpt": "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump. But regardless of the president’s turning up the volume on his vice president, White House",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cWX4vD7oMo8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cWX4vD7oMo8/index.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 935,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
+      "publishedDateTime": "2021-01-05T10:50:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-analysis-no-mike-pence-cant-steal-the-election-for-trump.md",
+      "title": "Analysis: No, Mike Pence can't steal the election for Trump",
+      "excerpt": "This is it. President Donald Trump's dogged effort to ignore the voters, state election officials, the courts and the Electoral College has come down to his latest wild idea -- that he'll just get Vice President Mike Pence to steal the thing for him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Dk5GdcezfQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Dk5GdcezfQ/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1020,
+      "heat": 1415,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105112259-01-trump-rally-ga-0104-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +85,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/05/politics/mike-pence-donald-trump-electoral-college/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/mike-pence-donald-trump-electoral-college/index.html",
-      "publishedDateTime": "2021-01-05T08:26:26-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html",
+      "publishedDateTime": "2021-01-05T09:33:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -119,7 +176,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2755,
+      "heat": 2835,
       "tags": null,
       "images": [
         {
@@ -161,54 +218,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-trump-i-hope-mike-pence-comes-through-for-us.md",
-      "title": "Trump: I Hope Mike Pence \"Comes Through\" For Us",
-      "excerpt": "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/531389.jpg",
-          "width": 752,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     },
     {
@@ -264,6 +273,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-03-pence-welcomes-congressional-republicans-bid-to-challenge-electoral-votes.md",
+      "title": "Pence 'welcomes' congressional Republicans' bid to challenge electoral votes",
+      "excerpt": "Vice President Mike Pence on Saturday signaled his support for a bid by Republicans lawmakers to challenge electoral votes when Congress is expected to certify President-elect Joe Biden's victory in a meeting this week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5A_PrrqLuRM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5A_PrrqLuRM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201229110145-01-mike-pence-1216-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html",
+      "publishedDateTime": "2021-01-03T08:26:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-trumps-allies-are-rounding-on-lin-wood-after-he-tweeted-about-executing-mike-pence-and-arresting-mitch-mcconnell.md",
       "title": "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell",
       "excerpt": "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results.",
@@ -314,6 +380,63 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
+      "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
+      "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121005656-louie-gohmert-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
+      "publishedDateTime": "2021-01-01T18:30:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
       ]
     },
     {
@@ -426,63 +549,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-pence-gohmerts-fight-to-overturn-the-2020-election-results-is-with-congress-not-me.md",
-      "title": "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me",
-      "excerpt": "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207",
-      "originalUrl": "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/f9/27/baaa8c084e7e96889e5435424831/1231pence.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T15:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-30-pence-did-not-back-lawmaker-plan-to-overturn-election-results-lawyers.md",
       "title": "Pence did not back lawmaker plan to overturn election results: lawyers",
       "excerpt": "Attorneys representing Rep. Louie Gohmert, R-Texas, and the slate of Republican electors from Arizona indicated in a court filing that Vice President Mike Pence did not agree with their position that Pence could choose between counting the electoral votes of Democrats or Republicans from states where",
@@ -495,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 280,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -552,7 +618,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 190,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1109,7 +1175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1511,63 +1577,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-pence-likely-to-get-the-coronavirus-vaccine-by-friday.md",
-      "title": "Pence likely to get the coronavirus vaccine by Friday",
-      "excerpt": "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uDvPOjIjXI0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uDvPOjIjXI0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
-      "publishedDateTime": "2020-12-15T12:44:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

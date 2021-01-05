@@ -2,6 +2,487 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-09-attorney-representing-trump-in-texas-dispute-pushed-racist-conspiracy-about-kamala-harris.md",
+      "title": "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris",
+      "excerpt": "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 391,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130630135736-john-eastman-traditional-marriage-story-top.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html",
+      "publishedDateTime": "2020-12-09T15:35:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-flashback-eric-swalwell-accused-don-trump-jr-of-meeting-russian-spy.md",
+      "title": "Flashback: Eric Swalwell accused Don Trump Jr. of meeting ‘Russian spy’",
+      "excerpt": "Rep. Eric Swalwell, D-Calif., who Axios reported Wednesday was a main target of a Chinese spy between 2011 and 2015, accused Donald Trump Jr. last year of meeting \"with a Russian spy.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5110eb86-e53d-4155-bddd-274bb8738742/df0cbd95-9d65-4dda-8adf-8d93b0c68fba/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
+      "publishedDateTime": "2020-12-09T14:38:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-mike-pence-introduces-astronauts-for-future-nasa-moon-mission.md",
+      "title": "Mike Pence introduces astronauts for future NASA moon mission",
+      "excerpt": "The vice president is at the Kennedy Space Center to discuss the mission to get astronauts back to the moon by 2024 under NASA's Artemis program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/454dd4c9-216f-4188-a8e0-59d4ec6dbac5/thumbnail/1200x630/c79b8bc48e0e82cc0506366e67034711/artemis-astronauts.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "publishedDateTime": "2020-12-09T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-vice-president-pence-announces-official-name-change-of-patrick-space-force-base.md",
+      "title": "Vice President Pence announces official name change of Patrick Space Force Base",
+      "excerpt": "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official.",
+      "sourceUrl": null,
+      "webUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
+      "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/09/PBRE/b361ae31-26de-47bf-adcd-6538f9e1acc9-SpaceForce2.jpg?auto=webp&crop=4031,2268,x0,y604&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.floridatoday.com/amp/6506564002",
+      "cdnAmpWebUrl": "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002",
+      "publishedDateTime": "2020-12-09T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Florida Today",
+        "domain": "floridatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.md",
+      "title": "Biden mum on Rep. Swalwell's links to suspected Chinese spy",
+      "excerpt": "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-Ytu-zVj6k/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-Ytu-zVj6k/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp",
+      "publishedDateTime": "2020-12-09T09:51:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-melania-trump-just-wants-to-go-home.md",
+      "title": "Melania Trump 'just wants to go home'",
+      "excerpt": "In mid-November, as President Donald Trump railed against the election results, his wife, first lady Melania Trump publicly agreed with his sentiments. But privately, a handful of days after the final state tally, the first lady tasked an emissary with discreetly finding out what was available to her",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209104411-02-melania-trump-2017-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html",
+      "publishedDateTime": "2020-12-09T08:18:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda.md",
+      "title": "AP sources: Biden picks Fudge for housing, Vilsack for USDA",
+      "excerpt": "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "publishedDateTime": "2020-12-09T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-trump-lawyer-rudy-giuliani-receiving-same-covid-drugs-as-president.md",
+      "title": "Trump lawyer Rudy Giuliani receiving same Covid drugs as president",
+      "excerpt": "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-55243581",
+      "originalUrl": "https://www.bbc.com/news/world-55243581",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-55243581",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581",
+      "publishedDateTime": "2020-12-09T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump.md",
+      "title": "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump",
+      "excerpt": "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
+      "originalUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
       "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
       "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
@@ -404,7 +885,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -884,471 +1365,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-trump-administration-adds-china-nigeria-iran-to-list-of-countries-lacking-religious-freedom.md",
-      "title": "Trump administration adds China, Nigeria, Iran to list of countries lacking religious freedom",
-      "excerpt": "The Trump administration on Monday added China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "publishedDateTime": "2020-12-08T08:28:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-former-israeli-space-security-chief-says-extraterrestrials-exist-and-trump-knows-about-it.md",
-      "title": "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it",
-      "excerpt": "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "originalUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg",
-          "width": 2500,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250333",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333",
-      "publishedDateTime": "2020-12-08T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-vice-president-mike-pence-schedules-stop-in-south-carolina.md",
-      "title": "Vice President Mike Pence schedules stop in South Carolina",
-      "excerpt": "Pence is scheduled to hold a round table discussion on Operation Warp Speed, the administrations effort to promote the development of the coronavirus vaccine as quickly as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
-      "originalUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998035001/5717e438-c9d2-43cc-9edc-de8c4bd3f94b/main/1280x720/23s861ms/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thestate.com/news/politics-government/article247690655.html",
-      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article247690655.html",
-      "publishedDateTime": "2020-12-08T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
-      "title": "Politics updates: Trump reached out to PA House speaker over election",
-      "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1850,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6484311002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002",
-      "publishedDateTime": "2020-12-08T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-chinas-wang-vows-to-uphold-trade-deal-during-biden-administration-us-business-group.md",
-      "title": "China's Wang vows to uphold trade deal during Biden administration: U.S. business group",
-      "excerpt": "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL",
-          "width": 788,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28H30Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y",
-      "publishedDateTime": "2020-12-08T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020.md",
-      "title": "From Kamala Harris To Jacinda Ardern: The World’s Most Powerful Women In Politics In 2020",
-      "excerpt": "With more uncertainty on the horizon, the female leaders on the 2020 Forbes list of the World’s Most Powerful Women are holding onto their hard-won political gains and working to reverse alarming trends around the pandemic’s disproportionate effects on women.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolettejones/2020/12/08/from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020/",
-      "originalUrl": "https://www.forbes.com/sites/nicolettejones/2020/12/08/from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcf4dd6a4f249eadce952fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolettejones/2020/12/08/from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolettejones/2020/12/08/from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020/amp/",
-      "publishedDateTime": "2020-12-08T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-vice-president-mike-pence-to-visit-greenville-for-coronavirus-response-discussion.md",
-      "title": "Vice President Mike Pence to visit Greenville for coronavirus-response discussion",
-      "excerpt": "Vice President Mike Pence will visit Greenville on Thursday to talk about response to COVID-19 before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
-      "originalUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.greenvilleonline.com/amp/6484240002",
-      "cdnAmpWebUrl": "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002",
-      "publishedDateTime": "2020-12-08T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenville News",
-        "domain": "greenvilleonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-who-is-behind-the-fake-trump-presidential-library-website-we-talk-to-the-anonymous-architect.md",
-      "title": "Who is behind the fake Trump Presidential Library website? We talk to the anonymous architect",
-      "excerpt": "Not quite as mysteriously as a monolith, a website has appeared for a fictional Donald J. Trump Presidential Library. The anonymous architect tells us why they did it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7e11cfb/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F76%2F70d6e3b8436db2301d3382e733f0%2Fa-christmas-for-mary.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "publishedDateTime": "2020-12-07T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure.md",
-      "title": "What Might Unite a Divided Washington Behind Joe Biden? Unsexy Infrastructure",
-      "excerpt": "Roads, bridges, airports, subways, broadband networks, windmills, solar farms. Infrastructure just might be the vehicle that could smash through the political roadblocks in Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "originalUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-269242/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "publishedDateTime": "2020-12-07T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

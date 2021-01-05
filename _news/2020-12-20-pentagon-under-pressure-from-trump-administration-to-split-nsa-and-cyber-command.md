@@ -79,35 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell moves to combine Trump asks in potential 'poison pill' for stimulus checks"
-    excerpt: "Senate Majority Leader Mitch McConnell introduced legislation Tuesday to combine two additional demands from President Donald Trump to an expansion of direct stimulus payments as part of the Covid-19 relief package, raising Democratic concern the pathway for expanded stimulus payments would soon be short-circuited.\n"
-    publishedDateTime: 2020-12-30T00:45:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G0cSIq8sy_8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/mcconnell-poison-pill-attached-to-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/mcconnell-poison-pill-attached-to-bill/index.html"
+  - title: "Trump administration taking steps to designate Cuba as state sponsor of terrorism in coming days"
+    excerpt: "The Trump administration will soon take steps toward designating Cuba as a state sponsor of terrorism as an 11th hour effort to create hurdles for the incoming Biden administration, which is likely to pursue warmer ties with Havana.\n    \n"
+    publishedDateTime: 2020-12-30T18:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3hDYDPb56hM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224161422-04-week-in-photos-1225-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
-    excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
-    publishedDateTime: 2020-12-29T18:48:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGcfz7wFK-w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/department-of-energy-dishwasher-rule-challenge/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016121521-us-department-of-energy-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -298,6 +282,22 @@ related:
     quality: 115
     images:
       - url: "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Presidential Transition Live Updates: After Refusing to Sign the Relief Bill, Trump Suggests He May Take Action"
+    excerpt: "President Trump tweeted, “Good news on Covid Relief Bill. Information to follow!” Democrats’ House losses in California signal the steep obstacles they will face in 2022. President Trump’s fraud claims died in court,"
+    publishedDateTime: 2020-12-28T00:27:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/27/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27transition-briefing-stimulus-promo1/27transition-briefing-stimulus-explainer2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

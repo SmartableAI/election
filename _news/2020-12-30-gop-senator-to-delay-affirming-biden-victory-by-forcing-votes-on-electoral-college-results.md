@@ -31,53 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden names Kathleen Hicks as first woman deputy defense secretary"
-    excerpt: "Joe Biden's transition team announced Wednesday that former Obama Pentagon official Kathleen Hicks is the President-elect's pick to serve as deputy secretary of defense, and she would be the first woman to serve in the role if confirmed by the Senate.\n    \n"
-    publishedDateTime: 2020-12-30T16:14:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WSyk20utpn4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
+  - title: "Pence 'welcomes' congressional Republicans' bid to challenge electoral votes"
+    excerpt: "Vice President Mike Pence on Saturday signaled his support for a bid by Republicans lawmakers to challenge electoral votes when Congress is expected to certify President-elect Joe Biden's victory in a meeting this week.\n    \n"
+    publishedDateTime: 2021-01-03T16:26:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5A_PrrqLuRM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230105634-kathleen-hicks-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229110145-01-mike-pence-1216-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
-    excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-30T20:51:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/89ijxeeOE5w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
+  - title: "McCarthy gives green light to conservatives' push to overturn Biden's win, as senior Republicans raise alarms "
+    excerpt: "The top House Republican has quietly blessed an effort by conservative lawmakers to overturn President-elect Joe Biden's victory when a joint session of Congress meets later this week, even as other top congressional Republicans are raising alarms that the push could cause lasting damage to a pillar"
+    publishedDateTime: 2021-01-03T20:23:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BoReS_xoteI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/kevin-mccarthy-republican-push-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/kevin-mccarthy-republican-push-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200611135506-kevin-mccarthy-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Families of US hostages and detainees look to Biden to keep up efforts to free loved ones"
-    excerpt: "As President-elect Joe Biden prepares to take over from the outgoing Trump administration, the goal for the families of Americans unlawfully detained and held hostage abroad remains the same: to see their loved ones returned home.\n    \n"
-    publishedDateTime: 2021-01-01T14:00:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
+  - title: "Pence Welcomes Futile Bid by G.O.P. Lawmakers to Overturn Election"
+    excerpt: "Vice President Mike Pence signaled his support as 11 Republican senators and senators-elect said that they would vote to reject President-elect Joseph R. Biden Jr.’s victory."
+    publishedDateTime: 2021-01-02T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730135514-trevor-reed-ex-marine-sentencing-russia-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/01/02/us/politics/02dc-cong2/02dc-cong2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
+    excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
+    publishedDateTime: 2020-12-31T23:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/pence-overturn-election-results-lawsuit-453207"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 123
+    images:
+      - url: "https://static.politico.com/f9/27/baaa8c084e7e96889e5435424831/1231pence.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "gXoHnXgSxEpFvhvQFiLbAtLJ9f+ASzW6tZFtph3ZvazJuEI3WTiiagw+9aJFqhNVl1YQ7vfQGw1oaZMu5dVCfFWsOhyUqWR465lLtYxr9xaKOcq9gTBM2CvmrG4f8YFFWM2VfO8cFKHzu5IHob0eD/vB5MYuO8re5/BKMCdbkmqGZTvPy0vuPzOqeDecPr/1PhXRZEmDFjBlM9GFsmuqQCw2PQ0Yuq1Iokjc1FZb+EaVIe2dknoW5UfylS9/iDXYcK9txOUYdHPTIaiL9RLl7lwYJJvZp6D+VfXuYV7vk+DJtZTWR9732BpcpvIDAaJz1ZfnWLjQ96xs5CzdnTeGSyIn3nBVk3fxsjZs0py2KiE=;xZcoKXLJ/1OVmvVBmuoM6A=="

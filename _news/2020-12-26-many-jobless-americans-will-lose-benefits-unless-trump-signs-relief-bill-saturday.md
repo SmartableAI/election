@@ -63,38 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump's grievances leave Americans in need in limbo"
-    excerpt: "President Donald Trump's dark mood is worsening — and the country is suffering his wrath.\n    \n"
-    publishedDateTime: 2020-12-28T00:20:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7IC5WRpKobU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/donald-trump-stimulus-bill-unemployment-benefits/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/donald-trump-stimulus-bill-unemployment-benefits/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223055901-02-donald-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump absent as vaccine distribution lags and thousands continue to die"
-    excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads.\n    \n"
-    publishedDateTime: 2020-12-31T11:00:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AD9G4wCpAuE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's mind is elsewhere as unemployment benefits run out for millions of Americans"
     excerpt: "A day before unemployment benefits for millions of Americans were set to expire, President Donald Trump had a different insult in mind: his former-model wife has yet to appear on the cover of a fashion magazine as first lady.\n    \n"
     publishedDateTime: 2020-12-26T11:22:22Z
@@ -126,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Trump Tried, but Largely Failed, to Derail America’s Top Climate Report"
+    excerpt: "The White House repeatedly attempted to thwart the country’s premier climate science document, one meant to steer policy for years. Scientists got in the way."
+    publishedDateTime: 2021-01-01T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/31/climate/31CLI-ASSESSMENT2/merlin_160191879_1db5bea5-8dfe-4c3e-8d88-f3fcff2187ca-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "Ye33cLr353x0xLBHlO5Usl+4FIcmz7xhnjK8/MbXgW1gUPbXm0SZRBrFzWUtI5J8BQahuRtJdqAgcqftkBmSmBm6iUznFNUS7RUSiAwv/doya6Uv7uVrXkUVoPaR7iaD808hc7+LjWz20bmwGcYrnIMsoOldoo9iDPDJSZ6oeYxFgFc8EZnWAKdL2TOlBy3Mvne2ay7u5R4/U3IpBOAN5JfMtjmfpB2vxhuxpNClxX2r5x0DWZqXIge0KSO+hE7AOfnVi87QnRJy9p8skdpNfAaD7FLLB9rfiDnl1BjXFFm9CieC/yc3ll/wKEJAlrH8F1go3V4wkUXAxGSetqZZvHENasGePoW/6pne5/pFoys=;voNQbLJuhdE7gOLjvBXwBQ=="

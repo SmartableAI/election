@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-25-sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster.md",
+      "title": "Sidney Powell’s secret intelligence contractor witness is a pro-Trump podcaster",
+      "excerpt": "Lindeman, whose credentials were questioned in a recent civil fraud case, confirmed that she wrote the affidavit and said she viewed it as her contribution to a fight against the theft of the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASCOY2SFLQI6XLBKHLAPFOGO5M.jpg&w=1440",
+          "width": 1440,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-24T18:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
+      "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
+      "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
+      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe4e2caa644880018193562?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
+      "publishedDateTime": "2020-12-24T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-prosecutors-have-mounting-amount-of-evidence-against-trump-michael-cohen-says.md",
+      "title": "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says",
+      "excerpt": "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/24/914512ec-439b-42dd-a227-685aaa671d68/thumbnail/1200x630/081f1dacbf03b1eaddf486ed306c8c8b/cbsn-fusion-michael-cohen-trump-lawyer-on-pardons-thumbnail-615721-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
+      "publishedDateTime": "2020-12-24T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-exclusive-dominion-sends-letters-threatening-defamation-lawsuits-to-sean-hannity-maria-bartiromo-lou-dobbs-and-other-pro-trump-media-figures.md",
       "title": "EXCLUSIVE: Dominion sends letters threatening defamation lawsuits to Sean Hannity, Maria Bartiromo, Lou Dobbs, and other pro-Trump media figures",
       "excerpt": "The company at the center of a false election conspiracy theory told right-wing media organizations and individual hosts to \"preserve all documents.\"",
@@ -850,6 +1006,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-23-trump-will-face-different-twitter-rules-when-he-leaves-office.md",
+      "title": "Trump Will Face Different Twitter Rules When He Leaves Office",
+      "excerpt": "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "originalUrl": "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-274855/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
+      "publishedDateTime": "2020-12-22T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-the-trump-administration-is-mulling-immunity-for-saudi-crown-prince-mohammed-who-is-accused-of-sending-a-hit-squad-to-kill-an-exiled-spy-chief.md",
       "title": "The Trump administration is mulling immunity for Saudi Crown Prince Mohammed, who is accused of sending a hit squad to kill an exiled spy chief",
       "excerpt": "Jabri, a former Saudi intel official, filed a complaint in a US federal court accusing Crown Prince Mohammed of ordering a hit squad on him.",
@@ -1174,7 +1387,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 151,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1360,214 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-trump-downplays-impact-of-massive-hacking-questions-russia-involvement.md",
-      "title": "Trump downplays impact of massive hacking, questions Russia involvement",
-      "excerpt": "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-cyber-breach/trump-downplays-impact-of-massive-breach-of-government-computer-systems-idUSKBN28T0QL",
-      "originalUrl": "https://www.reuters.com/article/us-cyber-breach/trump-downplays-impact-of-massive-breach-of-government-computer-systems-idUSKBN28T0QL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545156451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI0DB",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28T0QL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28T0QL",
-      "publishedDateTime": "2020-12-19T23:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-former-us-cybersecurity-chief-chris-krebs-warned-not-to-conflate-voting-system-security-with-the-solarwinds-hack-despite-trumps-claim.md",
-      "title": "Former US cybersecurity chief Chris Krebs warned not to 'conflate' voting system security with the SolarWinds hack despite Trump's claim",
-      "excerpt": "Chris Krebs' warning came after President Donald Trump tweeted there could have been a hit on \"our ridiculous voting machines during the election.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12",
-      "originalUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fde505fc910a400192e88ba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/krebs-do-not-conflate-voting-security-solarwinds-hack-2020-12?amp",
-      "publishedDateTime": "2020-12-19T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-the-trump-booster-group-that-helped-the-head-of-the-extremist-proud-boys-gain-access-to-the-white-house.md",
-      "title": "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House",
-      "excerpt": "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/15/USAT/faa39348-f87f-4e26-94f3-50a0aef33d73-AFP_AFP_8QT7GX.jpg?auto=webp&crop=4499,2531,x0,y234&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3931868001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3931868001",
-      "publishedDateTime": "2020-12-19T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long-running-tension-with-other-republicans.md",
-      "title": "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans",
-      "excerpt": "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
-      "originalUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
-      "publishedDateTime": "2020-12-18T15:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-p
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
 type: article
 quality: 134
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: Politico
@@ -32,69 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump extends immigration restrictions, citing pandemic's impact on labor market "
-    excerpt: "President Donald Trump extended certain restrictions on legal immigration and on visas that allow immigrants to temporarily work in the United States on Thursday, just hours before those restrictions were set to lapse. Trump extended the restrictions through March 31, two months after he will leave office.\n"
-    publishedDateTime: 2021-01-01T00:38:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rvAwU8yfuBQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
+  - title: "Trump White House staffers receive conflicting messages about their departure"
+    excerpt: "Staffers were first told that they “will start departing” on the week of Jan. 4. They were later told to disregard the memo."
+    publishedDateTime: 2020-12-23T15:53:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/trump-administration-departure-instructions-450224"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
+      name: Politico
+      domain: politico.com
+    quality: 112
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231163449-trump-final-days-early-white-house-return-election-results-collins-dnt-lead-vpx-00003317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration to block palm oil from second company in Malaysia over forced labor findings"
-    excerpt: "The Trump administration will halt imports of palm oil from Malaysia over findings of forced labor abuses at the plantations of one of the country's top producers of the product, which is found in many everyday items.\n    \n"
-    publishedDateTime: 2020-12-30T12:30:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4S9T1G5AKhA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930174806-palm-oil-malaysia-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
-    excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."
-    publishedDateTime: 2021-01-05T05:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/we-won-trump-spreads-misinformation-about-2020-election-during-final-n1252802"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252802"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252802"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 143
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439555/210104-georgia-donald-trump-kelly-loeffler-rally-ac-1159p_905398a7de4c07e8af6ea1193f82fcf5.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Tennessee governor requests emergency declaration from President Donald Trump"
-    excerpt: "The \"severity and magnitude\" of the blast are more than state and local governments can handle, said Lee in a statement."
-    publishedDateTime: 2020-12-26T17:32:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/tennessee-governor-requests-emergency-declaration-president-donald-trump-n1252370"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252370"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252370"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438125/201225-nashville-explosion-al-1703_f4bc81355b3893d842f785ed7ed7f102.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://static.politico.com/3a/3e/15b2eb6a411c9a5bc9b5c85aa4f0/ap20352044803772-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "ADdRDBctKlaT5YsNvQglnnaGgMbclsvSVjyg3QV6PF33wNcRP4PIZuypvvmi5BTpF6nPf3ttjwUsbrZN0Pp4m6c1KfTsFSi6B0RP1pQEPTwPYQQ32xQMAtaf2irs0CXdW2PSapZw9wiC05vsn2fZ0iZnzR+14avC1QOpTG81lvE7tTvPbBBH8qVEJI3iKYTSK4yjW1N6JQBFAXAH72RPSgVT1noBaI5evY1XXV55K980mxSAwP2i4YeDrK+9OCSWfQGkLqE6zuM6Mq+SG1L0PLmaU1549m10xTyhbE2xIZAr/cAZjfjUwiXPUgdjqDzXZKs9r06xGLWQsWZDyeHw2ANpZI1N0vGu0DrL17xx99c=;qTDR9y0hGuNGp7h9YaTMjw=="

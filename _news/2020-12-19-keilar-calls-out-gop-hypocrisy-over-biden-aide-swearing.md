@@ -80,6 +80,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden breaks the Obama mold on teachers union strife"
+    excerpt: "Biden’s rhetoric and policies suggest the president-elect is still listening closely to teachers unions in a way Obama often did not."
+    publishedDateTime: 2020-12-18T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/biden-obama-teachers-union-447957"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/04/d8/7c206e0448d988186c7bed0e98fe/ap20283654072752-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden Transition Live Updates: Congress Scrambles to Reach Stimulus Deal as Deadline Nears"
     excerpt: "Lawmakers are hammering out details of a $900 billion pandemic relief package and an overall spending bill to avoid a government shutdown at midnight. President-elect Joe Biden said accusations against his son were “kind of foul play."
     publishedDateTime: 2020-12-18T13:30:00Z

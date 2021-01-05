@@ -167,6 +167,22 @@ related:
         width: 1200
         height: 891
         isCached: true
+  - title: "Kamala Harris attempts to unite worried Georgia voters amid a strongly divided political cycle"
+    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
+    publishedDateTime: 2021-01-03T00:00:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/01/03/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4122933001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4122933001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4122933001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP-elect Kamala Harris receives coronavirus vaccine"
     excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
     publishedDateTime: 2020-12-29T18:36:00Z

@@ -112,6 +112,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watch: President-elect Joe Biden Campaigns In Georgia For Ossoff And Warnock"
+    excerpt: "President-elect Joe Biden is scheduled to host a campaign rally for Democratic Senate candidates Jon Ossoff and Raphael Warnock on Monday afternoon ahead of Georgia's runoff elections."
+    publishedDateTime: 2021-01-05T05:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/watch_live_biden_campaigns_in_georgia_for_ossoff_and_warnock.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 62
+    images:
+      - url: "https://assets.realclear.com/images/53/530997.jpg"
+        width: 1030
+        height: 772
+        isCached: true
 
 secured: "txLQ1WJ8kTkiCsWi9jsbcUXXWVNhzzZvF3otpraaBGLBhGpw/GKRcOS+2XNXdoJrjDn9SGLjrADWPbLhQW4D2O3p9iTgxwjKiUjTq3Wz3SOAmnHmBap3B4+VdIyqgDwXBamH6rVYly6dkTKN0BW8fcPxCguJ6vESMQnNUK8HeffkJaShOhKW3sRMHCrWzMir3/NdxLRNmeXrOs/zkfxJBbuOJitL9OsMKUvpok4BBN0TU78oD/bqfTTy/sQaAu7yrlQWVKm+ung8hFEXcYEnJpiU1eem9Vl52Ra61LHEwosfdL4D2DJFJx7OsTY7WMQouw+RAYlFRvXwODEDDq3k2sHqxrHPB/ANzor1fbrJdiB+QY17Q88DA3BqwXHaHgrILStn/iE3R1mzpQj1p7m9uN8GwohheyR0IC6KkDeNOtW8zmDmy+QZ1BweB56j2xOclWJFRwD3k5kJAIQqzfZtunK1+ve207h22Vksr+PbEAgPaxfrNP5z4lWlp911LEvLMY6fMDRVUVVVi4M+jqt/jA==;joY9rTY9uERWqomKacK9iA=="
 ---

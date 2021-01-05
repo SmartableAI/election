@@ -623,6 +623,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump allies scrambling for strategy to overturn Biden win"
+    excerpt: "Republican lawmakers who are trying to overturn Joe Biden’s victory over President Donald Trump have not settled on a full strategy"
+    publishedDateTime: 2021-01-05T18:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump hints at 2024 run, Biden to meet with U.S. workers hit by pandemic"
     excerpt: "Donald Trump hinted he may be ready to move on to planning another run for the U.S. presidency in 2024 as President-elect Joe Biden prepared on Wednesday to confront the raging pandemic that will likely be his first major challenge in office."
     publishedDateTime: 2020-12-02T23:44:00Z

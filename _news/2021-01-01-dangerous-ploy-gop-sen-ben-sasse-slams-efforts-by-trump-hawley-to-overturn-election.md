@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
 type: article
 quality: 131
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "'Are you trying to say' that 'Trump will be president?': Fox News host Bret Baier grills Sen. Josh Hawley over his election challenge"
+    excerpt: "\"That depends on what happens on Wednesday,\" Hawley said. \"No, it doesn't,\" Baier interrupted, followed by an explanation of the electoral process."
+    publishedDateTime: 2021-01-05T18:25:00Z
+    webUrl: "https://www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5ff4902c6056b60018721f80?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."

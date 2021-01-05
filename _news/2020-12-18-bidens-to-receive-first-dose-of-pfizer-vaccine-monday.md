@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccinat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kod_electoral_college_vote_xtalk_201213_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden breaks the Obama mold on teachers union strife"
+    excerpt: "Biden’s rhetoric and policies suggest the president-elect is still listening closely to teachers unions in a way Obama often did not."
+    publishedDateTime: 2020-12-18T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/12/18/biden-obama-teachers-union-447957"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-obama-teachers-union-447957"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/04/d8/7c206e0448d988186c7bed0e98fe/ap20283654072752-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Keilar calls out GOP hypocrisy over Biden aide swearing"
     excerpt: "CNN's Brianna Keilar rolls the tape on Republicans' hypocrisy over comments made by Jen O'Malley Dillon, President-elect Joe Biden's campaign manager and incoming White House deputy chief of staff, where she used profanity to refer to congressional Republicans."

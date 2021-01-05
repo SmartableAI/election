@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
+    excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
+    publishedDateTime: 2020-12-29T05:54:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden announces new Cabinet, White House appointments"
     excerpt: "President-elect Joe Biden today announced a number of new Cabinet and White House appointments and nominations."
     publishedDateTime: 2020-12-30T20:36:00Z
@@ -142,22 +158,6 @@ related:
       - url: "https://images.wsj.net/im-279262/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
-    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
-    publishedDateTime: 2021-01-02T13:44:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
     excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."

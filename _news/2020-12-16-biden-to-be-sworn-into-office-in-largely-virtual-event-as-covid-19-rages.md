@@ -281,6 +281,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Which Texas Republicans in Congress plan to object to certifying Joe Biden’s Electoral College victory?"
+    excerpt: "More than a third of the 25 Texas Republicans in Congress plan to object to the certification of Democrat Joe Biden’s White House victory"
+    publishedDateTime: 2021-01-05T17:18:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/05/which-texas-republicans-in-congress-plan-to-object-to-certifying-joe-bidens-electoral-college-victory/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 39
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LbXccO3V0HDUT3mrZSSCSusJXHc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2G57R5URCEHUMWCRYIGQMRW56A.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2+kYYGOixsNcCYA4sSj7/vc6619XQw2hS6fVE/ncBjjlDXqKjvcjle+c4ummuL1ZQKiMUnS1jLJgNRS5hVZbOmzaQGCe5cA7FFqmtFFe/p8OkaIUAlqP9PxGBodMVTiqQlya5TK/e424lNhVOa68iroPtojJzgpQhuqFXfeNstiJuP5EROZtWBTvGcPA4bdfDVPo5LmyzWN1+/P+NmmNf5MvDigd902/yx+8aK2oOVOJW9izxgl6XJKfQzTOhVEIl2E1ZvHej14Bkvenw6NV9v7/9mixCEEA47yMRDDmF7M3agd9Z0wptFPrdvptsOJc6kVGibXIDlVbs9uYzU1ioqT+EmIwVzABgjfb/WSK+YQDVL80XFhLSkh3rcarV4JsZRcHg/l/GqF8/fw30wN5oeA2C/pIUmIlYMQqH3D9lbKg9vZ+QvFrxJLxTuUlcapQH2JJ5igFeNLNh1Ruvy+5oa3Ac50K9F8gtekihoGDnmDkpu7AeUliNCQQZwx2P6W6cg2LxId7P3yJnxCAiEMkzA==;ow1JEGa5cgm7B7At9a7qSQ=="
 ---

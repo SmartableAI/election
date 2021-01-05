@@ -2,6 +2,271 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-03-trump-administration-pushes-pay-freeze-for-federal-workers-after-initially-calling-for-a-1-percent-raise.md",
+      "title": "Trump administration pushes pay freeze for federal workers, after initially calling for a 1 percent raise",
+      "excerpt": "Trump’s early-year budget plan had called for the raise along with proposals to reduce the value of retirement benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-02T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
+      "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
+      "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C2ES",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES",
+      "publishedDateTime": "2020-12-02T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
+      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
+      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "publishedDateTime": "2020-12-02T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-mary-trumps-next-book-probes-americas-national-trauma-under-trump-presidency.md",
+      "title": "Mary Trump’s next book probes ‘America’s national trauma’ under Trump presidency",
+      "excerpt": "Mary Trump's \"The Reckoning,\" a follow-up to the bestselling exposé she wrote about her uncle Donald, will examine how \"America is suffering from PTSD.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ce164d8/2147483647/strip/true/crop/3000x1959+0+77/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F60%2Fdff1233a4316bfb87aa7e431a470%2Ftrump-taj-mahal-opening-06047.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true",
+      "publishedDateTime": "2020-12-02T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-teases-2024-run-for-president-at-white-house-christmas-party-ill-see-you-in-four-years.md",
+      "title": "Trump teases 2024 run for president at White House Christmas party: ‘I’ll see you in four years’",
+      "excerpt": "President Donald Trump teased running again for president in 2024 as he hosted a holiday reception at the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/eWz6YaZpjv13UyZnuMN9_9d0L3U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MR5JQFF7QVAAZGFBXYO4BDLZII.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-02T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy.md",
       "title": "Wisconsin governor: Trump election lawsuit an 'assault on democracy'",
       "excerpt": "Wisconsin Gov. Tony Evers (D) criticized President Trump’s latest lawsuit seeking to overturn the state's election results as an “assault on democracy.”",
@@ -643,63 +908,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-presidential-transition-live-updates-trump-team-files-last-ditch-lawsuits-ahead-of-deadline-to-finalize-the-election.md",
-      "title": "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election",
-      "excerpt": "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump",
-      "originalUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html",
-      "publishedDateTime": "2020-11-30T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

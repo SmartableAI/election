@@ -79,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Bernie Sanders agrees with Trump’s push for more coronavirus stimulus"
-    excerpt: "Sen. Bernie Sanders, I-Vt., backs President Trump's decision to raise stimulus payments and urges Mitch McConnell to get on with a vote."
-    publishedDateTime: 2020-12-31T03:04:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fM4QHqv6BoE/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b370aa-373a-47b2-b50f-22488dcb8bec/b89ffe85-b89f-4280-b0d7-10846e06c8b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Lindsey Graham backs Trump over McConnell on $2,000 checks"
     excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
     publishedDateTime: 2021-01-02T00:34:32Z
@@ -158,22 +142,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
-    excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
-    publishedDateTime: 2020-12-28T12:26:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDDzr9WpMvw/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package"
-    ampWebUrl: "https://www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
     excerpt: "Senate Majority Leader Mitch McConnell said Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen. Bernie Sanders and Senate Minority Leader Chuck Schumer each urged the body to put the"
@@ -284,6 +252,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Covid-19 Aid Bill Remains in Doubt as Congress Braces for Showdown With Trump"
+    excerpt: "Unemployment benefits used by millions of Americans lapsed overnight and the government was at risk of shutting down, as lawmakers were poised to face off with President Trump over his objections to sweeping pandemic-aid legislation and a defense-policy bill."
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.wsj.com/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+    ampWebUrl: "https://www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-278361/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
     excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."

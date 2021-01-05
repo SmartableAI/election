@@ -282,6 +282,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Michigan Trump supporter headed to election rally in D.C. says ‘We are going with God’"
+    excerpt: "A group of dedicated supporters of President Donald Trump in mid-Michigan are preparing to hit the road Tuesday for an overnight bus trip to Washington, D.C. Instead of going sight-seeing, though, the group plans to join Trump supporters from around the country for a public rally as Congress convenes Wednesday,"
+    publishedDateTime: 2021-01-05T18:43:00Z
+    webUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html"
+    ampWebUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 82
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2CYRIMLMCBHNZPFUOUVBDQIYUI.JPG"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "tNx+wvinIowSvcFN5hQLTkVkpdiZrMwaVNEY0sUZE3uu888cwsauw2TYttf3WdgCZXwiqCofd6/yxiPYRqCuiZRPyo9FtYfqGdHrq9mANViOvArq1ssQnIprv4i6dg6o29CwiRSjk6npUKlrfd2pLZ84QMfqByDIhwkaLx/cEDkSkHIV1QbcIz9Hso2soCU2sYFCIl7XhToi7TnaN2ZB7tDj7EhvdPY+YGvY7EWLSfu4U++wOYP+DvmMW7DFQnOLGaVcnSRienpq0QJZa+SMY0FqlNgXSWVX5bTJnSESRr8cTBVDJ7xBtCiQwm9rWD7YgGas2GHydZVtdtuTpE4PtieXhtNYGF9clbXgBrBguhx7Yt0jfYf2m6uAUTkr8ERNJDY4CYT8/5EqFcDABRClC8kiSNv9860+zbHfjxAkSMD246leVdHJ4URDN1oBgbIY8JwySywX3Ua+DadwPIC47B7zdIgrTtcLjmJL5GFtW7BLrb6bcpQ3AWC7A7R6ileNnvSq2UUld0EF9LjTcwG1Sw==;7qZH89bdFX6tERUh89J6Dg=="
 ---
