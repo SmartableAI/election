@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/electoral-college-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/electoral-college-trump-loeffler-perdue/index.html"
 type: article
 quality: 158
-heat: 178
+heat: 198
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
+    excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."
+    publishedDateTime: 2021-01-05T05:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/we-won-trump-spreads-misinformation-about-2020-election-during-final-n1252802"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252802"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252802"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439555/210104-georgia-donald-trump-kelly-loeffler-rally-ac-1159p_905398a7de4c07e8af6ea1193f82fcf5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud."
     publishedDateTime: 2021-01-03T20:13:00Z

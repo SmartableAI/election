@@ -356,6 +356,17 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
+    excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
+    publishedDateTime: 2021-01-05T06:31:00Z
+    webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Some GOP lawmakers push to dispute Joe Biden's victory"
     excerpt: "At least a dozen Republican senators say they will officially object to Joe Biden's victory in the Electoral College during a joint session of Congress on Wednesday. The group, led by Senator Ted Cruz of Texas,"
     publishedDateTime: 2021-01-04T18:02:00Z

@@ -416,6 +416,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "D.C. mayor calls on National Guard as pro-Trump protests set for capital"
+    excerpt: "Trump supporters are planning rallies in the capital as Congress is set to meet to formally count the Electoral College results."
+    publishedDateTime: 2021-01-05T05:23:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/d-c-mayor-calls-national-guard-pro-trump-protests-set-n1252800"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252800"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252800"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439551/210104-washington-dc-protest-prep-ac-1128p_cc73cd26468a2c9f778aad70a33f7394.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
     excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
     publishedDateTime: 2020-12-31T23:57:00Z

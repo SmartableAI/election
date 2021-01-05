@@ -371,6 +371,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
+    excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
+    publishedDateTime: 2021-01-05T06:31:00Z
+    webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
     publishedDateTime: 2020-12-30T13:58:00Z

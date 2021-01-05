@@ -369,6 +369,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
+    excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
+    publishedDateTime: 2021-01-05T06:31:00Z
+    webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Some GOP lawmakers push to dispute Joe Biden's victory"
     excerpt: "At least a dozen Republican senators say they will officially object to Joe Biden's victory in the Electoral College during a joint session of Congress on Wednesday. The group, led by Senator Ted Cruz of Texas,"
     publishedDateTime: 2021-01-04T18:02:00Z
@@ -553,6 +564,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wjAJsJ3JaFqueWuiqbrZ+oG1C2Bi3uumIivXl8JGe4k0HwpBxhfHwEfrHPEnffROF/yBXNSEkXdG0v9qteODlPUCK6vDuB3mrYGaQbxgHcMX7PooU9WlWlUj6lc+BzEpb4NGIKa6Ko7G5vwg695h/NUuqC8r3gfH0L8YyB3EYXMGipRb0oN2d8iDpaFiKGTcY0SZGwobcUOoponWicRs2W6ZPaDhSSeym3V27gxzgANCt1h2Y0GmehplowmBxVoqlP+STvV2z7r6GRpfSbwZmxjvAVwMlSa5c8HITCuC4c+My6BMh9bn6HjFPdtV0WfNVoR+uXxbNA2qm9wN1knT7I43C4Y5s2XWZlW9dyiVUMQ=;x86MvQyMYLV2XYDOzOZuHQ=="
+secured: "/M+1C4Yr/zxwHMI/r1poECu+B7azBOuYnrhD5v+JS9Y9QgItcTE+9JPubH1NUgTvQ/tF06EKtj8PDc1cwjUMqR/8Qz8foLZ3alqA47gOf5CYFAn3YJNAz1ZlJZl8f1TKCCcbFy+T8Rwx6G4zWx4X8gv85pa1+A87VgJznBXKLRNKtK26ONi5PamaENDpQ71m7I+2gLyM1Z5sqr1+BPhUMtkgTraOB7cOCZNXH9K+F97MC5Uc3gyMkTooUzqilG3gEw43gIP9KCswbeEaaOJhaivX9VDwIr+6BFTb0l5DWzONdBncTgveonUERCxFDgqE5/dMWBdp8RBwhDXCvj5u7p63tJb9s9J59PIkqqPjIfKpAeeLcjdQfx5op4tRG4lLpGACo3AhSSOBFwVT7QqONWfVqmiJIvizIxDXcgkFDe/hy9dnsQTM/RUBLInZla32VcWFcQ0iML6Fdd6qi06mP9d7HtDb49saQ1zmB62nwN58jlzJCxqrPT2RYNrM3LuYw63hMUDvnnx1Jg+6uAcNyA==;F3IEVaAsvivId2/JY0eprA=="
 ---
 

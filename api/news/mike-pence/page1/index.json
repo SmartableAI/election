@@ -62,7 +62,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2535,
+      "heat": 2635,
       "tags": null,
       "images": [
         {
@@ -107,6 +107,54 @@
       ]
     },
     {
+      "path": "_news/2021-01-04-trump-i-hope-mike-pence-comes-through-for-us.md",
+      "title": "Trump: I Hope Mike Pence \"Comes Through\" For Us",
+      "excerpt": "President Donald Trump said he hopes Vice President Mike Pence \"comes through for us\" at a campaign rally Monday night in Georgia. Trump was referring to Pence's role as President of the Senate and duty to oversee the chamber certify the results of the Electoral College.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/01/04/trump_i_hope_mike_pence_comes_through_for_us.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/53/531389.jpg",
+          "width": 752,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-biden-election-mike-pence-welcomes-senators-bid-to-derail-result.md",
       "title": "Biden election: Mike Pence 'welcomes' senators' bid to derail result",
       "excerpt": "President Mike Pence has welcomed an effort by a group of senators to refuse to certify Joe Biden's presidential election win. The 11 Republican senators and senators-elect, led by Ted Cruz, want a 10-day delay to audit unsubstantiated allegations of election fraud.",
@@ -115,7 +163,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55517626",
       "featuredContent": null,
       "highlight": null,
-      "heat": 835,
+      "heat": 855,
       "tags": null,
       "images": [
         {
@@ -1496,63 +1544,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mike-pence-vaccine-coronavirus/index.html",
       "publishedDateTime": "2020-12-15T12:44:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-fauci-recommends-trump-and-pence-get-vaccinated-for-covid-19.md",
-      "title": "Fauci recommends Trump and Pence get vaccinated for Covid-19",
-      "excerpt": "Dr. Anthony Fauci would recommend that both President Donald Trump and Vice President Mike Pence receive the Covid-19 vaccine, which has been approved for emergency use authorization and is being rolled out nationwide.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQhMcwMRt6Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 580,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094331-01-trump-pence-0928-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/fauci-coronavirus-vaccine-trump-pence/index.html",
-      "publishedDateTime": "2020-12-15T06:31:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

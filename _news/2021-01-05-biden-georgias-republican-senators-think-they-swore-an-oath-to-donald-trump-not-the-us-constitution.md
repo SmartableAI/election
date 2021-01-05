@@ -42,6 +42,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Biden criticizes Trump over coronavirus vaccine rollout"
+    excerpt: "President-elect Joe Biden blasted President Trump on Monday for what he described as a painfully slow administration rollout of the COVID-19 vaccine. "
+    publishedDateTime: 2021-01-05T05:36:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NIEPMFqVLto/live-updates-biden-transition-1-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9956953f-65b9-4db8-8dc7-32efd1a32d43/ae7c741c-dcaf-4465-80b1-fde64c9eb4d4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden calls on Trump to sign COVID relief bill amid battle over direct payments"
     excerpt: "President-elect Joe Biden on Saturday called on President Trump to sign the coronavirus stimulus bill -- warning that failing to do so would have \"devastating consequences\" for millions of Americans."
     publishedDateTime: 2020-12-26T18:55:01Z
@@ -441,6 +457,6 @@ related:
         height: 500
         isCached: true
 
-secured: "x2KoLo3LILiJuaHYEt+yL7dlFi+aGr0Vsk2eC9FU4XDDByZYj/I3NtBSNP3IxFX/ZDyGbtP60xg88tcZZdNMRkbQfGzaE6V/IF3ddwnsjnad9df3USiY65RGC2M8PxkLEJXlBEvl0o1F+rEveDMq2r4kqBya9Y2d21dkkpbPIKp30dTXJGEDWxjGapzKLcrne8ExUMOJfT9l8AQJsEtYbnCAbJjV10m/2VHpVhCngwLz9asBb85FWyaW5RLNDatov1wg9kVStBNuThIkAeNtPN7c3QbWwsM+jnswfqQZccDS2xmSN28NLDWfBnrUGwetRiDst+aU2eQZ+sxDlRibwHKiahOAcuFTMkeLSz2AfC4=;jHmRd9Mr+82Pm+EjkyMhcw=="
+secured: "m9kavBHdPp+Onlc8ywe4fPzyP/qiyjNW2pSUnwDcpoxkzUHkG6oOp5EJ6UD8yVcvxBX7rsyMzCvR4xHlCPCiy2M++kbQBq5Vqbop/zUNrfZIYS7Qlg6ed+t2YBvK1cHUElrSkeD1Ju/E9rwUhqkMFIGY2ro+bB1uBP7D4DIn2tq/lnfLppXRez6x45SmbxSCgg1Ou+Y/13wzunMCWh+QZ0Ku1GI3jCQLlzGYyYwhBK0AJcv5sz2t988eXKs30G5xNguGhYm7TQjnIaeO75aMGaCkCFDi0wkzweAczmaXgWiIw9Ut8yKas9A19keKLOnEHD9ijCSvJ9ytSK7tpNwtQNqnbwBDYyGsbIuSEgfqDknOIjuCTcQzWYvovysYzsvbB0myMSQu93vGR8MbpiVXVH9nploPC/HBfn7ObmkbJjpIZeNxLiSkc2I825GdeX7tw6NNkfNm3+fWOPL04qRg1QneGS5X2aW+rojMrZ8ZjP+uhUMGwrzEn2LdvKoFdisR7mAslEzaeCKHEhJghKnu6Q==;yleOsbf845qfyWQcKKmchg=="
 ---
 

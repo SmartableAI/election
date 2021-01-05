@@ -400,6 +400,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "D.C. mayor calls on National Guard as pro-Trump protests set for capital"
+    excerpt: "Trump supporters are planning rallies in the capital as Congress is set to meet to formally count the Electoral College results."
+    publishedDateTime: 2021-01-05T05:23:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/d-c-mayor-calls-national-guard-pro-trump-protests-set-n1252800"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252800"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252800"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439551/210104-washington-dc-protest-prep-ac-1128p_cc73cd26468a2c9f778aad70a33f7394.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "'NEVER FORGET’: Trump threatens Cotton over Electoral College certification"
     excerpt: "How can you certify an election when the numbers being certified are verifiably WRONG,” Trump tweeted. President Donald Trump warned Sen. Tom Cotton on Monday that Republican voters would \"never forget\" GOP lawmakers who fail to embrace Trump's baseless effort to contest President-elect Joe Biden's Electoral College victory."
     publishedDateTime: 2021-01-04T16:22:00Z

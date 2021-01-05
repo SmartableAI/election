@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
+    excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."
+    publishedDateTime: 2021-01-05T05:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/we-won-trump-spreads-misinformation-about-2020-election-during-final-n1252802"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252802"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252802"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439555/210104-georgia-donald-trump-kelly-loeffler-rally-ac-1159p_905398a7de4c07e8af6ea1193f82fcf5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "la0y5vOgwuY8iWhQgWbpuk0Acr81IATLleVbZhLak72NKTyAdCIEyywvT+j2jYoZsK+fX2LttoQ4YDN2Kq9wiUjoAGD/45O3DtkZ+jQcp+5CgjNGu2j4dJC1pe2H15XFm/4BqFj3upHIyGKYsOwRp3giLBtCizYfyr5ol2NsLxIDxtSE7c/7F0dSlYvyzgDlMwZ9N7gMJNcRJP5mVNcTlx208Zd1gbHif/uIVa0l1wpt+B4g2zZOGZjW5kl99YQIp5X+t6TJS1BhWelqpeJ5T8ZO9X28p84twSqoCg6d0jnLK4dcPAA56hxr+0gQdLSDGegjN82cZybgINO0sgDMT6quYqSPeV2e2/vE6xZnj40=;qWyjp28BwK35CjNZYPO+4w=="
 ---

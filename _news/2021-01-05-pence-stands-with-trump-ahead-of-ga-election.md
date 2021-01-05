@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Loyal soldier Pence torn between Trump, Constitution"
+    excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
+    publishedDateTime: 2021-01-05T06:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c73f2e2a9d7b46deb1ee0331c8cdd5fa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Georgia elections official urges Trump to rein in supporters"
     excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
     publishedDateTime: 2020-12-02T05:05:00Z
@@ -859,6 +875,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump is heard on audiotape pressuring Georgia secretary of state to 'find' votes to overturn Biden's win"
+    excerpt: "Neal Katyal, acting solicitor general during the Obama administration, said the Trump call \"demonstrates an impeachable, perhaps criminal, offense.\""
+    publishedDateTime: 2021-01-05T06:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/03/trump-pressured-georgia-election-official-call-washington-post-report-says/4119948001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4119948001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4119948001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/8d2d59a1-292e-493e-a149-97eb72904e36-AP_Trump_Legacy_By_The_Numbers.jpg?auto=webp&crop=4766,2681,x0,y242&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Georgia GOP official urges Trump to respect results of the Electoral College"
     excerpt: "\"If they chose Joe Biden, then Joe Biden is the president,\" said Cobb County Republican Party chairman Jason Shepherd."
     publishedDateTime: 2020-12-15T12:47:00Z
@@ -1180,6 +1212,38 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
         width: 817
         height: 545
+        isCached: true
+  - title: "Democrats, Republicans race to finish in Ga. as Trump casts shadow over Senate runoffs"
+    excerpt: "Debate over President Trump's own electoral grievances dominated the final day of campaigning for two U.S. Senate runoffs in Georgia on Monday, raising concerns among Republican strategists and local officials that his conspiracy theories would depress GOP turnout and jeopardize continued Senate control."
+    publishedDateTime: 2021-01-05T06:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/georgia-senate-trump/2021/01/04/bc38c454-4eb1-11eb-bda4-615aaefd0555_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/georgia-senate-trump/2021/01/04/bc38c454-4eb1-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-senate-trump/2021/01/04/bc38c454-4eb1-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WRNCOVCO3II6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Georgia Republicans rebut Trump lawsuit that seeks to disenfranchise millions of voters"
+    excerpt: "Lawyers for Republican Gov. Brian Kemp and Secretary of State Brad Raffensperger said Trump \"seeks to disenfranchise millions of Georgia voters.\""
+    publishedDateTime: 2021-01-05T06:39:00Z
+    webUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5fb302601c741f0019aca267?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump pushes baseless voter fraud claims at Georgia rally on eve of crucial Senate runoffs"
     excerpt: "The president said he hopes Vice President Mike Pence \"comes through for us\" when Congress meets this week to count the Electoral College vote."
@@ -1536,6 +1600,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/DZpxkQVrQMiK0ZuTlrPZbsGTrtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3RQWOBI2KPYB5TQ7JEHW7OMZZU.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump's Refusal To Accept Election Loss Is World's Biggest Threat In 2021: Report"
+    excerpt: "President Donald Trump’s refusal to accept his loss in the U.S. presidential election is the world’s biggest threat in 2021, according to a prominent risk assessment firm. A n"
+    publishedDateTime: 2021-01-05T04:48:00Z
+    webUrl: "https://www.ibtimes.com/trumps-refusal-accept-election-loss-worlds-biggest-threat-2021-report-3114552"
+    ampWebUrl: "https://www.ibtimes.com/trumps-refusal-accept-election-loss-worlds-biggest-threat-2021-report-3114552?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-refusal-accept-election-loss-worlds-biggest-threat-2021-report-3114552?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
         isCached: true
   - title: "Trump and Biden head to Georgia for dueling rallies on eve of pivotal Senate runoffs"
     excerpt: "The dramatic clash comes just a day after reports surfaced of Trump’s new effort to pressure election officials to overturn his defeat in the presidential vote."

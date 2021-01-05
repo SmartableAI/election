@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House responds to report suggesting Trump will head to Scotland before inauguration"
+    excerpt: ""
+    publishedDateTime: 2021-01-05T05:04:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Urged Georgia Secretary of State to Overturn Election Results"
     excerpt: "During a phone call Saturday, the president repeatedly asserted the election was fraudulent and claimed hundreds of thousands of votes were destroyed and that he had clearly won the state."
     publishedDateTime: 2021-01-03T20:54:00Z

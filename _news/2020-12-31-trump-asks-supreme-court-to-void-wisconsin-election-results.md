@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-asks-supreme-court-to-void-wi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-asks-supreme-court-to-void-wisconsin-election-results-in-latest-filing.amp"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cccc97f7-4285-4736-a48d-39699d71d1dc/e1d53e3e-9a8b-4517-8baf-6b33c1b4535b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "White House responds to report suggesting Trump will head to Scotland before inauguration"
+    excerpt: ""
+    publishedDateTime: 2021-01-05T05:04:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
     excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."

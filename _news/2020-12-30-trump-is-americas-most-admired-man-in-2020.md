@@ -697,6 +697,22 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Trump To Speak At Wednesday's 'Save America' Rally Protesting Election Results"
+    excerpt: "Thousands of MAGA supporters are expected to attend the rally in a last-ditch attempt to keep the lame duck president in the White House."
+    publishedDateTime: 2021-01-05T03:05:00Z
+    webUrl: "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450"
+    ampWebUrl: "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
+        width: 1024
+        height: 688
+        isCached: true
   - title: "Twitter Reacts To Report Trump Hotel Is Trying To Cash In On Joe Biden's Inauguration: 'That's Expected'"
     excerpt: "Twitter users have mixed reactions to reports that one of President Donald Trump's hotels was trying to profit from guests looking for a room on or near Jan. 20, the date of Joe Biden's inauguration."
     publishedDateTime: 2021-01-03T10:41:00Z

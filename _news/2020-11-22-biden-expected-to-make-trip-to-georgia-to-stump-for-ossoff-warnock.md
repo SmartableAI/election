@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-ge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-and-Joe-Biden.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Watch: President-elect Joe Biden Campaigns In Georgia For Ossoff And Warnock"
+    excerpt: "President-elect Joe Biden is scheduled to host a campaign rally for Democratic Senate candidates Jon Ossoff and Raphael Warnock on Monday afternoon ahead of Georgia's runoff elections."
+    publishedDateTime: 2021-01-05T05:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/watch_live_biden_campaigns_in_georgia_for_ossoff_and_warnock.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 62
+    images:
+      - url: "https://assets.realclear.com/images/53/530997.jpg"
+        width: 1030
+        height: 772
         isCached: true
 
 secured: "55PFE7f+tN+oz0+B6MRhWpk9pqUF43EeHGY9lQcUuuJTgbhkl/+J9vStVvVDylwJxzVt8WcZjXnSeYF5wRsbVsGnAxJaGGMo/sC3wP6ZzOsVtI3P+miNN7MlmgAgfH5V8U3DtGO5r3opz7IKuDumk3+VEoEOXl+in3MSRipujOp7tvC85vNhawg6+Z4AIzCUCT49s9pX5C5wjlp0IFPGiCJGda+W806tOVxTgjDKvR9bDvp3d+SjLku+6l//DSVU+u1vqL5LrjLzsi5bzWzfZXJDR4WNKmyyYZQ/GWCoLiSPXyP7laJYP1MUrKLNFDjUJ7+GwpF4dNaWvC9ccLTy3D3tDfYErPegEPiTI1UyTzQ=;4gk/5pyatXEYOnqvpzivAA=="

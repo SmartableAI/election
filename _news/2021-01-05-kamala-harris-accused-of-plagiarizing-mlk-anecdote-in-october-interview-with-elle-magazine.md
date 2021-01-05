@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Kamala Harris accused of plagiarizing MLK anecdote in October interview with Elle magazine"
-excerpt: "Vice President-elect Kamala Harris apparently appropriated an anecdote first told by civil rights icon Martin Luther King Jr. when she was interviewed by Elle Magazine for a feature that was published in October, at the height of the 2020 presidential election campaign."
-publishedDateTime: 2021-01-05T01:14:08Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XknqmwgWe0A/kamala-harris-mlk-plagiarism"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XknqmwgWe0A/kamala-harris-mlk-plagiarism"
+excerpt: "Vice President-elect Kamala Harris appears to have repurposed an anecdote told by civil rights icon Martin Luther King Jr. in an interview with Elle Magazine that was published in October, at the height of the 2020 presidential election campaign."
+publishedDateTime: 2021-01-05T01:27:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-mlk-plagiarism"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-mlk-plagiarism"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-mlk-plagiarism.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-mlk-plagiarism.amp"
 type: article
-quality: 175
+quality: 125
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
@@ -141,6 +141,6 @@ related:
         height: 738
         isCached: true
 
-secured: "jLcVHc7kzYI52x+CVGynleykNtspD7bgqJXk++tQn31xjotsK+FgnPjOhoWzj7KLiWFQIqBm88gMheevDmSSWYWW70r7RiXA48pw/B6sc4v1tE/GukbX8foPWz7V9K8W8oa4yCNxIUy8p5VDTc/19FKCdULCQEH0S5+n2f1EleGwjKem1xfEaNTaVmrRM5jrpL2NUzoRfELuYZtNKT30lr0Is0OnyvaYN3HyAcY5wMkd5v+3T/ubZ9TGlPzyh1TYmzj0ox8zGOz7iSqGwkDpbbWO9izxi8ludJtxktXKRN1WKtqs8xIQZXM3m0U729wMsUr09SLJlddmD7erbx67PAKzq22Lfpre89LaegIXCoc=;K35q9OlsuThdTYeES0m0UQ=="
+secured: "yf79lmnq/jahHVzyy7UA0/rRQJphSqudk2AZJR3Rv755aS+IIkA/JRBk33rBz6stWMWBCTJirmCCDaz81sw8GckznTCxrD4lOoXU/D6SvObA2iBDQyW6veYtxMbM0LlWVDRvdVvUFnVjbjQeIoMuLapfEm2zP26VvwDAUuqp9oDrMxtL8Azq+tyT4rpxCgpV/zPr7FAc1eMVVuQng6ZVs2iNGqMLkgDnc2Ndc/2uJnEZS3HzRREOfm328X0dweNmFNK1DPL4OQxSAjRT/4yzXqEcTaCZ3BUsOIx/FUnyDh7LfHJ5Ymfkj9vIaDbou3sYZLBcYtiUBY6mbDe+Zx4QwR0gVo4LME7FG2ATz4+fISo=;SAupQFBpaei4aGieJ+E5+Q=="
 ---
 

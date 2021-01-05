@@ -698,6 +698,22 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Trump To Speak At Wednesday's 'Save America' Rally Protesting Election Results"
+    excerpt: "Thousands of MAGA supporters are expected to attend the rally in a last-ditch attempt to keep the lame duck president in the White House."
+    publishedDateTime: 2021-01-05T03:05:00Z
+    webUrl: "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450"
+    ampWebUrl: "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
+        width: 1024
+        height: 688
+        isCached: true
   - title: "Trump Is America's Most Admired Man In 2020"
     excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
     publishedDateTime: 2020-12-30T04:38:00Z

@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris accused of plagiarizing MLK anecdote in October interview with Elle magazine"
-    excerpt: "Vice President-elect Kamala Harris apparently appropriated an anecdote first told by civil rights icon Martin Luther King Jr. when she was interviewed by Elle Magazine for a feature that was published in October, at the height of the 2020 presidential election campaign."
-    publishedDateTime: 2021-01-05T01:14:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XknqmwgWe0A/kamala-harris-mlk-plagiarism"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-mlk-plagiarism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-mlk-plagiarism.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'"
     excerpt: "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic."
     publishedDateTime: 2020-12-23T23:35:37Z
@@ -95,6 +79,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/kamala-harris-husband-covid-vaccine.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris accused of plagiarizing MLK anecdote in October interview with Elle magazine"
+    excerpt: "Vice President-elect Kamala Harris appears to have repurposed an anecdote told by civil rights icon Martin Luther King Jr. in an interview with Elle Magazine that was published in October, at the height of the 2020 presidential election campaign."
+    publishedDateTime: 2021-01-05T01:27:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-mlk-plagiarism"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-mlk-plagiarism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-mlk-plagiarism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'"
     excerpt: "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic."
