@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia election official shoots down Trump's election conspiracy theories"
+    excerpt: "A top Georgia election official said Monday that \"everybody's vote did count\" in the state's November elections as he shot down a list of voter fraud conspiracy theories President Donald Trump aired in a call with Georgia Secretary of State Brad Raffensperger this weekend.\n    \n"
+    publishedDateTime: 2021-01-05T00:44:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gAhh3YeX2rE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/sterling-trump-georgia-election-official-conspiracy-theories/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/sterling-trump-georgia-election-official-conspiracy-theories/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104163050-gabriel-sterling-georgia-elections-0104---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia senator fighting for reelection personally lobbied Trump to sign spending bill"
     excerpt: "Republican Sen. David Perdue of Georgia spoke to President Donald Trump this week to personally lobby him to sign into law the omnibus spending bill that includes $900 billion in coronavirus relief, a person familiar with their conversation told CNN.\n    \n"
     publishedDateTime: 2020-12-29T03:24:36Z
@@ -521,6 +537,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump's call with Georgia's Raffensperger could be illegal, but it would be hard to prosecute, experts say"
+    excerpt: "Proving criminal intent would make a prosecution difficult, one legal expert said. Others were more gung-ho about the prospects of a case."
+    publishedDateTime: 2021-01-05T00:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-call-georgia-s-raffensperger-could-be-criminal-it-n1252761"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252761"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252761"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/n_mj_katyal_210104_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "nOzw4bVA3qhujnn9UW3tB0tjieVrZTC368uhpAf5lfkELl+V+7mhzwaIYFzVjKZamm7+dtaOOL7m/kxyDsN90dpBSqZrB1r21go3EAVf35tbqcNAoqD5LsDtH93MzKXGDjzvDm9BzB0LD+dx9q2rQnvkMwk7jqzkWN0bNivfytY1EqVEU2Fx2JneC/9DTXB1UFmk1rGw6Wjxi7UfhSJeUAy0hX2FRvxCNOntWbE1YRxMIeuEA+NkBvmYh/ZAClAy72M8sc3BpNxoTTAWVmGTcVpYPPjj0z2sdbaOmwdCng4X8fgwhVMn2fv3wjk2lP740hmqwizAEcgBa8Va+dzIMbPGS+u1XMCWNoBW8lHR2Mb9zE+dbTNhCISY8C2FXfa32tFbZNbj5hWeuS/KjEPqQr1QCiXnONngWwpXB2fktTZQuSL4dvdVqVGp488878UBwv3doWaH4kI1J55h5Vpk1zXeMEjYaafyYkIjYNCmn65iPJN2g4fr6ZTtbNk9jzQNJ9/Nx4lk2qqkfq/O6K784A==;MNZMxcBVqi8diDMlSn1HsA=="

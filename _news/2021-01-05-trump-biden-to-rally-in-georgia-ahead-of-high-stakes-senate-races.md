@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "GOP split over Trump, election runs across deep-red Wyoming"
+    excerpt: "A divide among Republicans over President Donald Trump’s efforts to overturn the election runs prominently through Wyoming"
+    publishedDateTime: 2021-01-05T00:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-split-trump-election-runs-deep-red-wyoming-75046614"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-split-trump-election-runs-deep-red-wyoming-75046614"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-split-trump-election-runs-deep-red-wyoming-75046614"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_52ca949ed7f54c659765461e621d0ab2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -683,22 +699,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "DC mayor calls in National Guard ahead of pro-Trump protests"
-    excerpt: "Bracing for possible violence, the nation’s capital has mobilized the National Guard ahead of planned protests by President Donald Trump’s supporters as Congress votes Wednesday on affirming Joe Biden"
-    publishedDateTime: 2021-01-04T22:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/urging-calm-dc-mayor-calls-in-national-guard-for-protests/2021/01/04/01c72eda-4eb6-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "'Truth matters,' says Georgia official resisting Trump pressure"
     excerpt: "Georgia's secretary of state, Brad Raffensperger, says he was just following the law when he rejected claims by Donald Trump, his fellow Republican, that the president's election defeat was the result of widespread fraud."
     publishedDateTime: 2021-01-04T20:57:00Z
@@ -1085,6 +1085,17 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Foley & Lardner 'concerned' by partner's role in Trump call to GA election official"
+    excerpt: "Foley & Lardner said in a statement Monday that it is \"concerned by\" partner Cleta Mitchell's involvement in a conference call in which U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state,"
+    publishedDateTime: 2021-01-05T00:29:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-election-foley-idUSL1N2JF1SC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JF1SC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF1SC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
   - title: "Former Mueller prosecutor says the call of Trump asking a Georgia official to change the election results shows 'criminal intent'"
     excerpt: "Andrew Weissmann said President Donald Trump's call contained evidence of crimes, though legal experts are split on whether Trump will face charges."
     publishedDateTime: 2021-01-04T03:19:00Z
@@ -1382,6 +1393,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden urges Georgians to ‘lead us forward’ as Trump keeps up election fight on eve of pivotal Senate runoffs"
+    excerpt: "Tuesday’s double-barreled runoffs in the Peach State will determine which party controls the Senate for the next two years, and Biden said the Democratic challengers in the race will allow him to implement his presidential agenda if elected."
+    publishedDateTime: 2021-01-05T00:52:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/ny-biden-trump-georgia-runoffs-20210105-jpvc6tnbh5dorlkapvnzbtln7i-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/ny-biden-trump-georgia-runoffs-20210105-jpvc6tnbh5dorlkapvnzbtln7i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/ny-biden-trump-georgia-runoffs-20210105-jpvc6tnbh5dorlkapvnzbtln7i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 86
+    images:
+      - url: "https://www.nydailynews.com/resizer/DZpxkQVrQMiK0ZuTlrPZbsGTrtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3RQWOBI2KPYB5TQ7JEHW7OMZZU.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump and Biden head to Georgia for dueling rallies on eve of pivotal Senate runoffs"
     excerpt: "The dramatic clash comes just a day after reports surfaced of Trump’s new effort to pressure election officials to overturn his defeat in the presidential vote."
     publishedDateTime: 2021-01-04T14:16:00Z
@@ -1414,6 +1441,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Georgia Secretary of State to Trump: ‘What you’re saying is not true’"
+    excerpt: "Trump pressured Georgia’s Republican secretary of state to “find” enough votes to overturn Joe Biden’s win in the state’s presidential election."
+    publishedDateTime: 2021-01-05T00:02:00Z
+    webUrl: "https://www.al.com/news/2021/01/georgia-secretary-of-state-to-trump-what-youre-saying-is-not-true.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/georgia-secretary-of-state-to-trump-what-youre-saying-is-not-true.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/georgia-secretary-of-state-to-trump-what-youre-saying-is-not-true.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZKPFGRKXLBAGRFARB3562ZG6Q4.jpg"
+        width: 1024
+        height: 867
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-03T19:54:00Z
@@ -1427,6 +1470,22 @@ related:
     quality: 74
     images:
       - url: "https://www.baltimoresun.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
+    excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
+    publishedDateTime: 2021-01-03T00:00:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4107424001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4107424001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -1660,6 +1719,17 @@ related:
         width: 1024
         height: 657
         isCached: true
+  - title: "DC Mayor Calls in National Guard Ahead of Pro-Trump Protests"
+    excerpt: "Bracing for possible violence, the nation’s capital has mobilized the National Guard ahead of planned protests by President Donald Trump’s supporters as Congress votes Wednesday on affirming Joe Biden’s election victory."
+    publishedDateTime: 2021-01-05T00:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-04/urging-calm-dc-mayor-calls-in-national-guard-for-protests"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-04/urging-calm-dc-mayor-calls-in-national-guard-for-protests?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-04/urging-calm-dc-mayor-calls-in-national-guard-for-protests?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "IhCRs9cBEV00QTDfzKIDJbtiwrLQ/WZOkFrIlQd+atpyDpzte5mDOzXGmG9PD//9c7k33CqwoLQmma0hWZejAgMV/Q1Av47uJ6WPGoT0WVRWEkC3OlgAzVixrg0FC7igxGF6FR9C+kyV8WfmB6agMNA7m2j9GZjtuwIfS+dMtLYwpVvgnr3271F92mcNWmAgiYOJELJpLNOJLffCc+26lJ1PW3KqLQe5Khkgg+7PYLsKg8/D9vQdodZp5syRdJKrt15zL6o84nDLBwnfHuugUu1TtfPsFmE+87treVNvvWDwbSWWj12Z/YFEYwigVT2lENO4UUC/i9+k81GNXmNUbgZDxNw3xaCPxPVxH1CjMoE=;b3x2yfERFR0Fu3fUSj/oNQ=="
 ---

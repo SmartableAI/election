@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia election official shoots down Trump's election conspiracy theories"
+    excerpt: "A top Georgia election official said Monday that \"everybody's vote did count\" in the state's November elections as he shot down a list of voter fraud conspiracy theories President Donald Trump aired in a call with Georgia Secretary of State Brad Raffensperger this weekend.\n    \n"
+    publishedDateTime: 2021-01-05T00:44:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gAhh3YeX2rE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/sterling-trump-georgia-election-official-conspiracy-theories/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/sterling-trump-georgia-election-official-conspiracy-theories/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104163050-gabriel-sterling-georgia-elections-0104---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia senator fighting for reelection personally lobbied Trump to sign spending bill"
     excerpt: "Republican Sen. David Perdue of Georgia spoke to President Donald Trump this week to personally lobby him to sign into law the omnibus spending bill that includes $900 billion in coronavirus relief, a person familiar with their conversation told CNN.\n    \n"
     publishedDateTime: 2020-12-29T03:24:36Z
@@ -507,6 +523,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_53/3439288/210103-donald-trump-jm-1619_a67bfcb4b233682890956e527ecbe768.jpg"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "Trump's call with Georgia's Raffensperger could be illegal, but it would be hard to prosecute, experts say"
+    excerpt: "Proving criminal intent would make a prosecution difficult, one legal expert said. Others were more gung-ho about the prospects of a case."
+    publishedDateTime: 2021-01-05T00:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-call-georgia-s-raffensperger-could-be-criminal-it-n1252761"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252761"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252761"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/n_mj_katyal_210104_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "POLITICO Playbook PM: Will Trump derail the Georgia GOP — or put them over the top?"
     excerpt: "ELECTION DAY in Georgia is tomorrow, but Trump and his congressional allies are ensuring that the final hours of campaigning are focused on … the last Election Day. THE RADICAL ATTEMPT to subvert the results of November’s presidential election,"

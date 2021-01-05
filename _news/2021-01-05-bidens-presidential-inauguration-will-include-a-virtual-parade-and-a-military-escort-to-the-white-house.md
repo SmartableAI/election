@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
+    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
+    publishedDateTime: 2021-01-04T18:16:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
     excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
     publishedDateTime: 2020-12-29T00:15:00Z
@@ -249,22 +265,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
-    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
-    publishedDateTime: 2021-01-04T21:01:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 50
-    images:
-      - url: "https://www.baltimoresun.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
     excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
     publishedDateTime: 2020-12-28T09:47:00Z
@@ -282,6 +282,6 @@ related:
         height: 683
         isCached: true
 
-secured: "sshyJVt7XaLoDQJB1+VK5IV44OM76/exC4uZn4R6KJhLP5U64YN1jnaxaW6W5nMiA928MixEXY8AiCWG83nJbCGn1LSOsZgSO2BSh9lEgUrI8nyZLcEjWxV6lMN/wiCUj+u2OUjv+Ox8qiXLMFfOqv0/2OElHYIcP3Arner07v8IBjvsgN5CBaqSV9fwy//2I1qajbNXTMJJvG9cg6ksgcO2CUFPQZXs2z13wi7nuez2vU12d7mqwysp19Nmvil5Kh5HD0LDjfYl6UR4uOD/yM9RE6bYlEvTJgKGxSndsqu7294n5U7zFc9vLS6VmPsQA0b1lYRVRwmkMgjhlWTpXeztNvrufZDnMTSVjAWQWwU=;jBLx63INcsjiT61oKJiL9g=="
+secured: "1eC2rnJJNOJ+QjvVJRBlkpWEcBeOH42kqIRKuh4jpNlqfIk/uX/APywpdtgbxnrW6EEVWWg/wbOZq2d2rXktXvIiBNFDQbbIsdo5WzmKnOyok11880HlYdLnd4DeaTsvYUowG1kMgRsBhKu6Ol/xSSmBxrbY5v/UsPJ1Mm8by24kyV3eQJHXGy8b5AR1uMvtXNdq7n+o5Py+kD+IHR4XbMInf8BjwdDeNbrZdGunt0PFq7AnW32hup6PoXq3pmds4WcEomWypYS3/B5x/R6nOL0RJ2vvgWSz6qxSnO4rQm2D6EEg/DFjVUswCzlt2Oh/k3X+QQ7QDqe+5so8B0Du1oY9U07i4IXkF9nGcQZfRr0ks4caEURHip/0OaoQ18+UaJUzy3dcf+popY5Dmvskib6i3FHEGN75t9i7aYYudrq0m/xBZVBaKyIEV0D9piXjAUnzQV83CKRT7mtf8D8yStyMYN9ymPtV2Feu32hYRPTBRbSvKuebQzfhlmHaUvjqeUNyES1Bb1ZKEa7o+mJsPA==;ODvRrl5YLbcWVECzOI/+tQ=="
 ---
 

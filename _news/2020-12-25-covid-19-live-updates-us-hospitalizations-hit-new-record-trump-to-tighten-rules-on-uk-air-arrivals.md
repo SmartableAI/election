@@ -110,6 +110,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Growing body of evidence' that COVID-19 leak from Chinese lab a 'credible possibility,' Trump official claims"
+    excerpt: "Deputy National Security Adviser Matthew Pottinger made the claim in a virtual conference call with British lawmakers."
+    publishedDateTime: 2021-01-05T00:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f03e09b3-650c-4fb5-9d3f-171e055fea2b/a5c1edae-c5a0-4caa-813e-9e6533b35597/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
     excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
     publishedDateTime: 2020-12-22T15:53:00Z

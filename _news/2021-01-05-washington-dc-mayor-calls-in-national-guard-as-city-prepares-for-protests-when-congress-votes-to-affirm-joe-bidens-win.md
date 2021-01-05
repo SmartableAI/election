@@ -2,26 +2,30 @@
 category: news
 title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
 excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
-publishedDateTime: 2021-01-04T21:01:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+publishedDateTime: 2021-01-04T18:16:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
 type: article
-quality: 50
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
+  - url: "https://www.chicagotribune.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
     width: 1200
     height: 675
     isCached: true
@@ -278,6 +282,6 @@ related:
         height: 683
         isCached: true
 
-secured: "AXMN5+Bn0+ju6VB1D6QfrsrMk7YlVsQUegeNpmRQaM5EHJEN4HrXcgz//sUUj4XlEtBzDReE+xZsze8LS4LvtIV3Y5eb4/STxc4oeTFGYb6xfy6/oP7N6C+KziZ8PclXPsJj0ctpUGc7ad2lS7Roq4pz7PZ0mYOABLpcnihetU6fahP+WOEjkpPUG/Po0tWOegZ416uhlf/TAX+F99hsAmuSeARwCG6mlXT5HKSUTYYDScTebiERxk3q9l5fdzPW0fXnHDEbOENIbu/a+rFkBhfYbg6al44VGM1y7YV3N860QTRkLS/B/yfRkblmAeMTSQT+f7NwvAeOhYpT42fJ95XRju4mEF/jBboDhCfRLdg=;heo3oOxksRH61G4qqf13jg=="
+secured: "ZTWOZ2gEPxWjIwzLsht1IiWZOxd+746lbCNHK+L+O/YeEfB4zSOaJTt1FCK13SjMeFzCmbQ7ih7Yeo3C5cgZU8FOhB9wtea95iOZjO3sAmhyvVx9bsbNqHBWGmk6UvK6DTZuPK5y3Iv7fVhHmVxt6xtFSOEMQjTXWlLqrD6+02IkNfLVQekkXzBNSWiECzW+mKjioNJHIiRqM1r6xhGA1yxXgGgbX4FVPp0e+q1w2L5a8KdI3YlEymvrvQ/vzx5vZxJgWOmmF4tYrg+x0Qb0ahuRPTE04zyWP8U3kek+Heui5Jcu29BeDGyZNpAvPyhj8Uj9k1Gthkor+/sONTlagOtYXi0myE9ri5/yV3DSBm0=;mB82gCI1RQ5EkTDlMpkOjg=="
 ---
 

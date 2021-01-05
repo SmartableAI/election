@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kelly Loeffler says she will object to the certification of Biden's Electoral College win"
+    excerpt: "Republican Sen. Kelly Loeffler of Georgia will oppose the certification of the Electoral College results on Wednesday, she said in a statement released Monday evening.\n    \n"
+    publishedDateTime: 2021-01-05T00:17:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2qf_UerM4CU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124125657-sen-kelly-loeffler-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Nationwide Covid memorial announced as part of Biden inauguration"
     excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
     publishedDateTime: 2020-12-31T12:57:00Z
