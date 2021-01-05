@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-sec
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
 type: article
 quality: 122
-heat: 202
+heat: 162
 published: true
 
 provider:
@@ -61,31 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
-    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
-    publishedDateTime: 2020-12-09T19:42:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden's trade nominee has family roots in both Taiwan and China"
-    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
-    publishedDateTime: 2020-12-12T00:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "chefqoKvf+918Kc6G4k000vccwqWDtAH6LAdblBlSKjFDg7LuA69aUEWnT4eysyQGBkgpJ0Hoh3Ec6iL+GK4Dl0522vESw6kQU5brkEbyRdsEkjam9fDMLscNJ2ReF2E8v+6dJeqlT5ny+DaCzEMWh4Z/hAyPsZqw5TG+mWD3qcxXrLaoL3HAqTbNYjXErrD0eX+y8gIUbFrj5BCoQIhVwG7H04lAgof8Ers7jfJidTfut+NFgxD+NQahd+C/EUIx2pN+5KztwzOq+8DyzbiDk9adME4v2Rvt4tigAap93yo/pA20Ibz7/5ZtNhgsqIZ6EKjxDkYXIogsvi/cfc+OsHm6fkRFQFWrpl0d7C6Y2ulnd4/KkRfptZ3YFhLEqT6WtZ9KmveP2jK/ssdrPjWflQr/wXEMStrJzQ5afm8xdT3k4fsd2IbXC9pyuY2C8kx9lZ0HnTdxYredIFqLHhIKud3J9Pgm9C1C33OFm+JFqnYpe1R3RXFHws3uAUXUJHJkxtcx4Uz6/nMYKXiDYALhA==;QZyO82zh2IJf7Y0DDXBcFg=="
 ---

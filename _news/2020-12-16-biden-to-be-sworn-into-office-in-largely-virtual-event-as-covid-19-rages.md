@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO"
 type: article
 quality: 124
-heat: -1
-published: false
+heat: 244
+published: true
 
 provider:
   name: Reuters
@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden inauguration to feature memorial for COVID victims"
-    excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
-    publishedDateTime: 2020-12-31T15:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden inauguration events to include memorial for COVID-19 victims"
-    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
-    publishedDateTime: 2020-12-31T16:33:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Manufacturing trade group condemns GOP push to overturn Biden victory"
-    excerpt: "The largest trade group for U.S. manufacturers criticized Monday a Republican effort to overturn the results of the 2020 presidential election and urged lawmakers to focus on fighting the coronavirus pandemic."
-    publishedDateTime: 2021-01-04T20:50:00Z
-    webUrl: "https://thehill.com/policy/finance/532573-manufacturing-trade-group-condemns-gop-push-to-overturn-biden-victory"
-    ampWebUrl: "https://thehill.com/policy/finance/532573-manufacturing-trade-group-condemns-gop-push-to-overturn-biden-victory?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/532573-manufacturing-trade-group-condemns-gop-push-to-overturn-biden-victory?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/manufacturing_safety_shields_05182020_1.jpg"
-        width: 980
-        height: 552
-        isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
     publishedDateTime: 2020-12-31T12:49:00Z
@@ -95,69 +47,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
-    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
-    publishedDateTime: 2020-12-29T11:00:00Z
-    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+  - title: "Joe Biden pledges to distribute 100m vaccine shots in first 100 days of presidency – live"
+    excerpt: "President-elect vowed to implement an effective vaccine distribution plan during the first 100 days of his administration"
+    publishedDateTime: 2020-12-08T20:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfe5e58f08a20e617dac21"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
     images:
-      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Appeals court clears way for only woman on federal death row to be executed before Biden takes office"
-    excerpt: "A federal court has cleared the way for the only woman on federal death row to be executed before President-elect Joe Biden takes office."
-    publishedDateTime: 2021-01-02T21:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/02/lisa-montgomery-execution-appeals-court-clears-way-her-death/4114538001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4114538001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114538001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/17/PNAS/989839bb-17d1-4cf0-a2bf-79501cdbb429-Lisa_-_prison.jpg?auto=webp&crop=1175,661,x0,y600&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
-    excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
-    publishedDateTime: 2020-12-31T00:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden's presidential inauguration will include a virtual parade and a military escort to the White House"
-    excerpt: "The Presidential Inaugural Committee said a virtual parade would replace a traditional Inauguration Day parade because of the COVID-19 pandemic."
-    publishedDateTime: 2021-01-04T20:52:00Z
-    webUrl: "https://www.businessinsider.com/biden-presidential-inauguration-virtual-parade-military-escort-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-presidential-inauguration-virtual-parade-military-escort-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-presidential-inauguration-virtual-parade-military-escort-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5ff35f366056b60018721c8f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/222afd159c5091a7b8811b469ad1b9c386648401/0_0_5522_3681/master/5522.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=88cd54e9803f1d2760468ee061ec5748"
+        width: 600
+        height: 400
         isCached: true
   - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
     excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
@@ -173,127 +77,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden repeats call for 'full visibility' during transition"
-    excerpt: "President-elect Joe Biden said Dec. 28 that his transition team has encountered political roadblocks from the Trump administration and called it irresponsible."
-    publishedDateTime: 2020-12-28T21:35:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-repeats-call-for-full-visibility-during-transition/2020/12/28/7d8fe81e-2fc6-49d0-bb07-314b2e830f59_video.html"
+  - title: "'Darkest days ahead': Joe Biden gives sobering message on Covid – video"
+    excerpt: "Joe Biden said the US would have dark days ahead in tackling the coronavirus pandemic and things would get worse before they improved"
+    publishedDateTime: 2020-12-22T20:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/dec/22/darkest-days-ahead-joe-biden-gives-sobering-message-on-covid-video"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_6f8155c986d04d3d84a230db9667a68f_name_20201228_Biden_thumb1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 833
-        isCached: true
-  - title: "Biden to mourn U.S. COVID-19 deaths in nationwide tribute"
-    excerpt: "With the coronavirus death toll steadily rising, President-elect Joe Biden plans to honor the more than 300,000 lives lost in a nationwide tribute on the eve of his inauguration – which is expected to be a smaller,"
-    publishedDateTime: 2021-01-02T13:09:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-to-mourn-us-covid-19-deaths-in-nationwide-tribute/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/02/2c957dee-7664-45ec-922f-021a47430535/thumbnail/1200x630/12d27e34ebc8eb25609e8a2abd09bea8/0102-satmo-bidenlatest-killion-618982-640x360.jpg"
+      - url: "https://i.guim.co.uk/img/media/bb7c716852214216bc58e718cbc21e4966cd6eb5/0_139_5746_3450/master/5746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a08451ce165989766cb586154cbb2e8"
         width: 1200
         height: 630
         isCached: true
-  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
-    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
-    publishedDateTime: 2021-01-04T18:16:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+  - title: "Joe Biden: 'Darkest days in the battle against Covid are ahead'"
+    excerpt: "Mr Biden, who is due to be sworn in next month, has made the fight against the virus a priority and promised to distribute 100m vaccine shots in his first 100 days in office. Biden: 'Darkest days' ahead in fight against Covid."
+    publishedDateTime: 2020-12-23T01:54:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55419737"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
+      name: BBC
+      domain: bbc.com
+    quality: 105
     images:
-      - url: "https://www.chicagotribune.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
-        width: 1200
-        height: 675
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09281s8.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
-    excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
-    publishedDateTime: 2021-01-03T03:37:00Z
-    webUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
-    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
+  - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
+    excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
+    publishedDateTime: 2020-12-22T22:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/joe-jill-biden.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
-    excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."
-    publishedDateTime: 2021-01-04T19:47:00Z
-    webUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281"
-    ampWebUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/joe-biden-warned-that-the-virus-crisis-might.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
-    excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
-    publishedDateTime: 2021-01-03T23:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/eb8d47e8-dbef-4300-b47d-0eea8dc13aee-AP20343703704788.jpg?auto=webp&crop=5999,3374,x0,y508&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
-    excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
-    publishedDateTime: 2020-12-28T09:47:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 48
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_fc9e91c267a54ba529f7e2f59370c929-h_91fcd3c81c0d0cb119b2f6ffdc0c4bc4.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Which Texas Republicans in Congress plan to object to certifying Joe Biden’s Electoral College victory?"
-    excerpt: "More than a third of the 25 Texas Republicans in Congress plan to object to the certification of Democrat Joe Biden’s White House victory"
-    publishedDateTime: 2021-01-05T17:18:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/05/which-texas-republicans-in-congress-plan-to-object-to-certifying-joe-bidens-electoral-college-victory/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 39
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LbXccO3V0HDUT3mrZSSCSusJXHc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2G57R5URCEHUMWCRYIGQMRW56A.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "2+kYYGOixsNcCYA4sSj7/vc6619XQw2hS6fVE/ncBjjlDXqKjvcjle+c4ummuL1ZQKiMUnS1jLJgNRS5hVZbOmzaQGCe5cA7FFqmtFFe/p8OkaIUAlqP9PxGBodMVTiqQlya5TK/e424lNhVOa68iroPtojJzgpQhuqFXfeNstiJuP5EROZtWBTvGcPA4bdfDVPo5LmyzWN1+/P+NmmNf5MvDigd902/yx+8aK2oOVOJW9izxgl6XJKfQzTOhVEIl2E1ZvHej14Bkvenw6NV9v7/9mixCEEA47yMRDDmF7M3agd9Z0wptFPrdvptsOJc6kVGibXIDlVbs9uYzU1ioqT+EmIwVzABgjfb/WSK+YQDVL80XFhLSkh3rcarV4JsZRcHg/l/GqF8/fw30wN5oeA2C/pIUmIlYMQqH3D9lbKg9vZ+QvFrxJLxTuUlcapQH2JJ5igFeNLNh1Ruvy+5oa3Ac50K9F8gtekihoGDnmDkpu7AeUliNCQQZwx2P6W6cg2LxId7P3yJnxCAiEMkzA==;ow1JEGa5cgm7B7At9a7qSQ=="

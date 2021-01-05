@@ -804,17 +804,6 @@ related:
         width: 1484
         height: 989
         isCached: true
-  - title: "In Georgia, Biden's presidency meets early defining moment"
-    excerpt: "Usually it's a president's first midterm election that reorders a White House's political approach and priorities. For President-elect Joe Biden, his most defining congressional election is coming before he takes office."
-    publishedDateTime: 2021-01-02T09:38:00Z
-    webUrl: "https://www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-georgia-bidens-presidency-meets-early-defining-moment-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Joe Biden speaks at rally for Georgia Senate runoffs"
     excerpt: "\"Georgia, the whole nation is looking to you,\" President-elect Joe Biden said at a rally for Democratic Senate candidates Jon Ossoff and Raphael Warnock the day before the state's runoff elections will determine which party controls the Senate."
     publishedDateTime: 2021-01-04T22:33:00Z

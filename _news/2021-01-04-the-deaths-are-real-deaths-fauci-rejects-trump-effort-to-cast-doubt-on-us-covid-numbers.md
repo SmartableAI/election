@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
-    excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
-    publishedDateTime: 2021-01-03T20:27:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "3TR9mlar/nx1U5h0zd9oqbu/MRxtgvTV0p2ahyWWxG1een88I28keITh2I7nQs5HEkhQ97pgEbtUVkyhMxNcwY9wGZK5eJ577MBdx7xq1g6pJggf8WPMNi4ufKmQwVrEmqi/UIFy3lI/M6HFv0kHqymWfBeS0PrrrVv9Azmgbcl2DClZjbGMDKh5nSetfqXgnn2ndWR1wUxGqRXSh2yy2Y6h6wo+pXZhFMYLdzqjr9okXQy8pnQllS7B1tyz6fdne1/uWX8cPHDPGsziEQqXMW4pcQkWsc5LkAZkPys8rOVBnV7L9+MtCzel6/d3CwIw5/NYtNz/cAWz4zG2ZYIbZuD4T2O5im/XVrOZrmdKR6c=;TDwSGK6ax3olBuTidlV/gg=="
 ---

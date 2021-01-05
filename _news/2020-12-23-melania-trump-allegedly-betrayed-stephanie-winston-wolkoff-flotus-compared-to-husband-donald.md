@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Gets Mad At Mar-A-Lago Staff Over Renovations Made By Melania: Report"
+    excerpt: "First Lady Melania Trump worked with interior designer Tham Kannalikham to renovate and update President Trump's 3,000-square-foot private residence at the members-only golf club in Florida."
+    publishedDateTime: 2020-12-30T01:42:00Z
+    webUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435"
+    ampWebUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Fv73RIuqCXX6n4ty1vMCMtKpg1/UeqZJxUcs4JzXZZHzZcRcXSbzy8VPDToDhPpT6Cy4ATSSWfS2ahRFUzumOpmp4w3ouw7aeHEh2P9vDSALzgtAoHQ1AYOFSDY1Y1h7KA3OQDeopEy7JXv9Wi9W27Q/cZzFeIpKKuDXyE+MaT8JIu7oeBYgEbwDFT6qDaNnN8FuXhWU4I3hGdUSKBtyBSYikVeOFPnRHGH80oEQHghXyG8iRiM+SY493C1bhWCKvNhRoCHd8EzWLbaNuyr/VRN7pW+EzwbLDxOM2J9dXolOszJdYhAgceHofznxVtaWZ6pXI5EBCrRSJ1/PBdUcxKu2Alvrj0OPIJ9RNj7mIN4IgLZr9fHvgu8gRTPzDB+niZDSYgdzQWFyi9yXW+CXxDict0tR2RzAk09NpGvJPf5pij+W7RkrfyZVltyD0T6XpHG/zwuGepfJ+AHwZSmTkpBKgPy7bMwqjeHfrtH1ldFRqTTD68uMn/MPsGq2nBdwMTGCBfRugK3Wdf2w/DXTrA==;AQtrjoJN0l/+tqyutcbs2g=="
 ---

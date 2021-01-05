@@ -127,17 +127,6 @@ related:
         width: 881
         height: 545
         isCached: true
-  - title: "Trump-Biden transition: Attorney Sidney Powell back at White House Sunday"
-    excerpt: "Attorney Sidney Powell was back at the White House Sunday to push President Donald Trump and his administration to issue an executive order to seize voting machines for examinatio"
-    publishedDateTime: 2020-12-21T11:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
   - title: "Hunter Biden's taxes are under investigation by the US attorney's office in Delaware"
     excerpt: "President-elect Joe Biden's son was in the spotlight during the presidential campaign for his business dealings with Ukraine and China."
     publishedDateTime: 2020-12-10T00:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-le
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
 type: article
 quality: 115
-heat: 175
+heat: 215
 published: true
 
 provider:
@@ -78,6 +78,33 @@ related:
       - url: "https://i.guim.co.uk/img/media/901396f3794c94dee56ca5859beeb1ed2552933d/0_409_6170_3704/master/6170.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d11dbe6e09d1411a8248359860fe241"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+    publishedDateTime: 2020-12-07T12:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
+    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
+    publishedDateTime: 2020-12-07T01:53:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
+    ampWebUrl: "https://amp.freep.com/amp/3776655001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 677
         isCached: true
 
 secured: "UPYuzRbOFbKgEwNpvlSOj/+b5G0rfWY6M6JWJnCuwVndRRcc8xgpen/Q/ERtPkaGEjBV/eFM+sf2l4vsWAyefXn2M2ZqaFAFffTyYNTelQy4/Y6LJ/QdXjuvotCGuLVWGbJbDFvAjrup6Y4/pwifAJmRRffH7Bp538AAL3tPcs8yfhnfTCetu+FmRTHdv5d42fpf3Blb85YgE1HFVzj7JXTqGVS3x6SsH0uKdKExMnDmXV8pheOvp2Ed/m2sOIMk9X5Ok8g0S0vgTghT5wXq/5H/a2U7McaM1VGiNgg7klmK7q2mZ6LBFtKbSXz+znFcBqYGOkH/bqhBk3M22XEAVoAmyUkQSbFndd+wXktJA1BL2z89E1tOfmXahpT5UpRwhZr0u4JWT/XeN06Jwv9NSC94ePPp8VVo6iNhluxVEaljsQnc41TpasZUAjg20G2FJzLrH/YwjUqbDwknXzc1hdRm9aI2Hnnes2A0/aMxbMZG/7wamhX4umRCJYJUwP1SvuAA/1PBxsphCy7PP0okBg==;13HHLZeFxfnBZh5YUW/kFg=="

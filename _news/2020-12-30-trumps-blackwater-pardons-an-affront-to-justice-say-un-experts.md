@@ -111,54 +111,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
-    excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
-    publishedDateTime: 2020-12-29T22:06:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "U.S. judge blocks Trump sanctions targeting human rights lawyers, war crimes tribunal"
-    excerpt: "A U.S. judge on Monday blocked the Trump administration from sanctioning human rights lawyers for supporting the work of the world's war crimes tribunal, the International Criminal Court."
-    publishedDateTime: 2021-01-05T04:44:00Z
-    webUrl: "https://www.reuters.com/article/us-warcrimes-afghanistan-trump/u-s-judge-blocks-trump-sanctions-targeting-human-rights-lawyers-war-crimes-tribunal-idUSKBN2992MD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2992MD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992MD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546601042&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0319Y"
-        width: 806
-        height: 545
-        isCached: true
-  - title: "Extraordinary warning to Trump by 10 former Pentagon chiefs"
-    excerpt: "Efforts to involve the U.S. armed forces in resolving election disputes would take us into dangerous, unlawful and unconstitutional territory,” in an op-ed pieces signed by all 10 living former U.S. Secretaries of Defense."
-    publishedDateTime: 2021-01-04T14:00:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-defense-secretaries-20210104-fszsbhk4mrgwvmx53f3xlxdba4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
-        width: 1200
-        height: 906
-        isCached: true
 
 secured: "ESPPKQc1ePBPp1PVsglPKjxEbsbXNCU8Le45vpWQPlkLreDuqMNMn8EIH0XP9ugftQ5eEOxD+3iwtMIU8agstSaVMLwzXsL2bi5eRMwVEgAxHup7Z7VLYGd0Liboc0iDa3vqX+TJ4ErROTtRxt87tdzl4uuBcRYfEJrdssgYoHqbws2YGBqDJzDZbjKSW5Ka6WAd+dpmg08APzMmDvOFYfKT3iP0xfzdyJch15hq/yqvxb7IxF6dJZIIRbmzZVvjD8SGa+AtPBQ+Uu+5SdNOeFh6Wz8/ww+O8a+lBJId/Y451X3XNOjmawpqZIFztJKSg3O1ThLERLbcFiRvaJzaJyY1WPa4Xx6fW5uLeklZwHYNn118l2nngQKMq3Q1FRa8n2qu3Fk7TGnAwPsEqPb54nzZ5IrRnAyN7kI9KI6G4Blfq36w29vCrruywBTf8PFDC8oKwqlGxuBJDScQt937k4d2fgXubOjP3hQyVbeW3u5QPUbW0R2Ru6yD+b1hJvchmlP3Uo8oLjceUEFBlerHjg==;lt0O1dl3mSpXfoaU/LPL/A=="
 ---

@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Seven of the most bonkers false claims from Trump's Georgia rally "
+    excerpt: "It's almost too bonkers to fact check.\n    \n"
+    publishedDateTime: 2021-01-05T19:58:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bpWygv0y8XE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/fact-check-trump-georgia-rally-loeffler-perdue/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/fact-check-trump-georgia-rally-loeffler-perdue/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104221117-trumo-rally-georgia-elecciones-senado-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia GOP lieutenant governor says Trump call with secretary of state 'inappropriate'"
     excerpt: "Georgia's Republican lieutenant governor on Monday condemned President Donald Trump's phone call with Secretary of State Brad Raffensperger, saying the President's effort to pressure the state's top election official to falsify election results was \"inappropriate.\"\n    \n"
     publishedDateTime: 2021-01-04T14:37:29Z

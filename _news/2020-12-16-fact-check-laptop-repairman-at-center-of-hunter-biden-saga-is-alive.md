@@ -77,22 +77,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
-    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
-    publishedDateTime: 2020-12-18T21:39:00Z
-    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
-    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
   - title: "Hunter Biden, long a GOP political target, reveals he is subject of federal tax probe"
     excerpt: "Hunter Biden, the president-elect's embattled son, announced Wednesday that federal prosecutors in Delaware are investigating his \"tax affairs.\""
     publishedDateTime: 2020-12-10T00:16:00Z

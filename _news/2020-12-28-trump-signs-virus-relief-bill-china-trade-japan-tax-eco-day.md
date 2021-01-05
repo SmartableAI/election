@@ -79,17 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CORRECTED-Trump voices concern about trade deficit in call with Vietnam PM"
-    excerpt: "U.S. President Donald Trump raised concern about his country's trade deficit with Vietnam in a phone call on Tuesday with its Prime Minister Nguyen Xuan Phuc, the White House said."
-    publishedDateTime: 2020-12-23T10:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-vietnam-idUSL1N2J30A1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J30A1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J30A1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
 
 secured: "Y3VNdCz5y2OLJKb3xX/QNcEVDXmbLzDDEUhM9kcUd9WgR1YPhJjP3c3Rb8JFlqSnNJi+x+l0CUwRrMX9wF+a5aajJHv6Z9nlr/voROFKECvsjw4zOyOojK74+Bz9ZdmV26bwyitso1D1zncHVgffIiY+w9ugwUyAVT+UhvEfKgsL087PxtqWfv8R6KAMc3GPQzF5P8lmHnzfysaal06sRaPzgq0QfeEakB/64VpW9T0IcHD0IgYcoS1FBthqImuyHEnPR+r27zd8l8HP95BvSvS6MZYecPbQ7g+eho4X0xH1cUAnPqmptN5Es8X9OAiLFbld6v65ed6xPKzK2VCvpmSzMI8T0BbTTAv+C9o2Nug=;VbiGkk0BZwCksu6o8umCgQ=="
 ---

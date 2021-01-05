@@ -654,6 +654,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Fact check: No, Pence can't overturn the election results"
+    excerpt: "President Donald Trump claimed on Tuesday that Vice President Mike Pence could singlehandedly reject certain electors during Congress' certification process, turning up the pressure on him to help overturn the results of the 2020 election."
+    publishedDateTime: 2021-01-05T20:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/fact-check-no-pence-can-t-overturn-election-results-n1252869"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252869"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252869"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439708/210105-mike-pence-mn-1401_7cfc6a3b8ae43573c0e9c9c3e8411a59.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump Pressures Pence to Reject Electoral Votes"
     excerpt: "The vice president plays a crucial but largely ceremonial role in certifying the election results in Congress. Here’s how Congress’s election tally actually works."
     publishedDateTime: 2021-01-05T17:28:00Z
@@ -701,6 +717,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439555/210104-georgia-donald-trump-kelly-loeffler-rally-ac-1159p_905398a7de4c07e8af6ea1193f82fcf5.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump pressures Pence to throw out election results — even though he can't"
+    excerpt: "President Donald Trump pressured Vice President Mike Pence publicly on Tuesday to reject the results of the Electoral College when they come before Congress on Wednesday, part of Trump's doomed-to-fail,"
+    publishedDateTime: 2021-01-05T17:29:00Z
+    webUrl: "https://www.politico.com/news/2021/01/05/trump-pressures-pence-election-results-455069"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c525203e-595e-4147-971b-1d343b2d2960/5e45f899-c74d-4093-a529-e64368fff26c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
     excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."

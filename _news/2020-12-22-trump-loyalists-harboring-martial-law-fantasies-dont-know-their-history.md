@@ -79,20 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump delays signing of COVID relief bill"
-    excerpt: "Watch \"President Trump delays signing of COVID-19 relief bill, says stimulus checks should be $2,000\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-23T12:25:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201223115930-president-trump-delays-signing-of-covid-19-relief-bill-says-stimulus-checks-should-be-2000/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08240230_1608725103.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "+jV9I8mBpNL0mEau9ooH63/qw4O2TEgrU8yI8qukOkwNeg9JlWgXvk2iJb0dOGco+iYoERBP7n4L1SUPh7VeG7XSQ4lbD8egJMYPw8p8RjLnvt8vjLAvyFE1/8aCaW0TGln/wOTM5W9AX9MKLO3qri8/0Dcc0GGHOM5sWl7Ox0TDu3YepIlKnmViNYZW3Wv0SiL/sWSAawslbSaAu7bSSx+Rw4JnRofLPA5eKIFIp4lXZBlhdzxC20ZvQpuakqRZMc3JsjcBZJTlv4ETq/hUMR2CNlNZUetPo2kxRnOvlmwOccHYdSZI2SBGPvgmc8qYYX8/cOKx9d0iFBHYxPEaHBAfbaXO82mbcHlAFCecoV8=;QEEqg3tv9vk7M33XN3A9XQ=="
 ---

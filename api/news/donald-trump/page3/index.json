@@ -2,6 +2,214 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-27-trump-is-threatening-iran-and-biden-says-the-pentagon-is-stonewalling-him-on-many-things-with-less-than-a-month-until-his-inauguration.md",
+      "title": "Trump is threatening Iran, and Biden says the Pentagon is stonewalling him on 'many things' with less than a month until his inauguration",
+      "excerpt": "Lame-duck presidents typically wouldn't dream of threatening war in their final days. But Trump is anything but typical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe4f568a644880018193593?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
+      "publishedDateTime": "2020-12-26T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-trump-slams-us-fashion-magazines-for-not-giving-melania-a-single-cover-shoot-while-he-has-been-in-office.md",
+      "title": "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office",
+      "excerpt": "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
+      "publishedDateTime": "2020-12-26T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-trump-attacks-china-in-christmas-tweet-as-millions-await-stimulus-update.md",
+      "title": "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update",
+      "excerpt": "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-tweet-stimulus-china-1557359",
+      "originalUrl": "https://www.newsweek.com/trump-tweet-stimulus-china-1557359",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1693329/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1",
+      "publishedDateTime": "2020-12-26T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-what-watchdogs-trump-leaves-office-with-key-ig-jobs-vacant-across-govt.md",
+      "title": "What watchdogs? Trump leaves office with key IG jobs vacant across govt",
+      "excerpt": "At least a dozen of the 38 presidentially appointed inspectors general will not be in place at the end of the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/3c2c3290-0cf8-49e8-bf30-6fdfa08238ac-COVER.png?auto=webp&crop=1969,1108,x27,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4008278001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4008278001",
+      "publishedDateTime": "2020-12-25T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster.md",
       "title": "Sidney Powell’s secret intelligence contractor witness is a pro-Trump podcaster",
       "excerpt": "Lindeman, whose credentials were questioned in a recent civil fraud case, confirmed that she wrote the affidavit and said she viewed it as her contribution to a fight against the theft of the election.",
@@ -210,6 +418,59 @@
       ]
     },
     {
+      "path": "_news/2020-12-25-republicans-loyalty-to-trump-means-more-doubt-hovers-over-bidens-hope-of-bipartisanship.md",
+      "title": "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship",
+      "excerpt": "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 721,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HJHLZCFJMI6XLBKHLAPFOGO5M.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp",
+      "publishedDateTime": "2020-12-24T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
       "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
       "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
@@ -264,6 +525,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-trump-claims-to-be-working-tirelessly-but-leaves-covid-relief-bill-in-disarray.md",
+      "title": "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray",
+      "excerpt": "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden",
+      "publishedDateTime": "2020-12-24T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -644,7 +957,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -797,58 +1110,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-23-three-christmases-highlights-of-trumps-previous-mar-a-lago-holiday-stays.md",
-      "title": "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays",
-      "excerpt": "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3855759001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001",
-      "publishedDateTime": "2020-12-22T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-pence-echoes-trump-on-election-loss-in-west-palm-speech-to-conservative-youths.md",
       "title": "Pence echoes Trump on election loss in West Palm speech to conservative youths",
       "excerpt": "Vice President Mike Pence on Tuesday echoed his boss' defiance in the face of re-election defeat during a speech to young conservatives.",
@@ -857,7 +1118,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/pence-echoes-trump-election-loss-west-palm-beach-speech/4009750001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2581,
+      "heat": 2521,
       "tags": null,
       "images": [
         {
@@ -1123,7 +1384,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1227,7 +1488,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1279,7 +1540,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-trade-vietnam-analysis-idUSKBN28V18F",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1303,276 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trump-attempt-to-overturn-election-is-nutty-and-loopy-romney-says.md",
-      "title": "Trump attempt to overturn election is 'nutty and loopy', Romney says",
-      "excerpt": "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7d1d3b375fd2e6f241b830500e10ca3a1128bc06/0_139_4166_2499/master/4166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55712b8160d3857ce3ca12773beb4d92",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
-      "publishedDateTime": "2020-12-20T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trump-discussed-naming-sidney-powell-special-counsel-during-white-house-meeting.md",
-      "title": "Trump discussed naming Sidney Powell special counsel during White House meeting",
-      "excerpt": "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251859",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859",
-      "publishedDateTime": "2020-12-20T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine.md",
-      "title": "Surgeon General Jerome Adams cites antibody treatment for Trump's delay in getting vaccine",
-      "excerpt": "Surgeon General Jerome Adams says the president has a \"medical reason\" for not getting the vaccine, since he was treated with antibodies in October.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine/",
-      "originalUrl": "https://www.cbsnews.com/video/surgeon-general-jerome-adams-cites-antibody-treatment-for-trumps-delay-in-getting-vaccine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/9a30fef8-bcc4-4eee-a13a-56ed60de2d67/thumbnail/1200x630/0e944f6058e61ab8fce45d0edce0c185/1220-ftn-jerome-613079-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-full-panel-trump-downplays-widespread-us-security-breach.md",
-      "title": "Full Panel: Trump downplays widespread U.S. security breach",
-      "excerpt": "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608475557148_mtp_full_panel_201220_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo98115141679",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98115141679",
-      "publishedDateTime": "2020-12-20T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-trump-calls-for-americans-to-receive-more-money-in-direct-payments-as-congress-may-pass-a-package-with-600-stimulus-checks-on-sunday.md",
-      "title": "Trump calls for Americans to receive 'more money in direct payments,' as Congress may pass a package with $600 stimulus checks on Sunday",
-      "excerpt": "The coronavirus relief package that could pass in Congress on Sunday is expected to include $600 stimulus checks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdeff00d366e600180992ca?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12?amp",
-      "publishedDateTime": "2020-12-20T00:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

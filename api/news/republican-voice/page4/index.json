@@ -2,6 +2,174 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-17-democratic-donors-want-apology-from-biden-aide-after-bunch-of-f-ers-remark.md",
+      "title": "Democratic donors want apology from Biden aide after 'bunch of f--ers' remark",
+      "excerpt": "Some of President-elect Joe Biden’s donors want his aide Jennifer O’Malley Dillon to apologize after she called Republicans on Capitol Hill \"a bunch of f---ers,\" and at the same time praised Biden’s call for unity.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x2xvF3NDkME/unity-democratic-donors-apology-biden-aide",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x2xvF3NDkME/unity-democratic-donors-apology-biden-aide",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/biden-apJen-O-Malley-Dillon-getty.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp",
+      "publishedDateTime": "2020-12-16T16:30:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-biden-gets-buttigieg-husbands-name-wrong-calls-him-kristen.md",
+      "title": "Biden gets Buttigieg husband's name wrong, calls him 'Kristen'",
+      "excerpt": "President-elect Joe Biden during a speech on Wednesday accidentally referred to the husband of former South Bend Mayor Pete Buttigieg by the wrong name.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2OIDjKMU9FY/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2OIDjKMU9FY/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d48a1508-5938-48ec-8d61-d3278e41c1b8/39a23cf2-debb-4dd9-84fa-2a19f837f39e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen.amp",
+      "publishedDateTime": "2020-12-16T11:19:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-biden-pushes-back-against-critics-touts-cabinet-of-firsts.md",
+      "title": "Biden pushes back against critics, touts 'Cabinet of firsts'",
+      "excerpt": "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "publishedDateTime": "2020-12-16T10:38:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-hunter-biden-in-2017-sent-best-wishes-from-entire-biden-family-to-china-firm-chairman-requested-10m-wire.md",
       "title": "Hunter Biden in 2017 sent 'best wishes' from 'entire Biden family' to China firm chairman, requested $10M wire",
       "excerpt": "Correspondence between Hunter Biden and CEFC Chairman Ye Jianming from 2017 shows President-elect Joe Biden's son extending \"best wishes from the entire Biden family,\" and urging the chairman to \"quickly\" send a $10 million wire to \"properly fund and operate\" the Biden joint venture with the now-bankrupt",
@@ -1510,166 +1678,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-kamala-harriss-husband-will-teach-at-georgetown-law-school.md",
-      "title": "Kamala Harris’s husband will teach at Georgetown Law school",
-      "excerpt": "Vice President-elect Kamala Harris’ husband Douglas Emhoff will join the staff of Georgetown University’s law school next month. Emhoff, 56, will be the first non-female and first Jewish ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
-      "originalUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/georgetown-law1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
-      "publishedDateTime": "2020-12-10T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-in-leaked-audio-suggests-gop-beat-the-living-h-out-of-us-over-defund-the-police.md",
-      "title": "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'",
-      "excerpt": "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "publishedDateTime": "2020-12-10T13:30:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ilhan-omar-quite-happy-with-biden-officials-receptiveness-to-her-ideas.md",
-      "title": "Ilhan Omar 'quite happy' with Biden officials' receptiveness to her ideas",
-      "excerpt": "“Squad” member Rep. Ilhan Omar, D-Minn., said she was “quite happy” with the response after submitting a list of proposed left-wing executive actions at a meeting with President-elect Joe Biden’s transition team.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8iJVj2AP128/ilhan-omar-quite-happy-biden-officials-receptiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Ilhan-Omar-REUTERS.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-quite-happy-biden-officials-receptiveness.amp",
-      "publishedDateTime": "2020-12-10T12:25:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

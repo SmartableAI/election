@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
         width: 753
         height: 545
-        isCached: true
-  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
-    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
-    publishedDateTime: 2020-12-22T20:43:00Z
-    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 121
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
-        width: 3873
-        height: 2664
         isCached: true
   - title: "AG: 'No reason' for special counsel on election, Biden's son"
     excerpt: "Outgoing Attorney General William Barr said he saw “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden."

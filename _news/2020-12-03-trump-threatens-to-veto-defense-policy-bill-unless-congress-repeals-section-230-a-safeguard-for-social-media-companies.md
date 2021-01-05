@@ -173,20 +173,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "US Congress Slaps Trump By Overriding Veto Of Defense Bill"
-    excerpt: "The US Congress on Friday dealt Donald Trump a humiliating blow in his last days in office with the Senate voting overwhelmingly to override his veto of a sweeping defense bill -- the first time lawmakers have done so during his presidency."
-    publishedDateTime: 2021-01-01T20:02:00Z
-    webUrl: "https://www.ibtimes.com/us-congress-slaps-trump-overriding-veto-defense-bill-3113099"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/01/the-senate-vote-on-the-defense-bill-marked.jpg"
-        width: 1024
-        height: 656
-        isCached: true
 
 secured: "toaRcVFEbrLqsh/95LB46WgGCUhhOD6NygsJiU6pUdlk5b+PS4xfYUBM/2NVA6guIq9DDpLI4bhdnn99OVknI4Y7IynSeX0VoHVS5N5EsFlrzbGiUYRHeqLijIZgq97CXNyLnqgJq/YD7KafI4kS/MtIRNpUlpQY09Z2PxN08rkdd53+j0bgniKoqzWEEhrOemRGoVF4tZqKFZWr5TdpeX6r0RBVwJBMxQok2cQKh5m2NQd+zy7CFqad65U38RmKp501GV6LErr+MSSTZs9QfO3HK3USlIZtJDE4RYsvgmeHc8OzQ8yJoNHgjN/VUPLm7CEvFAz2Yc+FAfLvMwucm2o5dYo4xebieJBSQzT3kyU=;1uNNlD67qFOcOpsIZWhQ+w=="
 ---

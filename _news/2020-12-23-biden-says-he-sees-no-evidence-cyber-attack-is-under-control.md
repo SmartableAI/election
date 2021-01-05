@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
-    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
-    publishedDateTime: 2020-12-19T15:47:00Z
-    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
     excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
     publishedDateTime: 2020-12-22T04:30:00Z

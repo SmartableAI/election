@@ -79,6 +79,22 @@ related:
         width: 1288
         height: 859
         isCached: true
+  - title: "Under Biden, the Justice Department will again police the police"
+    excerpt: "The restructuring of the East Haven, Conn., police department followed the kind of court-mandated change that the Trump administration largely abandoned."
+    publishedDateTime: 2020-12-29T18:10:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-plans-police-reform/2020/12/22/d4812c9c-3bcc-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BF5H7OSBV4I6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 1000
+        isCached: true
   - title: "Joe Biden introduces Miguel Cardona as pick to lead Education Department"
     excerpt: "Washington — President-elect Joe Biden on Wednesday will formally introduce Miguel Cardona, the Connecticut commissioner of education, as his nominee to lead the Department of Education. The president-elect revealed Tuesday he tapped Cardona to serve as his secretary of education,"
     publishedDateTime: 2020-12-23T17:28:00Z
@@ -110,36 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
         width: 1440
         height: 895
-        isCached: true
-  - title: "Biden's plans on further COVID19 relief aid?"
-    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-23T00:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
-    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
-    publishedDateTime: 2020-12-17T19:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
     excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."

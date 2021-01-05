@@ -31,52 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
-    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
-    publishedDateTime: 2020-12-08T13:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
-        width: 788
-        height: 545
-        isCached: true
-  - title: "Judith Heumann: 'Biden is committed to involving disabled people in his administration'"
-    excerpt: "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement"
-    publishedDateTime: 2020-12-15T10:00:00Z
-    webUrl: "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
-    ampWebUrl: "https://amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/3d90cbafa017f6722f77179c47ff994b5abfc67a/120_0_1800_1080/master/1800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8585343d59071aee5cb9e05a5d0ad88"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "McDonough says Biden administration will 'fight like hell' for veterans"
-    excerpt: "President-elect Joe Biden introduced Denis McDouough as his Veterans Affairs Secretary nominee at an event in Wilmington, Del. on Dec. 11."
-    publishedDateTime: 2020-12-11T23:50:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/mcdonough-says-biden-administration-will-fight-like-hell-for-veterans/2020/12/11/d0a8254f-d813-4de6-9323-7e7a4b63faa4_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_6a931d6c5e944923980408fa241c2a43_name_bad8873a_3bf0_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "Health officials lay out wish list for Biden Administration: Restore the CDC, prioritize health across the globe"
     excerpt: "A who's who of health officials published a commentary Wednesday outlining their wish list for the incoming Biden-Harris Administration, starting with their desire for the U.S. to rejoin the global public health community."
     publishedDateTime: 2020-12-03T18:04:00Z

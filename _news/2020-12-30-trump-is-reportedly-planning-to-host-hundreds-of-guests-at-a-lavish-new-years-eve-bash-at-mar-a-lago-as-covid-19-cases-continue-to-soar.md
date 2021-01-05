@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump reportedly lashed out at Kushner over increased COVID-19 testing: 'I'm going to lose, and it's going to be your fault'"
-    excerpt: "Trump reportedly told Kushner, \"I want to do what Mexico does. They don't give you a test till you get to the emergency room and you're vomiting.\""
-    publishedDateTime: 2021-01-01T06:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp"
+  - title: "Trump extends COVID-related bans on visas, green cards; court clears health insurance requirement for immigrants"
+    excerpt: "Trump said the measures would protect American jobs in a pandemic-wracked economy, while business groups said they would hamper a recovery."
+    publishedDateTime: 2021-01-01T16:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/trump-extends-visa-bans/4107279001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4107279001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4107279001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/0dcd5997-f196-4431-9c6d-6e62903b6e6b-AP_Trump_1.jpg?auto=webp&crop=3593,2021,x508,y109&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
+    excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
+    publishedDateTime: 2020-12-29T23:20:00Z
+    webUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 98
+    quality: 102
     images:
-      - url: "https://i.insider.com/5fee7be9a18a450018cb67d6?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5feb1564a644880018193974?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

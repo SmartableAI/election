@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "A dozen Republican senators plan to object to certification of Biden's election win over Trump"
-    excerpt: "Sen. Ted Cruz and 10 other Republican senators will join Sen. Josh Hawley in objecting to the election results during Wednesday's joint session."
-    publishedDateTime: 2021-01-02T21:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/02/republican-senators-join-josh-hawley-election-objection/4113152001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4113152001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4113152001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 143
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/ea6f78dc-cc00-4dc6-bbd5-db90c0cc6cb0-VPC_TED_CRUS_HAMMERS_JACK_DORSEY_SOT_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump demands to see a list of Congressional Republicans who have acknowledged Biden's election win"
     excerpt: "A survey published by The Washington Post on Saturday found that only 25 Congressional Republicans have acknowledged Biden's election victory."
     publishedDateTime: 2020-12-06T11:51:00Z
@@ -539,102 +523,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Twitter to wipe Trump's followers before Biden handover"
-    excerpt: "Twitter agreed to Donald Trump's request in 2016 to inherit Barack Obama's millions of followers. “In 2016, the Trump administration absorbed all of President Obama's Twitter followers on @POTUS and @WhiteHouse - at Team 44's urging,"
-    publishedDateTime: 2020-12-23T14:10:00Z
-    webUrl: "https://www.bbc.com/news/technology-55426685?via=indexdotco"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-55426685"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55426685"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/AF48/production/_116227844_whatsubject.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "GOP’s Hawley joins Trump-fueled push to object to Biden electors"
-    excerpt: "Republican Senator Josh Hawley said he will object to the certification of the Electoral College votes for Joe Biden as president when Congress convenes on Jan. 6."
-    publishedDateTime: 2020-12-30T16:39:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/297ec54/2147483647/strip/true/crop/3666x2394+0+235/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F1e%2F7457d0074fccb5d94d4db8604eae%2Fgettyimages-530730748.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "In dueling New Year messages, Trump reflects while Biden looks ahead"
-    excerpt: "President Donald Trump in a New Year's Eve message reflected on his accomplishments in office, calling them \"historic victories,\" while his successor, President-elect Joe Biden, struck an upbeat tone in looking ahead to 2021."
-    publishedDateTime: 2021-01-01T14:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN2951BB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
-        width: 813
-        height: 545
-        isCached: true
-  - title: "GOP torn over Trump's Electoral College challenge of Biden"
-    excerpt: "President Donald Trump’s extraordinary election challenge over his defeat by President-elect Joe Biden is splitting the Republican Party"
-    publishedDateTime: 2021-01-02T07:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1c7c00831119410299b01800e094832d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "More GOP lawmakers enlist in Trump effort to undo Biden win"
-    excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the E"
-    publishedDateTime: 2021-01-03T00:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump allies scrambling for strategy to overturn Biden win"
-    excerpt: "Republican lawmakers who are trying to overturn Joe Biden’s victory over President Donald Trump have not settled on a full strategy"
-    publishedDateTime: 2021-01-05T18:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z
@@ -859,22 +747,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump warns Cotton after senator says he won't object to Biden certification"
-    excerpt: "President Trump on Monday targeted Sen. Tom Cotton (R-Ark.) a day after the senator said he would not join an effort to object to the certification of Electoral College votes affirming Joe Biden as the next president."
-    publishedDateTime: 2021-01-04T16:16:00Z
-    webUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden"
-    ampWebUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 137
-    images:
-      - url: "https://thehill.com/sites/default/files/cottontom_070120bc_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Mitch McConnell for the first time appears to accept President-elect Joe Biden's election victory over Trump"
     excerpt: "The Senate Majority Leader spoke of a \"new administration\" when discussing future COVID-19 economic stimulus negotiations."
     publishedDateTime: 2020-12-01T20:17:00Z
@@ -1018,36 +890,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000"
         width: 817
         height: 545
-        isCached: true
-  - title: "Biden, Trump to campaign in Georgia runoff elections"
-    excerpt: "Posted [NFA] President-elect Joe Biden and President Donald Trump will campaign next week in Georgia, holding due"
-    publishedDateTime: 2020-12-31T22:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMu5?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fee39bde4b04d4457632bc2-1609447869483?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Growing crowd of Trump loyalists in the Senate vows to challenge Biden’s victory"
-    excerpt: "Eleven GOP senators pledged to reject Biden’s electoral votes from swing states, defying a plea from Senate leaders to avoid a fight over the election’s legitimacy when Congress meets in a joint session next week."
-    publishedDateTime: 2021-01-03T05:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senators-challenge-election/2021/01/02/81a4e5c4-4c7d-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senators-challenge-election/2021/01/02/81a4e5c4-4c7d-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senators-challenge-election/2021/01/02/81a4e5c4-4c7d-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 135
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DI2JVISLTMI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 958
         isCached: true
   - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
     excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
@@ -2738,17 +2580,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "GOP plans to upend Biden win for Trump rips party apart"
-    excerpt: "The extraordinary effort to overturn the is ripping the Republican Party apart as GOP lawmakers orchestrating the challenges to Joe Biden's victory faced intense blowback Sunday from others in the party warning they undermining Americans' faith in democracy."
-    publishedDateTime: 2021-01-04T02:06:00Z
-    webUrl: "https://www.businessinsider.com/gop-plans-to-upend-biden-win-for-trump-rips-party-apart-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/gop-plans-to-upend-biden-win-for-trump-rips-party-apart-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-plans-to-upend-biden-win-for-trump-rips-party-apart-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
     excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
     publishedDateTime: 2020-11-30T19:26:00Z
@@ -3697,22 +3528,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump Official Makes False Claim That Joe Biden's Inauguration Can Be Postponed"
-    excerpt: "White House trade advisor Peter Navarro has claimed that Vice President Mike Pence can change the date of Inauguration Day."
-    publishedDateTime: 2021-01-03T19:27:00Z
-    webUrl: "https://www.ibtimes.com/trump-official-makes-false-claim-joe-bidens-inauguration-can-be-postponed-3113606"
-    ampWebUrl: "https://www.ibtimes.com/trump-official-makes-false-claim-joe-bidens-inauguration-can-be-postponed-3113606?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-official-makes-false-claim-joe-bidens-inauguration-can-be-postponed-3113606?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/12/white-house-trade-advisor-peter-navarro-pictured-in.jpg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "Trump Allies Eye Long-Shot Election Reversal in Congress, Testing Pence"
     excerpt: "President Donald Trump lost key swing states by clear margins. His barrage of lawsuits claiming widespread voting fraud has been almost universally dismissed, most recently by the Supreme Court. And Monday,"
     publishedDateTime: 2020-12-13T20:57:00Z
@@ -3724,22 +3539,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 85
-  - title: "The ways Donald Trump and Republicans have tried to overturn Joe Biden's 2020 win"
-    excerpt: "Rep. Louie Gohmert's lawsuit is the latest in a series of attempts by Trump's allies to overturn the results of the 2020 general election."
-    publishedDateTime: 2020-12-29T12:27:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/29/how-trump-and-republicans-have-tried-overturn-2020-election/4064558001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4064558001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4064558001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 85
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Easy Way for Joe Biden to Save Lives"
     excerpt: "There’s an on-the-shelf policy the Biden administration could enact unilaterally that would save millions of American lives, without costing the government a single cent on net. That policy, one pushed for but never implemented by the Trump administration,"
     publishedDateTime: 2020-12-05T11:11:00Z
@@ -3836,28 +3635,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "GOP Torn Over Trump's Electoral College Challenge of Biden"
-    excerpt: "President Donald Trump’s extraordinary election challenge over his defeat by President-elect Joe Biden is splitting the Republican Party."
-    publishedDateTime: 2021-01-03T10:41:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "More GOP Lawmakers Enlist in Trump Effort to Undo Biden Win"
-    excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the Electoral College votes and certify President-elect Joe Biden’s win."
-    publishedDateTime: 2021-01-04T02:27:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

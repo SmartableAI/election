@@ -61,31 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
-    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
-    publishedDateTime: 2020-12-09T19:42:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden's trade nominee has family roots in both Taiwan and China"
-    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
-    publishedDateTime: 2020-12-12T00:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "aI5pEsNtoHtEmPxRGfRBevxkG4PEocU2GMmcCcERSlHVSoXkcQkDdK2SnSHgBK3boTfLyWU5s2Er5vzHHQiJ7KywHRqXaTqawjAKzmd6+CMIsz8leQY331OeRYQXp0DkztdikMNhvjmXqgcR7BlTYwsS8QTGeMmP//suYCaBUATTB+Q7CzWJCmFHVMtKpX4mZxKxpnv38nH+L52YthymnghMElrazhpOqIeQXKvtjqPecxTsuqFzYpemDWMSm8GWckIOTUWvc+1uwKszhAs2Jtk4BwlULQIxx+ABu2YrjJfjPhvHKR4II8DKN7xR2JPhp3b5ZFc8BvJIzKSkE012aHAc2OVPvpr1r9cS7PFwiiJ2nPhAjjX5S0zuIGupUFYhMK67RRAur5L3umDUYafsLto8UQTdN6TPTFDVwNt2RPTp5nD2kQJy6ZD6vl6qpx1KHlFyOgGRyfgr++F1UoUvFj1mrRcWT62qK+v7hsJvbIbv7k7Cf48tpQD7K/+mRNirC5t9RXBOdQ+gVayR5ltkCw==;HQsnTmDS2nrcq+hkO6/Y+g=="
 ---

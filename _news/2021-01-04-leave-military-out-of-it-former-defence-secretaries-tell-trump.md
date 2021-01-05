@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump reluctantly signs COVID aid, sparks fresh fight in GOP"
+    excerpt: "Dropping his objections, President Donald Trump has signed a $2 trillion-plus COVID-19 and annual federal spending package into law"
+    publishedDateTime: 2020-12-28T17:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
     excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate"
     publishedDateTime: 2020-12-30T05:40:00Z
@@ -95,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
+    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
+    publishedDateTime: 2021-01-02T10:06:00Z
+    webUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Stock exchange delisting 3 China companies under Trump order"
     excerpt: "Three Chinese companies will be booted off the New York Stock Exchange this month under an executive order signed in November by President Donald Trump"
     publishedDateTime: 2021-01-01T16:14:00Z
@@ -127,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
+    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
+    publishedDateTime: 2021-01-02T19:22:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_9d02b53ba22c4458bcd93a623645fbf3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump directed that Navy carrier return to Middle East"
     excerpt: "President Donald Trump directed acting Defense Secretary Chris Miller to return the aircraft carrier USS Nimitz and its carrier strike group to the Middle East, reversing Miller's decision last week to bring the carrier home,"
     publishedDateTime: 2021-01-05T06:49:00Z
@@ -143,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Wrong number draws mistaken calls, ire from Trump supporters"
+    excerpt: "A former Michigan resident has gotten hundreds of calls and texts from President Donald Trump supporters, demanding that the legislature reverse his defeat in the state"
+    publishedDateTime: 2021-01-05T00:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
     excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
     publishedDateTime: 2020-12-22T11:16:00Z
@@ -158,6 +222,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Stocks extend gains after Trump signs COVID-19 stimulus, House raises hopes for bigger checks to households"
+    excerpt: "The stock market extended Monday's gains that came after Trump signed COVID-19 relief. The House on Monday passed a measure to boost stimulus checks."
+    publishedDateTime: 2020-12-29T15:27:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/12/29/dow-jones-stocks-extend-gains-after-trump-signs-stimulus/4069031001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4069031001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4069031001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b10a309f3918ef8193b468174eae4528e462b2d9/c=0-109-2123-1303/local/-/media/2020/10/31/USATODAY/usatsports/new-york-stock-exchange-wall-street-entrance.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump returns to White House early, offers year-end message"
     excerpt: "WASHINGTON (AP) — President Donald Trump delivered a year-end video message Thursday after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the economy."
@@ -199,6 +279,22 @@ related:
       - url: "https://images2.markets.businessinsider.com/5fe315efa644880018193148?format=jpeg"
         width: 789
         height: 526
+        isCached: true
+  - title: "Jobless benefits for about 14 million Americans expire, as Trump still refuses to sign the pandemic aid package containing $600 stimulus checks"
+    excerpt: "President Donald Trump has refused to sign a $2.3 trillion stimulus package, in part because he says $600 checks for Americans aren't large enough."
+    publishedDateTime: 2020-12-26T08:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fe6eb2dedf8920018093c2a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
     excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."

@@ -93,22 +93,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
-    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
-    publishedDateTime: 2020-12-18T21:39:00Z
-    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
-    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
   - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
     excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
     publishedDateTime: 2020-12-19T11:18:00Z

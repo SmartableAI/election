@@ -259,17 +259,22 @@ related:
         width: 768
         height: 648
         isCached: true
-  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
-    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
-    publishedDateTime: 2020-12-26T17:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+  - title: "Trump Is America's Most Admired Man In 2020"
+    excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
+    publishedDateTime: 2020-12-30T04:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597"
+    ampWebUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/time-is-running-out-on-us-president-donald.jpg"
+        width: 1024
+        height: 625
+        isCached: true
 
 secured: "r9flBAk7866HbHEmHe8/tB9gs9TyV34+qGB+ui5E8BHzlBnOq6Z7xIY4OunCtv9pqIWeWZsZQ7g3TgbsIUyuRSquV2wuuvfjfzvEq6XdoIuxC4C7jtNH7huUcIWmmSVJ/25eEchwqVm9DUiHdR8p3ER+MRawbYVjVOAPlMlRmUqVcak4gb3gD/ovL3qE1H5ErfQEnVpJhTo75cmvx42++UtlKUti1nfkp6MvY+JYfcfbdgSosC8sLRPBecli50sOUGgwKEcn3EBoAT4j2CDXNVMf+o7rJODcglQ2m850+OIg3V2eYZ6ri4CmeCTlRsIkP9pPIzQqWUAsMGJ1tqAs5iZ3C31gN+f2mdwkkFeSDxgg+bxyLXZFp/z8gEJ+mUFZhEvQdVR9N+8WMGuMX7DPB7fx3VYg0beMvBDBDSvxAevWR4ri0VkgYyMBjDhAAvaxUMEeusFvmo6XTn/euMCKZjNQ/vkXcgep58MBBVbhOChwxgWn+sqa9fxZi9bEt/4w7R0MXvdkQ+HsqUD0swIIaQ==;LWcQOTNiRdXgX45mKVkPHA=="
 ---

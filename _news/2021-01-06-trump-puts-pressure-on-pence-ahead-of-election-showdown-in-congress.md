@@ -448,6 +448,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump suit to decertify GA election results rejected; Electoral College objections expected Wed."
+    excerpt: "Yet another election lawsuit filed by President Trump to decertify the results of the 2020 election was tossed out on Tuesday."
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9956953f-65b9-4db8-8dc7-32efd1a32d43/ae7c741c-dcaf-4465-80b1-fde64c9eb4d4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP reps gather on conference call with Trump over Electoral College certification rejection"
     excerpt: "Ala., said Republican congressmen held a rare Saturday night conference call to address their goal of overturning the Electoral College’s votes Jan. 6."
     publishedDateTime: 2021-01-03T03:11:00Z
@@ -590,6 +606,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "JSoYPPFHaba765/ym2Ke7mp7hIbKQUQgdNMXo94s5D2ZRURDxr6euG/OaLhb/PoZLIZiW8ptTZydTEMKvJ2yVfu3XNWg+Gl1iOBQYKi54POXS8cv1UXphNUvfJf0hQ0VsUfqC3BEVTlsuire7u+UetblKo+Hvi53XQYJL422+L6RrJ3ASfVvyPATtXOyCfnwcSnNG3byZ5IlC54LTukRF9qGtfQcXlvOm9FUNl0Kkc3C1AGhqzvUDRwX44WwlLLznQTe1OjZn1mjvnGxXEEz2yF3hSPQ5d5mpr2rZssCIBDhh3trKU75LmaR/g0NIOehaUeAxqf6+5rGxFeXi2eOdW/R8ao2qRMwdTKZRXP4fPg=;mixzHzBTC7WaxJuQ/2d2FA=="
+secured: "6he8P/+BbyalCTnNNZZJAuRvX+g7RFfbu7tlyyUtG8z7K5IQXeySj9heNVtrZRXpp8Gr1p5NjgT4n860KAGyKwIXL6X2F5v0RY768nfUt4yJ5uCMOB7g24Ypp8vQXS+06Wy5SGJKfeZVK+s2SmeFwSzzeBSB11h5DraTlnYeAlS2LxwR/bTWGQAWjeR6qMgrKsUXdVwWigSZ4XQyvHtfhXFRNvBoCk7uVVqDq5lEnP2zRLKaCCRTiIx5ovEWk7hMuNuATpFSLEIffTqHdDBdHxbxvJQMCLUh7lsSuabF2IT35qgWnA1vfDHRyUwYu91l6gr6okygIEUDJU2dpavA5pRbw5dkMXNA+ZxorVT4sK6mYiVGEM5Mmok3QR+jwHbdKl36K27Fmts38x0FLroctIsKy6E+O7CPncH3karllqYidHXpPgFskycl+ACfGqIpXD1/rZ6SvZfSDXLTlE3mWfCQ/WOvuvtk6B2ShLsZQxL4rqYP1At9PSDgYhN7Kr7mPa4QA1pVksC+MvhbvaNdcA==;IXja0z+a+23OQowOKUcYlA=="
 ---
 

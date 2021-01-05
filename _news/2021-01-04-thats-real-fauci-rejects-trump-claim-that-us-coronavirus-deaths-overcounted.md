@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980GC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980GC"
 type: article
 quality: 120
-heat: 220
+heat: 200
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/31/USAT/414bbc39-9b0a-4ff7-9a7f-0f396afdb7c3-AFP_AFP_8XY98A.jpg?auto=webp&crop=5471,3077,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
-    excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
-    publishedDateTime: 2021-01-03T20:27:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "‘The deaths are real deaths’: Fauci rejects Trump effort to cast doubt on U.S. COVID numbers"
     excerpt: "All you need to do is to go out into the trenches, go to the hospitals, see what the health care workers are dealing with,' Dr. Anthony Fauci said Sunday."

@@ -95,38 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Watch Live: Joe Biden slated to receive COVID vaccine"
-    excerpt: "Mr. Biden is set to join a growing list of public officials who have shared their experiences getting inoculated against COVID-19 as part of efforts to build public trust in its safety."
-    publishedDateTime: 2020-12-21T13:21:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/8a296266-ec80-42f5-8149-7a3ffeab472b/thumbnail/1200x630/fbb1ec6906cf271f73959c07dac76a78/gettyimages-1230220168.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe and Jill Biden receive the COVID-19 vaccine on camera"
-    excerpt: "So far, a limited number of healthcare workers and high-level government officials have received first doses of Pfizer's COVID-19 vaccine."
-    publishedDateTime: 2020-12-21T20:30:00Z
-    webUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fe10676c910a400192e8d13?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
     excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
     publishedDateTime: 2020-12-17T02:49:00Z

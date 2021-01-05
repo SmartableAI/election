@@ -2,6 +2,268 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-us-attorney-in-atlanta-abruptly-resigns-and-trump-bypasses-his-deputy-in-picking-temporary-successor.md",
+      "title": "U.S. attorney in Atlanta abruptly resigns, and Trump bypasses his deputy in picking temporary successor",
+      "excerpt": "The top federal prosecutor in Atlanta abruptly resigned this week and President Trump bypassed his top deputy in selecting a temporary replacement — an unusual set of moves, even in the administration’s waning days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TT53PUSPQ4I6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-05T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-keeps-pressure-on-pence-to-reject-bidens-win-before-congress-wednesday.md",
+      "title": "Trump keeps pressure on Pence to reject Biden's win before Congress Wednesday",
+      "excerpt": "President Trump is keeping pressure on Vice President Mike Pence to reject Joe Biden's win, but those close to Pence say he's expected to stick to his scripted role.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2342,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-short-wh-01-gty-iwb-210105_1609861701648_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551",
+      "publishedDateTime": "2021-01-05T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-only-woman-on-federal-death-row-asks-president-trump-to-be-a-hero-commute-her-sentence.md",
+      "title": "Only woman on federal death row asks President Trump to be a 'hero,' commute her sentence",
+      "excerpt": "Lisa Montgomery, the only woman on federal death row, is asking President Donald Trump to commute her sentence to life without parole.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/05/lisa-montgomery-execution-president-trump-asked-commute-sentence/6552869002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/05/lisa-montgomery-execution-president-trump-asked-commute-sentence/6552869002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/17/PNAS/989839bb-17d1-4cf0-a2bf-79501cdbb429-Lisa_-_prison.jpg?auto=webp&crop=1175,661,x0,y600&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6552869002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6552869002",
+      "publishedDateTime": "2021-01-05T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-iran-reportedly-asks-interpol-to-arrest-trump-over-killing-of-qassem-soleimani.md",
+      "title": "Iran reportedly asks Interpol to arrest Trump over killing of Qassem Soleimani",
+      "excerpt": "Iran has asked Interpol to issue a “red notice” and direct law enforcement agencies around the world to arrest President Trump and 47 American officials for the US drone strike that",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/05/iran-reportedly-asks-interpol-to-arrest-trump-over-killing-soleimani/",
+      "originalUrl": "https://nypost.com/2021/01/05/iran-reportedly-asks-interpol-to-arrest-trump-over-killing-soleimani/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-Qassem-Soleimani.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/05/iran-reportedly-asks-interpol-to-arrest-trump-over-killing-soleimani/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/iran-reportedly-asks-interpol-to-arrest-trump-over-killing-soleimani/amp/",
+      "publishedDateTime": "2021-01-05T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-gary-cohn-former-trump-adviser-joins-ibm.md",
+      "title": "Gary Cohn, Former Trump Adviser, Joins IBM",
+      "excerpt": "Mr. Cohn will serve as vice chairman and member of company’s executive leadership team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
+      "originalUrl": "https://www.wsj.com/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-280713/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
+      "publishedDateTime": "2021-01-05T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-trump-asks-judge-to-toss-niece-mary-trumps-conspiracy-laden-lawsuit.md",
       "title": "Trump asks judge to toss niece Mary Trump’s ‘conspiracy’ laden lawsuit",
       "excerpt": "President Trump says his niece’s lawsuit against the family is full of “conspiracy theories more befitting a Hollywood screenplay” — and all just part of a plan to make money off of the",
@@ -132,6 +394,58 @@
       "ampWebUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
       "publishedDateTime": "2021-01-05T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-donald-trumps-ferrari-will-head-to-auction-during-the-final-days-of-his-presidency-tour-the-500000-car.md",
+      "title": "Donald Trump's Ferrari will head to auction during the final days of his presidency — tour the $500,000 car",
+      "excerpt": "The car also includes a copy of its original title, which bears Trump's signature and the address of Trump Tower in New York City.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff330096056b60018721b62?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1?amp",
+      "publishedDateTime": "2021-01-05T05:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -323,7 +637,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN2992GT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -367,58 +681,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-trump-rewarding-allies-nunes-jordan-with-medal-of-freedom.md",
-      "title": "Trump rewarding allies Nunes, Jordan with Medal of Freedom",
-      "excerpt": "President Donald Trump is set to present one of the nation’s highest civilian honors to two of his most outspoken congressional allies, California Rep. Devin Nunes and Ohio Rep. Jim Jordan",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-rewarding-allies-nunes-jordan-medal-freedom-75038467",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-rewarding-allies-nunes-jordan-medal-freedom-75038467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_50832d0b077043f5a704433fcd7fac0e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-rewarding-allies-nunes-jordan-medal-freedom-75038467",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-rewarding-allies-nunes-jordan-medal-freedom-75038467",
-      "publishedDateTime": "2021-01-04T14:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-biden-during-georgia-rally-blasts-trumps-whining-and-complaining.md",
       "title": "Biden during Georgia rally blasts Trump's 'whining and complaining'",
       "excerpt": "President-elect Joe Biden blasted President Trump for “whining and complaining” about the election outcome and urged voters in Georgia to deliver a Senate majority to Democrats ahead of the state’s Tu",
@@ -427,7 +689,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 720,
       "tags": null,
       "images": [
         {
@@ -471,21 +733,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official.md",
-      "title": "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official",
-      "excerpt": "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said.",
+      "path": "_news/2021-01-05-georgia-district-attorney-says-she-will-enforce-the-law-without-fear-of-favor-following-trump-call.md",
+      "title": "Georgia district attorney says she will 'enforce the law without fear of favor' following Trump call",
+      "excerpt": "The district attorney overseeing Atlanta said Monday that she will “enforce the law without fear of favor” if a case is referred to her office regarding President Trump’s controversial",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S",
-      "originalUrl": "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S",
+      "webUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear",
+      "originalUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U",
-          "width": 818,
-          "height": 545,
+          "url": "https://thehill.com/sites/default/files/trumpdonald_michiganrally_103020getty.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -493,16 +755,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29924S",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S",
-      "publishedDateTime": "2021-01-04T10:43:00-08:00",
+      "ampWebUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear?amp",
+      "publishedDateTime": "2021-01-04T10:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -575,59 +837,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-trump-pressure-on-georgia-election-official-puts-spotlight-on-pence-other-top-republicans.md",
-      "title": "Trump pressure on Georgia election official puts spotlight on Pence, other top Republicans",
-      "excerpt": "President Donald Trump's call to pressure a Georgia election official threatened to exacerbate a schism among top Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2835,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-01-gty-jc-210104_1609778952307_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "publishedDateTime": "2021-01-04T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-04-georgias-raffensperger-says-he-never-believed-it-appropriate-to-speak-with-trump-about-election.md",
       "title": "Georgia's Raffensperger says he 'never believed' it appropriate to speak with Trump about election",
       "excerpt": "The Republican secretary of state also said the call from Trump could warrant an investigation into possible conflicts of interest.",
@@ -685,6 +894,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-04-live-politics-updates-trump-to-award-rep-devin-nunes-with-medal-of-freedom-on-monday-reports-say.md",
+      "title": "Live politics updates: Trump to award Rep. Devin Nunes with Medal of Freedom on Monday, reports say",
+      "excerpt": "Trump and Biden head to Georgia Monday, a day after recordings surfaced of the president pressuring an official to flip the state's vote in his favor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/04/live-politics-updates-monday-donald-trump-joe-biden/4124328001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/04/live-politics-updates-monday-donald-trump-joe-biden/4124328001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/17/USAT/1f50269e-828d-4288-804e-4405b6a1b050-GTY_1177258395.JPG?auto=webp&crop=4859,2733,x0,y126&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4124328001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124328001",
+      "publishedDateTime": "2021-01-04T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-thats-real-fauci-rejects-trump-claim-that-us-coronavirus-deaths-overcounted.md",
       "title": "'That's real:' Fauci rejects Trump claim that U.S. coronavirus deaths overcounted",
       "excerpt": "Two top U.S. health officials on Sunday disputed a claim by President Donald Trump that federal data on COVID-19 cases and deaths in the United States is overblown, and both expressed optimism that the pace of vaccinations is picking up.",
@@ -693,7 +954,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-data-idUSKBN2980GC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -737,21 +998,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-04-stacey-abrams-refutes-comparison-of-trumps-fraud-claims-to-her-2018-election-bid-ahead-of-runoffs.md",
-      "title": "Stacey Abrams Refutes Comparison of Trump's Fraud Claims to Her 2018 Election Bid Ahead of Runoffs",
-      "excerpt": "\"It's not simply a different circumstance. It's apples and, you know, bowling balls,\" said the former Georgia gubernatorial candidate.",
+      "path": "_news/2021-01-04-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation.md",
+      "title": "Durbin: Trump Georgia call 'merits nothing less than a criminal investigation'",
+      "excerpt": "Senate Minority Whip Dick Durbin (D-Ill.) said Sunday that President Trump’s call with Georgia Secretary of State Brad Raffensperger (R) “merits nothing less than a criminal investigation.”",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594",
-      "originalUrl": "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594",
+      "webUrl": "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation",
+      "originalUrl": "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1696956/president-elect-joe-biden-campaigns-georgia-senate.jpg",
-          "width": 2500,
-          "height": 1654,
+          "url": "https://thehill.com/sites/default/files/durbinrichard_062420bc_lead.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -759,16 +1020,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594?amp=1",
-      "publishedDateTime": "2021-01-03T12:24:00-08:00",
+      "ampWebUrl": "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp",
+      "publishedDateTime": "2021-01-03T14:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -821,58 +1082,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes.md",
-      "title": "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes",
-      "excerpt": "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1001,7 +1210,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 449,
+      "heat": 469,
       "tags": null,
       "images": [
         {
@@ -1258,7 +1467,7 @@
       "originalUrl": "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1310,7 +1519,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1334,210 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit.md",
-      "title": "Trump vetoes Calif. fishing bill over seafood trade deficit",
-      "excerpt": "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
-      "publishedDateTime": "2021-01-01T16:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
-      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
-      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
-      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
-      "publishedDateTime": "2021-01-01T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020.md",
-      "title": "Fact check: President Trump spent Thanksgiving with troops in Afghanistan in 2019, not 2020",
-      "excerpt": "Social media users having been sharing posts that claim President Donald Trump spent Thanksgiving 2020 with troops in Bagram, Afghanistan, not playing golf. This claim is false: the photo of Trump in Bagram is from 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546338440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH00140",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN296286",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN296286",
-      "publishedDateTime": "2021-01-01T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-dangerous-ploy-gop-sen-ben-sasse-slams-efforts-by-trump-hawley-to-overturn-election.md",
-      "title": "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election",
-      "excerpt": "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4106964001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001",
-      "publishedDateTime": "2021-01-01T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

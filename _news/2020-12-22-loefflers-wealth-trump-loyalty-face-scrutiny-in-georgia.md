@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia GOP official urges Trump to respect results of the Electoral College"
+    excerpt: "\"If they chose Joe Biden, then Joe Biden is the president,\" said Cobb County Republican Party chairman Jason Shepherd."
+    publishedDateTime: 2020-12-15T12:47:00Z
+    webUrl: "https://www.cbsnews.com/news/electoral-college-georgia-republicans-trump-biden/?ftag=MSF0951a18"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/electoral-college-georgia-republicans-trump-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/electoral-college-georgia-republicans-trump-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/03/10926971-ca61-4745-a6a3-0e7b5e51e36b/thumbnail/1200x630g2/0d226602c2afce08e7814f915699489e/gettyimages-biden-trump.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump retweeted a call to have him jailed but Georgia Gov. Brian Kemp still won't concede that Trump lost the election"
     excerpt: "In a new interview, Kemp declined to say that the election was over, while Trump retweeted a call for Kemp to be jailed."
     publishedDateTime: 2020-12-16T05:41:00Z

@@ -31,92 +31,182 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
-    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
-    publishedDateTime: 2020-12-18T19:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T11:40:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
-        width: 600
-        height: 360
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden mulls punishments for Russia over suspected role in government hack"
-    excerpt: "President-elect will consider options for unprecedented hacking of US government agencies"
-    publishedDateTime: 2020-12-20T14:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T16:15:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/2f95f60c5bec962f79f95030cfc8730e32dcac1f/0_235_3925_2355/master/3925.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fdfc5a1c6bcc8beb176560c6f747a577"
-        width: 600
-        height: 360
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump finds himself isolated in refusal to blame Russia for big cyberattack"
-    excerpt: "President Trump’s dismissive characterization of a massive cyberattack targeting multiple U.S. agencies drew pushback Sunday from lawmakers, cybersecurity experts and the incoming Biden administration amid growing questions over the president’s refusal to acknowledge that Russia was likely behind the intrusions."
-    publishedDateTime: 2020-12-21T02:04:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
+  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
+    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
+    publishedDateTime: 2020-12-12T04:49:00Z
+    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
+    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 123
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/382d7fb/2147483647/strip/true/crop/4651x3038+374+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F33%2F1e4dcf792e85239693113608299b%2Fd47918cfadda477f8b5fa5fed2afeba0"
-        width: 320
-        height: 209
+      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
-    excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
-    publishedDateTime: 2020-12-22T00:16:00Z
-    webUrl: "https://www.cbsnews.com/news/barr-russia-hack-hunter-biden-election-special-counsel/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
+    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
+    publishedDateTime: 2020-12-08T13:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
+        width: 788
+        height: 545
+        isCached: true
+  - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
+    excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
+    publishedDateTime: 2020-12-07T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-stimulus-idUKKBN28H2SR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543740708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61KL"
+        width: 754
+        height: 545
+        isCached: true
+  - title: "Biden to Americans: we need your help"
+    excerpt: "Watch \"Biden to Americans: we need your help; president-elect outlines pandemic plan which include mask wearing and vaccine distribution\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120554-biden-to-americans-we-need-your-help-president-elect-outlines-pandemic-plan-which-include-mask-wearing-and-vaccine-distribution/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 118
+    quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/eb038982-0b90-4344-b964-18786880b5e8/thumbnail/1200x630/f4a166ec88a22235f15565c5b36488b7/gettyimages-1230248436.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040589_1607515744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
+    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
+    publishedDateTime: 2020-12-09T19:42:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden says he sees no evidence cyber attack is under control"
-    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T03:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Biden's challenge: Creating a COVID-19-free White House"
+    excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
+    publishedDateTime: 2020-12-16T05:39:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
+    excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."
+    publishedDateTime: 2020-12-15T17:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
-    excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
-    publishedDateTime: 2020-12-22T04:30:00Z
-    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-president-trump-says-russia-likely-behind-cyberattack/"
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fd8e617dc030c001aab6b6f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
+    excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
+    publishedDateTime: 2020-12-10T03:16:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 96
+    quality: 98
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

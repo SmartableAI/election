@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Federal judge rejects lawsuit seeking to overturn Trump loss"
-    excerpt: "A federal judge has rejected a lawsuit filed by two Republican Wisconsin lawmakers, voting rights groups and others seeking to overturn the 2020 presidential election results in Wisconsin and four oth"
-    publishedDateTime: 2021-01-05T00:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Judge tosses lawsuit from House Republican seeking to give Mike Pence the power to overturn election loss"
     excerpt: "The Justice Department has asked to dismiss a lawsuit led by a House Republican that seeks to give Mike Pence power to overturn the election."
     publishedDateTime: 2021-01-03T00:23:00Z

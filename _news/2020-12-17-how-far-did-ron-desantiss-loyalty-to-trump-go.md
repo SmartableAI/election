@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-d
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/how-far-did-ron-desantiss-loyalty-trump-go/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VTRUUXF46ZHENFPDGRYFMCHRAY.jpg&w=1440"
         width: 1440
         height: 810
-        isCached: true
-  - title: "Trump delays signing of COVID relief bill"
-    excerpt: "Watch \"President Trump delays signing of COVID-19 relief bill, says stimulus checks should be $2,000\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-23T12:25:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201223115930-president-trump-delays-signing-of-covid-19-relief-bill-says-stimulus-checks-should-be-2000/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08240230_1608725103.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "vEv+wzUUz1eYEwRenumDR0qUv3pVeVuehwKDD4tT2YNRxGJAp5NdRncGbgY33w1VQeQ3TPYvsc0cohjYwvzYfZZPMaS4n32QEl7ZGo0aAsC4Rx5taudh9Y+sQl63TeT++o5PIjFtv8ALOJQF9vUp7f9F3eGJC3JlUrX+AR3YlWFoYUjrODNhIPNWgNV7/h7G5tyz6Dw/RcEV8Xj+w4w3axW0q7OhPcr/xgHVf62HMruJl/y7gXJteyjZbdn4FupXBJ/Z2352b6Gn0xDDPuZHI/DOBB9JrXtXbRXVUYe2abXpM9ytkr/fSMwJHZNHqdD0DUQTwEUepzBOQTlwV2zyVY8TDjvRW9YKv0kGfkr45irc8cusmo28U3dm0O/FhgSi7+oxmuAORg4AOweZUgKL3Npe/hagxIvjauT73gw4Pfg55zOqAcnkZWYtt95P2KJkde4uEWDBfIG71XcYMxwuVPBiJT30SSTpxQmaf2QRosM4w664AbyFbMVNZUojNuKfkBs6w+KFRgSJ+N87YQzHuA==;yNQxS0Qh4aPX9stk1b7uEw=="

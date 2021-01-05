@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55362697"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697"
 type: article
 quality: 125
-heat: 545
+heat: 505
 published: true
 
 provider:
@@ -78,38 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/c0902167ca17ea2fb6e9e86602f4fc367b98a026/0_98_4710_2826/master/4710.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d890626bd6b1f1d4561297e71ae969cb"
         width: 600
         height: 360
-        isCached: true
-  - title: "Watch Live: Joe Biden slated to receive COVID vaccine"
-    excerpt: "Mr. Biden is set to join a growing list of public officials who have shared their experiences getting inoculated against COVID-19 as part of efforts to build public trust in its safety."
-    publishedDateTime: 2020-12-21T13:21:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/8a296266-ec80-42f5-8149-7a3ffeab472b/thumbnail/1200x630/fbb1ec6906cf271f73959c07dac76a78/gettyimages-1230220168.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe and Jill Biden receive the COVID-19 vaccine on camera"
-    excerpt: "So far, a limited number of healthcare workers and high-level government officials have received first doses of Pfizer's COVID-19 vaccine."
-    publishedDateTime: 2020-12-21T20:30:00Z
-    webUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fe10676c910a400192e8d13?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Joe Biden receives COVID-19 vaccine, says ‘nothing to worry about’"
     excerpt: "WASHINGTON — President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe."

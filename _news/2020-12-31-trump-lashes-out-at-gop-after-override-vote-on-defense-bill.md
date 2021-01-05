@@ -73,38 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
-    excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
-    publishedDateTime: 2020-12-31T20:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 107
-    images:
-      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
-    excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
-    publishedDateTime: 2021-01-02T23:38:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
     excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
     publishedDateTime: 2021-01-04T05:27:00Z

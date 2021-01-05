@@ -95,6 +95,22 @@ related:
         width: 813
         height: 545
         isCached: true
+  - title: "Power Up: Trump divides Republican Party on his way out of Washington"
+    excerpt: "Leave it to President Trump to divide the Republican Party on his way out the door and right before two Georgia runoffs that will determine control of the Senate. There was Trump's last minute demand for $2,"
+    publishedDateTime: 2021-01-04T10:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/power-up-trump-divides-republican-party-his-way-out-washington/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXOHKBCOKQI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "At least 23 arrested as crowds turn unruly after pro-Trump rally in Washington, DC"
     excerpt: "Supporters of President Donald Trump gathered Saturday to demand election integrity. The scene later turned tense as rival groups clashed."
     publishedDateTime: 2020-12-14T02:20:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/98fde875-f323-48b1-956e-5deb594da45d-XXX_USATODAY_444201_jmg_22534_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'We have to be remembered for what's been done,' Trump says on early return to Washington"
+    excerpt: "U.S. President Donald Trump returned to Washington early from his Florida resort on Thursday, keeping up his fight with Congress over a defense bill and coronavirus aid checks while chronicling the \"historic victories\" of his outgoing administration on Twitter."
+    publishedDateTime: 2020-12-31T20:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/trump-to-forgo-new-years-eve-in-florida-for-early-return-to-washington-idUKKBN2951BB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
+        height: 545
         isCached: true
   - title: "Policing protests: Demonstrators say officers are taking sides as D.C. hosts pro-Trump rallies Saturday"
     excerpt: "D.C. protesters who have spent months calling for criminal justice reform say they were outnumbered and violently attacked by Proud Boys and other far-right agitators while police stood by on Nov. 14."

@@ -63,38 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
-    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
-    publishedDateTime: 2020-12-22T06:05:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
-    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
-    publishedDateTime: 2020-12-21T17:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump has been blasting Georgia’s election system. Many Republicans plan to vote in the Senate runoffs anyway."
     excerpt: "Some GOP officials have worried that the president’s baseless claims of fraud would prompt voters to skip the crucial Jan. 5 elections."
     publishedDateTime: 2020-12-14T06:27:00Z

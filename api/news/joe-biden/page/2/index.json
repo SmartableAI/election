@@ -2,6 +2,167 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-22-biden-transition-highlights-congress-reaches-a-deal-on-stimulus-package.md",
+      "title": "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package",
+      "excerpt": "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-21T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-fierce-pushback-fear-of-new-and-onerous-regulations-from-small-farmers-on-joe-bidens-choice-of-tom-vilsack-for-usda.md",
+      "title": "Fierce pushback, fear of new and onerous regulations from small farmers on Joe Biden’s choice of Tom Vilsack for USDA",
+      "excerpt": "Tom Vilsack faces a steep challenge, with progressive and environmental groups warning that he is too friendly with big industrial agriculture businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/xLvqWsH5LQofg-buDy_LLC5xpC4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSJOTAXPZZSPKG6PXYDA3FJP4A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-21T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-ag-barr-says-he-sees-no-reason-to-name-special-counsels-to-investigate-hunter-biden-or-election-fraud.md",
+      "title": "AG Barr says he sees no reason to name special counsels to investigate Hunter Biden or election fraud",
+      "excerpt": "Attorney General Barr said he saw no reason to appoint special counsels to investigate Hunter Biden or unsubstantiated allegations of election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3991548001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001",
+      "publishedDateTime": "2020-12-21T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-bidens-impact-on-federal-judiciary-may-be-limited-despite-liberals-talk-of-court-packing.md",
       "title": "Biden's impact on federal judiciary may be limited despite liberals' talk of 'court-packing'",
       "excerpt": "Beyond racial and ethnic demographics and job experiences, Biden's impact on the judiciary is not likely to be as dramatic as Trump's has been.",
@@ -223,7 +384,7 @@
       "originalUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -275,7 +436,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -327,7 +488,7 @@
       "originalUrl": "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -460,58 +621,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-bidens-incoming-deputy-chief-of-staff-apologizes-for-calling-republicans-a-bunch-of-f-ers.md",
-      "title": "Biden's incoming deputy chief of staff apologizes for calling Republicans 'a bunch of f---ers'",
-      "excerpt": "\"I used some words that I probably could have chosen better,\" O'Malley Dillon said on Thursday, per a Politico report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdbc16bc910a400192e82a5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp",
-      "publishedDateTime": "2020-12-17T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -746,6 +855,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-biden-to-be-sworn-into-office-in-largely-virtual-event-as-covid-19-rages.md",
+      "title": "Biden to be sworn into office in largely virtual event as COVID-19 rages",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the steps of the U.S. Capitol, but the inaugural festivities will be largely virtual due to the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544658548&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2GO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO",
+      "publishedDateTime": "2020-12-15T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-in-bad-shape-and-getting-worse-guantanamo-poses-headaches-for-biden.md",
       "title": "‘In Bad Shape and Getting Worse,’ Guantánamo Poses Headaches for Biden",
       "excerpt": "The new administration confronts decaying infrastructure and a military justice system moving at a glacial pace.",
@@ -800,6 +961,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-judith-heumann-biden-is-committed-to-involving-disabled-people-in-his-administration.md",
+      "title": "Judith Heumann: 'Biden is committed to involving disabled people in his administration'",
+      "excerpt": "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "originalUrl": "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3d90cbafa017f6722f77179c47ff994b5abfc67a/120_0_1800_1080/master/1800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8585343d59071aee5cb9e05a5d0ad88",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp",
+      "publishedDateTime": "2020-12-15T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -961,6 +1174,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-in-latin-america-a-biden-white-house-faces-a-rising-china.md",
+      "title": "In Latin America, a Biden White House faces a rising China",
+      "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
+      "originalUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O18R",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R",
+      "publishedDateTime": "2020-12-14T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1185,7 +1450,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1286,58 +1551,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-12-though-biden-urged-to-choose-black-ag-all-current-contenders-are-white-report.md",
-      "title": "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report",
-      "excerpt": "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298",
-      "originalUrl": "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1",
-      "publishedDateTime": "2020-12-11T20:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-12-bidens-cabinet-picks-give-kamala-an-edge-in-2024.md",
       "title": "Biden’s Cabinet picks give Kamala an edge in 2024",
       "excerpt": "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard.",
@@ -1392,219 +1605,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-baker-sends-back-police-reform-bill-clark-presses-biden-on-plastics-rollins-on-us-attorney-buzz.md",
-      "title": "BAKER sends back POLICE REFORM bill — CLARK presses BIDEN on plastics — ROLLINS on U.S. ATTORNEY buzz",
-      "excerpt": "He's not in office yet, but Rep. Katherine Clark is already calling on President-elect Joe Biden to address the world's \"indisputable plastic pollution crisis.\" Clark penned a letter with Oregon Sen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119",
-      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
-      "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
-      "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3887911001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001",
-      "publishedDateTime": "2020-12-10T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
-      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
-      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "publishedDateTime": "2020-12-10T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-taps-susan-rice-as-domestic-policy-advisor-picks-former-obama-chief-of-staff-denis-mcdonough-for-va.md",
-      "title": "Biden taps Susan Rice as domestic policy advisor, picks former Obama Chief of Staff Denis McDonough for VA",
-      "excerpt": "McDonough is nominated to lead the sprawling Department of Veterans Affairs, and Susan Rice is Biden's choice for the White House Domestic Policy Council.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/34497f7/2147483647/strip/true/crop/4326x2825+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F79%2Fbc1b65a1c230a462027455a557be%2F892a3d9d993a40aa8d59a93cf3f584e1",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true",
-      "publishedDateTime": "2020-12-10T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

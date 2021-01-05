@@ -2,6 +2,436 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-05-biden-during-georgia-rally-blasts-trumps-whining-and-complaining.md",
+      "title": "Biden during Georgia rally blasts Trump's 'whining and complaining'",
+      "excerpt": "President-elect Joe Biden blasted President Trump for “whining and complaining” about the election outcome and urged voters in Georgia to deliver a Senate majority to Democrats ahead of the state’s Tu",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining",
+      "originalUrl": "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 720,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/biden_atlanta.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining?amp",
+      "publishedDateTime": "2021-01-04T14:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-and-perdue-elected.md",
+      "title": "Joe Biden Says $2,000 Stimulus Checks 'Will Never Get There' if Loeffler and Perdue Elected",
+      "excerpt": "\"In America, as our opposition friends are finding out, all power flows from the people,\" President-elect Joe Biden said Monday. \"That's our history. That's our law, that's our tradition, that's our constitution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
+      "originalUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1698187/joe-biden-campaigns-georgia-dems-senate.jpg",
+          "width": 2500,
+          "height": 1720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
+      "publishedDateTime": "2021-01-04T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-pence-we-got-our-doubts-about-the-last-election.md",
+      "title": "Pence: We 'got our doubts about the last election'",
+      "excerpt": "We 'got our doubts about the last election' Posted . Stumping for two Republican candidates in races that will determine control of the U.S. Senate, U.S. Vice Pres",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVDTSO8GV",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVDTSO8GV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSO8GV&r=OVDTSO8GV&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-its-a-dark-place-trumps-call-a-window-into-a-president-consumed.md",
+      "title": "'It's a dark place': Trump's call a window into a President consumed",
+      "excerpt": "President Donald Trump had been trying for weeks to get Georgia's secretary of state on the phone.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AAxwl3_SB1A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AAxwl3_SB1A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104115130-donald-trump-december-8-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html",
+      "publishedDateTime": "2021-01-04T13:25:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-liberal-magazine-backtracks-after-naming-biden-sex-assault-accuser-tara-reade-among-top-ten-lunatics-of-2020.md",
+      "title": "Liberal magazine backtracks after naming Biden sex assault accuser Tara Reade among ‘Top Ten Lunatics of 2020’",
+      "excerpt": "Liberal publication Mother Jones removed Tara Reade, who rocked the presidential primary race last year with a sexual assault allegation against Joe Biden, from a list of the \"Top Ten Lunatics of 2020\" after the decision to include her in the first place was blasted by critics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020",
+      "originalUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/08/20/694940094001_6182980630001_6182978210001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020.amp",
+      "publishedDateTime": "2021-01-04T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-when-will-schools-fully-reopen-a-look-at-joe-bidens-education-plan-during-covid.md",
+      "title": "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID",
+      "excerpt": "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281",
+      "originalUrl": "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/joe-biden-warned-that-the-virus-crisis-might.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1",
+      "publishedDateTime": "2021-01-04T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
+      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
+      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-280273/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "publishedDateTime": "2021-01-04T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-georgia-district-attorney-says-she-will-enforce-the-law-without-fear-of-favor-following-trump-call.md",
+      "title": "Georgia district attorney says she will 'enforce the law without fear of favor' following Trump call",
+      "excerpt": "The district attorney overseeing Atlanta said Monday that she will “enforce the law without fear of favor” if a case is referred to her office regarding President Trump’s controversial",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear",
+      "originalUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_michiganrally_103020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear?amp",
+      "publishedDateTime": "2021-01-04T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-donald-trump-house-hunts-in-a-surprising-place-which-home-will-he-pick.md",
       "title": "Donald Trump house hunts in a surprising place — which home will he pick?",
       "excerpt": "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential.",
@@ -50,59 +480,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-pressure-on-georgia-election-official-puts-spotlight-on-pence-other-top-republicans.md",
-      "title": "Trump pressure on Georgia election official puts spotlight on Pence, other top Republicans",
-      "excerpt": "President Donald Trump's call to pressure a Georgia election official threatened to exacerbate a schism among top Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2835,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-01-gty-jc-210104_1609778952307_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
-      "publishedDateTime": "2021-01-04T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Donald Trump"
       ]
     },
@@ -276,19 +653,19 @@
       ]
     },
     {
-      "path": "_news/2021-01-04-its-a-lot-of-pressure-as-kamala-harris-visits-georgia-voters-brace-for-a-senate-runoff-that-is-riveting-the-nation.md",
-      "title": "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation",
-      "excerpt": "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future.",
+      "path": "_news/2021-01-04-live-politics-updates-trump-to-award-rep-devin-nunes-with-medal-of-freedom-on-monday-reports-say.md",
+      "title": "Live politics updates: Trump to award Rep. Devin Nunes with Medal of Freedom on Monday, reports say",
+      "excerpt": "Trump and Biden head to Georgia Monday, a day after recordings surfaced of the president pressuring an official to flip the state's vote in his favor.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/04/live-politics-updates-monday-donald-trump-joe-biden/4124328001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/04/live-politics-updates-monday-donald-trump-joe-biden/4124328001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/03/17/USAT/1f50269e-828d-4288-804e-4405b6a1b050-GTY_1177258395.JPG?auto=webp&crop=4859,2733,x0,y126&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -298,9 +675,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4124373001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001",
-      "publishedDateTime": "2021-01-04T04:06:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4124328001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124328001",
+      "publishedDateTime": "2021-01-04T04:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -324,7 +701,7 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
+        "Donald Trump"
       ]
     },
     {
@@ -336,7 +713,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -388,7 +765,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-data-idUSKBN2980GC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -444,7 +821,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 618,
+      "heat": 638,
       "tags": null,
       "images": [
         {
@@ -542,6 +919,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-harris-calls-trumps-plea-to-georgia-election-officials-an-abuse-of-power.md",
+      "title": "Harris calls Trump's plea to Georgia election officials an 'abuse of power'",
+      "excerpt": "While at a campaign rally in Georgia, Vice President-elect Kamala D. Harris on Jan. 3 slammed President Trump's call with Georgia election officials, in which he urged fellow Republican Brad Raffensperger to “find” enough votes to overturn his defeat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/harris-calls-trumps-plea-to-georgia-election-officials-an-abuse-of-power/2021/01/03/ae84f2e0-e5b6-4c9c-97c9-85f31345cd64_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/harris-calls-trumps-plea-to-georgia-election-officials-an-abuse-of-power/2021/01/03/ae84f2e0-e5b6-4c9c-97c9-85f31345cd64_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 873,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_8654d3ef7444453fa1b4a8b96019ae62_name_Screen_Shot_2021_01_03_at_6_02_05_PM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -644,6 +1073,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-04-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation.md",
+      "title": "Durbin: Trump Georgia call 'merits nothing less than a criminal investigation'",
+      "excerpt": "Senate Minority Whip Dick Durbin (D-Ill.) said Sunday that President Trump’s call with Georgia Secretary of State Brad Raffensperger (R) “merits nothing less than a criminal investigation.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation",
+      "originalUrl": "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/durbinrichard_062420bc_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp",
+      "publishedDateTime": "2021-01-03T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-trump-urged-georgia-election-official-to-find-votes-in-phone-call-insisting-he-won-report.md",
       "title": "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report",
       "excerpt": "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results.",
@@ -700,58 +1181,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-04-stacey-abrams-refutes-comparison-of-trumps-fraud-claims-to-her-2018-election-bid-ahead-of-runoffs.md",
-      "title": "Stacey Abrams Refutes Comparison of Trump's Fraud Claims to Her 2018 Election Bid Ahead of Runoffs",
-      "excerpt": "\"It's not simply a different circumstance. It's apples and, you know, bowling balls,\" said the former Georgia gubernatorial candidate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594",
-      "originalUrl": "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1696956/president-elect-joe-biden-campaigns-georgia-senate.jpg",
-          "width": 2500,
-          "height": 1654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stacey-abrams-refutes-comparison-trumps-fraud-claims-her-2018-election-bid-ahead-runoffs-1558594?amp=1",
-      "publishedDateTime": "2021-01-03T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-04-us-surgeon-general-says-he-has-no-reason-to-doubt-the-350000-covid-19-death-toll-in-the-us-after-trump-baselessly-questioned-its-accuracy.md",
       "title": "US Surgeon General says he has 'no reason to doubt' the 350,000 COVID-19 death toll in the US after Trump baselessly questioned its accuracy",
       "excerpt": "Surgeon General Jerome Adams on Sunday joined Dr. Anthony Fauci in defending CDC data, which Trump baselessly claimed was \"far exaggerated.\"",
@@ -804,58 +1233,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-04-audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes.md",
-      "title": "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes",
-      "excerpt": "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-04-biden-election-mike-pence-welcomes-senators-bid-to-derail-result.md",
       "title": "Biden election: Mike Pence 'welcomes' senators' bid to derail result",
       "excerpt": "President Mike Pence has welcomed an effort by a group of senators to refuse to certify Joe Biden's presidential election win. The 11 Republican senators and senators-elect, led by Ted Cruz, want a 10-day delay to audit unsubstantiated allegations of election fraud.",
@@ -864,7 +1241,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-55517626",
       "featuredContent": null,
       "highlight": null,
-      "heat": 795,
+      "heat": 575,
       "tags": null,
       "images": [
         {
@@ -962,367 +1339,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-president-trump-rails-against-media-coverage-of-fauci-he-works-for-me.md",
-      "title": "President Trump rails against media coverage of Fauci: ‘He works for me’",
-      "excerpt": "President Trump on Sunday griped that the news media is giving Dr. Anthony Fauci credit for the coronavirus response that he deserves.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
-      "originalUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-anthony-fauci.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
-      "publishedDateTime": "2021-01-03T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-us-surgeon-general-no-reason-to-doubt-covid-19-death-toll-number-after-trump-claims-deaths-exaggerated.md",
-      "title": "US surgeon general: 'No reason to doubt' Covid-19 death toll number after Trump claims deaths 'exaggerated'",
-      "excerpt": "US Surgeon General Dr. Jerome Adams on Sunday said he has \"no reason to doubt\" the US Centers for Disease Control and Prevention's Covid-19 death toll, contradicting President Donald Trump's claim that the agency has \"exaggerated\" its numbers.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYGtfOWoNB4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYGtfOWoNB4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180516200947-jerome-adams-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html",
-      "publishedDateTime": "2021-01-03T08:07:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-traitors-and-patriots-republican-push-to-keep-trump-in-power-seems-doomed.md",
-      "title": "'Traitors and patriots': Republican push to keep Trump in power seems doomed",
-      "excerpt": "Senators decline to defend electoral college ploy aimed at party base but set to be blocked by Democrats and GOP leaders",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ed525c19445a7760937da141928760f12fb11540/0_3_5244_3146/master/5244.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25151a62ddff45df6911dc10cdd6a82a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney",
-      "publishedDateTime": "2021-01-03T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-trumps-allies-are-rounding-on-lin-wood-after-he-tweeted-about-executing-mike-pence-and-arresting-mitch-mcconnell.md",
-      "title": "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell",
-      "excerpt": "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 449,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "publishedDateTime": "2021-01-03T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-irans-foreign-minister-urges-trump-to-avoid-israel-trap-to-provoke-war.md",
-      "title": "Iran's foreign minister urges Trump to avoid Israel 'trap' to provoke war",
-      "excerpt": "Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by an alleged Israeli plan to provoke a war through attacks on U.S. forces in Iraq.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546421573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0109Y",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2970FP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2970FP",
-      "publishedDateTime": "2021-01-03T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-two-biden-aides-will-recuse-on-blackrock-issues-as-past-ties-pose-questions.md",
-      "title": "Two Biden aides will recuse on BlackRock issues as past ties pose questions",
-      "excerpt": "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DHK3LPR2WYI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp",
-      "publishedDateTime": "2021-01-02T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
-      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
-      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "publishedDateTime": "2021-01-02T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

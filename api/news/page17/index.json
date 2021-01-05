@@ -2,6 +2,605 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-11-biden-taps-susan-rice-as-domestic-policy-advisor-picks-former-obama-chief-of-staff-denis-mcdonough-for-va.md",
+      "title": "Biden taps Susan Rice as domestic policy advisor, picks former Obama Chief of Staff Denis McDonough for VA",
+      "excerpt": "McDonough is nominated to lead the sprawling Department of Veterans Affairs, and Susan Rice is Biden's choice for the White House Domestic Policy Council.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs",
+      "originalUrl": "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/34497f7/2147483647/strip/true/crop/4326x2825+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F79%2Fbc1b65a1c230a462027455a557be%2F892a3d9d993a40aa8d59a93cf3f584e1",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true",
+      "publishedDateTime": "2020-12-10T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-pence-announces-first-two-space-force-bases-in-us.md",
+      "title": "Pence announces first two Space Force bases in US",
+      "excerpt": "The renaming is ahead of a mission realignment, which should happen following a congressional briefing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ccN52umR_lM/pence-announces-first-two-space-force-bases",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ccN52umR_lM/pence-announces-first-two-space-force-bases",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17930680-4317-4294-a17c-f95e64f44ab7/8128d7bd-3184-47fe-9cc7-59d4045e5537/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-announces-first-two-space-force-bases.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-announces-first-two-space-force-bases.amp",
+      "publishedDateTime": "2020-12-10T07:34:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
+      "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
+      "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
+      "publishedDateTime": "2020-12-10T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-on-record-day-for-covid-19-deaths-trump-falsely-proclaims-at-packed-hanukkah-party-were-going-to-win-this-election.md",
+      "title": "On record day for covid-19 deaths, Trump falsely proclaims at packed Hanukkah party, ‘We’re going to win this election’",
+      "excerpt": "Trump continued promoted unfounded claims of election fraud at a White House holiday party held the same day that 3,140 people died of covid-19 in the U.S., a pandemic record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3HN3EB2SQI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/10/hanukkah-party-trump-covid-election-results/?outputType=amp",
+      "publishedDateTime": "2020-12-10T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-joe-bidens-centrist-dilemma-police-groups-say-hes-gone-too-far-left-activists-say-he-hasnt-gone-far-enough.md",
+      "title": "Joe Biden's centrist dilemma: Police groups say he's gone too far left; activists say he hasn't gone far enough",
+      "excerpt": "Conflicting interests from police and social justice groups will test Joe Biden's reputation as a centrist as he tries to implement police reform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-reform-plan-tests-black-lives-matter-police-support/6422611002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/08/USAT/d95e320a-8181-49f1-aabd-79087d150b2b-XXX__DSC5622.JPG?auto=webp&crop=5999,3374,x0,y140&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6422611002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6422611002",
+      "publishedDateTime": "2020-12-10T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-donald-trumps-2024-campaign-theme-we-wuz-robbed-and-we-wont-be-robbed-again-aides-say.md",
+      "title": "Donald Trump's 2024 Campaign Theme: 'We Wuz Robbed and We Won't Be Robbed Again,' Aides Say",
+      "excerpt": "The president's rage at the media and Democrats, and criticism that he is \"delegitimizing\" Biden's win, have hardened his resolve to get revenge four years from now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677",
+      "originalUrl": "https://www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1683511/trump-cpac-flag-2020-2024-voter-fraud.jpg",
+          "width": 1679,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-2024-campaign-theme-we-wuz-robbed-we-wont-robbed-again-aides-say-1553677?amp=1",
+      "publishedDateTime": "2020-12-10T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-trevor-noah-trump-takes-another-l-trying-to-unlose-the-election.md",
+      "title": "Trevor Noah: Trump Takes Another ‘L’ Trying to ‘Unlose’ the Election",
+      "excerpt": "Not only did they shut this case down, but they shut it down in just 34 minutes,” Noah said of the Supreme Court. “They didn’t even pretend that they were going to consider it.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/10/arts/10latenight/10latenight-facebookJumbo-v2.png",
+          "width": 669,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.amp.html",
+      "publishedDateTime": "2020-12-09T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-narrow-house-majority-will-test-democratic-unity-in-biden-administration.md",
+      "title": "Narrow House majority will test Democratic unity in Biden administration ",
+      "excerpt": "Democrats' shrinking House majority will test Speaker Nancy Pelosi's resolve to keep her caucus united and could limit the party's ability to push through President-elect Joe Biden's legislative agenda in their own chamber if they can't stick together.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvRI886ciY8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvRI886ciY8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201204173254-02-pelosi-1204-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html",
+      "publishedDateTime": "2020-12-09T17:43:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-obama-says-trump-did-serious-damage-to-policy-accomplishments-but-aca-remains-robust.md",
+      "title": "Obama says Trump did 'serious damage' to policy accomplishments but ACA 'remains robust'",
+      "excerpt": "President Trump has sought to roll back several major Obama-era policies since 2016.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e612c89-ef37-4a64-a3f7-916b3397e4bc/9dbd64bc-d36d-47ae-9455-7173f4a16be7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "publishedDateTime": "2020-12-09T17:30:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-senate-fails-to-block-trump-backed-arms-sale-to-united-arab-emirates.md",
+      "title": "Senate fails to block Trump-backed arms sale to United Arab Emirates",
+      "excerpt": "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
+      "publishedDateTime": "2020-12-09T17:18:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-live-updates-trump-legal-team-dismisses-safe-harbor-deadline-pledge-to-continue-fight.md",
+      "title": "Live Updates: Trump legal team dismisses 'safe harbor deadline,' pledge to continue fight",
+      "excerpt": "The Trump campaign legal team on Tuesday dismissed the importance of the \"safe harbor deadline\" and indicated they intend to keep going with their legal fight of the election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
+      "originalUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b0975-a82d-44dd-9ee9-e16eee6933da/80778d32-d6f8-43fa-917e-4bfbf73968d2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
+      "publishedDateTime": "2020-12-09T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-attorney-representing-trump-in-texas-dispute-pushed-racist-conspiracy-about-kamala-harris.md",
       "title": "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris",
       "excerpt": "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n",
@@ -757,614 +1356,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-why-safe-harbor-day-is-bad-news-for-trump.md",
-      "title": "Why ‘safe harbor day’ is bad news for Trump",
-      "excerpt": "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
-      "originalUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97357381564",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564",
-      "publishedDateTime": "2020-12-08T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-supreme-court-rejects-pennsylvania-republicans-attempt-to-block-biden-victory.md",
-      "title": "Supreme Court rejects Pennsylvania Republicans' attempt to block Biden victory",
-      "excerpt": "The Supreme Court has denied a request from Pennsylvania Republicans to block certification of Pennsylvania's election results, delivering a near fatal blow to the GOP's long-shot bid to invalidate President-elect Joe Biden's victory.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kr91OQD-Fc4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kr91OQD-Fc4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201126010811-supreme-court-111020-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/supreme-court-pennsylvania-trump-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/supreme-court-pennsylvania-trump-biden/index.html",
-      "publishedDateTime": "2020-12-08T14:23:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-biden-names-retired-gen-lloyd-austin-as-secretary-of-defense-nominee.md",
-      "title": "Biden names retired Gen. Lloyd Austin as secretary of defense nominee",
-      "excerpt": "President-elect Joe Biden has named retired Army Gen. Lloyd Austin as his nominee for secretary of defense, the Biden transition team announced Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html",
-      "publishedDateTime": "2020-12-08T14:14:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-joe-biden-pledges-to-distribute-100m-vaccine-shots-in-first-100-days-of-presidency-live.md",
-      "title": "Joe Biden pledges to distribute 100m vaccine shots in first 100 days of presidency – live",
-      "excerpt": "President-elect vowed to implement an effective vaccine distribution plan during the first 100 days of his administration",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfe5e58f08a20e617dac21",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfe5e58f08a20e617dac21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/222afd159c5091a7b8811b469ad1b9c386648401/0_0_5522_3681/master/5522.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=88cd54e9803f1d2760468ee061ec5748",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates",
-      "publishedDateTime": "2020-12-08T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-judge-formally-dismisses-michael-flynn-case-after-trump-pardon.md",
-      "title": "Judge formally dismisses Michael Flynn case after Trump pardon",
-      "excerpt": "Judge Emmet Sullivan of the DC District Court has dismissed Michael Flynn's criminal case as moot, ending a tortured three-year-long proceeding.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVA6xrmsLIk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVA6xrmsLIk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624101447-michael-flynn-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/michael-flynn/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/michael-flynn/index.html",
-      "publishedDateTime": "2020-12-08T12:47:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-judge-dismisses-case-against-michael-flynn-following-pardon-from-trump.md",
-      "title": "Judge dismisses case against Michael Flynn following pardon from Trump",
-      "excerpt": "A federal judge has dismissed the criminal case against former Trump administration national security advisor Michael Flynn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/61afbc4/2147483647/strip/true/crop/4806x3139+0+31/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F92%2F7c%2F5d2514d52221a1da4bfb1749c57a%2F8641a1d016ff4c77bfd2be3e0af83b54",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true",
-      "publishedDateTime": "2020-12-08T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-chris-cuomo-blasts-gop-congressman-for-skipping-his-show-over-trump-election-claim-questions.md",
-      "title": "Chris Cuomo blasts GOP congressman for skipping his show over Trump election-claim questions",
-      "excerpt": "Rep. Dusty Johnson (R-S.D.) replied that he was ready to discuss covid relief but not “hyper-partisan issues.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
-      "originalUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UGSSZGRVTUI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
-      "publishedDateTime": "2020-12-08T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-ex-cyber-official-krebs-sues-trump-campaign-over-its-attacks-on-election-results.md",
-      "title": "Ex-cyber official Krebs sues Trump campaign over its attacks on election results",
-      "excerpt": "Chris Krebs, the former top administration official for cybersecurity, whom President Donald Trump fired after the election, is suing the Trump campaign and a lawyer working with the campaign to overturn the results of the election, accusing them of defamation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 485,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html",
-      "publishedDateTime": "2020-12-08T11:59:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-won-new-yorks-suffolk-county-why-that-signals-hope-for-democrats.md",
-      "title": "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats.",
-      "excerpt": "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "originalUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-267145/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "publishedDateTime": "2020-12-08T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-publicity-stunt-ags-in-battleground-states-blast-texas-counterpart-for-challenging-bidens-win.md",
-      "title": "'Publicity stunt': AGs in battleground states blast Texas counterpart for challenging Biden's win",
-      "excerpt": "Texas Attorney General Ken Paxton wants the Supreme Court to invalidate election results in four states, citing repeatedly debunked allegations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434192/201208-ken-paxton-jm-1218_11a694b478893a4a252cb3725659bec1.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250383",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250383",
-      "publishedDateTime": "2020-12-08T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-act-v-shakespeare-but-with-a-twist.md",
-      "title": "Trump, Act V: Shakespeare, but With a Twist",
-      "excerpt": "A reader says the Bard’s heroes, unlike the president, were remorseful in the end. Also: Children at play among the leaves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/07/business/07dc-presidentA1-inyt/merlin_180770211_a7e6f448-b301-478d-9187-fe0092cf5bb1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "publishedDateTime": "2020-12-08T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

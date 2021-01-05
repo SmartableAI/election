@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
-    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
-    publishedDateTime: 2020-12-19T15:47:00Z
-    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden says he sees no evidence cyber attack is under control"
     excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
     publishedDateTime: 2020-12-23T03:31:00Z

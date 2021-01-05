@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-covid-19-vaccine-painless-sa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp"
 type: article
 quality: 185
-heat: 325
+heat: 365
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris repeatedly told 'fweedom' story now facing plagiarism accusations"
+    excerpt: "Vice President-elect Kamala Harris has previously told the anecdote about her younger self crying out for \"Fweedom!\" — which has sparked accusations of plagiarism — in her books."
+    publishedDateTime: 2021-01-05T19:41:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kkc2UYROYzI/kamala-harris-fweedom-stroller-story-plagiarism-mlk"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/c5ded738-AP20358720594343.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'"
     excerpt: "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic."
     publishedDateTime: 2020-12-23T23:35:37Z
@@ -63,6 +79,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/kamala-harris-husband-covid-vaccine.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris repeatedly told 'fweedom' story now facing plagiarism accusations"
+    excerpt: "Vice President-elect Kamala Harris has previously told the anecdote about her younger self crying out for \"Fweedom!\" — which has sparked accusations of plagiarism — in her books."
+    publishedDateTime: 2021-01-05T19:53:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/c5ded738-AP20358720594343.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Democrat, longtime Kamala Harris fundraiser behind new startup media organization"
     excerpt: "A pricey, new subscription-based media company is backed by a prominent Democrat who has been a “longtime fundraiser” for Vice President-elect Kamala Harris, according to New York Times media columnist Ben Smith."

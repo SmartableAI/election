@@ -31,126 +31,184 @@ images:
     isCached: true
 
 related:
-  - title: "Biden picks Connecticut schools chief as education secretary"
-    excerpt: "President-elect Joe Biden has chosen the education commissioner for Connecticut and a former public school teacher to serve as education secretary"
-    publishedDateTime: 2020-12-22T15:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T11:40:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden poised to pick Connecticut schools chief as education secretary"
-    excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
-    publishedDateTime: 2020-12-22T04:52:00Z
-    webUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T16:15:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PDIWR6B72II6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 1045
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden picks Connecticut schools chief as education secretary"
-    excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
-    publishedDateTime: 2020-12-23T06:14:00Z
-    webUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
+    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
+    publishedDateTime: 2020-12-12T04:49:00Z
+    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
+    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TLNCDWCEPAI6XITXJGTND6O76E.jpg&w=1440"
-        width: 1288
-        height: 859
+      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Joe Biden introduces Miguel Cardona as pick to lead Education Department"
-    excerpt: "Washington — President-elect Joe Biden on Wednesday will formally introduce Miguel Cardona, the Connecticut commissioner of education, as his nominee to lead the Department of Education. The president-elect revealed Tuesday he tapped Cardona to serve as his secretary of education,"
-    publishedDateTime: 2020-12-23T17:28:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
+  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
+    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
+    publishedDateTime: 2020-12-08T13:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 117
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/1ec5a37e-cf5e-44b9-b321-e3caf7efdbdf/thumbnail/1200x630/a5f8c12ebc252faa3cad0bbada1d4850/gettyimages-1230275863.jpg"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
+        width: 788
+        height: 545
+        isCached: true
+  - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
+    excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
+    publishedDateTime: 2020-12-07T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-stimulus-idUKKBN28H2SR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543740708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61KL"
+        width: 754
+        height: 545
+        isCached: true
+  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
+    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
+    publishedDateTime: 2020-12-19T15:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
-    excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
-    publishedDateTime: 2020-12-16T17:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 895
-        isCached: true
-  - title: "Biden's plans on further COVID19 relief aid?"
-    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-23T00:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
+  - title: "Biden to Americans: we need your help"
+    excerpt: "Watch \"Biden to Americans: we need your help; president-elect outlines pandemic plan which include mask wearing and vaccine distribution\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120554-biden-to-americans-we-need-your-help-president-elect-outlines-pandemic-plan-which-include-mask-wearing-and-vaccine-distribution/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040589_1607515744.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
-    excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
-    publishedDateTime: 2020-12-17T20:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-interior-idUSW1N2HV025"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HV025"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HV025"
+  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
+    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
+    publishedDateTime: 2020-12-09T19:42:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 98
-  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
-    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
-    publishedDateTime: 2020-12-27T17:18:00Z
-    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
-    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    quality: 105
+  - title: "Biden's challenge: Creating a COVID-19-free White House"
+    excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
+    publishedDateTime: 2020-12-16T05:39:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
-        width: 1024
-        height: 682
+      - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
+    excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."
+    publishedDateTime: 2020-12-15T17:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fd8e617dc030c001aab6b6f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
+    excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
+    publishedDateTime: 2020-12-10T03:16:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "R3LCIY8uoB7XB7z8/1CxgrdiBrm/QnWhR7mJ1wX1Dw8ohGNm4pRg5+oHCjgw2hSKXCyWuIv+m1g5ZjdVQlxpUxqcTRFoGf8Gx1TvcEfKj6XF14w+PRVRb6RJ2n4Ivd1kE1f25JYDzJy6/85uyRff0FsCThOUFWM+ensv2BqO9lz1lMU/50MklIp4shzXiDRD9jYmk61RbAkPBftq1J/FoSxNX4RDx2VQOCckWnw4630xcX8QexwKEE6k0wii5ojHS2ACnAhJ13d5JBrT1v38NVQVjBr7HmLoxmdkgaLFVmb+a9z4GIDYjLjPIIeJTnLFMN7fDZpQ79wei1xok8w4MS9ayhZ0w4cz0omLrZX539U=;Lcbhq20RM4Oyum4PAeDyFQ=="

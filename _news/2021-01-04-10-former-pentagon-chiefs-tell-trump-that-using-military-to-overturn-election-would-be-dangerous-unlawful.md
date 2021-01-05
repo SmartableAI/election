@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
-    excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
-    publishedDateTime: 2020-12-31T20:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 107
-    images:
-      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump lashes out at GOP after override vote on defense bill"
     excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
     publishedDateTime: 2020-12-30T19:17:00Z
@@ -102,22 +86,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
-    excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
-    publishedDateTime: 2021-01-02T23:38:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/ted-cruz-10-more-gop-senators-join-donald-trump-in-effort-to-overturn-election.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "wSPIgXHV+DmutX9HENF1wwJGoOwlmlLAE9YWpJS/UfPJO6NBS1FDQYFWjHq5kZmzyxfv6g+IhYY21z9Pw+EVjpmpvH041pcIfp6PLbxUAto0pkV5+Q/ayGhoXTz040UtSlzIFlk03oL3Zk+hKDR5fk6fuM1NbGQcy+2w82i8M28Zgts5G9i3SWr7nhbTbVZEoSwUZrulbM2Zdf9gYbfWPokEgBqqqjq/hfSbhoDLqsUdqYIjBMX0ZZAuIvojcGJWDlFydjcuAsw6V4CGdeBdA25DGp3UN5qPlcjZ+xJflS1Z6cpEkioGmqPvhpKX3J5/IqtxQbyf/XFUTiqfKVlVAObHrYPsNqkdKHDg1b/Ux0tR7e5ckZ9PvA0AdjGQHK098QFLNHz5tYSyoYS9auuZ/Ylj8uLRVoEFZ+x/Tif90adqjsO2sVPPsCMoS5dSnDnAxykEZqdStSWv6w0wA7vj32U5uQEKrWHsuUnfl9+oPVaGFPyG39dWqM8W1I6wj4TWNOPjeppTa6H5hvtaDjPcVw==;+VB1BkuGSiAfvaNet0wMgg=="
 ---

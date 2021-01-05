@@ -2,6 +2,328 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-09-trump-lawyer-rudy-giuliani-receiving-same-covid-drugs-as-president.md",
+      "title": "Trump lawyer Rudy Giuliani receiving same Covid drugs as president",
+      "excerpt": "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-55243581",
+      "originalUrl": "https://www.bbc.com/news/world-55243581",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-55243581",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581",
+      "publishedDateTime": "2020-12-09T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump.md",
+      "title": "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump",
+      "excerpt": "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
+      "originalUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-the-uss-former-top-election-security-official-has-filed-a-lawsuit-against-a-trump-lawyer-who-said-he-should-be-taken-out-at-dawn-and-shot.md",
+      "title": "The US's former top election-security official has filed a lawsuit against a Trump lawyer who said he should be 'taken out at dawn and shot'",
+      "excerpt": "Chris Krebs' lawsuit said he had faced a \"barrage of threats\" from people who decided to act on Joseph diGenova's \"call to action.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12",
+      "originalUrl": "https://www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb479fae74fa70018b830f8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12?amp",
+      "publishedDateTime": "2020-12-08T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-why-safe-harbor-day-is-bad-news-for-trump.md",
+      "title": "Why ‘safe harbor day’ is bad news for Trump",
+      "excerpt": "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
+      "originalUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97357381564",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564",
+      "publishedDateTime": "2020-12-08T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-judge-dismisses-case-against-michael-flynn-following-pardon-from-trump.md",
+      "title": "Judge dismisses case against Michael Flynn following pardon from Trump",
+      "excerpt": "A federal judge has dismissed the criminal case against former Trump administration national security advisor Michael Flynn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/61afbc4/2147483647/strip/true/crop/4806x3139+0+31/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F92%2F7c%2F5d2514d52221a1da4bfb1749c57a%2F8641a1d016ff4c77bfd2be3e0af83b54",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true",
+      "publishedDateTime": "2020-12-08T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-chris-cuomo-blasts-gop-congressman-for-skipping-his-show-over-trump-election-claim-questions.md",
+      "title": "Chris Cuomo blasts GOP congressman for skipping his show over Trump election-claim questions",
+      "excerpt": "Rep. Dusty Johnson (R-S.D.) replied that he was ready to discuss covid relief but not “hyper-partisan issues.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
+      "originalUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UGSSZGRVTUI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
+      "publishedDateTime": "2020-12-08T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-trump-won-new-yorks-suffolk-county-why-that-signals-hope-for-democrats.md",
       "title": "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats.",
       "excerpt": "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots.",
@@ -181,7 +503,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1850,
+      "heat": 1990,
       "tags": null,
       "images": [
         {
@@ -286,7 +608,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/ng-interactive/2020/dec/08/us-election-results-2020-joe-biden-defeats-donald-trump-to-win-presidency",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5335,
+      "heat": 5035,
       "tags": null,
       "images": [
         {
@@ -1181,7 +1503,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1063,
+      "heat": 1283,
       "tags": null,
       "images": [
         {
@@ -1258,323 +1580,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
-      "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
-      "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "originalUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-267936/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "publishedDateTime": "2020-12-03T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-senate-vote-likely-next-week-on-blocking-trumps-massive-uae-arms-sale.md",
-      "title": "Senate vote likely next week on blocking Trump's massive UAE arms sale",
-      "excerpt": "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS",
-      "originalUrl": "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D2XS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS",
-      "publishedDateTime": "2020-12-03T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ivanka-trump-confirms-she-was-questioned-by-the-dc-attorney-generals-office-over-inaugural-committee-spending.md",
-      "title": "Ivanka Trump confirms she was questioned by the D.C. attorney general’s office over Inaugural Committee spending",
-      "excerpt": "The president’s daughter released an email showing that she told Trump hotel executives to charge “market price.” The hotel is accused of overcharging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-03T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-simply-unthinkable-law-officers-call-for-halt-to-executions-in-trumps-final-weeks.md",
-      "title": "'Simply unthinkable': Law officers call for halt to executions in Trump's final weeks",
-      "excerpt": "Five executions are scheduled before Biden, who opposes capital punishment, takes office. Ninety current and former law officials want them to stop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/02a629ee-2141-493b-a18e-db31b05b3c81-iA01_NLINE_MUG_21.JPG?auto=webp&crop=1882,1059,x0,y100&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3806399001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3806399001",
-      "publishedDateTime": "2020-12-03T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-campaigns-star-witness-in-michigan-was-deemed-not-credible-then-her-loud-testimony-went-viral.md",
-      "title": "Trump campaign’s star witness in Michigan was deemed ‘not credible.’ Then, her loud testimony went viral.",
-      "excerpt": "Even Giuliani reportedly made a point to note he had just met Melissa Carone, whose testimony drew comparisons to SNL sketches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GFSVO5LHZEBNI5TPRFGAOH5QM.png&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/?outputType=amp",
-      "publishedDateTime": "2020-12-03T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-explainer-could-trump-preemptively-pardon-his-family-or-even-himself.md",
-      "title": "Explainer: Could Trump preemptively pardon his family — or even himself?",
-      "excerpt": "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-pardon-idINKBN28D1IC",
-      "originalUrl": "https://www.reuters.com/article/usa-election-pardon-idINKBN28D1IC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28D1IC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC",
-      "publishedDateTime": "2020-12-03T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

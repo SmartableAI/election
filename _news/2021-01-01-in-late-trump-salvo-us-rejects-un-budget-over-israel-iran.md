@@ -29,51 +29,204 @@ images:
     isCached: true
 
 related:
-  - title: "Iran's foreign minister urges Trump to avoid Israel 'trap' to provoke war"
-    excerpt: "Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by an alleged Israeli plan to provoke a war through attacks on U.S. forces in Iraq."
-    publishedDateTime: 2021-01-03T08:00:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2970FP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2970FP"
+  - title: "No reason given for Trump cutting short his Florida vacation"
+    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T15:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idCAKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2951B0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump to return to White House early from Florida vacation"
+    excerpt: "President Donald Trump is cutting short his Florida holiday vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
+    publishedDateTime: 2020-12-31T11:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "Trump to forego New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T14:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/trump-to-forego-new-years-eve-in-florida-for-early-return-to-washington-idUSKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 124
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546421573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0109Y"
-        width: 818
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546274095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0N7"
+        width: 821
         height: 545
         isCached: true
-  - title: "US aircraft carrier stays in Gulf after Pentagon cites Iranian 'threats' against Trump"
-    excerpt: "Pentagon reverses decision to pull USS Nimitz out of Persian Gulf after ‘recent threats issued by Iranian leaders’"
-    publishedDateTime: 2021-01-04T05:59:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/04/us-aircraft-carrier-stays-in-gulf-after-iranian-threats-against-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/2af8b38a0ee78c2cd5f279cc039ab88c251178be/0_275_5633_3380/master/5633.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6d9d2e4a06dff3a3a23de79507330c30"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Iran's Zarif urges Trump to avoid Israel 'trap'"
-    excerpt: "World Iran's Zarif urges Trump to avoid Israel 'trap' Posted . Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by a"
-    publishedDateTime: 2021-01-02T19:35:00Z
-    webUrl: "https://www.reuters.com/video/watch/irans-zarif-urges-trump-to-avoid-israel-id723681575?chan=8gwsyvzx"
+  - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T16:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
+    excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
+    publishedDateTime: 2020-12-26T16:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
+        width: 1200
+        height: 832
+        isCached: true
+  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
+    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
+    publishedDateTime: 2020-12-24T23:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210102&i=OVDTINZAJ&r=OVDTINZAJ&t=2"
-        width: 960
-        height: 540
+      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Barron Trump Made Headlines 5 Times In 2020 And Not Just For His Height"
+    excerpt: "His height surprised many during recent public appearances, but he's been in the news more than you might think."
+    publishedDateTime: 2021-01-01T14:00:00Z
+    webUrl: "https://www.ibtimes.com/barron-trump-made-headlines-5-times-2020-not-just-his-height-3101877"
+    ampWebUrl: "https://www.ibtimes.com/barron-trump-made-headlines-5-times-2020-not-just-his-height-3101877?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-made-headlines-5-times-2020-not-just-his-height-3101877?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
+        width: 1200
+        height: 908
+        isCached: true
+  - title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
+    excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
+    publishedDateTime: 2021-01-03T20:27:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "No Reason Given for Trump Cutting Short His Florida Vacation"
+    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected."
+    publishedDateTime: 2021-01-01T22:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Heard On Tape Urging State Official To 'Find' Votes For Him"
+    excerpt: "President Donald Trump pressured the Georgia secretary of state in an extraordinary phone conversation Saturday to \"find\" enough votes to overturn Joe Biden's victory in the Southern state, news media reported Sunday."
+    publishedDateTime: 2021-01-03T20:28:00Z
+    webUrl: "https://www.ibtimes.com/trump-heard-tape-urging-state-official-find-votes-him-3113640"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+        width: 1024
+        height: 657
+        isCached: true
+  - title: "No Scottish Golf Trip For Trump, Says Leader Sturgeon"
+    excerpt: "Scotland's leader Nicola Sturgeon on Tuesday poured cold water on rumours that Donald Trump was set to visit, saying even the US president was subject to coronavirus travel restrictions. Speculation has grown that Trump,"
+    publishedDateTime: 2021-01-05T16:12:00Z
+    webUrl: "https://www.ibtimes.com/no-scottish-golf-trip-trump-says-leader-sturgeon-3114974"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/donald-trump-owns-two-golf-courses-in-scotland.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "r9vX+Zii8IHroBUrva/M5bPUyfVWMJIMv+6SFJ8NHXT9fmC+njw4pokygtkMLv2nN1dFpi8FPwL+CCNvxPT3ZZwQERxuS5OxCcZCGN400X1uUpDEb0/8ntqECHjuQCo9/5vJfuL1AftNt+g8Hb+9sm4X3IVQuXclcPW9CqtdtTVaIE0Zup55EFzn5Pyq7W6QWB5z3n/AGCZCgbcplGxh4jI4b3lKxYKDv0J28yQk0n5iJDJ+AREU2Wt3I+BbUF2hFA2fPl3ArKdRZu+WrRdIGVlJBZosXYIp410FXuQus3NdwiAAd4V7hK2Y7WCIyx/CSfuyCkrXe9T0slvNSlt5u9I51T+VWMiQoNyzdD9fYEwvNNYHNiO4OkQ0XY3Fms08xpNel/FncTg+J5iGY8DwDAHGaUrmCxaAAT8B5TIuJsg7SUlopu4j9mM4tygoGd9lw8V9ccOt2MBbt+TEKI3GtcZ9Eo07oT7gO2cIpjXEsdgtSpHTfiCaKkMlSV6ptX0SIbMMfTP1nNlrWKN4kGjgSA==;KG1lWWeMYSOG94WmTgCs7g=="

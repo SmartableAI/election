@@ -260,17 +260,22 @@ related:
       name: NPR
       domain: npr.org
     quality: 85
-  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
-    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
-    publishedDateTime: 2020-12-26T17:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+  - title: "Trump Is America's Most Admired Man In 2020"
+    excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
+    publishedDateTime: 2020-12-30T04:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597"
+    ampWebUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/time-is-running-out-on-us-president-donald.jpg"
+        width: 1024
+        height: 625
+        isCached: true
 
 secured: "6v/gYtAxyC0ylYo4owehBbEJna1VD97BFTDRjxIYkMsh5FD5yjL4iSCjiOx/fCqoECvLPpWy4nh0j6nY6XPstJlx09IvNOo61wlB/K08CEtmb4WaeKoMC/GwRU7Bg3fL7t0MrEmD4pbt6yfubf8LqpG9nRLYATKmgKi69MSK2SRiR4J8PsM5jhAuG4LqDfApaSZkEIXG/0/jz1zFtw+PG8y7vlLzej2CHjIYamJS91IuQVZ2twXGI3rB30QflcdSygaOc+1yz2wVPSmJti06pQayCjLHIP7YAKRd6BExTNCAutfbuxLs0lHapX1MiRt1TmnM3QnaFpPHSFUFoVgsIk26s89jSu2yIyfHa5BRPDUIraDuWxGptz1ubjOL0msLTu6YA27RazXSCl74Y+4ghHP4iMveQ5o75B2bs4bQGizZvm20KPhw2DU5Pz7yHHBK5nFqVO7oludFOhV1thJtRYqXQuKBw3uSLMbUpL8aluRqqplz1Yf7oZOQmwEHUogY2ExqRFzvJQpU+v8y1kJ/qA==;GZyv+YETuOiLIEDTXbECgg=="
 ---

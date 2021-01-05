@@ -260,17 +260,22 @@ related:
       name: NPR
       domain: npr.org
     quality: 85
-  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
-    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
-    publishedDateTime: 2020-12-26T17:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+  - title: "Trump Is America's Most Admired Man In 2020"
+    excerpt: "The Gallup survey, which has been conducted annually since 1946, asks random respondents to name a man and woman they admire most."
+    publishedDateTime: 2020-12-30T04:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597"
+    ampWebUrl: "https://www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-americas-most-admired-man-2020-3111597?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/time-is-running-out-on-us-president-donald.jpg"
+        width: 1024
+        height: 625
+        isCached: true
 
 secured: "FEKoQL+0gwTkEFJNg9IsI20HyZgvmRJgVUwlPZOF21QLt/KLRdy4gtPnz5O+4balTJk2B0ORwq5QTfddNjbV0RvQ9pBJZDtPKQxrL3pO7LkSCFp/lxagDmvqJ/luIg9eqKmfqkALUeQJqvqGaKRAMiLhlMcFDVTzd7zHPtnTcuXhhN/Tr2WLdb3O9FQaLG0TSp3jJrUoBbrt+AwOpqLQDmcFGmDULoPkqblRwVItkFnMXf2dkSHqwey1Tmm2NKjrx10EVCd5dFkK07UHJvbHAKM5U0f9zyVTHW+S6cIPv4+uNR8kKt6/dDBhFXUg4g006Z9hWpee/z6lI929jtGh0S9Ad673+Xprmxi8h6vmWqI=;P0iZiWZEnp74SQNvu3ic+w=="
 ---

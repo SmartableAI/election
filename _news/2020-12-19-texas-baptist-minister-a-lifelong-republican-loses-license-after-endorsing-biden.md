@@ -31,191 +31,454 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden subpoena seeks information on Burisma, other entities"
-    excerpt: "The Justice Department’s subpoena to Hunter Biden sought information involving more than two dozen entities to examine some of his foreign business ties, including with Ukrainian gas company Burisma."
-    publishedDateTime: 2020-12-13T05:54:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
+  - title: "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship"
+    excerpt: "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,"
+    publishedDateTime: 2020-12-24T17:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 141
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/917e0d2/2147483647/strip/true/crop/5591x3652+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fd3%2F7a50b7183b1f03b43442ff45987a%2F356ca0eaf41c446db3ea424d5c48b946"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HJHLZCFJMI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Fact check: Laptop repairman at center of Hunter Biden saga is alive"
-    excerpt: "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead."
-    publishedDateTime: 2020-12-16T01:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
+  - title: "Biden calls for Trump to sign COVID-19 economic relief package"
+    excerpt: "President-elect Joe Biden has called on President Trump to sign the bipartisan end-of-year spending bill that would provide $600 COVID relief checks to most Americans. The president has demanded the checks be increased to $2,"
+    publishedDateTime: 2020-12-27T13:29:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-trump-sign-covid-relief-bill/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-sign-covid-relief-bill/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/a20c9f88-aaab-4ae1-8d99-a4a205c60d1a/thumbnail/1200x630g2/423a5e0094b3b5fef22168cdd073de70/gettyimages-1230220167.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "'Folks, we're in crisis': Joe Biden introduces environmental advisers"
-    excerpt: "President-elect announces racially diverse team to face ‘existential threat of our time’"
-    publishedDateTime: 2020-12-19T22:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/03159c767c65ac80359381a5b009af4b78e0b79e/0_211_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dad6a73e9673345a1d1669253a4318"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
-    excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
-    publishedDateTime: 2020-12-16T16:11:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55334234"
+  - title: "Covid: Biden urges Trump to sign coronavirus bill into law"
+    excerpt: "US President-elect Joe Biden has warned of \"devastating consequences\" if President Donald Trump continues to delay signing a Covid-19 economic relief bill into law. Unemployment benefits and a ban on evictions will be affected unless the bill is signed by the end of Saturday."
+    publishedDateTime: 2020-12-26T22:06:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55454720"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55454720"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55454720"
     type: article
     provider:
       name: BBC
       domain: bbc.com
-    quality: 120
+    quality: 140
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091mmz2.jpg"
-        width: 400
-        height: 224
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/696A/production/_116268962_gettyimages-1230097563.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Hunter Biden, long a GOP political target, reveals he is subject of federal tax probe"
-    excerpt: "Hunter Biden, the president-elect's embattled son, announced Wednesday that federal prosecutors in Delaware are investigating his \"tax affairs.\""
-    publishedDateTime: 2020-12-10T00:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
+  - title: "Joe Biden: 'Enormous damage' to US security agencies by Trump"
+    excerpt: "Agencies critical to US security have suffered \"enormous damage\" at the hands of the Trump administration, US President-elect Joe Biden has said. Mr Biden said his team was not getting the information it needed,"
+    publishedDateTime: 2020-12-28T22:23:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55470625"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55470625"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55470625"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5F94/production/_116286442_064981892-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump-Biden transition live updates: House to vote on $2,000 stimulus checks"
+    excerpt: "House Speaker Nancy Pelosi on Monday is bringing a vote on a stand-alone bill to increase economic impact payments to $2,000 to the House floor, and while it’s expected to pass the House, it’s unclear whether Senate Majority Leader Mitch McConnell will take up the measure in the Senate."
+    publishedDateTime: 2020-12-28T15:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 118
+    quality: 137
     images:
-      - url: "https://s.abcnews.com/images/Politics/hunter-biden-01-gty-llr-201209_1607550823079_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/Politics/pelosi-file-rt-ml-201228_1609168602754_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
-    excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
-    publishedDateTime: 2020-12-19T11:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
+  - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
+    publishedDateTime: 2020-12-29T00:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 118
+    quality: 134
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-jill-grave_hpMain_20201218-183145_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/Politics/nancy-pelosi-01-gty-jc-201228_1609197270590_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 901
         isCached: true
-  - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
-    excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
-    publishedDateTime: 2020-12-15T11:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
+  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
+    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
+    publishedDateTime: 2020-12-22T06:05:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544612554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE0OH"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
         width: 817
         height: 545
         isCached: true
-  - title: "Disability Rights Groups Send Letter Opposing Biden's Potential Education Secretary Pick"
-    excerpt: "\"As the leader of the NEA, Eskelsen García had the opportunity to steer the organization toward equity and access for students with disabilities but failed to do so,\" the letter read."
-    publishedDateTime: 2020-12-11T20:27:00Z
-    webUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189"
-    ampWebUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
+  - title: "House overrides Trump's veto of $740 billion defense funding bill"
+    excerpt: "The House of Representatives on Monday overrode President Trump's veto of an annual must-pass defense policy bill, teeing up what could be the first time Congress overrides a veto from Mr. Trump only weeks before he leaves office."
+    publishedDateTime: 2020-12-29T00:25:00Z
+    webUrl: "https://www.cbsnews.com/news/defense-bill-house-prepare-override-trump-veto/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/defense-bill-house-prepare-override-trump-veto/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1684808/lily-eskelsen-garcia-nea-conference-2018.jpg"
-        width: 3500
-        height: 2333
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/28/76d8423f-8f35-455b-8ca3-709ab2e4e12a/thumbnail/1200x630g8/aae3459c19b7f076e1a4dce0bf41fb3f/gettyimages-1230310748.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs'"
-    excerpt: "WASHINGTON -- President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs.' Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general 24/7 coverage"
-    publishedDateTime: 2020-12-09T22:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
+  - title: "Trump lashes out at GOP after override vote on defense bill"
+    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
+    publishedDateTime: 2020-12-30T08:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 113
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
-    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
-    publishedDateTime: 2020-12-11T11:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 110
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden defends son in Justice Department probe..."
-    excerpt: "Watch \"President-elect Joe Biden defends his son Hunter Biden in the Justice Department probe during a sit down with Stephen Colbert on 'The Late Show'\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2020-12-18T00:59:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201218001933-president-elect-joe-biden-defends-his-son-hunter-biden-in-the-justice-department-probe-during-a-sit-down-with-stephen-colbert-on-the-la/"
+  - title: "Trump lashes out at ‘weak and tired’ Republican congressional leadership"
+    excerpt: "The president took aim at senior members of his own party for not supporting his baseless claims of election fraud and allowing an override of his veto of a defense bill to advance."
+    publishedDateTime: 2020-12-30T00:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lashes-out-at-weak-and-tired-republican-congressional-leadership/2020/12/29/c242d412-49e7-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/18/story_08169353_1608251944.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2I6A53BZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
-    excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
-    publishedDateTime: 2020-12-10T13:43:00Z
-    webUrl: "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/"
+  - title: "Millions of Americans lose jobless benefits as Trump refuses to sign aid bill"
+    excerpt: "Millions of Americans saw their jobless benefits expire on Saturday after U.S. President Donald Trump refused to sign into law a $2.3 trillion pandemic aid and spending package, protesting that it did not do enough to help everyday people."
+    publishedDateTime: 2020-12-26T10:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29003U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29003U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29003U"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/10/f8b5dd6d-118b-4e25-870c-9e3ef0372c62/thumbnail/1200x630/f6d2af7d44e206e3e4bfb55a6302d452/cbsn-fusion-hunter-biden-reveals-he-is-under-federal-investigation-thumbnail-605300-640x360.jpg"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545851654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP0A1"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
+    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
+    publishedDateTime: 2020-12-21T17:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "House Republicans join with Democrats to override Trump's veto of defence bill"
+    excerpt: "If, as expected, the Senate follows suit later this week, it will be Congress’s first such rebuke of his presidency"
+    publishedDateTime: 2020-12-29T06:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/house-republicans-join-with-democrats-to-override-trumps-veto-of-defence-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/f5683752a5a505c0492063d2d1dd1d7e1f59b149/0_135_4043_2425/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=744285010e354a8f4bb804c744576b66"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "U.S. Congress inches closer to Trump veto override as Republican tensions grow"
+    excerpt: "The U.S. Senate was due on Wednesday to hold a procedural vote that could pave the way for Congress to override President Donald Trump's veto of a key defense bill, as tension between the outgoing Republican president and party leaders grows."
+    publishedDateTime: 2020-12-30T16:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29411U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29411U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29411U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden warns of Trump officials' 'roadblock'"
+    excerpt: "President-elect Joe Biden is warning of massive damage done to the national security apparatus by the Trump administration and roadblocks in communication. (Dec. 28)"
+    publishedDateTime: 2020-12-28T22:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/28/biden-warns-trump-officials-roadblock/4066767001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ea7a4d10-4c40-4c15-a28c-e36ec0cb2ce2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump-Biden transition: Attorney Sidney Powell back at White House Sunday"
+    excerpt: "Attorney Sidney Powell was back at the White House Sunday to push President Donald Trump and his administration to issue an executive order to seize voting machines for examinatio"
+    publishedDateTime: 2020-12-21T11:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+  - title: "Biden's incoming deputy chief of staff apologizes for calling Republicans 'a bunch of f---ers'"
+    excerpt: "\"I used some words that I probably could have chosen better,\" O'Malley Dillon said on Thursday, per a Politico report."
+    publishedDateTime: 2020-12-17T21:48:00Z
+    webUrl: "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-staffer-jen-omalley-dillon-apologizes-gop-expletive-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5fdbc16bc910a400192e82a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto"
+    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto."
+    publishedDateTime: 2020-12-29T17:31:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Republican Sen. Toomey to Trump: 'You don't get everything you want, even if you are the president'"
+    excerpt: "Republican Sen. Pat Toomey on Sunday urged President Donald Trump to sign the coronavirus relief bill as he pushes for $2,000 stimulus checks."
+    publishedDateTime: 2020-12-27T16:48:00Z
+    webUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fe8b331a644880018193697?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden says Trump's 'abdication of responsibility has devastating consequences' as the president neglects to sign bipartisan stimulus"
+    excerpt: "Trump said he wants $2,000 direct payments to Americans, but House Republicans blocked Democrats' attempt this week to meet his demand."
+    publishedDateTime: 2020-12-26T18:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trumps-abdication-of-responsibility-has-devastating-consequences-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fe77a26edf8920018093c66?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "54% of Americans disapprove of how Trump has handled his presidential transition, a new Insider poll shows"
+    excerpt: "Even 14% of respondents who voted for outgoing President Donald Trump said they disapproved of his presidential transition."
+    publishedDateTime: 2020-12-29T15:59:00Z
+    webUrl: "https://www.businessinsider.com/most-americans-disapprove-of-trump-transition-insider-poll-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/most-americans-disapprove-of-trump-transition-insider-poll-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/most-americans-disapprove-of-trump-transition-insider-poll-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5feb4b1eedf8920018094022?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Here's the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
+    excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
+    publishedDateTime: 2020-12-24T15:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fe4b2d8edf8920018093a90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
+    excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
+    publishedDateTime: 2020-12-27T22:07:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/republican-and-democratic-lawmakers-to-trump-sign-the-bill-mr-president/2020/12/27/47cb2fd7-2190-4875-a6a2-8aaf6b8822d4_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-27-2020/t_f044b9b2f3c84f10bc10a1c55a58cf04_name_01_SundayShow.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
+    excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"
+    publishedDateTime: 2020-12-25T20:27:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-christmas-biden-trump-20201225-aajy3gvrufdu5llyqvtajq5cfi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 91
+    images:
+      - url: "https://www.nydailynews.com/resizer/0ul6_DlUDSmHjuvUUVPjjaJwAQQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTEZGCM3Z5F7VDNUIPZ3B4YYK4.jpg"
+        width: 1200
+        height: 838
+        isCached: true
+  - title: "Second stimulus check updates: Trump threatens to torpedo $900 billion COVID-19 relief bill with new demands that fellow Republicans have opposed"
+    excerpt: "President Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it."
+    publishedDateTime: 2020-12-23T06:58:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-coronavirus-stimulus-check-updates-20201223-7ybevw6uafhtlfcodpayz73m3y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 88
+    images:
+      - url: "https://www.chicagotribune.com/resizer/fk0V3jTdM0znmmtIBR7USnL-RXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KADLT5AIRFDM3OFMKUQLBT5LBU"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Republicans Buck Trump, Reject Proposal for $2,000 Stimulus Checks"
+    excerpt: "Republicans on Thursday shut down an effort by Democratic leadership in the House to add $2,000 payments to the latest stimulus package, breaking with President Donald Trump’s demand for such checks,"
+    publishedDateTime: 2020-12-24T21:34:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/republicans-buck-trump-reject-usd2-000-stimulus-checks.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f74/39e/75805b07042d28264174aae959cff36626-GettyImages-1230254465.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "President-elect Joe Biden warns of Trump officials’ ‘roadblocks’ to transition"
+    excerpt: "President-elect Joe Biden is warning of massive damage done to the national security apparatus by the Trump administration and “roadblocks” in communication between agency officials and his transition team that could undermine Americans’ security."
+    publishedDateTime: 2020-12-28T21:46:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/president-elect-joe-biden-warns-of-trump-officials-roadblocks-to-transition/WUQNBJQZONGRHK7ATGS3LWB4W4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 66
+    images:
+      - url: "https://www.ajc.com/resizer/zEKCcn-DiEMFCBmQ1NJ6n0VY7WU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/FL7YP6OTPIEXYVGZABEULRYNEU.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Lashes Out At Republican Leaders Over Looming Veto Override"
+    excerpt: "Donald Trump, facing a humiliating first veto override of his presidency, lashed out at Republican leaders in Congress on Tuesday as relations soured ahead of a crucial pair of runoff elections in Georgia that could determine control of the Senate."
+    publishedDateTime: 2020-12-29T22:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-lashes-out-republican-leaders-over-looming-veto-override-3111419"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
+        isCached: true
+  - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
+    excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
+    publishedDateTime: 2020-12-28T09:47:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/28/some-republicans-plan-to-challenge-bidens-electoral-college-victory-heres-what-happened-when-democrats-challenged-bush/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 48
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_fc9e91c267a54ba529f7e2f59370c929-h_91fcd3c81c0d0cb119b2f6ffdc0c4bc4.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "z9cx4jmvpynlXgvmZLApAn82bim1iXiSOC+L1tQ+wdivBdfPPgvPg2SFihHar3F7MDIN8y8CE43CntWr8dXgBRYm2pUJIIWJ0mpc5NyRSa4/siRtsGDXu4LDDxn7CnaEX2XQnbI4R9mgKRaDppIQmZHNK/p0bVcCTPki3zBhSXNhcx/tT7+E3f75nxzdx7TeE9KK5p3rWDfa/1Hab7mXoNpRCpwSW0ZFilMQxPL4PbYDOV1vma/B3+OfMP4JvDpXuztJBiBxNxWyoHxFGQDmOtk0MOotEETIACxY9kGgxfSqu6qixawv3Y1qp+ghbRpmI2RdYdbersVVi4g8TCcV3b3/WxffSuPVw5LFahgzl7E=;ZmDR9F0lmJx/XUlAV59UWA=="

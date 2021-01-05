@@ -29,28 +29,108 @@ images:
     isCached: true
 
 related:
-  - title: "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved"
-    excerpt: "U.S. President Donald Trump in a tweet on Friday said Moderna Inc's vaccine had been approved and would ship immediately, although the U.S. Food and Drug Administration has made no public announcement yet regarding its decision."
-    publishedDateTime: 2020-12-18T17:58:00Z
-    webUrl: "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S1NF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF"
+  - title: "Live politics updates: Biden bashes Trump's 'abdication of responsibility' on COVID relief bill"
+    excerpt: "\"This abdication of responsibility has devastating consequences,\" Biden said, warning Trump put unemployment aid and other vital services at risk."
+    publishedDateTime: 2020-12-27T13:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/ebfb5d0f-d98f-40ee-a919-a3b84dd66128-AP_Biden_1.jpg?auto=webp&crop=3689,2075,x0,y385&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election"
+    excerpt: "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\""
+    publishedDateTime: 2020-12-31T14:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4094103001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Watch Live: Joe Biden slated to receive COVID vaccine"
+    excerpt: "Mr. Biden is set to join a growing list of public officials who have shared their experiences getting inoculated against COVID-19 as part of efforts to build public trust in its safety."
+    publishedDateTime: 2020-12-21T13:21:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545045397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH11H"
-        width: 817
-        height: 545
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/8a296266-ec80-42f5-8149-7a3ffeab472b/thumbnail/1200x630/fbb1ec6906cf271f73959c07dac76a78/gettyimages-1230220168.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Georgia pastor and Trump adviser tests positive for COVID-19"
-    excerpt: "The leader of a north Georgia megachurch who has been a spiritual adviser to President Donald Trump has tested positive for COVID-19"
-    publishedDateTime: 2020-12-21T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/georgia-pastor-and-trump-adviser-tests-positive-for-covid-19/2020/12/20/57d7f6ca-4320-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "Congress approves $900B COVID relief bill, sending to Trump"
+    excerpt: "After months of Washington gridlock, Congress is set to act on a $900 billion pandemic relief package, finally delivering long-sought cash to businesses and individuals as well as resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
+    publishedDateTime: 2020-12-22T15:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_ed98b12d65af484c908f5cbfefd34f4a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe and Jill Biden receive the COVID-19 vaccine on camera"
+    excerpt: "So far, a limited number of healthcare workers and high-level government officials have received first doses of Pfizer's COVID-19 vaccine."
+    publishedDateTime: 2020-12-21T20:30:00Z
+    webUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fe10676c910a400192e8d13?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Covid relief: Trump demands changes to sign $900bn bill"
+    excerpt: "Outgoing president says $600 stimulus payout to most Americans should increase to $2,000, or $4,000 for a couple"
+    publishedDateTime: 2020-12-23T03:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7028196812fbe9486628434e6239f4854962ec9f/0_363_5442_3265/master/5442.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93941f4b1bb96141d79e029b0ec09467"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump suggests he might not sign COVID relief bill"
+    excerpt: "President Donald Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it"
+    publishedDateTime: 2020-12-23T01:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -61,21 +141,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump blasts COVID-19 economic relief package and demands changes"
-    excerpt: "President Trump indicated Tuesday night that he would not sign the massive COVID-19 economic relief package, bringing new risk to the effort to provide financial aid to millions of Americans struggling during the pandemic."
-    publishedDateTime: 2020-12-23T02:11:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
+  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
+    excerpt: "U.S. President Donald Trump threatened on Tuesday not to sign a $892-billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
+    publishedDateTime: 2020-12-23T02:06:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN28X04N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X04N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X04N"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/23/ac57d883-d8d2-4405-a4bf-18068bc6aead/thumbnail/1200x630/8586713d78108fbcf0144908b3c95136/screen-shot-2020-12-22-at-8-07-16-pm.png"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545504122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
     excerpt: "President Donald Trump threatened on Tuesday to not sign an $892 billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
@@ -93,69 +173,85 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
-    excerpt: "President Donald Trump’s last-minute demand for $2,000 checks for most Americans has thrown the year-end COVID relief effort into chaos"
-    publishedDateTime: 2020-12-25T08:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+  - title: "COVID relief bill flown to Florida, where Trump went golfing"
+    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
+    publishedDateTime: 2020-12-26T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump signs COVID-19 relief bill after nearly weeklong delay"
+    excerpt: "After its passage, Trump initially called for the bill to be revised to include $2,000 checks and refused to sign it until his call was answered. However, he didn't officially say he would veto it. In a Sunday night statement announcing he had signed the bill,"
+    publishedDateTime: 2020-12-28T06:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump golfs in Florida as COVID relief hangs in the balance"
-    excerpt: "After tossing a grenade that threatens to blow up a massive COVID relief and government funding bill and force a government shutdown in the midst of a pandemic, President Donald Trump spent his Christ"
-    publishedDateTime: 2020-12-25T11:24:00Z
-    webUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/d3ecd3fa-4679-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "Trump signs massive measure funding government, COVID relief"
+    excerpt: "President Donald Trump has signed into law a $900 billion pandemic relief package, ending days of drama over his refusal to accept the bipartisan deal"
+    publishedDateTime: 2020-12-28T04:47:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74bfe5e7bd964a5493fd4cda8451bdf1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump golfs in Florida as COVID relief hangs in the balance"
-    excerpt: "President Donald Trump is spending his Christmas golfing in Florida as a government shutdown looms and COVID relief hangs in the balance"
-    publishedDateTime: 2020-12-26T07:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/2c98ee9a-4723-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/2c98ee9a-4723-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-golfs-in-florida-as-covid-relief-hangs-in-the-balance/2020/12/25/2c98ee9a-4723-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "Biden inauguration to feature memorial for COVID victims"
+    excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump EPA retains ozone standards despite COVID-19 link to air pollution"
-    excerpt: "The Trump administration on Wednesday finalized a 5-year-old air quality standard for ozone pollution despite calls by environmental groups to toughen the rule because people harmed by air pollution are more vulnerable to COVID-19."
-    publishedDateTime: 2020-12-24T00:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-environment-ozone/trump-epa-retains-ozone-standards-despite-covid-19-link-to-air-pollution-idUSL1N2J31WR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J31WR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J31WR"
+  - title: "Biden inauguration events to include memorial for COVID-19 victims"
+    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
+    publishedDateTime: 2020-12-31T16:33:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545595167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1B8"
-        width: 877
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
     excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
@@ -189,19 +285,83 @@ related:
         width: 738
         height: 545
         isCached: true
-  - title: "Refuting Trump, FDA commissioner says vaccine could not have been authorized sooner"
-    excerpt: "In an interview with Fox News Saturday, Trump, after seeming to take credit for the speed of the vaccine's development, said that the Food and Drug Administration could have authorized the shot for emergency use \"last week."
-    publishedDateTime: 2020-12-13T14:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refuting-trump-fda-commissioner-vaccine-authorized-sooner/story?id=74691755"
+  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
+    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
+    publishedDateTime: 2020-12-22T20:43:00Z
+    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
+        width: 3873
+        height: 2664
+        isCached: true
+  - title: "President Trump throws wrench into COVID-19 relief by saying he won't sign bill"
+    excerpt: "President Donald Trump is giving both Democrats and Republicans a headache on Tuesday after the shocking announcement on Twitter that he will not sign the COVID-19 relief bill negotiated in the Senate and House for months."
+    publishedDateTime: 2020-12-23T07:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 119
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/this-week-stephen-hahn-02-ap-llr-201212_1607807457019_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. Congress passes nearly $900 billion COVID-19 aid bill, awaits Trump approval"
+    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
+    publishedDateTime: 2020-12-22T14:41:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545440994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "'Devastating consequences': Biden blasts Trump for not signing COVID relief bill before unemployment aid lapses"
+    excerpt: "If Trump doesn't sign the bill Saturday, it would effectively cut the extension in unemployment aid from 11 to 10 weeks."
+    publishedDateTime: 2020-12-27T00:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/26/biden-criticism-trump-stimulus-package-unemployment-aid-expires/4049687001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4049687001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4049687001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/78fb4e3d-b8ac-49b6-96f6-feb144f2bde4-AP_Biden.jpg?auto=webp&crop=5111,2875,x122,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Congressional Dems move forward on $2,000 checks after Trump signs COVID relief bill"
+    excerpt: "Trump caved his on demands and signed the COVID relief bill, but it's unclear if efforts by Democrats to approve increased relief payments will make it out of the Senate."
+    publishedDateTime: 2020-12-29T01:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/washington-gty-jc-201228_1609176677117_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -221,63 +381,184 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "American manufacturers pine for home as COVID disruptions, Trump tariffs shake up supplies"
-    excerpt: "President Trump's trade war was supposed to encourage American manufacturers to pack up their international operations and move home. Did it happen?"
-    publishedDateTime: 2020-12-18T05:48:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/18/covid-disruptions-trump-tariffs-make-u-s-manufacturers-pine-home/3851515001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3851515001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3851515001"
+  - title: "Coronavirus updates: Trump points to states to ‘get moving’ amid a delay in vaccinations"
+    excerpt: "Officials had suggested the United States would be able to put shots in the arms of 20 million people by year's end, though just a fraction of that have received vaccines thus far."
+    publishedDateTime: 2020-12-30T16:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/a991105e-7421-4d8a-9579-88bea40d37a1-daniel_burrows.png?auto=webp&crop=529,298,x0,y176&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APTK7KCKT4I6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump leaves Congress with holiday cliffhanger on COVID-19 stimulus bill as lawmakers scramble"
-    excerpt: "Congress's $900 billion coronavirus relief package was thrown into doubt after Trump raised doubts about whether he would sign the bill into law before Christmas."
-    publishedDateTime: 2020-12-23T20:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/23/congress-scrambles-address-trump-concerns-coronavirus-relief-package/4028650001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4028650001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4028650001"
+  - title: "Trump's demolition of the COVID-19 stimulus package could cost the GOP control of the Senate"
+    excerpt: "GOP Sens. Kelly Loeffler and David Perdue had put the passage of a stimulus bill at the front of their campaigns — until the president torpedoed it."
+    publishedDateTime: 2020-12-24T12:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
+    excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
+    publishedDateTime: 2020-12-30T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/30/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/b3584f89-291f-4b6f-accc-0b6dd9aba598-GTY_1292279983.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_2f357c715d614abc9bda01408b0e6122_name_539dc5d6_3fff_11eb_b58b_1623f6267960_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Trump calls $900 billion COVID-19 deal a “disgrace”"
-    excerpt: "President Trump ordered Congress to revise its bipartisan $900 billion COVID-19 economic relief package, calling it a “disgrace.” He’s calling for stimulus checks to be raised from $600 to $2,000 each."
-    publishedDateTime: 2020-12-23T16:01:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-calls-900-billion-covid-19-deal-a-disgrace/"
+  - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
+    excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
+    publishedDateTime: 2020-12-31T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/31/coronavirus-covid-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CYVJC4SLRUI6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
+    excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
+    publishedDateTime: 2020-12-28T23:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "$900B COVID relief bill passed by Congress, sent to Trump"
+    excerpt: "Congress passed a $900 billion pandemic relief package that would finally deliver long-sought cash to businesses and individuals and resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
+    publishedDateTime: 2020-12-22T18:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855580"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6b07d8103a4740c388083b5a1ac319ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's plans on further COVID19 relief aid?"
+    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T00:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/5901d0a5-7aac-414c-8416-88272fff28e0/thumbnail/1200x630/4153fd1ed370ca0307660b09ab2921a1/1223-cbsnam-trumpreliefpackagedisgrace-615069-640x360.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Trump plans to sign COVID-19 stimulus bill"
+    excerpt: "Congress passed a $900 billion stimulus measure, which now heads to President Trump for a signature. CBS News White House correspondent Paula Reid joins CBSN with the latest."
+    publishedDateTime: 2020-12-22T16:24:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-administration-congress-covid-stimulus-checks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/d6e84f35-0d29-47bb-96d1-7ad98a8382ec/thumbnail/1200x630/6625156b63f6488e13c098786be9eb7c/cbsn-fusion-trump-admin-prepares-to-distribute-stimulus-checks-thumbnail-614297-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
-    excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
-    publishedDateTime: 2020-12-25T20:22:00Z
-    webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
+  - title: "Trump delays signing of COVID relief bill"
+    excerpt: "Watch \"President Trump delays signing of COVID-19 relief bill, says stimulus checks should be $2,000\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T12:25:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223115930-president-trump-delays-signing-of-covid-19-relief-bill-says-stimulus-checks-should-be-2000/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08240230_1608725103.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump signs $900B COVID relief deal"
+    excerpt: "Watch \"Trump signs $900B COVID 19 relief deal; also signs bill to avert government shutdown\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-28T12:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201228123434-trump-signs-900b-covid-19-relief-deal-also-signs-bill-to-avert-government-shutdown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/28/story_08292883_1609159323.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden repeats call for 'full visibility' during transition"
+    excerpt: "President-elect Joe Biden said Dec. 28 that his transition team has encountered political roadblocks from the Trump administration and called it irresponsible."
+    publishedDateTime: 2020-12-28T21:35:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-repeats-call-for-full-visibility-during-transition/2020/12/28/7d8fe81e-2fc6-49d0-bb07-314b2e830f59_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_6f8155c986d04d3d84a230db9667a68f_name_20201228_Biden_thumb1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 833
+        isCached: true
+  - title: "Biden to mourn U.S. COVID-19 deaths in nationwide tribute"
+    excerpt: "With the coronavirus death toll steadily rising, President-elect Joe Biden plans to honor the more than 300,000 lives lost in a nationwide tribute on the eve of his inauguration – which is expected to be a smaller,"
+    publishedDateTime: 2021-01-02T13:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-to-mourn-us-covid-19-deaths-in-nationwide-tribute/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/02/2c957dee-7664-45ec-922f-021a47430535/thumbnail/1200x630/12d27e34ebc8eb25609e8a2abd09bea8/0102-satmo-bidenlatest-killion-618982-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's COVID bill delay leaves millions of desperate Americans in limbo"
     excerpt: "President Donald Trump's threat late Tuesday to veto the $892 billion coronavirus relief bill approved by Congress this week may delay aid for millions of families on the cusp of eviction and about to lose unemployment benefits."
     publishedDateTime: 2020-12-24T05:42:00Z
@@ -289,62 +570,32 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 104
-  - title: "U.S. Congress passes nearly $900 bln COVID-19 aid bill, awaits Trump approval"
-    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
-    publishedDateTime: 2020-12-22T18:45:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSL1N2J20U7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J20U7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J20U7"
+  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
+    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
+    publishedDateTime: 2020-12-21T22:06:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-  - title: "Trump administration threatened to oust the head of the FDA if the Pfizer vaccine isn't cleared by the end of Friday, a new report says"
-    excerpt: "Dr. Stephen Hahn denied the report, telling Business Insider that \"this is an untrue representation of the phone call with the Chief of Staff.\""
-    publishedDateTime: 2020-12-11T21:45:00Z
-    webUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-reportedly-threatened-fda-hahn-pfizer-coronavirus-vaccine-2020-12?amp"
+      name: The Guardian
+      domain: theguardian.com
+    quality: 94
+  - title: "Live politics updates: Donald Trump to cut short Florida holiday, return to Washington; Fate of $2,000 stimulus checks remains uncertain"
+    excerpt: "A proposal from Senate Majority Leader Mitch McConnell to raise stimulus checks to $2,000 includes demands that Democrats are not likely to support."
+    publishedDateTime: 2020-12-31T04:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/politics-updates-presidential-transition-congress/4081382001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4081382001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4081382001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5fd3c9b2e00bce00188bae82?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump should take a COVID-19 shot to build confidence in the vaccine among his supporters, the White House coronavirus testing czar says"
-    excerpt: "President Donald Trump taking a vaccine would \"generate more confidence among the people who follow him so closely,\" Adm. Brett Giroir told ABC News."
-    publishedDateTime: 2020-12-21T12:34:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-vaccine-republicans-covid-shot-white-house-brett-giroir-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: USA Today
+      domain: usatoday.com
     quality: 92
     images:
-      - url: "https://i.insider.com/5fe07411c910a400192e8a16?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/04/28/USAT/2a9a7016-ec61-42b0-9a1f-1b80e7c29194-AP_Virus_Outbreak_Congress.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "2 former CDC officials say the Trump administration 'sidelined' science and hobbled the agency's COVID-19 response"
-    excerpt: "\"Every time that the science clashed with the messaging, messaging won,\" former CDC chief of staff Kyle McGowan told The New York Times."
-    publishedDateTime: 2020-12-16T16:20:00Z
-    webUrl: "https://www.businessinsider.com/former-cdc-officials-white-house-ignored-science-hamper-coronavirus-response-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5f1409983ad86150c86aeda5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "k3IE4h6JcLXk8dTK7DkuHyscNYUc15Lb1hbBJu2xLU+U34384RJdq0JIAkuFBzsIHgTzKEpOyzGUTmf0d1mUclBpvd5M7uvoDjmROKGnI6Jy3SECJU7seTXq3imP1BCuFYo628GJDW785p0LuDM8WginRvEoI3Io/iT1dzy1JAyBVTQmie/4rAKhGHjP0zkiBTudCzWb9Cdz1byhVLWC0rMWv7xbnEZjO2vrpDCe/3p4SwtcPJNsJxeadbBdnqkhQE81g1qKqvNUdvf9JTLiRh+apSqCp36PJXkTOn/03mqqojT43/sfO3VJvUA6ujGT/Up0FE2aII7iRn59X4wIEYv1uoVitYlNIonNN82PFCQw0m0TCqV6or+TF/2wH2iGvDJBM6uHPrAr0AoScFwJXJKzmEElSYQ0zstzu8H/JE5ZVH4FOrUOMjP3lrD2agzMlvTKQDlDlEjaESmaJswKIYACXBhbVdER0hJG2k2F0joiqg1XOIvwKsgnBQjgmrWOWBZf4vWUHTdDT5Yxo1/KHg==;jrWiteKwQCGQw1QqndwBTA=="

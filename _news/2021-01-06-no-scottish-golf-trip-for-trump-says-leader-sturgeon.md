@@ -29,69 +29,204 @@ images:
     isCached: true
 
 related:
-  - title: "Trump vetoes Calif. fishing bill over seafood trade deficit"
-    excerpt: "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California"
-    publishedDateTime: 2021-01-02T00:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
+  - title: "No reason given for Trump cutting short his Florida vacation"
+    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump vetoes California fishing bill over seafood trade deficit"
-    excerpt: "President Donald Trump vetoed a bill to gradually end the use of large-mesh drift gillnets deployed in federal waters off the coast of California."
-    publishedDateTime: 2021-01-01T23:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/trump-vetos-california-fishing-bill-seafood-trade-deficit/4110144001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4110144001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110144001"
+  - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T15:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idCAKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2951B0"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump to return to White House early from Florida vacation"
+    excerpt: "President Donald Trump is cutting short his Florida holiday vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
+    publishedDateTime: 2020-12-31T11:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "Trump to forego New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T14:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/trump-to-forego-new-years-eve-in-florida-for-early-return-to-washington-idUSKBN2951B0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546274095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0N7"
+        width: 821
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Trump to skip New Year's Eve in Florida for early return to Washington"
+    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
+    publishedDateTime: 2020-12-31T16:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2JB0X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JB0X2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
+    excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
+    publishedDateTime: 2020-12-26T16:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
         width: 1200
-        height: 675
+        height: 832
         isCached: true
-  - title: "Analysis: With call, Trump shows no limit to his power grab"
-    excerpt: "President Donald Trump’s ongoing efforts to overturn the 2020 election results — laid out in stark detail in an hourlong weekend phone call with a Georgia election official — are demonstrating his det"
-    publishedDateTime: 2021-01-05T04:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
+    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
+    publishedDateTime: 2020-12-24T23:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Trump protesters warned not to carry guns as Washington DC calls up National Guard"
-    excerpt: "DC police chief says ahead of inauguration protests ‘there are people intent on coming to our city armed’"
-    publishedDateTime: 2021-01-05T04:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
+  - title: "Barron Trump Made Headlines 5 Times In 2020 And Not Just For His Height"
+    excerpt: "His height surprised many during recent public appearances, but he's been in the news more than you might think."
+    publishedDateTime: 2021-01-01T14:00:00Z
+    webUrl: "https://www.ibtimes.com/barron-trump-made-headlines-5-times-2020-not-just-his-height-3101877"
+    ampWebUrl: "https://www.ibtimes.com/barron-trump-made-headlines-5-times-2020-not-just-his-height-3101877?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-made-headlines-5-times-2020-not-just-his-height-3101877?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://i.guim.co.uk/img/media/2dcd9f469390dd3b7a9118294d6c4ad0b252152b/0_214_4375_2626/master/4375.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae070f44a3b787baaff4759a2c031c86"
-        width: 600
-        height: 360
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
+        width: 1200
+        height: 908
+        isCached: true
+  - title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
+    excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
+    publishedDateTime: 2021-01-03T20:27:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-upset-dr-fauci-getting-credit-covid-19-response-3113612?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "In Late Trump Salvo, US Rejects UN Budget Over Israel, Iran"
+    excerpt: "President Donald Trump's outgoing administration on Thursday fired a late salvo against the United Nations by voting against its budget, citing disagreements on Israel and Iran, but it found virtually no international support."
+    publishedDateTime: 2020-12-31T19:33:00Z
+    webUrl: "https://www.ibtimes.com/late-trump-salvo-us-rejects-un-budget-over-israel-iran-3112727"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/31/kelly-craft-seen-here-in-september-has-voted.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "No Reason Given for Trump Cutting Short His Florida Vacation"
+    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected."
+    publishedDateTime: 2021-01-01T22:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Heard On Tape Urging State Official To 'Find' Votes For Him"
+    excerpt: "President Donald Trump pressured the Georgia secretary of state in an extraordinary phone conversation Saturday to \"find\" enough votes to overturn Joe Biden's victory in the Southern state, news media reported Sunday."
+    publishedDateTime: 2021-01-03T20:28:00Z
+    webUrl: "https://www.ibtimes.com/trump-heard-tape-urging-state-official-find-votes-him-3113640"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+        width: 1024
+        height: 657
         isCached: true
 
 secured: "kDlsrPVSXrX3GqxVP4/VgeK20j+4Q5t69LlQcQJfH4RNU484TjIGfUvQuRUPXLkr/oKpUlba/PK86dm1hft6uF1w8h66os9YEGtNWEUXL/C53OQ0Re5mFNk3z2AXQqvn5oofn+04hWkgXdaeaiTeuJLfdzym2j3/qRWsKJjPNVEQNDJGz/MCJHwClQlk0xMCU4HoBwYkMBTqZlP2f5dvHF5Jxa9uG45eDc9I7PyDFpz/ZTphoFWnRftzkEsO1OZ23f65zEy6bzeTm5Gf4rG70CQ71gbevjHoV4zOwJ0TdLyYs0UAWNmsDy3ZJEYeShHaIC4uZmVPTEUxJzfgRxuSo+ZEKSW9Jk/nLz8nqji2Ojk=;zMO8NSO205nnd3JIcsrACg=="

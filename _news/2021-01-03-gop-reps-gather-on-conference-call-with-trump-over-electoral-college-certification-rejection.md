@@ -464,6 +464,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump suit to decertify GA election results rejected; Electoral College objections expected Wed."
+    excerpt: "Yet another election lawsuit filed by President Trump to decertify the results of the 2020 election was tossed out on Tuesday."
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9956953f-65b9-4db8-8dc7-32efd1a32d43/ae7c741c-dcaf-4465-80b1-fde64c9eb4d4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump says South Dakota Gov. Kristi Noem should challenge 'RINO' Sen. John Thune in 2022"
     excerpt: "Thune drew Trump’s ire in recent days after he criticized the president’s bid to challenge the results of the 2020 presidential election."
     publishedDateTime: 2021-01-01T22:50:00Z

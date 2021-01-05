@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris repeatedly told 'fweedom' story now facing plagiarism accusations"
+    excerpt: "Vice President-elect Kamala Harris has previously told the anecdote about her younger self crying out for \"Fweedom!\" — which has sparked accusations of plagiarism — in her books."
+    publishedDateTime: 2021-01-05T19:41:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kkc2UYROYzI/kamala-harris-fweedom-stroller-story-plagiarism-mlk"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/c5ded738-AP20358720594343.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Socialists blast Kamala Harris in COVID-19 relief battle saying she has been 'nowhere to be found'"
     excerpt: "Socialists are evidently displeased with Vice President-elect Kamala Harris’ curious silence on much-needed economic relief to Americans during the pandemic."
     publishedDateTime: 2020-12-23T23:35:37Z
@@ -79,6 +95,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/kamala-harris-husband-covid-vaccine.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris repeatedly told 'fweedom' story now facing plagiarism accusations"
+    excerpt: "Vice President-elect Kamala Harris has previously told the anecdote about her younger self crying out for \"Fweedom!\" — which has sparked accusations of plagiarism — in her books."
+    publishedDateTime: 2021-01-05T19:53:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-fweedom-stroller-story-plagiarism-mlk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/c5ded738-AP20358720594343.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris accused of plagiarizing MLK anecdote in October interview with Elle magazine"
     excerpt: "Vice President-elect Kamala Harris appears to have repurposed an anecdote told by civil rights icon Martin Luther King Jr. in an interview with Elle Magazine that was published in October, at the height of the 2020 presidential election campaign."

@@ -110,17 +110,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
-    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
-    publishedDateTime: 2020-12-21T22:06:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
   - title: "Coronavirus live news: Biden warns 'darkest days' ahead for US; UK reports another 691 deaths"
     excerpt: "Anthony Fauci ‘extremely confident’ in vaccine; BioNTech’s CEO says tests being run on mutant strain; Ireland to tighten restrictions from Christmas Eve"
     publishedDateTime: 2020-12-22T23:25:00Z

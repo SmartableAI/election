@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/?
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/4b851fdc-667c-48de-be4e-98a99b908e10/thumbnail/1200x630/b1cd6639542992408bad69c0009ab144/gettyimages-1230199205.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
+    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
+    publishedDateTime: 2020-12-29T11:00:00Z
+    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "6WAOCtSnNN/ptH12rNQo6YIN0Vk9Rawv8vcIV64h61wClrMwyO4ACxw3ytoFP9jbxjQ5YHQtF7c5bh39s/3kFvUoYxCjoxZsegPtXOV6iTIdfkzWB7hzxgLxmQsTwD+l5xCUNSk3acrdJUl6Xlr2SKzv+5EI5HxFVJJsZCuW92yVkl11Qur8kfMBdQm7qXZLbJ4vydPiy8XfXn+ZneaJ527YsFJTRYXaaNd7iCuwd5W4VvXJh2jup7GQ+P2DnLptieOBpOhfzaF6NwHgIDkQSbH5nlYXyZtj8znW3CHs79+l0f6xJtJzefedPqQgfzdjRuwU1iqiXLjcUiRAZ3hK4BvApIPl70soEPdJ+hArdXpwijTr9tlMB0S/W/zVKm1MnK3T27TZ2/1jFJb4aBcjfqwpaucNNzj6v7dTKd1PACgXXTgWyawRMz4Bxv8Vt63Kr/R3NPmdeiXFBe6K3rJiHnvdgFNkXw9Iw42UUEDPG8nYsqH27pV6Xe5ZD/e8Ym+e2tojDNrqVEcR+ctt8Butiw==;fGC9ExK8597TUXBiyJCyTQ=="

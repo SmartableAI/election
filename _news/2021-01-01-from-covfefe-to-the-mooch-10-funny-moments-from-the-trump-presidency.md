@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-preside
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments"
 type: article
 quality: 125
-heat: 225
+heat: 145
 published: true
 
 provider:
@@ -46,70 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYWUWHA2ZAI6VF32CWTHCDWW3I.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
-    excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
-    publishedDateTime: 2021-01-03T14:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/03/congress-house-senate-members-sworn-covid-19-rages/6410063002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6410063002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6410063002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/97ca686a-8201-445e-96a5-bdb07c28b1a2-sinful-cities-09-dc.jpg?auto=webp&crop=1962,1104,x369,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republican Sen. Toomey to Trump: 'You don't get everything you want, even if you are the president'"
-    excerpt: "Republican Sen. Pat Toomey on Sunday urged President Donald Trump to sign the coronavirus relief bill as he pushes for $2,000 stimulus checks."
-    publishedDateTime: 2020-12-27T16:48:00Z
-    webUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sen-toomey-trump-you-dont-always-get-what-you-want-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5fe8b331a644880018193697?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
-    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
-    publishedDateTime: 2021-01-01T20:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 107
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Alert: Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
-    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
-    publishedDateTime: 2021-01-01T13:36:00Z
-    webUrl: "https://www.chron.com/news/article/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "TYWZlvn4TtTgUaN3N1Et0RCJ4WYQ0wQe+jUKqBkb9XXi5dB5YC55EuqRisJIUsEAaXR532Kol6dFWbG59F5vcVizQ6BT/CnUWGEAAVC14ct6rdxLksinBHZUnkm5HsJ4+MdruWajIHn46IdIQPy0zHRvCWomGNVUOIoCotx0El5Nq7POL4zVD0HjPpbEvx/nWAwQ2JrRxNPlIAucVooWssKTMmu2HtjkgkOAJ9vz3C/umzlPtrYLwGFpkFhqZzkqc+R3HUUsHNCioQTo8ZFPulY5Hxuhv1/86FuhnwAa//Q9BarSXaOM1XbYgxuFXoJ2Xd0i4b33zP0OdJKOAfqoycou+QKIdww+ea1+j3sTINA=;6pG7rZgj3Ydh0yL6l4pCnA=="

@@ -77,38 +77,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "What to expect when Congress meets to confirm Joe Biden’s win"
-    excerpt: "Congress will meet Wednesday to count and confirm each state’s electoral votes. It has become routine after recent elections for House lawmakers on the losing side to put up a symbolic fight over the results,"
-    publishedDateTime: 2021-01-04T12:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTVYT5SN3MI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 950
-        isCached: true
-  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
-    excerpt: "In a farewell letter to Congress, Education Secretary Betsy DeVos urged lawmakers to reject policies supported by President-elect Joe Biden, and to protect Trump administration policies that Biden has"
-    publishedDateTime: 2021-01-04T23:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ac7c9c071d014d49aa21c6de04c480e1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden gets vaccine, says 'nothing to worry about'"
     excerpt: "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2"
     publishedDateTime: 2020-12-21T22:26:00Z
@@ -150,34 +118,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201230&i=OVDB2FLJZ&r=OVDB2FLJZ&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Congress opening new session as virus, Biden's win dominate"
-    excerpt: "Congress is preparing to convene for a new session with lawmakers sworn into office during a tumultuous period"
-    publishedDateTime: 2021-01-03T21:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-opens-session-covid-19-bidens-win-dominate-75020965"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
-    excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
-    publishedDateTime: 2020-12-29T21:26:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-response-plan-vaccine-distribution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/c0ee9fa5-cfc9-486e-97d6-fb0f7d792ca7/thumbnail/1200x630/3a6397e7cee8d7040b8a6e789e15cbe6/cbsn-fusion-joe-biden-covid-19-response-plan-vaccine-distribution-thumbnail-617751-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "PFq04y981/TyHN2vNAD1RVbip35Bv8ol8B4pINxgEiI1j+edA9jf1FPvhk9K/4yaeGLgYkue6lh1OvPyV0yntM/+j00BROiWMMibvdyAySbYZgZ2EBLjCxBXnr6OxjArE3TAYGRqesTmGliHjyo01ylvWBAudBBHOMCtt5fh3dBi4oUWLBkheLWmgeJENMcT0PRSLM/gmaQq6hRLXoRujcuMcJozcbBmC2ueyEfENNUld4XoiLrJajsr+XflY/lhBXxR07V233zj/Td7LUrSz8hwNN5+S99S8ZpJJbfaG482WXDtrQbNwQ7z0YK/McsuuUp7CcBJvBebf2e6q6yFHe+OFmcT3GubxiI3orJ4JiI=;5UzWgdhBrPGP8sR53sKm/g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
 type: article
 quality: 129
-heat: 449
+heat: 469
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OD27ZASEU4I6XMHEB4MCSI5AEU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"
+    publishedDateTime: 2020-12-29T22:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2930SO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2930SO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
+        width: 817
+        height: 545
         isCached: true
   - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
     excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."

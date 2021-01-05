@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
 type: article
 quality: 124
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: Newsweek
@@ -31,67 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Can Donald Trump Pass $2,000 Stimulus Checks by Executive Order?"
-    excerpt: "With a standalone bill that would allow $2,000 stimulus checks apparently dead in the Senate, could President Donald Trump sign an executive order that would allow the higher direct payments to reach Americans?"
-    publishedDateTime: 2020-12-31T22:45:00Z
-    webUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386"
-    ampWebUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
+  - title: "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays"
+    excerpt: "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters."
+    publishedDateTime: 2020-12-23T02:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3855759001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1696668/could-trump-sign-exec-order-stimulus-checks.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "White House economic advisor breaks with Trump and says he's 'not so sure we need this massive stimulus bill'"
-    excerpt: "After Congress finally passed the second stimulus relief package, which included $600 checks, President Trump pushed for a deal on $2,000 checks."
-    publishedDateTime: 2021-01-03T03:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
+  - title: "Donald and Melania Trump wear matching tuxedos in their final White House Christmas picture"
+    excerpt: "The picture shows the Trumps smiling as they stand together on the Grand staircase in the White House, beneath festive Christmas decorations."
+    publishedDateTime: 2020-12-19T12:28:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pose-final-white-house-christmas-photo-in-matching-tuxedos-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 115
     images:
-      - url: "https://i.insider.com/5ff1c8409ff41f001883fad7?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's call for $2,000 cheques blocked by Senate leader"
-    excerpt: "US Senate Republican leader Mitch McConnell has rejected calls from an unlikely alliance of President Donald Trump, congressional Democrats and some Republicans to boost coronavirus aid. The House of Representatives,"
-    publishedDateTime: 2021-01-01T18:54:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55484625"
+  - title: "Former New Jersey Gov. Chris Christie says he 'would not' rule out challenging Trump in 2024"
+    excerpt: "In a radio interview, former Gov. Chris Christie kept open the possibility that a 2016 rematch against Donald Trump could happen"
+    publishedDateTime: 2020-12-22T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/22/chris-christie-would-not-rule-out-challenging-trump-2024/4011122001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4011122001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4011122001"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump's $2,000 stimulus checks demand could cost the GOP its Senate majority, but reveals his enduring influence within the party"
-    excerpt: "McConnell's obstinance on the $2,000 checks has offered Democrats an ideal messaging opportunity ahead of Georgia's Senate runoff election."
-    publishedDateTime: 2020-12-29T21:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5feb6279edf89200180940ba?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2018/11/19/PNJM/40d0121c-485b-403d-ad49-75577bd538b4-YE_New_Jersey_2016.jpg?auto=webp&crop=1999,1142,x0,y54&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 686
         isCached: true
 
 secured: "aQi8CSSoxbRV9LUnjh1FAzvDHvfo0LPIyjhrAURBR/vLF3t3QifJz223lGy1BLxe8rR1eXhlTbvVZUi7jpIE6yI1LDZkkbMXpF1jnR8U5CmXcNdEFMC863XvFp/1DSYu/lC3zN03c3oJlyEH1gAq8xblnS0TXI8nqTcZ7MowCzvmd0W30gKYmUW4oQUfQZDgPjZRkVobdqy0J55Xkemjgrl0On7zJpTrZmQYXUGzLBPnoo3b6eyp7hssq8vF30vVaiPx2zUo81MAntHSiLkoFasI017TUyBgbzLo8btFojoq2qtT+elX4erNQ6cXdDaF1ek1TCPUL4VsGjyINN+2qz7yqfMKdF8+s+JcEM1bkUU=;8WMbTokugI0vnBhTmXGHdg=="

@@ -31,99 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "COVID relief bill flown to Florida, where Trump went golfing"
-    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
-    publishedDateTime: 2020-12-26T12:44:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump signs COVID-19 relief bill after nearly weeklong delay"
-    excerpt: "After its passage, Trump initially called for the bill to be revised to include $2,000 checks and refused to sign it until his call was answered. However, he didn't officially say he would veto it. In a Sunday night statement announcing he had signed the bill,"
-    publishedDateTime: 2020-12-28T06:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-signs-covid-19-relief-bill-weeklong-delay/story?id=74927738"
+  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
+    excerpt: "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
+    publishedDateTime: 2020-12-29T09:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump signs massive measure funding government, COVID relief"
-    excerpt: "President Donald Trump has signed into law a $900 billion pandemic relief package, ending days of drama over his refusal to accept the bipartisan deal"
-    publishedDateTime: 2020-12-28T04:47:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929562"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_74bfe5e7bd964a5493fd4cda8451bdf1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump reluctantly signs COVID aid, sparks fresh fight in GOP"
-    excerpt: "Dropping his objections, President Donald Trump has signed a $2 trillion-plus COVID-19 and annual federal spending package into law"
-    publishedDateTime: 2020-12-28T17:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto of a defense policy bill"
-    publishedDateTime: 2020-12-30T08:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lashes-gop-override-vote-defense-bill-74963654"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_74464e91b5bb4d5aab0e0dd45aa51e0b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "No reason given for Trump cutting short his Florida vacation"
-    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
-    publishedDateTime: 2020-12-31T15:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -143,37 +63,53 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
-    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
-    publishedDateTime: 2020-12-31T15:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idCAKBN2951B0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2951B0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2951B0"
+  - title: "Can Donald Trump Pass $2,000 Stimulus Checks by Executive Order?"
+    excerpt: "With a standalone bill that would allow $2,000 stimulus checks apparently dead in the Senate, could President Donald Trump sign an executive order that would allow the higher direct payments to reach Americans?"
+    publishedDateTime: 2020-12-31T22:45:00Z
+    webUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386"
+    ampWebUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546284574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0QE"
-        width: 818
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1696668/could-trump-sign-exec-order-stimulus-checks.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump to return to White House early from Florida vacation"
-    excerpt: "President Donald Trump is cutting short his Florida holiday vacation and will be returning to Washington on Thursday, a day earlier than originally expected"
-    publishedDateTime: 2020-12-31T11:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74982038"
+  - title: "Iran says Trump is trying to fabricate pretext for war"
+    excerpt: "Tehran says it will defend itself forcefully as tensions rise ahead of anniversary of Suleimani killing"
+    publishedDateTime: 2020-12-31T23:26:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/31/iran-says-trump-is-trying-to-fabricate-pretext-for-war"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/3ccbc88064d062146765d0963a503be4ff308eaa/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9ecb355a5aed50a9e8e7cdbe5b75841"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump attacks and vote by mail: the top voting rights stories of 2020"
+    excerpt: "The pandemic created new barriers to the ballot box and strengthened existing ones – aided by the president and his Republican allies"
+    publishedDateTime: 2021-01-01T13:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/5e11026192d8237ee0edc6181e2e4ab0c7fbb0e7/0_0_4000_2668/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9483731ba5514da97ac2b855bfcd44c3"
+        width: 600
+        height: 400
         isCached: true
   - title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
     excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
@@ -191,207 +127,220 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
-    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
-    publishedDateTime: 2020-12-31T19:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2951B0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
+  - title: "U.S. Senate overcomes first hurdle to overriding Trump defense veto"
+    excerpt: "The U.S. Senate on Friday moved toward an override of President Donald Trump's veto of a $740 billion defense policy bill in a rare New Year's Day procedural vote."
+    publishedDateTime: 2021-01-02T07:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-senate-idUKKBN2962KZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962KZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962KZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
-        width: 813
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546362263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0019U"
+        width: 849
         height: 545
         isCached: true
-  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
-    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
-    publishedDateTime: 2021-01-02T10:06:00Z
-    webUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "The Trump roadshow whines to a close with a grasping, wistful last hurrah"
+    excerpt: "The president sang a familiar tune about himself in an event that was only nominally about the Georgia runoffs that will decide who controls the Senate."
+    publishedDateTime: 2021-01-05T20:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-trump-roadshow-whines-to-a-close-with-a-grasping-wistful-last-hurrah/2021/01/05/9f1bbad2-4f67-11eb-bda4-615aaefd0555_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-trump-roadshow-whines-to-a-close-with-a-grasping-wistful-last-hurrah/2021/01/05/9f1bbad2-4f67-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-trump-roadshow-whines-to-a-close-with-a-grasping-wistful-last-hurrah/2021/01/05/9f1bbad2-4f67-11eb-bda4-615aaefd0555_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5ADGBCPBMI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
-    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
-    publishedDateTime: 2021-01-02T19:22:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
+  - title: "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'"
+    excerpt: "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\""
+    publishedDateTime: 2020-12-26T22:39:00Z
+    webUrl: "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400"
+    ampWebUrl: "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_9d02b53ba22c4458bcd93a623645fbf3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1675257/rep-paul-gosar.jpg"
+        width: 2500
+        height: 1663
         isCached: true
-  - title: "Trump to forego New Year's Eve in Florida for early return to Washington"
-    excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
-    publishedDateTime: 2020-12-31T14:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/trump-to-forego-new-years-eve-in-florida-for-early-return-to-washington-idUSKBN2951B0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2951B0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2951B0"
+  - title: "A GOP group allied to Mike Pence spent $25,000 on Fox News ads to show Trump that his vice president is loyal"
+    excerpt: "The Club for Growth paid for the ads to be aired in Palm Beach, Florida, last week while President Trump was in Mar-a-Lago, Bloomberg reported."
+    publishedDateTime: 2021-01-05T15:42:00Z
+    webUrl: "https://www.businessinsider.com/pence-ally-buys-fox-news-ads-show-loyalty-to-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-ally-buys-fox-news-ads-show-loyalty-to-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ally-buys-fox-news-ads-show-loyalty-to-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5ff4732c3793140019e28580?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump Attacks GOP South Dakota Senator in One of His First Tweets of 2021"
+    excerpt: "President Donald Trump 's first tweet of 2021 came Friday morning in the form of a a simple \"HAPPY NEW YEAR!\" A few hours later, however, he attacked fellow Republican John Thune, the senior U.S. senator from South Dakota."
+    publishedDateTime: 2021-01-01T20:28:00Z
+    webUrl: "https://www.newsweek.com/trump-first-tweet-year-1558443"
+    ampWebUrl: "https://www.newsweek.com/trump-first-tweet-year-1558443?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-first-tweet-year-1558443?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1696729/thune-trump.jpg"
+        width: 3000
+        height: 2460
+        isCached: true
+  - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
+    excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
+    publishedDateTime: 2021-01-04T18:43:00Z
+    webUrl: "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 118
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546274095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0N7"
-        width: 821
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
+        width: 818
         height: 545
         isCached: true
-  - title: "Trump claims to be 'working tirelessly' but leaves Covid relief bill in disarray"
-    excerpt: "President flies to Florida after throwing own party ‘under a bus’ while Democrats seize chance to push for $2,000 payments"
-    publishedDateTime: 2020-12-24T14:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/24/donald-trump-covid-relief-bill-republicans-democrats-biden"
+  - title: "Mnuchin’s loyalty to Trump could end with painful setback as president shreds stimulus deal"
+    excerpt: "Democrats and Republicans had thought Mnuchin was speaking for the president in negotiating the $908 billion pact, but Trump quickly called it a “disgrace.”"
+    publishedDateTime: 2020-12-26T19:21:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
     images:
-      - url: "https://i.guim.co.uk/img/media/1872709c03a58b86cc58d362e550dde90a103477/0_156_4343_2607/master/4343.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93af28608ad58a321efed167c85064e8"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GIKNNXUS4QI6VB5DELJSII2WGY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
-    excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
-    publishedDateTime: 2020-12-26T16:28:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 120
-    images:
-      - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
-        width: 1200
-        height: 832
-        isCached: true
-  - title: "Stocks extend gains after Trump signs COVID-19 stimulus, House raises hopes for bigger checks to households"
-    excerpt: "The stock market extended Monday's gains that came after Trump signed COVID-19 relief. The House on Monday passed a measure to boost stimulus checks."
-    publishedDateTime: 2020-12-29T15:27:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/29/dow-jones-stocks-extend-gains-after-trump-signs-stimulus/4069031001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4069031001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4069031001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b10a309f3918ef8193b468174eae4528e462b2d9/c=0-109-2123-1303/local/-/media/2020/10/31/USATODAY/usatsports/new-york-stock-exchange-wall-street-entrance.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump golfs in Florida, rails against House GOP and election results on first day of his winter vacation as COVID relief hangs in the balance"
-    excerpt: "Trump had no events on his public schedule on the first day of his winter vacation Thursday, but traveled to his Palm Beach golf club, where he was spotted by CNN cameras on the links. Reporters were given no details of his schedule for the day,"
-    publishedDateTime: 2020-12-24T23:52:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-florida-christmas-plans-20201224-qz7qzyoasfei7lzxbm2rt4nx3y-story.html?outputType=amp"
+  - title: "Second stimulus check updates: Trump push on $2,000 checks flops as GOP-led Senate won’t vote"
+    excerpt: "Trump’s push for $2,000 COVID-19 relief checks was all but dead Wednesday after McConnell got through with it."
+    publishedDateTime: 2020-12-31T03:36:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201230-k7hsbwtxinesdmdnuzoegs3oxe-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 105
+    quality: 114
     images:
-      - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
+      - url: "https://www.chicagotribune.com/resizer/HF1EqsHWjRw8p8WqnW49_OAtTFw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AJ6MVS5QHVCIRJ7FWJBLSSUHLU.jpg"
         width: 1200
-        height: 800
+        height: 841
         isCached: true
-  - title: "Trump signs $900B COVID relief deal"
-    excerpt: "Watch \"Trump signs $900B COVID 19 relief deal; also signs bill to avert government shutdown\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-28T12:24:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201228123434-trump-signs-900b-covid-19-relief-deal-also-signs-bill-to-avert-government-shutdown/"
+  - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
+    excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
+    publishedDateTime: 2020-12-28T17:31:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/28/story_08292883_1609159323.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump extends COVID-related bans on visas, green cards; court clears health insurance requirement for immigrants"
-    excerpt: "Trump said the measures would protect American jobs in a pandemic-wracked economy, while business groups said they would hamper a recovery."
-    publishedDateTime: 2021-01-01T16:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/trump-extends-visa-bans/4107279001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4107279001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4107279001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/0dcd5997-f196-4431-9c6d-6e62903b6e6b-AP_Trump_1.jpg?auto=webp&crop=3593,2021,x508,y109&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/BbKlJhyreDVCeAQ-IrynOg50Xhs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBGH3YHVYRAJNPZQ7NVOHRGOXA"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Walter Reed doctor who lost his ER job after condemning Trump's COVID-19 hospital joyride says he regrets nothing"
-    excerpt: "Dr. James Phillips rebuked President Donald Trump's decision to greet supporters from inside a sealed car while he had COVID-19."
-    publishedDateTime: 2020-12-29T23:20:00Z
-    webUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walter-reed-doctor-slammed-trump-coronavirus-joyride-regrets-nothing-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5feb1564a644880018193974?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event"
-    excerpt: "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group."
-    publishedDateTime: 2020-12-22T22:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/urges-caution-covid-19-pence-flies-florida-speak/story?id=74858979"
+  - title: "At odds with fiscal conservatism, Georgia's GOP candidates support Trump's demand for $2,000 stimulus checks"
+    excerpt: "Sens. Loeffler and Perdue said they support President Trump's call for bigger stimulus checks going to the American people, putting them at odds with fiscal conservatism."
+    publishedDateTime: 2020-12-29T20:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 98
+    quality: 106
     images:
-      - url: "https://s.abcnews.com/images/Politics/pence-turningpt-abc-rc-201222_1608662483585_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/stimulis-checks-covid-kelly-loeffler-david-perdue-04-gty-llr-201229_1609264424598_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump just cost jobless workers one week of federal unemployment assistance after he failed to sign the relief bill by midnight on Saturday"
-    excerpt: "The president's push for $2,000 stimulus checks has threatened the federal unemployment benefits included in the bill."
-    publishedDateTime: 2020-12-27T05:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp"
+  - title: "White House economic advisor breaks with Trump and says he's 'not so sure we need this massive stimulus bill'"
+    excerpt: "After Congress finally passed the second stimulus relief package, which included $600 checks, President Trump pushed for a deal on $2,000 checks."
+    publishedDateTime: 2021-01-03T03:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 91
+    quality: 106
     images:
-      - url: "https://i.insider.com/5fe7ffcfedf8920018093c82?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5ff1c8409ff41f001883fad7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
+    excerpt: "President Donald Trump’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
+    publishedDateTime: 2020-12-30T04:04:00Z
+    webUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump's call for $2,000 cheques blocked by Senate leader"
+    excerpt: "US Senate Republican leader Mitch McConnell has rejected calls from an unlikely alliance of President Donald Trump, congressional Democrats and some Republicans to boost coronavirus aid. The House of Representatives,"
+    publishedDateTime: 2021-01-01T18:54:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55484625"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump's $2,000 stimulus checks demand could cost the GOP its Senate majority, but reveals his enduring influence within the party"
+    excerpt: "McConnell's obstinance on the $2,000 checks has offered Democrats an ideal messaging opportunity ahead of Georgia's Senate runoff election."
+    publishedDateTime: 2020-12-29T21:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5feb6279edf89200180940ba?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -411,17 +360,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "No Reason Given for Trump Cutting Short His Florida Vacation"
-    excerpt: "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected."
-    publishedDateTime: 2021-01-01T22:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-to-return-to-white-house-early-from-florida-vacation?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "8uigh1HNUwzsmu0eNw4gVdCyF66cIU6JZBjIlmDeiw8PDynN1VNCfAyIkDO4IXdESOuPRwuRCAoIOpsXbleIBGdoYp7e1pxEJ1OigbZoaHNDEWQCzxALizFr09z81d/myK7EGohjvhgJqM3sAk/aHBKDPkXkB5tlazMVoZyQjC34+R9B3ZHZUWaGEgMfx/dWKRNx5nr33YILDHW5Ej70ebbNsisNCfrKBVS9C/veDDgrAZbEIxpdBSL/KQH8BnJH5LFw0Znnz24lBzAkifSZMbNMJgQyXyluqg7lZr1s618VxyKcstfmxpTuIQW0LkM0jvP/fQbRSX0ikhFtF1GHIYmrUBemA9QJzkR+z0+YJRE=;pq2rWXVUn6UVEFwEQbv2gw=="
 ---

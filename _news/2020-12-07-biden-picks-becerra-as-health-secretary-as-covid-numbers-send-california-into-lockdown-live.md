@@ -79,6 +79,33 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+    publishedDateTime: 2020-12-07T12:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
+    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
+    publishedDateTime: 2020-12-07T01:53:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
+    ampWebUrl: "https://amp.freep.com/amp/3776655001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "VRER/xMavi67dveavkJDGImIeiSx69btBgZWg2zspfrKxhy+MJeyrgEoEsSdDzHBy1btp9iUgenyPKLtmtpFewuF+m5xMTbN+0GJo7V8n+5lBmvDyQpk7mR2F8wH2yaDPXIscTV6VC67iYiHzTCWKNdi23EefA8US7oOOOOhZKMNsrN46uur786MqOhdq5CC6ZE8LHAcrAzmq9jpcNBsN0iN5o0CnQJM95jy3g/Hz+D6iSG9k1Rx8QvHYBZDGAnbO9897hosvBSwRa6OaLlExnkP6g2awUpxue9vR1Er4Tfcth6x/UABDB2c58vpB8O1eIhsCjEKELU7n4Fq76U8nk9/wbZNo0108KVvMLIaPEicJXQaswVeIp6MsOR54+JiwP1iedDFb9GUVVJGsTUj5sKhLpNUBpGuwgcxT90RvUX4vYSdoVIQtNeiLhAkJz6aOF54/eEbCmN441rkAoQA3vYRAa81Tg6srEb4RccgADe2gDFrHo07VeG92bVc9qe3cOnSvPgYgTkawGQ7jAm2lQ==;O5+C7W6hgXMeUaq4HqadPQ=="
 ---

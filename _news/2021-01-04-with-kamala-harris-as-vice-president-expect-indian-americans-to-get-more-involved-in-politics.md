@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harri
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
 type: article
 quality: 113
-heat: 153
+heat: 133
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
-    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
-    publishedDateTime: 2020-12-29T22:29:00Z
-    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 60
   - title: "Kamala Harris: 'We are going to be inaugurated'"
     excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
     publishedDateTime: 2021-01-05T10:34:00Z

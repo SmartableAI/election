@@ -105,17 +105,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
-    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
-    publishedDateTime: 2020-12-21T22:06:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
   - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
     excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
     publishedDateTime: 2020-12-29T00:15:00Z

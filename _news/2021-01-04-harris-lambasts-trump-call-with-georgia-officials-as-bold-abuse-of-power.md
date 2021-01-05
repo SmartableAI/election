@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-geor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-georgia/index.html"
 type: article
 quality: 198
-heat: 618
+heat: 638
 published: true
 
 provider:
@@ -157,6 +157,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130174736-kelly-loeffler-david-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Seven of the most bonkers false claims from Trump's Georgia rally "
+    excerpt: "It's almost too bonkers to fact check.\n    \n"
+    publishedDateTime: 2021-01-05T19:58:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bpWygv0y8XE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/fact-check-trump-georgia-rally-loeffler-perdue/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/fact-check-trump-georgia-rally-loeffler-perdue/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104221117-trumo-rally-georgia-elecciones-senado-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -41,15 +41,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
-    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
-    publishedDateTime: 2020-12-29T22:29:00Z
-    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 60
 
 secured: "fjEt7RO3GIHCCsOGXknN8yu/N4bSt2xwIcgePtP4yMT03NRLkHyF/88WC4oWDsP/90a2h3SjEymWTHExmKP8CYkb0pvm4vE65jD160NY0scL5y8e053Ti6N96VwRYAvkd872DhrTFu1iXvwZL/CPxScgbYYDHcJafI47egBN2PVyNLnYTHHNZhav2uZHYl0Jx6Q+QVzCMVoUEBYy8q8Zic6WK2HTx7dm70Mmrn3AWCH54+knMB9DtWrihLhZevxkna1HvjZx8bKyqBpePH1ZtkLtg35YleJWtZWB0kLruXoSsmEWRP5vjyrj2Tuh+UdqizIFLlj6GdJyuqy7kJtXKKUftnILPubDIdJ4t1/5TI3xzJWBYLbIzQURN6wraSDsrs0egY5etfp0+ZIMDdWlPPFUrGqHvgVX6TokyGxbz0XalEpkE82Po3Bq3+Mga5ewpO7Jk80Lk7wDnY1DreBcWqG4YK0+hvVQMCTzKIFoehqfjVqmze0av8BuID8hrpQ59pKpNzof/yGrcg/Ps0mRbA==;JP79kS8D7Di9kRra+IW0Bw=="
 ---

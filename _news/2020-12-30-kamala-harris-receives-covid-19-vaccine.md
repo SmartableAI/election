@@ -29,115 +29,266 @@ images:
     isCached: true
 
 related:
-  - title: "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat"
-    excerpt: "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,"
-    publishedDateTime: 2020-12-22T23:35:00Z
-    webUrl: "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
+  - title: "Harris calls Trump's plea to Georgia election officials an 'abuse of power'"
+    excerpt: "While at a campaign rally in Georgia, Vice President-elect Kamala D. Harris on Jan. 3 slammed President Trump's call with Georgia election officials, in which he urged fellow Republican Brad Raffensperger to “find” enough votes to overturn his defeat."
+    publishedDateTime: 2021-01-04T00:13:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/harris-calls-trumps-plea-to-georgia-election-officials-an-abuse-of-power/2021/01/03/ae84f2e0-e5b6-4c9c-97c9-85f31345cd64_video.html"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_8654d3ef7444453fa1b4a8b96019ae62_name_Screen_Shot_2021_01_03_at_6_02_05_PM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "Kamala Harris to campaign in Georgia next week"
+    excerpt: "Vice President-elect Kamala Harris will be traveling to Georgia Monday to campaign with Democratic Senate candidates Jon Ossoff and Reverend Raphael Warnock. Both men are engaged in highly competitive and high-profile runoff races that will decide which party controls the U."
+    publishedDateTime: 2020-12-18T17:57:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-georgia-senate-runoff/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/newswrap15-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/17/5e18729d-7069-40ea-9bf1-1597ddfc9cf7/thumbnail/1200x630/80a7cccaf3029fd99ea448c02d502fcd/gettyimages-1230034648.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "California secretary of state Alex Padilla to fill Kamala Harris's Senate seat"
-    excerpt: "Padilla will be state’s first Latino senator after appointment by governor and ally Gavin Newsom"
-    publishedDateTime: 2020-12-22T18:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/alex-padilla-senate-california-kamala-harris-gavin-newsom"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/alex-padilla-senate-california-kamala-harris-gavin-newsom"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/alex-padilla-senate-california-kamala-harris-gavin-newsom"
+  - title: "Trump calls for Georgia Gov. Brian Kemp, a fellow Republican, to resign"
+    excerpt: "The president’s demand stems from the governor’s refusal to embrace Trump’s baseless claims of widespread election fraud."
+    publishedDateTime: 2020-12-30T14:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4GRMSKVUI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 1149
+        isCached: true
+  - title: "Trump calls on Republican governor of Georgia to resign: ‘Fools!’"
+    excerpt: "Gov. Brian Kemp on Wednesday called a tweet by President Donald Trump demanding his resignation a “distraction.”"
+    publishedDateTime: 2020-12-31T13:55:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-brian-kemp-resign-20201231-jrfoh27hy5gm5i3mt2wfhmxx4y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-brian-kemp-resign-20201231-jrfoh27hy5gm5i3mt2wfhmxx4y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-brian-kemp-resign-20201231-jrfoh27hy5gm5i3mt2wfhmxx4y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/miTadWLCHb1PR8GR3Sk5MEa_2Js=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BV5BLSHAXBFQDAOHPVSFAEZTCQ.jpg"
+        width: 1200
+        height: 957
+        isCached: true
+  - title: "Trump, on tape, presses Ga. official to ‘find’ him votes"
+    excerpt: "WASHINGTON — President Donald Trump pressured Georgia’s Republican secretary of state to “find” enough votes to overturn Joe Biden’s win in the state’s presidential election, repeatedly citing disproven claims of fraud and raising the prospect ..."
+    publishedDateTime: 2021-01-04T10:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Analysis: With call, Trump shows no limit to his power grab"
+    excerpt: "President Donald Trump’s ongoing efforts to overturn the 2020 election results — laid out in stark detail in an hourlong weekend phone call with a Georgia election official — are demonstrating his det"
+    publishedDateTime: 2021-01-05T04:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Schwarzenegger: Trump call to Georgia official 'un-American'"
+    excerpt: "Arnold Schwarzenegger is blasting President Trump for his call to Georgia Secretary of State Brad Raffensperger, dubbing the commander in chief's pressure campaign to \"recaluculate\" the election results there \"un-American bullshit."
+    publishedDateTime: 2021-01-05T16:26:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532686-schwarzenegger-trump-call-to-georgia-official-un-american"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532686-schwarzenegger-trump-call-to-georgia-official-un-american?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/532686-schwarzenegger-trump-call-to-georgia-official-un-american?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schwarzeneggerarnold_032619gn7_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
+    excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
+    publishedDateTime: 2021-01-03T22:49:00Z
+    webUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call"
+    ampWebUrl: "https://thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/532454-georgia-dem-lawmaker-to-seek-censure-of-trump-over-raffensperger-call?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_2.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Trump demands Georgia secretary of state 'find' enough votes to hand him win"
+    excerpt: "In an hour-long phone call Saturday, President Trump repeatedly pressured Georgia's secretary of state to try to overturn his electoral loss in November."
+    publishedDateTime: 2021-01-04T02:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-demands-georgia-secretary-state-find-votes-hand/story?id=75027350"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-demands-georgia-secretary-state-find-votes-hand/story?id=75027350"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-demands-georgia-secretary-state-find-votes-hand/story?id=75027350"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-audio-210_hpMain_20210103-192754_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Howard Stern rips Trump over Georgia call: 'This is criminal. It's gangster'"
+    excerpt: "Howard Stern is ripping President Trump for his call with Georgia's top election officials rather than focusing on the coronavirus vaccine rollout, saying it's time the commander in chief goes \"back to f---ing Florida."
+    publishedDateTime: 2021-01-04T16:28:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/532514-howard-stern-rips-trump-over-georgia-call-this-is-criminal-its?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/sternhoward_05162019getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump pressured Georgia's secretary of state to 'find' votes - US politics live"
+    excerpt: "Probably with the bombshell revelation that Donald Trump pressured Georgia’s secretary of state to overturn Joe Biden’s victory, leading to accus"
+    publishedDateTime: 2021-01-04T11:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/04/donald-trump-georgia-votes-joe-biden-brad-raffensperger-senate-covid-coronavirus-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/04/donald-trump-georgia-votes-joe-biden-brad-raffensperger-senate-covid-coronavirus-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/04/donald-trump-georgia-votes-joe-biden-brad-raffensperger-senate-covid-coronavirus-us-politics-live"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 121
     images:
-      - url: "https://i.guim.co.uk/img/media/462a60b5ea54e650fbe5a14d7496b0680b209399/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1bccde7dac070dde4d017a18bca26c28"
-        width: 600
-        height: 360
+      - url: "https://i.guim.co.uk/img/media/4ffd6496cae931fd0c7a07aff0bc01162241f133/0_77_4214_2530/master/4214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0d6e5c8b02bd74507ded90f8b5d152ac"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Governor names California's first Latino senator as replacement for Kamala Harris"
-    excerpt: "California Secretary of State Alex Padilla (D) will be the first Latino senator from California, a state where Latinos make up about 40 percent of the population. Gov. Gavin Newsom (D-Calif.) on Tuesday selected Padilla to fill the Senate seat held by Vice President-elect Kamala Harris,"
-    publishedDateTime: 2020-12-22T21:06:00Z
-    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator"
-    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+  - title: "Harris on Trump GA call before Senate runoff"
+    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
+    publishedDateTime: 2021-01-04T02:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Reuters
+      domain: reuters.com
     quality: 120
     images:
-      - url: "https://thehill.com/sites/default/files/ca_padillacasenator_122220getty.jpg"
-        width: 1440
-        height: 880
+      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "California Gov. Newsom selects Alex Padilla to replace Kamala Harris in the Senate"
-    excerpt: "Gov. Gavin Newsom (D) selected on Tuesday his longtime political ally and current California Secretary of State Alex Padilla to fill the U.S. Senate seat when Vice President-elect Kamala D. Harris steps down next month."
-    publishedDateTime: 2020-12-22T19:21:00Z
-    webUrl: "https://www.washingtonpost.com/national/senate-harris-california-padilla/2020/12/22/0de1d7e2-4484-11eb-90fc-79662011cb49_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/senate-harris-california-padilla/2020/12/22/0de1d7e2-4484-11eb-90fc-79662011cb49_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/senate-harris-california-padilla/2020/12/22/0de1d7e2-4484-11eb-90fc-79662011cb49_story.html?outputType=amp"
+  - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
+    excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."
+    publishedDateTime: 2021-01-04T13:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/04/kamala-harris-trump-call-to-georgia-secretary-of-state-abuse-of-power-video"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B3HW7ACERAI6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/121221546319d71ceab74c8609f6eaeaf396fb3c/0_247_4254_2553/master/4254.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3a4e9fc63f7fa23de3227e629c8e2a1"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "California Secretary of State Alex Padilla will fill Kamala Harris' US Senate seat"
-    excerpt: "Padilla will be the first-ever Latino US Senator to represent California, serving out the rest of Harris' term until 2022."
-    publishedDateTime: 2020-12-22T18:20:00Z
-    webUrl: "https://www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12?amp"
+  - title: "Georgia Republicans rebut Trump lawsuit that seeks to disenfranchise millions of voters"
+    excerpt: "Lawyers for Republican Gov. Brian Kemp and Secretary of State Brad Raffensperger said Trump \"seeks to disenfranchise millions of Georgia voters.\""
+    publishedDateTime: 2021-01-05T06:39:00Z
+    webUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 119
+    quality: 117
     images:
-      - url: "https://i.insider.com/5f7dd049282c500018c79137?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb302601c741f0019aca267?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Alex Padilla to become California’s first Latino U.S. senator, replacing Kamala Harris"
-    excerpt: "Alex Padilla will be the first Latino to represent California in the U.S. Senate. He will succeed Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-22T18:00:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
+  - title: "Foley & Lardner 'concerned' by partner's role in Trump call to GA election official"
+    excerpt: "Foley & Lardner said in a statement Monday that it is \"concerned by\" partner Cleta Mitchell's involvement in a conference call in which U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state,"
+    publishedDateTime: 2021-01-05T00:29:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-election-foley-idUSL1N2JF1SC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JF1SC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF1SC"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 117
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+  - title: "Former Mueller prosecutor says the call of Trump asking a Georgia official to change the election results shows 'criminal intent'"
+    excerpt: "Andrew Weissmann said President Donald Trump's call contained evidence of crimes, though legal experts are split on whether Trump will face charges."
+    publishedDateTime: 2021-01-04T03:19:00Z
+    webUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-trump-georgia-call-shows-criminal-intent-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-trump-georgia-call-shows-criminal-intent-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-trump-georgia-call-shows-criminal-intent-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
-        width: 320
-        height: 209
+      - url: "https://i.insider.com/5ff2fd053793140019e281bc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat"
-    excerpt: "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term."
-    publishedDateTime: 2020-12-03T19:41:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Dianne-Feinstein-backs-Alex-Padilla-for-Kamala-15772613.php"
+  - title: "Trump vows to campaign against Georgia Governor Brian Kemp over his lukewarm support of the president's baseless election fraud claims"
+    excerpt: "\"I'm going to be here in a year and a half and I'm going to be campaigning against your governor and your crazy secretary of state,\" Trump promised."
+    publishedDateTime: 2021-01-05T16:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-to-campaign-against-georgia-governor-and-secretary-of-state-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-to-campaign-against-georgia-governor-and-secretary-of-state-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-campaign-against-georgia-governor-and-secretary-of-state-2021-1?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://s.hdnux.com/photos/01/15/45/35/20338528/5/rawImage.jpg"
-        width: 2048
-        height: 1377
+      - url: "https://i.insider.com/5ff47d2a6056b60018721eeb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kamala Harris Receives First Dose of Covid-19 Vaccine"
     excerpt: "Vice President-elect Kamala Harris receives her first dose of Moderna's Covid-19 vaccine at United Medical Center in Southeast Washington, D.C. (Source: Bloomberg)"
@@ -153,113 +304,48 @@ related:
         width: 950
         height: 534
         isCached: true
-  - title: "Alex Padilla to replace Kamala Harris in Senate, becoming California's first Latino senator"
-    excerpt: "Governor Gavin Newsom tapped California Secretary of State Alex Padilla to fill the U.S. Senate seat that's soon to be vacated by Vice President-elect Kamala Harris. Padilla will become the first Latino to represent California in the Senate."
-    publishedDateTime: 2020-12-22T23:56:00Z
-    webUrl: "https://www.cbsnews.com/video/alex-padilla-to-replace-kamala-harris-in-senate-becoming-californias-first-latino-senator/"
+  - title: "Trump's phone call to Brad Raffensperger: six key points"
+    excerpt: "Conversation between president and Georgia’s secretary of state laid bare Trump’s determination to cling on to power"
+    publishedDateTime: 2021-01-04T03:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+  - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
+    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
+    publishedDateTime: 2021-01-04T12:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/2c8516bf-9f84-43aa-82d1-bf8f90050289/thumbnail/1200x630/37fb3ed5b7404c4e48ca2f44ec71ba34/122-rb-alexpadillareplaceharris-bnj-614655-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Alex Padilla to replace Kamala Harris in Senate, making history as California's first Latino senator"
-    excerpt: "California Governor Gavin Newsom will name Secretary of State Alex Padilla to replace Vice President-elect Kamala Harris in the U.S. Senate. Padilla will be the first Latino senator to represent California,"
-    publishedDateTime: 2020-12-22T19:27:00Z
-    webUrl: "https://www.cbsnews.com/video/alex-padilla-to-replace-kamala-harris-senate-seat-2020-12-22/"
+  - title: "Trump pleaded with Georgia's secretary of state to 'find' additional votes to win the state in an hour-long phone call, according to new audio"
+    excerpt: "\"I just want to find 11,780 votes,\" the president said on the hour-long call. \"There's nothing wrong with saying, you know, um, that you've recalculated.\""
+    publishedDateTime: 2021-01-03T09:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-brad-raffensperger-phone-call-georgia-votes-presidential-election-2021-01"
+    ampWebUrl: "https://www.businessinsider.com/trump-brad-raffensperger-phone-call-georgia-votes-presidential-election-2021-01?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-brad-raffensperger-phone-call-georgia-votes-presidential-election-2021-01?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/22/afe77ef5-acc9-44f9-bf21-f97a46c05a5d/thumbnail/1200x630/32289ee2afdb9d0117cfa788f8a31aa2/cbsn-fusion-alex-padilla-to-replace-kamala-harris-making-history-as-californias-first-latino-senator-thumbnail-614461-640x360.jpg"
+      - url: "https://i.insider.com/5fd0bd5ecee0cf00114fa55e?width=1200&format=jpeg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Bay Area students get Kamala Harris action figures"
-    excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
-    publishedDateTime: 2020-12-24T10:32:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
-        width: 1024
-        height: 711
-        isCached: true
-  - title: "Marin City students get Kamala Harris action figures"
-    excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
-    publishedDateTime: 2020-12-24T01:43:00Z
-    webUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/"
-    ampWebUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 75
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
-        width: 1024
-        height: 711
-        isCached: true
-  - title: "Kamala Harris to receive COVID-19 vaccine on Tuesday"
-    excerpt: "Vice President-elect Sen. Kamala D. Harris is scheduled to receive a first dose of the COVID-19 vaccine on Tuesday in an on-camera event, according to President-elect Joseph R. Biden’s transition team."
-    publishedDateTime: 2020-12-28T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_35785.jpg-7f72e_c0-237-5674-3546_s1200x700.jpg?edee63d40b7dc7470f1843331bce2e6e435b776e"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Kamala Harris to receive Covid-19 vaccine Tuesday"
-    excerpt: "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team."
-    publishedDateTime: 2020-12-29T15:52:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a3/3a31e4fb-18fa-52c0-9520-bf9fed01a224/5feb4b79edf9d.image.jpg?resize=1024%2C689"
-        width: 1024
-        height: 689
-        isCached: true
-  - title: "Vice President-elect Kamala Harris, husband receive COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris and husband Doug Emhoff each received their first dose of COVID-19 vaccine at a Washington, D.C., hospital on Tuesday."
-    publishedDateTime: 2020-12-29T13:21:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/29/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine/2881609243978/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/29/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine/2881609243978/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/29/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine/2881609243978/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2881609243978/2020/1/9ea9e7ae3bd6f888b482fd7a18aea13a/v1.5/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine.jpg"
-        width: 800
-        height: 532
+        height: 600
         isCached: true
   - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
     excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
@@ -293,159 +379,109 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
-    excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-23T16:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/legislature-cabinets-state-governments-north-america-government-appointments-and-nominations-bf67176f653d30cc33f89e1fe08698b6"
+  - title: "Kamala Harris’s groundbreaking path to the White House"
+    excerpt: "How Harris got where she is, and where she’s likely headed, is the subject of Dan Morain’s “Kamala’s Way.” From the start, he explains, it’s been a complicated path, mixing principles and pragmatism,"
+    publishedDateTime: 2021-01-01T14:30:00Z
+    webUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 74
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.nydailynews.com/resizer/rcGgsBKubkAqaZioP9K6GjrB36I=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6POFLXWAZB7LM373XXSTZVNLI.jpg"
+        width: 1200
+        height: 891
         isCached: true
-  - title: "California Gov. Newsom picks Alex Padilla to fill Kamala Harris's Senate seat"
-    excerpt: "California Gov. Gavin Newsom announced Tuesday that he’s selected Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris once she’s sworn in as vice president."
-    publishedDateTime: 2020-12-22T18:55:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/22/alex-padilla-picked-gavin-newsom-fill-kamala-harri/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/22/alex-padilla-picked-gavin-newsom-fill-kamala-harri/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/22/alex-padilla-picked-gavin-newsom-fill-kamala-harri/"
+  - title: "A legal tsunami looms over Donald Trump when he leaves the White House. The lame duck president's Georgia phone call just made it worse."
+    excerpt: "Trump's latest gambit to overturn the results of a presidential election he lost will almost certainly add to his many post-presidency legal problems."
+    publishedDateTime: 2021-01-04T22:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 72
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/20/Senate_California_12130.jpg-ab983_c0-65-3000-1815_s1200x700.jpg?25cb8e4e0f5dfcca581df173f36ce134665f00aa"
+      - url: "https://i.insider.com/5ff384636056b60018721d8b?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "California Secretary of State Alex Padilla will replace Kamala Harris as senator"
-    excerpt: "California Gov. Gavin Newsom selected Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator, a historic pick that sends a Latino to the Senate for the first time in the state’s history."
-    publishedDateTime: 2020-12-22T22:28:00Z
-    webUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html"
-    ampWebUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
+    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
+    publishedDateTime: 2021-01-03T00:00:00Z
+    webUrl: "https://www.statesman.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+    ampWebUrl: "https://amp.statesman.com/amp/4119965001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4119965001"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 70
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 71
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MGO3VJZZVRGVLAX4HPJKOXNB54.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/3ea90e02-f23e-434a-a69b-42465296e1f5-Kamala5.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
+    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
+    publishedDateTime: 2021-01-03T21:34:00Z
+    webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
+    ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
+    cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
+    type: article
+    provider:
+      name: Savannah Morning News
+      domain: savannahnow.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's Call With Georgia Officials To 'Find' Votes Could Be Illegal, Criminal"
+    excerpt: "Trump pressured Georgia election officials to “find” 11,780 votes The president threatened the officials with “a criminal offense” The call could violate laws that prevent election fraud Donald Trump pressured Georgia’s secretary of state to “find” him enough votes to overturn the results of the 2020 election,"
+    publishedDateTime: 2021-01-04T02:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-call-georgia-officials-find-votes-could-be-illegal-criminal-3113726"
+    ampWebUrl: "https://www.ibtimes.com/trumps-call-georgia-officials-find-votes-could-be-illegal-criminal-3113726?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-call-georgia-officials-find-votes-could-be-illegal-criminal-3113726?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
         width: 1024
-        height: 697
+        height: 657
         isCached: true
-  - title: "Gavin Newsom names California’s first Latino U.S. senator to replace Kamala Harris"
-    excerpt: "Gavin Newsom has appointed Secretary of State Alex Padilla as Vice President-elect Kamala Harris’ successor in the U.S. Senate, making him the first Latino from California to fill the role in the state’s 170-year history."
-    publishedDateTime: 2020-12-22T17:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article247706740.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article247706740.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article247706740.html"
+  - title: "Kamala Harris attempts to unite worried Georgia voters amid a strongly divided political cycle"
+    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
+    publishedDateTime: 2021-01-03T00:00:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/01/03/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4122933001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4122933001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4122933001"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 69
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 63
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c1ac55a6-cda3-4c11-b0fa-fe86866d49a8/5bf5cedd-8104-4227-ac0c-af858a7abdae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "California Secretary of State Alex Padilla selected to fill Kamala Harris' Senate seat"
-    excerpt: "California Gov. Gavin Newsom (D) announced Tuesday that he has selected California's Secretary of State Alex Padilla (D) to fill the U.S. Senate seat left open by Vice President-elect Kamala Harris. Padilla will serve out the two remaining years of Harris' term after she's sworn in as vice president in January."
-    publishedDateTime: 2020-12-22T18:48:00Z
-    webUrl: "https://theweek.com/speedreads/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 67
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1267424249.jpg?itok=ivgkRYmo"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "The choice to replace Kamala Harris has a trade-off: no Black women in the U.S. Senate"
-    excerpt: "Alex Padilla will be California’s first Latino senator, but some say it’s a step back for the hard-won representation of Black women in politics."
-    publishedDateTime: 2020-12-23T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 67
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c1ac55a6-cda3-4c11-b0fa-fe86866d49a8/5bf5cedd-8104-4227-ac0c-af858a7abdae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "California's first Latino senator: Alex Padilla picked to fill Kamala Harris' Senate seat"
-    excerpt: "California Gov. Gavin Newsom appoints Secretary of State Alex Padilla to fill the U.S. Senate seat being vacated by Vice President-elect Kamala Harris"
-    publishedDateTime: 2020-12-22T22:10:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/22/newsom-taps-alex-padilla-senate-seat-vacancy-left-kamala-harris/4011660001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4011660001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4011660001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/media/2020/09/09/Norwich/ghows-CT-200819975-48378334.jpg?auto=webp&crop=3000,1688,x0,y218&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "In Replacing Kamala Harris in the Senate, Gavin Newsom Is Going to Have to Disappoint Someone"
-    excerpt: "Newsom could avoid the political headache — and leave the choice in the hands of the voters — by declaring he isn’t meant to be a kingmaker."
-    publishedDateTime: 2020-12-21T18:20:00Z
-    webUrl: "https://www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/"
-    ampWebUrl: "https://www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/amp/"
+  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
+    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
+    publishedDateTime: 2020-12-29T22:29:00Z
+    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 64
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/05/20200520_newsom.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "California Gov. Gavin Newsom Picks Top State Official Alex Padilla to Replace Kamala Harris in Senate"
-    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Karris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
-    publishedDateTime: 2020-12-22T19:39:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: C-SPAN
+      domain: c-span.org
     quality: 60
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106815183-1608661336860-AP20357652453277.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris and husband donate to Toys for Tots"
-    excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington D.C. fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off"
-    publishedDateTime: 2020-12-23T23:25:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
   - title: "Kamala Harris to Receive Coronavirus Vaccine"
     excerpt: "Kamala Harris’ vaccination comes a little over a week after President-elect Joe Biden received his first dose live on television."
     publishedDateTime: 2020-12-29T13:46:00Z
@@ -456,31 +492,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "LIVE: Kamala Harris to receive COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris and her husband Doug Emhoff will host an event Tuesday in Washington, D.C., where they are expected to receive their first dose of the COVID-19 vaccine."
-    publishedDateTime: 2020-12-29T14:47:00Z
-    webUrl: "https://www.hawaiinewsnow.com/video/2020/12/29/live-kamala-harris-receive-covid-vaccine/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 55
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/WdiSq0jzp3nb2DTzmjp_lgHp9Sc=/1200x0/d1acid63ghtydj.cloudfront.net/12-29-2020/t_9795ac8777dd46e4812a563edc310437_name_1229_Harris.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "Kamala Harris gets Moderna COVID-19 vaccine"
-    excerpt: "U.S. Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the"
-    publishedDateTime: 2020-12-29T19:59:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
     quality: 55
   - title: "Kamala Harris goes to Black community in D.C. for vaccine"
     excerpt: "Harris said she deliberately chose the city’s only public hospital, United Medical Center, because it serves neighborhoods in the city’s Southeast quadrant that are predominantly Black. WASHINGTON — Vice President-elect Kamala Harris said she “barely felt” the COVID-19 vaccine shot in her left arm on Tuesday after she was inoculated with the first of two Moderna doses at a Washington hospital in the heart of the city’s Black community."
@@ -496,6 +507,45 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "VP-elect Kamala Harris receives coronavirus vaccine"
+    excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
+    publishedDateTime: 2020-12-29T18:36:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/vp-elect-kamala-harris-receives-coronavirus-vaccine/IMNYPWEP4VDMZOB3COK62KHSMQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/HHv1BPHsIICavj07Z2odFiTQndA=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-20-2020/t_74fafcf1b29243b9a5def943e485f92b_name_t_d1a80fe1206e4f32b22e917a53a03f39_name_DNC_Harris__scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Request To 'Find' Votes For Him Sparks Political Uproar"
+    excerpt: "The release on Sunday by US media of a stunning audio tape in which President Donald Trump pressured Georgia's secretary of state to \"find\" enough votes to overturn his election defeat there to Democrat Joe Biden sent shockwaves across Washington."
+    publishedDateTime: 2021-01-03T22:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-request-find-votes-him-sparks-political-uproar-3113583"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/lawmakers-return-to-the-us-capitol-for-a.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
+    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
+    publishedDateTime: 2021-01-05T04:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
     publishedDateTime: 2020-12-29T16:22:00Z
@@ -510,29 +560,20 @@ related:
         width: 1140
         height: 712
         isCached: true
-  - title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
-    excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
-    publishedDateTime: 2020-12-22T18:30:00Z
-    webUrl: "https://www.sfexaminer.com/news/alex-padilla-becomes-californias-first-latino-us-senator-replacing-kamala-harris/"
+  - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
+    excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."
+    publishedDateTime: 2021-01-03T23:32:00Z
+    webUrl: "https://www.11alive.com/video/news/politics/elections/kamala-harris-savannah-georgia/85-0ed6ae43-d781-4f5b-a472-44afe8e1884c"
     type: article
     provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 49
+      name: 11Alive
+      domain: 11alive.com
+    quality: 54
     images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/12/23720326_web1_201222-SFE-Padilla_1-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "California Gov. Gavin Newsom Names State Elections Chief Alex Padilla to Fill Remainder of Kamala Harris' US Senate Term"
-    excerpt: "California Gov. Gavin Newsom names state elections chief Alex Padilla to fill remainder of Kamala Harris' US Senate term."
-    publishedDateTime: 2020-12-23T00:27:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-12-22/gauge-of-us-consumer-confidence-slides-again-in-december-to-886-with-christmas-approaching"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 25
 
 secured: "i9KxwJmn/1ospy/BaS/dj7in3FMCf8pP/l01O9bEFsn+p5zx0+50v/sv/Cv0VRv20cZ2bapm25rUeEyPY7o1uwy50tb6MotzfbFw+3+6xdLz238phTw2ZbYTie2Y2PKKW2vzxdneCfhog2ldyMcdkVoyVTiFa9QTJSlEvY8F6Xr12V0e/3IlU6+D8cJXCTGNxbdIO48SbQrXdstP6BCW/Du7NNxBF9PIs6Pz6b1DBOYxk1fjeDXtj2PSe8i9yhmzwMgrQ5Gbs0mIkrod28SEbeFUwVatkHTbkkifuquh/FS6K60tMiDeYK+c3ythguIALsEM1OnlrNCmvZD8jH+0x0hO9U8gujEX2pUI53dDB3yCKtwLLAZRoH3v8JIVbzBHdewRf0V2z0/QoGS6bx6hLESf1kFneCYfmb8mzH2fatboqG77GMT7NAbnQaZeVSW2vjl8xWzgrXcDMhCGHktCmcbXbRbspiH59hk6lMMEammMfWiSU8iYSqPc152HYE/KJpUH5g0RuBkIeEet8H84SQ==;hEbdqpQPuJa8W3yTGR90CA=="
 ---

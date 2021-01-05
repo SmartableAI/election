@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 935
+heat: 955
 published: true
 
 provider:
@@ -445,6 +445,22 @@ related:
     quality: 131
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump suit to decertify GA election results rejected; Electoral College objections expected Wed."
+    excerpt: "Yet another election lawsuit filed by President Trump to decertify the results of the 2020 election was tossed out on Tuesday."
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9956953f-65b9-4db8-8dc7-32efd1a32d43/ae7c741c-dcaf-4465-80b1-fde64c9eb4d4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

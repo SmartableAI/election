@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0"
 type: article
 quality: 125
-heat: 425
+heat: 265
 published: true
 
 provider:
@@ -47,70 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Congress approves $900B COVID relief bill, sending to Trump"
-    excerpt: "After months of Washington gridlock, Congress is set to act on a $900 billion pandemic relief package, finally delivering long-sought cash to businesses and individuals as well as resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
-    publishedDateTime: 2020-12-22T15:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_ed98b12d65af484c908f5cbfefd34f4a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Covid relief: Trump demands changes to sign $900bn bill"
-    excerpt: "Outgoing president says $600 stimulus payout to most Americans should increase to $2,000, or $4,000 for a couple"
-    publishedDateTime: 2020-12-23T03:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/7028196812fbe9486628434e6239f4854962ec9f/0_363_5442_3265/master/5442.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93941f4b1bb96141d79e029b0ec09467"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump suggests he might not sign COVID relief bill"
-    excerpt: "President Donald Trump is blasting the bipartisan $900 billion pandemic relief package that Congress just passed and is suggesting that he may not sign it"
-    publishedDateTime: 2020-12-23T01:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-suggests-he-might-not-sign-covid-relief-bill/2020/12/22/726634e0-44bd-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
-    excerpt: "U.S. President Donald Trump threatened on Tuesday not to sign a $892-billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
-    publishedDateTime: 2020-12-23T02:06:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN28X04N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X04N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X04N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545504122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
     excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
     publishedDateTime: 2020-12-14T16:32:00Z
@@ -124,38 +60,6 @@ related:
     quality: 123
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "President Trump throws wrench into COVID-19 relief by saying he won't sign bill"
-    excerpt: "President Donald Trump is giving both Democrats and Republicans a headache on Tuesday after the shocking announcement on Twitter that he will not sign the COVID-19 relief bill negotiated in the Senate and House for months."
-    publishedDateTime: 2020-12-23T07:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "U.S. Congress passes nearly $900 billion COVID-19 aid bill, awaits Trump approval"
-    excerpt: "President Donald Trump on Tuesday signed a stopgap measure to fund U.S. agencies for another week after Congress passed a $892 billion COVID-19 aid package overnight that aims to shore up the nation's pandemic response and bolster the battered economy."
-    publishedDateTime: 2020-12-22T14:41:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN28W1KP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1KP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1KP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545440994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0XQ"
         width: 817
         height: 545
         isCached: true
@@ -218,34 +122,6 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/fe3ad989-62cc-4804-bf6a-db03fbe8588c/thumbnail/1200x630/efc1169bcb63f8ad076de34acc4fb270/1219-satmo-captiolhilllatest-reid-612724-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "$900B COVID relief bill passed by Congress, sent to Trump"
-    excerpt: "Congress passed a $900 billion pandemic relief package that would finally deliver long-sought cash to businesses and individuals and resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
-    publishedDateTime: 2020-12-22T18:14:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/congress-approves-900b-covid-relief-bill-sending-trump-74855580"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6b07d8103a4740c388083b5a1ac319ae_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "President Trump plans to sign COVID-19 stimulus bill"
-    excerpt: "Congress passed a $900 billion stimulus measure, which now heads to President Trump for a signature. CBS News White House correspondent Paula Reid joins CBSN with the latest."
-    publishedDateTime: 2020-12-22T16:24:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-administration-congress-covid-stimulus-checks/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/d6e84f35-0d29-47bb-96d1-7ad98a8382ec/thumbnail/1200x630/6625156b63f6488e13c098786be9eb7c/cbsn-fusion-trump-admin-prepares-to-distribute-stimulus-checks-thumbnail-614297-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

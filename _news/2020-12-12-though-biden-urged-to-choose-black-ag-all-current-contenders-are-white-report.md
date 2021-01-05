@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-curr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
 type: article
 quality: 121
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,16 +31,124 @@ images:
     isCached: true
 
 related:
-  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
-    publishedDateTime: 2020-12-07T12:53:00Z
-    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T11:40:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "In Latin America, a Biden White House faces a rising China"
+    excerpt: "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home."
+    publishedDateTime: 2020-12-14T16:15:00Z
+    webUrl: "https://www.reuters.com/article/us-latam-usa-china-insight/in-latin-america-a-biden-white-house-faces-a-rising-china-idUSKBN28O18R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
+    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
+    publishedDateTime: 2020-12-08T13:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
+        width: 788
+        height: 545
+        isCached: true
+  - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
+    excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
+    publishedDateTime: 2020-12-07T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-stimulus-idUKKBN28H2SR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543740708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61KL"
+        width: 754
+        height: 545
+        isCached: true
+  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
+    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
+    publishedDateTime: 2020-12-19T15:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden to Americans: we need your help"
+    excerpt: "Watch \"Biden to Americans: we need your help; president-elect outlines pandemic plan which include mask wearing and vaccine distribution\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120554-biden-to-americans-we-need-your-help-president-elect-outlines-pandemic-plan-which-include-mask-wearing-and-vaccine-distribution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040589_1607515744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
+    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
+    publishedDateTime: 2020-12-09T19:42:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden's trade nominee has family roots in both Taiwan and China"
+    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
+    publishedDateTime: 2020-12-12T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
   - title: "Biden's challenge: Creating a COVID-19-free White House"
     excerpt: "Three blocks from the White House, office space for more than 500 Biden transition staffers sits mostly idle. The government is shipping out laptops so staffers can work from home. President-elect Joe Biden,"
@@ -55,6 +163,52 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden's inaugural committee is urging Americans to stay home instead of traveling to Washington, DC, for the festivities"
+    excerpt: "While Biden will give a speech on Jan. 20, attendance will be restricted and most of the traditional inauguration celebrations will be virtual."
+    publishedDateTime: 2020-12-15T17:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inaugural-committee-urges-americans-stay-home-coronavirus-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fd8e617dc030c001aab6b6f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "What we know about retired General Lloyd Austin, Biden's choice for defense secretary"
+    excerpt: "President-elect Joe Biden has chosen retired General Lloyd Austin to be his defense secretary. CBS News correspondent Nikole Killion joins CBSN to discuss what makes the pick so historic."
+    publishedDateTime: 2020-12-10T03:16:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/39b77f61-0070-42f7-98ea-c83f8e7abbaf/thumbnail/1200x630/d78b2ab96f243284d5134b31a3a484f9/cbsn-fusion-pres-elect-to-tap-retired-gen-lloyd-austin-as-defense-secretary-thumbnail-603805-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0+YRPhzLS1ZqAzniVmJIhLhimc/X4tXM4dH/Hi4ryMT8h1rcaITeu2B/3vOlC13NgbpuhEok2v2t5DCr66oa0woosQE3mIt0Ltl8UlwJZd4cnQVyuD+K+5d/Oh9DtT7Z/xoP3pjLJF24Ot1Ef1ZnNzepjYGpUdagO6CIGbD8VsxznMwl1g2GbmAlzkuXSB+o9oGb5di5nwmD+4sD6nA4ePpcaiHI3cvPFFf5tBI7SnGStcNmc7Os82vULlwzyXJWz0Sgt39yGUIEKn1FGT6RtSEWepWiByG5wNjDpcLjwOrStMBJgX2lnlgGWv2zRneoXLJ1O117AFiExdmLP31wseh3d1W6Rf+cvYdtNit2b28=;/mn5170nzwo13Gs5i15Iug=="

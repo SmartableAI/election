@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-sui
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 440
+heat: 420
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/02/USAT/32a81da4-b1df-4ef8-afbe-c07d5c251c43-AP_House_Election_2020.jpg?auto=webp&crop=5207,2929,x0,y264&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Federal judge rejects lawsuit seeking to overturn Trump loss"
-    excerpt: "A federal judge has rejected a lawsuit filed by two Republican Wisconsin lawmakers, voting rights groups and others seeking to overturn the 2020 presidential election results in Wisconsin and four oth"
-    publishedDateTime: 2021-01-05T00:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
     excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."

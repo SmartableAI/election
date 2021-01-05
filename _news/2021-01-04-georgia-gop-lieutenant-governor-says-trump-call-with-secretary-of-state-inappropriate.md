@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Seven of the most bonkers false claims from Trump's Georgia rally "
+    excerpt: "It's almost too bonkers to fact check.\n    \n"
+    publishedDateTime: 2021-01-05T19:58:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bpWygv0y8XE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/fact-check-trump-georgia-rally-loeffler-perdue/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/fact-check-trump-georgia-rally-loeffler-perdue/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104221117-trumo-rally-georgia-elecciones-senado-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Trump's conspiracy theory connecting Georgia's secretary of state to China"
     excerpt: "In the waning days of his presidency, Donald Trump continues to spread nonsense conspiracies over the 2020 election and the officials who oversaw it, attacking Georgia's governor and secretary of state on Twitter Tuesday.\n    \n"
     publishedDateTime: 2020-12-30T22:21:32Z

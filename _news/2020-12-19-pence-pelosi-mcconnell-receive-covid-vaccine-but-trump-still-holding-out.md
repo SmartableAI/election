@@ -188,22 +188,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump allies launch desperate final efforts ahead of congressional confirmation of Biden win"
-    excerpt: "President Trump and his allies are growing increasingly desperate as Congress prepares to formally receive the votes that will confirm his election loss next week, filing lawsuits against nonexistent entities and even Trump’s own vice president as they try to come up with new ways to overturn the vote."
-    publishedDateTime: 2020-12-30T04:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 129
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q7XCJCKFEI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump ally Geraldo Rivera: The president acting 'like an entitled frat boy' since election loss"
     excerpt: "I’ve supported @realDonaldTrump who was assailed by leftist creeps,\" Rivera said. \"Sadly he lost a bitterly contested election.\""
     publishedDateTime: 2020-12-27T18:12:00Z
@@ -971,38 +955,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546002808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS005"
         width: 819
         height: 545
-        isCached: true
-  - title: "Just how much of a rebuke to Trump is Congress’s veto override?"
-    excerpt: "Republicans in Congress are about to hand President Trump the biggest legislative loss of his presidency by helping Democrats override a Trump veto for the first time. On Monday, the House of Representatives overwhelmingly voted to override his veto of what is normally a broad bipartisan defense bill."
-    publishedDateTime: 2020-12-29T16:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MS2EGCJLAI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump's pardons and commutations"
-    excerpt: "President Trump's pardons have included service members charged with murder and a former national security adviser accused of lying to the FBI."
-    publishedDateTime: 2020-12-29T18:10:00Z
-    webUrl: "https://www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
-    ampWebUrl: "https://www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
-    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797393%2Fa6b890e7-d0a9-4435-934f-e1343b744dfb-XXX__JG_138559_Roger_Stone_Sent_02_2_jmg_39237.jpeg/fill/300/300/"
-        width: 300
-        height: 300
         isCached: true
   - title: "Trump asks U.S. Supreme Court to take Wisconsin case"
     excerpt: "President Donald Trump’s campaign has asked the U.S. Supreme Court to take a lawsuit challenging election results in swing state Wisconsin"

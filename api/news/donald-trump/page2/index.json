@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-01-trump-attacks-and-vote-by-mail-the-top-voting-rights-stories-of-2020.md",
-      "title": "Trump attacks and vote by mail: the top voting rights stories of 2020",
-      "excerpt": "The pandemic created new barriers to the ballot box and strengthened existing ones – aided by the president and his Republican allies",
+      "path": "_news/2021-01-02-trump-vetoes-calif-fishing-bill-over-seafood-trade-deficit.md",
+      "title": "Trump vetoes Calif. fishing bill over seafood trade deficit",
+      "excerpt": "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/5e11026192d8237ee0edc6181e2e4ab0c7fbb0e7/0_0_4000_2668/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9483731ba5514da97ac2b855bfcd44c3",
-          "width": 600,
-          "height": 400,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,220 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "publishedDateTime": "2021-01-01T05:02:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402",
+      "publishedDateTime": "2021-01-01T16:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
+      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
+      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "publishedDateTime": "2021-01-01T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-trump-extends-covid-related-bans-on-visas-green-cards-court-clears-health-insurance-requirement-for-immigrants.md",
+      "title": "Trump extends COVID-related bans on visas, green cards; court clears health insurance requirement for immigrants",
+      "excerpt": "Trump said the measures would protect American jobs in a pandemic-wracked economy, while business groups said they would hamper a recovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/01/trump-extends-visa-bans/4107279001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/01/trump-extends-visa-bans/4107279001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/01/USAT/0dcd5997-f196-4431-9c6d-6e62903b6e6b-AP_Trump_1.jpg?auto=webp&crop=3593,2021,x508,y109&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4107279001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4107279001",
+      "publishedDateTime": "2021-01-01T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020.md",
+      "title": "Fact check: President Trump spent Thanksgiving with troops in Afghanistan in 2019, not 2020",
+      "excerpt": "Social media users having been sharing posts that claim President Donald Trump spent Thanksgiving 2020 with troops in Bagram, Afghanistan, not playing golf. This claim is false: the photo of Trump in Bagram is from 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546338440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH00140",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN296286",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN296286",
+      "publishedDateTime": "2021-01-01T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-dangerous-ploy-gop-sen-ben-sasse-slams-efforts-by-trump-hawley-to-overturn-election.md",
+      "title": "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election",
+      "excerpt": "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4106964001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001",
+      "publishedDateTime": "2021-01-01T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -171,7 +375,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -223,7 +427,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -275,7 +479,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/chief-justice-john-roberts-lauds-judiciary-pandemic-response/4101264001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -319,126 +523,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-can-donald-trump-pass-2000-stimulus-checks-by-executive-order.md",
-      "title": "Can Donald Trump Pass $2,000 Stimulus Checks by Executive Order?",
-      "excerpt": "With a standalone bill that would allow $2,000 stimulus checks apparently dead in the Senate, could President Donald Trump sign an executive order that would allow the higher direct payments to reach Americans?",
+      "path": "_news/2021-01-01-trumps-kids-wont-lose-their-5th-amendment-rights-and-be-forced-to-testify-against-him-if-theyre-pardoned-experts-say.md",
+      "title": "Trump's kids won't lose their 5th Amendment rights and be forced to testify against him if they're pardoned, experts say",
+      "excerpt": "A presidential pardon isn't enough to mean that someone can't plead the Fifth Amendment and refuse to testify, according to criminal law experts.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386",
-      "originalUrl": "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386",
+      "webUrl": "https://www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1696668/could-trump-sign-exec-order-stimulus-checks.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1",
-      "publishedDateTime": "2020-12-31T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-joe-bidens-approach-to-latin-america-will-be-major-departure-from-donald-trump.md",
-      "title": "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump",
-      "excerpt": "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
-      "originalUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1696572/joe-biden-latin-america.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1",
-      "publishedDateTime": "2020-12-31T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-in-scathing-facebook-post-gop-senator-calls-colleagues-arsonists-over-plot-to-challenge-election-results-accuses-trump-of-bilking-supporters.md",
-      "title": "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters",
-      "excerpt": "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg",
+          "url": "https://i.insider.com/5fee20ee9ff41f001883f9bc?width=1200&format=jpeg",
           "width": 1200,
-          "height": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -446,16 +545,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-31T10:57:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-dont-mean-5th-amendment-privilege-lost-experts-say-2020-12?amp",
+      "publishedDateTime": "2020-12-31T12:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -476,21 +575,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-31-live-politics-updates-trump-to-return-to-dc-early-gop-senator-says-hes-playing-with-fire-in-contesting-election.md",
-      "title": "Live politics updates: Trump to return to DC early, GOP senator says he's 'playing with fire' in contesting election",
-      "excerpt": "Sasse said the effort by Trump and his allies to overturn Biden's win amounted to pointing a \"loaded gun at the heart of legitimate self-government.\"",
+      "path": "_news/2020-12-31-no-reason-given-for-trump-cutting-short-his-florida-vacation.md",
+      "title": "No reason given for Trump cutting short his Florida vacation",
+      "excerpt": "President Donald Trump is cutting short his Florida vacation and will be returning to Washington on Thursday, a day earlier than originally expected",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/politics-updates-presidential-transition-congress/4094103001/",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
       "featuredContent": null,
       "highlight": null,
-      "heat": 467,
+      "heat": 385,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_dc315ba7d2624c7ca7304b930d2c920f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -498,16 +597,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4094103001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4094103001",
-      "publishedDateTime": "2020-12-31T06:32:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852",
+      "publishedDateTime": "2020-12-31T07:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -524,8 +623,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {
@@ -732,6 +830,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-us-election-pro-trump-rallies-see-scuffles-in-us-cities.md",
+      "title": "US election: Pro-Trump rallies see scuffles in US cities",
+      "excerpt": "Thousands of Donald Trump supporters alleging electoral fraud converged on several US cities and towns on Saturday and there were isolated scuffles with counter-demonstrators. In Washington DC, more than 20 people were arrested and four people were stabbed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/election-us-2020-55292610",
+      "originalUrl": "https://www.bbc.com/news/election-us-2020-55292610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 940,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1323A/production/_116049387_gettyimages-1290928785.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/election-us-2020-55292610",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55292610",
+      "publishedDateTime": "2020-12-30T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1060,6 +1210,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-29-fate-of-trumps-2000-checks-now-rests-with-gop-led-senate.md",
+      "title": "Fate of Trump's $2,000 checks now rests with GOP-led Senate",
+      "excerpt": "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952",
+      "publishedDateTime": "2020-12-29T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-back-to-private-school-trump-executive-order-empowers-families-amid-covid-19-pandemic-education-secretary-betsy-devos-says.md",
       "title": "Back to (private) school? Trump executive order empowers families amid COVID-19 pandemic, Education Secretary Betsy DeVos says.",
       "excerpt": "Outgoing Education Secretary Betsy DeVos has long championed school choice — the overarching term for options beyond traditional public schools.",
@@ -1177,7 +1379,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1273,279 +1475,19 @@
       ]
     },
     {
-      "path": "_news/2020-12-27-trump-is-threatening-iran-and-biden-says-the-pentagon-is-stonewalling-him-on-many-things-with-less-than-a-month-until-his-inauguration.md",
-      "title": "Trump is threatening Iran, and Biden says the Pentagon is stonewalling him on 'many things' with less than a month until his inauguration",
-      "excerpt": "Lame-duck presidents typically wouldn't dream of threatening war in their final days. But Trump is anything but typical.",
+      "path": "_news/2020-12-27-live-politics-updates-biden-bashes-trumps-abdication-of-responsibility-on-covid-relief-bill.md",
+      "title": "Live politics updates: Biden bashes Trump's 'abdication of responsibility' on COVID relief bill",
+      "excerpt": "\"This abdication of responsibility has devastating consequences,\" Biden said, warning Trump put unemployment aid and other vital services at risk.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 868,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fe4f568a644880018193593?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-pentagon-stonewalls-his-team-as-trump-threatens-iran-2020-12?amp",
-      "publishedDateTime": "2020-12-26T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-gop-lawmaker-asks-trump-to-pardon-ex-congressman-calls-doj-corrupt-and-inept.md",
-      "title": "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'",
-      "excerpt": "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400",
-      "originalUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1675257/rep-paul-gosar.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1",
-      "publishedDateTime": "2020-12-26T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-mnuchins-loyalty-to-trump-could-end-with-painful-setback-as-president-shreds-stimulus-deal.md",
-      "title": "Mnuchin’s loyalty to Trump could end with painful setback as president shreds stimulus deal",
-      "excerpt": "Democrats and Republicans had thought Mnuchin was speaking for the president in negotiating the $908 billion pact, but Trump quickly called it a “disgrace.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GIKNNXUS4QI6VB5DELJSII2WGY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/26/trump-mnuchin-stimulus/?outputType=amp",
-      "publishedDateTime": "2020-12-26T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-trump-slams-us-fashion-magazines-for-not-giving-melania-a-single-cover-shoot-while-he-has-been-in-office.md",
-      "title": "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office",
-      "excerpt": "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp",
-      "publishedDateTime": "2020-12-26T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-covid-relief-bill-flown-to-florida-where-trump-went-golfing.md",
-      "title": "COVID relief bill flown to Florida, where Trump went golfing",
-      "excerpt": "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/",
-      "originalUrl": "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 625,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/",
-      "publishedDateTime": "2020-12-26T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-what-watchdogs-trump-leaves-office-with-key-ig-jobs-vacant-across-govt.md",
-      "title": "What watchdogs? Trump leaves office with key IG jobs vacant across govt",
-      "excerpt": "At least a dozen of the 38 presidentially appointed inspectors general will not be in place at the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/3c2c3290-0cf8-49e8-bf30-6fdfa08238ac-COVER.png?auto=webp&crop=1969,1108,x27,y0&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/12/27/USAT/ebfb5d0f-d98f-40ee-a919-a3b84dd66128-AP_Biden_1.jpg?auto=webp&crop=3689,2075,x0,y385&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1555,9 +1497,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4008278001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4008278001",
-      "publishedDateTime": "2020-12-25T04:04:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4052084001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001",
+      "publishedDateTime": "2020-12-27T05:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -1565,6 +1507,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-trump-just-cost-jobless-workers-one-week-of-federal-unemployment-assistance-after-he-failed-to-sign-the-relief-bill-by-midnight-on-saturday.md",
+      "title": "Trump just cost jobless workers one week of federal unemployment assistance after he failed to sign the relief bill by midnight on Saturday",
+      "excerpt": "The president's push for $2,000 stimulus checks has threatened the federal unemployment benefits included in the bill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe7ffcfedf8920018093c82?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-just-cost-jobless-workers-one-week-of-unemployment-benefits-2020-12?amp",
+      "publishedDateTime": "2020-12-26T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
