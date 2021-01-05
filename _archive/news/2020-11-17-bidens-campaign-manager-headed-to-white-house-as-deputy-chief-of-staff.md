@@ -1,0 +1,117 @@
+---
+category: news
+title: "Biden’s campaign manager headed to White House as deputy chief of staff"
+excerpt: "Joe Biden’s presidential campaign manager, Jen O’Malley Dillon, will serve as deputy chief of staff in the White House come January."
+publishedDateTime: 2020-11-17T02:59:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Wj8T0kTaas/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Wj8T0kTaas/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff"
+ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "Mob boss denies Philadelphia election claim, says Joe Biden 'is a man's man'"
+    excerpt: "President Trump's personal lawyer, former New York City Mayor Rudolph Giuliani, who is also heading the campaign legal efforts, was asked about the possibility of mob election interference during an interview on the Fox Business Network. He said that \"although there is an allegation of a mobster involved,"
+    publishedDateTime: 2020-11-19T01:32:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2X64XE_sJOM/mob-boss-denies-philadelphia-election-joe-biden-mans-man"
+    ampWebUrl: "https://www.foxnews.com/politics/mob-boss-denies-philadelphia-election-joe-biden-mans-man.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mob-boss-denies-philadelphia-election-joe-biden-mans-man.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Shawn_Eric.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden honors veterans with stop at Philadelphia memorial"
+    excerpt: "President-elect Joe Biden marked Veterans Day by honoring America’s veterans during a stop at the Korean War Memorial in Philadelphia."
+    publishedDateTime: 2020-11-11T17:18:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5sOc2gHoj_E/biden-veterans-day-philadelphia-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "House leaders urge Democrats not to join team Biden to maintain majority"
+    excerpt: "Confronted with a shrunken majority, House leaders are discouraging fellow Democrats from taking jobs with the incoming Biden administration — out of concern that Republicans could nab any vacated seats, sources told The Post on Sunday."
+    publishedDateTime: 2020-11-16T03:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lWR5vS904kI/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority"
+    ampWebUrl: "https://www.foxnews.com/politics/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315617426290.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position"
+    excerpt: "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports."
+    publishedDateTime: 2020-11-13T05:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump campaign appeals Philadelphia vote decision, alleging incomplete ballots were counted"
+    excerpt: "The Trump campaign is appealing after the Philadelphia County Board of Elections denied its objection to the counting of thousands of ballots that the campaign said should have been rejected under state law."
+    publishedDateTime: 2020-11-12T14:13:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AK5mLpy7N4E/trump-campaign-appeals-philadelphia-ballot-counting-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-appeals-philadelphia-ballot-counting-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-appeals-philadelphia-ballot-counting-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d67219-519c-45e6-b6f0-8f07602500ef/81f2d39a-1708-4498-8539-cf0620da8e66/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "hInf6Cs2WX1omAW9LTbQPuJcc6HocQ5yv3N4Z3zQCZ1xHKf2DO0CbU1utf5FEF+hx+u78JfIJu2G6TjT4vC6XA7dKMq5YRyrrshGg6Mu8Cx0f+/QRXq9x3SoblvByMuLLaTIj0ziTEXdrSTvKfqb3WCiMmpzC/p9BALSPiEKPQfhqUQ8TfM6V72LX5vL24mZRNjPeh7l7bZ37T7Oz1TCGXkDb/pcfHGMIoD9NPuT29zstD7VR6qxRQL5LuXD7eVGPLSzMMBeCGOofCFShiuIxR6dxyd0TpnLI2JnMjxiET+mO3qlbzIrbmzflC6yKQCgOJqn3OIm4tMPZUzbDvgrjbyztiF0Bra9cukAbR9L9l8=;pwJzFPxdO5yPTJA6yvgv9Q=="
+---
+
