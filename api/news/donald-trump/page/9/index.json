@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-18-trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed.md",
+      "title": "Trump Hasn't Conceded Georgia. Neither Did Stacey Abrams. What Changed?",
+      "excerpt": "The president's refusal to acknowledge defeat isn't the first time Georgia voters have heard that, but state officials say claims about impropriety — past and present — are false.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed",
+      "originalUrl": "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/11/17/ap_18311261907480_wide-a715561dfb6fb6116b6286b6d7a030c834c9da09.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-trump-fires-top-us-election-cybersecurity-official-who-defended-vote.md",
       "title": "Trump fires top U.S. election cybersecurity official who defended vote",
       "excerpt": "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud.",
@@ -1492,58 +1544,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-fox-news-cuts-away-from-trump-campaign-news-conference-cant-in-good-countenance-continue-showing-this.md",
-      "title": "Fox News cuts away from Trump campaign news conference: 'Can't in good countenance continue showing this'",
-      "excerpt": "Fox News anchor Neil Cavuto broke in and cut away from the news conference after \"explosive charges\" were made about voter fraud without evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/c71df6e1-0af4-437e-8010-343af0b5c535-Fox_News.PNG?auto=webp&crop=981,552,x207,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6228124002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228124002",
-      "publishedDateTime": "2020-11-11T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
         "domain": "usatoday.com",
         "images": [
           {

@@ -575,6 +575,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Inside the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
+    excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
+    publishedDateTime: 2021-01-05T00:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5ff1e02aa18a450018cb68b3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
     excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
     publishedDateTime: 2020-12-27T22:07:00Z
@@ -602,20 +616,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/46879155-3db9-441d-b0b1-0dccbf130565/thumbnail/1200x630/5c3a56fc69894b2e9efd44ed85946b73/1226-satmo-trumpfriday-616319-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Inside the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
-    excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
-    publishedDateTime: 2021-01-05T00:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5ff1e02aa18a450018cb68b3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "In Christmas messages, Biden commiserates with COVID victims; Trump barely mentions virus"
     excerpt: "In dueling Christmas messages to the nation Friday, Joe Biden commiserated with Americans who’ve lost loved ones or their livelihoods because of coronavirus — while President Trump barely made mention of the pandemic that‘s killed over 330,"

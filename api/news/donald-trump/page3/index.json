@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
+      "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
+      "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/21/books/00trumpbooks2/merlin_179822574_2e450d6e-0246-43c1-a80c-8d197ee7f3bc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
+      "publishedDateTime": "2020-12-24T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-iran-foreign-minister-dismisses-trumps-tweet-that-tehran-behind-attack-on-us-embassy-in-baghdad.md",
       "title": "Iran foreign minister dismisses Trump's tweet that Tehran behind attack on U.S. Embassy in Baghdad",
       "excerpt": "Iran’s foreign minister on Thursday dismissed U.S. President Donald Trump’s allegations that Iran was behind the recent rocket attack on the U.S. Embassy in Baghdad.",
@@ -1524,63 +1581,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-appoints-1776-commission-members-in-last-minute-bid-to-advance-patriotic-education.md",
-      "title": "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'",
-      "excerpt": "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "originalUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "publishedDateTime": "2020-12-18T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

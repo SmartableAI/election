@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-19-mr-biden-shouldnt-be-the-only-target-for-catholics.md",
+      "title": "Mr. Biden shouldn’t be the only target for Catholics",
+      "excerpt": "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
+      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440",
+          "width": 1440,
+          "height": 970,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-18T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-biden-transition-head-speaks-out-on-difficult-and-intense-process.md",
       "title": "Biden transition head speaks out on 'difficult and intense' process",
       "excerpt": "Biden’s longtime chief of staff and a former senator, says that leading Biden’s transition team “has been the most difficult and intense workload that I've ever experienced.” \"I thought we [saw] the most difficult transition because of the Great Recession,",
@@ -1567,59 +1619,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
-      "title": "Politics updates: Trump reached out to PA House speaker over election",
-      "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3810,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6484311002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002",
-      "publishedDateTime": "2020-12-08T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
       ]
     }
   ],

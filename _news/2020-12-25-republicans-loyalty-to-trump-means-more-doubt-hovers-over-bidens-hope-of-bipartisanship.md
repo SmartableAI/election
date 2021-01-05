@@ -560,6 +560,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Inside the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
+    excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
+    publishedDateTime: 2021-01-05T00:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5ff1e02aa18a450018cb68b3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republican and Democratic lawmakers to Trump: ‘Sign the bill, Mr. President’"
     excerpt: "Republican and Democratic lawmakers urged President Trump Dec. 27 to sign the bipartisan stimulus bill, which sits at his Mar-a-Lago resort, as the government shutdown deadline loomed."
     publishedDateTime: 2020-12-27T22:07:00Z
@@ -601,20 +615,6 @@ related:
     quality: 100
     images:
       - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Inside the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
-    excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
-    publishedDateTime: 2021-01-05T00:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5ff1e02aa18a450018cb68b3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -31,99 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump faces economic redline"
-    excerpt: "When it comes to who’s-telling-whom, economic interests usually dictate political actions."
-    publishedDateTime: 2020-11-19T21:53:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-faces-economic-redline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp"
+  - title: "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'"
+    excerpt: "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake."
+    publishedDateTime: 2021-01-05T01:32:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Bernie Sanders agrees with Trump’s push for more coronavirus stimulus"
+    excerpt: "Sen. Bernie Sanders, I-Vt., backs President Trump's decision to raise stimulus payments and urges Mitch McConnell to get on with a vote."
+    publishedDateTime: 2020-12-31T03:04:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fM4QHqv6BoE/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "What if Trump actually did it?"
-    excerpt: "Yes, we know that this is far-fetched, but bear with us for a moment."
-    publishedDateTime: 2020-11-23T21:12:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TzkxiSC9jxc/what-if-trump-actually-did-it"
-    ampWebUrl: "https://www.foxnews.com/politics/what-if-trump-actually-did-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-if-trump-actually-did-it.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Rep. Maxine Waters promises to retighten banking rules eased under Trump"
-    excerpt: "House Financial Services Chair Maxine Waters said Thursday she plans to retighten financial regulations that were loosened under President Trump's administration, but House Democrats could have an uphill battle as their majority slips in the chamber."
-    publishedDateTime: 2020-11-13T00:54:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5VZU7sLllg0/maxine-waters-vows-to-undo-trump-banking-rules"
-    ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-banking-rules.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-banking-rules.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b370aa-373a-47b2-b50f-22488dcb8bec/b89ffe85-b89f-4280-b0d7-10846e06c8b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump to Participate in Virtual G-20 Summit This Weekend"
-    excerpt: "President Trump will participate in the virtual G-20 summit, held this weekend in Riyadh, Saudi Arabia, according to a senior administration official."
-    publishedDateTime: 2020-11-20T22:02:00Z
-    webUrl: "https://www.wsj.com/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
+  - title: "Perdue says Trump call with Georgia secretary of state won’t affect runoff"
+    excerpt: "Sen. David Perdue, one of two Republicans in Georgia fighting to keep their seats in a tight runoff election, said Sunday that he doesn't believe President Trump’s leaked phone call with the state's top election official will have any bearing on Tuesday’s election."
+    publishedDateTime: 2021-01-04T09:55:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
+    ampWebUrl: "https://www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
     images:
-      - url: "https://images.wsj.net/im-263184/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump administration kills plans for Alaskan gold mine"
-    excerpt: "The Trump administration denied a permit to build a massive gold and copper mine in Alaska that could have put the world’s largest sockeye salmon fishery at risk. In a surprise move, the"
-    publishedDateTime: 2020-11-26T15:40:00Z
-    webUrl: "https://nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/"
-    ampWebUrl: "https://nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/amp/"
+  - title: "Georgia Sens. Loeffler, Perdue back Trump on $2K coronavirus stimulus checks"
+    excerpt: "Georgia GOP incumbent Sens. Kelley Loeffler and David Perdue, who are fighting to keep their seats in special runoff elections next week, voiced support for $2,000 stimulus checks on Tuesday."
+    publishedDateTime: 2020-12-29T17:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eIFJAGR7Vsk/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-23.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Donald Trump Jr. Tested Positive for Covid-19 This Week"
-    excerpt: "Donald Trump Jr., the president's eldest son, tested positive for Covid-19 earlier this week, a spokesman said, becoming the latest member of the Trump family to contract the virus. The younger Mr. Trump has been quarantining since he received his positive result and has been asymptomatic so far,"
-    publishedDateTime: 2020-11-21T00:05:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/ZCznQGs7V86ml4ixymX1"
+  - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
+    excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
+    publishedDateTime: 2020-12-28T12:26:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDDzr9WpMvw/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package"
+    ampWebUrl: "https://www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
-      - url: "https://images.wsj.net/im-263268?size=1.5"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
+    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
+    publishedDateTime: 2021-01-02T13:44:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
+        isCached: true
+  - title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
+    excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
+    publishedDateTime: 2021-01-01T10:21:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
+    excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
+    publishedDateTime: 2021-01-01T02:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "g89N1VipIu/FonE+3i9L5YLcDrW42I2vtnfgCWGuDFZtLonvN8UH90RcFtZPPfQv2UIOpUM6ZuH18WWOwPtGC5yPUH0mmsvY1v4Vi8WrWqouLVTQlGVPoRbAJUDY+ocv3KJ5PwGoDjuIwXVU+QH1BfppQzcHYHfWtb5+f7oajdhvHBHZYM4Hkqm7w+Sq6+97QAj+Uyd1MmnfrlNWunNCAJODnRjPVMgg6JZATdf4BTgu9JuucdGpCkCgSxoaNbSKGzoSHGDulFi/AfFopamSyjUE5IY9YcSGV63dE3ODhkPPTod4r8LxF4222WJk4hpUsoA+beIyRZwraqSTtjz+gKFDGqHXrPY4vyF3fOwDKIw=;CGpjKRw92N08qb0VRPpg4Q=="

@@ -2,6 +2,228 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-09-chris-cuomo-blasts-gop-congressman-for-skipping-his-show-over-trump-election-claim-questions.md",
+      "title": "Chris Cuomo blasts GOP congressman for skipping his show over Trump election-claim questions",
+      "excerpt": "Rep. Dusty Johnson (R-S.D.) replied that he was ready to discuss covid relief but not “hyper-partisan issues.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
+      "originalUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UGSSZGRVTUI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
+      "publishedDateTime": "2020-12-08T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-ex-cyber-official-krebs-sues-trump-campaign-over-its-attacks-on-election-results.md",
+      "title": "Ex-cyber official Krebs sues Trump campaign over its attacks on election results",
+      "excerpt": "Chris Krebs, the former top administration official for cybersecurity, whom President Donald Trump fired after the election, is suing the Trump campaign and a lawyer working with the campaign to overturn the results of the election, accusing them of defamation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html",
+      "publishedDateTime": "2020-12-08T11:59:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-trump-won-new-yorks-suffolk-county-why-that-signals-hope-for-democrats.md",
+      "title": "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats.",
+      "excerpt": "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "originalUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-267145/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
+      "publishedDateTime": "2020-12-08T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-publicity-stunt-ags-in-battleground-states-blast-texas-counterpart-for-challenging-bidens-win.md",
+      "title": "'Publicity stunt': AGs in battleground states blast Texas counterpart for challenging Biden's win",
+      "excerpt": "Texas Attorney General Ken Paxton wants the Supreme Court to invalidate election results in four states, citing repeatedly debunked allegations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/publicity-stunt-ags-battleground-states-blast-texas-counterpart-challenging-biden-n1250383",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434192/201208-ken-paxton-jm-1218_11a694b478893a4a252cb3725659bec1.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250383",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250383",
+      "publishedDateTime": "2020-12-08T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-trump-act-v-shakespeare-but-with-a-twist.md",
       "title": "Trump, Act V: Shakespeare, but With a Twist",
       "excerpt": "A reader says the Bard’s heroes, unlike the president, were remorseful in the end. Also: Children at play among the leaves.",
@@ -1116,220 +1338,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-people-have-spoken-federal-judge-rejects-ex-trump-attorney-sidney-powells-michigan-election-lawsuit.md",
-      "title": "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit",
-      "excerpt": "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3856164001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001",
-      "publishedDateTime": "2020-12-07T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-rnc-paid-300000-for-autographed-copies-of-donald-trump-jrs-new-book-to-use-as-gifts-to-donors-report-says.md",
-      "title": "The RNC paid $300,000 for autographed copies of Donald Trump Jr.'s new book to use as gifts to donors, report says",
-      "excerpt": "The money spent on Trump Jr.'s new book, \"Liberal Privilege,\" was the largest sum ever spent by the RNC on gift giveaways, The Daily Beast reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12",
-      "originalUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fce25bf037cbd0018614280?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-paid-300k-trump-jr-book-autographed-donors-gift-report-2020-12?amp",
-      "publishedDateTime": "2020-12-07T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-biden-picks-california-attorney-general-xavier-becerra-to-lead-health-and-human-services.md",
-      "title": "Biden picks California Attorney General Xavier Becerra to lead Health and Human Services",
-      "excerpt": "As the nation’s next top health official, Becerra will arguably hold the most consequential Cabinet role at the outset of Biden’s new administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-will-pick-california-attorney-general-xavier-becerra-lead-health-n1250170",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-will-pick-california-attorney-general-xavier-becerra-lead-health-n1250170",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_32/3403124/200808-xavier-becerra-al-1014_ccd4811d1072657f57e99a351f1e4662.jpg",
-          "width": 2500,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250170",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250170",
-      "publishedDateTime": "2020-12-07T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-trump-suggests-joe-biden-will-try-to-take-the-word-christmas-out-of-the-vocabulary.md",
-      "title": "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'",
-      "excerpt": "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fce1adbeadd8400183df6be?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
-      "publishedDateTime": "2020-12-07T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

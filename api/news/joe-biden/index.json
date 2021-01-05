@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-it-is-time-new-york-law-firm-leaders-urge-congress-to-certify-biden-win.md",
+      "title": "'It is time': New York law firm leaders urge Congress to certify Biden win",
+      "excerpt": "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/lawyer-election-petition-idUSL1N2JF2LY",
+      "originalUrl": "https://www.reuters.com/article/lawyer-election-petition-idUSL1N2JF2LY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2JF2LY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF2LY",
+      "publishedDateTime": "2021-01-04T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-and-perdue-elected.md",
       "title": "Joe Biden Says $2,000 Stimulus Checks 'Will Never Get There' if Loeffler and Perdue Elected",
       "excerpt": "\"In America, as our opposition friends are finding out, all power flows from the people,\" President-elect Joe Biden said Monday. \"That's our history. That's our law, that's our tradition, that's our constitution.",
@@ -163,6 +206,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
+      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
+      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-280273/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "publishedDateTime": "2021-01-04T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-two-biden-aides-will-recuse-on-blackrock-issues-as-past-ties-pose-questions.md",
       "title": "Two Biden aides will recuse on BlackRock issues as past ties pose questions",
       "excerpt": "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7.",
@@ -251,63 +351,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.md",
-      "title": "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial",
-      "excerpt": "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "originalUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "publishedDateTime": "2021-01-01T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1538,58 +1581,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-mr-biden-shouldnt-be-the-only-target-for-catholics.md",
-      "title": "Mr. Biden shouldn’t be the only target for Catholics",
-      "excerpt": "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440",
-          "width": 1440,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

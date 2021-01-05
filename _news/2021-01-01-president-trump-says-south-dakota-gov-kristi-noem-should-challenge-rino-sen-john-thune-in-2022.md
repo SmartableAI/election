@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-south-dakota-kristi-noem-rino
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-south-dakota-kristi-noem-rino-john-thune-2022.amp"
 type: article
 quality: 161
-heat: 201
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune"
-    excerpt: "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”"
-    publishedDateTime: 2021-01-01T20:14:00Z
-    webUrl: "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/"
-    ampWebUrl: "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/"
+  - title: "Baier presses Hawley over elector challenge: Are you arguing 'Trump will be president' Jan. 20?"
+    excerpt: "Sen. Josh Hawley, R-Mo., told Fox News Monday night that he intends to challenge slates of electors from a handful of swing states \"to raise the concerns that my constituents have\" about the 2020 presidential election."
+    publishedDateTime: 2021-01-05T02:25:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm-Ny8LMe2E/bret-baier-josh-hawley-elector-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b35a2672-345b-40da-8e02-a17c39c4dd36/5f64718e-370f-4ef4-9f1b-4ff1343125df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Trump says South Dakota Gov. Kristi Noem should challenge 'RINO' Sen. John Thune in 2022"
     excerpt: "Thune drew Trump’s ire in recent days after he criticized the president’s bid to challenge the results of the 2020 presidential election."

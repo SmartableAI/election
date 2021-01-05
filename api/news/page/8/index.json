@@ -2,6 +2,227 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-23-trumps-main-banker-at-deutsche-bank-announces-her-resignation.md",
+      "title": "Trump's main banker at Deutsche Bank announces her resignation",
+      "excerpt": "The president's longstanding contact at the bank, Rosemary Vrablic, will step down on Dec. 31, though the reasons for her departure are unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe265fda644880018193053?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp",
+      "publishedDateTime": "2020-12-22T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-biden-says-cyberattack-happened-on-trumps-watch-when-he-wasnt-watching.md",
+      "title": "Biden says cyberattack happened on ‘Trump’s watch when he wasn’t watching’",
+      "excerpt": "President-elect Joe Biden is placing blame for the serious cyber hack of numerous federal government agencies and major companies on President Trump and pledged that “we will respond” when it’s determined which county is behind the damage.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bt43KxK9EA/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 288,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
+      "publishedDateTime": "2020-12-22T14:07:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-biden-no-obvious-choice-yet-for-attorney-general.md",
+      "title": "Biden: No 'obvious choice' yet for attorney general",
+      "excerpt": "The president-elect also re-upped his commitment to not discuss his son's legal troubles with any AG candidates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "originalUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/0b/63/437fda84437f80dc3d864f2e690d/webp.net-resizeimage%20(48).jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "publishedDateTime": "2020-12-22T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-biden-says-our-darkest-days-in-battling-covid-19-are-ahead-of-us.md",
+      "title": "Biden says 'our darkest days' in battling Covid-19 'are ahead of us'",
+      "excerpt": "President-elect Joe Biden will deliver remarks ahead of Christmas in Wilmington, Delaware, on Tuesday afternoon.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YaoXO6KgJhI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YaoXO6KgJhI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222145820-01-biden-holiday-remarks-1222-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/index.html",
+      "publishedDateTime": "2020-12-22T12:49:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-pence-urges-conservatives-to-stay-in-the-fight-as-our-election-continues.md",
       "title": "Pence urges conservatives 'to stay in the fight' as 'our election' continues",
       "excerpt": "Vice President Mike Pence emphasized on Tuesday that the presidential election “continues.” Speaking in West Palm Beach, Florida at a student action summit organized by Turning Point USA, a major pro-Trump and conservative youth advocacy group, the vice president urged the crowd “to stay in the fight",
@@ -1151,220 +1372,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-biden-looks-to-susan-rice-to-elevate-low-profile-domestic-policy-council.md",
-      "title": "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council",
-      "excerpt": "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg",
-          "width": 2500,
-          "height": 1670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251851",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851",
-      "publishedDateTime": "2020-12-21T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trump-campaign-asks-scotus-to-reverse-decisions-by-pennsylvania-high-court.md",
-      "title": "Trump campaign asks SCOTUS to reverse decisions by Pennsylvania high court",
-      "excerpt": "The Trump campaign on Sunday asked the US Supreme Court to reverse three decisions by the Pennsylvania Supreme Court, claiming there is a “likelihood” they violate the Constitution and",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/",
-      "originalUrl": "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-scotus-pa.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/",
-      "publishedDateTime": "2020-12-20T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trump-attempt-to-overturn-election-is-nutty-and-loopy-romney-says.md",
-      "title": "Trump attempt to overturn election is 'nutty and loopy', Romney says",
-      "excerpt": "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney?ref=newsnetworks-dot-com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7d1d3b375fd2e6f241b830500e10ca3a1128bc06/0_139_4166_2499/master/4166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55712b8160d3857ce3ca12773beb4d92",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney",
-      "publishedDateTime": "2020-12-20T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trump-discussed-naming-sidney-powell-special-counsel-during-white-house-meeting.md",
-      "title": "Trump discussed naming Sidney Powell special counsel during White House meeting",
-      "excerpt": "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251859",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859",
-      "publishedDateTime": "2020-12-20T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

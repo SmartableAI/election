@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says electing Georgia's Ossoff and Warnock would lead to $2,000 stimulus checks"
+    excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
+    publishedDateTime: 2021-01-05T01:53:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104165652-02-biden-georgia-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House"
     excerpt: "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n"
     publishedDateTime: 2020-11-07T01:21:11Z
@@ -271,6 +287,38 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438901/201231-biden-covid-mc-1226_a43e7aacf97da08b35550aea5f0a6e59.JPG"
         width: 2500
         height: 1591
+        isCached: true
+  - title: "Biden rallies crowd ahead of Georgia Senate race"
+    excerpt: "President-elect Joe Biden encouraged the crowd to get out and vote for Jon Ossoff and Rev. Raphael Warnock and questioned why Trump still wants to be president at a campaign rally in Atlanta, Georgia."
+    publishedDateTime: 2021-01-05T01:35:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-rallies-crowd-ahead-of-georgia-senate-race-98785861671"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98785861671"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98785861671"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/BidenRally.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
+    excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."
+    publishedDateTime: 2021-01-05T01:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/black-women-in-georgia-overwhelmingly-voted-for-biden-four-of-them-explain-their-vote-98777157949"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98777157949"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98777157949"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_blackgeorgiavoters_pt_200104_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "SVhUuVGIG9NI9lcVSFmHTNMyuUtDwpNZVkjA7RRxVJSmSheIvLvMrMFRyskOJeyf914hZkYGTkKkZESIEuP5FiQsLh5Xccbjt3oidB4mewiCdep/JIL18iHgsKJ6/gEubKooY8gV5u8lqg9Yds06pmxR298yZPVfamsyBs5Tq8/zl9CQAn0yOzvm0afSOSh4/UX8+SKaG6ZhmeOrc2Nn1YcCvJSDf/LKD9mzCu+aDHRR/m9fqzWFJQKmSxc06Ew/T9DO44O0Hy7c6NJkpbufZWkk9cKTpxSeOgcbWxP+nzVWoXnHQIWMeT3qfZLC9rdp3wkWQFhul5Wycfe/GxtVlDo0EsW58IeQPZtY1DNM5WbDpbvFUSoXH/P+JsKkd2fTLiB6D1cdvi3KHeYs2jiI8jZ6sjaSR23o//23uS8lAWDXttWqseHzTdrYyGtXHmeezBy1znQJgNxntXPXJ875S45fcPbNpIIeoVxkcI8ZiSocxUWZ2eUyc+euGk/Lh65mI1NeKv/FXG8Rr3N95KlkGQ==;DpHAXNlKkv4Wj3v7ncR5GQ=="

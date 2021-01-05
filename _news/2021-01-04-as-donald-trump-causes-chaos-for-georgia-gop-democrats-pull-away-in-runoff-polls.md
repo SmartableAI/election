@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden, Trump warn of high stakes of Georgia Senate runoffs"
+    excerpt: "President-elect Joe Biden on Monday told Georgia Democrats they had the power to “chart the course” for a generation as President Donald Trump rehashed old grievances over his November loss in final pleas ahead of runoff elections that will determine control of the U."
+    publishedDateTime: 2021-01-05T02:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-biden-warn-of-high-stakes-of-georgia-senate-runoffs/2021/01/04/90db826c-4ef0-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-biden-warn-of-high-stakes-of-georgia-senate-runoffs/2021/01/04/90db826c-4ef0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-biden-warn-of-high-stakes-of-georgia-senate-runoffs/2021/01/04/90db826c-4ef0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "GOP split over Trump, election runs across deep-red Wyoming"
     excerpt: "A divide among Republicans over President Donald Trump’s efforts to overturn the election runs prominently through Wyoming"
     publishedDateTime: 2021-01-05T00:48:00Z
@@ -715,6 +731,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Latest: Trump says Georgia stakes ‘could not be higher’"
+    excerpt: "President Donald Trump is urging Republican voters in north Georgia to turn out and vote in Tuesday’s special election that will determine which party controls the U.S. Senate"
+    publishedDateTime: 2021-01-05T02:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-says-georgia-stakes-could-not-be-higher/2021/01/04/c8cb7c5e-4eff-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-says-georgia-stakes-could-not-be-higher/2021/01/04/c8cb7c5e-4eff-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-says-georgia-stakes-could-not-be-higher/2021/01/04/c8cb7c5e-4eff-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "'Truth matters,' says Georgia official resisting Trump pressure"
     excerpt: "Georgia's secretary of state, Brad Raffensperger, says he was just following the law when he rejected claims by Donald Trump, his fellow Republican, that the president's election defeat was the result of widespread fraud."
     publishedDateTime: 2021-01-04T20:57:00Z
@@ -1052,6 +1084,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1696972/donald-trump-air-force-one.jpg"
         width: 2004
         height: 1362
+        isCached: true
+  - title: "Trump traveling to Georgia ahead of Senate runoff that will decide control of Senate"
+    excerpt: "Trump headlines a Georgia rally to campaign for Kelly Loeffler and David Perdue as he fights his own political battles that have splintered the GOP."
+    publishedDateTime: 2021-01-05T02:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/04/donald-trump-stumps-georgia-republicans-senate-runoff/4124475001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124475001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124475001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/82ce36ca-0da7-4d0c-a46c-5201dc8f1ebe-AP20358775512344.jpg?auto=webp&crop=4271,2402,x1,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"

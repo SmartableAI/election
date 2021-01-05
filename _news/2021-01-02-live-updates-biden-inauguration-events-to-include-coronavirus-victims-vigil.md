@@ -32,85 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE UPDATES: Biden electoral win facing challenge from Cruz, other GOP senators"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-03T05:11:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSC38ZpkmNs/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
+  - title: "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'"
+    excerpt: "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake."
+    publishedDateTime: 2021-01-05T01:32:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8fac15-3eba-4222-84a1-b2cfccf5077a/3eee8182-bf6c-49a4-983a-d596073af120/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump says coronavirus vaccine deliveries will start next week"
+    excerpt: "The comments come ahead of a Dec. 10 meeting where FDA regulators will review Pfizer and BioNTech's request for an emergency use authorization for their COVID-19 vaccine."
+    publishedDateTime: 2020-11-27T01:52:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EpFURvqqUk/trump-says-coronavirus-vaccine-deliveries-will-start-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20331826533641.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Bernie Sanders agrees with Trump’s push for more coronavirus stimulus"
+    excerpt: "Sen. Bernie Sanders, I-Vt., backs President Trump's decision to raise stimulus payments and urges Mitch McConnell to get on with a vote."
+    publishedDateTime: 2020-12-31T03:04:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fM4QHqv6BoE/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b370aa-373a-47b2-b50f-22488dcb8bec/b89ffe85-b89f-4280-b0d7-10846e06c8b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hawley says he'll object to Electoral College certification of Biden victory on Jan. 6"
-    excerpt: "Sen. Josh Hawley, R-Mo., on Wednesday became the first Republican senator to publicly say he will object to the certification of the presidential election results when a joint session of Congress meets in one week to formally certify President-elect Joe Biden's 306-232 Electoral College victory over"
-    publishedDateTime: 2020-12-30T17:06:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2s_Uq2On-m4/josh-hawley-to-object-electoral-college-certification-jan-6"
-    ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-to-object-electoral-college-certification-jan-6.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-to-object-electoral-college-certification-jan-6.amp"
+  - title: "Perdue says Trump call with Georgia secretary of state won’t affect runoff"
+    excerpt: "Sen. David Perdue, one of two Republicans in Georgia fighting to keep their seats in a tight runoff election, said Sunday that he doesn't believe President Trump’s leaked phone call with the state's top election official will have any bearing on Tuesday’s election."
+    publishedDateTime: 2021-01-04T09:55:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
+    ampWebUrl: "https://www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Georgia Sens. Loeffler, Perdue back Trump on $2K coronavirus stimulus checks"
+    excerpt: "Georgia GOP incumbent Sens. Kelley Loeffler and David Perdue, who are fighting to keep their seats in special runoff elections next week, voiced support for $2,000 stimulus checks on Tuesday."
+    publishedDateTime: 2020-12-29T17:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eIFJAGR7Vsk/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
+    excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
+    publishedDateTime: 2020-12-28T12:26:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDDzr9WpMvw/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package"
+    ampWebUrl: "https://www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-01T06:51:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
+  - title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
+    excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
+    publishedDateTime: 2021-01-01T10:21:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden's inauguration to include presidential escort, 'virtual parade across America'"
-    excerpt: "Instead of the in-person parade, Biden will receive a traditional presidential escort"
-    publishedDateTime: 2021-01-04T05:04:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACNMe3CSRaY/live-updates-biden-transition-1-4-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+  - title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
+    excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
+    publishedDateTime: 2021-01-01T02:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 118
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcbe096-dc86-4cc3-bb37-dfb266995ac2/b7e07a9e-48e6-4e51-96af-35e853cfbcd7/1280x720/match/image.jpg"
-        width: 1279
-        height: 720
-        isCached: true
-  - title: "GOP Senator Josh Hawley Says He Will Force Votes on Joe Biden’s Win"
-    excerpt: "Republican Sen. Josh Hawley of Missouri cited election-integrity concerns around the November presidential vote. No significant evidence has emerged that would challenge the result."
-    publishedDateTime: 2020-12-31T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-279281/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
 
 secured: "0s2ZYEvxBZzIPgTeVRRVwm7xf0Xv7oQNrgmRt9F/97znR9qDQg2U58O7/apGzqx770Q69vUW3vAt99KEeaj2zn9AyrjhfC70PrL96zreJNYdDNkxr2I6wZtRfqhdpwjJ5syHn1CEqKJfupdjSVUV4bz1zMT9QB56bBh4O7RlAiIwFBH2j7v+qmxXUVZekhmC4DUwlXu3uNXNvtK3wkCkSHWm37g0Jl4xEDECjroDfS0U4u7hE3cFHu3bSljFJA1j9CFzlaubqVyTiHadxJ9IYqmlAzKbtSG6FmBIaArh+2ws6LysRXDznvwFkcptMeVDILRkGb75zycTsUVHHf88DptDsqbzKQfQsuFCiqejIrZX7rFPMc6Gr6lAxvy2Kr5yWaJhjVZltyGeQTe7S7J3QVvTuByW7EKDMtCc0bzHePHN0/mx1WH2zC2yjwTSaPgLdDYmxwsxHuIuVa4BuBlojK2pU1AXYPCsYWRH3IN9JS+6uHgjl4PYDZ/nS88S82NNXmGoOWh2gRKQ+LGUUJvvmQ==;hxPboFcJY1coRP3wDMJLvg=="

@@ -116,6 +116,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden warns of high stakes in Georgia Senate races"
+    excerpt: "President-elect Joe Biden campaigned in Georgia Monday, telling voters at a drive-in rally in Atlanta the \"power is literally in\" their hands to change the course of the nation's future by voting in the crucial Senate runoff elections Tuesday."
+    publishedDateTime: 2021-01-04T23:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/04/biden-warns-high-stakes-georgia-senate-races/4135808001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/17eda677-8794-43d7-8c6d-0dd7c1dcf5e1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
     publishedDateTime: 2020-12-30T00:00:00Z

@@ -31,211 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
-    excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
-    publishedDateTime: 2021-01-03T21:56:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jznNwQcNG_A/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
+  - title: "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'"
+    excerpt: "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake."
+    publishedDateTime: 2021-01-05T01:32:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Perdue on Georgia Senate runoffs: Trump right that 'something untoward' happened in election"
-    excerpt: "Sen. David Perdue, R-Ga., defended President Trump's leaked phone call where he urged Georgia's top election official to \"find\" votes that would flip the state to his column and dismissed the idea that accusations of fraud would dampen Republican turnout in Tuesday's two Senate runoffs."
-    publishedDateTime: 2021-01-04T15:44:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2mo2dC2mNI/perdue-georgia-runoffs-trump-right-untoward-happened-in-election"
-    ampWebUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democratic lawmakers want criminal investigation into Trump call with Georgia election officials"
-    excerpt: "The FBI has confirmed to Fox News that it has received a letter from Reps. Ted Lieu, D-Calif., and Kathleen Rice, D-N.Y., which calls on Director Christopher Wray to open a criminal investigation into President Trump's Jan. 2 phone call with Georgia Secretary of State Brad Raffensperger."
-    publishedDateTime: 2021-01-04T20:29:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OIgiNOhRm7k/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Georgia election official slams Trump claims of widespread voter fraud as 'easily, provably false'"
-    excerpt: "Georgia election official Gabriel Sterling on Monday slammed President Trump for continuing to claim widespread voter fraud in the 2020 presidential election in Georgia, saying that the claims are “easily” and “provably false.”"
-    publishedDateTime: 2021-01-04T21:26:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j47HoeeD6WA/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "LIVE UPDATES: Trump turns his attention to Georgia, announces rally"
-    excerpt: "With the Republican majority up in the air in the Senate, President Trump has scheduled a rally in Georgia in hopes to get Sens. Kelly Loeffler and David Perdue across the finish line."
-    publishedDateTime: 2020-12-28T05:42:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n0o-kPavMnc/live-updates-georgia-senate-12-28-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-28-2020.amp"
+  - title: "Trump says coronavirus vaccine deliveries will start next week"
+    excerpt: "The comments come ahead of a Dec. 10 meeting where FDA regulators will review Pfizer and BioNTech's request for an emergency use authorization for their COVID-19 vaccine."
+    publishedDateTime: 2020-11-27T01:52:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EpFURvqqUk/trump-says-coronavirus-vaccine-deliveries-will-start-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20331826533641.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
-    excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."
-    publishedDateTime: 2021-01-04T13:16:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ketiHyVilo/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
+  - title: "Bernie Sanders agrees with Trump’s push for more coronavirus stimulus"
+    excerpt: "Sen. Bernie Sanders, I-Vt., backs President Trump's decision to raise stimulus payments and urges Mitch McConnell to get on with a vote."
+    publishedDateTime: 2020-12-31T03:04:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fM4QHqv6BoE/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c6fe23-932a-43bf-87f6-0b4ef45fca04/61ca732d-2f3f-4628-a615-73896a80615d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b370aa-373a-47b2-b50f-22488dcb8bec/b89ffe85-b89f-4280-b0d7-10846e06c8b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McCarthy reacts to leaked phone call of Trump pressing Georgia's secretary of state"
-    excerpt: "House Minority Leader Kevin McCarthy told “Fox & Friends” on Monday that “we have to make sure that our elections are accountable, have integrity and are safe.”"
-    publishedDateTime: 2021-01-04T17:52:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/umnCxQRv_S0/mccarthy-leaked-call-trump-georgia-accountability"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
+  - title: "Georgia Sens. Loeffler, Perdue back Trump on $2K coronavirus stimulus checks"
+    excerpt: "Georgia GOP incumbent Sens. Kelley Loeffler and David Perdue, who are fighting to keep their seats in special runoff elections next week, voiced support for $2,000 stimulus checks on Tuesday."
+    publishedDateTime: 2020-12-29T17:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eIFJAGR7Vsk/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump lawyer slams Georgia Secretary of State Raffensperger for 'secretly' recording 'confidential' call"
-    excerpt: "President Trump tried to contact Georgia Secretary of State Brad Raffensperger 18 times before their heated phone call on Saturday in which the president urged him to “find” enough votes to reverse the state’s election results."
-    publishedDateTime: 2021-01-04T20:19:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u64AUfYI-G8/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call.amp"
+  - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
+    excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
+    publishedDateTime: 2020-12-28T12:26:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDDzr9WpMvw/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package"
+    ampWebUrl: "https://www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
-    excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
-    publishedDateTime: 2021-01-03T22:02:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
+  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
+    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
+    publishedDateTime: 2021-01-02T13:44:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 139
+    quality: 132
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88fc2ded-81c9-4336-a246-895a66456f03/1b885760-fc74-440e-b009-55e96837a2e5/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Perdue on Georgia Senate runoffs: Trump right that 'something untoward' happened in election"
-    excerpt: "Ga., defended President Trump's leaked phone call where he urged Georgia's top election official to \"find\" votes that would flip the state to his column and dismissed the idea that accusations of fraud would dampen Republican turnout in Tuesday's two Senate runoffs."
-    publishedDateTime: 2021-01-04T16:00:00Z
-    webUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election"
-    ampWebUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
+  - title: "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial"
+    excerpt: "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration."
+    publishedDateTime: 2021-01-01T10:21:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 139
+    quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Democratic lawmakers want criminal investigation into Trump call with Georgia election officials"
-    excerpt: "The FBI has confirmed to Fox News that it has received a letter from Reps. Ted Lieu, D-Calif., and Kathleen Rice, D-N.Y., which calls on Director Christopher Wray to open a criminal investigation into President Trump's Jan."
-    publishedDateTime: 2021-01-04T20:44:00Z
-    webUrl: "https://www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-ted-lieu-kathleen-rice-trump-call-criminal-investigation.amp"
+  - title: "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'"
+    excerpt: "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office."
+    publishedDateTime: 2021-01-01T02:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 137
+    quality: 118
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg"
         width: 1280
-        height: 719
-        isCached: true
-  - title: "Trump to Hold Rally in Georgia in Support of Senate Republicans"
-    excerpt: "The president will appear at rally in support of incumbent Republican Sens. David Perdue and Kelly Loeffler, one day before the runoff election that will determine control of the U.S. Senate."
-    publishedDateTime: 2020-12-28T04:57:00Z
-    webUrl: "https://www.wsj.com/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-278391/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Watch Live: President Trump Hosts Rally Ahead Of Georgia Runoff"
-    excerpt: "Right Side Broadcasting Network provides coverage from Dalton, GA as President Donald Trump holds a rally for Senator David Perdue and Senator Kelly Loeffler ahead of the January 5 runoff election."
-    publishedDateTime: 2021-01-04T18:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/watch_live_president_trump_hosts_rally_with_loefler_and_perdue_in_georgia.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/48/481900.jpg"
-        width: 500
-        height: 375
+        height: 720
         isCached: true
 
 secured: "jpdLmkEonCS9jaCIqmJzP4zwoITQIz61bV8lQ35xVDkXOTfeXS7Js2bqa29mr1ilLt8I4j4KflLWELmHJbTMMeaXR8Ip6tHWk0aI9KQGeZGe92hF6nuytT2TjSy/D1uQK4gGpLQNXvnF+qlad5wZ99g1lJWiZg5ffu0pdcLG5svAHpus9eNaXPQHVnvR99UEumR5rxtjpuagXj44L5ZkhjAPBLpc5v1WmgEcSs4D/g0ztOAcCqhM6Dcc8Jh8fYi3zQyk9C5p+es3Hh9V/zwCdS2gUCPdYO+VvHVg5LzrzQc8s+3vjVlRmgdS11F7JkZrVlzHTiZrOBywsQpg96tZyXiCfwCVZKTftoLsdoSpzJw=;7iZC6sSmvzWgHHUmrjRjyw=="

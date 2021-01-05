@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-05T00:10:00Z
 originalUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
 webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
 type: article
-quality: 93
+quality: 103
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://i.insider.com/5ff1e02aa18a450018cb68b3?width=1200&format=jpeg"
@@ -742,6 +743,6 @@ related:
         height: 630
         isCached: true
 
-secured: "c/fWt3U0ek9ighTCgnQtUrdViLaTfpjfoWSrxjNYsyfhY2UbRjcaViQludOyQBUbxx8PT73R3h5Y3aNwdNulBtWca1JRSiOr/xK4DHfkMr0pvfy9oJP6WcS/Q0v9gPUtFKMogyc7lgQiV3rZvso+8zaJS9x2YMiDlxE4L5zY1O0hf5GdtVv0gIx7gMbmF/ZNX2KhNigz+1N2mgxLU3JWnn/+k0fKaxLIohgDZW5XJokPCUV0KkD1QodePos0MuV8pbIfKxOv2DZpkEr0Noicbj+BOcVT5O9/UKF6IVAZVF5A61PCKR7JSaPOGnY0IqIIPERu8w0wjiY9cMKdg+7aK9dB26HGQjDJVAn8vs+ZSig=;KQoa/kJy2HOge55S2K7iBw=="
+secured: "QaCoSxGL/rH+5pFpCXEP5/YdrI63y4yiJGaWPKzYuk2bOqe3ZPsgNaUL6PbuG+f//XYgU7Emz2Ny28UafUqmsTW2wo6LBHU2wt3+D+Ze6KDTJkQBArnIZm0oZR7KsmrCZqJH/mLqOBfUufBUF2uD1e/az4RmV330UTUJDAIDY+ai+2O3GIeXLornyj0mVab4g89hM8xTm5G9feETfDRKAc15hRCdEkn3ZI7v1TCx2MzrjuZt+6VWqnsgCfNXcE3bQhqqOD8fxdluZ/tAsagknjkXdMd81RUNhtwZAA1pmH833K3/5yqBs7urnK6xUMkgN5kQA2wWXkP9KDjDJaLoU40WrfNlSQwr+7w90rs1Xw6l4vCLB9g2+e++cdCfE2Zv7g+qlkUP1ma6I+ErZyegbUsvztg+qIRzVcgCfGpnQJrr5CWMHUh0LBau8LpA1sqlXbqZHOwKzpUf+clsbP4YIuKbqR0KHkVSZqHcgCLvz2xJMw/bciU6bvkHFpe7wKOGfZBmeexkm8HFoTm8D73t2w==;HPpsnWXfxEZNmimuGiWwVw=="
 ---
 

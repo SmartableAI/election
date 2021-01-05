@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
 type: article
 quality: 170
-heat: 270
+heat: 250
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://images.wsj.net/im-279281/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
-    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
-    publishedDateTime: 2021-01-02T13:44:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "CeLYHfrKCRKWqfMIoNA6fpjz8nD23clqUJYUbO3EJChiTiUzernIT4twPS2ouQIEv6jSa/X9xNl6W15G+xy59JUOO7TO/Z4fj1LK2g0fRFd9Tq3tif9M5EPVY8Z2+VEHxWu2WFpbx/B3/CvOBPnkaZeRUVMCQ3311msHIqeQ9upGVShKHogXx5mfmMGYbGRSj8NsULhluCr0MzzNqp5DkmComLu2Gs9XQr0O/LGsDMMDwl0p8e5IqX9kag23rICnojiLMVSM2JvTjJjfbtAjBbnb99G20/l2N0W4QROw2gll0y+xtBNJehuaEw1nwM2l3NyGj6Ma7Fy7ZN+PlN6nacIuOgs+h67AFDpyGXw4qN4=;lPYOrBeZ8MQErVQ1aTBuyw=="

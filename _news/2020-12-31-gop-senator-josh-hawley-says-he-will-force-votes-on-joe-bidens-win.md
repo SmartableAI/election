@@ -96,22 +96,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
-    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
-    publishedDateTime: 2021-01-02T13:44:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "JXOQ27LW14P6hQ2NiFiGo0JEYO7JDKXZswT7Tg9/QT/fHu/yQw4Qi5wYAheWEBohnK1ZNV/2gxOjy7vlBPYDqrUnGH6YoS6LwVZp0ZUH3X1rkaDcxBjtUaqDefzFc7j5TSt5dGnXYt4mLtLhcOfMW3lrna4cnnT1YIn367k3GC/k+cwk50Vj/Z8+YYcXh6YFu1pDFKHpL4dGc74e3J4HAZ7JdWeN+DAwv3aBJkLXQiCA5wTqMCopG0mdECApmgOiaKVIdiphdasjs4JAdRj9MvE+f135AXU39siISQ06nHiILaaLQZOMj4NQ0MOx3l1ksK43OWpP4dXmUeHWiq49VaK0820nJUTYs1dV9/pfjlueGFezMdsg16YjWYvn8NX9m6ezNcm6S7ELvSataUBLHL772egZGH5CdcTUAcnRe2g7H8VqAERH4KazMbB3o/s7oKNdUHsAV6JM/RLGty3CTnFs/ae4mkss1PfIaEZOspONxYTHZm4OuO3ZdHfeU8vcoNy5JXQ9dYik2NI6XPWljg==;q91iDgGEN489kgkxkogjlA=="
 ---

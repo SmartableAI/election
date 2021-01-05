@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says electing Georgia's Ossoff and Warnock would lead to $2,000 stimulus checks"
+    excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
+    publishedDateTime: 2021-01-05T01:53:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104165652-02-biden-georgia-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House"
     excerpt: "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n"
     publishedDateTime: 2020-11-07T01:21:11Z
@@ -255,6 +271,22 @@ related:
         width: 2500
         height: 1591
         isCached: true
+  - title: "Biden rallies crowd ahead of Georgia Senate race"
+    excerpt: "President-elect Joe Biden encouraged the crowd to get out and vote for Jon Ossoff and Rev. Raphael Warnock and questioned why Trump still wants to be president at a campaign rally in Atlanta, Georgia."
+    publishedDateTime: 2021-01-05T01:35:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-rallies-crowd-ahead-of-georgia-senate-race-98785861671"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98785861671"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98785861671"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/BidenRally.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
     publishedDateTime: 2021-01-04T03:07:00Z
@@ -270,6 +302,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-biden-inaugural/03dc-biden-inaugural-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
+    excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."
+    publishedDateTime: 2021-01-05T01:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/black-women-in-georgia-overwhelmingly-voted-for-biden-four-of-them-explain-their-vote-98777157949"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98777157949"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98777157949"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_blackgeorgiavoters_pt_200104_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "NuTobBKPci5aqOL7LX/Pd2KGRD7Dn+6gmaJ+G+RHH7NpIAVZmhD/V8pPZ4f2NN906CQaswHGucwZIn4iuNeTgd1upauaPlYfE33lH/23pbh+sUUEKRLeUM7JJhzvtUsY6FQOnqldOMPr/mAmUIWqNe9YothfzZ5At8kjmy55YqcDJifETTJrE0gOBGgneaegLG+WWNONQ90OQcFOtzIMF/uPfSvKSoXVrH27i+lhAu6kt57Jkr67KyuyPxiWTx76whqb1CAfu2WPdzKGUiL9xTQFHGYGvClUzE6OYSDBg4vqnnNT+DmJGnnk/IX14smzYo9WoRlw52X3xpwW/SxlxvpBWzcoGpPR++dPBBujnEA=;fJWHEXnT1F5r7/Od6OXZSg=="

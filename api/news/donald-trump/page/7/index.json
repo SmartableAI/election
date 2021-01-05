@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped.md",
+      "title": "Trump vows defense bill veto unless internet liability shield scrapped",
+      "excerpt": "U.S. President Donald Trump said on Tuesday he would veto the $740 billion National Defense Authorization Act unless it includes a measure eliminating a federal law protecting tech companies such as Facebook and Twitter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1",
+      "originalUrl": "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543139133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB1045",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C0B1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1",
+      "publishedDateTime": "2020-12-02T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
       "title": "Trump is leaving Washington as he governed — chaotically",
       "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
@@ -1510,58 +1562,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-even-trumps-fiercest-critics-say-he-may-have-gotten-some-world-affairs-right.md",
-      "title": "Even Trump's fiercest critics say he may have gotten some world affairs right",
-      "excerpt": "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6353491002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002",
-      "publishedDateTime": "2020-11-24T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

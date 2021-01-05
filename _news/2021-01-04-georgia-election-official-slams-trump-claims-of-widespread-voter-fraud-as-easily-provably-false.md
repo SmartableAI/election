@@ -95,21 +95,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Perdue says Trump call with Georgia secretary of state won’t affect runoff"
-    excerpt: "Sen. David Perdue, one of two Republicans in Georgia fighting to keep their seats in a tight runoff election, said Sunday that he doesn't believe President Trump’s leaked phone call with the state's top election official will have any bearing on Tuesday’s election."
-    publishedDateTime: 2021-01-04T09:55:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JVk40eOUEw/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff"
-    ampWebUrl: "https://www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-says-trump-call-with-georgia-secretary-of-state-wont-affect-runoff.amp"
+  - title: "Ilhan Omar wants Trump impeached over Georgia phone call"
+    excerpt: "Minnesota Democratic Rep. Omar says Trump should be impeached for pressuring Georgia secretary of state to change presidential election result."
+    publishedDateTime: 2021-01-05T02:53:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oBl8F-3jY70/ilhan-omar-trump-impeach-georgia-phone-call"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6ac0651-927c-4978-8c0f-068568396c9f/bc48ade1-91e4-46e6-aebd-b4c10c8327af/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
     excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."

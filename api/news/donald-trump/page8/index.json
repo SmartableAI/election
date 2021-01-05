@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-24-even-trumps-fiercest-critics-say-he-may-have-gotten-some-world-affairs-right.md",
+      "title": "Even Trump's fiercest critics say he may have gotten some world affairs right",
+      "excerpt": "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6353491002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002",
+      "publishedDateTime": "2020-11-24T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-carl-bernstein-says-21-gop-senators-contemptuous-of-trump.md",
       "title": "Carl Bernstein says 21 GOP senators contemptuous of Trump",
       "excerpt": "Veteran Watergate sleuth Carl Bernstein took to Twitter to specifically “out” 21 Republican senators who he says have privately expressed contempt for President Donald Trump",
@@ -1507,58 +1559,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed.md",
-      "title": "Trump Hasn't Conceded Georgia. Neither Did Stacey Abrams. What Changed?",
-      "excerpt": "The president's refusal to acknowledge defeat isn't the first time Georgia voters have heard that, but state officials say claims about impropriety — past and present — are false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed",
-      "originalUrl": "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/11/17/ap_18311261907480_wide-a715561dfb6fb6116b6286b6d7a030c834c9da09.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

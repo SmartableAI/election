@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
+      "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
+      "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "originalUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "publishedDateTime": "2020-12-12T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-pro-trump-demonstrators-gather-saturday-in-washington.md",
       "title": "Pro-Trump demonstrators gather Saturday in Washington",
       "excerpt": "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,",
@@ -1536,58 +1593,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-republican-lawmaker-says-the-gop-under-trump-is-advocating-for-crap-he-never-couldve-predicted.md",
-      "title": "Republican lawmaker says the GOP under Trump is 'advocating for crap' he never could've predicted",
-      "excerpt": "Illinois Rep. Adam Kinzinger said he'd like to see the GOP take a less divisive tone moving forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12",
-      "originalUrl": "https://www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fce85f6037cbd00186144f9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kinzinger-gop-under-trump-is-advocating-for-crap-2020-12?amp",
-      "publishedDateTime": "2020-12-07T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

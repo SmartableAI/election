@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-baier-presses-hawley-over-elector-challenge-are-you-arguing-trump-will-be-president-jan-20.md",
+      "title": "Baier presses Hawley over elector challenge: Are you arguing 'Trump will be president' Jan. 20?",
+      "excerpt": "Sen. Josh Hawley, R-Mo., told Fox News Monday night that he intends to challenge slates of electors from a handful of swing states \"to raise the concerns that my constituents have\" about the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm-Ny8LMe2E/bret-baier-josh-hawley-elector-challenge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm-Ny8LMe2E/bret-baier-josh-hawley-elector-challenge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b35a2672-345b-40da-8e02-a17c39c4dd36/5f64718e-370f-4ef4-9f1b-4ff1343125df/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bret-baier-josh-hawley-elector-challenge.amp",
+      "publishedDateTime": "2021-01-04T18:25:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-biden-trump-coronavirus-vaccine-rollout-is-off-to-a-god-awful-start.md",
+      "title": "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'",
+      "excerpt": "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "publishedDateTime": "2021-01-04T17:32:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-biden-dni-pick-avril-haines-raises-eyebrows-with-previous-job-at-bookstore-known-for-erotica-readings.md",
       "title": "Biden DNI pick Avril Haines raises eyebrows with previous job at bookstore known for erotica readings",
       "excerpt": "Long before she was nominated by President-elect Joe Biden to oversee the nation’s intelligence apparatus, Avril Haines co-owned an independent bookstore that hosted “erotica nights.”",
@@ -171,6 +283,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
+      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
+      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-280273/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
+      "publishedDateTime": "2021-01-04T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-trump-urged-georgia-election-official-to-find-votes-in-phone-call-insisting-he-won-report.md",
       "title": "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report",
       "excerpt": "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results.",
@@ -287,7 +456,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 270,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -491,25 +660,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-president-trump-says-south-dakota-gov-kristi-noem-should-challenge-rino-sen-john-thune-in-2022.md",
-      "title": "President Trump says South Dakota Gov. Kristi Noem should challenge 'RINO' Sen. John Thune in 2022",
-      "excerpt": "Thune drew Trump’s ire in recent days after he criticized the president’s bid to challenge the results of the 2020 presidential election.",
+      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
+      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
+      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iWukDvtiizw/trump-south-dakota-kristi-noem-rino-john-thune-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iWukDvtiizw/trump-south-dakota-kristi-noem-rino-john-thune-2022",
+      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 201,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb5e7ef-c511-4f9e-8b7f-01b5b52267da/5c3f2a9d-56e0-4a81-b6dc-dc0d26de28c6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -517,23 +686,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-south-dakota-kristi-noem-rino-john-thune-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-south-dakota-kristi-noem-rino-john-thune-2022.amp",
-      "publishedDateTime": "2021-01-01T14:38:51-08:00",
+      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "publishedDateTime": "2021-01-01T12:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -543,6 +703,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -600,120 +761,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.md",
-      "title": "Biden inauguration events to include coronavirus victims vigil at Lincoln Memorial",
-      "excerpt": "President-elect Joe Biden’s plans to include a lighting ceremony honoring the more than 341,000 Americans who have died from the coronavirus as part of the events leading up to his inauguration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "originalUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bf71ec4-e4ed-482c-90f6-1e943bb2fea5/c680625c-3173-4cf3-a5df-0ac883270f26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-events-to-include-coronavirus-victims-vigil-at-lincoln-memorial.amp",
-      "publishedDateTime": "2021-01-01T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-extends-restrictions-on-work-visas-says-coronavirus-pandemic-still-disrupts-american-livelihoods.md",
-      "title": "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'",
-      "excerpt": "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "originalUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "publishedDateTime": "2020-12-31T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1518,7 +1565,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1592,62 +1639,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp",
       "publishedDateTime": "2020-12-28T14:57:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-tennessee-governor-expects-trump-to-sign-emergency-declaration-request-were-very-grateful.md",
-      "title": "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'",
-      "excerpt": "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
-      "publishedDateTime": "2020-12-28T10:20:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

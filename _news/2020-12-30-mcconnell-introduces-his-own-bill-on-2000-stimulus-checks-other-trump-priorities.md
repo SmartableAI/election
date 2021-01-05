@@ -45,22 +45,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Bernie Sanders agrees with Trump’s push for more coronavirus stimulus"
-    excerpt: "Sen. Bernie Sanders, I-Vt., backs President Trump's decision to raise stimulus payments and urges Mitch McConnell to get on with a vote."
-    publishedDateTime: 2020-12-31T03:04:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fM4QHqv6BoE/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b370aa-373a-47b2-b50f-22488dcb8bec/b89ffe85-b89f-4280-b0d7-10846e06c8b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Lindsey Graham backs Trump over McConnell on $2,000 checks"
     excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
     publishedDateTime: 2021-01-02T00:34:32Z
@@ -76,22 +60,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Georgia Sens. Loeffler, Perdue back Trump on $2K coronavirus stimulus checks"
-    excerpt: "Georgia GOP incumbent Sens. Kelley Loeffler and David Perdue, who are fighting to keep their seats in special runoff elections next week, voiced support for $2,000 stimulus checks on Tuesday."
-    publishedDateTime: 2020-12-29T17:24:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eIFJAGR7Vsk/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sens-loeffler-perdue-support-2k-coronavirus-stimulus-checks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
     excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
@@ -140,22 +108,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
-    excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
-    publishedDateTime: 2020-12-28T12:26:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDDzr9WpMvw/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package"
-    ampWebUrl: "https://www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Sanders calls Trump delay on relief bill 'cruel,' while agreeing with push for $2,000 payments"
     excerpt: "House Speaker Nancy Pelosi said she would force a vote Monday on increasing payments to Americans in a coronavirus relief bill from $600 to $2,000 after President Trump urged lawmakers to do so, but Sen. Bernie Sanders, I-Vt., offered sharp opposition to the president's decision to not automatically"

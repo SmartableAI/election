@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-trump-to-approve-land-swap-for-rio-tintos-resolution-copper-project-us-forest-service.md",
+      "title": "Trump to approve land swap for Rio Tinto's Resolution Copper project: U.S. Forest Service",
+      "excerpt": "U.S. President Donald Trump's outgoing administration plans to approve a controversial land swap needed for Rio Tinto Ltd and partners to build an Arizona copper project that Native American tribes say will destroy sites of cultural and religious value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN2992GT",
+      "originalUrl": "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN2992GT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546595834&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH03189",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2992GT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992GT",
+      "publishedDateTime": "2021-01-04T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-trump-rewarding-allies-nunes-jordan-with-medal-of-freedom.md",
       "title": "Trump rewarding allies Nunes, Jordan with Medal of Freedom",
       "excerpt": "President Donald Trump is set to present one of the nation’s highest civilian honors to two of his most outspoken congressional allies, California Rep. Devin Nunes and Ohio Rep. Jim Jordan",
@@ -62,7 +114,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 340,
       "tags": null,
       "images": [
         {
@@ -218,7 +270,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2355,
+      "heat": 2415,
       "tags": null,
       "images": [
         {
@@ -1041,6 +1093,54 @@
       ]
     },
     {
+      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
+      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
+      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "publishedDateTime": "2021-01-01T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020.md",
       "title": "Fact check: President Trump spent Thanksgiving with troops in Afghanistan in 2019, not 2020",
       "excerpt": "Social media users having been sharing posts that claim President Donald Trump spent Thanksgiving 2020 with troops in Bagram, Afghanistan, not playing golf. This claim is false: the photo of Trump in Bagram is from 2019.",
@@ -1410,63 +1510,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-trump-extends-restrictions-on-work-visas-says-coronavirus-pandemic-still-disrupts-american-livelihoods.md",
-      "title": "Trump extends restrictions on work visas, says coronavirus pandemic still disrupts 'American livelihoods'",
-      "excerpt": "The order will now expire at the end of March, extending into President-elect Joe Biden’s first term in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "originalUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21c61f7e-efbd-4fa6-afea-c095980aa956/4eac7bfe-96e7-4176-b642-db1d63cfba5d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-restrictions-work-visas-coronavirus.amp",
-      "publishedDateTime": "2020-12-31T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-amid-election-turmoil-caused-by-trump-chief-justice-roberts-lauds-judiciary-for-pandemic-response.md",
       "title": "Amid election turmoil caused by Trump, Chief Justice Roberts lauds judiciary for pandemic response",
       "excerpt": "Roberts notably avoided any mention of the judiciary's other historic challenges caused in large part by President Donald Trump, his frequent nemesis.",
@@ -1499,58 +1542,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-can-donald-trump-pass-2000-stimulus-checks-by-executive-order.md",
-      "title": "Can Donald Trump Pass $2,000 Stimulus Checks by Executive Order?",
-      "excerpt": "With a standalone bill that would allow $2,000 stimulus checks apparently dead in the Senate, could President Donald Trump sign an executive order that would allow the higher direct payments to reach Americans?",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386",
-      "originalUrl": "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1696668/could-trump-sign-exec-order-stimulus-checks.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1",
-      "publishedDateTime": "2020-12-31T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
