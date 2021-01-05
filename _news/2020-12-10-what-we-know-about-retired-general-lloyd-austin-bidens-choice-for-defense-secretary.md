@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin
 webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-lloyd-austin-defense-secretary/"
 type: article
 quality: 98
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department."
-    excerpt: "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress."
-    publishedDateTime: 2020-12-08T12:10:00Z
-    webUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "RIFo9FlUCUjXAdEivLYMuVFGGTc4CxDz9HbOcoYmCXgBXY5dT1tsLFNH6vlinR9vTpyT0fKSmUlvXIAbmK3sXk77TaL2XSC9LYQhAsTJuRn5Vc05AnhgSHOvLhE9rg1BvnKdF0lrpdD5PEPXyEtKpUr1RaTI5fUveRzoWALAQsP5OaM3lUmo1PpZH7UVgFHDZgaYsRL9T+ixqzVpUub4dytXwmJKEqBXJ60EX+qpAvL1hQbvIddYR5l5KZks1WBkFd64eR5ljO0b+OgVDWHL7m81OIqEU+exIZZyiIRZl3ThExhTcyXsmqDA8wrh6qI7P9v4Q/3Salo2bzMvLJas8ceg6Kkg5nLOqN3DwB+QY+v+SGU+ki7OkfJeTFHUrvMlZF1VbYHBvetn+P+yLb/JvliABDM9/opNy9Ixy5XWi4fOAEAVlxT0wsWObJ/Ayo5z8VJWePD5GXlxSYwTlsk/nP9iuyxMw4NErtoOLDBxksqR6ZW0ufGI1Sfw8aOjH95woylV+eOPUQRclAt8AV3umw==;zQ+h0bP6cTokyno++d0HUA=="
 ---

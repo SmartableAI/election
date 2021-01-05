@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/video/politics/biden-tells-georgia-
 webUrl: "https://www.washingtonpost.com/video/politics/biden-tells-georgia-voters-the-power-is-literally-in-your-hands/2021/01/04/599bac06-be61-4e8f-aded-f70d78c1b5d7_video.html"
 type: article
 quality: 105
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -27,6 +27,24 @@ images:
     width: 1484
     height: 988
     isCached: true
+
+related:
+  - title: "'One state can chart the course': Biden rallies in Georgia on eve of Senate runoffs"
+    excerpt: "President-elect speaks at Atlanta rally alongside Democratic candidates Jon Ossoff and the Rev Raphael Warnock"
+    publishedDateTime: 2021-01-05T08:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/ff660c0bf5f9e314ad581ab5f09ccf159f026916/0_169_5083_3050/master/5083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=495cdcf4a59e96a0b43afc9340c2cf00"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "CGMqZd6QIEUZsCvwcFyXxEK1GPD/xLNADw9qbCHR+PvSTd8zubgN5q5UmFuBzV37FxSX0x+3TSdtnrxt5nzKbum8mscq6DNKQdJQLWtlppKQOGq8JUfBsPmAjE5J5FkdrfPbom3COnTOWDUrL9ui5whwpSQZwuTMdt84UKc38/5LMGK8OY9QjPhsUvMqHj/DJFDBNH7eGfrngAxMREjVtdHhsgM3J2TIoPM/TE3mgmhmT8C7Sjlt2YyzpbBCY62NaaKBRc/OaO5j+O912qu4HXkq3J7e/MRqGChANayTw1DkRXTmU0YzphE6OTlxZYhf05HwrnFd6UHWRnlzISkwON35wwF9hQFP/F5cEnaConKTHhSLeHdKbVDLq7XPOCdu+UsDcm1TWS2gyIiAV9AiPaJt2rWokMAN+DAS3NdVdNz6pq7RmGJh2cy4rxZd6QObwdLikh3UDtK1JxPsrslIrIJXiicpfoxkPIfvBayHkJzSdNt5ON9eL/lPkux1SxG6F8FmuRCfqXWJ3Gd+lnGiWw==;3IUJCpuluE9Bci3PCF0z9w=="
 ---

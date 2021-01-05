@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-requested-keys-new-off
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman.amp"
 type: article
 quality: 155
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden in 2017 sent 'best wishes' from 'entire Biden family' to China firm chairman, requested $10M wire"
-    excerpt: "Correspondence between Hunter Biden and CEFC Chairman Ye Jianming from 2017 shows President-elect Joe Biden's son extending \"best wishes from the entire Biden family,\" and urging the chairman to \"quickly\" send a $10 million wire to \"properly fund and operate\" the Biden joint venture with the now-bankrupt"
-    publishedDateTime: 2020-12-16T18:06:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/waJQnMuWSmU/hunter-biden-letter-chinese-cefc-chairman-wire-request"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-letter-chinese-cefc-chairman-wire-request.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-letter-chinese-cefc-chairman-wire-request.amp"
+  - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
+    excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration. "
+    publishedDateTime: 2020-12-09T17:51:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-Ytu-zVj6k/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US-China tensions worsen with Hunter Biden, Eric Swalwell revelations: GOP lawmakers"
+    excerpt: "The clouds over Hunter Biden, whose business dealings in China were investigated by two GOP committee chairs in the Senate, and Rep. Eric Swalwell, D-Calif., raise fresh questions about how the United States will confront one of its top strategic foes in 2021 and beyond."
+    publishedDateTime: 2020-12-11T17:51:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fC0ZKskQ6lE/china-hunter-biden-eric-swalwell-beirelationship-beijing"
+    ampWebUrl: "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Obama-biden-hunter-SAI-sharpen.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Tom Cotton says senators 'across the spectrum' have reservations about Biden's defense secretary pick"
+    excerpt: "Army combat veteran Sen. Tom Cotton on Tuesday explained his “reservations” with President-elect Joe Biden’s expected choice to serve as secretary of defense in his administration."
+    publishedDateTime: 2020-12-08T14:20:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3DvMfAxxJw/tom-cotton-reservations-biden-secretary-defense-lloyd-austin"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
+    excerpt: "Rep. Eric Swalwell, D-Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
+    publishedDateTime: 2020-12-09T01:29:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pN2xhiSbIRU/eric-swalwell-chinese-spy-influx-of-russians"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
+    excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration."
+    publishedDateTime: 2020-12-09T18:03:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US-China tensions worsen with Hunter Biden, Eric Swalwell revelations: GOP lawmakers"
+    excerpt: "The clouds over Hunter Biden, whose business dealings in China were investigated by two GOP committee chairs in the Senate, and Rep. Eric Swalwell, D-Calif., raise fresh questions about how the United States will confront one of its top strategic foes in 2021 and beyond."
+    publishedDateTime: 2020-12-11T18:06:00Z
+    webUrl: "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing"
+    ampWebUrl: "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Obama-biden-hunter-SAI-sharpen.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'"
+    excerpt: "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-17T02:33:00Z
+    webUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government"
+    ampWebUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f108777-fca7-4218-961c-c6c4cda89d2d/6f3bdca7-7016-446a-b879-59f4abb555f7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
+    excerpt: "Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
+    publishedDateTime: 2020-12-10T11:19:00Z
+    webUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "pz9HHTn5ZFysKfWUOzLjQ1oqlnS4pfic+fZdCstE5+mpzybT17OOUdCXhVYLzwRciycC7eNu2g+fxPHsW3K10Ngfhikcz5OkJ8qK+yFbQmmYoPk7kLIeZSh86klvLJzyYS3TLYK8AoC2NF1hsGs3zjpTreigx7F5OuOCq6LrS5qt0d+5ZZYQpWJ5911To/iXOqR0Bv1diS/+Ln0RZhFW+zkGljF+3QixoH2BuQcfcd7tLoZD2Xn6EQbuVgdSyhSlXg+C9yyllQFiPsj6tyyoZZtRhw+aGshWhamhvpm2cAZUYQGyZ1stFvlMFoIEifXWby/uyLDzYjPdtOVvIyEfCZJjPYbpXg2vAdE8WrUBwhc=;bsjlFNG3nYjjxizrX9Nz+g=="

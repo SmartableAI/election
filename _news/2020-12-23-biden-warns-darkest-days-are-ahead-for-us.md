@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-
 webUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden warns \"darkest days\" of pandemic are still ahead"
+    excerpt: "President-elect Joe Biden warned that tens of thousands of more lives will be lost due to COVID-19, even with a vaccine. Nikole Killion reports."
+    publishedDateTime: 2020-12-23T00:39:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-warns-darkest-days-of-pandemic-are-still-ahead/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/eaa54dae-b3bb-4ee1-8a5a-2f3334df0a6e/thumbnail/1200x630/faca699237f4f387d8d9553e78c1b755/20201222-en-killion-replace-614816-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden: 'Darkest days in the battle against Covid are ahead'"
     excerpt: "Mr Biden, who is due to be sworn in next month, has made the fight against the virus a priority and promised to distribute 100m vaccine shots in his first 100 days in office. Biden: 'Darkest days' ahead in fight against Covid."
     publishedDateTime: 2020-12-23T01:54:00Z

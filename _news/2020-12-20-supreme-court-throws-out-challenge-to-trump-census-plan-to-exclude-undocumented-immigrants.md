@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
+    excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
+    publishedDateTime: 2020-12-12T18:36:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count"
     excerpt: "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n"
     publishedDateTime: 2020-12-18T16:23:22Z
@@ -47,6 +63,36 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
+    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
+    publishedDateTime: 2020-12-15T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Gingrich among Trump loyalists named to Pentagon advisory board"
+    excerpt: "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,"
+    publishedDateTime: 2020-12-14T18:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "+ke0n4oAtZcYjKJog2Cc1Ktcjq5EjGj+Ve0fOT5S3a2ADqIx43h6PwOBixZzg7UAlmSjzI9pQwQ4ttC31A8n66lxj0HM9TWfDgTraQV0uznuldHOehtt2Go/YZBdqF5D04ZcyvmFmUQf/g8KaUEgfDrLTrEq1/BpEsINSGQ/RWSeK4gXkexdS/RxcWCK8HJgKXKeubz7YHPdDbO9iQTvNxTHbNtnhjnjBO/bAi4lBQGpiGW/fcXtZ6Uz/1ZBhqKid8D/uFqIARR9EV/kBs0f7FFc48Z3MmsB9lrf5zDVVWTczrl0ayBhNoZseSNG8srteJAYLjCDcj7BH42L0yaJ6rQ7H82VQE9hQXv1Z54v2qoMm93L6dkrHFKfmRCaAfeSAayg3A/siYSdjN1teLLKM8EaDRzYeTas2bub5tBWNEouzLTbh2bCcgHspODIzx04RtpsFpWgErjUjMI8ZIi3+ZqeR1RNDCfh1GLzEC8hS2kskOerfkwmpI5nswMeR3TxShCqdXLPViu3lAZxsnHKoQ==;LEZV6erntqdxc9BGktJHTg=="

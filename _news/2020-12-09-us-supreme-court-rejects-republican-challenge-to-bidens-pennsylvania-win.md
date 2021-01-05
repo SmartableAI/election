@@ -31,12 +31,44 @@ images:
     isCached: true
 
 related:
-  - title: "In court, Giuliani argues to block Biden win in Pennsylvania"
-    excerpt: "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e"
-    publishedDateTime: 2020-11-18T01:28:00Z
-    webUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "US Supreme Court asked to block Biden win in Pennsylvania"
+    excerpt: "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st"
+    publishedDateTime: 2020-12-02T13:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
+    excerpt: "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States."
+    publishedDateTime: 2020-12-02T20:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Supreme Court again asked to block Biden win in Pennsylvania"
+    excerpt: "Fresh off another rejection in Pennsylvania’s courts, Republicans are again asking the U.S. Supreme Court to undo President-elect Joe Biden’s victory in the battleground state"
+    publishedDateTime: 2020-12-04T00:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/supreme-court-again-asked-to-block-biden-win-in-pennsylvania/2020/12/03/61143a0a-35c4-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/supreme-court-again-asked-to-block-biden-win-in-pennsylvania/2020/12/03/61143a0a-35c4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/supreme-court-again-asked-to-block-biden-win-in-pennsylvania/2020/12/03/61143a0a-35c4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -47,37 +79,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
-    excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
-    publishedDateTime: 2020-11-07T00:57:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
+  - title: "Pennsylvania lawmaker learns of positive COVID-19 test while meeting with Trump: source"
+    excerpt: "A Pennsylvania state senator abruptly left a meeting with President Trump after being told he was positive for the coronavirus, a source told AP."
+    publishedDateTime: 2020-12-01T07:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/30/trump-meeting-pa-lawmaker-mastriano-told-he-has-covid-report/6461577002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6461577002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6461577002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
-        width: 846
-        height: 545
-        isCached: true
-  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
-    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
-    publishedDateTime: 2020-12-09T12:36:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/30/USAT/c13c2134-3d9a-42a8-93cc-895d30d08dd1-AP20312766885485.jpg?auto=webp&crop=5268,2964,x0,y268&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
     excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
@@ -95,93 +111,32 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Computer repairman who claimed he gave Hunter Biden data to Giuliani closes shop as laptop saga gets stranger"
-    excerpt: "Computer repairman John Paul Mac Isaac, who gave a copy of the laptop to Rudy Giuliani, shuttered his Delaware store and a neighbor said he left town."
-    publishedDateTime: 2020-11-25T00:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/24/hunter-biden-laptop-more-details-emerge-rudy-giuliani/6404635002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6404635002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6404635002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/PWIL/dad49b08-774b-4bbb-b6bf-6e14faa8ad9b-Mac_shop.jpeg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden takes lead in Pennsylvania and Georgia, moves closer to win"
-    excerpt: "If Democratic presidential nominee Joe Biden wins Pennsylvania, the race is over. Biden's lead is also growing in Georgia, as absentee ballots are counted. Major Garrett takes a closer look."
-    publishedDateTime: 2020-11-06T23:56:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden takes the lead in Pennsylvania and Georgia"
-    excerpt: "President Trump's path to 270 continues to narrow as more election results come in. Former Vice President Joe Biden now leads the president in both Pennsylvania and Georgia. \"Face the Nation\" moderator Margaret Brennan joined CBSN's Lana Zak to discuss that and more."
-    publishedDateTime: 2020-11-07T05:11:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-takes-lead-in-pennsylvania-and-georgia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/60ae7f65-176e-46d9-a5dd-2831854f8ffd/thumbnail/1200x630/2e33e3d31d7c951051b6894dc930ccb8/cbsn-fusion-joe-biden-overtakes-president-trump-in-pennsylvania-and-georgia-thumbnail-583017-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What put Biden over the edge in Pennsylvania"
-    excerpt: "Watch \"What put Biden over the edge in Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-07T20:37:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201107200245-what-put-biden-over-the-edge-in-pennsylvania/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07595815_1604781064.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
-    excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
-    publishedDateTime: 2020-11-06T01:06:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/05/uvas-larry-sabato-trend-is-very-favorable-to-joe-biden-in-pennsylvania.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
-    excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
-    publishedDateTime: 2020-11-18T08:31:00Z
-    webUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+  - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
+    excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 104
+    quality: 105
+  - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
+    excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
+    publishedDateTime: 2020-12-05T02:52:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
     images:
-      - url: "https://i.insider.com/5fb451bfee44e7001ac113d8?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/xvHs5DmNU-TWtuQsIVRcbg-B8P0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7CW27NKDBAWFFLEC2ZWZKZBJ4.aspx"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "/GtkDHDb1wlPBeQdYkTarbr4zB41FByGR8+oEI5q0XsAfiLu4HVoyfp2cSsaS8SfXeUbf+NPkl5W4knEl4HJ+srDHRY1FWPrHBTT0eyTDHfDqnAHFjg5H5aAsRlWFNouiLmTQXwKnuKavTmryEXg2ivTmfX8379x/D0FLeym5isRwkpZatupCTig+gHh1p5YC8GtQkdN8Yjo5oiuJM/qGAvH8tYbkhEJVzrLchVWgHYNEA7suuywxwNnVKrVCGLPqip8nSqw19NoMbZrV6j6sGI0rLK6BuYfR4FFIWP1Py7qURZhhXOEVI/aFQMm/JnZ4jH/acMz8wATYy3whYMTAlXTcAU3jXMQA4NQBQCMJDI=;Do/y0lvxm3xA8ZMoPH7aag=="

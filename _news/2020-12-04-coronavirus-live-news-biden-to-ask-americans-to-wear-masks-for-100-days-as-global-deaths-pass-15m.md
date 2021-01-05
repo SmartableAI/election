@@ -31,37 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden"
-    excerpt: "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider."
-    publishedDateTime: 2020-12-02T08:11:00Z
-    webUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5fc6cfb5037cbd00186133de?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump admin set to approve Arizona land swap for mine opposed by Native Americans"
-    excerpt: "U.S. President Donald Trump's outgoing administration is set to approve a controversial land swap later this month that would give Rio Tinto Ltd and partners more than 2,400 acres (9.7 square kilometers) to build an Arizona copper mine,"
-    publishedDateTime: 2020-12-07T06:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H0FW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H0FW"
+  - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
+    excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
+    publishedDateTime: 2020-12-07T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-stimulus-idUKKBN28H2SR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2SR"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 116
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543651036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB608F"
-        width: 818
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543740708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61KL"
+        width: 754
         height: 545
+        isCached: true
+  - title: "Biden to Americans: we need your help"
+    excerpt: "Watch \"Biden to Americans: we need your help; president-elect outlines pandemic plan which include mask wearing and vaccine distribution\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120554-biden-to-americans-we-need-your-help-president-elect-outlines-pandemic-plan-which-include-mask-wearing-and-vaccine-distribution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040589_1607515744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
+    publishedDateTime: 2020-12-11T19:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
+    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
+    publishedDateTime: 2020-12-07T01:53:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
+    ampWebUrl: "https://amp.freep.com/amp/3776655001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 677
         isCached: true
 
 secured: "jwJEcd/FWDiNimzcUNtFZtCirMe2dXtcdb43aNbbCKT0oz4lajezFxFkmAi6Lfa19HeLcnWTxxeSi1l84ukPUZYs1fMwY633AY+/DU5n8HVBIMva6ub3slL8LZKUfTg1uloS6QMxfcH0dZiSVgyR25en+p7E/ea++hNwEoNxluVOUI2eAy1+V8SsKNA6FlQLSEdXQPAtc+fXrVvPFrpGq5mjWL/QHu29sJX0pHqFFc93cO/PEc4cI/kslgHYgGy4EjHNnhkybVqBMde0GhZo8VOvC04HDDwbYGZ/SpPnBOIN7UcTmUZ7rFe3nYZe3+FI0L3vXTqTnRfRwUOhw6Lz4he1L7IbtGpRULbYwl3aN9s=;q1LkAr+B1UOzhfHsiFoxhA=="

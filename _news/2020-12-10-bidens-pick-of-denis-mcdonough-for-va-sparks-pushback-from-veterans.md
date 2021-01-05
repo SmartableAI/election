@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-pick-of-denis-mcdonough-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Susan Rice tapped to lead Biden's Domestic Policy Council, Denis McDonough picked for VA secretary"
+    excerpt: "President-elect Joe Biden announced Thursday that he has selected former Obama adviser and envoy Susan Rice to lead the White House Domestic Policy Council."
+    publishedDateTime: 2020-12-10T15:47:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LszaglA27Dg/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "HuAQ+jLDruKZSL0eOjUzcaq5cnLsC0J7U6EaaeYpFdv9rK6p/V0Ndv91/K0hOCZwhTFyp5TB7ReW7jmPtVuc2LJQNEgCb7YON7du3NdpEioAGwf9qG+QidFoV6V5P3o67HkoB/Ul121Qz06vgKeL+qssgI/HoyO+3A183Leu/OJ8x3sw4hXSzgagftcSxvOuaSJZ+Xgijr3+stp6IKqwfB5RRSMrH7hzRPIab2tE0iCqIKHRApAVKsBu6J23wuqGItLDE/AkJEPpNilo4lmrh3LuXtElq9kOtd518YspQ0b74pJu1BhBpI6aQGUVQuB3e1e+Myz3Uq5BziSQJJ2v0LDNWeB5sQvEf1pc3pA0/oY=;XuDEG1YEP9wFNg8d6k2G5A=="
 ---

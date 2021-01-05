@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns "
-    excerpt: "President Donald Trump found himself trapped in an election riddle of his own making Friday -- continuing to push false claims that the election was a \"total scam,\" even after another humiliating court rebuke in Pennsylvania, while insisting that his supporters should turn out in Georgia's January Senate"
-    publishedDateTime: 2020-11-28T05:15:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAwCxnu1PRg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 177
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Republicans brace for Trump rally in Georgia ahead of January runoffs"
     excerpt: "Georgia Republicans are increasingly worried about President Donald Trump's rally on Saturday for the two Senate runoff races, as some brace for a tirade to overturn his loss that could hurt the party's effort to keep control of the chamber.\n    \n"
     publishedDateTime: 2020-12-03T12:21:15Z
@@ -127,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
-    excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
-    publishedDateTime: 2020-11-28T21:00:00Z
-    webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 138
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Full Panel: Trump continues false voter fraud claims during Georgia rally"
     excerpt: "Steve Kornacki, Kimberly Atkins, Jeff Mason and Danielle Pletka join the Meet the Press roundtable to discuss President Trump's campaign rally in Georgia."
     publishedDateTime: 2020-12-06T14:53:00Z
@@ -174,20 +142,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3433631/201205-donald-trump-rally-cs-749p_246d6139e50fc8dc90585101a6d0abd3.jpg"
         width: 2500
         height: 1554
-        isCached: true
-  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
-    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
-    publishedDateTime: 2020-11-30T09:44:00Z
-    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "w44eN5f4QJAria+0Wt7+/VUmD6uO+1Gl5/EeDqdxcxKnmFXVmnfIIrgJgCC6RJ5KJDRhMbOFN7Rvh/TJctaroPcSlaGNrZUuWcbmK95AgSdt1JU/id45XIHKvvPQ06PRjGaPUrydygZZlLFls6/NqTPp9kLssWZSaFtPnLRfO/kgKqsPh18vdljJRAOLxOkv2dpKsPKeHcjb+oghxWMZ29JwSAhwT33doTgE/Nr4n9CuKouadr7xDPM2tLsscavAhcY8HKIzYTdk/9GsUC3NPHybFShwtPR/YYU/2xs/bXdGIlCpeNCn5RZh5hKNl5RBgBFOx5IPy3Lsftlb1/gXHLpRWOp+wTHWSHkmeICBCRk=;gKTEG1977P1DUGcb7YSqsQ=="

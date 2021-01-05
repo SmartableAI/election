@@ -64,36 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
-    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
-    publishedDateTime: 2020-12-11T11:47:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 151
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Questions linger over the Left's plot against Donald Trump"
-    excerpt: "For four years, we listened to unsupported allegations of a conspiracy by a foreign government to interfere with our presidential election, that Russia stole the election of 2016, implanting their Russian asset,"
-    publishedDateTime: 2020-12-13T20:18:00Z
-    webUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa6e2aad-22e4-4178-829c-91ad2bdc3551/a0090242-6ca2-4a14-b839-6834909e9e14/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "WRKcDZo/eV3ff5wF+EQ0mmyuYZ8bWAcm8vynjh1HNPYRe/4UTBUjbZ0kcTmjGrojnr/aWjWT9q/2KZza0xdB1SRMickXC1HinRrM9WjA3uvfbuMUmoguPC9Uwf/fuJKyqJGXQ8gGYpTChvVdKzjZarByyMRgJ01lM2huPp0fJWJR8H4W/0Y5PGHV10ktlNN6rAHlQfxvRvbifQKhc7MbEfZPOCNLhFsMy+jpaTqxdSUbMwoIlIVCsizCjkMnyI5QPOJuTQaURbaW+56A9tSFLrMVyndJo5kWCazm1GQtIjRGyw4E09no4fCXcdoSUHSEqw2NrROPed+mAozyL1aZxd3URuurF4GjVlWi6tBisBE=;bmn2s5CWYljq/np/qMSg2Q=="
 ---

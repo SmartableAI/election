@@ -103,6 +103,22 @@ related:
         width: 662
         height: 545
         isCached: true
+  - title: "Explainer: Can anything stop Trump from pardoning his family or even himself?"
+    excerpt: "President Donald Trump on Wednesday granted pardons to his former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions from U.S. Special Counsel Robert Mueller’s investigation into Russian meddling in the 2016"
+    publishedDateTime: 2020-12-25T01:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28Y1XK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545733467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN13O"
+        width: 871
+        height: 545
+        isCached: true
   - title: "Trump pardon of Blackwater Iraq contractors violates international law - U.N."
     excerpt: "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday."
     publishedDateTime: 2020-12-30T20:21:00Z

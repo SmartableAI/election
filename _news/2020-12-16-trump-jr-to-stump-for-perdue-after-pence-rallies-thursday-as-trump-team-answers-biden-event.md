@@ -33,19 +33,67 @@ images:
     isCached: true
 
 related:
-  - title: "Pence to get coronavirus vaccine Friday, Biden next week"
-    excerpt: "President Trump said over the weekend that he thought White House staff should receive doses later in the program."
-    publishedDateTime: 2020-12-17T01:06:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HungcgET-zU/pence-covid-vaccine-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-covid-vaccine-biden.amp"
+  - title: "Time magazine names Biden, Harris its Person of the Year in profile fiercely critical of Trump"
+    excerpt: ""
+    publishedDateTime: 2020-12-11T05:01:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAhFnJT1EBA/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 200
+    quality: 203
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5327fed2-2d29-49e8-8409-9d29fe5c919d/2ed3c092-0c27-4836-922d-aecc7730ce5c/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:05:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 202
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "LIVE UPDATES: Trump 'surprised' some congressional Republicans think Biden won election"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-12-06T05:41:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5a8soicvt8/trump-surprised-congressional-republicans-biden-won-election-12-6-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aaca5c8c-b769-4449-8d7c-92a7aaddc214/9f4dff36-6ba0-49e0-b71b-19d2d47e6c91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris"
+    excerpt: "Former top aide to Harris resigned after settling a sexual harassment case."
+    publishedDateTime: 2020-12-08T02:26:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 196
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -65,504 +113,612 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden coronavirus team to include Rick Bright, ousted HHS official"
-    excerpt: "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday."
-    publishedDateTime: 2020-11-09T12:25:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
+  - title: "Biden burned in bid to follow Trump playbook"
+    excerpt: "Biden's secretary of Defense pick Lloyd Austin would need the same kind of waiver from Congress James Mattis got."
+    publishedDateTime: 2020-12-08T20:13:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_82qxXiQ2MU/biden-burned-in-bid-to-follow-trump-playbook"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Hunter Biden news raises stakes for A.G. pick"
-    excerpt: "Biden's biggest test is still ahead."
-    publishedDateTime: 2020-12-10T20:38:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vn9eUhlPggs/hunter-biden-news-raises-stakes-for-a-g-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-news-raises-stakes-for-a-g-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden urges Americans to have ‘confidence’ in new COVID vaccine"
-    excerpt: "President-elect Joe Biden says Americans “should have confidence” in a new coronavirus vaccine produced by the drug maker Pfizer that could be imminently approved by the U.S. Food and Drug Administration (FDA) for immediate use."
-    publishedDateTime: 2020-12-11T22:53:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sHi1tTu8kzM/biden-urges-americans-to-have-confidence-in-new-covid-vaccine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-to-have-confidence-in-new-covid-vaccine.amp"
+  - title: "Trump slams lack of media coverage of Hunter Biden"
+    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won. "
+    publishedDateTime: 2020-12-11T18:32:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VavpxlwzfM/trump-slams-media-coverage-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
         isCached: true
-  - title: "BLM doesn't want Biden to consider LA mayor to join administration"
-    excerpt: "Black Lives Matter supporters on Tuesday protested for the 22nd consecutive day outside the residence of Los Angeles Mayor Eric Garcetti to demand that his name be dropped from consideration for a Cabinet pick within Joe Biden’s administration."
-    publishedDateTime: 2020-12-15T20:59:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lOTMaa-bE8A/blm-protests-outside-la-mayor-garcetti-home-biden-admin"
-    ampWebUrl: "https://www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-protests-outside-la-mayor-garcetti-home-biden-admin.amp"
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:11:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GojdMbZs3UE/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 188
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc00411e-37d4-453b-b1d8-e57fe5cc7500/16f94411-373d-4d7c-b1d2-cc050a5e12f0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to publicly get coronavirus vaccine on Monday"
-    excerpt: "President-elect Joe Biden will publicly receive the COVID-19 vaccine on Monday."
-    publishedDateTime: 2020-12-18T19:32:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OwnYk6cJnH8/biden-publicly-coronavirus-vaccine-shot-monday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-publicly-coronavirus-vaccine-shot-monday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Reporters grow frustrated as Biden team refuses questions"
-    excerpt: "The Biden transition team faced no questions from journalists about Hunter Biden in its weekly briefing Friday, and they only allowed a limited number of reporters to speak. "
-    publishedDateTime: 2020-12-18T20:24:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRfbRihXgFY/biden-team-refuses-questions-hunter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-refuses-questions-hunter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Joe-Hunter-Biden-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Biden to get coronavirus vaccine in public Monday"
-    excerpt: "Follow for the latest updates on the Biden transition."
-    publishedDateTime: 2020-12-19T05:51:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p8DxFs_rlpI/live-updates-biden-coronavirus-vaccine-12-19-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-coronavirus-vaccine-12-19-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c25d3d8-c458-41d5-8b1b-54ea2eca9a77/a243a863-d350-4cc0-96e7-ec93d56db16a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden receives COVID-19 vaccination"
-    excerpt: "President-elect Joe Biden on Monday publicly took the newly approved coronavirus vaccine."
-    publishedDateTime: 2020-12-21T20:32:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h1XrzFWlC3k/biden-receives-covid-19-vaccination"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-receives-covid-19-vaccination.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-receives-covid-19-vaccination.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "7 things Joe Biden promised to do his first day in office"
-    excerpt: "President-elect Joe Biden has peddled “day one” promises far and wide throughout his campaign. Here’s what he said is on his agenda for Jan. 20, Inauguration Day"
-    publishedDateTime: 2020-12-23T21:53:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uTb4rUBSRJQ/7-things-biden-promised-first-day-in-office"
-    ampWebUrl: "https://www.foxnews.com/politics/7-things-biden-promised-first-day-in-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/7-things-biden-promised-first-day-in-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democratic Party to choose new chair day after Biden inauguration"
-    excerpt: "The Democratic National Committee (DNC) will formally choose its new chair the day after President-elect Joe Biden is inaugurated."
-    publishedDateTime: 2020-12-23T16:54:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z2eVWVmYxzw/democratic-party-chair-election-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-party-chair-election-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-party-chair-election-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "On coronavirus masks, Biden and Christie see eye to eye"
-    excerpt: "It’s pretty obvious that former New Jersey Gov. Chris Christie and President-elect Joe Biden probably don’t agree on many political issues, but when it comes to wearing masks to help prevent the spread of the coronavirus pandemic, they’re in sync."
-    publishedDateTime: 2020-12-30T19:11:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J4wWBtNQ9KM/biden-christie-coronavirus-masks"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-christie-coronavirus-masks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-christie-coronavirus-masks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
-    excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
-    publishedDateTime: 2020-11-29T20:25:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333787581360.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
-    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19. "
-    publishedDateTime: 2020-12-15T22:08:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AmeFXjlv_8w/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-06T23:23:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Mifn6ZHwF8/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 187
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says coronavirus will be first, second & third priority come Jan. 20"
-    excerpt: "President-elect Joe Biden said on Wednesday that the coronavirus pandemic will be his “first priority, the second priority, and the third priority” once he takes over the White House next month."
-    publishedDateTime: 2020-12-25T01:56:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzbQGGESdXo/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-coronavirus-will-be-first-second-and-third-priority-once-taking-office.amp"
+  - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
+    excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
+    publishedDateTime: 2020-12-14T16:45:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 186
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20358633091199.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump: Coronavirus vaccine would have taken 'five years' if I wasn't president"
-    excerpt: "President Trump said finding a coronavirus vaccine would have taken \"five years\" if he weren't president during an interview that aired Sunday."
-    publishedDateTime: 2020-12-13T13:35:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nO8omASb0DA/trump-coronavirus-vaccine-pfizer-biontech-timeline"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-pfizer-biontech-timeline.amp"
+  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
+    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch.\""
+    publishedDateTime: 2020-12-17T15:56:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-PCiaPqoNA/trump-hunter-biden-special-prosecutor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 186
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335157446144.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden’s 3-part plan to tackle the coronavirus: Masks, vaccinations, opening schools"
-    excerpt: "President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington, Delaware as he formally unveiled his team of top health officials, emphasized “masking, vaccinations, opening"
-    publishedDateTime: 2020-12-08T20:45:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFWSWUVnHL0/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden urges taking coronavirus vaccine, wearing masks but says they shouldn’t be mandatory"
-    excerpt: "Biden urges taking coronavirus vaccine and wearing masks but says they shouldn’t be mandatory"
-    publishedDateTime: 2020-12-04T22:30:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjteyxVDXNc/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
+  - title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
+    excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
+    publishedDateTime: 2020-12-05T22:51:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 181
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-4.jpg"
+        width: 339
+        height: 226
         isCached: true
-  - title: "Biden White House pick tests positive for COVID after attending event with president-elect"
-    excerpt: "Biden's campaign said the president-elect was not in close contact with Richmond this week."
-    publishedDateTime: 2020-12-17T23:57:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3poxjXc7lg/biden-white-house-positive-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-positive-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-positive-covid.amp"
+  - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
+    excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
+    publishedDateTime: 2020-12-16T13:37:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjIq4H_lGM4/trump-potential-special-counsel-hunter-biden-barr-resignation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df8f4632-4ac8-4f68-8edb-476828874608/ce0c337a-b8c1-4f66-896a-2d2458e61119/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Reporter tests positive for coronavirus after covering Biden in Georgia, transition office says"
-    excerpt: "A member of the press who traveled with President-elect Biden on Tuesday tested positive for the coronavirus on Wednesday, according to Biden's transition team."
-    publishedDateTime: 2020-12-17T11:25:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d2ONUXUGFDY/reporter-tests-positive-for-coronavirus-after-covering-biden-georgia"
-    ampWebUrl: "https://www.foxnews.com/politics/reporter-tests-positive-for-coronavirus-after-covering-biden-georgia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reporter-tests-positive-for-coronavirus-after-covering-biden-georgia.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
+    quality: 178
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's pick for education secretary is a major proponent of reopening schools amid coronavirus"
-    excerpt: "President-elect Biden chose a Connecticut education commissioner and longtime public school teacher, Miguel Cardona, to serve as his education secretary."
-    publishedDateTime: 2020-12-22T22:16:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RNgGtoi-CQM/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-education-secretary-proponent-reopening-schools-amid-coronavirus.amp"
+  - title: "Biden changes his story on Bin Laden raid -- again"
+    excerpt: "President-elect Joe Biden came under fire earlier this year for denying his opposition to the 2011 raid that killed Usama bin Laden after previously claiming that he advised then-President Obama against it. "
+    publishedDateTime: 2020-12-07T00:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VUmhWXUtvkE/biden-bin-laden-raid-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Miguel-Cardona-AP.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76c0eaf-5096-4a0a-bb3c-7fc7db46132a/9941afad-0e5a-4e96-985a-d38d9e65ff99/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Many Republicans Now Say Joe Biden Is President-Elect"
-    excerpt: "The affirmation came as state electors made Joe Biden’s electoral victory official."
-    publishedDateTime: 2020-12-15T08:12:00Z
-    webUrl: "https://www.wsj.com/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
-    ampWebUrl: "https://www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-republicans-now-say-joe-biden-is-president-elect-11608001929"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-273450/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Joe Biden’s 5 Tech Priorities"
-    excerpt: "The incoming administration faces decisions about which Trump-era policies to continue and fresh challenges of its own."
-    publishedDateTime: 2020-12-19T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-5-tech-priorities-11608354009?mod=latest_headlines"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-5-tech-priorities-11608354009"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-274805/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Joe Biden Receives Covid-19 Vaccine in Public to Reassure Its Safety"
-    excerpt: "The president-elect received the Covid-19 vaccine Monday in a televised appearance from a Delaware hospital in which he encouraged the public to get vaccinated."
-    publishedDateTime: 2020-12-22T02:40:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-276349/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
-    excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
-    publishedDateTime: 2020-12-09T10:42:00Z
-    webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
-    ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3N4_V-Ux3Ro/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 134
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's HHS pick Becerra sued the Trump admin more than 100 times as California AG: Here are some of his cases"
+    excerpt: "California Attorney General Xavier Becerra, who President-elect Biden announced Monday will be his nominee for Health and Human Services secretary, has been one of the most litigious attorneys general against the president in recent years, actively pursuing progressive policies in the courts more than"
+    publishedDateTime: 2020-12-07T18:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/31TXyMW0NuY/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "NAACP meets with Biden, Harris, pushes for 'civil rights envoy' to spearhead racial justice reforms"
+    excerpt: "The National Association for the Advancement of Colored People (NAACP), met with President-elect Joe Biden and Vice President-elect Kamala Harris Tuesday and pushed him to create a new \"civil rights envoy\" position in the White House to carry out a racial justice agenda. "
+    publishedDateTime: 2020-12-09T01:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSZnjrApf0/naacp-biden-harris-racial-justice-reform"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20343756001816.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
+    excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
+    publishedDateTime: 2020-12-13T06:14:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-272735/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Pursues Appointing Special Counsel to Probe Election, Hunter Biden"
+    excerpt: "The president has expressed frustration with Attorney General William Barr as efforts to overturn the election have repeatedly failed."
+    publishedDateTime: 2020-12-12T08:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 164
+    images:
+      - url: "https://images.wsj.net/im-271974/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
+    publishedDateTime: 2020-12-15T15:52:00Z
+    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
+    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 162
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:12:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
+    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
+    publishedDateTime: 2020-12-10T02:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-270768/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Seventeen states, Trump join Texas SCOTUS suit to toss Biden electors"
+    excerpt: "Seventeen states on Wednesday filed a brief with the Supreme Court siding with a Texas lawsuit against four battleground states Joe Biden won — charging that they acted"
+    publishedDateTime: 2020-12-09T22:21:00Z
+    webUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/"
+    ampWebUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Ken-Paxton2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden, Trump, Fauci among Time's finalists for Person of the Year"
+    excerpt: "Time magazine unveiled its 2020 Person of the Year finalists on Thursday, with President Donald Trump, President-elect Joe Biden, the “movement for racial justice” and frontline healthcare workers including Dr."
+    publishedDateTime: 2020-12-10T20:06:00Z
+    webUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year"
+    ampWebUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Biden-Trump.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden urges Americans to sit out inauguration to stop spread of coronavirus"
-    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the festivities will be heavily pared down and urged supporters not to come to the White House to prevent the spread of COVID-19."
-    publishedDateTime: 2020-12-15T22:25:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planners-urge-americans-to-sit-out-inauguration-to-stop-spread-of-covid-19.amp"
+  - title: "Trump critic Richard Painter calls for Hunter Biden special counsel"
+    excerpt: "One of President Trump’s harshest critics has jumped on the bandwagon that’s calling for a special counsel to investigate President-elect Joe Biden’s son."
+    publishedDateTime: 2020-12-11T18:22:00Z
+    webUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/"
+    ampWebUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Richard-Painter-special-counsel-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump slams lack of media coverage of Hunter Biden"
+    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won."
+    publishedDateTime: 2020-12-11T18:44:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 133
+    quality: 150
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
         isCached: true
-  - title: "Joe Biden Receives the Coronavirus Vaccine in Public at a Delaware Hospital"
-    excerpt: "The president-elect received the Covid-19 vaccine Monday in a televised appearance from a Delaware hospital in which he encouraged the public to get vaccinated."
-    publishedDateTime: 2020-12-21T20:58:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369?mod=politics_lead_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-receives-the-coronavirus-vaccine-in-public-at-a-delaware-hospital-11608583369"
+  - title: "Kellyanne Conway: ‘It Looks like Joe Biden and Kamala Harris will prevail’"
+    excerpt: "Kellyanne Conway says the party is probably over for her former boss and that Joe Biden and Kamala Harris will likely be moving into the White House in January. “The president wants to exhaust all"
+    publishedDateTime: 2020-12-05T13:44:00Z
+    webUrl: "https://nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/"
+    ampWebUrl: "https://nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 133
+      name: New York Post
+      domain: nypost.com
+    quality: 148
     images:
-      - url: "https://images.wsj.net/im-276349/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201205-kellyanne-conway-biden-wins.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "LIVE UPDATES: Reporter who traveled with Biden tests positive for coronavirus"
-    excerpt: "Biden is expected to be vaccinated as soon as next week. Follow below for more coronavirus updates. Mobile users click here."
-    publishedDateTime: 2020-12-17T05:56:00Z
-    webUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020"
-    ampWebUrl: "https://www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/live-updates-coronavirus-12-17-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c47b41-ab45-4ceb-965d-6139ddfe1269/a37e3859-6ec2-4112-a949-9a375f243314/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Panel Accuses Trump Administration of Concealing Evidence in CDC Coronavirus Probe"
-    excerpt: "A senior CDC official told House oversight subcommittee staff that she was instructed to delete an Aug. 8 email that showed a political appointee tried to meddle in a key report, according to a letter from Rep."
-    publishedDateTime: 2020-12-10T20:30:00Z
-    webUrl: "https://www.wsj.com/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 126
-    images:
-      - url: "https://images.wsj.net/im-271252/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump signs 2-day stopgap bill allowing Congress more time to negotiate coronavirus relief"
-    excerpt: "Congress looked to avert a government shutdown for the second time in a week by passing a two-day stopgap funding bill to allow lawmakers more time to agree on a COVID relief bill."
-    publishedDateTime: 2020-12-19T11:40:00Z
-    webUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-averts-government-shutdown-stopgap-bill.amp"
+  - title: "Liberal media ‘snuffed out' Hunter Biden coverage until after election to help defeat Trump, critics say"
+    excerpt: "The liberal mainstream media largely ignored the ongoing Hunter Biden scandal until after his father won the presidential election and media watchdogs feel it was a strategic move by the liberal media to help Joe Biden defeat President Trump."
+    publishedDateTime: 2020-12-10T16:27:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 125
+    quality: 148
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Chris Rock calls on Joe Biden to create 'Supreme Court of Science' to handle any crisis like the coronavirus"
-    excerpt: "Chris Rock called on President-elect Joe Biden to institute a fourth branch of government dedicated to science in order to combat another crisis like the coronavirus pandemic in a bipartisan way."
-    publishedDateTime: 2020-12-10T13:31:00Z
-    webUrl: "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chris-rock-joe-biden-supreme-court-science-crisis-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chris-Rock.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/tapper-cnn.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Religious Freedom Is at Risk in a Biden Administration"
-    excerpt: "Liberal voices across the country have claimed victory in the presidential race and have begun laying the framework for a Joe Biden administration. It should come as no surprise that these plans are broad in scope and radical in intent."
-    publishedDateTime: 2020-12-13T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/11/religious_freedom_is_at_risk_in_a_biden_administration_531161.html"
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump-Era Tax Rule Benefiting Some Multinationals May Get Revised Under Biden"
+    excerpt: "A regulation that cut the tax bills of companies such as Philip Morris and Sealed Air could be poised for reversal in 2021 as the Biden administration tries to deliver on its campaign promise to raise taxes on corporations."
+    publishedDateTime: 2020-12-07T10:44:00Z
+    webUrl: "https://www.wsj.com/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 147
+    images:
+      - url: "https://images.wsj.net/im-268013/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-07T00:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Iran will reportedly hike oil production if Biden eases sanctions Trump imposed"
+    excerpt: "President Hassan Rouhani was quoted in state media saying that before President Trump exited the Iranian nuclear deal in 2018 and reimposed crippling sanctions the Islamic Republic had exported"
+    publishedDateTime: 2020-12-06T14:09:00Z
+    webUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/"
+    ampWebUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/iran-oil-biden-comments.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
+    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
+    publishedDateTime: 2020-12-17T16:10:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump keeps denouncing election as Biden transition grinds on"
+    excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."
+    publishedDateTime: 2020-12-08T12:56:00Z
+    webUrl: "https://www.foxnews.com/media/trump-keeps-denouncing-election-as-biden-transition-grinds-on"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris' brother-in-law floated for attorney general"
+    excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
+    publishedDateTime: 2020-12-03T11:06:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris Names Senior White House Staff"
+    excerpt: "The vice president-elect selected three women to serve in top roles on her team."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.wsj.com/articles/harris-names-senior-white-house-staff-11607008158"
+    ampWebUrl: "https://www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-267711/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:59:00Z
+    webUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
+    excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
+    publishedDateTime: 2020-12-16T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/do-over-biden-clinches-columnists-left-and-right-dump-on-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/8daf5c9f-Trump-Biden-Recent-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Republicans Backing Trump Fraud Claims Even As Biden Wins Electoral College"
+    excerpt: "If tens of millions of Republicans believe Joe Biden is an illegitimate president--Trump actually used that phrase--it could well damage his administration. And at a deeper level, if much of one political party believes an election is being stolen--and next time it could be the Democrats--that seriously damages democracy."
+    publishedDateTime: 2020-12-15T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/republicans-backing-trump-fraud-claims-even-as-biden-wins-electoral-college"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/BIDEN-TRUMP-SBS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
+    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
+    publishedDateTime: 2020-12-11T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
-  - title: "Time to Call in a Special Counsel on Hunter & Joe Biden"
-    excerpt: "Now that the election is over and it is safe for the media to cover the Hunter Biden scandal they ignored when The Post broke the story in October, things in Washington are getting back to normal. … Trump should expend every option possible to expose how the election was"
-    publishedDateTime: 2020-12-13T19:18:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/12/time_to_call_in_a_special_counsel_on_hunter_amp_joe_biden_531273.html"
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/526544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
+    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
+    publishedDateTime: 2020-12-13T15:51:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/529627.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Donald Trump Is Not a Political Genius"
+    excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
+    publishedDateTime: 2020-12-05T13:23:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/05/donald_trump_is_not_a_political_genius_530753.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Expect Big Things From Harris as Vice President"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-08T12:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Zero good options to replace Kamala Harris"
+    excerpt: "With Kamala Harris set to become vice president come January, Gov. Gavin Newsom must decide with whom to fill California's Senate vacancy — only the second in nearly three decades. In the bluest state in the union,"
+    publishedDateTime: 2020-12-08T13:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/zero-good-options-to-replace-kamala-harris"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/55fa6e1/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F8d%2F2b%2F08b10149421da82926aba0c29760%2Fgavin-newsom-gop.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AS3d06sT0+/IBhDZUp6MEJpXc3sk2DwCOFdkEAFaiZ13ovoA3iB7xSSSK0PCyJC3CvnrJ7W0I2WinXosOWYxMXc4dwR10HIfHWgLhXPvJNZhpAC8l5MZMcmTOtnrB+ac/xzTzPbaCHJo4XbTz3fCeCJa8tD7n7PRFz+FFEsz0ELotOh2D7bDHK8iyGdYfVSXgRm0yOFsK61hTcSvBISOijXL3I5QfUfUsJ5cJRJfEnPWDojbU7gHiv+o3CJ4I6/W+yJBxqhn7ny4tgsRoxt3BwL1P6LI5jI6ZTSjWcoGmbEzXQLKlzm85bAmqjfiSpNh/Yv/Lh7Z77bNfU/xxe/NOsScZvvp/zKRvolHzPexi+27EkG+JO8mKbpWKzSXjrLLUUAf0VeAd7RGGRmRPSo5fWTDZ8gQrJ+2xJTM8w+7h0G5POrpzLvb2wGat0NeaO7sTbKsyy8D4/F9lx2F2lnG0NHmhqG/j2E2cTev2edUt6+lQeafTAFZD+IyIpHXQTYWpENOjUIBn52jCNqW25cgjA==;+M5e7x84i5lIYyKhdX+WBA=="
 ---

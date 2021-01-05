@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
-    excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
-    publishedDateTime: 2020-12-05T22:30:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+  - title: "AOC 'Squad' member says hearing of these two possible Biden Cabinet picks 'makes my skin crawl'"
+    excerpt: "Congressman-elect Jamaal Bowman, D-N.Y., on Thursday said he was satisfied with some of President-elect Joe Biden’s Cabinet picks, but others made his “skin crawl.”  "
+    publishedDateTime: 2020-12-03T20:21:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yw0TqvxuaD0/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57210d5f-358a-4ff8-acbe-abaf067e07f8/a94f5a55-e631-4532-af94-215a01db6a60/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/476505cb-4144-4900-9013-5dafd7429c20/6aac77d4-37a1-453b-8d1f-88f467a26d48/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

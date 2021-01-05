@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
-    excerpt: ""
-    publishedDateTime: 2020-12-28T09:55:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
     excerpt: ""
     publishedDateTime: 2020-12-24T09:48:17Z
@@ -112,21 +96,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'Growing body of evidence' that COVID-19 leak from Chinese lab a 'credible possibility,' Trump official claims"
-    excerpt: "Deputy National Security Adviser Matthew Pottinger made the claim in a virtual conference call with British lawmakers."
-    publishedDateTime: 2021-01-05T00:29:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vPKaCMhv1yA/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims"
-    ampWebUrl: "https://www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/growing-body-of-evidence-coronavirus-leaked-from-chinese-lab-top-trump-official-claims.amp"
+  - title: "Trump says Moderna COVID-19 vaccine distribution will start 'immediately,' signals to Europe vaccines to come"
+    excerpt: "President Trump on Friday said distribution of the Moderna vaccine will start \"immediately\" after it was \"overwhelmingly approved\" this week, while signaling to European nations that have been \"hit hard\" that coronavirus vaccines would be \"on their way\" to them, as well."
+    publishedDateTime: 2020-12-18T13:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mHqCzc-cOj0/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f03e09b3-650c-4fb5-9d3f-171e055fea2b/a5c1edae-c5a0-4caa-813e-9e6533b35597/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
     excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
@@ -159,6 +143,22 @@ related:
       - url: "https://images.wsj.net/im-207060/social"
         width: 1281
         height: 670
+        isCached: true
+  - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
+    excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
+    publishedDateTime: 2020-12-22T18:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-274855/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump says ‘good news’ is coming on COVID-19 relief bill"
     excerpt: "President Trump on Sunday said “good news” was forthcoming on the $900 billion coronavirus relief bill which he has been refusing to sign. “Good news on Covid Relief Bill."
@@ -208,29 +208,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
-    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
-    publishedDateTime: 2020-12-25T08:29:00Z
-    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 98
-    images:
-      - url: "https://images.wsj.net/im-278216/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump's Stuning Achievement in Middle East"
-    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
-    publishedDateTime: 2020-12-30T12:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "vuowfdXaNkpBildmZQNtNdI13aGSrvEhsL3nqS65SHKvLA5AVAPZXCR78xrjr6PQ7ZuFFdFGRRhTQ+zmJJ0Eal0W4wmhG0TWq4Z7K99ounSOe4mf1kMHDPAy0ww3SLGdWuZNP5pG1eejuwP7Ci9PV1S3XpZS4Bk6lEyQWNd3WidefC7ET2apddWGAJsGcdP7LKTSwb/eEPx2txkwGGqqWhaa+E1g5zEx4BYqegzVcHUkrWHPCE1lvd+G7+94Ji72VQa6CfmtafSWWLWU8hQl5mBJ4okKEdwemwQT0OpZjpPqkEybqoj59OCnj3YXzO6jF6xTxyiSAM41pSD9N7mu9kXdAJsDebbkTjWzcXZ6bASFuxKL6iKVjhHmbsPhKE07UcsN2L55ZL/b/b2LHPhcvdRrTKyvQ3N0G9MngWXWsxPCReBwDmzdPT6cGVJ32WsaO7/0ulQ85ChsyNS0qPGhO98QCczUIY/zArBz9wTidKFgu57OuMm8D32xkLClUiU+0RQ6eFkS4l7htExFIB/Bqw==;2kaYGRUZKGy8u5916HfpBw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 245
+published: true
 
 provider:
   name: Washington Post
@@ -31,85 +31,96 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden to nominate Antony Blinken as US secretary of state"
-    excerpt: "Veteran diplomat may be named as early as Tuesday, with Linda Thomas-Greenfield to be ambassador to UN"
-    publishedDateTime: 2020-11-23T08:58:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state"
+  - title: "Biden to nominate California AG Xavier Becerra for health secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday."
+    publishedDateTime: 2020-12-07T00:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0YM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0YM"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/f17e33141fb0b3e732ceab4f761965273fe4c5ea/10_333_3870_2323/master/3870.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ee21c729a60f195ad4bb1abc03ef977"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543627983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50MF"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden sprains ankle while playing with his dog Major, office says"
-    excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
-    publishedDateTime: 2020-11-29T23:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
+  - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
+    excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
+    publishedDateTime: 2020-12-03T01:10:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden picks Janet Yellen as first woman Treasury secretary, tapping former Fed chair to help rescue economy"
-    excerpt: "Biden chose Janet Yellen to become Treasury secretary, tapping her to guide his efforts to steer the pandemic-hit economy out of crisis."
-    publishedDateTime: 2020-11-23T22:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/23/biden-picks-alejandro-mayorkas-first-latino-head-homeland-security/6392845002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6392845002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6392845002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/920b6a85-b0ba-4fad-8081-a8faa3fa72aa-Yellen.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden to nominate Avril Haines as next director of national intelligence; she would be the first woman to hold the position"
-    excerpt: "Haines, a lawyer by training, held senior national security roles in the Obama administration, including as the No. 2 at CIA."
-    publishedDateTime: 2020-11-23T23:15:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 99
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BVSY3BNWQI6XHOWFUAXTGAXDE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE3GLGRVAMI6XDJYNLVBVWZYHE.jpg&w=1440"
         width: 1440
-        height: 978
+        height: 1011
         isCached: true
-  - title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
-    excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."
-    publishedDateTime: 2020-11-26T04:12:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6423813002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6423813002"
+  - title: "Retired Army Gen. Lloyd Austin is Biden's pick for defense secretary: Sources"
+    excerpt: "President-elect Joe Biden is expected to name retired Army Gen. Lloyd Austin to lead the Defense Department, four sources familiar with Biden's plans told ABC News."
+    publishedDateTime: 2020-12-08T01:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 66
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/bacfa0f3-f1c4-465f-8bb6-c532c5f612f3-GTY_1194927451.JPG?auto=webp&crop=5374,3023,x0,y362&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/general-lloyd-austin-03-gty-jt-201207_1607386547864_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
+    excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
+    publishedDateTime: 2020-12-06T23:54:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 120
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden picks Calif. AG to be first Latino health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+    publishedDateTime: 2020-12-07T11:14:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Joe Biden to name Gen. Lloyd Austin as defense secretary, reports say"
+    excerpt: "Austin, a retired four-star general from Alabama, would be the first Black secretary of defense should he be confirmed by the Senate."
+    publishedDateTime: 2020-12-07T23:36:00Z
+    webUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OTIKEDVUXBEYNEQC4QTIU6FNJA.jpg"
+        width: 720
+        height: 413
         isCached: true
 
 secured: "VuSJGjTp+N891HqXCmE5kCJoHvTBv+EATLvwf+iaHzqYbgwnxcbv1fMJCSYzg1oWh0s4aIgXWdSk86g2fBv8iS2fpxnVuwHOAFKCI9X/TUkNIKlUZ74QMjxaI/RccmYOPPia3ihqXYOWOx/Kqxf4i8ARWaNMXjOTlF8eY7DqUGrazGTk8h0jI7YmWUCRJY5ksBsbDVxY0LSeO6pbsUTifCgwThUfXUmwwzTGv5af4uAWA2sWNJTcU2zuTqSgnPtOwjbPGFRSYQIAHoS/eITQa99iey6Kq4ZBM0F7swV/RbXTjZLU++lHXowzfocsoQZUo1eKKEJeAAKXy2TeUWA7GCGQwmTyL0ZI+QFLabAsoF8=;RPei9XqO1qfCSFerZ53u9Q=="

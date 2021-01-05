@@ -47,38 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
-    excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
-    publishedDateTime: 2020-12-16T13:37:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjIq4H_lGM4/trump-potential-special-counsel-hunter-biden-barr-resignation"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
-    excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
-    publishedDateTime: 2020-12-24T14:07:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
-    ampWebUrl: "https://www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
     excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
     publishedDateTime: 2020-12-29T02:52:29Z
@@ -127,38 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
-    excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
-    publishedDateTime: 2020-12-15T14:49:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p51jS2evj3M/facebook-twitter-biden-campaign-donations-censorship"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "KT McFarland: Trump's Abraham Accords are so significant, even 'a Biden admin can't screw it up'"
-    excerpt: "The U.S. brokered Abraham Accords which have made great strides in normalizing relations in the Middle East and promoting a mentality of peace that will extend far beyond his presidency, KT McFarland said Sunday."
-    publishedDateTime: 2020-12-28T02:38:00Z
-    webUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran"
-    ampWebUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e200f42d-47e5-4e6b-8adc-02df3f0b10a8/66390a62-dbae-443b-b83b-a66c4beeb143/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "House Republicans urge Trump to veto omnibus spending bill"
     excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
     publishedDateTime: 2020-12-17T10:43:00Z
@@ -190,20 +126,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Left Seeks Leverage to Move Biden"
-    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
-    publishedDateTime: 2020-12-28T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "59prWdYGN9lG2D5kPQAoZO/+28ZY3by+WeC6mkx75JgEtPt/IAsTzfNv1kTE2y0vFmFJnzhcotX7o935/Yo+AZYv+Ga6cH/ZjcunWclX+dm0Nm3P+K/QX4U8PC7pa0gRV93BOVsnYN+pKtOzCXAUFKEBFAxV6AYIkQkv4f+jPLz+dbCY+U9YUQp9aLWopag5hXCGrr48GT65Y/jni66uEZOcclzg4OEhH0OZvjRypCX+Pzoc5A3YDOx9yypvKNqQr3MCGIJqdp24h635pNlG+8WC9IFfxTgDV+zkNA7gwMls6lPZNuMpbN/7JKyyVStnNrJ1X5nRrG/5OwWDtcI/cS1KWgykT0BvmHL/3yHUdkU=;Dgdha2SAhaOfXk+vnCEZgg=="

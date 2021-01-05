@@ -31,69 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'"
-    excerpt: "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n"
-    publishedDateTime: 2020-12-04T02:37:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+  - title: "Biden team weighs North Korea policy as the era of Trump's 'love' letters with Kim ends"
+    excerpt: "President-elect Joe Biden's foreign policy team will soon have access to the letters President Donald Trump exchanged with North Korean Leader Kim Jong Un, correspondence that belongs to the US government -- not Trump -- and could provide insight into one of the world's most enigmatic leaders.\n    \n"
+    publishedDateTime: 2020-12-03T11:04:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6kTc0KXVq-8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-north-korea-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-north-korea-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023015900-trump-kim-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden weighs ambassador picks amid pressure to diversify "
+    excerpt: "President-elect Joe Biden's team is in the early stages of considering who to appoint as ambassadors around the world, with a handful of selections for high profile posts expected to come sometime in January, according to three sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-12-05T14:22:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERyYyEOqh18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
-    excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
-    publishedDateTime: 2020-12-05T14:23:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+  - title: "Hispanic caucus expresses frustration to Biden team with how Michelle Lujan Grisham has been treated"
+    excerpt: "Members of the Congressional Hispanic Caucus expressed frustration in a meeting with leaders of President-elect Joe Biden's transition team on Thursday with how they believe New Mexico Gov. Michelle Lujan Grisham has been treated in the Cabinet selection process.\n    \n"
+    publishedDateTime: 2020-12-04T02:28:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n-n_949UjLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/hispanic-caucus-lujan-grisham-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/hispanic-caucus-lujan-grisham-transition/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730001746-02-michelle-lujan-grisham-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Attorney general remains key spot to fill in Biden Cabinet, with Doug Jones seen as a leading contender"
-    excerpt: "As President-elect Joe Biden formally introduces his defense secretary nominee Wednesday, the role of attorney general remains the biggest outstanding position in the Cabinet yet to be named.\n    \n"
-    publishedDateTime: 2020-12-09T14:27:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YKPspZxOpMg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
+  - title: "5 big problems with Texas' bid to overturn Biden's win at the Supreme Court"
+    excerpt: "Texas' bid to overturn Biden's win at the Supreme Court \"This case is hopeless,\" said SCOTUSblog publisher Tom Goldstein, who argues frequently before the court. President Donald Trump calls it \"the big one,"
+    publishedDateTime: 2020-12-10T00:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/5-glaring-problems-texas-bid-overturn-biden-s-win-u-n1250606"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250606"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250606"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119232738-doug-jones-september-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden goes to bat for Defense secretary nominee Austin"
-    excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
-    publishedDateTime: 2020-12-09T20:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434566/201209-donald-trump-jm-1603_f57dd82fbced153aa6bcd2fbae9f2b3a.jpg"
+        width: 2500
+        height: 1607
         isCached: true
 
 secured: "PHRGqQeBxy3YiSNw5GJi9LAYFhYxi83Ywt85cPbpJ+WK5o2hM5yKacFJhQ/vJSF0iOqEOfiM8yNXGhQSbq35CbXMGCFEb/lZHV9Cx6Em0Y6ZwtPljx3yeMdurC5Ii8oKLVmW2KMi/goGQzPbk8YA6yovGAHkqvCLLxeFEV8qiqO3SAhwndTGaaYsKv/qK/Y10RpViF09xObZWd4f5LCyDqcTfSvToHiJDBM5ck4YLlyugIP/V7DMr7f5FCgRngZUgoiiBW0Q24PN54OFolFHs+Yoz96mqa5XjUS6blE/95SBzUf4m/8eTWTv2A4UiKGtE+wxoJQikFyf8famElGVawUkmTi06SXq8FzOVctTBgE=;1Tq8hpgrUK6kfK3OuGonFA=="

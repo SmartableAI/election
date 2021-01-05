@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3921340001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: USA Today
@@ -31,47 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden introduces Miguel Cardona as pick to lead Education Department"
-    excerpt: "Washington — President-elect Joe Biden on Wednesday will formally introduce Miguel Cardona, the Connecticut commissioner of education, as his nominee to lead the Department of Education. The president-elect revealed Tuesday he tapped Cardona to serve as his secretary of education,"
-    publishedDateTime: 2020-12-23T17:28:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
+  - title: "Betsy DeVos asked her Department of Education staff to become 'the resistance' when Biden takes office"
+    excerpt: "Education Secretary Betsy DeVos was recorded telling Department of Education staff to become \"the resistance\" during a virtual meeting."
+    publishedDateTime: 2020-12-16T17:08:00Z
+    webUrl: "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/betsy-devos-told-doe-staff-become-resistance-biden-administration-2020-12?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/1ec5a37e-cf5e-44b9-b321-e3caf7efdbdf/thumbnail/1200x630/a5f8c12ebc252faa3cad0bbada1d4850/gettyimages-1230275863.jpg"
+      - url: "https://i.insider.com/5fda26b81803a80018adfc0e?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Biden taps Brenda Mallory to lead White House Council on Environmental Quality"
-    excerpt: "In Wilmington, Del., on Dec. 19, President-elect Joe Biden introduced Obama administration veteran Brenda Mallory as his pick to serve as the first Black chair of the White House Council on Environmental Quality."
-    publishedDateTime: 2020-12-19T22:30:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-19-2020/t_268efdbded95415b901ce57088758844_name_20201219_bidenclimateintro_mallory__EDITED_pool_thumb2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
-    excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
-    publishedDateTime: 2020-12-17T20:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-interior-idUSW1N2HV025"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HV025"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HV025"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
 
 secured: "5OPZXMKvNjbUzayEjm5qiipmS2XXL1f7gspkizvgkCs+zfTjrDbS3qYc/wsNu5d4T3qQJI4qmLsdMleRJyxrJjZ0cnVxSvfzLMxJpp416JQGn1W5xcOZ6cBdyBO9hZ3RUxzIyq/fo3z8mkDhd+d6yUvMIzXpYPqhrXLb5kdCHSZawesTH8dbHBIVnVP30wy2z0Tsi8lRyyacNf1qYAK8GDgsgTJLckehkeQ6S2EuxrxTrtG1wJEPjlNkEMGdCKZR3Zlz7JugFzTuw1bYXzB8b1edh2hXD7XGKee8KfVmFDzN4lyKqIvWtJ8y/rRg4yNNSejjS7jacZRnf+k/t4HgDNShTpo9qJvjtcctyyZetYc9SFGpyUthME1C+rFD+/RYIsYqALyMwXR+TFzKx0dBdb7yaRaKMNCOHpzuaq3VYOGxEYUPdbFNAQPYca9y5vUE/V+7dMcA/+0qPxk2JZ6kAjQrbLtnsmZ2hvZNV18aMhPq9IrGNX/oWPqQasTpRm06FQPwEOrrVNgV9A61GZuang==;c6xlvGlhAPcWafgkSI1O7w=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
 excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
 publishedDateTime: 2021-01-05T04:58:00Z
-originalUrl: "https://www.reuters.com/article/lawyer-election-petition-idUSL1N2JF2LY"
-webUrl: "https://www.reuters.com/article/lawyer-election-petition-idUSL1N2JF2LY"
+originalUrl: "https://www.reuters.com/article/lawyer-election-petition/it-is-time-new-york-law-firm-leaders-urge-congress-to-certify-biden-win-idUSL1N2JF2LY"
+webUrl: "https://www.reuters.com/article/lawyer-election-petition/it-is-time-new-york-law-firm-leaders-urge-congress-to-certify-biden-win-idUSL1N2JF2LY"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JF2LY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF2LY"
 type: article
@@ -24,6 +24,6 @@ topics:
   - Election
   - Joe Biden
 
-secured: "kWopvokTmFJAPP3/a5fLeaajATMHnekZvKEZFkFnt/h62tqPfzPHrhLjpj6aUFGbdFREDeo+Uv8+pH/t0Tn0AIsMKItWsWZH6xIZvTyZZLFUzNne4gwfBHTwTzTneMKingwRIIXxaCt8i9ka2HTZfNR/ACGptJWJnWcLzkYTeH8tC5SKYIWrZhk/nXZ12rR7E/Jfyr79kLoV7CW9lQCSWYKCXohGswfBZv1oC3338zugLIWQSPt/G+QFbD3z7LsBD+fClaZ58+jHyx2/phSdXEZ90nhYLgtt97C4LY0fD2Pt6lenoMVhzI1pnhdj1meoiloJ+jbXFNJklfWfjnIyvXkXxVn+zzRrvq4b26a0KAw=;OqSqeBqiqBTMvbD8wY1F6g=="
+secured: "BNyvRLu1L9Wfj+Nr+lUuPFADCjZBC2ANFbBxoYbPbrWqT+ile7aC6Q40V7cEbhtuWNUL3ocfzNw5+l/bqKcGhhr8IL80tGrRuQgYqDl9YU5Xqkowa2Dw9UJmZc2kYBR/tWjF8ZLG8k9Hhnz3fBVXZ9Ao0D2AoRhzjqw8KOS2gcUey42JC5E98dAbnDWMf5lqvp5z/lsVM5IsLyN3xz9Bh/xCAL/q85vDVFFQy5+HPyzUPJC+Rd9qtH14PBf4wVGJ3riA6I2hvE+RvkGFbZ0w7XVLDseIKvw7rBpDocFcfwtadj69OOKJ3DzytbIMAWRHU6qOLHZ9CnyN1Kmwqb5Hc3XE40IaMOvt3CFl2jPyToI=;Eb9MmvLeBLYjDbXsiX46Kw=="
 ---
 

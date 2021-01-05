@@ -79,6 +79,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Perdue seeks payoff from Trump loyalty in Georgia runoff"
+    excerpt: "In 2014, David Perdue introduced himself to Georgia voters as a corporate executive capable of bringing pragmatism to a Congress depicted in his first TV ad as a bunch of diaper-clad, crying babies."
+    publishedDateTime: 2020-12-22T21:57:00Z
+    webUrl: "https://www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/perdue-seeks-payoff-from-trump-loyalty-in-georgia-runoff-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Mike Pence rallies for Kelly Loeffler and David Perdue: 'It’s all about Georgia'"
     excerpt: "What a difference a week made for Vice President Mike Pence, who last week rallied Georgia GOP voters with a “God bless Texas!” but returned to separate"
     publishedDateTime: 2020-12-17T23:21:00Z

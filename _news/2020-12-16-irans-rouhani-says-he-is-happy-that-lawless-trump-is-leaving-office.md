@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 868
     height: 545
     isCached: true
+
+related:
+  - title: "The Trump campaign is challenging Pennsylvania's voting laws at the Supreme Court more than a month after the election ended"
+    excerpt: "President Donald Trump lost the election to President-elect Joe Biden more than a month ago and is still filing new election lawsuits."
+    publishedDateTime: 2020-12-21T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-new-supreme-court-case-pennsylvania-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-new-supreme-court-case-pennsylvania-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-new-supreme-court-case-pennsylvania-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5fce34df037cbd0018614295?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "V37PaWstqmvZZXYqjxBDAiIm16GG5VaaFWirfSHZWepugBFZJO1OuCRxZcSBu2wFGJ2jLul0H+DTR00+M7J6NZ4WhfAKEEYX0Vq2xQUciXoPJvGmJoRlfOcB1XjJZWhEqKRS2+d9KkSnlFqfKubcyUnvubwcYldDEFYasRISPMDMAejX5yUeSSV8wkFYv6WibBh1PJd8RpyKR6V32bVu9HuT5TrUP1Q0IfM9aDARdkYY0huYBymn7oryrG8UeOXtsPi3uoY5c/2YwBMcNzOMsRQCR5BjxPkRKsbQuisWWo/1t+BhGmGybgVmAeeLIktfvbVK4z2AorSsvmNV9VV/3ayw9pPoKQeoT9V+7rPjpJwtjqOh4z3Uk9NY8T4gsc1lDtu1eq6UkU/etWCoF5QhUmqfyj4q8MwDg4+634h+eH2R8N44HCZoBpVgb7zSJet3oQi/aX55T0S60jqPzt0Xi8eQ0M+W1D+56Ys8wy0BUtlygJ1AwW2/DOB8B3o4W8AU8PneScVUqPb6ULrD03xSnQ==;wfnUS1eoYjVBwUzhs53www=="
 ---

@@ -47,22 +47,17 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
-    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
-    publishedDateTime: 2020-12-17T03:37:00Z
-    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
-    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+  - title: "Sidney Powell Unrelenting in Legal Battle on Trump's Behalf"
+    excerpt: "Conservative attorney Sidney Powell has been unrelenting in her battle on behalf of President Donald Trump and the Americans who have pledged their faith in him."
+    publishedDateTime: 2020-12-10T17:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
-        width: 1024
-        height: 716
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "sifs4EXjiO8gWJLigYnLTCVitYj+h25sScl5bLoJwcZmMg/em+npPoHcuznOr7clck3Gc2nwhR0YSC4qPw5B5HYVA2VnX/2apEibOn7wbd6fnIhCqwZYgy5lvm703Rk0FrIyvxVJoEF5fkAWZqkzGBnzEIV0YOzQfevLfWIYlUSG9G2ca8VxpGzOHapcJyfV7mC+QW063hEH7sCMUO5t/CXs5YoSUl2F0VZJ6x9XuOBnlJXM7mtKAikBfWx2y86A7fGZmln4Zo8UzuTWOx0/Fzl79VGu4VXUeBog8FHF8yaMQTEtx+C231SFKJ33Ee8muLBTZ0ymuJHslNbCICUSKwc6anLGKuQsAgesG8CG8jA=;Oy2cJci79cM1XOXpcr/tgw=="
 ---

@@ -31,200 +31,106 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Laptop repairman at center of Hunter Biden saga is alive"
-    excerpt: "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead."
-    publishedDateTime: 2020-12-16T01:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
+  - title: "Mr. Biden shouldn’t be the only target for Catholics"
+    excerpt: "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan."
+    publishedDateTime: 2020-12-18T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440"
+        width: 1440
+        height: 970
         isCached: true
-  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
-    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
-    publishedDateTime: 2020-12-18T19:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+  - title: "Biden's Latino education secretary to add to diverse Cabinet"
+    excerpt: "President-elect Joe Biden will add to the diversity of his incoming administration on Wednesday when he introduces Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T11:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28X0LG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28X0LG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28X0LG"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
+        height: 545
         isCached: true
-  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
-    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
-    publishedDateTime: 2020-12-12T04:49:00Z
-    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
-    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
-    excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."
-    publishedDateTime: 2020-12-22T15:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-prague-newspaper-idUSKBN28W1SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1SO"
+  - title: "Biden's Latino education secretary adds to diverse Cabinet"
+    excerpt: "President-elect Joe Biden added to the diversity of his incoming administration on Wednesday when he introduced Miguel Cardona as his choice for U.S. Secretary of Education."
+    publishedDateTime: 2020-12-23T18:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN28X0JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X0JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X0JU"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545448292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL12O"
-        width: 818
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545589631&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM19H"
+        width: 753
         height: 545
         isCached: true
-  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
-    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
-    publishedDateTime: 2020-12-18T21:39:00Z
-    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
-    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
-  - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
-    excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
-    publishedDateTime: 2020-12-19T11:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-jill-grave_hpMain_20201218-183145_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
-    excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
-    publishedDateTime: 2020-12-15T11:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544612554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE0OH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
-    excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
-    publishedDateTime: 2020-12-18T11:57:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
-        width: 852
-        height: 545
-        isCached: true
-  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
-    publishedDateTime: 2020-12-20T17:16:00Z
-    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+  - title: "AG: 'No reason' for special counsel on election, Biden's son"
+    excerpt: "Outgoing Attorney General William Barr said he saw “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden."
+    publishedDateTime: 2020-12-21T23:42:00Z
+    webUrl: "https://www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ag-no-reason-for-special-counsel-on-election-bidens-son-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 120
+  - title: "Biden vows to punish those behind hack against U.S. government"
+    excerpt: "Elect Joe Biden said Thursday that a recently uncovered far-reaching cybersecurity breach against the U.S. government was a matter of \"great concern\" and vowed swift action in response once he takes office next month."
+    publishedDateTime: 2020-12-18T01:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-vows-to-punish-those-behind-hack-against-us-government-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
+    excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."
+    publishedDateTime: 2020-12-20T16:09:00Z
+    webUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.html"
+    ampWebUrl: "https://www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/entertainment/television/snl-unveils-new-joe-biden-as-jim-carrey-exits/article_38faf70b-2350-59df-8435-0f1c045517a6.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/57/657185f6-b6a6-57dc-9122-64f6d1deb061/5fdf6dff2e0cc.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Meet 14 Joe Biden family members who could be powerful surrogates — or potential headaches — for the new Democratic president's administration"
+    excerpt: "Biden's political campaigns have always been family affairs. Now his siblings, children, and grandchildren are primed to make headlines when he's president."
+    publishedDateTime: 2020-12-24T15:27:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-family-hunter-jill-ashley-frank-james-valerie-caroline-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/5fe20739d366e600180998fb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
-    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
-    publishedDateTime: 2020-12-21T18:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden says he sees no evidence cyber attack is under control"
-    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T03:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
-    excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
-    publishedDateTime: 2020-12-10T13:43:00Z
-    webUrl: "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/10/f8b5dd6d-118b-4e25-870c-9e3ef0372c62/thumbnail/1200x630/f6d2af7d44e206e3e4bfb55a6302d452/cbsn-fusion-hunter-biden-reveals-he-is-under-federal-investigation-thumbnail-605300-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
-    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
-    publishedDateTime: 2020-12-10T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 88
 
 secured: "q2f/nUL7syD1ypc7nrmPshZzbN5Kn/MorBqQ40xKlQSFnPB0Iy1amzgc4thGyVhRunYS/wXtVJZVedX/EliwLOUB06MDzNtvnBr6ntyL7UacVqTFDBIQoRl/4LgKb0+CafkSLd3IrImwQJQXPIBfv5SqfrTr59L6b+4bClPBnRTLgtvRr+TjSRFdWrSp1FRQ4/ju7VautZ4nOTRyGymbFMhrnV6J5smeO1Q9c57p7UlaGqeJAJvQFVO0HTSABCpzI0zU9O8EEVMkIS4Bbnu/m6NMzPX6TM/LRSjsEbl9z6q0rQRYZIOPAXhQzudufr+crRpFiSWRl7BvWu/Iv/TWzveVJKwMH2zrJCXenRb82lTi61Phatqv749xMNjTOfdBfpvV6b2LmfgOxODfNOQWYosXNSdfdgcvh6oUOhLwovpVvrQLEM/d0LV4PhoV1bdPfQdZeBOPrxdH165oClQqVuCwiWsWnjiLX8/m2BPw13XTJnl7ZEWaSXJ4wIzld+shWsk4HmfUSenfdn3FwWOWNg==;RGiY2bQQ1FDdY1Ch/q0QQQ=="
 ---

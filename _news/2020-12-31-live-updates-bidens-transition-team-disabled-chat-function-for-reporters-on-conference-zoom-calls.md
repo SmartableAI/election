@@ -31,101 +31,149 @@ images:
     isCached: true
 
 related:
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-28T22:57:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WmQUDxl-Nnc/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
+  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
+    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
+    publishedDateTime: 2020-12-26T13:14:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP"
+    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
+    publishedDateTime: 2020-12-26T00:26:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden to use DOJ to crack down on police departments engaged in 'systemic misconduct'"
-    excerpt: "President-elect Joe Biden will use the Justice Department to crack down on police departments allegedly engaged in “systemic misconduct” in part by the use of consent decrees -- a tool used regularly by the Obama administration but largely scrapped under President Trump."
-    publishedDateTime: 2020-12-30T19:01:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3HD-74r657k/biden-doj-police-departments-systemic-misconduct"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91f6904a-45f1-4c75-a0bd-f0e17bf08b92/1e9bea95-acbe-45f6-83e2-f5184ccf2596/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
-    excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
-    publishedDateTime: 2020-12-29T05:54:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
+  - title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
+    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
+    publishedDateTime: 2020-12-24T06:32:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 144
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6e5eab9-fe1b-4184-bbff-ce0cd1f58649/d4621cb8-0321-4aed-a53e-e94baa079ea1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden calls transition ‘obstruction’ by Defense Department irresponsible"
-    excerpt: "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe."
-    publishedDateTime: 2020-12-29T01:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vows-to-restore-americas-global-leadership.amp"
+  - title: "LIVE UPDATES: Biden electoral win facing challenge from Cruz, other GOP senators"
+    excerpt: "Follow for the latest updates on the presidential transition."
+    publishedDateTime: 2021-01-03T05:11:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSC38ZpkmNs/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 134
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363689916730.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8fac15-3eba-4222-84a1-b2cfccf5077a/3eee8182-bf6c-49a4-983a-d596073af120/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
+    excerpt: "Follow for the latest updates on the presidential transition."
+    publishedDateTime: 2021-01-01T06:51:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden announces new Cabinet, White House appointments"
+    excerpt: "President-elect Joe Biden today announced a number of new Cabinet and White House appointments and nominations."
+    publishedDateTime: 2020-12-30T20:36:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Joe Biden Should Handle White House Infighting"
+    excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
+    publishedDateTime: 2021-01-02T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-279262/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Live Updates: Biden inauguration events to include coronavirus victims vigil"
+    excerpt: "President-elect Joe Biden plans to include a lighting ceremony honoring Americans who have died from the coronavirus as part of the events leading up to his Jan. 20 inauguration."
+    publishedDateTime: 2021-01-02T13:44:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-01-02-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df3f336d-4008-4f79-8084-984e451cab7f/579391ed-804d-40e1-815c-b0dfaae955c0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
+    excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."
+    publishedDateTime: 2020-12-25T13:43:00Z
+    webUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief"
+    ampWebUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gretchen-Whitmer-AP-e1608902899685.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden to use DOJ to crack down on police departments engaged in 'systemic misconduct'"
-    excerpt: "President-elect Joe Biden will use the Justice Department to crack down on police departments allegedly engaged in “systemic misconduct” in part by the use of consent decrees -- a tool used regularly by the Obama administration but largely scrapped under President Trump."
-    publishedDateTime: 2020-12-30T19:06:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-police-departments-systemic-misconduct.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91f6904a-45f1-4c75-a0bd-f0e17bf08b92/1e9bea95-acbe-45f6-83e2-f5184ccf2596/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden education secretary nominee pushed ‘microaggression’ resources in response to riots"
-    excerpt: "Elect Joe Biden nominated Connecticut Education Commissioner Miguel Cardona to serve as head of the Department of Education in his administration, a public school advocate who sent around resources on \"microaggressions\" as he took action to help parents and educators navigate difficult race-related discussions earlier this year."
-    publishedDateTime: 2020-12-23T03:21:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-microaggression-resources-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35de097-8c5a-4e70-8247-09107ab6329c/068d8bec-02c6-4123-942d-2551920bbfe1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "6vCd3FGFLaIcrSs7HVQ1YBwH6/D9iU3Kj82n9rX5Bp+Z6UfkYGcU7jcCUIhS19Oxl2S4pYJ0p/f2i8Gy5ZRTCYJfdgcxlJgQeCCyDckLfj0AGXdHmJ1IHFKfyCzB1i15GOw0fLmqRw9XJqPoaLjs3ZgfIwWuKluG+bwyrYMxiq9VPnNT8mfmZRHsr9FXgVXvFH4ZoSS4SBAUQu98DtIR2d1JJB9cM63RtrHq1Zew8jFeckXw454ubhi8Q1MeHJZBFXAUxrnh8otY9klTy3ySSO5mSK4C/rD3xdTQFt1GdUGe6CUeR3gbcx9FcLjCRxzJH0P6wm3JGdfnn3F8hCX2ES6SiiyF+rlSxf+OKR+0keA=;GLnD7zZcveaH1ArzoMBzHw=="

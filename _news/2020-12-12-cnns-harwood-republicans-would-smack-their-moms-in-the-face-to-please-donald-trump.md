@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
+    excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
+    publishedDateTime: 2020-12-22T03:09:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aX2HxSADYtY/members-of-congress-trump-electoral-college-objections-on-jan-6"
+    ampWebUrl: "https://www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McConnell silent after Trump threatens to block coronavirus, government funding package"
     excerpt: "Senate Majority Leader Mitch McConnell hasn't yet responded to President Trump demanding Tuesday night that Congress include $2,000 stimulus checks in the coronavirus aid package that it passed on Monday, which included smaller $600 checks for individuals."
     publishedDateTime: 2020-12-23T16:43:11Z
@@ -144,21 +160,37 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "McConnell: Pelosi, Schumer could have had COVID aid bill months ago, but wanted to damage Trump campaign"
-    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., praised the coronavirus stimulus bill that's poised to pass Congress Monday after months of stalled negotiations, but added that Democrats could have had the same deal months ago had they not prioritized damaging President Trump's reelection hopes."
-    publishedDateTime: 2020-12-21T20:26:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3-beU90FwlY/mcconnell-coronavirus-aid-bill-pelosi-schumer-election"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-coronavirus-aid-bill-pelosi-schumer-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-coronavirus-aid-bill-pelosi-schumer-election.amp"
+  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
+    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-12-19T18:36:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4075735f-49a6-4cdc-891c-07958e64eca1/f8e5afac-7cf8-49c2-8e7a-12643376b67d/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-275358/social"
         width: 1280
-        height: 720
+        height: 640
+        isCached: true
+  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
+    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-12-21T02:24:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-275358/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
     excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."

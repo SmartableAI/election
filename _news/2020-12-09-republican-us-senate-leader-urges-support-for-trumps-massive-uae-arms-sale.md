@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The only experts Trump wants his supporters to rely on are themselves"
+    excerpt: "Trump is trying, unsuccessfully, to use it in the latter sense. He's unsuccessful because the idea that Republicans lower on the ticket might do better than Republicans higher on"
+    publishedDateTime: 2020-12-03T20:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELNV3VRT7AI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "AP FACT CHECK: Trump floods rally with audacious falsehoods"
     excerpt: "President Donald Trump flooded his first postelection political rally with debunked conspiracy theories and audacious falsehoods Saturday as he claimed victory in an election he decisively lost. A sampling from his remarks in Valdosta,"
     publishedDateTime: 2020-12-06T04:34:00Z
@@ -126,6 +142,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump reportedly considering pardons for family members"
+    excerpt: "The White House is dodging questions about reports that President Trump is considering preemptive pardons for three of his adult children and his son-in-law. Ben Tracy reports."
+    publishedDateTime: 2020-12-03T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-reportedly-considering-pardons-for-family-members/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/df15d6e8-a197-437e-a0f3-7865b37d6913/thumbnail/1200x630/c5d88b341c61ac4ff3fc03c4a9d587a8/tracy-600139-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "BUoYWy4szaGWVRt2JENa0roC4caiSs1uPlNbYX8H4f/XL+j+VJShWH8TBm/NgXp48k3hNTQBsNwz7NbUHjQt4j5iwvtUsUtFcca3sJMtdGkE4BsbfGB9g6wNXjwtYOSpdm9w3qfHNIDxP0+Mm+Cu53X10FYxvjcmHtzR7BuTYiwK0Ho+FFBqvJ4/RrEypPYhYPHxNw/pO0XaLTkdAQdUS4auahk2pM2yIhvA4ZAidL1moqE97WXJbpFDH1VTYM8O7mq01r0VfHCWU+rtVb3ICxjF8C9scRunieE7wcbK0VxSg4goTvPyHfl0QMghbAoSL5o6i/ChTn5kqR+aH56Y/s62WRKPwT0YHEuNBe0lDnc=;HusTNrlphrFQLi28hRjdlg=="

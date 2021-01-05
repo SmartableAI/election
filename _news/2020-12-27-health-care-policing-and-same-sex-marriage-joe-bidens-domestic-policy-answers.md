@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98420293932"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98420293932"
 type: article
 quality: 130
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: NBC News
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden looks to Susan Rice to elevate low-profile Domestic Policy Council"
-    excerpt: "\"Susan will elevate and turbocharge a revitalized\" council, Joe Biden said when he nominated the former national security adviser."
-    publishedDateTime: 2020-12-21T11:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-looks-susan-rice-elevate-low-profile-domestic-policy-council-n1251851"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251851"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251851"
+  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
+    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
+    publishedDateTime: 2020-12-29T01:27:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 130
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3437064/201220-susan-rice-jm-1136_d7e184dab91c148e4afe840a6b58ea05.jpg"
-        width: 2500
-        height: 1670
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "8IRFYk2FqhqetMg+Ag0Hce6zVAaJk/qaATIhrmyw/sb7zfZ6wRq0TBLyha7eNwhQHUsju3LcRzFUJI7UGTkaETsOTN/KMvOdwiAfW3qVvYhK5SaEU59LHBxQZrsbk0lZQYGa+Ys5GcfgaCBlQy2JKezZHn/DIaco4RQqtj3Y+TjBlIxujDfgv8keAfaZu3Ou2IDwnOcmM9lS/QUFWmhLgE+GmcGBpKTRZ3/W7kLBZikjOPVK4/VJAnuGFWJ5fSjVGPLjQAN8AUmWbpJPicYSTmGoN9oZZgtsIJiUDEafrQfL2x0PsxeIpm//BfVm51u4LnQA0ZMFOJykvA6fPSH+28zFApDgWr5XsYumYlR+UVdnFax0eXaPNFoLHEix/CcXbYYuASQQX4+NOCRJXR/FBiX0aHOeWWkN2R3kaRrvVR+RljZoqraOLQm3r9AJF4irJ5ArUGla/I/wJaEDYiGvE1FhsHc5x450/WMWd3zP4JTfKU7wbqZpzIWcktgQiHElWTLYYYaP0O2S8bEa5S+zhQ==;/kagWbRxvSoVfU//VAlkGw=="

@@ -31,37 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
-    excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
-    publishedDateTime: 2020-12-10T20:35:00Z
-    webUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940"
-    ampWebUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden selects Marcia L. Fudge as HUD secretary and Tom Vilsack to lead Agriculture department"
-    excerpt: "The Fudge decision, along with the naming of a Black Defense secretary-designate, occurred as Biden was pressured by organizations seeking diversity in his Cabinet."
-    publishedDateTime: 2020-12-09T00:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+  - title: "A Maryland immigrant hoped to delay his deportation until Biden took office. It didn’t work."
+    excerpt: "The arrest of a man who had been in the United States for 20 years has drawn anger from those who hope that the end of the Trump administration will keep ICE from acting unilaterally in sanctuary jurisdictions."
+    publishedDateTime: 2020-12-07T16:22:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR5O33RZWUI6XGGEEXOJ6SMH5A.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KZGOKWBUCII6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 1004
+        isCached: true
+  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
+    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
+    publishedDateTime: 2020-12-05T00:00:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
+    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
+    publishedDateTime: 2020-12-09T19:42:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden's trade nominee has family roots in both Taiwan and China"
     excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
@@ -74,22 +86,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
-    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
-    publishedDateTime: 2020-12-17T19:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "chefqoKvf+918Kc6G4k000vccwqWDtAH6LAdblBlSKjFDg7LuA69aUEWnT4eysyQGBkgpJ0Hoh3Ec6iL+GK4Dl0522vESw6kQU5brkEbyRdsEkjam9fDMLscNJ2ReF2E8v+6dJeqlT5ny+DaCzEMWh4Z/hAyPsZqw5TG+mWD3qcxXrLaoL3HAqTbNYjXErrD0eX+y8gIUbFrj5BCoQIhVwG7H04lAgof8Ers7jfJidTfut+NFgxD+NQahd+C/EUIx2pN+5KztwzOq+8DyzbiDk9adME4v2Rvt4tigAap93yo/pA20Ibz7/5ZtNhgsqIZ6EKjxDkYXIogsvi/cfc+OsHm6fkRFQFWrpl0d7C6Y2ulnd4/KkRfptZ3YFhLEqT6WtZ9KmveP2jK/ssdrPjWflQr/wXEMStrJzQ5afm8xdT3k4fsd2IbXC9pyuY2C8kx9lZ0HnTdxYredIFqLHhIKud3J9Pgm9C1C33OFm+JFqnYpe1R3RXFHws3uAUXUJHJkxtcx4Uz6/nMYKXiDYALhA==;QZyO82zh2IJf7Y0DDXBcFg=="
 ---

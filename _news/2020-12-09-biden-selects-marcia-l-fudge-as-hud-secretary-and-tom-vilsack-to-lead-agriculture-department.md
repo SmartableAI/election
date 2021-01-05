@@ -31,65 +31,162 @@ images:
     isCached: true
 
 related:
-  - title: "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary"
-    excerpt: "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary."
-    publishedDateTime: 2020-12-11T01:10:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
+  - title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
+    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
+    publishedDateTime: 2020-12-09T12:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP sources: Biden picks Marcia Fudge for HUD secretary"
+    excerpt: "WASHINGTON — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision. Fudge was first elected to Congress in 2008 to represent a district that includes Cleveland,"
+    publishedDateTime: 2020-12-08T23:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
+    publishedDateTime: 2020-12-09T15:37:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28J1YM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543966451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB813D"
+        width: 802
+        height: 545
+        isCached: true
+  - title: "AP sources: Biden to pick Buttigieg as transportation chief"
+    excerpt: "WASHINGTON — President-elect Joe Biden is expected to pick his former rival Pete Buttigieg as secretary of transportation, according to three people familiar with the plans. The decision leaves the former mayor of South Bend,"
+    publishedDateTime: 2020-12-15T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Tracking Biden's Cabinet picks as the incoming administration takes shape"
+    excerpt: "The president-elect has announced more than a dozen nominees to lead key departments and agencies throughout the federal government."
+    publishedDateTime: 2020-12-17T00:55:00Z
+    webUrl: "https://www.cbsnews.com/news/bidens-administration-cabinet-updates/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 122
+    quality: 124
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
-    excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
-    publishedDateTime: 2020-12-10T20:35:00Z
-    webUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940"
-    ampWebUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
+  - title: "Biden to tap Brenda Mallory to lead White House environment council -sources"
+    excerpt: "President-elect Joe Biden is expected to pick Brenda Mallory, current head of regulatory affairs at the green advocacy group Southern Environmental Law Center, to lead the White House Council on Environmental Quality (CEQ),"
+    publishedDateTime: 2020-12-16T18:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-environment-ceq-idUSKBN28Q2O9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2O9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2O9"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544790334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF1GB"
+        width: 794
+        height: 545
         isCached: true
-  - title: "Biden's trade nominee has family roots in both Taiwan and China"
-    excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
-    publishedDateTime: 2020-12-12T00:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
+  - title: "Exclusive-Biden taps former EPA chief for White House climate coordinator role -sources"
+    excerpt: "President-elect Joe Biden will name Gina McCarthy, former administrator of the Environmental Protection Agency under the Obama administration to a new role leading domestic climate policy coordination at the White House,"
+    publishedDateTime: 2020-12-16T04:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive/exclusive-biden-taps-former-epa-chief-for-white-house-climate-coordinator-role-sources-idUSKBN28P35Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P35Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P35Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544686850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1SS"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
+    publishedDateTime: 2020-12-09T02:23:00Z
+    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
+    publishedDateTime: 2020-12-09T13:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
-    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
-    publishedDateTime: 2020-12-17T19:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
+    publishedDateTime: 2020-12-09T19:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "AP sources: Biden picks Buttigieg as transportation chief"
+    excerpt: "President-elect Joe Biden is expected to pick former South Bend, Indiana, mayor Pete Buttigieg to head the transportation department, according to three people familiar with the plans."
+    publishedDateTime: 2020-12-15T23:04:00Z
+    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "wlhvR5gPph8kvzp1j9EGk2K20lF85om3HvqlNKOP3HnciR8peEhxQqQtpmLE0++6GHgXXiAIMIsfx8TmCZcjnMMwJBWpL6Pb2C8OW0yTnwSKwhT739ccisaySbKKd1koYgDBhLjBk6cZ6/rxdOPNpYBLLxb+6DGxCLdxa5/0lQ+vNPOB7t9UbVbuxjGxScboouFhO420Q934m3fOlXvDUQ7Cr/xq5J78aflWuQ0v3ost8v26ptcmJS8P9G01q7VuYoakFHEg/zFP7RdmQxsS1bA1cNRV6xLug2wUEPu20pag3zF5pkSlbIYfRnxnZI6TQD9m4qeTP0KE3e1K4qkjzmog1BCnudMkoQShOX+pFeLpw3+frfT9fbzZj603Y1dx+3/pu7+fKyzr+jjzxjrKUgOgu1e/aFooqu6ewnxmD1lbwgSClbkIdpYjU+D17soAiBGI9MM/NIpWR60gP1PS4TY3B1L9R7cpVkL4E4Y78MqJmm3x/ZEYqq++n1YMKKrLTv7gBlrzLj6Ju9tDFyg6Kw==;2ourHLKB4j/Wg7vjNGaJ2g=="
 ---

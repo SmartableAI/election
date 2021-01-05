@@ -43,22 +43,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
-    excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
-    publishedDateTime: 2020-11-28T01:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W"
-        width: 753
-        height: 545
-        isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
     publishedDateTime: 2020-12-02T14:32:00Z
@@ -75,22 +59,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump repeats baseless \"fraud\" claims but says he'll go if election results formalized"
-    excerpt: "The president said it would be a \"mistake\" for the Electoral College to uphold what he claims, without proof, was an election marred by \"massive fraud.\""
-    publishedDateTime: 2020-11-27T13:51:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 132
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/a84e6a05-6f92-418a-b995-bfbb250c7869/thumbnail/1200x630/c7323ae807fae8f6e60d60695c3e44ae/trump-white-house-diplomatic-room.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump ally banned from Justice Department after seeking sensitive election intel: report"
     excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,"
     publishedDateTime: 2020-12-03T20:50:00Z
@@ -106,22 +74,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Julian Assange's partner appeals to Trump to pardon him"
-    excerpt: "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder"
-    publishedDateTime: 2020-11-26T16:50:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
     excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
@@ -331,6 +283,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Ivanka Trump deposed in ongoing lawsuit alleging misused inaugural funds"
+    excerpt: "Ivanka Trump was deposed on Tuesday as a part of an ongoing lawsuit from the Washington, D.C., attorney general, which alleges the misuse of funds from President Donald Trump's inauguration in 2017, new court documents show."
+    publishedDateTime: 2020-12-03T19:14:00Z
+    webUrl: "https://www.cbsnews.com/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/?intcid=CNI-00-10aaa3b"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/06/06/1dba942d-f379-41fc-b360-e972ee6cc393/thumbnail/1200x630g2/fb8b25b0ad4b3c20f46af57ae8c0e7ae/gettyimages-1225668427.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
     excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
     publishedDateTime: 2020-12-02T19:25:00Z
@@ -346,22 +314,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5f714bef23eb0c30aed9288b3df899803d5f06df/8_37_1139_683/master/1139.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5d5e99a8f793124bb185d42d2ea3217d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism"
-    excerpt: "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W."
-    publishedDateTime: 2020-11-21T22:18:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUUPVKBMAMI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 959
         isCached: true
   - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
     excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
@@ -537,17 +489,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pentagon installs 2 Trump allies on defense advisory board"
-    excerpt: "The Pentagon has appointed two close allies of President Donald Trump to a defense advisory board, continuing a post-election purge in the final weeks of the administration."
-    publishedDateTime: 2020-12-05T06:30:00Z
-    webUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Rudy Giuliani tested positive for coronavirus, Trump says"
     excerpt: "U.S. President Donald Trump's personal lawyer Rudy Giuliani has tested positive for the novel coronavirus, Trump said on Twitter on Sunday. (Reporting by Jan Wolfe; Editing by Daniel Wallis)"
     publishedDateTime: 2020-12-06T20:49:00Z
@@ -572,20 +513,6 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p090q08t.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Fired Official Says Correcting Trump's Fraud Claims The 'Right Thing To Do'"
-    excerpt: "Christopher Krebs, who led the federal government's efforts to secure the 2020 election, called the operation near seamless despite President Trump's claims to the contrary."
-    publishedDateTime: 2020-12-01T09:01:00Z
-    webUrl: "https://www.npr.org/2020/12/01/940133163/fired-official-says-correcting-trumps-fraud-claims-the-right-thing-to-do"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 103
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/30/krebs-11.30_wide-e43cef9ee4556529e051f15e1859cbca4ac3c851.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
 
 secured: "PfkYKDwlI93lN3hegFadEaFBqCwLAqlh0YwunBSazCQlRG71iv4FzyBeHCtVx27WMKyigiTXL5ahclnEJExS9tJzKBscfvg35VuJh8IWvBqOPSZ2VHIp3PdNnFl4nkACAXsMk4pTuAUNn2es9/KbYqz+tLaxQXpc4WovpcvNCBtJx/EtrMiH20CPS+vfqYP180ZSBQEAHTOXcnhg+B4M2Sc7WPBKjdpbQ+l2gEfwMeaZERknQujpQPSMHqgYbtJTBOycYs81BJOWaRA1/Dkm90tWrpwWvq9VbnmGWE74kQjKuyadnAvsfgjZOTaUCuvg/GVqLUYx/HkpzakR8EE8N6XclElD5amWl8pIpHp8yU8=;iPvKCprMVI/4alRNw9ctlA=="

@@ -25,6 +25,54 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Biden picks Connecticut schools chief as education secretary"
+    excerpt: "President-elect Joe Biden has chosen the education commissioner for Connecticut and a former public school teacher to serve as education secretary"
+    publishedDateTime: 2020-12-22T15:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden poised to pick Connecticut schools chief as education secretary"
+    excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
+    publishedDateTime: 2020-12-22T04:52:00Z
+    webUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PDIWR6B72II6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 1045
+        isCached: true
+  - title: "Biden picks Connecticut schools chief as education secretary"
+    excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
+    publishedDateTime: 2020-12-23T06:14:00Z
+    webUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TLNCDWCEPAI6XITXJGTND6O76E.jpg&w=1440"
+        width: 1288
+        height: 859
+        isCached: true
   - title: "Joe Biden introduces Miguel Cardona as pick to lead Education Department"
     excerpt: "Washington — President-elect Joe Biden on Wednesday will formally introduce Miguel Cardona, the Connecticut commissioner of education, as his nominee to lead the Department of Education. The president-elect revealed Tuesday he tapped Cardona to serve as his secretary of education,"
     publishedDateTime: 2020-12-23T17:28:00Z
@@ -41,35 +89,67 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says"
-    excerpt: "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students."
-    publishedDateTime: 2020-12-17T21:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3921340001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/07/PDTF/b9c1ab22-05fd-4a78-8850-47d04f2cbf3b-AP20133643287574.jpg?auto=webp&crop=5109,2874,x0,y259&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden taps Brenda Mallory to lead White House Council on Environmental Quality"
-    excerpt: "In Wilmington, Del., on Dec. 19, President-elect Joe Biden introduced Obama administration veteran Brenda Mallory as his pick to serve as the first Black chair of the White House Council on Environmental Quality."
-    publishedDateTime: 2020-12-19T22:30:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html"
+  - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
+    excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
+    publishedDateTime: 2020-12-16T17:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 101
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-19-2020/t_268efdbded95415b901ce57088758844_name_20201219_bidenclimateintro_mallory__EDITED_pool_thumb2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 895
+        isCached: true
+  - title: "Biden's plans on further COVID19 relief aid?"
+    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T00:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
+    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
+    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "YliZH4O2vtEUNGmfapimPgTOKGcPHl27HLOTEfC490D7LJWCDP/Fp6GGi741AjiXDjW8Zn7IOqXhWbtld3Y61PWE5AS9hBxoARI/ZZQAjlOBMOrx63vNEAOyMrHziv1N6twf9L6NTg+OZAiO2tGgip2ViAZBCHxEuuyVF6m71cwFadZqzQn+AG/J5DAUQbKD8BlZVPP99zARgKDmR92o3KGOQlNSs+3etTnw71eVTmTjVEJA+YNgyru16+3oHhve+LiZlTAXEC2A3NNPJ8lCwm9DPFhFgwkcw5V3uvNgqBhscqgoqrDWO79lNVYDZC5rGlP1VznLMlW5+ToqjT78zo3Gmz6kaBMPd+CnVILc2bM=;nnlGygjn9LTq9fjVQK3XmA=="

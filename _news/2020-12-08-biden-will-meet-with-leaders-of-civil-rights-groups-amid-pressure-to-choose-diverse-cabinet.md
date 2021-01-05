@@ -31,181 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to introduce key members of economic team Tuesday "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday afternoon are expected to introduce key members of their economic team at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-01T15:36:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q1uuFmApTkQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
+  - title: "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'"
+    excerpt: "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n"
+    publishedDateTime: 2020-12-04T02:37:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pompeo willing to meet with incoming Biden team, officials say"
-    excerpt: "State Department officials who work with Secretary of State Mike Pompeo have told the department's career transition team that he will meet with President-elect Joe Biden's incoming State Department team, according to two sources familiar with the message.\n    \n"
-    publishedDateTime: 2020-12-04T19:35:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_slkGaDfNkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/pompeo-biden-transition-willing-to-meet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/pompeo-biden-transition-willing-to-meet/index.html"
+  - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
+    excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
+    publishedDateTime: 2020-12-09T00:18:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jUHJfkpbhXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203170350-joe-biden-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208175659-marcia-fudge-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden weighs ambassador picks amid pressure to diversify "
-    excerpt: "President-elect Joe Biden's team is in the early stages of considering who to appoint as ambassadors around the world, with a handful of selections for high profile posts expected to come sometime in January, according to three sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-12-05T14:22:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERyYyEOqh18/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
+  - title: "Attorney general remains key spot to fill in Biden Cabinet, with Doug Jones seen as a leading contender"
+    excerpt: "As President-elect Joe Biden formally introduces his defense secretary nominee Wednesday, the role of attorney general remains the biggest outstanding position in the Cabinet yet to be named.\n    \n"
+    publishedDateTime: 2020-12-09T14:27:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YKPspZxOpMg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119232738-doug-jones-september-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to introduce key health team members Tuesday "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce key members of their health team on Tuesday afternoon at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-08T16:21:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZDZ6y0fbSk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/joe-biden-introduces-health-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/joe-biden-introduces-health-team/index.html"
+  - title: "Lawmakers to Biden: 'Step it up' on Cabinet diversity"
+    excerpt: "The next administration will feature a number of historic \"firsts,\" but lawmakers and advocates of color are pushing for more."
+    publishedDateTime: 2020-12-02T00:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/biden-cabinet-diversity-lawmakers-442003"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/01/biden-cabinet-diversity-lawmakers-442003"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/01/biden-cabinet-diversity-lawmakers-442003"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/93/1d/dfe53fea403386b5ecf213572fbc/201201-clyburn-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Biden expected to introduce Cabinet nominees and top admin roles Friday"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce several Cabinet nominees and other top administration roles on Friday at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-11T16:19:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oIu8GnsWGcs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
+  - title: "Biden goes to bat for Defense secretary nominee Austin"
+    excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
+    publishedDateTime: 2020-12-09T20:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211024402-02-time-poy-joe-biden-kamala-harris-1107-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Biden to introduce key members of climate team Saturday "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce key Cabinet nominees and members of his climate team at an event in Wilmington, Delaware, on Saturday.\n    \n"
-    publishedDateTime: 2020-12-19T14:08:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MY0JJzm_UsY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
+  - title: "Presidential Transition Live Updates: Biden Builds a Cabinet of Longtime Allies"
+    excerpt: "The president-elect is putting a premium on personal relationships as he selects his team. The biggest gun control advocacy group, run by former Mayor Michael Bloomberg, wants the Biden administration to act immediately with executive orders."
+    publishedDateTime: 2020-12-10T08:29:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden expected to nominate Xavier Becerra to lead Health and Human Services"
-    excerpt: "President-elect Joe Biden is poised to nominate California Attorney General Xavier Becerra to lead the Department of Health and Human Services, a Biden transition official tells CNN.\n    \n"
-    publishedDateTime: 2020-12-07T00:56:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf3I4_se7F4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200710175823-california-attorney-general-xavier-becerra-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
-    excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
-    publishedDateTime: 2020-11-29T14:15:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnwxF5kTNQs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden likely to announce defense secretary Tuesday and more Cabinet picks Friday"
-    excerpt: "President-elect Joe Biden will likely announce retired Army Gen. Lloyd Austin as his nominee for defense secretary on Tuesday, a source familiar with the matter told CNN, and is now expected to announce some domestic Cabinet picks on Friday.\n    \n"
-    publishedDateTime: 2020-12-08T03:12:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x7_ePzbNrAg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-secretary-of-defense-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-secretary-of-defense-attorney-general/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to name diverse economic team, with three women in top roles to help build recovery"
-    excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
-    publishedDateTime: 2020-11-30T15:52:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
-    excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid-19 stimulus."
-    publishedDateTime: 2020-12-02T22:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/biden-meet-workers-small-business-owners-economic-crisis-n1249668"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249668"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249668"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432504/201202-biden-roundtable-mc-1149_2bb8284f41748e7662d30264a4e681d1.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10transition-brief-cabinet/10transition-brief-cabinet-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "7i8JgSELw9Cyg6WZ1IgcCnAcpjhRykDIWvw1iCTyX4odE5Jhnnj0yXIY/0vtUhNDcJGIdqO2+svqivPK66kJicdIu/BDuyLMMMU2lVH7vvRmlwDi0UJK2ksbtr2h2Os9/5XPaH6Whk8yGmAPtjPJsIQo0Zsl3A85+kf4/IBP2OKQI9uqWQ+HlqPHmfr+ZP/+LNh1LP1egLaxuPU0KuasEorz+9TE3njW5NVq+cHoOYqFON6lIB3Jb9Y5mREoe/7g42M5AwvyxSzw/T61Ur4+a9kb5PPpGwEh8mwmX6zDKZ9NIRQSGCLZFgef1y19V5mF8ygz7piHOdG98iQRND7g8ygk/sD66OQ6ehvglQHMTkQ=;ZrhTNyUHPmKGefgMM3mS3g=="

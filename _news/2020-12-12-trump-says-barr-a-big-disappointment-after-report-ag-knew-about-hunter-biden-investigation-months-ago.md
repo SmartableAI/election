@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biased media ignored Biden's 'potential criminal activity' for months: Trump campaign"
+    excerpt: "Trump 2020 national press secretary Hogan Gidley reacted Friday on \"Outnumbered Overtime\" to the latest revelations about the Hunter Biden investigation, including that Attorney General William Barr was aware of it in the spring."
+    publishedDateTime: 2020-12-11T19:44:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmLPYMG6fzU/biased-media-bidens-potential-criminal-activity-trump-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adb23140-e9cf-491e-8575-04fe15b0f561/74a2486d-979b-4865-bb21-ed4ce837046d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AG Barr knew about Hunter Biden probe for months: report"
     excerpt: "Attorney General William Barr reportedly knew about investigations into Hunter Biden’s business and financial dealings for months, and worked to stop them being disclosed to the public during the election campaign."
     publishedDateTime: 2020-12-11T17:08:47Z
@@ -47,69 +63,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
-    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
-    publishedDateTime: 2020-12-17T20:28:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OZs82XMrWUI/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+  - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
+    excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
+    publishedDateTime: 2020-12-15T14:49:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p51jS2evj3M/facebook-twitter-biden-campaign-donations-censorship"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
-    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
-    publishedDateTime: 2020-12-07T19:36:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
+    quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
-    excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
-    publishedDateTime: 2020-12-16T17:47:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1B4KF7eeTXw/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-12T19:22:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Sarah Sanders says liberal media covered up for Hunter Biden during father's presidential campaign"
     excerpt: "Reacting on \"Fox & Friends\" to news that Hunter Biden's tax affairs are the subject of a federal investigation on Thursday, Fox News contributor Sarah Sanders said Thursday that liberal media outlets \"covered it up\" for him during his father's presidential campaign."
@@ -127,67 +95,33 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
-    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
-    publishedDateTime: 2020-12-17T21:19:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
+    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
+    publishedDateTime: 2020-12-11T11:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 151
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
-    excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
-    publishedDateTime: 2020-12-18T05:57:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+  - title: "From 'smear campaign' to 'Russian disinformation,' liberal media teamed up to dismiss Hunter Biden story"
+    excerpt: "There has been plenty of criticism in recent days of the mainstream media's refusal to cover the New York Post's bombshell reporting on Hunter Biden, ever since the Biden transition issued a press release acknowledging that he was under investigation over his so-called \"tax affairs,"
+    publishedDateTime: 2020-12-11T12:40:00Z
+    webUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation"
+    ampWebUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 118
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6148cd10-fca2-4297-9ce3-0975a3ba3d8c/a12ceab4-ce94-43d5-b2d5-c6bad73d0a4f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Media ridiculed after Colbert broaches Hunter Biden topic before mainstream reporters"
-    excerpt: "Liberal comedian Stephen Colbert's interview with Joe and Jill Biden Thursday drew mockery for not only its obsequiousness, but that an entertainer asked the president-elect about the investigation into his son before many mainstream media reporters did."
-    publishedDateTime: 2020-12-18T21:54:00Z
-    webUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream"
-    ampWebUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-13T01:28:00Z
-    webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27754b17-4e72-417f-8260-7ed53197681d/60f1933b-0908-45bf-b35a-4831d232a461/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

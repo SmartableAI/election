@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP senator to delay affirming Biden victory by forcing votes on Electoral College results"
+    excerpt: "Missouri Republican Sen. Josh Hawley said Wednesday he will object when Congress counts the Electoral College votes next week, which will force lawmakers in both the House and Senate to vote on whether to accept the results of President-elect Joe Biden's victory.\n    \n"
+    publishedDateTime: 2020-12-30T16:50:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_V2-E4UXvoI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/josh-hawley-force-votes-electoral-college-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/josh-hawley-force-votes-electoral-college-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "RD+ZSKzOZxJSkWUxtOEQ9TbUhH1rLXSLmt2b+7Fd2fAIACF1mr2EasqPdED57H+NaCNNqrGbn/gWKeR57aAAAMtgSGjIMQy/pYyyExBt2YyPVqglhlypLsrt7ICzhuUVX/NPIABv97VfceXdB5T9wOczBXYG2q/V1Fa0pX5dFMQi1+a/KaMieH0NOAZk3aiJumvh8wLqKyZbIcT2dNW9okOldNiNUxnHfxRBnUJW9oTehq/aQ2dzIZkW6te7AB57fCc8BSG1Rb9Y85oGF35Sa4zCe69Neg2k+YTPk7MUD+Fz5LoXpVa9Qckuv34SW4EBcY3eJzxGkf9OD3zNLEdQ3RBEYkuSuSrC00wEW0bbAb4=;0fhEKAi84KubFWaevNMsbQ=="
 ---

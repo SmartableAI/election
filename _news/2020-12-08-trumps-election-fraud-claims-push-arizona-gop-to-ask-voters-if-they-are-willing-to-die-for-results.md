@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-fraud-claims-arizona-gop-vote
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20233560983367.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Arizona legislature closes as Trump lawyers push for special session to pick electors"
+    excerpt: "Trump campaign senior legal adviser Jenna Ellis blasted Arizona's speaker of the House on Sunday night after the state legislature closed following news that her colleague Rudy Giuliani tested positive for coronavirus days after speaking to Arizona state lawmakers about allegations of election fraud."
+    publishedDateTime: 2020-12-07T15:05:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20335611859534.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Twitter disables, then reactivates the like, share and reply buttons on some Trump tweets"
     excerpt: "Twitter barred anyone from interacting with some tweets from President Trump on Saturday, disabling the like, reply and retweet features before later reactivating them."

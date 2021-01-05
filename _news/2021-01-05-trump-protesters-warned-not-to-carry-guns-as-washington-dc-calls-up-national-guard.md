@@ -79,6 +79,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "No Scottish Golf Trip For Trump, Says Leader Sturgeon"
+    excerpt: "Scotland's leader Nicola Sturgeon on Tuesday poured cold water on rumours that Donald Trump was set to visit, saying even the US president was subject to coronavirus travel restrictions. Speculation has grown that Trump,"
+    publishedDateTime: 2021-01-05T16:12:00Z
+    webUrl: "https://www.ibtimes.com/no-scottish-golf-trip-trump-says-leader-sturgeon-3114974"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/donald-trump-owns-two-golf-courses-in-scotland.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "KH0fZ8vV1vZzTX1iq6UeVvTNf9HGf1EJhgySIElP21Q4TvWv3rlCBV7I1lbZ9y4Lo76MwKwfvVV+sLNkHYEv4uhNP5lkojBbR7BHLH0Gbz4LocwolR4TLe8Ez9iYJdjoktq6QC/6wTWtafdbs7DTSxsPbqPQGkzmlO1ytyTq4NshMOAdHVnUAER0TQceg91w/r9GD68tEzKogc8J2qM/SNnEmp4ef17Ef6aoUbTM7db7X9+M+c0V+YWkkXtiHZQKJD7syiOBz1ItKOXLvagc6qrFZZXGnDzD3pYzuZX2fvTaGCMMFlmXrSWkVBLyXCNNRPmLNCDajmJziKZnxIklFbJ1oWrvV8rtIPs+rBlxi5+4ohLDzzZnfFXSl3O1lKR07upZ8+IUfkKmFclYjwRH84w7udwTWYe2K+2J8HvEcHrll7HOvzaH7jyU8NctPJtGajt0YnQqYjMecb42WFlHzgX8k6JuNA23FvI45T4QzDMcqX3nShzg0WaF/X4075lhfqBwur3oIe9G0qdZmfCKng==;9GZRQnSSk+ObpbCNT+LIxw=="
 ---

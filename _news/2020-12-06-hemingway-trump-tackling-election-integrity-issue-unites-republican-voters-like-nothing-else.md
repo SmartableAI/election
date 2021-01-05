@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Trump says DOJ 'missing in action' during election challenge"
-    excerpt: "Follow for the latest updates on the 2020 election legal fight."
-    publishedDateTime: 2020-11-30T04:20:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd00b8cb-3654-49f6-a8db-b0fe6e3fb865/6aa8c157-f99d-4b17-8c8c-2f2e6f3af5d7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
-    excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
-    publishedDateTime: 2020-11-23T04:13:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hemingway: Trump tackling election integrity issue 'unites Republican voters like nothing else'"
     excerpt: "Republicans have been \"concerned\" with preserving election integrity prior to the 2020 presidential election, Mollie Hemingway said on Thursday."
     publishedDateTime: 2020-12-03T21:29:34Z
@@ -80,163 +48,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump tells Georgia governor to 'do something,' as Kemp says interfering with election is illegal"
-    excerpt: "President Trump on Tuesday told Georgia Gov. Brian Kemp to \"do something\" to overrule state election officials, claiming he would find a \"gold mine\" of fraud, as the governor's office maintained that Georgia law \"prohibits\" him from \"interfering in elections.\""
-    publishedDateTime: 2020-12-01T15:08:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bc5dlBeRYSs/trump-georgia-governor-kemp-election-do-something"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp"
+  - title: "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding"
+    excerpt: "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\""
+    publishedDateTime: 2020-12-03T16:22:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election"
+    ampWebUrl: "https://www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 177
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Trump's legal team criticized by Rush Limbaugh"
-    excerpt: "Rush Limbaugh knocked President Trump's legal team for underdelivering at last week's widely-hyped press conference alleging widespread voter fraud that stole a \"landslide\" victory from their client. "
-    publishedDateTime: 2020-11-24T03:53:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvL2kh9z3nY/live-updates-election-legal-11-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b3666d9-d0ce-4a8a-ac95-d2970fd93791/468e9eed-4dd8-4fcf-a499-59cddc9b2507/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump urges Georgia Republicans to reelect Perdue, Loeffler"
-    excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
-    publishedDateTime: 2020-12-06T08:36:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyBHwPEZXVI/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64f1a210-dff4-48db-a6f3-62bfd4d76b8c/4152f4df-3684-437a-a048-a5ab0f84ad09/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump dismisses DOJ's probe of bribery-for-pardon allegation: 'Fake News!'"
-    excerpt: "President Trump on Tuesday dismissed reports that the Justice Department was investigating claims of a bribery scheme involving a possible presidential pardon."
-    publishedDateTime: 2020-12-02T09:19:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Crt1jzDR3-s/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf560f2e-05fa-4ff8-9f82-14d5d26d17fd/e937ee12-a5c3-4c30-b63a-b94bfc66284b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
-    excerpt: "Follow for the latest updates on the 2020 election"
-    publishedDateTime: 2020-12-05T07:00:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBPbIvg9W5M/live-updates-biden-americans-masks-vaccine-12-5-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump campaign eyes Supreme Court after appeals panel tosses Pa. fraud case"
-    excerpt: "The Trump 2020 Campaign looked ahead to a potential Supreme Court fight after a panel of federal appeals judges in Pennsylvania dismissed the campaign's lawsuit over alleged voter fraud in the presidential election. "
-    publishedDateTime: 2020-11-28T06:44:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-Ot-6MG-y4/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/529a207d-73d0-460c-9fde-43b3a041b0a5/6f32cf3d-90c4-48e9-85d9-f9b631b23713/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump campaign alleges abuse around the process of absentee voting in Wisconsin"
-    excerpt: "A lawsuit was filed Tuesday morning and comes after Wisconsin completed its partial recount — which maintained that Joe Biden won the presidential race in the state — and after Wisconsin Gov. Tony Evers formally certified Biden’s victory Monday night."
-    publishedDateTime: 2020-12-02T03:52:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fk5xH0p5mcw/live-updates-legal-12-2-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GM Stops Backing Trump Administration in Emissions Fight With California"
-    excerpt: "General Motors will no longer back the administration in its legal battle to strip California’s authority to set its own fuel-efficiency regulations, saying GM’s goals for green cars are aligned with the state and the new Biden administration."
-    publishedDateTime: 2020-11-23T20:03:00Z
-    webUrl: "https://www.wsj.com/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 134
-    images:
-      - url: "https://images.wsj.net/im-263785/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
-    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
-    publishedDateTime: 2020-11-28T00:16:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
-    images:
-      - url: "https://images.wsj.net/im-265473?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
-    excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"
-    publishedDateTime: 2020-11-23T22:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/47/473955_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "NvgzXJ1C5HwdrEtGYzKfuxQAv4M3/x2O/MGisrICKxEqw9rzyQCYtuttX1E4IYoA2JE0n/HLlGsDeHjnTSL275qJetnxV+u9MDSdI9HxXLbtWlJDdNxZCzduypBYwrE7pKS7bV6gNt7bUWYZXW5S2SETZddQ/kJ2FQ9P4CgmU8MKmiFE41WkxwKuzjjsCS1UxKUH5wA1HMu7J0EMsGYPbmCaIlzfq+ryd11RFRlzsJqVtTEqdFWqNsRhrCSGl0csNsxZs1aUw+oC4kc2H1gPDP1s++Bj37QG7lBUeJDtJ29bWR54xXgpXy0ry5hc678m86PiqqoZAEltjfhnLrZSp6PK+KgVY/LUYqFkf9LGaIY=;QTYHuSA3U838LFlzl0+qpA=="

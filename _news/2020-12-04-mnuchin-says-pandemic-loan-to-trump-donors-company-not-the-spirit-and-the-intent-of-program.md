@@ -31,138 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Up to the people, not the medical profession, to oust Trump: APA chief"
-    excerpt: "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office."
-    publishedDateTime: 2020-11-26T16:17:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6406402002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002"
+  - title: "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin"
+    excerpt: "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U."
+    publishedDateTime: 2020-12-02T20:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C2ES"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI"
+        width: 817
+        height: 545
         isCached: true
-  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
-    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
-    publishedDateTime: 2020-11-30T11:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+  - title: "Senator says Trump, McConnell likely to back COVID-19 relief"
+    excerpt: "A proposed COVID-19 relief bill is expected to get backing from President Donald Trump and Senate Majority Leader Mitch McConnell but it won’t include $1,200 in direct payments to most Americans"
+    publishedDateTime: 2020-12-07T05:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senator-says-trump-mcconnell-likely-to-back-covid-19-relief/2020/12/07/b69e725c-384d-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senator-says-trump-mcconnell-likely-to-back-covid-19-relief/2020/12/07/b69e725c-384d-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senator-says-trump-mcconnell-likely-to-back-covid-19-relief/2020/12/07/b69e725c-384d-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump silent as UK is first to authorizes vaccine"
-    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
-    publishedDateTime: 2020-12-02T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+  - title: "Trump administration makes new $916 billion offer for COVID-19 aid"
+    excerpt: "The Trump administration proposed a $916 billion coronavirus relief package on Tuesday, after congressional Democrats shot down a suggestion for a pared-down plan from the Senate's leading Republican,"
+    publishedDateTime: 2020-12-09T07:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-pelos-idUSKBN28I2LA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2LA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2LA"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
-    publishedDateTime: 2020-11-30T19:14:00Z
-    webUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump Vows To Veto Defense Bill Unless Shield For Big Tech Is Scrapped"
-    excerpt: "The president wants Congress to repeal Section 230 of the 1996 Communications Decency Act, a provision that provides legal protection for tech companies."
-    publishedDateTime: 2020-12-02T10:25:00Z
-    webUrl: "https://www.npr.org/2020/12/02/941019533/trump-vows-to-veto-defense-bill-unless-shield-for-big-tech-is-scrapped"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Trump reportedly considering pardons for family members"
-    excerpt: "The White House is dodging questions about reports that President Trump is considering preemptive pardons for three of his adult children and his son-in-law. Ben Tracy reports."
-    publishedDateTime: 2020-12-03T00:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-reportedly-considering-pardons-for-family-members/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/df15d6e8-a197-437e-a0f3-7865b37d6913/thumbnail/1200x630/c5d88b341c61ac4ff3fc03c4a9d587a8/tracy-600139-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
-    excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."
-    publishedDateTime: 2020-12-02T13:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/trump-says-veto-defense-bill-over-section-230-social-media/3791708001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3791708001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791708001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/23824b15-b233-4546-b723-194679457438-AP20336673206931.jpg?auto=webp&crop=5876,3306,x0,y298&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
-    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
-    publishedDateTime: 2020-12-02T16:48:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 81
-    images:
-      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The."
-    publishedDateTime: 2020-11-30T05:35:00Z
-    webUrl: "https://www.chron.com/news/article/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543898187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB803W"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "cD4gmtqXGcuJ4uBtZTY+D0Tn9MjtoQavtva8bIcCl4wnaM94e7plfbzWriUYmLVbtnMKLeKf0h4DEpmKbPfFquuaZ02x240tV7HYX8iZpk4GTQ+JTpb+bpWnhW5lwUDCjjJfQE8qKZzMSz9oE7mOgYp5TFiqOpinpDZtvWcalZIisE/ZVYYyOHnGb3ajatiK0AeWReyfspFEwKsA+WV+cwjl6IM12UB8GyFpgH0IGvmtmuZ5cG8rMegNkXX0Bhqs+atf7d4+cC65qNC4mYKQkw2GcY6KlNcv4uXi7K1cHxtsuDoKr3MN3khzX0wgoOwoupmyL9mm0Q7ykPTzQJbSY5FVoNheo5HCGjb8lFcwBKM=;a8erbimD+DsIGNvM+51PSw=="

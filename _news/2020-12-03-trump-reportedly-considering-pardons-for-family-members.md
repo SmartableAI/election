@@ -29,140 +29,133 @@ images:
     isCached: true
 
 related:
-  - title: "Up to the people, not the medical profession, to oust Trump: APA chief"
-    excerpt: "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office."
-    publishedDateTime: 2020-11-26T16:17:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6406402002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
-    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
-    publishedDateTime: 2020-11-30T11:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+  - title: "Dangerously viral: How Trump, supporters spread false claims"
+    excerpt: "It took just a day for a cellphone video of a man hauling a large box into a Detroit election office to be viewed more than a million times"
+    publishedDateTime: 2020-12-04T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2d577ba5f467404c81900887ef2cd68b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump silent as UK is first to authorizes vaccine"
-    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
-    publishedDateTime: 2020-12-02T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Mnuchin says pandemic loan to Trump donor’s company ‘not the spirit and the intent’ of program"
-    excerpt: "Treasury secretary responds to Congresswoman's questions about why a car-title lender was able to get low-interest federal loan"
-    publishedDateTime: 2020-12-04T00:42:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7LXJKBFMMI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 582
-        isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
-    publishedDateTime: 2020-11-30T19:14:00Z
-    webUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
+  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
+    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
+    publishedDateTime: 2020-12-03T22:47:00Z
+    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Trump Vows To Veto Defense Bill Unless Shield For Big Tech Is Scrapped"
-    excerpt: "The president wants Congress to repeal Section 230 of the 1996 Communications Decency Act, a provision that provides legal protection for tech companies."
-    publishedDateTime: 2020-12-02T10:25:00Z
-    webUrl: "https://www.npr.org/2020/12/02/941019533/trump-vows-to-veto-defense-bill-unless-shield-for-big-tech-is-scrapped"
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The only experts Trump wants his supporters to rely on are themselves"
+    excerpt: "Trump is trying, unsuccessfully, to use it in the latter sense. He's unsuccessful because the idea that Republicans lower on the ticket might do better than Republicans higher on"
+    publishedDateTime: 2020-12-03T20:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELNV3VRT7AI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
-    excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."
-    publishedDateTime: 2020-12-02T13:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/trump-says-veto-defense-bill-over-section-230-social-media/3791708001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3791708001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791708001"
+  - title: "AP FACT CHECK: Trump floods rally with audacious falsehoods"
+    excerpt: "President Donald Trump flooded his first postelection political rally with debunked conspiracy theories and audacious falsehoods Saturday as he claimed victory in an election he decisively lost. A sampling from his remarks in Valdosta,"
+    publishedDateTime: 2020-12-06T04:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_82f489e77d20447783346eb257cc0e16_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Republican U.S. Senate leader urges support for Trump's massive UAE arms sale"
+    excerpt: "The U.S. Senate's Republican leader on Tuesday urged lawmakers to vote against a resolution, expected as soon as this week, to block President Donald Trump's $23 billion arms sale to the United Arab Emirates,"
+    publishedDateTime: 2020-12-08T18:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28I2JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2JU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543852852&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71GV"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Fox News' Judge Says Donald Trump Should Pardon Drug Offenders Before Himself"
+    excerpt: "In an op-ed published on the Fox News website on Thursday titled \"Can President Trump pardon himself?\" the former New Jersey Superior Court judge argued that the president should pardon those who were convicted for use and possession of drugs under federal law before pardoning himself or members of his family."
+    publishedDateTime: 2020-12-10T15:57:00Z
+    webUrl: "https://www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831"
+    ampWebUrl: "https://www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1683725/judge-andrew-napolitano-testifying-before-congress.jpg"
+        width: 3500
+        height: 2334
+        isCached: true
+  - title: "Trump supporters plan DC rally to 'demand transparency' before Electoral College vote"
+    excerpt: "As many as 5,000 Trump supporters are expected to gather in Washington, D.C. just days before electors from each state arrive to cast their votes."
+    publishedDateTime: 2020-12-09T11:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/09/march-trump-dc-rally-planned-ahead-electoral-college-meeting/6394642002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6394642002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6394642002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 104
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/23824b15-b233-4546-b723-194679457438-AP20336673206931.jpg?auto=webp&crop=5876,3306,x0,y298&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/7e23b1a8-101d-4682-a643-44e6001b919c-2proud_boys.JPG?auto=webp&crop=5567,3131,x1,y78&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
-    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
-    publishedDateTime: 2020-12-02T16:48:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
+  - title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
+    excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
+    publishedDateTime: 2020-12-09T05:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 81
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The."
-    publishedDateTime: 2020-11-30T05:35:00Z
-    webUrl: "https://www.chron.com/news/article/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+        height: 675
         isCached: true
 
 secured: "3FMBZktM5m3ZwXvbsOWVzYhnCV6ueXjXxazM1SfrKDW3JdQ53xaFxX+2elQEXcFsAq8/luL8E5f3Pil4Ocrk4cIAInbrNMB/sww5FO/vQH/BIOwQlxA4tIkO6Y9ay1FsDFUgeZc3OzpjiLXEnAPsmlIm58xQ861YD4iLO8l198fLWOUpOgvrp/O2gEk8AWLoM4ye33dKmq8s3Ca4Uus9fnWF0vVBu/vggYosLJZX2Y5zrF4Oan4iaHgllB7RSr3xeBSyx/wCmvRqlBtHSNbl9v6Wer4bSOmeQ6jvsr6Olxh1gMRwzuXXZG0mS9fxY7ejbZ5OfL+Crl1oa/fxfAOl5/G+hxAbRy7iON5/uzNCgbs=;oGj73nVnMNPmEHrbq4JxTw=="

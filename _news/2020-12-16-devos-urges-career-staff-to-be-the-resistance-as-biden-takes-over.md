@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden, Calling Stimulus Bill a ‘Down Payment,’ Urges More Relief"
+    excerpt: "The president-elect said he would ask Congress soon after his inauguration to pass an additional coronavirus aid package with more money for firefighters, police officers and nurses."
+    publishedDateTime: 2020-12-22T23:55:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "DNVADBUtw1H6GaC4bkNmnxP7HW169/TxF71/EquMB1+4+T+5Ty5H+mG9J60ETcpFwLzXW1wrfGk83h0JDgtQDd31fxMIUEnhkReZLjUjUIn1XSu5DLU5FAJTkpwD9jYk2uli57kHDraM0op7G4KnjfM98FHuaNIyE2jMUQSNGMpzDOdHrIIBzVgUqgepGjbBzuujOgNlGAbZEAT1cNWU/H8r845rTPasc+Wf2dKOwwKsYDIAaomD5UJ1GuEjdyLwepPk2WGmYy7rITsLi3YsijubjrDwYNjbW0PiX9YDVtwUDFEucXX0gwGoRc+SXPKtW6lADsbRSr5bY5XvKbsK5RNK9nVVXe4sMJbMj0qEQKU=;/TFzU0XpZ2A2VeY6N2ZN4w=="
 ---

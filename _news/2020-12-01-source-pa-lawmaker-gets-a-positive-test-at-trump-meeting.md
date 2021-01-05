@@ -25,35 +25,67 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Up to the people, not the medical profession, to oust Trump: APA chief"
-    excerpt: "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office."
-    publishedDateTime: 2020-11-26T16:17:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6406402002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002"
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
+    publishedDateTime: 2020-12-01T01:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
+        width: 817
+        height: 545
         isCached: true
-  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
-    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
-    publishedDateTime: 2020-11-30T11:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+  - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
+    excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
+    publishedDateTime: 2020-12-02T11:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
+        height: 545
+        isCached: true
+  - title: "Trump raises $170 million as he looks to future"
+    excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
+    publishedDateTime: 2020-12-01T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-170-million-future-74484442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -73,50 +105,391 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mnuchin says pandemic loan to Trump donor’s company ‘not the spirit and the intent’ of program"
-    excerpt: "Treasury secretary responds to Congresswoman's questions about why a car-title lender was able to get low-interest federal loan"
-    publishedDateTime: 2020-12-04T00:42:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
+  - title: "Could Trump preemptively pardon his family — or even himself?"
+    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
+    publishedDateTime: 2020-12-04T00:49:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D1FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Could Trump preemptively pardon his family — or even himself?"
+    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
+    publishedDateTime: 2020-12-05T16:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28D1FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543537212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB407M"
+        width: 871
+        height: 545
+        isCached: true
+  - title: "Official: Trump to attend the Army-Navy game at West Point"
+    excerpt: "President Donald Trump is scheduled to attend this weekend’s Army-Navy football game at the U.S. Military Academy’s home field"
+    publishedDateTime: 2020-12-07T23:21:00Z
+    webUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "UPDATE 1-Lawmakers block Trump's requested changes on coronavirus bill"
+    excerpt: "Republicans and Democrats in the U.S. House of Representatives on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, leaving its status in doubt after President Donald Trump demanded extensive changes to the legislation."
+    publishedDateTime: 2020-12-24T14:31:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2J40NK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J40NK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J40NK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545710097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10E"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "U.S. lawmakers block Trump bid to modify coronavirus aid, spending bill"
+    excerpt: "Republicans and Democrats in the U.S. House of Representatives on Thursday blocked each other's efforts to modify a $2.3 trillion coronavirus aid and government spending bill that Congress passed on Monday."
+    publishedDateTime: 2020-12-24T14:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-coronavirus-congress/u-s-lawmakers-block-trump-bid-to-modify-coronavirus-aid-spending-bill-idUSW1N2HQ0M1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0M1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0M1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545681844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN0TF"
+        width: 757
+        height: 545
+        isCached: true
+  - title: "Coronavirus aid at risk as U.S. lawmakers block Trump's changes"
+    excerpt: "U.S. lawmakers on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, rejecting President Donald Trump's demand for extensive changes and leaving benefits for millions of Americans at risk."
+    publishedDateTime: 2020-12-25T06:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idINKBN28Y1PO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Y1PO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Y1PO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201225&t=2&i=1545752768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10C"
+        width: 757
+        height: 545
+        isCached: true
+  - title: "Coronavirus live news: Trump passes Covid aid package"
+    excerpt: "Trump has passed a $900bn aid bill to support the US economy; diseases expert says herd immunity through the vaccine won’t be achieved until summer"
+    publishedDateTime: 2020-12-28T08:27:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Georgia upholds Biden's win as US approaches 15m coronavirus cases - live"
+    excerpt: "We have now counted legally-cast ballots three times, and the results remain unchanged,’ says Brad Raffensperger, Georgia’s secretary of state"
+    publishedDateTime: 2020-12-07T21:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
+    excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
+    publishedDateTime: 2020-12-03T15:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/white-house-coronavirus-adviser-fauci-to-meet-with-biden-transition-team-cnn-idUSL1N2IJ17Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D26U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D26U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543343689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB219D"
+        width: 846
+        height: 545
+        isCached: true
+  - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
+    excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
+    publishedDateTime: 2020-12-03T23:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-02T00:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
+        width: 1022
+        height: 545
+        isCached: true
+  - title: "Trump adviser Navarro violated law against political activity -federal watchdog"
+    excerpt: "President Donald Trump's trade adviser Peter Navarro knowingly and willfully violated federal law by attacking then-Democratic presidential candidate Joe Biden while serving in his official capacity,"
+    publishedDateTime: 2020-12-07T23:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-navarro-idUSKBN28H2OU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2OU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2OU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543750485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61I4"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump calls U.S. coronavirus death toll ‘fake news’ as count surpasses 350,000"
+    excerpt: "The numbers are real,” the nation’s top infectious-disease expert Anthony S. Fauci responded to Trump’s baseless claims."
+    publishedDateTime: 2021-01-04T06:22:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-calls-us-coronavirus-death-toll-fake-news-as-count-surpasses-350000/2021/01/03/6bdc0b08-4e14-11eb-bda4-615aaefd0555_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-calls-us-coronavirus-death-toll-fake-news-as-count-surpasses-350000/2021/01/03/6bdc0b08-4e14-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-calls-us-coronavirus-death-toll-fake-news-as-count-surpasses-350000/2021/01/03/6bdc0b08-4e14-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JAAZHICOEQI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 940
+        isCached: true
+  - title: "Trump signs bill averting government shutdown; fight on coronavirus aid drags on"
+    excerpt: "President Donald Trump, facing a midnight deadline on Friday, signed a one-week extension of expiring federal funding to avoid a government shutdown and to provide more time for separate talks on COVID-19 relief and an overarching spending bill."
+    publishedDateTime: 2020-12-12T04:17:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vote-idUSKBN28L2L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544283034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA1E3"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Stocks open higher after President Trump signs $900B coronavirus relief aid package"
+    excerpt: "The Dow Jones Industrial Average, S&P 500 and Nasdaq began the week slightly higher after President Trump signed a $900 billion economic aid package."
+    publishedDateTime: 2020-12-28T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/12/28/dow-stocks-open-higher-after-president-trump-signs-900-b-aid-package/4059975001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4059975001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4059975001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/28/USAT/cece1a43-fb7c-4f81-a0f2-c2be0b331983-AP20363021962453.jpg?auto=webp&crop=4034,2269,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign lawyer Jenna Ellis has reportedly told associates she has coronavirus"
+    excerpt: "The news comes days after Trump announced that Rudy Giuliani, who is leading the campaign's legal team, had tested positive for COVID-19."
+    publishedDateTime: 2020-12-08T16:54:00Z
+    webUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fcfadfe240ebd00126bdafa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
+    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
+    publishedDateTime: 2020-11-30T16:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump campaign lawyer Jenna Ellis has reportedly told associates she has the coronavirus"
+    excerpt: "Ellis crisscrossed the country in recent days and attended a White House Christmas party that featured few masks and little social distancing."
+    publishedDateTime: 2020-12-11T14:03:00Z
+    webUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fcfadfe240ebd00126bdafa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Bipartisan lawmakers urge Trump to either sign or immediately veto coronavirus relief bill"
+    excerpt: "A bipartisan group of lawmakers from both chambers of Congress on Sunday reissued their call for President Trump to sign a nearly $1 trillion COVID-19 relief package – or to immediately veto it."
+    publishedDateTime: 2020-12-27T22:21:00Z
+    webUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto"
+    ampWebUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/manchinjoe_collinssusan_warnermark_121420gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
+    excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
+    publishedDateTime: 2020-12-03T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump campaign official reportedly tests positive for coronavirus days after staff party – live"
+    excerpt: "White House staffers were reportedly very angry when they learned of Jenna Ellis’ coronavirus diagnosis days after she attended a staff party"
+    publishedDateTime: 2020-12-08T18:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfc3bd8f0861e6ffe1f375"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 113
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7LXJKBFMMI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 582
+      - url: "https://i.guim.co.uk/img/media/439c9a17119ace248554e84ec6803be665b6d29b/0_192_5742_3445/master/5742.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39e79992a0c953fc073b64d11283037a"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump Vows To Veto Defense Bill Unless Shield For Big Tech Is Scrapped"
-    excerpt: "The president wants Congress to repeal Section 230 of the 1996 Communications Decency Act, a provision that provides legal protection for tech companies."
-    publishedDateTime: 2020-12-02T10:25:00Z
-    webUrl: "https://www.npr.org/2020/12/02/941019533/trump-vows-to-veto-defense-bill-unless-shield-for-big-tech-is-scrapped"
+  - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
+    excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
+    publishedDateTime: 2020-11-30T23:00:00Z
+    webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Trump reportedly considering pardons for family members"
-    excerpt: "The White House is dodging questions about reports that President Trump is considering preemptive pardons for three of his adult children and his son-in-law. Ben Tracy reports."
-    publishedDateTime: 2020-12-03T00:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-reportedly-considering-pardons-for-family-members/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/df15d6e8-a197-437e-a0f3-7865b37d6913/thumbnail/1200x630/c5d88b341c61ac4ff3fc03c4a9d587a8/tracy-600139-640x360.jpg"
+      - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
+  - title: "Democrats want rushed vote on Trump's $2,000 coronavirus aid checks"
+    excerpt: "Democrats in the U.S. House of Representatives on Thursday aim to win quick passage of legislation providing $2,000 in direct payments to Americans as part of a coronavirus economic relief initiative after President Donald Trump unexpectedly insisted on the provision."
+    publishedDateTime: 2020-12-24T11:32:00Z
+    webUrl: "https://www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "U.S. House approves $2,000 coronavirus aid checks sought by Trump"
+    excerpt: "The Democratic-led U.S. House of Representatives voted 275-134 to meet President Donald Trump's demand for $2,000 COVID-19 relief checks on Monday, sending the measure on to an uncertain future in the Republican-controlled Senate."
+    publishedDateTime: 2020-12-29T04:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-checks-idUSW1N2IO05X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IO05X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IO05X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
+    publishedDateTime: 2020-12-01T01:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-atlas-idUSW1N2HQ0F6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
     excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."
     publishedDateTime: 2020-12-02T13:14:00Z
@@ -133,35 +506,62 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
-    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
-    publishedDateTime: 2020-12-02T16:48:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
+  - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
+    excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
+    publishedDateTime: 2020-12-22T05:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate-idUSL1N2J206O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J206O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J206O"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 81
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+  - title: "White House Trade Advisor Peter Navarrow Violates Hatch Act; Has President Trump?"
+    excerpt: "The Office of Special Counsel found that White House trade advisor Peter Navarro violated the Hatch Act on multiple occasions."
+    publishedDateTime: 2020-12-07T22:28:00Z
+    webUrl: "https://www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593"
+    ampWebUrl: "https://www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
     images:
-      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/12/white-house-trade-advisor-peter-navarro-pictured-in.jpg"
+        width: 1024
+        height: 680
         isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The."
-    publishedDateTime: 2020-11-30T05:35:00Z
-    webUrl: "https://www.chron.com/news/article/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
+  - title: "Twitter Reacts To Donald Trump's Media Criticism Over Dr. Fauci Getting Credit For Coronavirus Response"
+    excerpt: "Some social media users criticized President Donald Trump after he railed against the media for giving Dr. Anthony Fauci the credit for the COVID-19 response."
+    publishedDateTime: 2021-01-04T04:32:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-donald-trumps-media-criticism-over-dr-fauci-getting-credit-coronavirus-3113697"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-donald-trumps-media-criticism-over-dr-fauci-getting-credit-coronavirus-3113697?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-donald-trumps-media-criticism-over-dr-fauci-getting-credit-coronavirus-3113697?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
+    excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
+    publishedDateTime: 2020-12-01T01:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-controversial-coronavirus-advisor-resigns-report-3091738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/30/dr-scott-atlas-pictured-october-one-of-president.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "6wGnNqg1EIjNL+y6juv89/ICzqKUBHFEhO1f2xCIY9KIbR5AWsgdPPdaSZLJ/S0HHbz/oC+nxUCgJlteJsR8p3UmjUuPgS0DIf4AX0W7MBWVEjYbfWPu7Gjv5S1R79p/4UcjVc+LoaZonetnT+mWSaRgffgoQrbdckNvGReu9l/05Vm75i/snc0uRC1ooLmq2bHCp6PSxrGuYI7krXol/6wznSbQJe+gZXEhzHjUJoeBfzND1/NRa1XIK+PtYLESmGaVR+mi286F14ig85FdEMGpnLjeenmfRqh7cLao4MsyVEFSo+4e5vu3bNFVPnZpP0eUoLBrbnBr18z5826s+ozUhmHfMNSlLpIvWDfK5nk=;eBiRsBmE8Yt4ZRWbNeICdg=="

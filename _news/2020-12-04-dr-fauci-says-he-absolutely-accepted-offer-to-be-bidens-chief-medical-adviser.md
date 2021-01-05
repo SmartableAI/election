@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief-medical-adviser.amp"
 type: article
 quality: 130
-heat: -1
-published: false
+heat: 130
+published: true
 
 provider:
   name: Fox News
@@ -30,24 +30,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Exclusive: Former CIA station chief Darrell Blocker floated to lead agency under Biden, source says"
-    excerpt: "EXCLUSIVE: While President-elect Joe Biden has yet to announce his pick for CIA director, an array of names has been highlighted, and among them is Darrell M. Blocker -- one of the highest-serving persons of color to have served in the clandestine service, Fox News has learned."
-    publishedDateTime: 2020-11-27T17:37:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqbN5nL4JEs/exclusive-darrel-blocker-biden-cia"
-    ampWebUrl: "https://www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "Qz832O0n9lABUrALVvpp0jYKAPxabDJ9uyKPZ+ZvibR4RWndnqVQkmqeSe1sd/z7j8Q0YQkD9mr7yJy8+/jgdzd6s6nzGTXlb4SXp/Uw/Lxwy2TDnaKbLYqULzSwedTwna74w75cApY+6TbnVukOk5ESgcFhhPUDG+1PPvy5KrG0Qm662DvqyHfyYJc91TWs+ATEh1pfAf/4FIV0zczVLcG6I9sAZnBuTjcfjjLyKgvqC6nZS04c0XxRSLdr2YYoMU2xFGYvcfKXjihYzJKWKAUAgfr+QRuiY6IV87Pj4iR2nP7JcRGevzilV5a19dE9aPrLQtVH3FCXHz9hSbQBs/D0ppKFFLmdaA/NyRuDBIE=;OyE6eIV63LBVGOtNGb7dUg=="
 ---

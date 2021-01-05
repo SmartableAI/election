@@ -32,165 +32,181 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date"
-    excerpt: "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6."
-    publishedDateTime: 2020-12-24T19:47:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTyReV9x0Xw/trump-campaign-election-challenges-ongoing-jan-6-date"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
+  - title: "Trump’s 2014 tweet on government spending resurfaces amid COVID-19 bill deadlock"
+    excerpt: ""
+    publishedDateTime: 2020-12-24T09:48:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zhm1dyA54i0/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-2014-tweet-on-government-spending-resurfaces-amid-covid-19-bill-deadlock.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Texas-SCOTUS-Challenge.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump campaign manager launching firm to work with outgoing president"
-    excerpt: "President Trump’s reelection campaign manager Bill Stepien is joining two other top members of Trump’s 2020 campaign team in setting up a political consulting firm that would likely work with the soon-to-be former president as he stays engaged in Republican Party politics."
-    publishedDateTime: 2020-12-22T16:05:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KTee3IG8pJ0/trump-campaign-manager-firm-work-with-outgoing-president"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump supporters to hold virtual 'second inauguration' on Jan. 20"
-    excerpt: "Thousands of supporters have pledged to attend a virtual \"second inauguration\" for President Trump, who lost his bid for a second term, at the same time President-elect Joe Biden is slated to be sworn in on Jan. 20. "
-    publishedDateTime: 2020-12-22T19:12:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdWWyQp7CVQ/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
+  - title: "Trump’s effort to 'rescind' spending in COVID/government funding bill faces hurdles"
+    excerpt: "Under the Budget Act of 1974, the President is required to submit a “budget request” to Congress in the winter."
+    publishedDateTime: 2020-12-28T09:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBCmojqfCBM/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-effort-to-rescind-spending-in-covidgovernment-funding-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d52b8d4b-34b0-4017-b5ba-4302e95b3668/04a2861e-1bee-49c5-be40-19160523eb40/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "De Blasio says Trump administration played 'valuable role' in getting COVID-19 vaccine quickly"
+    excerpt: "New York City Mayor Bill de Blasio on Tuesday praised the Trump administration for its \"valuable role\" in getting a coronavirus vaccine out quickly -- after President-elect Joe Biden said the administration deserves credit."
+    publishedDateTime: 2020-12-22T17:57:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n209tAs7mNM/de-blasio-trump-administration-valuable-role-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-trump-administration-valuable-role-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump declares war on Thune, but Noem says she won't challenge senator"
-    excerpt: "Soon after President Trump declared that South Dakota Sen. John Thune's \"political career is over,\" the state’s governor and Trump ally Kristi Noem called the number two Republican in the Senate \"a friend\" and said she wouldn’t \"be challenging\" Thune when he is up for re-election in 2022."
-    publishedDateTime: 2020-12-23T15:12:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8f7RMBp0MMs/trump-thune-noem-south-dakota"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says Moderna COVID-19 vaccine distribution will start 'immediately,' signals to Europe vaccines to come"
+    excerpt: "President Trump on Friday said distribution of the Moderna vaccine will start \"immediately\" after it was \"overwhelmingly approved\" this week, while signaling to European nations that have been \"hit hard\" that coronavirus vaccines would be \"on their way\" to them, as well."
+    publishedDateTime: 2020-12-18T13:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mHqCzc-cOj0/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-moderna-covid-19-vaccine-distribution-start-immediately-europe-to-come.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump grants 15 pardons, 5 commutations"
-    excerpt: "President Trump issued full pardons to 15 individuals and commuted part or all of the sentences of an additional five people, the White House announced Tuesday."
-    publishedDateTime: 2020-12-23T00:18:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+  - title: "Trump praises COVID-19 vaccine rollout: 'Great miracle'"
+    excerpt: "President Trump on Tuesday said the distribution of the Pfizer and Moderna coronavirus vaccines is going \"very smoothly,\" calling the efforts of his administration to complete vaccines against COVID-19 a \"great miracle."
+    publishedDateTime: 2020-12-22T15:53:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-covid-19-vaccine-rollout-great-miracle.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20353841936137.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Who is Charles Kushner, who was pardoned by Trump?"
-    excerpt: "President Trump issued 26 pardons on Wednesday, including several with personal ties to the president or members of his administration. One of them is Charles Kushner, father of Trump's adviser and son-in-law, Jared Kushner."
-    publishedDateTime: 2020-12-24T14:21:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xh4B44uoAhI/who-is-charles-kushner-trump-pardon"
-    ampWebUrl: "https://www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20359026146833-e1608817865436.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
-    excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
-    publishedDateTime: 2020-12-22T03:09:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aX2HxSADYtY/members-of-congress-trump-electoral-college-objections-on-jan-6"
-    ampWebUrl: "https://www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump Lawyers Get Little Backup From Their Firms or Universities"
-    excerpt: "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election."
-    publishedDateTime: 2020-12-25T10:50:00Z
-    webUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+  - title: "Trump Asks Congress to Amend Covid-19 Package, Boost Direct Payments"
+    excerpt: "President Trump tweeted a video criticizing the $900 billion coronavirus relief legislation passed by Congress, calling for lawmakers to increase direct payments to Americans to $2,000 from $600."
+    publishedDateTime: 2020-12-23T00:57:00Z
+    webUrl: "https://www.wsj.com/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-asks-congress-to-amend-covid-19-package-boost-direct-payments-11608684702"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-277452/social"
-        width: 1280
-        height: 640
+      - url: "https://images.wsj.net/im-207060/social"
+        width: 1281
+        height: 670
         isCached: true
-  - title: "Trump takes meetings on Christmas to urge Congress to pass $2K stimulus checks"
-    excerpt: "President Trump repeated his calls for Congress to approve $2,000 coronavirus stimulus checks in a Christmas Day tweet, announcing he has been taking meetings over the holiday to secure a deal"
-    publishedDateTime: 2020-12-25T22:35:00Z
-    webUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
-    ampWebUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-12.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
-    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-    publishedDateTime: 2020-12-18T20:25:00Z
-    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
-    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+  - title: "Covid-19 Aid Bill Remains Uncertain as Trump Calls for Larger Payments"
+    excerpt: "The delay could result in a suspension of unemployment benefits for millions and a possible shutdown of the federal government."
+    publishedDateTime: 2020-12-26T23:30:00Z
+    webUrl: "https://www.wsj.com/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/millions-to-lose-unemployment-benefits-amid-trumps-opposition-to-virus-aid-bill-11609007415"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 114
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
-        width: 620
-        height: 413
+      - url: "https://images.wsj.net/im-278316/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump says ‘good news’ is coming on COVID-19 relief bill"
+    excerpt: "President Trump on Sunday said “good news” was forthcoming on the $900 billion coronavirus relief bill which he has been refusing to sign. “Good news on Covid Relief Bill."
+    publishedDateTime: 2020-12-28T00:06:00Z
+    webUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/"
+    ampWebUrl: "https://nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/27/trump-says-good-news-is-coming-on-covid-19-relief-bill/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201227-trump-covid-bill.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Signs Covid-19 Aid Bill Averting Government Shutdown"
+    excerpt: "President Trump signed a sweeping pandemic-aid bill on Sunday night, according to people with knowledge of the matter, ending a standoff with Congress and paving the way for millions of Americans to get economic relief as the coronavirus pandemic surges across the country."
+    publishedDateTime: 2020-12-28T06:10:00Z
+    webUrl: "https://www.wsj.com/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841?mod=hp_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-278393/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
+    publishedDateTime: 2020-12-25T05:23:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4PpzfiIZutMmzhXx7cqez1BSJDjFqNDTbW6ZRQUQ7+HXPJTza4VbTKWi4gW/wUalgH0d5fxzOtiGL13YwlEAgYf+jRZbtrYaTCzePplhtU09EzrJi534zrB6vYCgRAhoLamMVPhZ8Cc1b/lBWOEde9/YkMHotKL/ioJK+4qbdzcTsri+Q+wqJ2sBrc6tHmUHQsViQb4QY7uDmzIN5xPn6n3iNL0HFDsILJyvq9ASrlooIPoDt19UdRLUXe8XjxFlEeVMxK/MhovU9CXZIO2I2ZJsVjHIhnn5K+Eqq2fGy+FSd3iCRDygT+qanTnIEp6QD+Pl912GcGJJTBaFyQxlz99X9KTIqMgpgMIlMztYDT0=;X6eEENcgO000BgexBfmQSQ=="

@@ -32,133 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration removes experts from Defense Policy Board"
-    excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
-    publishedDateTime: 2020-11-26T18:39:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k8suVwUNIo4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+  - title: "Senate fails to block Trump-backed arms sale to United Arab Emirates"
+    excerpt: "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n"
+    publishedDateTime: 2020-12-10T01:18:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump admits 'it's hard to get to the Supreme Court'"
-    excerpt: "CNN's Amara Walker and Carl Bernstein discuss President Trump's admission during a Fox News interview that \"it's hard\" to get cases to the Supreme Court and how Trump's continued legal challenges could undermine future election processes.\n    \n"
-    publishedDateTime: 2020-11-29T19:57:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lg3rilrlAME/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
+  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
+    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-09T22:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050331-02-donald-trump-thanksgiving-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: How Michael Flynn perfectly explains Donald Trump's presidency"
-    excerpt: "Three weeks into Donald Trump's presidency, he fired Michael Flynn as his national security adviser. On Wednesday, eight weeks to the day when Trump will leave the White House, he pardoned Flynn for lying to the FBI as part of the investigation into Russian interference in the 2016 election.\n    \n"
-    publishedDateTime: 2020-11-26T02:27:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_WXSWKniNEU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-flynn-pardon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-flynn-pardon/index.html"
+  - title: "Trump tells allies he will run in 2024, but hints he may back out"
+    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
+    publishedDateTime: 2020-12-14T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170114094510-trump-flynn-campaign-trail-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump digs deeper into debunked conspiracy theories instead of embracing reality "
-    excerpt: "At first, President Donald Trump's refusal to concede an election he clearly lost appeared to many of his allies a temporary stage of grief. Give it a few days, some shrugged. A week, tops.\n    \n"
-    publishedDateTime: 2020-11-20T14:52:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-3-GJql1x0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120140503-02-white-house-1118-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Supreme Court hears arguments in Trump plan to cut undocumented immigrants from Census"
-    excerpt: "The Supreme Court on Monday will return and take up another of President Donald Trump's immigration-related policies as it considers the attempt to exclude undocumented immigrants from being counted in the Census totals when seats in Congress are divvied up between the states next year.\n    \n"
-    publishedDateTime: 2020-11-30T12:03:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swnpTxDOwdk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Trump administration is considering shortening the recommended quarantine time for Covid-19"
-    excerpt: "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n"
-    publishedDateTime: 2020-11-24T22:39:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kG7dcpjim5o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
-    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
-    publishedDateTime: 2020-11-26T22:45:00Z
-    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump Gave W.H.O. a List of Demands. Hours Later, He Walked Away."
-    excerpt: "When President Trump quit the health organization, he left a list of seven demands on the table. Here they are."
-    publishedDateTime: 2020-11-27T14:43:00Z
-    webUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
+  - title: "After Trump's toilet rant, efficiency standards rolled back on showers, laundry machines"
+    excerpt: "Trump has spent much of the past year lamenting the functionality of toilets, showers, dishwashers, sinks, and other appliances and bathroom fixtures."
+    publishedDateTime: 2020-12-17T00:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/months-after-trump-s-toilet-rant-admin-rolls-back-shower-n1251399"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251399"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251399"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
     images:
-      - url: "https://static01.nyt.com/images/2020/11/23/world/00trump-who-1/00trump-who-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436183/201216-donald-trump-melania-hair-jm-1253_ede4f40ed1b5aca7b381951744805c48.jpg"
+        width: 1758
+        height: 1171
         isCached: true
 
 secured: "ysROvjkX5gtKKGR7TskX9VMX0qBpn9CY/bccrAS8dej+Tp7UAbopq3hlcabEhlh3MIOc3Jmi5ejYf4dp5tHtcmWylStbB5oiHA35Syd0615qlq2Km3d4kEpxjiUOl2F2Ns64NAHJYuoKxoeN9hdxTSbQ7o8b+B6vjKTBwEipd6lC8ksnIDK3SJ4d/3NvZJCrUZ3iUPaeACU1XKG3ZB8DJxOA7KgNfhFW5yGMgXZIG6SyGLsouqn7T+IwhNbkbd9e1Tja3WwSdqhlHjR4DFFijQm7BPI82VRwGwbAQNeFb1kRro1eVkRj2e64VnCObKMlaY8qqwzNWCOtw0RmUgo0ilhCGQfnXPGXOoYyJSd9ZW0=;sjgwuFQepo5wASVcAOHSMg=="

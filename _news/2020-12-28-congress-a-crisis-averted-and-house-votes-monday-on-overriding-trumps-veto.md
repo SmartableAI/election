@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: This is always how the Trump presidency was going to end"
+    excerpt: "It was once said about a famous TV personality that when he left a job, he didn't burn bridges with his past employer, he napalmed them.\n    \n"
+    publishedDateTime: 2020-12-24T15:47:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dSqmWwM4uxc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/donald-trump-pardons-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223163736-02-trumps-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's been playing the pardon long game his entire presidency "
     excerpt: "More than a year and a half ago, special counsel Robert Mueller had caught on to what President Donald Trump might do with his pardon power.\n    \n"
     publishedDateTime: 2020-12-24T14:54:05Z
@@ -92,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191118113014-trump-mueller-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Donald Trump is already the 2024 GOP frontrunner"
+    excerpt: "Poll of the week: A new Gallup poll finds that 87% of self-identified Republican voters approve of President Donald Trump's job performance.\n    \n"
+    publishedDateTime: 2020-12-27T13:30:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kmk8N2CSQRA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-2024-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House veto override may show Trump's grip on GOP slipping"
+    excerpt: "President Donald Trump's ability to scramble American political lines continues even from the golf course, with House votes Monday showing that his feverish hold over the GOP -- and US government -- is hurtling toward a humbling end.\n    \n"
+    publishedDateTime: 2020-12-29T05:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DV6Cff8dZmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-house-votes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227185708-03-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump angered by Mar-a-Lago renovations, sources say"
     excerpt: "His mood darkened as soon as he walked into his members-only club Mar-a-Lago, three days before Christmas, according to multiple sources. The changes to his private quarters, many of which were overseen by his wife, first lady Melania Trump, were not to President Donald Trump's liking, and he was mad"
     publishedDateTime: 2020-12-29T19:45:46Z
@@ -124,6 +172,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kinzinger: Trump's refusal to sign relief bill 'shows the chaos of the whole thing'"
+    excerpt: "Republican Illinois Rep. Adam Kinzinger said Sunday that President Donald Trump's refusal to sign a $900 billion relief package Congress passed last week and allow critical benefits to lapse for millions of jobless Americans \"shows the chaos of the whole thing.\"\n    \n"
+    publishedDateTime: 2020-12-27T19:24:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQGOYF0DCzM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/republicans-trump-relief-bill-adam-kinzinger-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -207,6 +271,54 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "From Reagan to Trump, Denying Facts"
+    excerpt: "The line from Ronald Reagan to Donald Trump and our current situation may be even straighter and darker than Paul Krugman paints it. Consider the following core Reagan messages: Government is your enemy."
+    publishedDateTime: 2020-12-27T19:37:00Z
+    webUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/opinion/letters/republicans-facts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/15/opinion/15KRUGMAN_PRINT/14krugmanWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Jobless benefits run out as Trump resists signing the relief bill."
+    excerpt: "Two critical federal unemployment programs expired on Saturday as President Trump resisted signing a sweeping $900 billion aid package into law until lawmakers more than tripled the size of relief checks."
+    publishedDateTime: 2020-12-27T16:57:00Z
+    webUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/jobless-benefits-run-out-as-trump-resists-signing-the-relief-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/26/realestate/26virus-briefing-stimulus/26virus-briefing-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Barr Leaves a Legacy Defined by Trump"
+    excerpt: "Though he sometimes departed from the president, the outgoing attorney general’s term was dominated by how he navigated the Russia investigation and other fraught issues."
+    publishedDateTime: 2020-12-28T23:11:00Z
+    webUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/28/us/politics/william-barr-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27DC-BARR1/merlin_175304568_65cdad1a-d5c5-48bb-93ba-e0d6f88c3dc7-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C."
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency."
     publishedDateTime: 2020-12-16T10:00:00Z
@@ -265,17 +377,45 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
-    excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."
-    publishedDateTime: 2020-12-30T09:33:00Z
-    webUrl: "https://www.politico.com/news/2020/12/30/electoral-college-biden-trump-452081"
+  - title: "Members of Congress to Trump: Sign stimulus bill"
+    excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
+    publishedDateTime: 2020-12-27T16:18:00Z
+    webUrl: "https://www.politico.com/news/2020/12/27/stimulus-bill-congress-trump-450835"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 114
+    quality: 115
     images:
-      - url: "https://static.politico.com/30/2b/c8c343124e928702b15201fd09eb/201229-capitol-getty-773.jpg"
+      - url: "https://static.politico.com/ce/73/9bc48fe949378f87eef55cc895e7/190910-pat-toomey-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump backs down, signs stimulus package"
+    excerpt: "A government shutdown was averted after the president approved the Covid relief package and annual spending bill."
+    publishedDateTime: 2020-12-28T01:47:00Z
+    webUrl: "https://www.politico.com/news/2020/12/27/congress-stimulus-deal-450380"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/59/f1/5ddcfde546d3a390ce77cd2a0f9d/ap20358774087431-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump leans on McConnell for $2,000 checks amid GOP resistance"
+    excerpt: "The Senate majority leader blocked a Democratic proposal to boost payments and has said little about his plans."
+    publishedDateTime: 2020-12-30T04:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/29/2-000-checks-sputter-mcconnell-blocks-dems-451918"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c9/4d/d6b42f1b489980efa797ba0d3eac/ap20350765074225.png"
         width: 1160
         height: 773
         isCached: true

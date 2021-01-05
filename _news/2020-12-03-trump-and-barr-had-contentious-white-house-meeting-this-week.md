@@ -31,164 +31,175 @@ images:
     isCached: true
 
 related:
-  - title: "William Barr breaks with Trump's election fantasy"
-    excerpt: "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n"
-    publishedDateTime: 2020-12-02T07:27:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
+  - title: "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris"
+    excerpt: "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n"
+    publishedDateTime: 2020-12-09T23:35:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 190
+    quality: 191
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902162801-bill-barr-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130630135736-john-eastman-traditional-marriage-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Trump's baseless election claims loom over Georgia Senate debate"
-    excerpt: "Republican Sen. Kelly Loeffler of Georgia and her Democratic opponent Rev. Raphael Warnock are set to face off in a debate on Sunday ahead of a pivotal runoff election next month.\n    \n"
-    publishedDateTime: 2020-12-07T00:35:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5eLhDlddxlU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/kelly-loeffler-raphael-warnock-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/kelly-loeffler-raphael-warnock-debate/index.html"
+  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
+    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
+    publishedDateTime: 2020-12-10T12:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 190
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206142001-03-raphael-warnock-kelly-loeffler-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "While Trump rants about votes, none of his election security officials support him "
-    excerpt: "President Donald Trump is increasingly isolated in his claims of election fraud as a growing number of senior administration officials are either directly contradicting his baseless allegations or refusing to echo them.\n    \n"
-    publishedDateTime: 2020-12-04T23:51:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NTK-6cpoHhc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
+  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
+    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-10T02:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 184
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916062816-donald-trump-0901-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump frustrated with Barr after election comments but officials don't want AG fired, sources say"
-    excerpt: "President Donald Trump is frustrated with Attorney General William Barr after his comments to The Associated Press breaking from the President's false claims of fraud in the election, two sources tell CNN.\n    \n"
-    publishedDateTime: 2020-12-03T02:31:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nTgP5J13uOo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 177
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Congress moves to block Trump's Germany troop cuts in defense bill"
-    excerpt: "The final version of the National Defense Authorization Act has a provision that would effectively block President Donald Trump's attempt to significantly reduce US troops in Germany, a move the President said was because of Berlin's failure to spend adequate amounts on defense.\n    \n"
-    publishedDateTime: 2020-12-03T22:41:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/19og3FTT5bo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
+  - title: "Trump praised QAnon during meeting about keeping the Senate"
+    excerpt: "President Donald Trump brought up Rep.-elect Marjorie Taylor Greene's support for the dangerous QAnon conspiracy theory during a meeting on keeping the Senate with Majority Leader Mitch McConnell and other aides, a source familiar with the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-03T18:55:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSqlcfVccwo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130726-01-trump-1203-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Attorney General William Barr to step down, Trump says"
-    excerpt: "William Barr will be leaving his role as attorney general, President Donald Trump tweeted on Monday evening.\n    \n"
-    publishedDateTime: 2020-12-14T22:58:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSmnyEslCR4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/14/politics/william-barr-out-as-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/william-barr-out-as-attorney-general/index.html"
+  - title: "Analysis: Al Gore conceded on this date. Trump still hasn't"
+    excerpt: "President Donald Trump shows no signs of acknowledging reality, as he continues his hopeless journey to overturn the 2020 election results. Whether he likes it or not, it's President-elect Joe Biden who will be president starting on January 20.\n    \n"
+    publishedDateTime: 2020-12-13T15:21:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mFygR2rYmmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201213004721-william-barr-1015-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Wisconsin’s Top Court Rejects Trump Lawsuit as His Election Push Fades"
-    excerpt: "The Supreme Court in the state narrowed yet another legal path for the Trump campaign as it tries to overturn his loss to Joe Biden."
-    publishedDateTime: 2020-12-04T00:11:00Z
-    webUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/03/us/politics/03wisconsin/03wisconsin-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "McEnany incorrectly credits Trump with White House AIDS ribbon"
-    excerpt: "The press secretary made the false assertion while defending the administration for its omission of LGBTQ people in a World AIDS Day statement."
-    publishedDateTime: 2020-12-02T20:37:00Z
-    webUrl: "https://www.politico.com/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/74/5b/33b208544690b59793476e22219f/ap20336673666172-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
-    excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
-    publishedDateTime: 2020-11-27T14:04:00Z
-    webUrl: "https://www.nbcnews.com/now/video/experts-worry-trump-can-t-be-trusted-with-nation-s-secrets-after-leaving-office-96714821678"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96714821678"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96714821678"
+  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
+    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
+    publishedDateTime: 2020-12-11T04:47:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 174
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump rebukes Barr, complains AG ‘hasn’t done anything’ with baseless fraud claims"
-    excerpt: "The president also said Justice Department officials “haven’t looked very hard, which is a disappointment, to be honest with you.”"
-    publishedDateTime: 2020-12-04T03:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/03/trump-william-barr-fraud-claims-442641"
+  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
+    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
+    publishedDateTime: 2020-12-10T19:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 109
+      name: CNN
+      domain: cnn.com
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/557ffa23-c050-4521-b292-a1030422be9d/28017a41-ef89-4e1d-a00e-6f91e74ebf57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
+  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
+    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
+    publishedDateTime: 2020-12-12T05:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dianne Feinstein wants Alex Padilla to replace Kamala Harris in Senate"
+    excerpt: "Calif., is throwing her support to California Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris when she is sworn in as vice president \"I know him. And my sense is that he's going to represent California very well."
+    publishedDateTime: 2020-12-02T23:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/dianne-feinstein-wants-alex-padilla-replace-kamala-harris-senate-n1249773"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249773"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249773"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429311/201118-alex-padilla-al-1302_81e1861128631a14e6087a1ab33ff821.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts"
+    excerpt: "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla."
+    publishedDateTime: 2020-12-14T13:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250975"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
+    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
+    publishedDateTime: 2020-12-10T02:39:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "xRc9f2hs5fwSMCZg2Dssx1kfyiylPXM/PigSAN/Ft9MssbLIPX8Jgpf9B2mnayaLviXS6Gu1HkIjDe/GDrzPoPxM3R1tzskRC96PwmQpHFG3DDfqFLJ6f4coCLWhCrtp4VkfHl0JxBrSHZ8mghF7JyM4FyLpXAam03QtFZe11ybNQsMI45M3CUO04udeISxZJHFmZD3mymfRSZ+ajOScjrNEVEF1ToUJePCxw6rvlnATXrEPKFzCiyPp1sirOj3De7/cJSeJ2itTzz/SgjM04euSzEo9fmWzvg3fvSYDU3XD8xs+oSAaMZNPlDOV57ABQ5XzSgFqBS390U9XmlBQPvs7W7CW7ChoNmyVYVjayiE=;xfYx7tRXh4Qnc6peLN9mpw=="
 ---

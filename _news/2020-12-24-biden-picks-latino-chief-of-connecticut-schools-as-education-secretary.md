@@ -80,35 +80,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden faces uncertain outlook for quick confirmation of Cabinet nominees as some Republicans urge caution"
-    excerpt: "President-elect Joe Biden has been moving swiftly to fill out much of his Cabinet. Whether the Senate will do the same is another question.\n    \n"
-    publishedDateTime: 2020-12-22T22:54:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-wVjeXv_us/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-cabinet-confirmation-senate-republicans/index.html"
+  - title: "Federal criminal investigation into Hunter Biden focuses on his business dealings in China"
+    excerpt: "President-elect Joe Biden's son, Hunter Biden, said Wednesday in a statement that he learned his tax affairs are being investigated by the US Attorney's Office in Delaware.\n    \n"
+    publishedDateTime: 2020-12-09T21:58:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QOnWTtL1W08/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/hunter-biden-tax-investigtation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/hunter-biden-tax-investigtation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201219144958-01-biden-climate-team-announcement-1219-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden weighs options for education secretary who will face early political pressure in school reopening bid"
-    excerpt: "President-elect Joe Biden promised to nominate a teacher for education secretary -- and could quickly put his choice into a political pressure cooker, as teachers' unions balk at school reopening plans and Biden seeks to reopen most schools within 100 days of taking office.\n    \n"
-    publishedDateTime: 2020-12-19T13:14:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLdhyZm-QC8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/joe-biden-education-secretary-decision/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/joe-biden-education-secretary-decision/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218161335-biden-education-secretary-possibilities-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209123824-02-hunter-joe-biden-2016-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

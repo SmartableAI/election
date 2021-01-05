@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spendi
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/"
 type: article
 quality: 135
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -28,37 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Abortion, Guns and Trump: A Church Group Tries to Navigate America’s Divisions"
-    excerpt: "In suburban Michigan, a group of worshipers from Calvary Christian Reformed Church sought understanding through dialogue. Sometimes it was tough going. ‘My soul is hurting,’ one member lamented."
-    publishedDateTime: 2020-12-18T18:35:00Z
-    webUrl: "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552"
-    ampWebUrl: "https://www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552"
+  - title: "Trump attorney refuses to confirm COVID-19 diagnosis, says she’s received death threats"
+    excerpt: "Attorney on the Trump campaign’s legal team, Jenna Ellis, refused to confirm for Fox News whether or not she has in fact tested positive for the coronavirus as other outlets reported Tuesday, but said she has received death threats since the news broke."
+    publishedDateTime: 2020-12-08T23:49:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9RvLUg4Yd0s/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats"
+    ampWebUrl: "https://www.foxnews.com/politics/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
-      - url: "https://images.wsj.net/im-274212/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
-    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-    publishedDateTime: 2020-12-18T20:25:00Z
-    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+  - title: "Trump tweets Rudy Giuliani has tested positive for COVID-19"
+    excerpt: "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on"
+    publishedDateTime: 2020-12-06T20:34:00Z
+    webUrl: "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/"
+    ampWebUrl: "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-251063/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/rudy-covid.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Pse6ujRF180zmqNAz/PYm978fexUOZS41VhdFQpmguDZVdeAr2c9nHsZSD7615QXvLhsCFPjRNF7tKi2PEhKOfgQjUVSMQ61QW5oTYgw0UcxDV+G758Qrz5sUa5IMjjjcS0svPHEKHALYqNU1Y08QMkADkf7Fq+C91ubimdyxa7oxNKPWvafZ+VB06ldvA1mt43EfLM0PodoI9Vs+GSLStkTK1aF28LxA0uNgqSoJHBAgzj9M5bxRdXHM6T522ooir3oEpI/gBTd74t2f4dtfKudfKFXlhY4HLayO7dxeSHMALJPkwVQhdOEWd2pjNW+IF+69SvhDrQ+abMyb3zSvqeceGR70eUIhJ2iCk9c2fw=;s5D7fj6fMKoZoJdN+BotZA=="

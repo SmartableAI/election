@@ -31,44 +31,12 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
-    excerpt: "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States."
-    publishedDateTime: 2020-12-02T20:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Iran says it will comply with nuclear deal if Biden lifts all sanctions"
-    excerpt: "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal"
-    publishedDateTime: 2020-12-03T16:23:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "AP sources: Biden picks Marcia Fudge for HUD secretary"
-    excerpt: "WASHINGTON — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision. Fudge was first elected to Congress in 2008 to represent a district that includes Cleveland,"
-    publishedDateTime: 2020-12-08T23:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Biden criticizes pace of vaccine rollout, vows to accelerate"
+    excerpt: "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines, saying it is “falling far behind.”"
+    publishedDateTime: 2020-12-29T05:06:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -79,261 +47,137 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden selects Katherine Tai as U.S. trade representative"
-    excerpt: "President-elect Joe Biden plans to nominate Katherine Tai to be U.S. trade representative, according to three people familiar with the decision. Tai, who has been the chief trade counsel on the House Ways and Means Committee since 2017,"
-    publishedDateTime: 2020-12-09T23:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
+  - title: "Biden criticizes pace of vaccine rollout, vows to accelerate"
+    excerpt: "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines and predicting that “things will get worse before they get better” when it comes to the"
+    publishedDateTime: 2020-12-29T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate/2020/12/29/8f1af018-4a4d-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMK24QB2MMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Biden team to meet with Latino lawmakers amid calls for diverse cabinet picks"
-    excerpt: "Congressional Hispanic Caucus has pushed for the president-elect to select a Latino person to lead a major federal agency"
-    publishedDateTime: 2020-12-02T21:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+  - title: "Joe Biden's top foreign policy challenges in 2021"
+    excerpt: "The top foreign policy challenges for President-elect Joe Biden's incoming team include China's assertiveness and rebuilding U.S. alliances."
+    publishedDateTime: 2020-12-30T15:04:00Z
+    webUrl: "https://abcnews.go.com/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    ampWebUrl: "https://abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/joe-bidens-top-foreign-policy-challenges-2021/story?id=74607315"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-1-gty-er-201229_1609264991445_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
+    excerpt: "In a farewell letter to Congress, Education Secretary Betsy DeVos urged lawmakers to reject policies supported by President-elect Joe Biden, and to protect Trump administration policies that Biden has"
+    publishedDateTime: 2021-01-04T23:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ac7c9c071d014d49aa21c6de04c480e1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden gets vaccine, says 'nothing to worry about'"
+    excerpt: "President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe. (Dec. 2"
+    publishedDateTime: 2020-12-21T22:26:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/21/biden-gets-vaccine-says-nothing-worry-about/4000093001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/64174d5b-87c9-41ea-a9eb-ca4e987ff3c5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden: Vaccine rollout 'falling behind’"
+    excerpt: "Posted [NFA] President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fall"
+    publishedDateTime: 2020-12-30T02:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMoO?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5febd443e4b04d4457632ac3-1609290819689?location=LANDSCAPE"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Biden: Vaccine rollout has ‘fallen behind’"
+    excerpt: "Vaccine rollout has ‘fallen behind’ Posted . President-elect Joe Biden on Tuesday criticized the Trump Administration’s vaccine rollout, saying it has fallen"
+    publishedDateTime: 2020-12-30T01:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDB2FLJZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201230&i=OVDB2FLJZ&r=OVDB2FLJZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Congress opening new session as virus, Biden's win dominate"
+    excerpt: "Congress is preparing to convene for a new session with lawmakers sworn into office during a tumultuous period"
+    publishedDateTime: 2021-01-03T21:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-opens-session-covid-19-bidens-win-dominate-75020965"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden wants to fill federal court seats – but he needs to win the Senate first"
+    excerpt: "Trump went into overdrive on filling court seats, but the Democrats must win in January’s runoff or a Republican Senate will block them at every turn"
+    publishedDateTime: 2021-01-02T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/02/courts-biden-senate-democrats"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 122
+    quality: 101
     images:
-      - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden has picked a retired general for defense secretary. Here’s why it matters."
-    excerpt: "President-elect Joe Biden announced his nominee for defense secretary would be retired Army. The move would make the former U.S. Central Command leader the first Black secretary of defense. Biden would also be the second consecutive president to begin his tenure with the nomination of a retired military officer for the post."
-    publishedDateTime: 2020-12-09T22:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2ZROABZFII6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 946
-        isCached: true
-  - title: "Hunter Biden, long a GOP political target, reveals he is subject of federal tax probe"
-    excerpt: "Hunter Biden, the president-elect's embattled son, announced Wednesday that federal prosecutors in Delaware are investigating his \"tax affairs.\""
-    publishedDateTime: 2020-12-10T00:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/hunter-biden-01-gty-llr-201209_1607550823079_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden defense nominee’s need for a congressional waiver sows discomfort among Democrats"
-    excerpt: "Democrats who voted never to bend the rules governing civilian leadership at the Pentagon were left looking for loopholes to justify their support for retired Gen. Lloyd J. Austin III."
-    publishedDateTime: 2020-12-09T01:01:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SI6QUTBZWMI6XPDIS2XQ3KXHFA.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid"
-    excerpt: "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president."
-    publishedDateTime: 2020-12-04T22:24:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 116
-    images:
-      - url: "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
-    excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
-    publishedDateTime: 2020-12-07T22:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-stimulus-idUKKBN28H2SR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2SR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2SR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543740708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61KL"
-        width: 754
-        height: 545
-        isCached: true
-  - title: "Biden shortlist for White House key environmental post shows focus on environmental justice"
-    excerpt: "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,"
-    publishedDateTime: 2020-12-01T11:29:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN28B4LN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B4LN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B4LN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "A Maryland immigrant hoped to delay his deportation until Biden took office. It didn’t work."
-    excerpt: "The arrest of a man who had been in the United States for 20 years has drawn anger from those who hope that the end of the Trump administration will keep ICE from acting unilaterally in sanctuary jurisdictions."
-    publishedDateTime: 2020-12-07T16:22:00Z
-    webUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KZGOKWBUCII6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 1004
-        isCached: true
-  - title: "President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs'"
-    excerpt: "WASHINGTON -- President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs.' Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general 24/7 coverage"
-    publishedDateTime: 2020-12-09T22:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 113
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
-    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
-    publishedDateTime: 2020-12-05T00:00:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
+      - url: "https://i.guim.co.uk/img/media/e5b25d91f19ef31e827ffe55577ae4c37af7f45f/0_237_4190_2516/master/4190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb09f0f6a25502db5121d186d0767040"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
-    publishedDateTime: 2020-12-07T12:53:00Z
-    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
-    excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
-    publishedDateTime: 2020-12-09T03:23:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Biden to Americans: we need your help"
-    excerpt: "Watch \"Biden to Americans: we need your help; president-elect outlines pandemic plan which include mask wearing and vaccine distribution\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2020-12-09T12:45:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201209120554-biden-to-americans-we-need-your-help-president-elect-outlines-pandemic-plan-which-include-mask-wearing-and-vaccine-distribution/"
+  - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
+    excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
+    publishedDateTime: 2020-12-29T21:26:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-response-plan-vaccine-distribution/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 100
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040589_1607515744.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
-    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
-    publishedDateTime: 2020-12-09T19:42:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/c0ee9fa5-cfc9-486e-97d6-fb0f7d792ca7/thumbnail/1200x630/3a6397e7cee8d7040b8a6e789e15cbe6/cbsn-fusion-joe-biden-covid-19-response-plan-vaccine-distribution-thumbnail-617751-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
-    excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
-    publishedDateTime: 2020-12-05T02:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 102
-    images:
-      - url: "https://www.chicagotribune.com/resizer/xvHs5DmNU-TWtuQsIVRcbg-B8P0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7CW27NKDBAWFFLEC2ZWZKZBJ4.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden to name Gen. Lloyd Austin as defense secretary, reports say"
-    excerpt: "Austin, a retired four-star general from Alabama, would be the first Black secretary of defense should he be confirmed by the Senate."
-    publishedDateTime: 2020-12-07T23:36:00Z
-    webUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html"
-    ampWebUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OTIKEDVUXBEYNEQC4QTIU6FNJA.jpg"
-        width: 720
-        height: 413
         isCached: true
 
 secured: "3Y19BE2QuyQtFGuBIy7eDpN86RAfplQZ7dP2TfcoP/t72+aT9CY+rO2lIloXCYkVKz4BRujHppex31tjBCUrLWExV4FmVJr96ltfxI8FBDereaQMWIFvl7W5T/bEwDPdk9AcM49us5CMeqIfjJ4VnproU7jhKnlyh1r3uZ4Ik/v6wnnim0lLbhRI9KA8CPu3f/mF1VZPQ8Sk6PXXtRS50+EyBgfa0j2OmDlV7qNlcT5nWLvOgABXS7029f8ElrIjt9xVS4MpWoaXcGpBy2wHkqfqYK9hZGI/Pq7IsoFCkTgXX61to0gwVUyFgyvAWQUdZwXJKCXNCCV4WwwfWrk6/SUHL+YwOIY/7kkGUKfQw4bGY58PxNpCEEXFcJhyScRxexDCXugUVnXu284y/IH1BfmlSr+QISUtsp3e+/HeyzHW1sEqOaPYWczGa/yv2piBgEQ5+1j7DDD0rAvTVgYPGIsSOf2UdrBESXaWNPzvfTGPN+vfz1P/MK9YsHVVbKp1vEhQhdEDADUBeNn3l7fuzw==;s6kvODDMv29yxU62pUGt4Q=="

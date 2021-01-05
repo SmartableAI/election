@@ -48,19 +48,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Arizona Gov. Doug Ducey defends election process after Trump attack"
-    excerpt: "Arizona Republican Gov. Doug Ducey sent a lengthy string of tweets Monday night defending the state's election process after being attacked by President Donald Trump for his handling of it.\n    \n"
-    publishedDateTime: 2020-12-01T04:57:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ss76q36fRQc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
+  - title: "Biden's popular vote margin over Trump tops 7 million"
+    excerpt: "President-elect Joe Biden's margin over President Donald Trump in the nationwide popular vote is now more than 7 million votes and may continue to grow as several states continue counting votes.\n    \n"
+    publishedDateTime: 2020-12-04T15:27:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O4dYmL3ux9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-popular-vote-margin-7-million/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-popular-vote-margin-7-million/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201132456-02-biden-economic-team-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -109,54 +109,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211113802-restricted-trump-1207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: GOP silence on Trump's false election claims recalls McCarthy era"
-    excerpt: "The silence of congressional Republican leaders as President Donald Trump's unfounded claims of election fraud grow wilder and more venomous increasingly resembles the party's deference to Sen. Joe McCarthy during the worst excesses of his anti-Communist crusade in the early 1950s.\n    \n"
-    publishedDateTime: 2020-12-01T12:09:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MeBlUYs1Nx8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 188
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130170258-mcconnell-1110-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia Republican officials reject Trump's calls to overturn election results"
-    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n"
-    publishedDateTime: 2020-11-30T19:06:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ui8p6fIzrZI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120184839-governor-brian-kemp-1112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Some Republicans, including Roy Blunt, would like to see Trump at Biden's inauguration "
-    excerpt: "When President Donald Trump lost this year's election to Joe Biden, almost nobody around him said they could envision the losing incumbent attending his successor's inauguration.\n    \n"
-    publishedDateTime: 2020-11-29T18:22:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oah7zvIHH1w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 182
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126141904-trump-biden-split-112620-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -237,102 +189,6 @@ related:
     quality: 176
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Canada to Trump: You can't take our prescription drugs"
-    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
-    publishedDateTime: 2020-11-30T16:16:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Trump's falsehood-filled weekend"
-    excerpt: "President Donald Trump was relatively quiet over the Thanksgiving holiday. But by Friday he was back to lighting up Twitter with a range of false claims about the 2020 presidential election. From Friday evening to Sunday evening, Trump tweeted and retweeted more than a dozen claims of election fraud,"
-    publishedDateTime: 2020-11-30T21:19:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4f6JgzD6BtA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127145444-01-trump-golfing-1127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Melania Trump's White House holiday decor spotlights essential workers"
-    excerpt: "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n"
-    publishedDateTime: 2020-11-30T15:13:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "READ: Trump's pardon of Michael Flynn"
-    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon last week of former national security adviser Michael Flynn.\n    \n"
-    publishedDateTime: 2020-11-30T23:07:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CWMM6zvlHNo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130175525-trump-flynn-pardon-signature-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump still has power to make policy. Watch what he does"
-    excerpt: "Another key state -- Arizona -- certified its election results on Monday. And Wisconsin did too, after a recount requested by Republicans wound up affirming Joe Biden's victory there. Yet President Donald Trump is in a state of suspended animation, pushing conspiracy theories about his loss as the world"
-    publishedDateTime: 2020-12-01T03:28:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJKQ4NN4wEM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/what-matters-november-30/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/what-matters-november-30/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130000216-donald-trump-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Dr. Scott Atlas resigns from Trump administration"
-    excerpt: "Dr. Scott Atlas, a highly controversial member of the White House's coronavirus task force, has resigned from his post in the Trump administration, according to a person who works with the task force.\n    \n"
-    publishedDateTime: 2020-12-01T00:49:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Al5Mp4xIf94/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/scott-atlas-resigns-trump-administration-coronavirus-task-force/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/scott-atlas-resigns-trump-administration-coronavirus-task-force/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021132548-atlas-trump-september-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -752,22 +608,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Department releases Trump's pardon of Flynn and asks court for dismissal"
-    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon of former national security adviser Michael Flynn and formally asked a federal court to dismiss the case against him.\n    \n"
-    publishedDateTime: 2020-11-30T23:28:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rc1liRHkvaI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124230912-03-michael-flynn-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Federal appeals court rules against the Trump administration's public charge rule"
     excerpt: "The Ninth Circuit Court of Appeals on Wednesday ruled against the Trump administration's controversial \"public charge\" rule that critics say has a chilling effect on immigrants who may need to seek medical assistance, marking the latest blow against the regulation.\n    \n"
     publishedDateTime: 2020-12-02T21:58:28Z
@@ -1087,38 +927,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_pwi_trump_lawsuits_scotus_201209_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Full Panel: President Trump still falsely claiming voter fraud"
-    excerpt: "Kasie Hunt, Michael Eric Dyson, O. Kay Henderson and Hugh Hewitt join the Meet the Press roundtable to talk about the president's attempts to find voter fraud and the president-elect's transition challenges."
-    publishedDateTime: 2020-11-29T15:03:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-president-trump-still-falsely-claiming-voter-fraud-96816709743"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96816709743"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96816709743"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/mtp_full_panel_201129_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The King of Trump TV Thinks You’re Dumb Enough to Buy It"
-    excerpt: "Chris Ruddy, the C.E.O. of Newsmax, has found a business opportunity in feeding Trump supporters the fantasy that the president could still win the election."
-    publishedDateTime: 2020-11-30T01:07:00Z
-    webUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/29/business/29BENSMITH-01/29BENSMITH-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Trump Raises $170 Million as He Denies His Loss and Eyes the Future"
     excerpt: "The president’s campaign has ratcheted up its appeals for cash, but 75 percent of every contribution is going to a new political action committee that could fund his next political move."
@@ -1789,22 +1597,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432697/201202-donald-trump-jm-1425_2cb3f4930252baaa899e0b9669eafb1c.jpg"
         width: 2500
         height: 1567
-        isCached: true
-  - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
-    excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."
-    publishedDateTime: 2020-11-30T10:14:00Z
-    webUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30dc-scotus/30dc-scotus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Supreme Court skeptical of Trump's plan to exclude undocumented immigrants from census"
     excerpt: "Several justices, including some conservative ones, seemed to doubt that the president had such a sweeping power to modify the census results."

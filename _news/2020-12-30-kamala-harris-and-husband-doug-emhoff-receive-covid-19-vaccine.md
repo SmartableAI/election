@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vac
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/"
 type: article
 quality: 125
-heat: 405
+heat: 365
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/a249a2739f4a9d0398cf4e865cc5e773e044a963/0_145_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b9361eab2813c47c5cc31096143736c"
         width: 600
         height: 360
-        isCached: true
-  - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
-    excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
-    publishedDateTime: 2020-11-23T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJVQRVQ5RMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 963
         isCached: true
   - title: "Kamala Harris’ husband, lawyer Doug Emhoff, to teach next semester at Georgetown"
     excerpt: "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day."
@@ -212,22 +196,6 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
-  - title: "Kamala Harris' husband Doug Emhoff breaks gender stereotypes by putting her career ahead of his as second gentleman"
-    excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, is quitting his job to be second gentleman, breaking gender and race stereotypes."
-    publishedDateTime: 2020-11-12T23:01:00Z
-    webUrl: "https://www.cincinnati.com/story/money/2020/11/12/kamala-harris-husband-second-gentleman-doug-emhoff-breaks-stereotypes/6227849002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6227849002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6227849002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b4f7d491-8820-4536-b3c3-3bdd42e2b92c-AP_Election_2020_Emhoff_2.jpg?auto=webp&crop=3938,2216,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris rallies for Democrats in Savannah 2 days before Senate runoff"
     excerpt: "Vice President-elect Kamala Harris on Sunday urged voters on Georgia’s coast to get to the polls and elect Democrats Jon Ossoff and Raphael Warnock, kicking off a furious final stretch of campaigning ahead of Tuesday’s runoffs for control of the U."
     publishedDateTime: 2021-01-04T01:11:00Z

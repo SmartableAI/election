@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'"
-    excerpt: "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office."
-    publishedDateTime: 2020-12-07T12:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 143
-    images:
-      - url: "https://i.insider.com/5fce1adbeadd8400183df6be?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump campaign files last-ditch lawsuit in attempt to overturn Biden win in Wisconsin"
-    excerpt: "The suit, which legal experts said has little chance of prevailing, argues that elections officials improperly accepted more than 200,000 votes, but does not allege fraud."
-    publishedDateTime: 2020-12-02T04:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+  - title: "Chris Cuomo blasts GOP congressman for skipping his show over Trump election-claim questions"
+    excerpt: "Rep. Dusty Johnson (R-S.D.) replied that he was ready to discuss covid relief but not “hyper-partisan issues.”"
+    publishedDateTime: 2020-12-08T20:10:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 133
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4XC7WBUFII6XKMXD5GFHUVHI4.jpg&w=1440"
-        width: 1440
-        height: 1057
-        isCached: true
-  - title: "Arizona and Wisconsin certify Joe Biden's win as Trump continues to challenge results – live"
-    excerpt: "State officials effectively put to rest any doubt that Biden won as Trump campaign made its fifth request for Georgia officials to audit signatures"
-    publishedDateTime: 2020-11-30T22:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fc542bf8f08959b167738a7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 129
     images:
-      - url: "https://i.guim.co.uk/img/media/5d777dd5ba2466782f5b778dfcce7caa34bda9c0/0_260_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10758a1db0394570a074f5176379b121"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump"
-    excerpt: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
-    publishedDateTime: 2020-11-30T21:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win"
-    excerpt: "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside."
-    publishedDateTime: 2020-12-01T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6474822002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6474822002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 127
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/0c89899d-5747-45b1-a30d-0bfcc469be09-1_AP20218733705034.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UGSSZGRVTUI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Congress faces Christmas showdown with Trump over tech and defense bill"
     excerpt: "The U.S. Congress will return to Washington during its Christmas holiday break if necessary to override President Donald Trump's threatened veto of a $740 billion defense bill, lawmakers said on Monday,"
@@ -127,69 +63,83 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Trump teases 2024 run for president at White House Christmas party: ‘I’ll see you in four years’"
-    excerpt: "President Donald Trump teased running again for president in 2024 as he hosted a holiday reception at the White House."
-    publishedDateTime: 2020-12-02T19:59:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp"
+  - title: "The Note: Electoral College voting brings crossroads for Trump and his GOP"
+    excerpt: "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging."
+    publishedDateTime: 2020-12-14T13:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://www.chicagotribune.com/resizer/eWz6YaZpjv13UyZnuMN9_9d0L3U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MR5JQFF7QVAAZGFBXYO4BDLZII.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/Politics/Trump_rally_201_hpMain_20201213-185828_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Arizona certifies Biden's win as Trump's legal team holds an event in the state over the president's baseless claims of voter fraud"
-    excerpt: "The election was secure \"despite numerous unfounded claims to the contrary,\" Secretary of State Katie Hobbs said on Monday."
-    publishedDateTime: 2020-12-01T03:37:00Z
-    webUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
+  - title: "Thousands gather in D.C. for pro-Trump demonstrations as city braces for clashes"
+    excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
+    publishedDateTime: 2020-12-12T22:23:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://i.insider.com/5fc54f13037cbd0018612f22?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TF5BIQB4UAI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump is offering pardons 'like Christmas gifts' to people who don't even want them, according to a report"
-    excerpt: "The president and his closest associates face multiple civil and criminal probes once he leaves office."
-    publishedDateTime: 2020-12-08T12:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12?amp"
+  - title: "Loeffler dodges Warnock’s question: ‘Did Donald Trump lose the election?’"
+    excerpt: "Incumbent Sen. Kelly Loeffler (R) faced off against the Rev. Raphael Warnock (D) at a debate in Atlanta on Dec. 6."
+    publishedDateTime: 2020-12-07T01:35:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/loeffler-dodges-warnocks-question-did-donald-trump-lose-the-election/2020/12/06/a2533adf-3601-4a44-bf0f-2de198de53e2_video.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/5fcf6c47037cbd00186146f4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/z5BjkhatT6rV4BvuhVhnD2X36i4=/400x225/d1i4t8bqe7zgj6.cloudfront.net/12-07-2020/t_f790417729ee4886a5bc30d0dc8fb6cd_name_loeffler_scaled.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Death Stalks Joe Biden Still"
-    excerpt: "Biden had already lost a friend of 30 years. Maybe you’ve seen the haunting photo of Delaware state police officers standing next to the mutilated station wagon. It ran on page 2 of a local paper alongside an Associated Press story informing readers that Biden’s wife,"
-    publishedDateTime: 2020-12-07T20:32:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2020/12/who-joe-biden-lost-covid-19/617303/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/617303/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617303/"
+  - title: "'This Is a Phony Pandemic': GOP Congressman-Elect Praises Maskless Trump Supporters at Rally"
+    excerpt: "\"This looks like a group of people that get that this is a phony pandemic,\" Bob Good of Virginia told \"Stop the Steal\" rallygoers Saturday."
+    publishedDateTime: 2020-12-12T22:32:00Z
+    webUrl: "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365"
+    ampWebUrl: "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/BnBhQvWveliq5r9NCWCodrFgf6k=/0x0:1334x750/570x320/media/img/mt/2020/12/IMG_3348/original.jpg"
-        width: 570
-        height: 320
+      - url: "https://d.newsweek.com/en/full/1685454/bob-good-phony-pandemic-maskless.jpg"
+        width: 768
+        height: 434
+        isCached: true
+  - title: "With executions in final days of presidency, Trump is solidifying his criminal justice legacy"
+    excerpt: "The execution of multiple prisoners by the Trump administration in its final days has the potential to be definitive for a president who often tried to paint himself as a champion of criminal justice reform."
+    publishedDateTime: 2020-12-14T20:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/14/with-executions-final-days-presidency-trump-is-solidifying-his-criminal-justice-legacy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E7DCKOB3G4I6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 1027
         isCached: true
 
 secured: "9QenPxxpI+nEpK30NzUQGnAIx20uOkkoYY4bY3xthotnRLrdIkE3gydPmneo9tET9kDGwFYrDVZsQnxIxRI7lSvcb2FZPXgJw2O0m1N+p7YsQVkGO+13hrwmsNeRVcfM792jUeQwXoXDHTqfXSZR3aUha5CzufJGSJVJsqvfgBPeSjCuggJUsQvu3BsW2x7gYmsosatDBMol0epMtqDYvfxcxmomZg9A6BHTtywy65fA3tcA4vLSHe9m6sHB5vZn2vchDZfBDnSfqX73oXxcF4yfTNZipWBYJdbxwAfDmdd5COm8xI6NzgpL4RUlOO4xz7Dv8eCVHR+6cApKPI/AUhOBC5MBJpd4f8OmYh1IEbBzVg2EHXrWOg2TTZkHKXyfmt2WLpVQUxE2owUjjuee8tLV6MPy/uN3eYtuSLKF4yX5l1ThfZTh53en4CU093bpzkfD7A4K/8Q/He8Y0F03F4iwjk9M7MJyfULnZjr1LhqLtQsea+tA+F97C7gVxUAixc1mUY6Ytdt66gAKGh7yqA==;OVm18MhVOy2TqLGQ0O40Rg=="

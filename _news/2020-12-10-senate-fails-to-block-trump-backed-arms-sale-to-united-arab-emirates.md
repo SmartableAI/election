@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
+    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-09T22:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump tells allies he will run in 2024, but hints he may back out"
     excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
     publishedDateTime: 2020-12-14T09:37:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436183/201216-donald-trump-melania-hair-jm-1253_ede4f40ed1b5aca7b381951744805c48.jpg"
         width: 1758
         height: 1171
+        isCached: true
+  - title: "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families"
+    excerpt: "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data."
+    publishedDateTime: 2020-12-03T10:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "U5owTc+tzyo+Se3smhREXuPPujkqO3wIvZqIuB4pcJo4dTDFbXPt1r4J//U3emHvJvvIAouDOWmGkHDRREaPbYeh83rdYYnTI0eHFi33YAWw8on/9bdh5vAi3K2R31VZluR9z52NRSqVNMx33nLYR+IjSC4c+ljYuHmNscSWRZUgMskJ+uE/yKSBxdCeV36min6WpjgMTsLmB9OqttUCZ4awD0KOkJzg5Q2NoxHti3aXhpiPvX/SqmEzvE8b1pr7RkQzWPdiB/nEk9QCWhHGXPAJCfX+Tb3uSoVX42yNJ8rjyK6ZY5jobfeHWenf3enVlZJYNpsAWTdbZFnxTvZSN1pPlDkz2MWZ302DZ48mFBg=;rN0eaXkZEnIwYMZ/Src0Tg=="

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence to visit Greenville, discuss coronavirus vaccine distribution as cases soar"
+    excerpt: "Gov. Henry McMaster will join the vice president in what is being billed as a roundtable discussion of the coronavirus vaccines expected to be delivered this month."
+    publishedDateTime: 2020-12-08T20:15:00Z
+    webUrl: "https://www.postandcourier.com/greenville/news/mike-pence-to-visit-greenville-discuss-coronavirus-vaccine-distribution-as-cases-soar/article_bf0676ec-3992-11eb-b183-e7353c4b9996.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/df/3df87f42-1899-11eb-b8b2-7fb1efe2e861/5f988d802c5a1.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "ho06jwWa2uX47FeoTPIEGxYzHssDCD68Kmb60CMefTRUDnWXcMLKBC3tFIDoxNG0Na0o835ApnfKbROk4t2eTbAp9Soxmcq0hj4OInjKt/ugmKvwpVY2Co3dX1Hpgvd6N4TSGTFoSw8EPmacAZXM+QNdnrt13zJIuUj7XBV4QBkF1lLQKAaJM16XjFaDOnVYueUdEmq2TRVDTbtUbVhQxSX3dYsPzagOXrtk46OaeVSP/+3Pgw5huB18Ju+PmtWg1MIpNp5t9z1qFZOwPcPObheUfQOO6EY+9ovYvvlll66l1qK9tKn2NyYT6YN7TEBPd0kc66mKUzJuIkpRbLjpxfy3gAcs3EXaCXuqAvcCyAs=;BGfXsGmfE0SoToOM4FNtUQ=="
 ---

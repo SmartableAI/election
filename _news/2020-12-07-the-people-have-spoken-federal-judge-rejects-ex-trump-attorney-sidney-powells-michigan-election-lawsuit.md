@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3856164001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001"
 type: article
 quality: 122
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/sidney-powell-01-ap-iwb-201207_1607362601991_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Banished from the Trump legal team, attorney Sidney Powell still finds a guest chair on Fox"
+    excerpt: "What Dobbs didn’t mention is that eight days earlier, Donald Trump’s re-election campaign had put out a statement dropping Powell from their legal effort to overturn the resul"
+    publishedDateTime: 2020-12-01T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Sidney Powell's Trump lawsuit is the stuff of 'mythos' and has no basis in reality, said Georgia officials in bid for dismissal"
     excerpt: "Trump's claims of fraud and malfeasance \"would be extraordinary if true, but they are not,\" the joint filing stated."

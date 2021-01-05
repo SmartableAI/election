@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump praised QAnon during meeting about keeping the Senate"
-    excerpt: "President Donald Trump brought up Rep.-elect Marjorie Taylor Greene's support for the dangerous QAnon conspiracy theory during a meeting on keeping the Senate with Majority Leader Mitch McConnell and other aides, a source familiar with the matter confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-03T18:55:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSqlcfVccwo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Rudy Giuliani tests positive for coronavirus, Trump says"
     excerpt: "Rudy Giuliani, the personal attorney to President Donald Trump, has tested positive for Covid-19, Trump announced.\n    \n"
     publishedDateTime: 2020-12-06T20:42:44Z
@@ -96,21 +80,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
-    excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2020-11-25T23:38:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2I1VpYZoHk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
+  - title: "Trump administration pushes 'midnight regulations' after breaking records for final-year rulemaking "
+    excerpt: "President Donald Trump's political appointees are finalizing an array of last-minute federal regulations ahead of Joe Biden's inauguration, including rules that would make it harder to enforce environmental protections, tighten immigration, remove penalties for killing birds, and possibly eliminate food"
+    publishedDateTime: 2020-12-06T14:14:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1shxAlhb80k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/trump-midnight-regulations-record-rulemaking/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/trump-midnight-regulations-record-rulemaking/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump announces that Rudy Giuliani has Covid"
+    excerpt: "The president's lawyer has appeared maskless during meetings with state lawmakers in recent days. The meetings are part of the president's push to overturn the election results."
+    publishedDateTime: 2020-12-06T20:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-announces-rudy-giuliani-has-covid-n1250163"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250163"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250163"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3433723/201206-rudy-giuliani-jm-1526_276b300fa78aa533d50bc74cae50ef1f.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump Has Discussed With Advisers Pardons for His 3 Eldest Children and Giuliani"
     excerpt: "Rudolph W. Giuliani, who is promoting baseless claims of widespread election fraud, talked about a pardon with President Trump as recently as last week."

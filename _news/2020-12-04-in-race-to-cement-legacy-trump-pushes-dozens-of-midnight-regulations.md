@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203"
 type: article
 quality: 125
-heat: 265
+heat: 225
 published: true
 
 provider:
@@ -94,38 +94,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/5810645/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F88%2F91bd10ea6d51ae816b1f388ec194%2Fa247689e42154871b07009bde790748f"
         width: 320
         height: 209
-        isCached: true
-  - title: "Trump moves to strip job protections from White House budget analysts as he races to transform civil service"
-    excerpt: "The outgoing Trump administration is racing to enact the biggest change to the federal civil service in generations, reclassifying career employees at key agencies to strip their job protections and leave them open to being fired before Joe Biden takes office."
-    publishedDateTime: 2020-11-28T00:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVPRJABRAYI6XBQN66MZLGOLYI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The Finance 202: Trump failed to remake the Fed in his image. His legacy may be polarizing its confirmations."
-    excerpt: "President Trump’s four-year struggle to reshape the Federal Reserve in his image likely met its failed end Thursday. The Senate confirmed one of his last nominees to the central bank’s board: Christopher Waller,"
-    publishedDateTime: 2020-12-04T13:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCHDUVRUIMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Talk Of 'Preemptive' Pardons By Trump Raises Questions: What Can He Do?"
     excerpt: "Presidents have awarded clemency in this way before, but it's certainly not the usual course of action. And there are unresolved questions about what might be to come."

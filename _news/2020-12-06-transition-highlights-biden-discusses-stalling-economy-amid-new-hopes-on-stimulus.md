@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2020/12/04/us/joe-biden-trump.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/04/us/joe-biden-trump.amp.html"
 type: article
 quality: 128
-heat: 168
+heat: 148
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 108
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04transition-briefing-biden-jobs/merlin_180779328_573c5cc9-0524-4153-a319-93334f6b8c48-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Transition Live Updates: Biden to Speak on ‘Stalling’ Economy Amid Sluggish Job Growth"
-    excerpt: "President-elect Joe Biden is urging Congress to quickly pass another virus relief plan as leaders of both parties work toward a compromise. Vice President Mike Pence said the nation faced a ‘season of hope’ as vaccine efforts advance,"
-    publishedDateTime: 2020-12-04T15:24:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/04/us/joe-biden-trump"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 107
     images:
       - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04transition-briefing-biden-jobs/merlin_180779328_573c5cc9-0524-4153-a319-93334f6b8c48-facebookJumbo.jpg"
         width: 1050

@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats"
-    excerpt: "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration."
-    publishedDateTime: 2020-12-10T19:51:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "xi8o20juByl4XWfiMnfbuLXh+LZLzQgBld8jFr7ecVlTNqQM3Et0OXWjXSv+V6Un2NIo9x+olDfJvYYpYa+O04Km0zQP1rW+rWU6uZdA9vGV1eRA4iGjvaD7dbmThHHoFF3NMUBOw6m6d4SmPnoHh+bnHRF5e1b14bmFPdGOChxiAmyJ7AgiDFAbKzC39Nduip5b4jEmjIlyLywf/UfcggaSgJMutCjwent0a6QVHsWY8LIAjKzc/q2/4A+NnyHDpVbcBlu/RGqAXz3MhMqaQEr8+RmtcTBrDPgd3Px9H3PyPDizxmz186ZY31iV1ZX1k+psogcB6VDyxDs/Gk3msTBrDhyd+RvhUgQaZ9vnbcM=;qQzFHynYyoMdhJYWGIzgrA=="
 ---

@@ -47,35 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to name Gina McCarthy to top domestic climate job"
-    excerpt: "President-elect Joe Biden will name Gina McCarthy as his White House climate czar, a source familiar with the decision tells CNN, making the former head of the Environmental Protection Agency his top domestic climate coordinator.\n    \n"
-    publishedDateTime: 2020-12-16T01:17:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX_tA_svVOo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/gina-mccarthy-joe-biden/index.html"
+  - title: "Biden to tap New Mexico Rep. Deb Haaland as interior secretary"
+    excerpt: "President-elect Joe Biden has selected New Mexico Rep. Deb Haaland to serve as interior secretary, three people familiar with the matter tell CNN, marking another historic choice by nominating the first Native American to lead the department.\n    \n"
+    publishedDateTime: 2020-12-17T20:51:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p1rrbV-Mj4A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/deb-haaland-interior-secretary-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161202160232-gina-mccarthy-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden expected to nominate North Carolina environmental official to run EPA"
-    excerpt: "President-elect Joe Biden is poised to nominate Michael Regan of North Carolina to run the Environmental Protection Agency, two people familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2020-12-17T18:20:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h0CwGEfrJZM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-michael-regan-epa/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217131143-michael-s-regan-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111702-14-biden-admin-possibilities-haaland-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -172,6 +156,20 @@ related:
     quality: 134
     images:
       - url: "https://static.politico.com/f4/20/6dcf41294356bf7d220b24f0b8b2/201216-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden taps Susan Rice for top White House domestic policy job"
+    excerpt: "President-elect Joe Biden has tapped Obama’s former national security adviser Susan Rice to run the White House Domestic Policy Council, according to people familiar with the decision. Rice, who also served as the U."
+    publishedDateTime: 2020-12-10T15:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/10/biden-taps-susan-rice-for-top-white-house-domestic-policy-job-444231"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/56/16/b146704b4ab68f168a8bfcbefdd6/susan-rice-773-ap.jpg"
         width: 1160
         height: 773
         isCached: true

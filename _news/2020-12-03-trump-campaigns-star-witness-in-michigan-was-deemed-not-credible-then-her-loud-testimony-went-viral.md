@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/03/melissa-carone-mich
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/?outputType=amp"
 type: article
 quality: 108
-heat: -1
-published: false
+heat: 128
+published: true
 
 provider:
   name: Washington Post
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "'Not credible': Michigan court ruling another legal setback for President Trump"
-    excerpt: "A Michigan judge has denied a petition to block the certification of the 2020 election results in the heavily Democratic county that is home to Detroit, another legal setback for the Trump campaign, which has similar cases in several states."
-    publishedDateTime: 2020-11-14T02:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
+  - title: "'Unambiguous, loud and threatening': Trump supporters protest at home of Michigan Secretary of State Jocelyn Benson"
+    excerpt: "Secretary of State Jocelyn Benson said she and her son were preparing to watch a Christmas movie when the protesters showed up outside her home."
+    publishedDateTime: 2020-12-07T03:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/06/michigan-secretary-state-jocelyn-benson-protest-home/3853743001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3853743001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3853743001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
     images:
-      - url: "https://s.abcnews.com/images/Politics/counting-ballots-michigan-ap-jt-201113_1605303384179_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2018/10/03/PDTF/4d1cb9cc-996c-41ed-827d-f28cb68e9c8b-Jocelyn_Benson2.jpg?auto=webp&crop=3959,2227,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fDmKAPPRqWyY4Udm5JAI91ulymCm7IPJaefKfUi0aIMjidKBh/hF8y27wAz/5VpVaPsVkzQ0DoRsASfJGW05CInQP7zJtcyMn5UDxOlFEdJktEUpngM0WHyVOsISOVeUKWi1Y8RrdFWJjbY93Z24I+j3RO/SlodsmQ8rlLr4Bu5xJqE096dIt6hWIERwHlR6P4K2Zd0fBRbNqGOR5Yp8lsKVeC38BDAxFT8fKNlgAjpNZVOPSXuELkL99nBOqWxDg0Is6A7xIxvRAx6RlT+36oa8ITCm+fI9+BN6XnXNUqraoeZpOg3xHbt2JMa2xyqlE4DAjg6dRJqXVJDQBfj4EvHiVh0new7gK2oQqC2HoeE=;mdAoJmEQVAkVcSfyYW0ZqQ=="

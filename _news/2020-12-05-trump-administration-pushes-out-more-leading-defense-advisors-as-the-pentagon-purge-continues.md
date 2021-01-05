@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
 type: article
 quality: 114
-heat: 274
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Technology 202: Trump administration’s immigration feud with Silicon Valley isn't over yet"
-    excerpt: "The Trump administration is continuing to wage war against Silicon Valley on immigration, even in its dwindling days in office. The Justice Department sued Facebook for allegedly illegally discriminating against U."
-    publishedDateTime: 2020-12-04T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp"
+  - title: "Historians sue Trump administration to stop ‘bonfire of records in the Rose Garden’"
+    excerpt: "The American Historical Association and other groups fear President Trump, Jared Kushner, Ivanka Trump and others in his inner circle may not preserve critical records"
+    publishedDateTime: 2020-12-05T12:10:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LW6IDFBJG4I6XHBBHTCQDUEYD4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AORK3MQIWQI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
-        height: 919
+        height: 959
         isCached: true
   - title: "Trump administration to impose long-awaited sanctions on Turkey over Russian missile defense system"
     excerpt: "Ankara's purchase and testing of the S-400 system alarmed its NATO allies, and touched off demands in Washington to impose sanctions. The annoucement comes as Congress is poised to pass a defense bill that would have forced the administration's hand."
@@ -63,97 +63,6 @@ related:
         width: 1440
         height: 983
         isCached: true
-  - title: "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board"
-    excerpt: "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,"
-    publishedDateTime: 2020-12-04T20:31:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
-    excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
-    publishedDateTime: 2020-11-27T12:13:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 109
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Trump administration pushes pay freeze for federal workers, after initially calling for a 1 percent raise"
-    excerpt: "Trump’s early-year budget plan had called for the raise along with proposals to reduce the value of retirement benefits."
-    publishedDateTime: 2020-12-02T21:14:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'"
-    excerpt: "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday."
-    publishedDateTime: 2020-11-30T20:09:00Z
-    webUrl: "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Pentagon advisor resigns in protest, saying the Trump administration is putting the nation 'at risk' by purging posts to fill them with loyalists"
-    excerpt: "He said purging advisory boards and replacing members with 'political partisans' has 'now put the nation's safety and security at risk.'"
-    publishedDateTime: 2020-12-07T18:58:00Z
-    webUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/5e3959c25bc79c1f9c787b67?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Trump Admin Revives Oil Leasing in California Despite Opposition"
-    excerpt: "The Trump administration on Thursday will hold a sale of oil and gas leases on federal land in California for the first time in eight years despite widespread opposition to the auction in the Democratic state,"
-    publishedDateTime: 2020-12-10T12:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Q8BwCBkhiIHIbEK/kT7NpzHWUoCYBh4VJp3BxcDgyFUOplZbJl+1LCA6qDVrjksLdLvknAJFNnKWlLNuPKkuyvUDVzZbToQWXTOnAd4HxWdXbXQn9gH7YSHDvNOPKgxDmix7bwWNLkyrtUVHNJXycT/PBhdQviH79KEGgfvWK4sTZxtsKPfUpSeYt++0ZZqr8cCyiOvwLJ1IGB5qf2ncrM68iHx0Ar/zPPWjnGV67MGO0yuPDvDkVjI6MPvIGX+MM40perX87R8m/tBWZQTpxnAy8m0hP1jVWLzYO9sN9I08Ukmy7sFBisXGTwOcrADp8MB4dRliQRIjglAZyu/76k6I1LwHbHT3aA3S6TNJjjt2aVb0Y2HRoDSpbLa5Z7HOzQJOjlosUvCpxgyURwb66w3VFaiPG1uPAuCiJPEDXGdeP6EV5XiTmP4QqW1GkQ/RoxZ6mqF5Pv+vWwAAs4UlpucyXYDSXgWMpblN/JSRsHHfIIvd+yyWPjVqUjQTBeDYceOlRpsqHcJod9l+i7qAfg==;5nuuBtRtncSUQA3V63qZxg=="
 ---

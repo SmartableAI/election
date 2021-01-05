@@ -31,375 +31,327 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells governors he’ll help states overcome coronavirus"
-    excerpt: "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f"
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Covid: US Vice-President Mike Pence to receive vaccine"
+    excerpt: "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\"."
+    publishedDateTime: 2020-12-18T11:31:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55362697"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55362697"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: BBC
+      domain: bbc.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17EF3/production/_116153089_tv063637087.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Donald Trump Jr tests positive for coronavirus – as it happened"
-    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
-    publishedDateTime: 2020-11-20T20:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb86a6f8f087f6ff1099ed6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+  - title: "Mike Pence and wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
+    publishedDateTime: 2020-12-18T17:24:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
-        width: 600
-        height: 360
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/59d266d/2147483647/strip/true/crop/1512x988+0+514/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2F24%2Fc71925d1213c61e942569e5e6a7f%2Fb857790e7da64295bcaa07401c1d033b"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Donald Trump Jr tests positive for coronavirus – live"
-    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
-    publishedDateTime: 2020-11-21T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb85c988f087f6ff1099e70"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+  - title: "Pence and top congressional leaders receive COVID-19 vaccines"
+    excerpt: "Vice President Mike Pence gets the coronavirus vaccine during a White House event aimed at convincing skeptical Americans that the vaccines are safe."
+    publishedDateTime: 2020-12-18T21:19:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-18/pence-wife-karen-get-covid-19-coronavirus-vaccine-injections?_amp=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
-        width: 600
-        height: 360
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5dbe6e3/2147483647/strip/true/crop/5745x3752+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F7f%2F9241c9612bb0e6653a2902181a4d%2F5b44b76a9783455480d65d24435d21c8"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Trump to appear at virtual G-20 as coronavirus ravages the globe"
-    excerpt: "After days of noncommittal silence, the White House finally confirmed late Friday afternoon — less than 24 hours before the global summit’s scheduled start — that President Trump would participate. It’s just the latest reminder that during this once-in-a-century health and economic emergency,"
-    publishedDateTime: 2020-11-20T22:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+  - title: "Watch Live: Joe Biden slated to receive COVID vaccine"
+    excerpt: "Mr. Biden is set to join a growing list of public officials who have shared their experiences getting inoculated against COVID-19 as part of efforts to build public trust in its safety."
+    publishedDateTime: 2020-12-21T13:21:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PRL5GWBHRQI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/8a296266-ec80-42f5-8149-7a3ffeab472b/thumbnail/1200x630/fbb1ec6906cf271f73959c07dac76a78/gettyimages-1230220168.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump says coronavirus vaccine deliveries to begin next week"
-    excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
-    publishedDateTime: 2020-11-27T03:39:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-idUSKBN2862GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2862GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2862GY"
+  - title: "Joe and Jill Biden receive the COVID-19 vaccine on camera"
+    excerpt: "So far, a limited number of healthcare workers and high-level government officials have received first doses of Pfizer's COVID-19 vaccine."
+    publishedDateTime: 2020-12-21T20:30:00Z
+    webUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-and-jill-biden-receive-covid-19-vaccine-on-camera-2020-12?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1E5"
-        width: 899
-        height: 545
+      - url: "https://i.insider.com/5fe10676c910a400192e8d13?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
-    excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
-    publishedDateTime: 2020-12-02T11:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idUSKBN28C1GM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+  - title: "Joe Biden receives COVID-19 vaccine, says ‘nothing to worry about’"
+    excerpt: "WASHINGTON — President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe."
+    publishedDateTime: 2020-12-21T22:42:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-covid-vaccine-20201221-nvk4ayx4inhmresr5gxx4ewwf4-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
-        width: 817
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/0YtdR0Jf-ohu88y85PLlp48UVbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PT76OM37HMY46R4UMFSSVXZCLE.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden to push for more coronavirus relief, setting up a clash with GOP"
-    excerpt: "Many Democrats backing the coronavirus relief bill are counting on Biden to push for another aid package shortly after taking office. But Republicans oppose another deal, setting up an early clash of wills between Biden and Senate Republicans."
-    publishedDateTime: 2020-12-22T01:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX46U2CDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 965
-        isCached: true
-  - title: "Georgia upholds Biden's win as US approaches 15m coronavirus cases - live"
-    excerpt: "We have now counted legally-cast ballots three times, and the results remain unchanged,’ says Brad Raffensperger, Georgia’s secretary of state"
-    publishedDateTime: 2020-12-07T21:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus live news: Biden receives vaccine as House passes US aid bill"
-    excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-    publishedDateTime: 2020-12-22T04:00:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe14c4c8f08dd27861cf112"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6b1f767c1358f4f51885c3503a0754e468d821a/0_433_5668_3401/master/5668.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52e90980f970ef55af38de5f1fcdcfda"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
-    excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
-    publishedDateTime: 2020-11-20T00:10:00Z
-    webUrl: "https://www.buzzfeednews.com/article/danvergano/coronavirus-surging-so-pence-briefing"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+  - title: "Mike And Karen Pence Will Get The COVID Vaccine Before Cameras This Friday"
+    excerpt: "Vice President Mike Pence is set to get the COVID-19 vaccine at the White House on Friday, officials announced Wednesday, making him the highest-ranking person in government to receive a dosage. Pence and second lady Karen Pence are expected to get the vaccine in public before media \"to promote the safety and efficacy of the vaccine and build confidence among the American people,"
+    publishedDateTime: 2020-12-17T02:49:00Z
+    webUrl: "https://www.buzzfeednews.com/article/salvadorhernandez/mike-pence-joe-biden-vaccine?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/salvadorhernandez/mike-pence-joe-biden-vaccine"
     type: article
     provider:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 123
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/8/21/campaign_images/f348116ee526/biden-plans-to-give-50-million-americans-covid-19-2-2341-1607463581-2_dblbig.jpg"
         width: 625
         height: 415
         isCached: true
-  - title: "Coronavirus live news: Biden receives vaccine as Congress passes US aid bill"
-    excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-    publishedDateTime: 2020-12-22T04:17:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe13e5e8f08da4121f4ad99"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/71ac84d6658c9bc576c25cf3dfaa9cd731de5588/0_392_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d0bde54e393892511239ecebf791427"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus live news: Biden receives vaccine as global death toll passes 1.7m"
-    excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-    publishedDateTime: 2020-12-21T23:54:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe12b2e8f08dd27861ceffb"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/71ac84d6658c9bc576c25cf3dfaa9cd731de5588/0_392_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d0bde54e393892511239ecebf791427"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
-    excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
-    publishedDateTime: 2020-12-04T07:32:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-says-bipartisan-coronavirus-aid-bill-should-be-passed-but-will-still-need-more-idUSW1N2HQ0GN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E08E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E08E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543406856&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3042"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
-    excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
-    publishedDateTime: 2020-11-24T21:05:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 116
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/bdbe1ab/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fce%2Fbb2ca196c0e9e959721af595922e%2Fla-me-ln-road-closures-for-vice-president-bide-001"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
-    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
-    publishedDateTime: 2020-11-14T17:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
-    excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"
-    publishedDateTime: 2020-11-19T22:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/joe-biden-promises-governors-work-hand-glove-against-coronavirus/6341252002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6341252002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341252002"
+  - title: "Vice President Mike Pence to receive COVID-19 vaccine at White House Friday"
+    excerpt: "Vice President Mike Pence and his wife will be vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-18T11:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3948306001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/5341e1cb-b550-4252-bfb6-4885180b4482-biden_governors_1.jpg?auto=webp&crop=2999,1687,x0,y127&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/a5af1613-f197-4a43-9457-c64fb9d7c38c-Pence_mask.jpg?auto=webp&crop=4673,2629,x0,y237&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Jr., the president’s eldest son, tests positive for the coronavirus, spokesperson says"
-    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, was quarantining Friday after learning he has been infected with the coronavirus, a spokesperson said."
-    publishedDateTime: 2020-11-20T23:46:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
+  - title: "Mike And Karen Pence Have Received The First Dose Of The COVID-19 Vaccine On Live TV"
+    excerpt: "Pence received the first dose of the vaccine as the virus rages across the county and kills about 3,000 people per day."
+    publishedDateTime: 2020-12-18T14:25:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/mike-karen-pence-pfizer-covid-19-vaccine"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 111
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 118
     images:
-      - url: "https://www.chicagotribune.com/resizer/BJz1b_CZfapJFbcKHYJAxdneffw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/REJGIQUBZMDXOQG7HZBR4PB6LI.aspx"
-        width: 1200
-        height: 800
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/14/16/campaign_images/bae355bd64c3/white-house-officials-who-completely-mismanaged-t-2-7531-1607962561-15_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
-  - title: "Trump says coronavirus vaccines may be approved by year's end"
-    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
-    publishedDateTime: 2020-11-14T00:09:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
+  - title: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television"
+    excerpt: "Vice President Mike Pence, wife Karen, receive COVID-19 vaccination on live television. Tool tells when you may be able to get a COVID-19 vaccine 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-12-18T13:11:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/vice-president-mike-pence-wife-karen-receive-covid-74798346"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Monroe County Airport prepares for Vice President Mike Pence's visit"
+    excerpt: "The vice president is expected to visit Bloomington's Catalent Biologics to tour the COVID-19 vaccine production line."
+    publishedDateTime: 2020-12-14T21:27:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/14/monroe-county-airport-prepares-vice-president-mike-pences-visit/6547244002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6547244002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6547244002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDEM/f0d58c4c-3ed1-4359-8b8a-e8399130d50c-AP20344676064841.jpg?auto=webp&crop=5537,3115,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence in Bloomington: Live updates"
+    excerpt: "The vice president is touring the Catalent facility that is producing and packaging Moderna's new vaccine for COVID-19."
+    publishedDateTime: 2020-12-15T19:46:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/15/vice-president-mike-pence-bloomington-live-updates/3908707001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3908707001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3908707001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/PIND/1d74e4b1-abb6-414a-92a9-d1bc88f53d57-5fd9006963563.image.jpg?auto=webp&crop=1199,675,x0,y31&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Vice President Mike Pence, wife Karen get COVID-19 vaccine injections"
+    excerpt: "Vice President Mike Pence was vaccinated for COVID-19 on Friday in a live-television event aimed at reassuring Americans the vaccine is safe."
+    publishedDateTime: 2020-12-18T12:27:00Z
+    webUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/18/pence-wife-covid-19-vaccine/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Virus_Outbreak_Trump_53723.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Mike Pence doesn't faint, proving COVID-19 vaccine both safe and effective"
+    excerpt: "Vice President Mike Pence took to live television to take the coronavirus vaccine in his arm — and that’s some darn good leadership right there, indeed. Moreover, he didn’t faint. Even better leadership."
+    publishedDateTime: 2020-12-18T16:30:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/18/mike-pence-doesnt-faint-proving-covid-19-vaccine-b/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/18/virus_outbreak_trump_88698_c0-173-4149-2593_s1200x700.jpg?182726b57d40fa2e2c16843586536b48350944b6"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
+    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-18T15:48:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/"
+    ampWebUrl: "https://amp.statesman.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3948306001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/18/USAT/2da82bdf-527e-4c45-9d7f-538ff0eada07-AFP_AFP_8XE32K.jpg?auto=webp&crop=3839,2160,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'I didn't feel a thing.' Vice President Mike Pence gets COVID-19 vaccine on camera"
+    excerpt: "Vice President Mike Pence and his wife were vaccinated for COVID-19 at the White House to build public confidence in the vaccine."
+    publishedDateTime: 2020-12-19T00:50:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/18/vice-president-mike-pence-karen-pence-covid-19-vaccine/3948306001/?itm_source=parsely-api"
+    ampWebUrl: "https://amp.azcentral.com/amp/3948306001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3948306001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/18/USAT/2da82bdf-527e-4c45-9d7f-538ff0eada07-AFP_AFP_8XE32K.jpg?auto=webp&crop=3839,2160,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence likely to get the coronavirus vaccine by Friday"
+    excerpt: "Vice President Mike Pence is likely to receive the coronavirus vaccine by Friday, two sources familiar with the plans tell CNN."
+    publishedDateTime: 2020-12-15T20:14:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-likely-to-get-the-coronavirus-vaccine-by-friday/article_e0e8d432-00c6-5620-9ddf-fd55d10ed27b.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/bcf8e96c-4b35-11e5-9c03-7b4fbbdd1e31.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Donald Trump Jr. Tests Positive For The Coronavirus"
-    excerpt: "The president's son, who announced his diagnosis on Instagram, said he has no symptoms and feels fine. Trump Jr. said he plans to quarantine and \"take it seriously.\""
-    publishedDateTime: 2020-11-21T16:54:00Z
-    webUrl: "https://www.npr.org/2020/11/21/937574684/donald-trump-jr-tests-positive-for-the-coronavirus"
+  - title: "Mike Pence receives Pfizer vaccine"
+    excerpt: "Mike Pence becomes first senior member of the Trump administration to receive a vaccine"
+    publishedDateTime: 2020-12-18T17:32:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p091vwhd"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/21/ap_20325834765888_wide-c0ccca04b1e02e8ea0ac59c4d149f229f64d7718.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
-    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
-    publishedDateTime: 2020-11-13T18:23:00Z
-    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
-    excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
-    publishedDateTime: 2020-11-25T06:08:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fbde6e132f2170011f71164?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
-    excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
-    publishedDateTime: 2020-11-19T22:31:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/19/vice-president-mike-pence-delivers-remarks-at-the-white-house-coronavirus-task-force-briefing.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 94
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106799878-16058227011605822696-12530909175-1080pnbcnews.jpg?v=1605822700"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Why Joe Biden Needs Mitch McConnell to Govern"
-    excerpt: "Republicans on the Hill despised Obama but saw Biden as one of them. “There is a reason ‘Get Joe on the phone’ is shorthand for ‘Time to get serious’ in my office,” McConnell said in 2016."
-    publishedDateTime: 2020-11-19T03:15:00Z
-    webUrl: "https://time.com/5913168/why-joe-biden-needs-mitch-mcconnell/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 85
-  - title: "Pence speaks at first coronavirus task briefing in months"
-    excerpt: "Vice President Mike Pence spoke Thursday about the effort against the coronavirus at the first White House coronavirus task force press briefing since July."
-    publishedDateTime: 2020-11-19T22:56:00Z
-    webUrl: "https://www.firstcoastnews.com/video/news/health/coronavirus/pence-covid-19-task-force-briefing/507-91be02d4-bcf8-468a-9114-11aef56aeb14"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 55
     images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/08b5c1f1-df3c-499e-8afe-df8b583772b3/08b5c1f1-df3c-499e-8afe-df8b583772b3_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p085s4fy.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Vice President Mike Pence Receives COVID-19 Vaccine During Live Broadcast"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence, seen here in a TV screen grab, received Pfizer's COVID-19 vaccine at the White House on Friday, December 18, 2020, in a bid to build public confidence in its safety and efficacy."
+    publishedDateTime: 2020-12-18T14:07:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/113d02f4017067be7d3e6860dd3c87a1/Vice-President-Mike-Pence-Receives-COVID-19-Vaccine-During-Live-Broadcast/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/113d02f4017067be7d3e6860dd3c87a1/PENCE-CORONAVIRUS-VACCINE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Mike Pence, Mitch McConnell, Nancy Pelosi all vaccinated Friday as COVID-19 vaccine rollout continues"
+    excerpt: "President Donald Trump’s administration helped deliver vaccinations against the coronavirus earlier than even some in his administration thought possible, but the president has been largely absent from the effort to sell the American public on what aides hope will be a key part of his legacy."
+    publishedDateTime: 2020-12-20T05:14:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/18/nation/trump-stays-sidelines-vaccine-injections-begin/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 40
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9BcMhbQfJ0gLFDMCDoHCbA7AbiI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KCJZ3GUIRIZF6G3PS6DZ4OEPAA.jpg"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "Pence plans visit to state to discuss virus vaccines"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
+    publishedDateTime: 2020-12-12T05:00:00Z
+    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 35
 
 secured: "FeLkctzBNvG5h8huDDX+pP/J9zbKpSpK3TcnCMbPaDTLINJ7cj7PuauadxGT6xUYMUlGU5zoxUih+NJom4AYvxubsRiRrsTcAg6BsmW2Rudra2ekq1GvDOxsEouueaLYkSZsbM8bd6wp0wMHhk6Go/KQOOvaudzD2sshvhh2pRreNOvElW94XrdnLhHGATUbbnH2mmjnuc55mb1O2IaCxzj4aqAhJX8a1Uc0fvYreWFlrAorxKbR13Mwpe1nA+Wg26k5WAxl9/xalR2SI2ZCA9TXjEshuQmEaUICTxtZJy0izo/Ny41ujoJfdqW18meMEHhkOHRluDjIGbbquzJbd/NbfRXyfEhibq0MctSj4OXrhDFnYC2U3HXGM8/0vr9SP8NVFXDpATpSNbxL7dn/pzsQi6J4xPN68Mum9fbFjb/uZaN1vRy12Q8rMGxsIvGzWs1bNp0NOOyivOe1v7OlFpvWTNq7sMixePJRGsDEYRNvgeM0h6GjNt89eaBca8EpEQy4U/57FIPAhqTKmrh1qw==;UzUdC18ui+FSwovTXE3fqA=="
 ---

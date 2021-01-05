@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former DOJ lawyer apologizes for not doing more to resist Trump"
+    excerpt: "A former Justice Department attorney who worked for the Office of Legal Counsel wrote an op-ed for The New York Times in which she offered an apology for not taking a stronger stance against President Trump."
+    publishedDateTime: 2020-12-21T18:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fdzvCP71dUY/former-doj-lawyer-op-ed-resist-trump-apology"
+    ampWebUrl: "https://www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20355106504110-e1608575361908.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Senate confirmation of Barrett replacement adds to Trump's record on judges"
     excerpt: "President Trump continued to add to his tally of successful judicial appointments Tuesday with the confirmation of Thomas Kirsch II as a judge on the 7th Circuit Court of Appeals."
     publishedDateTime: 2020-12-16T14:02:19Z
@@ -77,22 +93,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20356590492692-1-e1608573862942.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
-    excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
-    publishedDateTime: 2020-12-16T04:35:00Z
-    webUrl: "https://www.wsj.com/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
-    images:
-      - url: "https://images.wsj.net/im-273956/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "vqfERDDsUE6MNUfbfH0i8OQ29/UMR3QekKQapVdpcFt+21LgVW7JWutacdi4ytPYvFCQImEoQl1C7e+GvaMfi0uv+lQQj4ww8I9+F0oy97+EQgnb85u5TrBkqfUkPVltj3XQNQXTJem1ciQqAEva1MG/W58BjlhbC5npD9KhW1AC8WN3hHFtOeAbv1AuZGEw3iqjBaLBBUs54XRuKsXP1g/E4jV/tO27pNxcPaMFK2yJu5W+xk578N0UtIyM32m4FqntUbe+T8z7dAfyM2KRKKb8TaB3Sb5fjTuJUy+seBegqODs+3fBxz5r/WP3X4fnLULMw3zd/0GYMXH0n+or3csNlSv6ULljDTclgWzs8GPm2o2tJ75Y9+Kf2g1oyoI3Acqe2zmzQQSgMMFkd1OiNalkpL/d7YpIShfmPG2dbkL8o7zCGmzHQQn36Qr171kbkDZfN+RRfE88JpiUtprVjRJ4+EP89nZ5hciKYIlclLmoZri2b3hmAvTOiYJzQ1og/QdPt+53hitfq/QEiZ94sA==;hXqkq+Zdl84jQFvbEqdUng=="

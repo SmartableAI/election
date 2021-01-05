@@ -105,22 +105,6 @@ related:
         width: 1440
         height: 934
         isCached: true
-  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
-    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
-    publishedDateTime: 2020-11-18T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden warns of high stakes in Georgia Senate races"
     excerpt: "President-elect Joe Biden campaigned in Georgia Monday, telling voters at a drive-in rally in Atlanta the \"power is literally in\" their hands to change the course of the nation's future by voting in the crucial Senate runoff elections Tuesday."
     publishedDateTime: 2021-01-04T23:50:00Z

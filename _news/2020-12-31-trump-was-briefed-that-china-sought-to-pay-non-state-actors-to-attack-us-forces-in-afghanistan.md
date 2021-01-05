@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanis
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 183
+published: true
 
 provider:
   name: CNN
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon"
-    excerpt: "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n"
-    publishedDateTime: 2020-11-11T20:24:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
+  - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
+    excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
+    publishedDateTime: 2020-12-30T10:07:00Z
+    webUrl: "https://www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resistance-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resistance-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resistance-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ex-HHS chief Sebelius says Trump administration deserves credit for vaccine progress"
-    excerpt: "Kathleen Sebelius, a former United States Secretary of Health and Human Services administrator under President Barack Obama, offered some praise for the Trump administration's vaccine efforts on Monday but said the administration has shirked other critical responsibilities in mitigating the spread of"
-    publishedDateTime: 2020-11-16T16:40:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jBqJ4MQY140/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116102135-kathleen-sebelius-11162020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "US military anticipates Trump will issue order to plan for further troop withdrawals from Afghanistan and Iraq"
-    excerpt: "US military commanders are anticipating that a formal order will be given by President Donald Trump as soon as this week to begin a further withdrawal of US troops from Afghanistan and Iraq before Trump leaves office on January 20, according to two US officials familiar.\n    \n"
-    publishedDateTime: 2020-11-16T20:55:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/412TxWad58k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-troop-drawdown-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-troop-drawdown-order/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160706103928-05-us-afghanistan-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/12/24/us/politics/00Ossoff-resistance1/00Ossoff-resistance1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "z0OwC3Ckzuvqyr5wqQja4pASVDg8V4tCpt4rNd7eT0kr+TG/2G86lIdW7JPO8iaUWxLMh+c8oV7QPiDRJ3V4U3olgmJX1r+JUr9/A+BuT5WKGgsFwMezPgnZtN0zprCJ3BUj8fuNkzxzZRDZpYkEHC/0MFbrv8XPe+ccmH3CJUZqzU8Iip+8myzyR1EyXg5cSop48YBRX0A7tYN0iC4gTnd/URQ7IYVaP7+so6NER1m56p+te1g23vOIcFe33XWvhAVdm5jVnxzO2dFG3sYjKDXEsrIIynD7HRCLbWyeW2xDQf/fKkD1//6rMjtcxG9Lz1Xkn+VJxDA5JfGc+K+9xXgpliMxBeU9OEnRoK5/IZ8=;zpmTpEjkcdQU99ltM/8Jkw=="

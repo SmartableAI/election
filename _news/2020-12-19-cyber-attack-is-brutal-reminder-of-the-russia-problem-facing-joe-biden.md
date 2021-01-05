@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-re
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 245
+published: true
 
 provider:
   name: The Guardian
@@ -31,163 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Laptop repairman at center of Hunter Biden saga is alive"
-    excerpt: "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead."
-    publishedDateTime: 2020-12-16T01:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
+  - title: "Biden mulls punishments for Russia over suspected role in government hack"
+    excerpt: "President-elect will consider options for unprecedented hacking of US government agencies"
+    publishedDateTime: 2020-12-20T14:19:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/2f95f60c5bec962f79f95030cfc8730e32dcac1f/0_235_3925_2355/master/3925.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fdfc5a1c6bcc8beb176560c6f747a577"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
-    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
-    publishedDateTime: 2020-12-12T04:49:00Z
-    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
-    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+  - title: "Trump finds himself isolated in refusal to blame Russia for big cyberattack"
+    excerpt: "President Trump’s dismissive characterization of a massive cyberattack targeting multiple U.S. agencies drew pushback Sunday from lawmakers, cybersecurity experts and the incoming Biden administration amid growing questions over the president’s refusal to acknowledge that Russia was likely behind the intrusions."
+    publishedDateTime: 2020-12-21T02:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/382d7fb/2147483647/strip/true/crop/4651x3038+374+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F33%2F1e4dcf792e85239693113608299b%2Fd47918cfadda477f8b5fa5fed2afeba0"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
-    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
-    publishedDateTime: 2020-12-22T20:43:00Z
-    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+  - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
+    excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
+    publishedDateTime: 2020-12-22T00:16:00Z
+    webUrl: "https://www.cbsnews.com/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 121
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
-        width: 3873
-        height: 2664
-        isCached: true
-  - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
-    excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."
-    publishedDateTime: 2020-12-22T15:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-prague-newspaper-idUSKBN28W1SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545448292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL12O"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
-    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
-    publishedDateTime: 2020-12-18T21:39:00Z
-    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
-    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
-  - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
-    excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
-    publishedDateTime: 2020-12-19T11:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 118
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-jill-grave_hpMain_20201218-183145_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/eb038982-0b90-4344-b964-18786880b5e8/thumbnail/1200x630/f4a166ec88a22235f15565c5b36488b7/gettyimages-1230248436.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
-    excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
-    publishedDateTime: 2020-12-15T11:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544612554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE0OH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
-    excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
-    publishedDateTime: 2020-12-18T11:57:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
-        width: 852
-        height: 545
-        isCached: true
-  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
-    publishedDateTime: 2020-12-20T17:16:00Z
-    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+  - title: "Biden plans to be sworn in as president with a massive family heirloom Bible dating back to 1893"
+    excerpt: "The huge Bible is five inches thick and has a Celtic cross on the cover. Biden says it comes from his father's side of the family."
+    publishedDateTime: 2020-12-19T15:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-use-massive-1893-family-bible-swearing-in-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 112
     images:
-      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fdca89dc910a400192e8433?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
-    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
-    publishedDateTime: 2020-12-21T18:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Biden says he sees no evidence cyber attack is under control"
     excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
@@ -200,31 +106,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
-    excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
-    publishedDateTime: 2020-12-10T13:43:00Z
-    webUrl: "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/"
+  - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
+    excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
+    publishedDateTime: 2020-12-22T04:30:00Z
+    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-president-trump-says-russia-likely-behind-cyberattack/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 104
+    quality: 96
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/10/f8b5dd6d-118b-4e25-870c-9e3ef0372c62/thumbnail/1200x630/f6d2af7d44e206e3e4bfb55a6302d452/cbsn-fusion-hunter-biden-reveals-he-is-under-federal-investigation-thumbnail-605300-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
-    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
-    publishedDateTime: 2020-12-10T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 88
 
 secured: "HLmg+hOo3XNBED+8i2b6cOW1lsuRkTNQJpfDw/wZyxK7BSGkZ2EiaX47OBhfqNJ/Ug6UQqXASeHz9IK5a8I6HaWDGEr/V2S8GxQBK5rzmjmfV1ONOHe++jMkrjHCqMbA6ESqrHA5ARkRT8fzE1DrgueZzc8rBDZVhI4Rb6M9QqNgG0uBTU85pB/pjrmdIdgrsJ/hLPA4U2GeJ2uD5t+9WxOpFJ0VX6iWPSkYZiPk5nmPrVyziLpoJ0kwt9DxHZtAhACtuHBJk7vKsARmfq11b5JhoQ/8IenTSnbWlOXyjBJcFEU/1nmMEO1Tb1/R5ueVNK0tLocS0cVm2BuC1WZOjiGt88oxSne4XfR7BAvtYD9DjJIvG4rJN22ebPdzjrr5sWii5zibZmLrhtjc//WYnqy+UpDXVQPrVuGs84ufehXuzl6izEH1cPoWmCI8R0xg7y5flwroHg1EaYuXfdf5QhVfW+v7ka5zTzK7fnMUtP9qrraCi4DB9hX0i2GpoA/zBJMRKF98GVvq/tzlUjrtCw==;Hzec+G1YglrPUioCyc0zyw=="
 ---

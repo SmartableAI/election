@@ -29,177 +29,167 @@ images:
     isCached: true
 
 related:
-  - title: "A lifelong Republican stood up to Trump. His reward: Death threats"
-    excerpt: "Georgia election official Gabriel Sterling is girding for another battle with conspiracy theories and lies about the integrity of the voting system."
-    publishedDateTime: 2020-12-14T12:14:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/why-a-life-long-republican-took-on-trump-and-his-job-isnt-yet-done?_amp=true"
+  - title: "Trump loses one Wisconsin case while arguing another one"
+    excerpt: "As Trump loses an election lawsuit in federal court in Wisconsin, the state's high court hears another that one justice says “smacks of racism.”"
+    publishedDateTime: 2020-12-12T20:16:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ec7582c/2147483647/strip/true/crop/2510x1412+13+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F7c%2F1ec055ca4ff69835f12733d1a2fe%2Fsterlingthumb.png"
-        width: 768
-        height: 432
-        isCached: true
-  - title: "Donald Trump's historic and chaotic presidency, by the numbers"
-    excerpt: "Looking at the numbers surrounding Trump's tenure provides important context and perspective on his accomplishments and failures."
-    publishedDateTime: 2020-12-18T21:21:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-historic-and-chaotic-presidency-by-the-numbers-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fb491aae74fa70018b83104?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump meets U.S. House Republican allies to push voter fraud claims"
-    excerpt: "U.S. President Donald Trump met a group of Republican lawmakers on Monday in his thus-far fruitless bid to gain momentum for claims that the Nov. 3 presidential election won by Democrat Joe Biden was rigged."
-    publishedDateTime: 2020-12-22T06:05:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28W02W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W02W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W02W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545385302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL019"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "As Trump pushes baseless fraud claims, Republicans pledge tougher voting rules"
-    excerpt: "Republican state lawmakers have begun to use President Donald Trump’s baseless charges of voter fraud to push for new restrictions on voting."
-    publishedDateTime: 2020-12-21T17:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-voting-rules-insight-idUSKBN28V1DN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1DN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1DN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545334968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0QE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Despite his boasts, Trump again is no deal-maker as Congress seeks pandemic relief bill"
-    excerpt: "Donald Trump was elected partly on his fame for \"The Art of the Deal,\" yet he's cut no big deals in office. The relief package is the latest, perhaps final, example."
-    publishedDateTime: 2020-12-20T11:14:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 117
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a41683/2147483647/strip/true/crop/1722x1125+139+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdc%2Fbc%2F56179fae7739bfcf6f70d6ad974e%2Fla-fg-iran-nuclear-pictures-20150714-003"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2257466/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Fa7%2F70c4aa8f40cdb15585b4f9f9570a%2Fww1thumb.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
-    excerpt: "Conspiracy theories about how voting machines were used to stop the re-election of Donald Trump have not just sapped Americans' faith in the democratic process - they also pose an existential threat to the market for electronic voting systems worldwide,"
-    publishedDateTime: 2020-12-14T11:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-voting-tech/trumps-conspiracies-pose-existential-threat-to-electronic-voting-industry-smartmatic-idUSKBN28O19M?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O19M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M"
+  - title: "Trump loses Wisconsin case while arguing another one"
+    excerpt: "U.S. District Judge Brett Ludwig dismissed the lawsuit asking the court to order the Republican-controlled Legislature to name Mr. Trump the winner over Democrat Joe Biden."
+    publishedDateTime: 2020-12-13T12:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-wisconsin-court-losses/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544489818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK"
-        width: 817
-        height: 545
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic"
-    excerpt: "Conspiracy theories alleging that voting machines were used to steal the election from President Donald Trump pose a major threat to the worldwide market for electronic voting systems, the CEO of Smartmatic,"
-    publishedDateTime: 2020-12-15T03:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-voting-tech-idUSKBN28O19M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O19M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O19M"
+  - title: "Trump campaign asks supporters whether he should run in 2024"
+    excerpt: "Trump has not conceded or admitted that he lost this year’s election, but his campaign emailed supporters asking whether he should run again in 2024"
+    publishedDateTime: 2020-12-16T02:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/15/trump-campaign-asks-supporters-possible-2024-presidential-run/3915868001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3915868001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3915868001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544558267&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0OK"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/39f65dce-c41a-4dc2-baf7-6136ca73b276-GTY_1230110683.jpg?auto=webp&crop=4457,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
-    excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
-    publishedDateTime: 2020-12-12T10:21:00Z
-    webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
-    ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+  - title: "Biggest vets groups step up pressure on Trump to fire Wilkie"
+    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of"
+    publishedDateTime: 2020-12-19T14:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f9a2c279eb674cbb97dd86f2cbdb63c8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
-    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
-    publishedDateTime: 2020-12-18T23:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+  - title: "Court affirms ruling dismissing Trump challenge in Wisconsin"
+    excerpt: "A federal appeals court has refused to overturn a decision dismissing President Donald Trump’s lawsuit seeking to declare him the winner in swing state Wisconsin"
+    publishedDateTime: 2020-12-24T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump makes 2nd request to Supreme Court over Wisconsin loss"
+    excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state."
+    publishedDateTime: 2020-12-31T08:23:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says"
+    excerpt: "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot."
+    publishedDateTime: 2020-12-13T14:18:00Z
+    webUrl: "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 98
+    quality: 106
     images:
-      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
-    excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
-    publishedDateTime: 2020-12-22T00:59:00Z
-    webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+  - title: "House Dems' campaign chief a moderate who wins in Trump land"
+    excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
+    publishedDateTime: 2020-12-13T04:42:00Z
+    webUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 96
+    quality: 105
+  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
+    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
+    publishedDateTime: 2020-12-17T03:37:00Z
+    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
+    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
+        width: 1024
+        height: 716
         isCached: true
-  - title: "White House indicates Trump will sign $900 billion stimulus deal brokered by Republicans and Democrats in Congress"
-    excerpt: "The legislation includes $600 stimulus checks, $300 weekly unemployment benefits, small business aid, and funds for schools and universities."
-    publishedDateTime: 2020-12-21T07:42:00Z
-    webUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+  - title: "Trump Admin Revives Oil Leasing in California Despite Opposition"
+    excerpt: "The Trump administration on Thursday will hold a sale of oil and gas leases on federal land in California for the first time in eight years despite widespread opposition to the auction in the Democratic state,"
+    publishedDateTime: 2020-12-10T12:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
+    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
+    publishedDateTime: 2020-12-16T19:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "M2zhMu5f/mn8INPzBk8pRN+I7sTyiwca7iQyz7Aya4pqaQ/q+g5CV9rPpbZ22a0QXsB6BCE8TD/Jsz0L1YVTsxzwNCUKE5QceeVmZMsNUecVS6yPgAmHwWnb+a9v/aL9Kac6Mc7XnG5TUhnDt7Da+n6QNRpPxGRbJ9Pp4wUaYs5DaYNdmdevzTlUlDDco8RnfIs+z2bHlljU6HWMLevpqc6N2mV5kUG7qooC209yTvLMLWFOe0U/7Hop/H5FPwzE8tx9h2ibqq4Rd6V9JMpDZFMM6RwFtRv3gdQhQ0OgcSzz16BR85QQD8BQhgh19LT0gLj5OaSIr9aqs56EiwBseuQHsJt+nC0wsMfF8E71iEg=;MIDXfB06VApCPutWfqHO8g=="
 ---

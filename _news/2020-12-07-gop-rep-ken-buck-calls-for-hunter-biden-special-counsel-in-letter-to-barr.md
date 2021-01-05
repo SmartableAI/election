@@ -31,163 +31,161 @@ images:
     isCached: true
 
 related:
-  - title: "AG Barr knew about Hunter Biden probe for months: report"
-    excerpt: "Attorney General William Barr reportedly knew about investigations into Hunter Biden’s business and financial dealings for months, and worked to stop them being disclosed to the public during the election campaign."
-    publishedDateTime: 2020-12-11T17:08:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aph5PtHpV7s/ag-barr-hunter-biden-probe-spring-report"
-    ampWebUrl: "https://www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ag-barr-hunter-biden-probe-spring-report.amp"
+  - title: "Biden intends to keep Wray as FBI director"
+    excerpt: "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed."
+    publishedDateTime: 2020-12-02T18:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcHLHzqh25A/biden-intends-to-keep-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
-    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
-    publishedDateTime: 2020-12-17T20:28:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OZs82XMrWUI/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+  - title: "Biden looks to give Senate GOP cover"
+    excerpt: "Is there anyone left in Congress who knows the old rules?"
+    publishedDateTime: 2020-12-02T22:30:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kb_I-_teJGA/biden-looks-to-give-senate-gop-cover"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-looks-to-give-senate-gop-cover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-looks-to-give-senate-gop-cover.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pick oversaw flood of foreign money into liberal think tank"
+    excerpt: "President-elect Joe Biden’s pick to head the Office and Management Budget, Neera Tanden, oversaw a flood of foreign money as head of one of Washington’s most prominent liberal think tanks."
+    publishedDateTime: 2020-12-02T02:27:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HB9a82DHpz8/biden-pick-oversaw-foreign-money-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336683803892.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump says Barr 'a big disappointment' after report AG knew about Hunter Biden investigation months ago"
-    excerpt: "President Trump on Saturday described Attorney General William Barr as a “big disappointment” after a report claiming the nation’s top lawyer knew about the Hunter Biden investigation months ago."
-    publishedDateTime: 2020-12-12T17:34:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TzjPtyHxiZg/trump-barr-big-disappointment-ag-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-barr-big-disappointment-ag-hunter-biden.amp"
+  - title: "Joe Biden says he was chasing dog after shower when he broke foot"
+    excerpt: "President-elect Joe Biden said Thursday that he fractured his foot after tripping on a bath mat following a shower over the weekend and while chasing his dog Major, explaining the incident and saying it isn’t a “very exciting story.”"
+    publishedDateTime: 2020-12-04T16:37:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAjeQaehq6w/joe-biden-chasing-dog-shower-broken-foot"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pledges to avoid conflicts of interest with family's biz dealings"
+    excerpt: "President-elect Joe Biden pledged on Thursday that his family, and specifically his son Hunter, won't be involved in businesses that create a conflict of interest with his office."
+    publishedDateTime: 2020-12-05T00:18:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ObFtnOaffv8/biden-hunter-conflicts-of-interest"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2834c4a-59cb-4100-b7d6-b7ee683d190e/49ce0484-dc44-47bf-b266-f43b8449cacb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to name his defense secretary choice on Friday"
+    excerpt: "Biden to name his Defense secretary choice on Friday"
+    publishedDateTime: 2020-12-07T22:30:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
+    excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
+    publishedDateTime: 2020-12-03T02:23:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PWghQ6qtETM/consulting-firm-biden-cabinet-scrubs-china-website"
+    ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64208635-0349-48e0-a93c-f27a02bd14c0/3fd9dd5d-8e39-4843-83b3-4f10cbc9f0e3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
-    excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
-    publishedDateTime: 2020-12-16T17:47:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1B4KF7eeTXw/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-12T19:22:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sarah Sanders says liberal media covered up for Hunter Biden during father's presidential campaign"
-    excerpt: "Reacting on \"Fox & Friends\" to news that Hunter Biden's tax affairs are the subject of a federal investigation on Thursday, Fox News contributor Sarah Sanders said Thursday that liberal media outlets \"covered it up\" for him during his father's presidential campaign."
-    publishedDateTime: 2020-12-10T15:05:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiCezx9AAy0/liberal-media-hunter-biden-fathers-campaign-sanders"
-    ampWebUrl: "https://www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44c1849-3309-4d8c-ab1c-2d0a3e07c29c/383584ff-f5d9-493b-bc0a-3a0b9a1b1667/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
-    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
-    publishedDateTime: 2020-12-17T21:19:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
-    excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
-    publishedDateTime: 2020-12-18T05:57:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
+    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
+    publishedDateTime: 2020-12-02T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6148cd10-fca2-4297-9ce3-0975a3ba3d8c/a12ceab4-ce94-43d5-b2d5-c6bad73d0a4f/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
+    excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
+    publishedDateTime: 2020-12-05T22:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57210d5f-358a-4ff8-acbe-abaf067e07f8/a94f5a55-e631-4532-af94-215a01db6a60/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Media ridiculed after Colbert broaches Hunter Biden topic before mainstream reporters"
-    excerpt: "Liberal comedian Stephen Colbert's interview with Joe and Jill Biden Thursday drew mockery for not only its obsequiousness, but that an entertainer asked the president-elect about the investigation into his son before many mainstream media reporters did."
-    publishedDateTime: 2020-12-18T21:54:00Z
-    webUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream"
-    ampWebUrl: "https://www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-ridiculed-colbert-hunter-mainstream.amp"
+  - title: "Biden pick for OMB director will push globalist policies that cost US jobs: Huckabee"
+    excerpt: "President-elect Joe Biden’s pick for director of the Office of Management and Budget (OMB) will push globalist policies that will lead to the loss of U.S. jobs, former Arkansas Gov. Mike Huckabee warned Tuesday."
+    publishedDateTime: 2020-12-01T22:41:00Z
+    webUrl: "https://www.foxnews.com/politics/neera-tanden-omb-director-globalist-policies-mike-huckabee"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 108
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
-    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
-    publishedDateTime: 2020-12-13T01:28:00Z
-    webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/huckabee-12-01.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -31,53 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Cabinet pick hyped dossier, promoted conspiracy about Russian hackers changing votes"
-    excerpt: "Neera Tandem, one of President-elect Joe Biden’s Cabinet picks, has vigorously upheld the results of the November Election, yet past tweets show her promoting the anti-Trump Steele Dossier as well as conspiracies about Russian hackers influencing the outcome of the 2016 presidential election."
-    publishedDateTime: 2020-11-30T22:03:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SB6VssnK354/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp"
+  - title: "Democrat Joe Manchin opposed Biden surgeon general pick under Obama"
+    excerpt: "At the time, the West Virginia Democrat questioned whether Dr. Vivek Murthy could separate his political beliefs from his public health views."
+    publishedDateTime: 2020-12-07T20:51:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI2JXhtkRsU/democrat-manchin-opposed-biden-surgeon-general-pick-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Retired Catholic archbishop says Biden should be denied Holy Communion over abortion stance"
+    excerpt: "The issue of Communion denial has sharply divided the Catholic leadership, leading to the formation of a council to assess the issue."
+    publishedDateTime: 2020-12-05T15:43:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQWa9WG5Bi0/archbishop-biden-not-full-communion-with-church-urges-denial"
+    ampWebUrl: "https://www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20334841054377.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Archbishop-Charles-Chaput-2.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "AOC 'Squad' member says hearing of these two possible Biden Cabinet picks 'makes my skin crawl'"
-    excerpt: "Congressman-elect Jamaal Bowman, D-N.Y., on Thursday said he was satisfied with some of President-elect Joe Biden’s Cabinet picks, but others made his “skin crawl.”  "
-    publishedDateTime: 2020-12-03T20:21:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yw0TqvxuaD0/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/476505cb-4144-4900-9013-5dafd7429c20/6aac77d4-37a1-453b-8d1f-88f467a26d48/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Resurfaced photo shows Biden press sec Jen Psaki wearing hammer and sickle hat with Russian official"
-    excerpt: "Jen Psaki, who was named to serve as President-elect Biden's White House press secretary, is facing fresh scrutiny over a photo that shows her wearing a Russian hat that bears the communist hammer-and-sickle logo."
-    publishedDateTime: 2020-11-30T23:54:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HpsC35CNkCM/resurfaced-photo-psaki-biden-soviet-union"
-    ampWebUrl: "https://www.foxnews.com/politics/resurfaced-photo-psaki-biden-soviet-union.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/resurfaced-photo-psaki-biden-soviet-union.amp"
+  - title: "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats"
+    excerpt: "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration."
+    publishedDateTime: 2020-12-10T19:51:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4410172-6700-4184-a454-56a6f60cdcfa/66573f91-c971-4e86-8706-b38cab20ac48/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
+    excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."
+    publishedDateTime: 2020-12-10T11:57:00Z
+    webUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say"
+    ampWebUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "LKlqwcP8wJYSnswrfD67AFtLuY2bLjWJcO9NjN0RBCgVB/jPusLoJ94a1dY4c5Fw5aNFXs+3sfd1pulV8gXctwGlA6IJkCOwe12d1O9wQm9D8nk3/S44zpbAYBr3BY011iXQx4r6+XW7NHhAF48scK3YGs/QoXNtJY1uIkF7O/NoPrNpa/SWDXyUrKGk9xskZjsf9SePyathjCKRsATFRrojLM2danWEXXGiMsyoXXo+aPzeRsZOrWVoqRGua4rreyqgvoTQr/6VqOSkmVBwvsz0kcpPFBcb4zTB9KuqUwtuX/Qklp/Y9N5X9JftNuvI8rynNRHHnz4YaPXqS5sNZrezB1sd7auMFfCQBN7IPQY=;KrGOiyYHIFDoqdyeTGyTfg=="

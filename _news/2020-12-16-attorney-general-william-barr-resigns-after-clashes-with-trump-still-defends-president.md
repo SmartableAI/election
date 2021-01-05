@@ -31,81 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Biggest vets groups step up pressure on Trump to fire Wilkie"
-    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of"
-    publishedDateTime: 2020-12-19T14:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
+  - title: "Trump's legacy: He changed the presidency, but will it last?"
+    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
+    publishedDateTime: 2020-12-21T17:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f9a2c279eb674cbb97dd86f2cbdb63c8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Euro, Aussie gain, disregarding Trump's threat to block stimulus"
-    excerpt: "The euro rose to $1.22 and the dollar fell on Wednesday as foreign exchange traders looked beyond U.S. President Donald Trump's threat to block a $892 billion COVID-19 aid package."
-    publishedDateTime: 2020-12-23T14:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-global-forex-idUSKBN28X064"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X064"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X064"
+  - title: "Trump's legacy: He changed the presidency, but will it last?"
+    excerpt: "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,"
+    publishedDateTime: 2020-12-24T06:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74889255"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545537325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0JA"
-        width: 741
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Musicians who opposed Trump's use of their music in 2020"
-    excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
-    publishedDateTime: 2020-12-25T19:26:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+  - title: "Trump's legacy: He changed the presidency, but will it last?"
+    excerpt: "The most improbable of presidents, Donald Trump reshaped the office and shattered its centuries-old norms and traditions while dominating the national discourse like no one before."
+    publishedDateTime: 2020-12-21T15:52:00Z
+    webUrl: "https://www.businessinsider.com/trumps-legacy-he-changed-the-presidency-but-will-it-last-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-legacy-he-changed-the-presidency-but-will-it-last-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-legacy-he-changed-the-presidency-but-will-it-last-2020-12?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/musiciansagainsttrump_getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House"
-    excerpt: "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies."
-    publishedDateTime: 2020-12-19T11:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3931868001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3931868001"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
+    excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
+    publishedDateTime: 2020-12-24T01:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardon-hunter-collins-stockman/2020/12/23/dc2ff8e0-4538-11eb-975c-d17b8815a66d_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/faa39348-f87f-4e26-94f3-50a0aef33d73-AFP_AFP_8QT7GX.jpg?auto=webp&crop=4499,2531,x0,y234&format=pjpg&width=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The US government changed the rules to allow more powerful showers after Trump complained about not getting enough water to wash his hair"
+    excerpt: "At a White House event in July, President Trump complained that showers weren't providing enough water for him to properly wash his hair."
+    publishedDateTime: 2020-12-16T12:52:00Z
+    webUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fd9f5721803a80018adfb87?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
-    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
-    publishedDateTime: 2020-12-16T19:31:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Rv9yrHMDAw+eF7oGtbm1GWC1lfMEQtFkNHB0ErzhTpKONXbzeqZOg2Fn8zVFx0zUkboZSorZDVBqbbBBXpageKBNdk24xZKOr0zJ9NwmCHUMxZO0CymbtkNjiaZttwgmcT44g2ON9SktGwGXHcAE5GfYe58NWKAskr5Ggdmp68QGIod0BcJn/xQRqzfQo7wV+RGwatQ7KB/WPQi5iJoV8oOMAMfTJhj99mCSZBgZXLCNH1G6ElyZnzHGu9JqqqMLqaGf6kQ3+b62hYWqPgKrONaM4bnDfMUGrd+kEp6/yQS2bGPz7A0Q3ngdTE30LWf6sVs5OpfeJcC7OJcvShd4/433yPLajEvGFn6KFKTSeb0=;gx9aSvdmmh4h8Bsa8lCM5Q=="
 ---

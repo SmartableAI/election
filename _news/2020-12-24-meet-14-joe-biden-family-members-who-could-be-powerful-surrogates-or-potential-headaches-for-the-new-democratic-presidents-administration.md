@@ -77,19 +77,21 @@ related:
         width: 753
         height: 545
         isCached: true
-  - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
-    excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
-    publishedDateTime: 2020-12-16T16:11:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55334234"
+  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
+    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
+    publishedDateTime: 2020-12-22T20:43:00Z
+    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 120
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091mmz2.jpg"
-        width: 400
-        height: 224
+      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
+        width: 3873
+        height: 2664
         isCached: true
   - title: "AG: 'No reason' for special counsel on election, Biden's son"
     excerpt: "Outgoing Attorney General William Barr said he saw “no reason” to appoint a special counsel on potential election fraud or the tax investigation into the son of President-elect Joe Biden."
@@ -112,17 +114,6 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Biden taps Big Law partners for White House Counsel's office"
-    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
-    publishedDateTime: 2020-12-24T02:56:00Z
-    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 105
   - title: "'SNL' unveils new Joe Biden as Jim Carrey exits"
     excerpt: "After Jim Carrey said he would no longer play President-elect Joe Biden on \"SNL,\" the show introduced its new Biden: cast member Alex Moffat."

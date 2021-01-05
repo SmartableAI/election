@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden's inauguration to include presidential escort, 'virtual parade across America'"
+    excerpt: "Instead of the in-person parade, Biden will receive a traditional presidential escort"
+    publishedDateTime: 2021-01-04T05:04:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACNMe3CSRaY/live-updates-biden-transition-1-4-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcbe096-dc86-4cc3-bb37-dfb266995ac2/b7e07a9e-48e6-4e51-96af-35e853cfbcd7/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president"
     excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals."
     publishedDateTime: 2020-12-29T23:33:00Z

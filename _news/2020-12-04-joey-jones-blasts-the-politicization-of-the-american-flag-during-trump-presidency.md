@@ -32,131 +32,227 @@ images:
     isCached: true
 
 related:
-  - title: "Pence says Trump ‘deserves his day’ in Supreme Court"
-    excerpt: "Saying “God bless Texas,” Vice President Mike Pence on Thursday gave a rousing endorsement of a lawsuit filed by the Texas attorney general and backed by President Trump that aims to throw out the election results in four key battleground states won last month by President-elect Donald Trump."
-    publishedDateTime: 2020-12-10T22:38:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqzw8poCUJw/pence-says-trump-deserves-his-day-in-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
+  - title: "Time magazine names Biden, Harris its Person of the Year in profile fiercely critical of Trump"
+    excerpt: ""
+    publishedDateTime: 2020-12-11T05:01:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAhFnJT1EBA/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 200
+    quality: 203
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:05:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 202
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kemp, Trump clash over election results"
-    excerpt: "Georgia Gov. Brian Kemp, a Republican, pushed back on President Trump’s demands for a “signature verification” in an attempt to overturn the state’s elections results, saying he has called for such an audit three times."
-    publishedDateTime: 2020-12-05T21:39:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxzkPal54wM/kemp-trump-clash-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
+  - title: "LIVE UPDATES: Trump 'surprised' some congressional Republicans think Biden won election"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-12-06T05:41:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5a8soicvt8/trump-surprised-congressional-republicans-biden-won-election-12-6-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 197
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4a9ebc-4f78-424b-9148-fc3b34ea96cf/b84819e6-bcfb-4af7-bf95-1351ac8d2195/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aaca5c8c-b769-4449-8d7c-92a7aaddc214/9f4dff36-6ba0-49e0-b71b-19d2d47e6c91/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Wisconsin Supreme Court tosses Trump election lawsuit"
-    excerpt: "The Wisconsin Supreme Court on Monday rejected President Donald Trump's lawsuit attempting to overturn his loss to Democrat Joe Biden in the battleground state, ending Trump's legal challenges in state court about an hour before the Electoral College was to meet to cast the state's 10 votes for Biden."
-    publishedDateTime: 2020-12-14T17:57:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lY-fsZJains/wisconsin-supreme-court-tosses-trump-election-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-supreme-court-tosses-trump-election-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-supreme-court-tosses-trump-election-lawsuit.amp"
+  - title: "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris"
+    excerpt: "Former top aide to Harris resigned after settling a sexual harassment case."
+    publishedDateTime: 2020-12-08T02:26:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 196
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fauci says Biden, Harris should get COVID-19 vaccine ASAP 'for security reasons'"
+    excerpt: "After the first American was inoculated with a coronavirus vaccine on Monday, the nation’s top infectious disease expert recommended that President-elect Joe Biden and Vice President-elect Kamala Harris should move toward the front of the line."
+    publishedDateTime: 2020-12-15T18:56:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jP6646MLm8/fauci-biden-harris-covid-19-vaccine-asap-security-reasons"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 195
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5affd312-5021-48bd-bd9a-ed5c5607ccf8/f467789e-3b2b-44ee-be75-39e8312c303c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden burned in bid to follow Trump playbook"
+    excerpt: "Biden's secretary of Defense pick Lloyd Austin would need the same kind of waiver from Congress James Mattis got."
+    publishedDateTime: 2020-12-08T20:13:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_82qxXiQ2MU/biden-burned-in-bid-to-follow-trump-playbook"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347853507577-e1607968333232.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump slams lack of media coverage of Hunter Biden"
+    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won. "
+    publishedDateTime: 2020-12-11T18:32:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VavpxlwzfM/trump-slams-media-coverage-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
+        isCached: true
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:11:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GojdMbZs3UE/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "In letter to Trump, House Republicans call for special counsel to investigate election"
-    excerpt: "More than two dozen House Republicans are calling on President Trump to direct Attorney General William Barr to appoint a special counsel to investigate November's presidential election, according to a letter obtained by Fox News."
-    publishedDateTime: 2020-12-09T15:07:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QkVTI84l2tg/house-republicans-election-special-counsel-letter"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-06T23:23:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Mifn6ZHwF8/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 187
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9fac570b-0017-4ea5-aaab-f25d2e3c0fde/9fdb7cc1-daf5-4543-bd30-c99fde884fc6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hillary Clinton says Republicans who 'humor' Trump's election fraud claims 'have no spines'"
-    excerpt: "Elected Republicans lack courage for not standing up to President Trump as he challenges the 2020 election results, former Secretary of State Hillary Clinton argued Thursday."
-    publishedDateTime: 2020-12-11T00:32:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88ICU2iYbZ8/hillary-clinton-republicans-no-spine"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-republicans-no-spine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-republicans-no-spine.amp"
+  - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
+    excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
+    publishedDateTime: 2020-12-14T16:45:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 180
+    quality: 186
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81839776-e1fd-47d9-91d8-318294c42f29/d7104bb7-afa9-4049-bb71-d44016271f58/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump's legacy on courts still building in waning days of presidency"
-    excerpt: "The Senate Judiciary Committee will vote Thursday on the nominee to fill the appeals court seat vacated by new Supreme Court Justice Amy Coney Barrett as well as voting on whether to send three other lower trial court nominees to the Senate floor — which could further cement President Trump’s reshaping"
-    publishedDateTime: 2020-12-03T11:52:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/unGBxgteOwg/trump-legacy-on-courts-still-building"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
+  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
+    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch.\""
+    publishedDateTime: 2020-12-17T15:56:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-PCiaPqoNA/trump-hunter-biden-special-prosecutor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
+    excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
+    publishedDateTime: 2020-12-05T22:51:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-4.jpg"
+        width: 339
+        height: 226
+        isCached: true
+  - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
+    excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
+    publishedDateTime: 2020-12-16T13:37:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjIq4H_lGM4/trump-potential-special-counsel-hunter-biden-barr-resignation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden changes his story on Bin Laden raid -- again"
+    excerpt: "President-elect Joe Biden came under fire earlier this year for denying his opposition to the 2011 raid that killed Usama bin Laden after previously claiming that he advised then-President Obama against it. "
+    publishedDateTime: 2020-12-07T00:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VUmhWXUtvkE/biden-bin-laden-raid-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump tells 'Fox & Friends' he's 'so disappointed' in Supreme Court for turning aside Texas election suit"
-    excerpt: "President Trump told Fox News Saturday that he is \"so disappointed\" in the Supreme Court for declining to hear a lawsuit brought by the state of Texas that sought to nullify the election results in four battleground states."
-    publishedDateTime: 2020-12-12T22:43:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wbAAiNSbOk/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Wisconsin Supreme Court takes up Trump case after circuit court judge dismissed"
-    excerpt: "The Wisconsin Supreme Court has taken on a case by President Trump’s legal team, seeking to have hundreds of thousands of ballots in Democratic Dane and Milwaukee Counties thrown out, even after a circuit court judge dismissed the case Friday."
-    publishedDateTime: 2020-12-11T23:11:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wwcSDKCoe5Q/wisconsin-supreme-court-takes-up-trump-case-after-circuit-court-judge-dismissed"
-    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-supreme-court-takes-up-trump-case-after-circuit-court-judge-dismissed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-supreme-court-takes-up-trump-case-after-circuit-court-judge-dismissed.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76c0eaf-5096-4a0a-bb3c-7fc7db46132a/9941afad-0e5a-4e96-985a-d38d9e65ff99/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -176,353 +272,409 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump thanks Alabama congressman who says he will challenge Electoral College votes"
-    excerpt: "President Trump on Thursday thanked Alabama Republican Rep. Mo Brooks, who said he plans to challenge the Electoral College votes next month when Congress meets Jan. 6 to certify the 2020 presidential election."
-    publishedDateTime: 2020-12-03T16:51:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOVRsnDxKKg/trump-alabama-congressman-challenge-electoral-college-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
+  - title: "Biden's HHS pick Becerra sued the Trump admin more than 100 times as California AG: Here are some of his cases"
+    excerpt: "California Attorney General Xavier Becerra, who President-elect Biden announced Monday will be his nominee for Health and Human Services secretary, has been one of the most litigious attorneys general against the president in recent years, actively pursuing progressive policies in the courts more than"
+    publishedDateTime: 2020-12-07T18:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/31TXyMW0NuY/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump supporters rally in DC after Supreme Court delivers president another defeat"
-    excerpt: "Backers of President Trump descended on Washington, D.C., Saturday in another sign of support for the president, who has come up short in his efforts to overturn the results of the 2020 presidential election. "
-    publishedDateTime: 2020-12-12T17:12:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhEwObghB88/trump-supporters-rally-dc-after-supreme-court-delivers-defeat-president"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-rally-dc-after-supreme-court-delivers-defeat-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-rally-dc-after-supreme-court-delivers-defeat-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Washington-Rally-Trump-REUTERS.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump touts Texas Supreme Court case as 'the big one,' says 'we will be intervening'"
-    excerpt: "President Trump on Wednesday touted Texas' suit demanding the U.S. Supreme Court block the Electoral College votes of Georgia, Michigan, Pennsylvania and Wisconsin, calling it the \"big one.\""
-    publishedDateTime: 2020-12-09T14:22:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBD8idgWVbA/trump-texas-supreme-court-election-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-texas-supreme-court-election-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-supreme-court-election-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Ken-Paxton.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump legal team loses federal case in Wisconsin, argues another in state's Supreme Court"
-    excerpt: "With the Trump legal team arguing a case before the Wisconsin Supreme Court Saturday seeking to have hundreds of thousands of ballots in two blue counties tossed, the president’s reelection effort saw a separate legal loss in federal district court."
-    publishedDateTime: 2020-12-12T20:20:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75QnfdHY2Io/trump-legal-team-wisconsin-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+  - title: "NAACP meets with Biden, Harris, pushes for 'civil rights envoy' to spearhead racial justice reforms"
+    excerpt: "The National Association for the Advancement of Colored People (NAACP), met with President-elect Joe Biden and Vice President-elect Kamala Harris Tuesday and pushed him to create a new \"civil rights envoy\" position in the White House to carry out a racial justice agenda. "
+    publishedDateTime: 2020-12-09T01:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSZnjrApf0/naacp-biden-harris-racial-justice-reform"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347639088808.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20343756001816.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "LIVE UPDATES: Trump legal team loses Wisconsin case, argues another in state's Supreme Court"
-    excerpt: "Follow for the latest updates on the 2020 election legal challenges."
-    publishedDateTime: 2020-12-13T07:29:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DivHMRjmFLY/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-legal-team-loses-wisconsin-case-argues-another-in-states-supreme-court.amp"
+  - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
+    excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
+    publishedDateTime: 2020-12-13T06:14:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-272735/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Pursues Appointing Special Counsel to Probe Election, Hunter Biden"
+    excerpt: "The president has expressed frustration with Attorney General William Barr as efforts to overturn the election have repeatedly failed."
+    publishedDateTime: 2020-12-12T08:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 164
+    images:
+      - url: "https://images.wsj.net/im-271974/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
+    excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
+    publishedDateTime: 2020-12-16T12:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5534ef4d-b106-4fad-a20f-c35a01f87f51/ab4e04d0-6103-4966-8e46-253afd17ca6c/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Turley: Trump 'running out of runway' after Supreme Court rejects bid to toss Pa. mail-in ballots"
-    excerpt: "George Washington University Law Professor Jonathan Turley said Tuesday that President Trump and his Republican allies are \"running out of runway\" after the Supreme Court denied their request to overturn Pennsylvania's election results."
-    publishedDateTime: 2020-12-09T00:15:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75i4K1vklLc/jonathan-turley-trump-supreme-court-pennsylvania-ruling"
-    ampWebUrl: "https://www.foxnews.com/politics/jonathan-turley-trump-supreme-court-pennsylvania-ruling.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-trump-supreme-court-pennsylvania-ruling.amp"
+  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
+    publishedDateTime: 2020-12-15T15:52:00Z
+    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
+    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: New York Post
+      domain: nypost.com
     quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29b8481f-5502-4817-92e0-7c5ea1a1bdb7/5b069de0-c4c6-425c-934a-4d9b09911643/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Pence says Trump ‘deserves his day’ in Supreme Court"
-    excerpt: "Saying “God bless Texas,” Vice President Mike Pence on Thursday gave a rousing endorsement of a lawsuit filed by the Texas attorney general and backed by President Trump that aims to throw out the election results in four key battleground states won last month by President-elect Donald Trump."
-    publishedDateTime: 2020-12-11T03:43:00Z
-    webUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:12:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 152
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c51beca7-3015-4ada-b810-3b3c87901146/d32db95e-9151-4cf6-8dfb-c840749f2648/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump on trusting Barr: Ask me again 'in a number of weeks'"
-    excerpt: "President Trump on Thursday refused to say whether he has confidence in Attorney General William Barr after the head of the Justice Department said earlier this week he has not found evidence of widespread voter fraud in the presidential elections. "
-    publishedDateTime: 2020-12-03T21:44:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-fm-vF1wiM/trump-on-trusting-barr-ask-me-again-in-a-number-of-weeks"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Trump-Barr-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump Bets on Long-Shot Texas Election Lawsuit"
-    excerpt: "The president and his supporters have pinned their hopes of reversing President-elect Joe Biden’s victory on a lawsuit filed by the Republican Texas attorney general that election-law specialists say has almost no chance of success."
-    publishedDateTime: 2020-12-11T04:24:00Z
-    webUrl: "https://www.wsj.com/articles/trump-bets-on-longshot-texas-election-lawsuit-11607622925"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bets-on-longshot-texas-election-lawsuit-11607622925"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bets-on-longshot-texas-election-lawsuit-11607622925"
+  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
+    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
+    publishedDateTime: 2020-12-10T02:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 150
     images:
-      - url: "https://images.wsj.net/im-271431/social"
-        width: 1279
+      - url: "https://images.wsj.net/im-270768/social"
+        width: 1280
         height: 640
         isCached: true
-  - title: "Violence erupts at Trump rally as thousands protest election in DC"
-    excerpt: "Violence erupted on the streets of Washington, DC, Saturday as thousands of President Trump’s most die-hard supporters swelled the nation’s capital for a second round of protests"
-    publishedDateTime: 2020-12-12T20:06:00Z
-    webUrl: "https://nypost.com/2020/12/12/violence-erupts-at-trump-rally-as-thousands-protest-election/"
-    ampWebUrl: "https://nypost.com/2020/12/12/violence-erupts-at-trump-rally-as-thousands-protest-election/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/violence-erupts-at-trump-rally-as-thousands-protest-election/amp/"
+  - title: "Seventeen states, Trump join Texas SCOTUS suit to toss Biden electors"
+    excerpt: "Seventeen states on Wednesday filed a brief with the Supreme Court siding with a Texas lawsuit against four battleground states Joe Biden won — charging that they acted"
+    publishedDateTime: 2020-12-09T22:21:00Z
+    webUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/"
+    ampWebUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 150
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201212-trump-rally-dc5.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Ken-Paxton2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump says despite court setbacks, election challenges 'not over'"
-    excerpt: "Trump tells 'Fox & Friends' election challenges 'not over,' won’t disclose if he’ll attend Biden inauguration President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results,"
-    publishedDateTime: 2020-12-14T10:56:00Z
-    webUrl: "https://www.foxnews.com/us/trump-tells-fox-friends-despite-court-setbacks-election-challenges-not-over"
-    ampWebUrl: "https://www.foxnews.com/us/trump-tells-fox-friends-despite-court-setbacks-election-challenges-not-over.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-tells-fox-friends-despite-court-setbacks-election-challenges-not-over.amp"
+  - title: "Biden, Trump, Fauci among Time's finalists for Person of the Year"
+    excerpt: "Time magazine unveiled its 2020 Person of the Year finalists on Thursday, with President Donald Trump, President-elect Joe Biden, the “movement for racial justice” and frontline healthcare workers including Dr."
+    publishedDateTime: 2020-12-10T20:06:00Z
+    webUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year"
+    ampWebUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Biden-Trump.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump lays out election-fraud case in online video: 'Bad things happened'"
-    excerpt: "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,"
-    publishedDateTime: 2020-12-03T10:07:00Z
-    webUrl: "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened"
-    ampWebUrl: "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp"
+  - title: "Trump critic Richard Painter calls for Hunter Biden special counsel"
+    excerpt: "One of President Trump’s harshest critics has jumped on the bandwagon that’s calling for a special counsel to investigate President-elect Joe Biden’s son."
+    publishedDateTime: 2020-12-11T18:22:00Z
+    webUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/"
+    ampWebUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Richard-Painter-special-counsel-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump slams lack of media coverage of Hunter Biden"
+    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won."
+    publishedDateTime: 2020-12-11T18:44:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 149
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/2trump-newsletter-xxx-1.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
+        isCached: true
+  - title: "Kellyanne Conway: ‘It Looks like Joe Biden and Kamala Harris will prevail’"
+    excerpt: "Kellyanne Conway says the party is probably over for her former boss and that Joe Biden and Kamala Harris will likely be moving into the White House in January. “The president wants to exhaust all"
+    publishedDateTime: 2020-12-05T13:44:00Z
+    webUrl: "https://nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/"
+    ampWebUrl: "https://nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201205-kellyanne-conway-biden-wins.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Liberal media ‘snuffed out' Hunter Biden coverage until after election to help defeat Trump, critics say"
+    excerpt: "The liberal mainstream media largely ignored the ongoing Hunter Biden scandal until after his father won the presidential election and media watchdogs feel it was a strategic move by the liberal media to help Joe Biden defeat President Trump."
+    publishedDateTime: 2020-12-10T16:27:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/tapper-cnn.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Wisconsin’s Highest Court Turns Away Trump Lawsuit Challenging Election Defeat"
-    excerpt: "Wisconsin’s high court dealt another setback to President Trump’s efforts to overturn his defeat to President-elect Biden, turning away a lawsuit challenging the validity of hundreds of thousands of mail-in ballots."
-    publishedDateTime: 2020-12-04T02:03:00Z
-    webUrl: "https://www.wsj.com/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    ampWebUrl: "https://www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump-Era Tax Rule Benefiting Some Multinationals May Get Revised Under Biden"
+    excerpt: "A regulation that cut the tax bills of companies such as Philip Morris and Sealed Air could be poised for reversal in 2021 as the Biden administration tries to deliver on its campaign promise to raise taxes on corporations."
+    publishedDateTime: 2020-12-07T10:44:00Z
+    webUrl: "https://www.wsj.com/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 146
+    quality: 147
     images:
-      - url: "https://images.wsj.net/im-267926/social"
+      - url: "https://images.wsj.net/im-268013/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "LIVE UPDATES: Trump reacts to SCOTUS decision not to hear on Texas’ election suit"
-    excerpt: "Rudy Giuliani, an attorney for President Trump, told 'Fox & Friends' on Saturday that there are more legal challenges to come from the Trump campaign -- despite a defeat at the Supreme Court. The Supreme Court has denied a Texas effort Friday that would have essentially nullified the presidential elections in Pennsylvania,"
-    publishedDateTime: 2020-12-12T21:11:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-giuliani-supreme-court-rejection-texas-lawsuit-wont-end-election-fight-12-12-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-giuliani-supreme-court-rejection-texas-lawsuit-wont-end-election-fight-12-12-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-giuliani-supreme-court-rejection-texas-lawsuit-wont-end-election-fight-12-12-2020.amp"
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-07T00:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Iran will reportedly hike oil production if Biden eases sanctions Trump imposed"
+    excerpt: "President Hassan Rouhani was quoted in state media saying that before President Trump exited the Iranian nuclear deal in 2018 and reimposed crippling sanctions the Islamic Republic had exported"
+    publishedDateTime: 2020-12-06T14:09:00Z
+    webUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/"
+    ampWebUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/iran-oil-biden-comments.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
+    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
+    publishedDateTime: 2020-12-17T16:10:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump keeps denouncing election as Biden transition grinds on"
+    excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."
+    publishedDateTime: 2020-12-08T12:56:00Z
+    webUrl: "https://www.foxnews.com/media/trump-keeps-denouncing-election-as-biden-transition-grinds-on"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 145
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/564c38a2-ebcd-4af9-b652-5af58b123533/9056fda9-8c74-4d30-a5fa-4660485a3fbf/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Supreme Court denies Texas, Trump appeal over election results in four other states"
-    excerpt: "The Supreme Court has denied a Texas effort Friday that would have essentially nullified the presidential elections in Pennsylvania, Michigan, Georgia and Wisconsin."
-    publishedDateTime: 2020-12-12T00:21:00Z
-    webUrl: "https://www.foxnews.com/politics/scotus-denied-election-texas-election-suit"
-    ampWebUrl: "https://www.foxnews.com/politics/scotus-denied-election-texas-election-suit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-denied-election-texas-election-suit.amp"
+  - title: "Kamala Harris' brother-in-law floated for attorney general"
+    excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
+    publishedDateTime: 2020-12-03T11:06:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 144
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301051552370.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ga. Sec of State says he'll vote for GOP senators who backed Trump's calls for his resignation"
-    excerpt: "Brad Raffensperger touted his support for both his state's Republican candidates for Senate -- incumbents Kelly Loeffler and David Perdue -- despite them joining President Trump in calling for his resignation after he certified President-elect Joe Biden's victory in the longtime GOP stronghold. "
-    publishedDateTime: 2020-12-05T19:27:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow4w0v8ng1w/ga-sec-of-state-says-hell-vote-for-republican-senators-despite-candidates-trump-calling-for-him-to-resign"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20335602465466-e1606850021803.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Senate Advances Defense-Policy Bill Despite Trump Veto Threat"
-    excerpt: "The annual bill sets pay rates for troops and authorizes funds for military construction projects and other national-security programs. The president opposes a provision that would lead to renaming military installations honoring Confederate commanders."
-    publishedDateTime: 2020-12-11T16:19:00Z
-    webUrl: "https://www.wsj.com/articles/senate-advances-defense-policy-bill-despite-trump-veto-threat-11607703243"
-    ampWebUrl: "https://www.wsj.com/amp/articles/senate-advances-defense-policy-bill-despite-trump-veto-threat-11607703243"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-advances-defense-policy-bill-despite-trump-veto-threat-11607703243"
+  - title: "Kamala Harris Names Senior White House Staff"
+    excerpt: "The vice president-elect selected three women to serve in top roles on her team."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.wsj.com/articles/harris-names-senior-white-house-staff-11607008158"
+    ampWebUrl: "https://www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-272094/social"
+      - url: "https://images.wsj.net/im-267711/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "William Barr Resigns as Attorney General, Trump Says"
-    excerpt: "President Trump announced the departure of the nation’s top law-enforcement official, who shielded federal investigations into Hunter Biden from public view during the heated election campaign."
-    publishedDateTime: 2020-12-15T04:28:00Z
-    webUrl: "https://www.wsj.com/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
-    ampWebUrl: "https://www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/attorney-general-william-barr-resigns-effective-dec-23-11607986828"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-273339/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump, White House will be offered COVID vaccine within days, report says"
-    excerpt: "President Trump and other top White House officials will be offered Pfizer’s coronavirus vaccine within the next few days, according to a report on Sunday. Key government staffers will"
-    publishedDateTime: 2020-12-13T23:52:00Z
-    webUrl: "https://nypost.com/2020/12/13/trump-will-be-offered-covid-vaccine-within-days-report/"
-    ampWebUrl: "https://nypost.com/2020/12/13/trump-will-be-offered-covid-vaccine-within-days-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-will-be-offered-covid-vaccine-within-days-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Virus-Outbreak-Trump-Pence-Vaccine.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump tells 'Fox & Friends' he's 'so disappointed' in Supreme Court for turning aside Texas election suit"
-    excerpt: "President Trump told Fox News Saturday that he is \"so disappointed\" in the Supreme Court for declining to hear a lawsuit brought by the state of Texas that sought to nullify the election results in four battleground states."
-    publishedDateTime: 2020-12-13T06:56:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends?amp/"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5534ef4d-b106-4fad-a20f-c35a01f87f51/ab4e04d0-6103-4966-8e46-253afd17ca6c/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Trump backers in Sacramento say counter-protesters damaged their vehicles: report"
-    excerpt: "Some supporters of President Trump who gathered for a rally outside the  Statehouse on Saturday say they found their vehicles damaged when they tried to leave the event, according to a report."
-    publishedDateTime: 2020-12-06T09:52:00Z
-    webUrl: "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report"
-    ampWebUrl: "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp"
+  - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
+    excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
+    publishedDateTime: 2020-12-16T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/do-over-biden-clinches-columnists-left-and-right-dump-on-trump"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 130
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20113664367822.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/8daf5c9f-Trump-Biden-Recent-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Trump legal team loses federal case in Wisconsin, argues another in state's Supreme Court"
-    excerpt: "With the Trump legal team arguing a case before the Wisconsin Supreme Court Saturday seeking to have hundreds of thousands of ballots in two blue counties tossed, the president’s reelection effort saw a separate legal loss in federal district court."
-    publishedDateTime: 2020-12-12T20:24:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+  - title: "Republicans Backing Trump Fraud Claims Even As Biden Wins Electoral College"
+    excerpt: "If tens of millions of Republicans believe Joe Biden is an illegitimate president--Trump actually used that phrase--it could well damage his administration. And at a deeper level, if much of one political party believes an election is being stolen--and next time it could be the Democrats--that seriously damages democracy."
+    publishedDateTime: 2020-12-15T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/republicans-backing-trump-fraud-claims-even-as-biden-wins-electoral-college"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 128
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347639088808.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/BIDEN-TRUMP-SBS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
+    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
+    publishedDateTime: 2020-12-11T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/526544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
+    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
+    publishedDateTime: 2020-12-13T15:51:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/529627.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "Donald Trump Is Not a Political Genius"
     excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
@@ -537,6 +689,34 @@ related:
       - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Expect Big Things From Harris as Vice President"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-08T12:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Zero good options to replace Kamala Harris"
+    excerpt: "With Kamala Harris set to become vice president come January, Gov. Gavin Newsom must decide with whom to fill California's Senate vacancy — only the second in nearly three decades. In the bluest state in the union,"
+    publishedDateTime: 2020-12-08T13:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/zero-good-options-to-replace-kamala-harris"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/55fa6e1/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F8d%2F2b%2F08b10149421da82926aba0c29760%2Fgavin-newsom-gop.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+zk4rmWAvdLhkzHFZLLFrd8p/83sIA3KVq5YIsYCr3VSqDFwJXfpAbYdQB8N/ydUpp2/ockrdjXuDHE4vnsndQNFgs1nTbb4NM4hqSzq1tad7izblxrERICEYpVlYMLntKNdqluoh5EuQ5wXYqGox8Wrc0c9w90e93HkTmcnxCbRf7kWhYDJe9d1hShCqn3W8ezbBJjruuslGsf509NLrn8mFuf7hE4xSG49t9A2G/iPl/VeQ3nZXbU3k7NPq30ZJ3anLdcAFii201AtgnzI3OHj0xqr2J9Jx+/RfoWeELHvsWmRfgXntSBrjex/XewpesbkkdQNxG8+wvrkYoVhe1W6Lru5sxQcKeACrRpqhVQ=;mQFdK+lWv4TiIe/mKKP0yg=="

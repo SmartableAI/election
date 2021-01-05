@@ -31,44 +31,44 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date"
-    excerpt: "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6."
-    publishedDateTime: 2020-12-24T19:47:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTyReV9x0Xw/trump-campaign-election-challenges-ongoing-jan-6-date"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
+  - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
+    excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
+    publishedDateTime: 2020-12-18T17:40:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Texas-SCOTUS-Challenge.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump campaign manager launching firm to work with outgoing president"
-    excerpt: "President Trump’s reelection campaign manager Bill Stepien is joining two other top members of Trump’s 2020 campaign team in setting up a political consulting firm that would likely work with the soon-to-be former president as he stays engaged in Republican Party politics."
-    publishedDateTime: 2020-12-22T16:05:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KTee3IG8pJ0/trump-campaign-manager-firm-work-with-outgoing-president"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+  - title: "Dem congressman suggests Pelosi refuse to seat 126 House Republicans backing Trump’s election lawsuit"
+    excerpt: "Rep. Bill Pascrell, D-N.J., sent a letter Friday urging House Speaker Nancy Pelosi, D-Calif., to consider blocking more than 100 Republican lawmakers from taking office because of their support for President Trump's lawsuit challenging the 2020 election results."
+    publishedDateTime: 2020-12-12T01:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/othhPpl_3lc/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be49e1af-bdeb-4c95-92ae-d90b8af1ee9a/b851ccf8-5175-45cc-89b2-9f6946360c14/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump supporters to hold virtual 'second inauguration' on Jan. 20"
-    excerpt: "Thousands of supporters have pledged to attend a virtual \"second inauguration\" for President Trump, who lost his bid for a second term, at the same time President-elect Joe Biden is slated to be sworn in on Jan. 20. "
-    publishedDateTime: 2020-12-22T19:12:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdWWyQp7CVQ/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
+  - title: "Trump expected to veto defense bill, forcing Congress back to the Hill"
+    excerpt: "President Trump is expected to veto the National Defense Authorization Act (NDAA) Wednesday, sources tell Fox News, forcing the House and Senate to reconvene immediately following Christmas."
+    publishedDateTime: 2020-12-22T20:31:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDgzBEoTNok/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill.amp"
     type: article
     provider:
       name: Fox News
@@ -79,117 +79,133 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump declares war on Thune, but Noem says she won't challenge senator"
-    excerpt: "Soon after President Trump declared that South Dakota Sen. John Thune's \"political career is over,\" the state’s governor and Trump ally Kristi Noem called the number two Republican in the Senate \"a friend\" and said she wouldn’t \"be challenging\" Thune when he is up for re-election in 2022."
-    publishedDateTime: 2020-12-23T15:12:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8f7RMBp0MMs/trump-thune-noem-south-dakota"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
+  - title: "McConnell implores Trump not to veto defense bill, prepares override effort"
+    excerpt: ""
+    publishedDateTime: 2020-12-22T08:12:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYiTGFKrJTk/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9107df7-1cf8-47d5-a9bd-ec708ef61a02/d932b3cc-32bc-45e4-9850-102bc8606f94/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell silent after Trump threatens to block coronavirus, government funding package"
+    excerpt: "Senate Majority Leader Mitch McConnell hasn't yet responded to President Trump demanding Tuesday night that Congress include $2,000 stimulus checks in the coronavirus aid package that it passed on Monday, which included smaller $600 checks for individuals."
+    publishedDateTime: 2020-12-23T16:43:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p3rjdZ8SWiM/mcconnell-trump-threat-coronavirus-government-funding-package"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-threat-coronavirus-government-funding-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-threat-coronavirus-government-funding-package.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump grants 15 pardons, 5 commutations"
-    excerpt: "President Trump issued full pardons to 15 individuals and commuted part or all of the sentences of an additional five people, the White House announced Tuesday."
-    publishedDateTime: 2020-12-23T00:18:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+  - title: "House set for showdown over Trump demands on stimulus, spending; McConnell mum on potential veto"
+    excerpt: "House Democrats and Republicans are set to make dueling \"unanimous consent\" requests on Thursday based on grievances President Trump aired Tuesday night to the massive coronavirus stimulus and government funding package lawmakers sent to his desk — exchanging political barbs as it's still unclear whether"
+    publishedDateTime: 2020-12-24T12:20:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pAR1gXH_f9A/house-showdown-trump-demands-stimulus-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/house-showdown-trump-demands-stimulus-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-showdown-trump-demands-stimulus-spending.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 162
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20353841936137.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Who is Charles Kushner, who was pardoned by Trump?"
-    excerpt: "President Trump issued 26 pardons on Wednesday, including several with personal ties to the president or members of his administration. One of them is Charles Kushner, father of Trump's adviser and son-in-law, Jared Kushner."
-    publishedDateTime: 2020-12-24T14:21:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xh4B44uoAhI/who-is-charles-kushner-trump-pardon"
-    ampWebUrl: "https://www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
+  - title: "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'"
+    excerpt: "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted."
+    publishedDateTime: 2020-12-17T20:38:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20359026146833-e1608817865436.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
-    excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
-    publishedDateTime: 2020-12-22T18:03:00Z
-    webUrl: "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
+  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
+    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-12-19T18:36:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 135
+    quality: 144
     images:
-      - url: "https://images.wsj.net/im-274855/social"
+      - url: "https://images.wsj.net/im-275358/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump Lawyers Get Little Backup From Their Firms or Universities"
-    excerpt: "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election."
-    publishedDateTime: 2020-12-25T10:50:00Z
-    webUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
+    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-12-21T02:24:00Z
+    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 135
+    quality: 144
     images:
-      - url: "https://images.wsj.net/im-277452/social"
+      - url: "https://images.wsj.net/im-275358/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump takes meetings on Christmas to urge Congress to pass $2K stimulus checks"
-    excerpt: "President Trump repeated his calls for Congress to approve $2,000 coronavirus stimulus checks in a Christmas Day tweet, announcing he has been taking meetings over the holiday to secure a deal"
-    publishedDateTime: 2020-12-25T22:35:00Z
-    webUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
-    ampWebUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+  - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
+    excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
+    publishedDateTime: 2020-12-18T17:59:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-12.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350731665251.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
-    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
-    publishedDateTime: 2020-12-18T20:25:00Z
-    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
-    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+  - title: "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump"
+    excerpt: "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted."
+    publishedDateTime: 2020-12-11T20:11:00Z
+    webUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump"
+    ampWebUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 114
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
     images:
-      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
-        width: 620
-        height: 413
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c8df7a-eaf0-44ed-a011-63755a0a2217/95f0028d-74bf-4110-98a2-0fcbbc174d75/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "czXWNjxXcSVES1CdNGRS+4UsrIhJrYz0U/BUdL0/V750blMUyz7x7avfE1PiqMbF0HN5B/8Cv0AbZ51RLavD4rvYUZ4VLP817/YWIzL2W/VbD6seJ1VOQcepi2fyiM/L/ezqtsZKX0u1YmpZKJed+lJYs0kE/e1iHYU+yK/mlrA1H8+JWIwx8vOtb+TD9L+DJ2Dc3UQD71Am5SjFGfMVUyzDP7Ve8zaJgaqxnFaJ5urpiBm7fj9Sn43G4ycvoILhz7NBMVxSthmLosbc3Q5TL94dX9qj98OxCWg8h33N+JPnL18zgk+GFS1M5kcflXwJbLwNPb18e9Q2EVmLzvaRnQScWBAhf/ItJkiLJ5iMWAQ=;CtreWtaehhzFbVdenBiEAA=="

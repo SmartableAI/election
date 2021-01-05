@@ -47,6 +47,102 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
+    excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
+    publishedDateTime: 2020-12-02T11:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
+        height: 545
+        isCached: true
+  - title: "Trump raises $170 million as he looks to future"
+    excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
+    publishedDateTime: 2020-12-01T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-170-million-future-74484442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump silent as UK is first to authorizes vaccine"
+    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
+    publishedDateTime: 2020-12-02T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Could Trump preemptively pardon his family — or even himself?"
+    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
+    publishedDateTime: 2020-12-04T00:49:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D1FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Could Trump preemptively pardon his family — or even himself?"
+    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
+    publishedDateTime: 2020-12-05T16:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28D1FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543537212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB407M"
+        width: 871
+        height: 545
+        isCached: true
   - title: "Official: Trump to attend the Army-Navy game at West Point"
     excerpt: "President Donald Trump is scheduled to attend this weekend’s Army-Navy football game at the U.S. Military Academy’s home field"
     publishedDateTime: 2020-12-07T23:21:00Z
@@ -127,6 +223,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Georgia upholds Biden's win as US approaches 15m coronavirus cases - live"
+    excerpt: "We have now counted legally-cast ballots three times, and the results remain unchanged,’ says Brad Raffensperger, Georgia’s secretary of state"
+    publishedDateTime: 2020-12-07T21:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
     excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
     publishedDateTime: 2020-12-03T23:14:00Z
@@ -142,6 +254,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
         width: 600
         height: 360
+        isCached: true
+  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-02T00:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
+        width: 1022
+        height: 545
         isCached: true
   - title: "Trump adviser Navarro violated law against political activity -federal watchdog"
     excerpt: "President Donald Trump's trade adviser Peter Navarro knowingly and willfully violated federal law by attacking then-Democratic presidential candidate Joe Biden while serving in his official capacity,"
@@ -191,22 +319,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
-    excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
-    publishedDateTime: 2020-11-24T20:08:00Z
-    webUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/"
-    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OUYQYUQI3AI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Stocks open higher after President Trump signs $900B coronavirus relief aid package"
     excerpt: "The Dow Jones Industrial Average, S&P 500 and Nasdaq began the week slightly higher after President Trump signed a $900 billion economic aid package."
     publishedDateTime: 2020-12-28T16:27:00Z
@@ -239,21 +351,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies"
-    excerpt: "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media."
-    publishedDateTime: 2020-11-08T00:16:00Z
-    webUrl: "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp"
+  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
+    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
+    publishedDateTime: 2020-11-30T16:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: Reuters
+      domain: reuters.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump campaign lawyer Jenna Ellis has reportedly told associates she has the coronavirus"
     excerpt: "Ellis crisscrossed the country in recent days and attended a White House Christmas party that featured few masks and little social distancing."
@@ -335,6 +447,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
+    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
+    publishedDateTime: 2020-11-30T19:14:00Z
+    webUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Democrats want rushed vote on Trump's $2,000 coronavirus aid checks"
     excerpt: "Democrats in the U.S. House of Representatives on Thursday aim to win quick passage of legislation providing $2,000 in direct payments to Americans as part of a coronavirus economic relief initiative after President Donald Trump unexpectedly insisted on the provision."
     publishedDateTime: 2020-12-24T11:32:00Z
@@ -368,6 +491,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
+    excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."
+    publishedDateTime: 2020-12-02T13:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/trump-says-veto-defense-bill-over-section-230-social-media/3791708001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3791708001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791708001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/23824b15-b233-4546-b723-194679457438-AP20336673206931.jpg?auto=webp&crop=5876,3306,x0,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Senate passes $892 bln coronavirus aid bill, sends to Trump to sign"
     excerpt: "The U.S. Senate on Monday passed an $892 billion coronavirus aid package, throwing a lifeline to the nation's pandemic-battered economy, while also funding federal government activities through September 2021."
     publishedDateTime: 2020-12-22T05:08:00Z

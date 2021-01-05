@@ -47,38 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
-    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
-    publishedDateTime: 2020-12-14T03:20:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
-    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
-    publishedDateTime: 2020-12-14T17:46:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/media/dr-jill-biden-wall-street-journal.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-print-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "Hj+MWTok7/OJfIRWmZyN7X9bybrZiN7bR7dQnhCShGSJ1bWv89PUkBtP21s8ruTWhJYHyfB/b0sSOi/iKfP5vamDzzp6Hu3I6UjJUB9+Ze7sE42mDs1BWcYdXCC/hTp2HcPCcdN3nJrcfGSFVSOSDsaPfwkax5fE1wHxNp9Wec0r1te5fji5EYbrpjx7CEbrOT27Wdux59YdLuHeNEJejaImrAJT1tYK/CXLu0PtbET2VT8b7OrYBv+Zhis/bNn9u+JyBjbNPG5VFnPCiu1g1TbAFXMjH3DgLc3BPjPP67cvR5vcPIQjxGcIW40pQUWi79YA/uitHfKBJ5O3Fu7snJmvJuKyaQx5+obmxgxibfo=;WXon5s2x1o/1Y1KxGwEtnA=="
 ---

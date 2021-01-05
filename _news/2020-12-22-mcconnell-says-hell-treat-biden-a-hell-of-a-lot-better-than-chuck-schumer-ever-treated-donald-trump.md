@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
-    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch.\""
-    publishedDateTime: 2020-12-17T15:56:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-PCiaPqoNA/trump-hunter-biden-special-prosecutor"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden now says it will take ‘six months’ to reverse Trump’s immigration policies"
     excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions “on day one,” but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of “2 million people on our border.”"
     publishedDateTime: 2020-12-22T23:34:41Z
@@ -76,22 +60,6 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
-    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
-    publishedDateTime: 2020-12-17T16:10:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

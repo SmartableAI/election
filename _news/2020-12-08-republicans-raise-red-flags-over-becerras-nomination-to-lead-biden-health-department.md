@@ -31,171 +31,128 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to nominate California AG Xavier Becerra for health secretary"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday."
-    publishedDateTime: 2020-12-07T00:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0YM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0YM"
+  - title: "Biden taps Deese to head climate-focused White House economic council"
+    excerpt: "U.S. President-elect Joe Biden said on Thursday he had selected Brian Deese, who helped lead President Barack Obama's efforts to bail out the automotive industry during the 2009 financial crisis and was a key player in helping secure the Paris climate agreement,"
+    publishedDateTime: 2020-12-04T00:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-deese/biden-names-top-economic-adviser-deese-to-fight-climate-change-jobs-crisis-idUSKBN28D2NU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2NU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2NU"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543627983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50MF"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543360436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21KF"
+        width: 809
         height: 545
         isCached: true
-  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
-    publishedDateTime: 2020-12-09T15:37:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28J1YM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1YM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1YM"
+  - title: "Joe Biden’s ‘Groundhog Day’ moment"
+    excerpt: "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008."
+    publishedDateTime: 2020-12-05T19:01:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden selects Katherine Tai as U.S. trade representative"
+    excerpt: "President-elect Joe Biden plans to nominate Katherine Tai to be U.S. trade representative, according to three people familiar with the decision. Tai, who has been the chief trade counsel on the House Ways and Means Committee since 2017,"
+    publishedDateTime: 2020-12-09T23:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMK24QB2MMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden picks leave Democrats with slimmest House majority in modern history"
+    excerpt: "President-elect Joe Biden 's decision to tap Reps. Cedric Richmond (D-La.) and Marcia Fudge (D-Ohio) for his new administration will mean Speaker Nancy Pelosi 's fragile House majority — already decimated in the November election — will temporarily shrink by a couple more seats next month."
+    publishedDateTime: 2020-12-09T20:38:00Z
+    webUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
+    ampWebUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/fudgemarcia_052219gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden has picked a retired general for defense secretary. Here’s why it matters."
+    excerpt: "President-elect Joe Biden announced his nominee for defense secretary would be retired Army. The move would make the former U.S. Central Command leader the first Black secretary of defense. Biden would also be the second consecutive president to begin his tenure with the nomination of a retired military officer for the post."
+    publishedDateTime: 2020-12-09T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2ZROABZFII6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 946
+        isCached: true
+  - title: "Biden to tap Katherine Tai for U.S. trade representative and Denis McDonough to head veterans affairs"
+    excerpt: "Tai would be the first Asian American woman to be USTR. McDonough was President Obama's White House chief of staff."
+    publishedDateTime: 2020-12-10T15:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/10/5dfa7453-737b-4d9a-9b23-b0401be1d262/thumbnail/1200x630/ad20fd9161a0dce85803688f7f56049e/screen-shot-2020-12-10-at-10-47-18-am.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543966451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB813D"
-        width: 802
-        height: 545
-        isCached: true
-  - title: "Retired Army Gen. Lloyd Austin is Biden's pick for defense secretary: Sources"
-    excerpt: "President-elect Joe Biden is expected to name retired Army Gen. Lloyd Austin to lead the Defense Department, four sources familiar with Biden's plans told ABC News."
-    publishedDateTime: 2020-12-08T01:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/Politics/general-lloyd-austin-03-gty-jt-201207_1607386547864_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Xavier Becerra, California attorney general, is Biden's pick to lead health department: NYT"
-    excerpt: "The former congressman from Los Angeles has served as California's top prosecutor since 2017."
-    publishedDateTime: 2020-12-07T10:19:00Z
-    webUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
+    quality: 105
+  - title: "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department."
+    excerpt: "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress."
+    publishedDateTime: 2020-12-08T12:10:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 115
+    quality: 90
     images:
-      - url: "https://i.insider.com/5fcd7579037cbd0018614224?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
-    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-    publishedDateTime: 2020-12-07T14:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce26118f08a20e617d9464"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 114
-    images:
-      - url: "https://i.guim.co.uk/img/media/901396f3794c94dee56ca5859beeb1ed2552933d/0_409_6170_3704/master/6170.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d11dbe6e09d1411a8248359860fe241"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
-    excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
-    publishedDateTime: 2020-12-07T01:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
-    images:
-      - url: "https://i.guim.co.uk/img/media/ee255d7954925041171c74481706b1c08381c8a4/0_87_4056_2434/master/4056.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=218ba1bbe1661ba935ae5ffe151e27c2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live updates"
-    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-    publishedDateTime: 2020-12-07T11:23:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce01468f0861e6ffe1db50"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 110
-    images:
-      - url: "https://i.guim.co.uk/img/media/901396f3794c94dee56ca5859beeb1ed2552933d/0_409_6170_3704/master/6170.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d11dbe6e09d1411a8248359860fe241"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
-    publishedDateTime: 2020-12-09T13:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
-    publishedDateTime: 2020-12-09T19:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
-    excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
-    publishedDateTime: 2020-12-04T14:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/12/04/covid-news-us-deaths-biden-public-vaccine-california-stay-home/3818218001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3818218001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818218001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 93
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/USAT/84a08671-560a-4b37-b299-13d5bc1f70f6-AP_Virus_Outbreak_California.jpg?auto=webp&crop=4371,2459,x0,y51&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
-    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
-    publishedDateTime: 2020-12-07T01:53:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
-    ampWebUrl: "https://amp.freep.com/amp/3776655001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
-        width: 1200
-        height: 677
         isCached: true
 
 secured: "bq0H1gRtXpoTQfw/PtjJuDIioJ0Or3X3gQpdz3rhyGCQ+U0UrEQYvM14KhiLDWTiEi1yqzQSkFGKCjDXdkMJKb0OMneLISGlyTJhidT8FGGMJNP4D7yteM+VSwq9HvEzDOlSPx3ifK3F132A8lL5hcVlMAVebd8W1mAahBwFtIiPW1FGDHaBKgzYlY6d1xZLCFZiUsq3IjnqjdqBqbYgfGEfLzNnXQBBwecCSd0j17uAE8z0cYQRB+qyNtAZGeQpUAjHwv2Pj2oLvWKGaz7TA8VXpi6ZS8aJU8rN6913Dg8MSDdr8215q0qPj5xcvIUiZL6VqGz2r8RlOrugVuW9KMwmd4g5DdkxgYmkhB2pTLgQErC/dzhLvQgs1oTuWyBMpFPHYLHH5pjbkPLlOvo4IXXaEvWWjZ0hGjJzhkaILmyT9P1os/BO982pGd8PUhGuKCGiXsBfilz0jx6TCX0JYUCdE/vniOBWeTiCWtnXVyyD77JrH3EGlTBzflw38XeDSIy74/okpFqmrIF5PpUWIQ==;/8R3rOUIepu3BakgIHQQ4w=="

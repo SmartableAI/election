@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key lines from Biden's remarks ahead of Christmas "
+    excerpt: "President-elect Joe Biden on Tuesday urged Americans to steel themselves for dark days ahead battling the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-22T23:15:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SwJphzV1ZZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-key-lines-christmas-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-key-lines-christmas-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222163909-joe-biden-ataque-cibernetico-critica-gobierno-trump-mensaje-fin-de-ano-sot-00001022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yCzfBWIoX4Agt83u4jQcqJQwRw6oNwSF6SBzcerZQlmO7x8KSeOhoy0VnPNJb5GqnPpDBvn+rWLfJ3c3nIkMzK7+rvQZkmKLga33M6RdN0GRhe+kt3yiABaAuviKrIYhe8FubAQ/TRIr5+F9Vhm36Vl3bgHHt0I86iBfi3NntUedZlYmZ2f6jh6fGpRkgh6zL17fjqcjWsxpf4snr7oamy9rPQmS9wpcF7L0F20GpQoi4mApCm8cnoKUKUbPRbQ9PMaBCCJc+7+dnWkbXMTZYPxXNHiqrIj1H5oRTE1x6rSldDxmtbrSkSmlxlxggyjOUcWexGdZhDztR9az0d5PJqrXmt2ibpD60R0Uk3VtC1c=;PZqMAWqkI2s5TaliTx4yvw=="
 ---

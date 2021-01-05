@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55362697"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697"
 type: article
 quality: 125
-heat: 505
+heat: 545
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/5dbe6e3/2147483647/strip/true/crop/5745x3752+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F7f%2F9241c9612bb0e6653a2902181a4d%2F5b44b76a9783455480d65d24435d21c8"
         width: 320
         height: 209
+        isCached: true
+  - title: "Joe Biden to receive coronavirus vaccine live on TV on Monday"
+    excerpt: "President-elect keen to ‘demonstrate to the American people that it is safe to take’"
+    publishedDateTime: 2020-12-21T09:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/21/joe-biden-coronavirus-vaccine-covid-public"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/21/joe-biden-coronavirus-vaccine-covid-public"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/21/joe-biden-coronavirus-vaccine-covid-public"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c0902167ca17ea2fb6e9e86602f4fc367b98a026/0_98_4710_2826/master/4710.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d890626bd6b1f1d4561297e71ae969cb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Watch Live: Joe Biden slated to receive COVID vaccine"
+    excerpt: "Mr. Biden is set to join a growing list of public officials who have shared their experiences getting inoculated against COVID-19 as part of efforts to build public trust in its safety."
+    publishedDateTime: 2020-12-21T13:21:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-vaccine-watch-live-stream-today-2020-12-21/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/8a296266-ec80-42f5-8149-7a3ffeab472b/thumbnail/1200x630/fbb1ec6906cf271f73959c07dac76a78/gettyimages-1230220168.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe and Jill Biden receive the COVID-19 vaccine on camera"
     excerpt: "So far, a limited number of healthcare workers and high-level government officials have received first doses of Pfizer's COVID-19 vaccine."

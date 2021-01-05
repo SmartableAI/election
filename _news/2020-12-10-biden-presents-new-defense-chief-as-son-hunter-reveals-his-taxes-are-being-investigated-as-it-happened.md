@@ -25,205 +25,328 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Fact check: Laptop repairman at center of Hunter Biden saga is alive"
-    excerpt: "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead."
-    publishedDateTime: 2020-12-16T01:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
+  - title: "The Latest: Biden gives dire virus warning for next 2 months"
+    excerpt: "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths"
+    publishedDateTime: 2020-12-02T14:31:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
-    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
-    publishedDateTime: 2020-12-18T19:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
-    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
-    publishedDateTime: 2020-12-12T04:49:00Z
-    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
-    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
-    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
-    publishedDateTime: 2020-12-22T20:43:00Z
-    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 121
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
-        width: 3873
-        height: 2664
-        isCached: true
-  - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
-    excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."
-    publishedDateTime: 2020-12-22T15:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-prague-newspaper-idUSKBN28W1SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545448292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL12O"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
-    excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
-    publishedDateTime: 2020-12-18T21:39:00Z
-    webUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034"
-    ampWebUrl: "https://www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-baptist-minister-lifelong-republican-loses-license-after-endorsing-biden-1556034?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
-  - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
-    excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
-    publishedDateTime: 2020-12-19T11:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/50-years-death-wife-daughter-empathy-remains-joe/story?id=74814251"
+  - title: "The Latest: Biden gives dire virus warning for next 2 months"
+    excerpt: "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths"
+    publishedDateTime: 2020-12-02T23:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 118
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-jill-grave_hpMain_20201218-183145_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_023ecb7890ac49878a685821011d8798_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden's pledges could spur more migration. But in a pandemic, the border is unprepared"
-    excerpt: "After spending eight months of 2019 in a makeshift tent camp in the dangerous Mexican border city of Matamoros, Israel Martinez abandoned his hopes of seeking asylum in the United States."
-    publishedDateTime: 2020-12-15T11:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-immigration-border-insight-idUKKBN28P1A1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28P1A1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28P1A1"
+  - title: "Biden picks Fudge for housing head, Vilsack for USDA"
+    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration."
+    publishedDateTime: 2020-12-09T14:58:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544612554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE0OH"
-        width: 817
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/617461d/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F8b%2Feaeb399388efa447df0174e9947d%2Fc8491d06726742889c7dc900e4ce52f5"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
-    excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
-    publishedDateTime: 2020-12-18T11:57:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
-        width: 852
-        height: 545
-        isCached: true
-  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
-    publishedDateTime: 2020-12-20T17:16:00Z
-    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+  - title: "Hunter Biden says federal prosecutors are investigating his taxes"
+    excerpt: "CNN reported that the investigation dates as far back as 2018 and was put on pause during the election because of its politically sensitive nature."
+    publishedDateTime: 2020-12-09T21:55:00Z
+    webUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fd140d1240ebd00126be0fc?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Hunter Biden says U.S. prosecutor investigating his taxes"
+    excerpt: "President-elect Joe Biden's son Hunter Biden said on Wednesday the U.S. Attorney's Office in Delaware is investigating his tax affairs."
+    publishedDateTime: 2020-12-10T00:10:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J2Z8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2Z8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2Z8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1544021936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81SU"
+        width: 968
+        height: 545
+        isCached: true
+  - title: "Hunter Biden tax inquiry examining Chinese business dealings"
+    excerpt: "The investigation began in 2018 but it is unclear which entities might be tied up in the inquiry, which was only disclosed to Hunter Biden on Tuesday."
+    publishedDateTime: 2020-12-10T05:45:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b6e425d/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F6c%2F76b5e1da72da92eb06284a2a8fa7%2Fla-joe-biden-hunter-biden-20141016"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "The Latest: Biden urges voters to support Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden is addressing a drive-in rally in a parking lot in Atlanta ahead of Georgia’s two pivotal Senate special elections"
+    publishedDateTime: 2021-01-04T22:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-committee-to-join-national-day-of-service/2021/01/04/183ef4b8-4ec5-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-committee-to-join-national-day-of-service/2021/01/04/183ef4b8-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-committee-to-join-national-day-of-service/2021/01/04/183ef4b8-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Black Lives Matter movement at a crossroads as Biden prepares to take office"
+    excerpt: "Sloan’s hesitant support for Biden reflects a divide among racial justice activists about the movement’s strategy under the soon-to-be presidency. Some factions of the Black L"
+    publishedDateTime: 2020-12-02T05:54:00Z
+    webUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TDVL6BUGQI6XIRJ2FTO3EHWCY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden team to meet with Latino lawmakers amid calls for diverse cabinet picks"
+    excerpt: "Congressional Hispanic Caucus has pushed for the president-elect to select a Latino person to lead a major federal agency"
+    publishedDateTime: 2020-12-02T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Texas attorney general asks Supreme Court to block Biden victory in 4 states"
+    excerpt: "President Trump, his campaign and his allies have engaged in aggressive but fruitless legal challenges designed to overturn Joe Biden's victory."
+    publishedDateTime: 2020-12-08T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/08/texas-ag-ken-paxton-asks-supreme-court-block-biden-wins-4-states/6491137002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6491137002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6491137002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hunter Biden's taxes under investigation by U.S. attorney's office in Delaware"
+    excerpt: "I am confident that a professional and objective review of these matters will demonstrate that I handled my affairs legally and appropriately, Hunter Biden said in a statement."
+    publishedDateTime: 2020-12-09T21:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/hunter-bidens-taxes-under-investigation-u-s-attorneys-office/3869793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3869793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3869793001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/73b6c0045212e85fd4374b8915310d4275855360/c=125-179-1999-1238/local/-/media/USATODAY/None/2014/10/17/635491377604550006-AP-Biden-Son-Navy-Discharge.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Biden faces a changed world from when he last held power, and not for the better"
+    excerpt: "In foreign policy, Joe Biden can't pick up where he and President Obama left off. He faces heightened tensions, especially with China and Iran."
+    publishedDateTime: 2020-12-07T12:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 120
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ba41504/2147483647/strip/true/crop/5636x3681+0+57/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F44%2F56cb36034f4792e1203a5779f5fe%2Fla-photos-1staff-644724-fg-1105-universityattack-mwy-0989.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden is now seriously considering a Black US Army general to lead the US military"
+    excerpt: "If nominated by Biden and confirmed by the Senate, the retired US Army general would be America's first Black defense secretary."
+    publishedDateTime: 2020-12-07T22:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fcea2d6037cbd001861460f?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
-    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
-    publishedDateTime: 2020-12-21T18:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
+  - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
+    excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
+    publishedDateTime: 2020-12-04T11:07:00Z
+    webUrl: "https://www.usatoday.com/story/money/economy/2020/12/04/biden-democrats-back-908-billion-stimulus-bill-with-no-second-check/115094770/"
+    ampWebUrl: "https://amp.usatoday.com/amp/115094770"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115094770"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/fba88f6b-d2ac-4acf-8bcc-232bf11bcdc2-biden_pelosi.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden: Latest jobs report 'dire'"
+    excerpt: "President-elect Joe Biden says that the most recent jobs report is \"dire\" and that there is no time to lose in crafting a rescue package as millions of people have lost their jobs or have seen their incomes slashed during the pandemic."
+    publishedDateTime: 2020-12-04T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/04/biden-latest-jobs-report-dire/3832066001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8adb341f-e20a-4ad0-bba2-82f78b3d67a8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
+    excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden says he sees no evidence cyber attack is under control"
-    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T03:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+  - title: "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m"
+    excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
+    publishedDateTime: 2020-12-04T01:58:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
-    excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
-    publishedDateTime: 2020-12-10T13:43:00Z
-    webUrl: "https://www.cbsnews.com/video/hunter-biden-reveals-he-is-under-federal-investigation-taxes/"
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Texas attorney general sues to block Biden's victory in four other states"
+    excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
+    publishedDateTime: 2020-12-08T23:40:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 104
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/10/f8b5dd6d-118b-4e25-870c-9e3ef0372c62/thumbnail/1200x630/f6d2af7d44e206e3e4bfb55a6302d452/cbsn-fusion-hunter-biden-reveals-he-is-under-federal-investigation-thumbnail-605300-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/85fff2ad-4248-40d9-83cb-b4456bb8a942/thumbnail/1200x630/6f43ea027be4327c917d24dba92e60f2/cbsn-fusion-texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan-thumbnail-604234-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+    excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+    publishedDateTime: 2020-12-05T05:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
+    excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
+    publishedDateTime: 2020-12-04T14:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/12/04/covid-news-us-deaths-biden-public-vaccine-california-stay-home/3818218001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3818218001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818218001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 93
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/15/USAT/84a08671-560a-4b37-b299-13d5bc1f70f6-AP_Virus_Outbreak_California.jpg?auto=webp&crop=4371,2459,x0,y51&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – live"
+    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
+    publishedDateTime: 2020-12-09T23:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd144108f08afb1724b7464"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 93
 
 secured: "Bl7ygkhoTtja/ZCReXb2st6lG4g9ejSR9gMhBwUeVd5DR8FK8+gKL859gHAOoLd9/md5WzmyAI7x2rq2hUCcNPNm7Nb/0Y/ZF83dnwwYCKt6awwEDxeL2O7yJmOt2caUh+jLCvqxjHcbqB1FioPFsQhol2M0QGs7hWhaLdce15p5GoD+XiSrW/rc2F3JbynueQlbBQUUPO9yoQyMjNpNeTdm/ZOUmPQ6QFiwpoxEqpYIuXHPI0OGuqN4C04ceckWNYEHO0PMFfMgFC6qf3qckeq649FkNMmXKHtqULc5mZMsGMoLvZnqeVnnn9Hh02wf/7QzlYfH6fyXIxy3OiUrnWnYKAPy5DT8oaTCTTH+kUQyb0hR+zBcMo9Ffm/M2ezkBQEW+uLgy9F8c72gv/YfZMhgu+iHBKcucaIFHBbehP+emzw6uC+MQgovRU2XQkVzpvo+fx4IeftVHE9IRPqV3B+p/5DGbTdi6JXfxrNTMbwFlcRFZ/jKC5lKa3N+Zui8o09tJzQt/5DPozOeY8uDXw==;vqWEInAYU8xF1a6W0K2Cfg=="
 ---

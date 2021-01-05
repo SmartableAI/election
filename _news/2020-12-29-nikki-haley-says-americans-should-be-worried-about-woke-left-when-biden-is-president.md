@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Live Updates: Biden's inauguration to include presidential escort, 'virtual parade across America'"
+    excerpt: "Instead of the in-person parade, Biden will receive a traditional presidential escort"
+    publishedDateTime: 2021-01-04T05:04:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACNMe3CSRaY/live-updates-biden-transition-1-4-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcbe096-dc86-4cc3-bb37-dfb266995ac2/b7e07a9e-48e6-4e51-96af-35e853cfbcd7/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Biden national security adviser criticizes Obama's foreign policy for not focusing on middle-class Americans"
     excerpt: "Incoming national security adviser Jake Sullivan, former staffer in the Obama administration, admitted that the previous president’s foreign policy did not “elevate and center middle-class concerns.” "
     publishedDateTime: 2020-12-30T18:53:28Z

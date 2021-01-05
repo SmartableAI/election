@@ -47,38 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump's election challenges about commitment to free and fair elections: White House"
-    excerpt: "White House Deputy Press Secretary Brian Morgenstern said President Trump's continued election result challenges were part of his commitment to the Constitution and the concept of fair elections on Tuesday."
-    publishedDateTime: 2020-12-08T20:20:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pkShZwRzvM/trumps-election-challenges-commitment-free-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-election-challenges-commitment-free-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-election-challenges-commitment-free-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/409efce1-a8af-4acf-85e9-aafda7d496b8/8e5cb760-5c18-487a-a1e4-1d048115f17b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
-    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
-    publishedDateTime: 2020-12-03T19:59:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump says he’ll veto defense bill unless Section 230 is terminated"
     excerpt: ""
     publishedDateTime: 2020-12-02T04:33:32Z
@@ -110,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump Calls Justice, FBI ‘Missing in Action’ on Election Allegations"
-    excerpt: "President Trump accused federal law-enforcement agencies run by his own appointees of ignoring his unproven claims of mass election fraud, as his legal setbacks continued to mount."
-    publishedDateTime: 2020-11-29T20:34:00Z
-    webUrl: "https://www.wsj.com/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-265730?width=620&size=1.5"
-        width: 620
-        height: 413
         isCached: true
   - title: "Trump Campaign Files More Election Challenges in Wisconsin, Michigan"
     excerpt: "The Wisconsin Supreme Court is being asked to disqualify more than 200,000 mail-in ballots; a Michigan judge’s decision dismissing claims is appealed."
@@ -159,21 +111,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
-    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
-    publishedDateTime: 2020-12-03T20:13:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+  - title: "President Trump visits Valdosta, Georgia for first post-election rally"
+    excerpt: "His re-election campaign may be over, but President Trump still can’t resist a rally. The president and First Lady Melania Trump head to Valdosta, GA, Saturday to stump with Republican Sens."
+    publishedDateTime: 2020-12-05T18:02:00Z
+    webUrl: "https://nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/"
+    ampWebUrl: "https://nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
+      name: New York Post
+      domain: nypost.com
+    quality: 150
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Census Delays Would Prevent Trump Immigrant Exclusion Plan"
     excerpt: "Census Bureau schedules indicate the agency needs until Jan. 23 to complete the 2020 count and transmit apportionment figures to the president, a House committee said."

@@ -7,8 +7,8 @@ originalUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-
 webUrl: "https://abcnews.go.com/Health/wireStory/bidens-challenge-creating-covid-19-free-white-house-74753046"
 type: article
 quality: 105
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -29,31 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's plans on further COVID19 relief aid?"
-    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-23T00:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
+  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
+    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
+    publishedDateTime: 2020-12-12T04:49:00Z
+    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
+    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
-    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
-    publishedDateTime: 2020-12-21T22:06:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
+  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+    publishedDateTime: 2020-12-07T12:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "pLWTL4CwGL7Pr1L1p5/VH2pkzYI/5ET7EdfAs+Qe/IpCgtaD0cXOXflXbpIjeIbKINym3Nln21SKdsBqbiLswAIb1r9fzAVd0NoD+ymNM/evADNM/dtJq2EFv8zL9kvuRE9l8F092OxMRtxTBJBKoWaztwbTK3SJsc0zhaRMP1qg3RZnSEPy8uZbGqArdRKXp9iOSJtweGi2KGb5N0i8dKUFLXKNePn1cWZ/Qdofp0qxlFo4sCU8ENJph8DPe6/JOgu6aiewZeVR4K5bVGSHREm7alCC3DHxLMlRlsVJFAPh8maFDBsak5nZX/AkK7FMDVJPOlCRAR3kAE9M4VDJT5X3lyla3CTZg+QnMiRfpk2+ViTrcJXKjGE2RzPy8BaprUoumVs2L7cdWRMDGacJQeM3Re6nB4oMBG6r0gorRGvXIRt7GyfNm+Fr3WolRiaFJ3UNaCrzhUhZJGqgSSDiAj2J9UcHVyGRJaSll6DIYZ13jkk/BMk/XNqocJIFcKGbkTYh32uaqbMzkQjWjmzU9A==;YBdfPUJz12N/agk9cibfhw=="
 ---

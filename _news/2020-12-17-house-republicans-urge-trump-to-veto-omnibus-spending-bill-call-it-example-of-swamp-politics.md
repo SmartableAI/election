@@ -77,22 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump lost the 2020 election, but he proved America can win again"
-    excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
-    publishedDateTime: 2020-12-05T15:21:00Z
-    webUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/"
-    ampWebUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-rally.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Israel and Morocco Agree to Normalize Relations, Trump Says"
     excerpt: "The deal, which required a U.S. shift on Morocco policy, marks another advance in U.S. efforts to strengthen ties between once-hostile nations in the Middle East"
     publishedDateTime: 2020-12-10T18:31:00Z
@@ -156,22 +140,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
-    excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
-    publishedDateTime: 2020-12-04T20:12:00Z
-    webUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom"
-    ampWebUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "euj8Q+TIQjubu8xQMC0/gxSIzOF8F6cK25APaydHi9qlG4qMlOtfBEC/2hTHFAIsltOQrmhCzNTtJhdn6/W1MZ0QHoJUPskfmdasbKxO8GV+6XWCZ2ceio9iuuTJElfdFF0c6y1a9VlrUNUekTDbyRD0JdL9WtQhGSfIJ3fEg+SyhSsgTmQMudoYRJoz7EoemDGQWbap/aCq9/qkgzfhR4RtjHdJAX1yv7KjXj/PpZS9RBxVPyHnGx+U/F0fGdNnO1ffK5TyWQ8RHm2eRHXU+OiIlGRmOTunl4HLUEPdLPUYaToXEf5Na4yrxw6CpS/2A6evV6UMRuco3a9O23Q6fe7ifPz/iRyzWuXfd0n+L04=;ruf9J+Mcubo45/aal+IDwA=="

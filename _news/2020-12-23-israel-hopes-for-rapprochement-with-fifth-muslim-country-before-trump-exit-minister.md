@@ -47,17 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "House Dems' campaign chief a moderate who wins in Trump land"
-    excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
-    publishedDateTime: 2020-12-13T04:42:00Z
-    webUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "YGtZWh4x4420KN5URon2iMzotZr61pn5zgru1siC/O6koh2WHhOS5Crt8Chu6sfxBHA0RTB8lgBX4BJVl7SG5D3n5gglcU7B82DM92NzJIzPgW4/PsCPU5kWnmutb3FUmoSS9HwT6eviLtlzcKiWWK9QrhrG4WZcmEgY3M140hH88g0QVgCFzcWtzmhhG5rB2GYnSWWRkFvHX0Htoko/bqUIo60yVmqrrmu8yVAq78yAWX3QrGvnXQy55GiP+o1RSLRxA0UclIaNJUQf8LWgAdbBldz0HY70WAcEz3bPFDVI3ijq1Fd3QI8jL8cEtpt9o8TPYzAdlhy5JH8dQMzxAfuQL14uGE5eeGdKR/m6oE8=;y/VgdgdyFKbmExHmjX12Mg=="
 ---

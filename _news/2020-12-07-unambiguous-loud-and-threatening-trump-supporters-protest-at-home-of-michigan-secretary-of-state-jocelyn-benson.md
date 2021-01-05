@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3853743001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3853743001"
 type: article
 quality: 103
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump campaign’s star witness in Michigan was deemed ‘not credible.’ Then, her loud testimony went viral."
+    excerpt: "Even Giuliani reportedly made a point to note he had just met Melissa Carone, whose testimony drew comparisons to SNL sketches."
+    publishedDateTime: 2020-12-03T12:54:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GFSVO5LHZEBNI5TPRFGAOH5QM.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "LFV6UvifYTKpRDsKq4E5tvnTVhH689r6da6CHbdsqXMQBWQby59qtwurvkU0IQ2eRlGdGNXFr1u8Zo5oY4woIzCPqHfH77JIVyfJDj1Hxf+id+4kMXPnEEfSO1T5SQNwgYp/LTMopTa4jV4dElwEk2meyzkzhv2ird9sA4wNmxQzvsNxqKMjaxvshV+4UXTsYHgVddN1p00kuFNM1HJzAQSvQ0+86Sqlm4+RUOfBHJCWDORT1nFs2N0MeHHXijBR/NpgAi8sOnOkzDdd+KRbmI3LudiMXdGCUzQ5hxap8oWo//Zl0YNKctOMAme5vIrXvP21oDdTkbr4DETxRZElSflhmJfmnab+R7QbISELb+g=;MtTmnVuOl/AqUjRbo4qagQ=="
 ---

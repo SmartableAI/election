@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-und
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html"
 type: article
 quality: 159
-heat: 179
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
+    excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
+    publishedDateTime: 2020-12-12T18:36:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
+    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
+    publishedDateTime: 2020-12-15T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Supreme Court throws out challenge to Trump census plan to exclude undocumented immigrants"
     excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
     publishedDateTime: 2020-12-20T00:59:00Z
@@ -46,6 +78,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Gingrich among Trump loyalists named to Pentagon advisory board"
+    excerpt: "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,"
+    publishedDateTime: 2020-12-14T18:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "iQaIMdOFTdWSScBGV7Xrc+JHA83/OPZtCr68lLhxtvJWDfRRi5bv6AlMhsIEpf14pKNEDg9b79XvbYHtG5nxvdVdOA1WMuApdLSc8ObzDWU8fgDqMvDxSf0iOCBd1pxiuLVGdzHmf/rHKw9mgBdriLU67gyXD2biMATLL3+7f72FkpK30NDO5XKqRqRqg5Q0WSvAfOQKCUng8zuJ8IimNEjqvDSmt/gELjTY35W99srwFWHs3G6AfNaCtoyjnmWc1+obfrSX8d2Bzf0f7eZosDS2+XjRurDnQrf7gGpnJPPZBk8xJSQP18xp6euwpC+CHYoJPhCnLJF70JyGfNrkUSpy1CmtuxPENyapmZpCxro=;+yUZyJetxqs0uD3eIe1cnw=="

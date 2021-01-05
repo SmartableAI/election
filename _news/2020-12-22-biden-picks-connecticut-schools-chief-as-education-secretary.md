@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-scho
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 285
+published: true
 
 provider:
   name: Washington Post
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AP sources: Biden to pick Buttigieg as transportation chief"
-    excerpt: "WASHINGTON — President-elect Joe Biden is expected to pick his former rival Pete Buttigieg as secretary of transportation, according to three people familiar with the plans. The decision leaves the former mayor of South Bend,"
-    publishedDateTime: 2020-12-15T22:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-buttigieg-as-transportation-chief/2020/12/15/87c1e442-3f09-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden poised to pick Connecticut schools chief as education secretary"
     excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
     publishedDateTime: 2020-12-22T04:52:00Z
@@ -79,37 +63,21 @@ related:
         width: 1288
         height: 859
         isCached: true
-  - title: "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday"
-    excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
-    publishedDateTime: 2020-12-16T14:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3916579001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001"
+  - title: "Joe Biden introduces Miguel Cardona as pick to lead Education Department"
+    excerpt: "Washington — President-elect Joe Biden on Wednesday will formally introduce Miguel Cardona, the Connecticut commissioner of education, as his nominee to lead the Department of Education. The president-elect revealed Tuesday he tapped Cardona to serve as his secretary of education,"
+    publishedDateTime: 2020-12-23T17:28:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/1ec5a37e-cf5e-44b9-b321-e3caf7efdbdf/thumbnail/1200x630/a5f8c12ebc252faa3cad0bbada1d4850/gettyimages-1230275863.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Exclusive-Biden taps former EPA chief for White House climate coordinator role -sources"
-    excerpt: "President-elect Joe Biden will name Gina McCarthy, former administrator of the Environmental Protection Agency under the Obama administration to a new role leading domestic climate policy coordination at the White House,"
-    publishedDateTime: 2020-12-16T04:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-mccarthy-exclusive/exclusive-biden-taps-former-epa-chief-for-white-house-climate-coordinator-role-sources-idUSKBN28P35Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P35Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P35Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544686850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1SS"
-        width: 817
-        height: 545
+        height: 630
         isCached: true
   - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
     excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
@@ -127,28 +95,63 @@ related:
         width: 1440
         height: 895
         isCached: true
-  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
-    publishedDateTime: 2020-12-09T02:23:00Z
-    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+  - title: "Biden's plans on further COVID19 relief aid?"
+    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T00:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
-  - title: "AP sources: Biden picks Buttigieg as transportation chief"
-    excerpt: "President-elect Joe Biden is expected to pick former South Bend, Indiana, mayor Pete Buttigieg to head the transportation department, according to three people familiar with the plans."
-    publishedDateTime: 2020-12-15T23:04:00Z
-    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-buttigieg-as-transportation-chief-2020-12?amp"
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
+    excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."
+    publishedDateTime: 2020-12-17T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/17/joe-biden-selects-deb-haaland-lead-interior-first-native-american-role/3778041001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3778041001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3778041001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/413ee057-bb7c-4259-b38e-1684dc19d948-NAFirst.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
+    excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
+    publishedDateTime: 2020-12-17T20:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-interior-idUSW1N2HV025"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HV025"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HV025"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
+    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
+    publishedDateTime: 2020-12-27T17:18:00Z
+    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
+    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "VCN6VlRKcn/ipuUqTf4FhPSRYJjpnNQSAGplnLV3cJRynXg0UUYiTc50Zh29KoUEheR3EQ8hga7EkP1XlEf8yRp+U90IDwoDRMRrnv/8YPa1Wk1n24OPbyHeUBCjb8mC02XpaNUs9BFTMei233r3axt1HpBvVcwkoY74h4VdtCQBecYt8jcMa2lJe1z+D0d/uJp+N7wpCUdGJ+ubloNlpNpiaHTCJX1DpVqjpIkYbXfsCgq/5Q/KC5hTpChTj7ZmyeNdvI77E4p/6fSmmPy+MKjxftuiQBdi/xJJz0vQEzLzBSzvzB96qF+uDOMnGosa805qbgOQrC9CEWsAhLXlOF88pB84G6BUb/n8zyKqM9w=;3F8klMnD3EvFjtHiRDrW1g=="
 ---

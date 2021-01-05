@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/consequences-officials-hunter-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp"
 type: article
 quality: 159
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "From 'smear campaign' to 'Russian disinformation,' liberal media teamed up to dismiss Hunter Biden story"
-    excerpt: "There has been plenty of criticism in recent days of the mainstream media's refusal to cover the New York Post's bombshell reporting on Hunter Biden, ever since the Biden transition issued a press release acknowledging that he was under investigation over his so-called \"tax affairs,"
-    publishedDateTime: 2020-12-11T12:40:00Z
-    webUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation"
-    ampWebUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27754b17-4e72-417f-8260-7ed53197681d/60f1933b-0908-45bf-b35a-4831d232a461/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "osZ/cy9jTic0pBtucO5kinRQRMN7pzhABakh/5qMoLOgz7ViUxRIRfpZxxmqhEnMHZylFIyQ/wbalTEKt8/hG/o+tPtpCvbkhAVAvVh2MdZvKZO+RKWydvBaDhAqyEelS3iFnHzbWLtdQI5bQNhm2m8jn4Qysa6KlBMn3aXXDFDcYpet8Q3H+I/6/kDQB0rPFMSaCcS6heNlNcNRLgh9IX3bJxHGeAltuy3xRzGtOLFXaaMG9nT2W3LZvTnSi4pFN6CgZbYc35gidy5gdYuhodbuUhZAzSYiBBsjPmUgNPCNU46TlzwJO+M0NqiHbbNgOdaYeSFo1Z46ptiLyUKon/Lw2isTGFr4JvNrQedjzWQ=;LSoien5vPHFDUSVv01w5Fg=="
 ---

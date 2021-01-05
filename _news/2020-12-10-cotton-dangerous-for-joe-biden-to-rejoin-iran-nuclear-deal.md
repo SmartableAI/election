@@ -46,22 +46,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
-    excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."
-    publishedDateTime: 2020-12-10T11:57:00Z
-    webUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say"
-    ampWebUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "DJiSrg6Jr24V5Yqk6jX6txvMkLhoO4sKrcvACwwcp8aa/x/rLuQ6pGr1thmTjfzbOtGLGFWXdgSCMIHO/+122rgOdlAed2RPntr/0enVyuRa2DR7LC27Gdo1xUXmZ/JhXz+97AxNR5s2J3QOLL4G+pDwH3rQNTgG8/lNmAGbENkUwjQmB7rpyY2Uq8CV30GLmco5z9YOIYFjx44B8p7v/hBCfgI+V8f6H7Cv9D3MayG2tAAGmw/E4H+Wxz6jquYqrx71eZJOmYtY0HyojUwlT9YxbqAPooqmwHouYIi0/X2wITSW9F9iozoazU1Gjykxz+DhJJS5GL/wYKTfYvVwGqCJSaot9a3WyO9TJqTkjSpHnCWw/Zrivhj5/4pTDBVdQ+vZc2ReM838ioP+LLgsCbPQEOWO/ZM0zhX4yvGlvak94bi4puuNyYG4o0EQze8KnnPxdtgIuuSgNVlZiKPoY3on+HUCyLUlvEZbT35f4b2dgK6fEmREXdcyI4yR0PhSOtlhiwTpyh5p3HbdFcEIFw==;LKq8PZLmkbPglNjLNPBhJw=="
 ---

@@ -31,12 +31,76 @@ images:
     isCached: true
 
 related:
-  - title: "Biden emphasizes foreign policy team will 'lead the world, not retreat'"
-    excerpt: "President-elect Joe Biden says that his newly named foreign policy and national security team will keep the nation \"safe and secure\" and will show that \"America is back.\""
-    publishedDateTime: 2020-11-24T20:09:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UAJfwkzCAcA/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp"
+  - title: "Biden intends to keep Wray as FBI director"
+    excerpt: "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed."
+    publishedDateTime: 2020-12-02T18:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcHLHzqh25A/biden-intends-to-keep-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden looks to give Senate GOP cover"
+    excerpt: "Is there anyone left in Congress who knows the old rules?"
+    publishedDateTime: 2020-12-02T22:30:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kb_I-_teJGA/biden-looks-to-give-senate-gop-cover"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-looks-to-give-senate-gop-cover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-looks-to-give-senate-gop-cover.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden says he was chasing dog after shower when he broke foot"
+    excerpt: "President-elect Joe Biden said Thursday that he fractured his foot after tripping on a bath mat following a shower over the weekend and while chasing his dog Major, explaining the incident and saying it isn’t a “very exciting story.”"
+    publishedDateTime: 2020-12-04T16:37:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAjeQaehq6w/joe-biden-chasing-dog-shower-broken-foot"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pledges to avoid conflicts of interest with family's biz dealings"
+    excerpt: "President-elect Joe Biden pledged on Thursday that his family, and specifically his son Hunter, won't be involved in businesses that create a conflict of interest with his office."
+    publishedDateTime: 2020-12-05T00:18:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ObFtnOaffv8/biden-hunter-conflicts-of-interest"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2834c4a-59cb-4100-b7d6-b7ee683d190e/49ce0484-dc44-47bf-b266-f43b8449cacb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to name his defense secretary choice on Friday"
+    excerpt: "Biden to name his Defense secretary choice on Friday"
+    publishedDateTime: 2020-12-07T22:30:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
     type: article
     provider:
       name: Fox News
@@ -47,85 +111,83 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Cotton slams Obama-Biden 'A-Team' for past foreign policy failures"
-    excerpt: "Sen. Tom Cotton, R-Ark., on Tuesday took aim at former Obama administration officials who are going to be part of the incoming Biden administration, saying that reporters were “swooning” over an “A-Team” who he said presided over “absolute chaos” abroad."
-    publishedDateTime: 2020-11-24T23:04:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHq3_DSxc90/cotton-obama-biden-foreign-policy-failures-on-china-middle-east"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-obama-biden-foreign-policy-failures-on-china-middle-east.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-obama-biden-foreign-policy-failures-on-china-middle-east.amp"
+  - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
+    excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
+    publishedDateTime: 2020-12-03T02:23:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PWghQ6qtETM/consulting-firm-biden-cabinet-scrubs-china-website"
+    ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dcc4a60-2e7a-4b21-82e5-908af45fef71/4b4cac47-c6f6-44a1-b6cc-278017292d33/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Rubio takes aim at Biden’s ‘Ivy League’ foreign policy Cabinet nominees"
-    excerpt: "It appears Republican Sen. Marco Rubio of Florida is no fan of some of President-elect Joe Biden’s foreign policy and national security Cabinet nominees. Rubio, who sits on the Senate Foreign Relations Committee, took to Twitter on Tuesday to blast some of Biden’s nominees as “caretakers of America’s"
-    publishedDateTime: 2020-11-24T21:35:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYZPcr51iSc/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees.amp"
+  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
+    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
+    publishedDateTime: 2020-12-07T19:36:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
+    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
+    publishedDateTime: 2020-12-02T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Democrats feuding over who Biden will pick as agriculture secretary"
-    excerpt: "A fight is breaking out among Democrats over who President-elect Joe Biden should choose for agriculture secretary, with one of his key allies advocating for an African American lawmaker to head the department and refocus it on hunger rather than rural America."
-    publishedDateTime: 2020-11-27T15:47:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qAKUA6sLsXo/democrats-feuding-biden-pick-agriculture-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
+  - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
+    excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
+    publishedDateTime: 2020-12-05T22:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ee1e249-8ac5-463e-aa31-19bbadd0e5b0/33c22b54-330a-4095-9eeb-7439bfeb5523/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57210d5f-358a-4ff8-acbe-abaf067e07f8/a94f5a55-e631-4532-af94-215a01db6a60/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden mum on defense secretary pick as progressives push against top contender Flournoy"
-    excerpt: "As President-elect Joe Biden announced the core of his incoming national security team on Monday, he withheld one key name: his pick for defense secretary. "
-    publishedDateTime: 2020-11-24T20:26:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RqoVnW-O1SA/biden-mum-on-defense-sec-pick-as-progressives-push-against-flournoy-top-contender"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-mum-on-defense-sec-pick-as-progressives-push-against-flournoy-top-contender.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-defense-sec-pick-as-progressives-push-against-flournoy-top-contender.amp"
+  - title: "Biden pick for OMB director will push globalist policies that cost US jobs: Huckabee"
+    excerpt: "President-elect Joe Biden’s pick for director of the Office of Management and Budget (OMB) will push globalist policies that will lead to the loss of U.S. jobs, former Arkansas Gov. Mike Huckabee warned Tuesday."
+    publishedDateTime: 2020-12-01T22:41:00Z
+    webUrl: "https://www.foxnews.com/politics/neera-tanden-omb-director-globalist-policies-mike-huckabee"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 108
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Hagel-Successor-3.jpg"
-        width: 1024
-        height: 718
-        isCached: true
-  - title: "Biden's national security adviser pick Jake Sullivan touted Hillary Clinton's Libya debacle"
-    excerpt: "President-elect Joe Biden on Monday tapped Jacob Sullivan to be America's next national security adviser, but it remains to be seen if the former top Hillary Clinton adviser, who championed the ill-fated unraveling of Libya almost a decade ago, will take heed of those lessons learned."
-    publishedDateTime: 2020-11-24T20:41:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltREGagqqls/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/huckabee-12-01.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "2PNb8vtYf90FFANcPJe9xUwbYG36nEPRA7BBlUKbXmEMZsTMJDV0zScSEHLytAVsUEf5DsHdtnsMG4a8UsfPsHIBwsvTp59i0GvPmNzXNKm5YA1OHsiavF2vY+NeGjo0BhyiaiEbtjsy+ielnMInfb4jzb8BDUIUSua7Gxl1Ag3d2h16vB5LE13RkkVG/ab225yh2XowGG5YZTQiDveu5d7J2Er7jQRxRxaWSPnM/ZgpiTygb3eXI8prUz+a3ZJ+d+mq6ZJpFwtCv4x6eQhywf7cP/D3UXFqhHppyjYHr4SKPGTl43p+TWsukyiiv0IrpUqSzLrgk1XggaOFnOKyJzxY8LozqH4j2CqY5/xZSKo=;xL+vvOdoBErBkWGjEKD7UA=="

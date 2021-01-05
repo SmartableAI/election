@@ -31,181 +31,223 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to introduce key members of economic team Tuesday "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday afternoon are expected to introduce key members of their economic team at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-01T15:36:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q1uuFmApTkQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
+  - title: "Biden names retired Gen. Lloyd Austin as secretary of defense nominee"
+    excerpt: "President-elect Joe Biden has named retired Army Gen. Lloyd Austin as his nominee for secretary of defense, the Biden transition team announced Tuesday.\n    \n"
+    publishedDateTime: 2020-12-08T22:14:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pompeo willing to meet with incoming Biden team, officials say"
-    excerpt: "State Department officials who work with Secretary of State Mike Pompeo have told the department's career transition team that he will meet with President-elect Joe Biden's incoming State Department team, according to two sources familiar with the message.\n    \n"
-    publishedDateTime: 2020-12-04T19:35:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_slkGaDfNkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/pompeo-biden-transition-willing-to-meet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/pompeo-biden-transition-willing-to-meet/index.html"
+  - title: "Biden picks retired Gen. Lloyd Austin to be his secretary of defense"
+    excerpt: "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n"
+    publishedDateTime: 2020-12-08T00:33:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EqU31lITSQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203170350-joe-biden-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Biden weighs ambassador picks amid pressure to diversify "
-    excerpt: "President-elect Joe Biden's team is in the early stages of considering who to appoint as ambassadors around the world, with a handful of selections for high profile posts expected to come sometime in January, according to three sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-12-05T14:22:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERyYyEOqh18/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
+  - title: "Expect a White House deep clean when Biden moves in "
+    excerpt: "When the White House welcomes a new first family it gets a thorough cleaning in the five hours allotted for the turnover. But with a global pandemic raging -- and an outgoing President whose orbit is rife with people shunning public health guidelines and coming down with Covid-19, this January 20 is"
+    publishedDateTime: 2020-12-10T18:17:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qpeAGoO10hU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210125211-restricted-white-house-cleaning-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to introduce key health team members Tuesday "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce key members of their health team on Tuesday afternoon at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-08T16:21:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZDZ6y0fbSk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/joe-biden-introduces-health-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/joe-biden-introduces-health-team/index.html"
+  - title: "Biden faces Democratic pushback over waiver to allow retired general to lead Pentagon "
+    excerpt: "Senate Democrats are uneasy about granting a rarely invoked waiver that would allow President-elect Joe Biden's pick of retired Gen. Lloyd Austin to head the Defense Department, the first nominee to encounter resistance from senators in the incoming President's own party.\n    \n"
+    publishedDateTime: 2020-12-08T19:57:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUaJV1l4cV8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to introduce Cabinet nominees and top admin roles Friday"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce several Cabinet nominees and other top administration roles on Friday at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-12-11T16:19:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oIu8GnsWGcs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
+  - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
+    excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
+    publishedDateTime: 2020-12-09T17:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211024402-02-time-poy-joe-biden-kamala-harris-1107-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to introduce key members of climate team Saturday "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce key Cabinet nominees and members of his climate team at an event in Wilmington, Delaware, on Saturday.\n    \n"
-    publishedDateTime: 2020-12-19T14:08:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MY0JJzm_UsY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/biden-climate-team-introductions/index.html"
+  - title: "Raimondo says she won't be Biden's health secretary"
+    excerpt: "The Rhode Island governor, who had recently emerged as a frontrunner for the job, was strongly opposed by progressives."
+    publishedDateTime: 2020-12-03T22:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215062840-03-joe-biden-1214-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/83/de/b9ea4027407c90eb5835f66aaf32/20201203-gina-raimondo-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Biden expected to nominate Xavier Becerra to lead Health and Human Services"
-    excerpt: "President-elect Joe Biden is poised to nominate California Attorney General Xavier Becerra to lead the Department of Health and Human Services, a Biden transition official tells CNN.\n    \n"
-    publishedDateTime: 2020-12-07T00:56:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf3I4_se7F4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
+  - title: "Hunter probe complicates Joe Biden's attorney general pick"
+    excerpt: "The president-elect is weighing a complex set of factors as he zeroes in on his choice to lead the Justice Department."
+    publishedDateTime: 2020-12-12T01:49:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/hunter-probe-complicates-joe-bidens-attorney-general-pick-444664"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200710175823-california-attorney-general-xavier-becerra-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/4a/73/179ea39e451db1698724763adaa1/gettyimages-119583341-1.jpg"
+        width: 1161
+        height: 773
         isCached: true
-  - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
-    excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
-    publishedDateTime: 2020-11-29T14:15:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnwxF5kTNQs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html"
+  - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
+    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
+    publishedDateTime: 2020-12-12T16:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden to name diverse economic team, with three women in top roles to help build recovery"
-    excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
-    publishedDateTime: 2020-11-30T15:52:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
+  - title: "As Biden Prepares to Take Office, a New Rush at the Border"
+    excerpt: "The president-elect has promised a more humane border policy. But devastated economies and natural disasters in Latin America have fueled a spike in migration that could make pledges hard to keep."
+    publishedDateTime: 2020-12-13T20:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/us/border-crossing-migrants-biden.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/12/11/us/00BORDER-1-SUB/merlin_180953598_82987d66-deda-4124-a4d2-62a8e173e4b1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden will meet with leaders of civil rights groups amid pressure to choose diverse Cabinet"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to hold a virtual meeting with leaders of civil rights organizations Tuesday in Wilmington, Delaware, as Biden faces pressure to appoint a diverse slate of nominees to Cabinet positions and top administration posts.\n    \n"
-    publishedDateTime: 2020-12-08T17:13:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/76FsIoHMFFM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/biden-civil-rights-leaders-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/biden-civil-rights-leaders-meeting/index.html"
+  - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
+    excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
+    publishedDateTime: 2020-12-09T10:55:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203235613-biden-presidete-crisis-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
-    excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid-19 stimulus."
-    publishedDateTime: 2020-12-02T22:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/biden-meet-workers-small-business-owners-economic-crisis-n1249668"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249668"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249668"
+  - title: "Biden taps Susan Rice for domestic policy adviser, Denis McDonough for VA secretary"
+    excerpt: "WASHINGTON — President-elect Joe Biden has tapped two veterans of the Obama White House to serve in his administration, naming Susan Rice as his domestic policy adviser and Denis McDonough to serve as secretary of the Department of Veterans Affairs."
+    publishedDateTime: 2020-12-10T16:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-taps-susan-rice-domestic-policy-adviser-denis-mcdonough-va-n1250712"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250712"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250712"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 128
+    quality: 129
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432504/201202-biden-roundtable-mc-1149_2bb8284f41748e7662d30264a4e681d1.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_hallie_brk_rice_biden_201210_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden, Austin vow to safeguard civilian control"
+    excerpt: "Joe Biden defends his choice of Lloyd Austin for defense secretary and says he will get civil-military relations “back on track.” — A new blueprint outlines how Congress can get back in the business of fulfilling its war powers responsibilities."
+    publishedDateTime: 2020-12-10T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/10/biden-austin-vow-to-safeguard-civilian-control-792196"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden to campaign in Atlanta"
+    excerpt: "And, yeah, I just think that’s something that we’re looking to see is, it’s something that I hope will be pushed.” BIDEN will travel to Atlanta on Tuesday for JON OSSOFF and RAPHAEL WARNOCK. VP MIKE PENCE will be in Georgia for a rally today."
+    publishedDateTime: 2020-12-10T11:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/10/biden-to-campaign-in-atlanta-491110"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f5/13/5df7571442f1ae4d5fb0b76da76f/201210-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "California labor secretary in serious contention for Biden cabinet"
+    excerpt: "California's labor secretary began her legal career fighting for Thai garment workers held captive in a Los Angeles sweatshop. Decades later, she's in serious contention to join the Biden administration as secretary of the U."
+    publishedDateTime: 2020-12-11T03:08:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/10/california-labor-secretary-in-serious-contention-for-biden-cabinet-1345100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/e0/9c/faa336fa4794a0ea215d1e7510ce/201210-julie-su-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "oFcQ3nQsdtAMQJ/KKwuY6OX6XVZOaZJPK4fEOQLzePhVPg1/LmASJL5/mW/aHuuCw4JVTbN/ihg+zJ93Dmupra6OsG35JoBXE/oNA39IJuGm8UeTQjH9o9DNDwZvtYQCauWEjUCubQsXp6607/lEemJDJoFXB2yTI2uzCa4VqXwYtWkSCpWeRI/fyHSP+VOCCpn3TElha0LY4uw4piS+pCv1gaOs729gPZrA4RO0blUw7XIBPh+K406u1JsuzYYd04oHJuvWxpdJzD5O5sD/gyuuJkfqFcGf9w/LG5xnojktZNJAy1x7S/exLg/gwnOTMtkElA9Bek06lV4qbYjgM9dF0NgWczonL90GfbVPbHQ=;bJN31IOqdME+a3dKIqb7Rw=="

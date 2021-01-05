@@ -47,37 +47,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Pro-Trump protests decry president's election loss, opposing groups clash in Washington"
-    excerpt: "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark."
-    publishedDateTime: 2020-12-13T10:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN28M0E5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+  - title: "Trump orders most U.S. troops out of Somalia, continuing post-election drawdown"
+    excerpt: "The Pentagon said Friday it is pulling most U.S. troops out of Somalia on President Donald Trump’s orders, continuing a post-election shrink."
+    publishedDateTime: 2020-12-05T07:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/12/04/donald-trump-pulls-most-700-u-s-troops-out-somalia/3831229001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3831229001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3831229001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544375607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC01C"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day"
-    excerpt: "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero."
-    publishedDateTime: 2020-12-10T21:33:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 128
-    images:
-      - url: "https://i.insider.com/5fd0dc06240ebd00126bde01?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/27/NLED/ae1f5043-44da-4f76-a9e9-36285e5cc516-somalia.jpg?auto=webp&crop=5310,2987,x0,y251&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "Federal court judge dismisses 'extraordinary' Trump lawsuit seeking to overturn Wisconsin election"
     excerpt: "U.S. District Judge Brett Ludwig — a Trump nominee — concluded Wisconsin officials had followed state laws when they conducted the Nov. 3 election."
@@ -175,101 +159,69 @@ related:
         width: 747
         height: 545
         isCached: true
-  - title: "A month of Trump tweeting about keeping the job he isn’t doing"
-    excerpt: "President Trump wants to keep his job. Or he wants people to think he wants to keep his job so that he can keep fundraising off his effort to keep his job. Or he wants people to think he’s fighting to keep his job because he wants them to think that the 2020 presidential contest was stolen from him so that he can argue he didn’t actually lose the race."
-    publishedDateTime: 2020-12-11T02:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
+  - title: "Trump loses Wisconsin lawsuit in latest legal defeat"
+    excerpt: "President Donald Trump has lost a Wisconsin lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-12T02:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-court-wisconsin-time-running-74672181"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-returns-court-wisconsin-time-running-74672181"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-returns-court-wisconsin-time-running-74672181"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DGADXVRRWMI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Trump administration plans 2nd execution in as many days"
-    excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."
-    publishedDateTime: 2020-12-11T23:48:00Z
-    webUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
+  - title: "Wisconsin state court judge rules against Trump lawsuit"
+    excerpt: "President Trump was expected to quickly appeal the Wisconsin ruling against his lawsuit seeking to overturn Democrat Joe Biden’s win in the state."
+    publishedDateTime: 2020-12-12T00:58:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/wisconsin-state-court-judge-rules-against-trump-lawsuit"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/wisconsin-state-court-judge-rules-against-trump-lawsuit?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/wisconsin-state-court-judge-rules-against-trump-lawsuit?_amp=true"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/84bt1DCWY4_ZuoPZGQVv0NyTcj0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YBKBEATKVQC45Z3WDABQXS4BAE.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1df2cf4/2147483647/strip/true/crop/3931x2567+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F76%2F5528bf91477eb439a532d4d450b1%2F644315-sd-elex2020-registar-at018.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Wisconsin Supreme Court in Saturday session for Trump case"
+    excerpt: "The Wisconsin Supreme Court is meeting in a rare weekend session to consider President Donald Trump’s lawsuit seeking to overturn his loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-12T09:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Wisconsin Supreme Court meeting in rare Saturday session for Trump case"
+    excerpt: "The Wisconsin Supreme Court is set to meet in a rare weekend session Saturday to consider President Donald Trump's lawsuit seeking to overturn his loss to President-elect Joe Biden in the battleground state."
+    publishedDateTime: 2020-12-12T13:00:00Z
+    webUrl: "https://www.cbsnews.com/news/wisconsin-supreme-court-rare-saturday-session-trump-case-lawsuit-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/wisconsin-supreme-court-rare-saturday-session-trump-case-lawsuit-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/wisconsin-supreme-court-rare-saturday-session-trump-case-lawsuit-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/2b56e0bf-f9e0-4690-a72c-d97c32660076/thumbnail/1200x630/b327ca3c1837f36590efa25d7cf46877/gettyimages-1229697810.jpg"
         width: 1200
-        height: 799
-        isCached: true
-  - title: "Trump administration puts second man to death in two days"
-    excerpt: "Alfred Bourgeois’s IQ put him in the intellectually disabled category, which should have barred execution, lawyers say"
-    publishedDateTime: 2020-12-12T02:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/954061e895d3e4fa4f8a2e62a21313c7ef5180a6/0_321_3505_2103/master/3505.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84ea5536d356d62e70ab576b1f6c6ec5"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "U.S. Senate advances massive defense bill, despite Trump veto threat"
-    excerpt: "The U.S. Senate threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, voting by a large margin to advance the bill on Friday despite President Donald Trump's veto threat."
-    publishedDateTime: 2020-12-11T21:12:00Z
-    webUrl: "https://www.reuters.com/article/usa-defense-congress/update-1-us-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSL1N2IR1MR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Senate backs massive defense bill, defying Trump veto threat"
-    excerpt: "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act (NDAA), a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto."
-    publishedDateTime: 2020-12-11T21:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Senate backs massive defense bill, despite Trump veto threat"
-    excerpt: "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto."
-    publishedDateTime: 2020-12-11T19:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
-        width: 817
-        height: 545
+        height: 630
         isCached: true
   - title: "Donald Trump handles coin-toss duty at Army-Navy game at West Point"
     excerpt: "President Donald Trump made the trip to West Point, New York, for 121st Army-Navy football game and performed the coin toss in the pregame ceremony."
@@ -286,22 +238,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/b6f579ec-014c-4265-b6dc-6f332ddc6823-armynavytrump.jpg?auto=webp&crop=2611,1469,x1477,y2053&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "President Donald Trump attends Army-Navy game for third time in a row"
-    excerpt: "Navy game, marking the third straight year he has done so as sitting president. Trump also attended the 2016 Army-Navy game at M&T Bank Stadium in Baltimore as president-elect."
-    publishedDateTime: 2020-12-12T22:30:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/tflIxn06qtbAXTME1o3lymnQCb4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SA7BRVQNB6OV5RBI2VW3UXF3LE.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Tempers flare as Trump supporters rally in Washington"
     excerpt: "Thousands of supporters of President Donald Trump returned to Washington for rallies Saturday to back his desperate efforts to subvert the election that he lost to Joe Biden"
@@ -367,22 +303,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump appoints flurry of allies as presidency winds down"
-    excerpt: "As he prepares to exit the White House, President Donald Trump is rewarding some supporters and like-minded allies with the perks and prestige that come with serving on federal advisory boards and com"
-    publishedDateTime: 2020-12-13T17:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Vandals hit Black churches during weekend of pro-Trump rallies in D.C."
     excerpt: "Groups of people tore down a Black Lives Matter banner and sign from historic Black churches in downtown Washington and set one ablaze as nighttime clashes Saturday between pro-Donald Trump supporters and counterdemonstrators erupted into violence and arrests."
     publishedDateTime: 2020-12-13T22:53:00Z
@@ -430,6 +350,38 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544515179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD13O"
         width: 807
         height: 545
+        isCached: true
+  - title: "Wisconsin Supreme Court rules against Trump lawsuit -CNN"
+    excerpt: "The Wisconsin Supreme Court ruled against Republican President Donald Trump's election lawsuit on Monday and upheld Democratic President-elect Joe Biden's win in the state, according to CNN."
+    publishedDateTime: 2020-12-14T23:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-lawsuit-idUSKBN28O2JM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O2JM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O2JM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544535272&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1FN"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Wisconsin Supreme Court shows divisions as it hears Trump lawsuit seeking to overturn state's election"
+    excerpt: "The three liberals on the state's high court showed extreme skepticism toward Trump's arguments. Three conservatives showed some support for at least parts of his claims."
+    publishedDateTime: 2020-12-13T00:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/12/wisconsin-supreme-court-hears-trump-lawsuit/6521387002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6521387002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6521387002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/PMJS/815c2fce-ea73-4f89-8038-d06d88e5b851-scotus.jpg?auto=webp&crop=900,506,x21,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
     excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
@@ -810,6 +762,33 @@ related:
         width: 1200
         height: 689
         isCached: true
+  - title: "Trump lawsuit in Wisconsin is thrown out in a fifth adverse ruling for the president in a little over a week"
+    excerpt: "A state judge concluded Wisconsin's election was conducted properly Friday, dealing President Donald Trump and his allies their fifth legal defeat in a little over a week."
+    publishedDateTime: 2020-12-11T23:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/wisconsin-judge-hears-trump-election-case/6514932002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6514932002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6514932002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/PMJS/1e595890-d4a4-4b12-b37d-c33e3a825f67-MJS-ElectionWisconsin_1.jpg?auto=webp&crop=3224,1814,x46,y170&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Federal judge casts doubt on Trump's Wisconsin lawsuit"
+    excerpt: "A federal judge Thursday cast doubt on President Donald Trump's lawsuit that seeks to overturn Joe Biden's win in Wisconsin, saying siding with Trump would be “the most remarkable ruling in the history of this court or the federal judiciary."
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Analysis: Short work by high court of Trump's `big one'"
     excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his"
     publishedDateTime: 2020-12-13T05:15:00Z
@@ -936,6 +915,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Wisconsin Supreme Court to Hear Trump Lawsuit Appeal"
+    excerpt: "The conservative-controlled Wisconsin Supreme Court has agreed to hear arguments over the weekend on President Donald Trump’s state lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state."
+    publishedDateTime: 2020-12-12T05:17:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

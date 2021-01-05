@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/index.html"
 type: article
 quality: 172
-heat: 232
+heat: 212
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/20/arts/20snl/20snl-facebookJumbo.png"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Amid a crisis like 'we’ve never seen,' Biden drives to fill Cabinet"
-    excerpt: "The president-elect's transition team has already launched an all-hands-on-deck push to ensure smooth confirmation of its picks."
-    publishedDateTime: 2020-12-21T19:32:00Z
-    webUrl: "https://www.politico.com/news/2020/12/21/biden-cabinet-confirmation-drive-448947"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/biden-cabinet-confirmation-drive-448947"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/biden-cabinet-confirmation-drive-448947"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/0e/b7/6219efcf426e80a92291cb5d8130/gettyimages-1230220167-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "tj7/lycd92pCm4oBjXotDlQq6Rs2lF0MnO5zYriSHW6TYWc6I91oRdkcT5Std52BaLF/jPT4MeZFWLbMMl1YrReLEz12lIimtp2WyVuWj3UXXmtwEhf7aFx6BLuDIO+Mw8AQS9DQazMkeoxH1HmXH89iBZUeeDoyEWoNWucKNXpWLqrHFULOGBr6ca5SDuNCinYWn+wKQkg/UQPBlhzszDenyD9wnSKTbjIp1lqZVn531DySIgXQ8p4113fV4joT9Ma4bEZU2NROXzpL05ZjUUMFD8YvpiGcNePRLoI9SO3Ed01bxCQXdRhIa8BugBLY/fvii/WjeIPZSahFtkAIgJIKaZnHxaE8pM/r+Vt0puY=;TiXk79dNRpOAo1OtAH/AtQ=="

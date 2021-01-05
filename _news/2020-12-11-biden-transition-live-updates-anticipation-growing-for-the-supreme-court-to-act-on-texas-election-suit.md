@@ -32,101 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
-    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-10T02:29:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
+    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
+    publishedDateTime: 2020-12-14T21:55:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
+      name: Politico
+      domain: politico.com
+    quality: 147
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
-    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
-    publishedDateTime: 2020-12-09T22:36:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
-    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
-    publishedDateTime: 2020-12-10T19:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
-    excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
-    publishedDateTime: 2020-12-12T18:36:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
-    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
-    publishedDateTime: 2020-12-12T05:30:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
-    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
-    publishedDateTime: 2020-12-15T01:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
+  - title: "Alexander: 'It looks very much like the electors will vote for Joe Biden'"
+    excerpt: "Sen. Lamar Alexander (R-Tenn.) tells Chuck Todd that there shouldn't be any doubt about who won the 2020 presidential election after the Electoral College votes on Monday."
+    publishedDateTime: 2020-12-13T13:47:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/alexander-it-looks-very-much-like-the-electors-will-vote-for-joe-biden-97645637979"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97645637979"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97645637979"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 128
+    quality: 134
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_clip_lamaralexandermr1_201213.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "MM5e7fLmh/sQ/Cr3cELiWUVwea9XSqlKZtkyrLSHmNZiCHOCIgvA3G8ujQ/BQEf3RrxfnFeSX3DxaCl04dLLShzbPnrbV21ui2h09rQ6QuyxpuFVSweUHv+ElnozVCTMkN622OtP5rsUIZ/Sv1qg0IRPsaKgjx1Z1CAv2zwX6m91C26PUwCOBrmapoOXuM+FN2abeopKdArOpzikUuRI6zsp3K7yK7VOvDQxNdkvr/Y2HOfemQNZWGJtwaADG5Lek8kDi7w+VtJFECgpUX0dbHxXIcmpAP//IKbXFIBn1s01Z13D+xyAIO0DdhVXBndptXS8HvCgvKl+ilQ/58xlphRmZjIzFpw+6ZQXFGUDkNj7DUhH7uvGIXmiVYCY2ox9MNxT5I3kFjILKkOKCjDwhduar8bbwxkZ2gHwJDXLV2kIkiFyQKfEvo9GyIS9TgTvqnfzMJnZbV8wyQ5lBPL9eWkI+5ApRJAFVa8En3E3/4Ru9tPTYMjnqLey8eC9Qf4sE6G6yuDhfXiVz2TYAK5Y/w==;Rv0pFeCgoP8GFJQ5os56gA=="

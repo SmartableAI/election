@@ -111,6 +111,22 @@ related:
         width: 662
         height: 545
         isCached: true
+  - title: "Explainer: Can anything stop Trump from pardoning his family or even himself?"
+    excerpt: "President Donald Trump on Wednesday granted pardons to his former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions from U.S. Special Counsel Robert Mueller’s investigation into Russian meddling in the 2016"
+    publishedDateTime: 2020-12-25T01:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28Y1XK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545733467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN13O"
+        width: 871
+        height: 545
+        isCached: true
   - title: "Trump pardons Blackwater contractors convicted in deaths of 14 Iraqi civilians"
     excerpt: "President Trump on Tuesday pardoned four U.S. security contractors convicted in the 2007 killing of 14 unarmed Iraqi civilians in Baghdad, abruptly ending a long legal saga and right-wing cause celebre."
     publishedDateTime: 2020-12-23T10:41:00Z

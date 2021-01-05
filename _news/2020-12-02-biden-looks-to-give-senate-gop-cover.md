@@ -31,19 +31,161 @@ images:
     isCached: true
 
 related:
-  - title: "Defund-police supporters tell Biden they're 'not going away'"
-    excerpt: "Far-left advocates of defunding the police say they are \"not going away\" just because Joe Biden won the presidency."
-    publishedDateTime: 2020-11-26T22:14:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GtVm9mSJUZ0/defund-police-supporters-biden-going-away"
-    ampWebUrl: "https://www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp"
+  - title: "Biden intends to keep Wray as FBI director"
+    excerpt: "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed."
+    publishedDateTime: 2020-12-02T18:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcHLHzqh25A/biden-intends-to-keep-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a4ccc22-74ac-4b55-a7d7-044271b4aab8/7adcaf6a-fc3c-456c-95df-9c1af8f69f92/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pick oversaw flood of foreign money into liberal think tank"
+    excerpt: "President-elect Joe Biden’s pick to head the Office and Management Budget, Neera Tanden, oversaw a flood of foreign money as head of one of Washington’s most prominent liberal think tanks."
+    publishedDateTime: 2020-12-02T02:27:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HB9a82DHpz8/biden-pick-oversaw-foreign-money-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336683803892.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joe Biden says he was chasing dog after shower when he broke foot"
+    excerpt: "President-elect Joe Biden said Thursday that he fractured his foot after tripping on a bath mat following a shower over the weekend and while chasing his dog Major, explaining the incident and saying it isn’t a “very exciting story.”"
+    publishedDateTime: 2020-12-04T16:37:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAjeQaehq6w/joe-biden-chasing-dog-shower-broken-foot"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pledges to avoid conflicts of interest with family's biz dealings"
+    excerpt: "President-elect Joe Biden pledged on Thursday that his family, and specifically his son Hunter, won't be involved in businesses that create a conflict of interest with his office."
+    publishedDateTime: 2020-12-05T00:18:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ObFtnOaffv8/biden-hunter-conflicts-of-interest"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2834c4a-59cb-4100-b7d6-b7ee683d190e/49ce0484-dc44-47bf-b266-f43b8449cacb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to name his defense secretary choice on Friday"
+    excerpt: "Biden to name his Defense secretary choice on Friday"
+    publishedDateTime: 2020-12-07T22:30:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
+    excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
+    publishedDateTime: 2020-12-03T02:23:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PWghQ6qtETM/consulting-firm-biden-cabinet-scrubs-china-website"
+    ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
+    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
+    publishedDateTime: 2020-12-07T19:36:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
+    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
+    publishedDateTime: 2020-12-02T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
+    excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
+    publishedDateTime: 2020-12-05T22:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57210d5f-358a-4ff8-acbe-abaf067e07f8/a94f5a55-e631-4532-af94-215a01db6a60/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden pick for OMB director will push globalist policies that cost US jobs: Huckabee"
+    excerpt: "President-elect Joe Biden’s pick for director of the Office of Management and Budget (OMB) will push globalist policies that will lead to the loss of U.S. jobs, former Arkansas Gov. Mike Huckabee warned Tuesday."
+    publishedDateTime: 2020-12-01T22:41:00Z
+    webUrl: "https://www.foxnews.com/politics/neera-tanden-omb-director-globalist-policies-mike-huckabee"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/huckabee-12-01.jpg"
         width: 1280
         height: 720
         isCached: true

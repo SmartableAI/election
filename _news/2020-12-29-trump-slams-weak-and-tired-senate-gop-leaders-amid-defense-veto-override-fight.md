@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Senate moves toward override of Trump's NDAA veto"
-    excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
-    publishedDateTime: 2020-12-30T23:54:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OooZKJf0iL0/senate-override-trumps-ndaa-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
+  - title: "Trump accuses McConnell, others in GOP of failing to fight for him"
+    excerpt: "President Trump on Saturday accused Senate Majority Leader Mitch McConnell and other Republicans of failing to fight on his behalf regarding the outcome of the 2020 presidential election – which Trump continues to argue was \"Rigged & Stolen.\""
+    publishedDateTime: 2020-12-27T09:22:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p17WdhLCJts/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17b137e3-5326-458c-8dac-2b17a4b1df85/6b0d5c98-c000-475d-8802-ecec566d7d77/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/trump-mcconnell-split.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump returning to White House ahead of Mar-a-Lago New Year's Eve party"
-    excerpt: "President Trump plans to return to the White House from Florida on Friday -- earlier than originally planned, according to a schedule released late Wednesday night."
-    publishedDateTime: 2020-12-31T06:35:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xJORGa9nbBc/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp"
+  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
+    excerpt: ""
+    publishedDateTime: 2020-12-28T09:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26d64889-2702-446b-b0b0-cf5d9e1f6c03/a6320754-c749-4dfd-87f3-050362c82218/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Senate moves toward override of Trump's NDAA veto"
-    excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
-    publishedDateTime: 2020-12-31T00:09:00Z
-    webUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
+  - title: "Ivanka Trump champions working families, fights human trafficking during her father's presidency"
+    excerpt: "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements."
+    publishedDateTime: 2020-12-24T18:23:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17b137e3-5326-458c-8dac-2b17a4b1df85/6b0d5c98-c000-475d-8802-ecec566d7d77/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
     excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'Morning Joe' mainstay Donny Deutsch blames media for continuing to obsess over Trump: 'We are guilty'"
+    excerpt: "Joe\" regular Donny Deutsch slammed the mainstream media on Monday for continuing to obsess over President Trump with non-stop coverage and said the press is \"guilty\" of focusing extensive coverage on him rather than President-elect Joe Biden."
+    publishedDateTime: 2020-12-28T19:44:00Z
+    webUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty"
+    ampWebUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "QWv7/HbHQ1OvY4AlRza7pAiq9vwtFxijr9s5BmKcipGQh5rCBQdzolrT0DDrRWZ7JMpcQOxrBielK+0ByIY2Y3G5bhJSTmUWqI0SzizWqHFo7N4kiD2g69R3xiItnb1sypWE6zptVP+q7tFj+9zzSYYcp3KHMsybk/l9JprhhZ0CvPcfZY5qNiXoDYYbfsw3y6RQn1UXeuTjZmkUthtCJ2BM9J56KhgPxBSp0Lo0FeflzdJTt8WAiJ8LuVj9eg8b7Uimt5EKTWSnvukUwUXjiN6EnjtoNM7vSSZ6MW06WYO3p7yUMWgom03wSYyRXsgFUrFw3SjBRvBU8Ak38M3kdXqLt1huNA317qxetG8Ar4M=;2sm1xBPTKZ3HgazdnJQ6gg=="

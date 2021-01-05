@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump-friendly Newsmax seeks to cut into Fox’s viewership"
-    excerpt: "NEW YORK -- Now that his largely invisible network has suddenly been flooded by fans of President Donald Trump, Newsmax television personality Grant Stinchfield is puffing out his chest."
-    publishedDateTime: 2020-11-19T03:14:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
+  - title: "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he."
+    excerpt: "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud."
+    publishedDateTime: 2020-12-14T02:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_777c7cd132ab4359b233e894a7cdf40a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News"
-    excerpt: "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner."
-    publishedDateTime: 2020-11-15T20:18:00Z
-    webUrl: "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp"
+  - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
+    excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
+    publishedDateTime: 2020-12-08T09:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://i.insider.com/5fad9b5c1e8d50001981338a?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Newsmax CEO says Trump's baseless voter fraud claims are 'great for news' in off the rails interview"
-    excerpt: "\"He could have accepted the results, but I'm saying, 'Look at the amazing stuff that's done for the news business,'\" the CEO said."
-    publishedDateTime: 2020-11-24T16:22:00Z
-    webUrl: "https://www.businessinsider.com/newsmax-ceo-chris-ruddy-interview-great-for-news-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/newsmax-ceo-chris-ruddy-interview-great-for-news-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/newsmax-ceo-chris-ruddy-interview-great-for-news-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fbd253950e71a00115570d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The CEO of Newsmax says the channel will never become 'Trump TV' — but he's open to giving the president a weekly show"
-    excerpt: "Newsmax \"would be open to talking to [Trump] about a weekly show\" once he has left the White House, its CEO Christopher Ruddy said."
-    publishedDateTime: 2020-11-16T11:25:00Z
-    webUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5fb24ec4402d49001924f0d2?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 509
+        height: 675
         isCached: true
 
 secured: "vMnfwxHG7840bUnxvRTHsBEsNqqX25pZ1XVe3/f0HO4bLYdPY1Ud1mb4Y0T5NQa79m5xCjGkxfrOpZyLOPkfPEA9msAOlFskSYvTBH0oTUsTxtSqU134zK0UA8DNU+maYnMFTfoSJhv5dvxKJm0P3470p/xE3AGa+FHiPs3YYvPJUyBlII1wcAT9EzC4wdNYCfGnK11LYwvpcHfuZSULRVfduoJWEEmi3mK2/w4v59ZDcRZoUq5ZjF1sd311n2FJXxVp0+I0DBeDZEgQr0YlIPvtcgPG4cEHqiDfVfL5YU8MfPzBPSgyhzA3GfFTVGtM82FTGXg8xU5AUlobggnhT7XxfdPXcAPztrdJU8d6g1Q=;aBowJEZ+CodwG5d8LTwR5Q=="

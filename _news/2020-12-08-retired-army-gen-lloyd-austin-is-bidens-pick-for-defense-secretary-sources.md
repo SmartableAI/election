@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden weighs Rahm Emanuel for transportation secretary"
+    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
+    publishedDateTime: 2020-12-01T05:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to nominate California AG Xavier Becerra for health secretary"
     excerpt: "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday."
     publishedDateTime: 2020-12-07T00:19:00Z
@@ -47,155 +63,64 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
-    publishedDateTime: 2020-12-09T15:37:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28J1YM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1YM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1YM"
+  - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
+    excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
+    publishedDateTime: 2020-12-03T01:10:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543966451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB813D"
-        width: 802
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE3GLGRVAMI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 1011
         isCached: true
-  - title: "Republicans raise red flags over Becerra’s nomination to lead Biden health department"
-    excerpt: "Some Senate Republicans have signaled concern with Becerra's nomination, but it is unclear if it is enough to block his appointment."
-    publishedDateTime: 2020-12-07T22:37:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
+  - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
+    excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
+    publishedDateTime: 2020-12-06T23:54:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 118
+    quality: 120
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7346959/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2F1c%2Fa43eff0d40549c495fb9035e1854%2Falt-auditorium-1920.png"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "Xavier Becerra, California attorney general, is Biden's pick to lead health department: NYT"
-    excerpt: "The former congressman from Los Angeles has served as California's top prosecutor since 2017."
-    publishedDateTime: 2020-12-07T10:19:00Z
-    webUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
+  - title: "Biden picks Calif. AG to be first Latino health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+    publishedDateTime: 2020-12-07T11:14:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5fcd7579037cbd0018614224?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
-    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-    publishedDateTime: 2020-12-07T14:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce26118f08a20e617d9464"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 114
-    images:
-      - url: "https://i.guim.co.uk/img/media/901396f3794c94dee56ca5859beeb1ed2552933d/0_409_6170_3704/master/6170.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d11dbe6e09d1411a8248359860fe241"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
-    excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
-    publishedDateTime: 2020-12-07T01:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
-    images:
-      - url: "https://i.guim.co.uk/img/media/ee255d7954925041171c74481706b1c08381c8a4/0_87_4056_2434/master/4056.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=218ba1bbe1661ba935ae5ffe151e27c2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live updates"
-    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-    publishedDateTime: 2020-12-07T11:23:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce01468f0861e6ffe1db50"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 110
-    images:
-      - url: "https://i.guim.co.uk/img/media/901396f3794c94dee56ca5859beeb1ed2552933d/0_409_6170_3704/master/6170.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d11dbe6e09d1411a8248359860fe241"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
-    publishedDateTime: 2020-12-09T13:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 105
-  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
-    publishedDateTime: 2020-12-09T19:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+  - title: "Joe Biden to name Gen. Lloyd Austin as defense secretary, reports say"
+    excerpt: "Austin, a retired four-star general from Alabama, would be the first Black secretary of defense should he be confirmed by the Senate."
+    publishedDateTime: 2020-12-07T23:36:00Z
+    webUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
-    excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
-    publishedDateTime: 2020-12-04T14:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/12/04/covid-news-us-deaths-biden-public-vaccine-california-stay-home/3818218001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3818218001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818218001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 93
+      name: NJ.com
+      domain: nj.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/USAT/84a08671-560a-4b37-b299-13d5bc1f70f6-AP_Virus_Outbreak_California.jpg?auto=webp&crop=4371,2459,x0,y51&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
-    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
-    publishedDateTime: 2020-12-07T01:53:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
-    ampWebUrl: "https://amp.freep.com/amp/3776655001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
-        width: 1200
-        height: 677
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OTIKEDVUXBEYNEQC4QTIU6FNJA.jpg"
+        width: 720
+        height: 413
         isCached: true
 
 secured: "AkZFFMHsEA+A5Ooe3mYUXAKKZknCWNJ9mSUqfvCfT/4/M7WXLJgYPGYgbgWbGy7oe3CYJUPYjCClLcqbMlDXnVnd4E0MkuQiLcQk+j72X+XZ4yn8zwWSsCiznC2kkik6yClBAuOCVVJS8w8w3mh4PdyxyNfMpO/Tx3HnC+CDBtBroMULi5wR3jFThMBjgnMGMXwzclDkwF/+taptAp+eisbAEtvbM3ZpY2fwyssRZL7+r2c9SmcPncXKqDoWWDCUp8vftLAOTC5Ivdq6zUg+fjMTzaXA8cT3P+wvO0FIlw7V28kHnZxSe9oV65Kw2FJ6hxNOaGK9lraGhjUByKIs0Fh+OqKf7dRwMOeQdHIZDZfhcSMi/9OIz14idXbsqns+XRuzxp7bd1fMFMCNgixczUxXMRfNWuFgRpDxzyUxVsnX1xGB/abwZAzGFk0DKOQydUhO5u2XFcJ4YGP0GpsXa/LLQ4VHBQT13MXx5XVaH9YtEIRN3PEmMUsoavflpg29Kjc2iqdH7DXz7sVwXnCwwQ==;/5fqXKzumeIIpmL0g1//Qw=="

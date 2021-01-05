@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
+    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
+    publishedDateTime: 2020-12-09T12:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP sources: Biden picks Marcia Fudge for HUD secretary"
+    excerpt: "WASHINGTON — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision. Fudge was first elected to Congress in 2008 to represent a district that includes Cleveland,"
+    publishedDateTime: 2020-12-08T23:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
+    publishedDateTime: 2020-12-09T15:37:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28J1YM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543966451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB813D"
+        width: 802
+        height: 545
+        isCached: true
   - title: "AP sources: Biden to pick Buttigieg as transportation chief"
     excerpt: "WASHINGTON — President-elect Joe Biden is expected to pick his former rival Pete Buttigieg as secretary of transportation, according to three people familiar with the plans. The decision leaves the former mayor of South Bend,"
     publishedDateTime: 2020-12-15T22:42:00Z
@@ -47,85 +95,53 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden picks Connecticut schools chief as education secretary"
-    excerpt: "President-elect Joe Biden has chosen the education commissioner for Connecticut and a former public school teacher to serve as education secretary"
-    publishedDateTime: 2020-12-22T15:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "Tracking Biden's Cabinet picks as the incoming administration takes shape"
+    excerpt: "The president-elect has announced more than a dozen nominees to lead key departments and agencies throughout the federal government."
+    publishedDateTime: 2020-12-17T00:55:00Z
+    webUrl: "https://www.cbsnews.com/news/bidens-administration-cabinet-updates/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden poised to pick Connecticut schools chief as education secretary"
-    excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
-    publishedDateTime: 2020-12-22T04:52:00Z
-    webUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PDIWR6B72II6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 1045
-        isCached: true
-  - title: "Biden picks Connecticut schools chief as education secretary"
-    excerpt: "Miguel Cardona was named Connecticut’s top schools official last year and if confirmed will have achieved a meteoric rise, moving from an assistant superintendent to secretary of education in two years."
-    publishedDateTime: 2020-12-23T06:14:00Z
-    webUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-education-secretary/2020/12/21/a1681e36-43d0-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TLNCDWCEPAI6XITXJGTND6O76E.jpg&w=1440"
-        width: 1288
-        height: 859
-        isCached: true
-  - title: "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday"
-    excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
-    publishedDateTime: 2020-12-16T14:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3916579001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Biden introduces Buttigieg as transportation secretary nominee, meets virtually with governors"
-    excerpt: "As President-elect Joe Biden continues to build his administration, President Trump still insists that he won the election."
-    publishedDateTime: 2020-12-16T17:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/16/joe-biden-trump-transition-live-updates/?outputType=amp"
+  - title: "Biden to tap Brenda Mallory to lead White House environment council -sources"
+    excerpt: "President-elect Joe Biden is expected to pick Brenda Mallory, current head of regulatory affairs at the green advocacy group Southern Environmental Law Center, to lead the White House Council on Environmental Quality (CEQ),"
+    publishedDateTime: 2020-12-16T18:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-environment-ceq-idUSKBN28Q2O9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2O9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2O9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544790334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF1GB"
+        width: 794
+        height: 545
+        isCached: true
+  - title: "Biden selects Marcia L. Fudge as HUD secretary and Tom Vilsack to lead Agriculture department"
+    excerpt: "The Fudge decision, along with the naming of a Black Defense secretary-designate, occurred as Biden was pressured by organizations seeking diversity in his Cabinet."
+    publishedDateTime: 2020-12-09T00:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EO3LUUR76EI6XNMLCYR7MJTZMA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR5O33RZWUI6XGGEEXOJ6SMH5A.jpg&w=1440"
         width: 1440
-        height: 895
+        height: 810
         isCached: true
   - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
@@ -137,6 +153,28 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 105
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
+    publishedDateTime: 2020-12-09T13:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
+    publishedDateTime: 2020-12-09T19:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
   - title: "AP sources: Biden picks Buttigieg as transportation chief"
     excerpt: "President-elect Joe Biden is expected to pick former South Bend, Indiana, mayor Pete Buttigieg to head the transportation department, according to three people familiar with the plans."

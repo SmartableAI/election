@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Key lines from Biden's remarks ahead of Christmas "
+    excerpt: "President-elect Joe Biden on Tuesday urged Americans to steel themselves for dark days ahead battling the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-22T23:15:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SwJphzV1ZZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/biden-key-lines-christmas-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-key-lines-christmas-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222163909-joe-biden-ataque-cibernetico-critica-gobierno-trump-mensaje-fin-de-ano-sot-00001022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fauci shares Biden's concern that 'darkest days' may be ahead in Covid-19 fight"
     excerpt: "Dr. Anthony Fauci on Sunday expressed concern that the worst may still come in America's battle against Covid-19, agreeing with President-elect Joe Biden's recent assessment that the \"darkest days\" in fighting the virus lie ahead.\n    \n"
     publishedDateTime: 2020-12-27T16:30:19Z

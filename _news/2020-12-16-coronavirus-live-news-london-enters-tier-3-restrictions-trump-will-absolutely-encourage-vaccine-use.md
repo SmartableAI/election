@@ -63,22 +63,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
-    publishedDateTime: 2020-12-11T19:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "uUIYpPpe8RgYP5iN0FRdbXZgpB7lJpt/rvTf97kHMUA/EOm5uBccB3YPKkVggHicecfvPeQI5wOZnRF+CCyL6ZLq1ssbC4Bdk+pcgtvknAZ6X4D0Ew/nUq/O5CNtEk/xZ6fISa9jav7DJOuFPL+beQl/lSZrXgfuOYfgLR1j7lhwIZ1I0vxDflES7l0C9spF4xUYQ9EPGk/31QtPNvFwvoi+Ll/Qy4S5VIxVXjC3a/MgUAaiCvKreIaH5PuPIJLNOiizDM0lIlmbSb2LwT/OW04ZacicKwYImSVGEntq6Lq573cq2ayjuKCwHqmLDgHHMckJMb4ZM6E414lgPKjxWCINMVkugnywqT3h8sdgv4Y=;tQxLWte+ODcqTY2D0tqXFw=="
 ---

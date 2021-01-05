@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,53 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden urges America to mask up for 100 days as coronavirus surges"
-    excerpt: "President John F. Kennedy urged Americans to ask not what their country could do for them, but what they could do for their country. When he takes the same oath of office next month, Joe Biden will effectively beseech the nation to do exactly the same thing, if in more prosaic terms, with an appeal for"
-    publishedDateTime: 2020-12-04T05:03:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T-rKNKXuixE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-covid-mask/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-covid-mask/index.html"
+  - title: "Biden's desire to stop the border wall could be costly and arduous "
+    excerpt: "President-elect Joe Biden pledged to end construction of his predecessor's signature border wall, but halting the ongoing, multibillion-dollar project will be an arduous, complex and potentially costly process.\n    \n"
+    publishedDateTime: 2020-12-05T22:56:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden urges Congress to pass coronavirus package with state and local government funding"
-    excerpt: "President-elect Joe Biden urged Congress to pass a coronavirus relief package that includes funding to help state and local governments with payrolls for public workers like teachers and first responders.\n    \n"
-    publishedDateTime: 2020-11-16T22:31:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CjKXZuqLk80/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/biden-economic-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/biden-economic-speech/index.html"
+  - title: "Biden to tap Susan Rice to lead White House Domestic Policy Council"
+    excerpt: "President-elect Joe Biden is expected to tap Susan Rice, the former national security adviser during the Obama administration, to lead the White House Domestic Policy Council, two sources familiar told CNN.\n    \n"
+    publishedDateTime: 2020-12-10T16:00:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sSexxaFkpFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116153257-04-biden-harris-economy-remarks-1116-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730003015-02-susan-rice-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Coronavirus Deaths, Joe Biden, Holiday Windows: Your Weekend Briefing"
-    excerpt: "Here are the week’s top stories, and a look ahead. 1. The numbers of coronavirus-related deaths are at their highest levels since the spring. On April 15, 2,752 people in the U.S. died from Covid-19,"
-    publishedDateTime: 2020-11-29T11:20:00Z
-    webUrl: "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.amp.html"
+  - title: "Biden expected to nominate Katherine Tai to serve as US Trade Representative"
+    excerpt: "President-elect Joe Biden is expected to nominate Katherine Tai as US Trade Representative, three sources familiar with the decision confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-09T23:55:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-sN5aLSwiX8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/katherine-tai-us-trade-representative/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/katherine-tai-us-trade-representative/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 172
     images:
-      - url: "https://static01.nyt.com/images/2020/11/28/us/29weekend-briefing-web-virus/29weekend-briefing-web-virus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209175851-katherine-tai-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to nominate Tom Vilsack as Agriculture secretary later this week"
+    excerpt: "President-elect Joe Biden is expected to nominate Tom Vilsack to lead the Department of Agriculture, two sources familiar with the matter said.\n    \n"
+    publishedDateTime: 2020-12-09T00:43:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IHph6EYcEAo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160720165245-vilsack-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "riQQDZ5R6j0cgi+9FC8xYUaw6jEXRF3+UrOS6+wqXUAiK293Mhbvvk7Z+db3zFSkN4HxShQEfyAQX40ssfx22AEQRSNtIVYOb6pkd47GZ49InjNyi5Vvzjkm6wU7y/Nn0yEMoItq35cRoAqE/dAKpRpFBrlMvpSMata/BNgPowBa2eKWZcIL3cwu0F9elzIQH5eMjtqu+olEtHseN2zQr0q4ZW5BfJ2cO2dKDJZeNsTA1hqZXPgF1potYs1aXNQ+hxprB4Jo36FJeLc1k5ZnNIStHIa+H+Lw8Txbv+/x/uw63IflcRF8cM1xUILInj708FZQweTL0OwBcCXDcD4W+vpQcNiKj/Hnt+KmRWhWySI=;mf21b44EZfJrgHqQkXHpmQ=="

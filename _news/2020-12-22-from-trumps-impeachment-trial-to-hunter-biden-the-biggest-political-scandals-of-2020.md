@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scand
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
 type: article
 quality: 182
-heat: 402
+heat: 302
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
-    excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
-    publishedDateTime: 2020-12-16T13:37:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjIq4H_lGM4/trump-potential-special-counsel-hunter-biden-barr-resignation"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Jenna Ellis, Trump campaign legal adviser, pans calls for martial law"
-    excerpt: "As Trump continues to make baseless claims that he won the presidential election in a \"magnificent landslide,\" Ellis' tweet is a high-profile indication from someone who's been publicly aligned with the president every step of the way that martial law is off the table. "
-    publishedDateTime: 2020-12-24T14:07:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0BK8h0MMMSA/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction"
-    ampWebUrl: "https://www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jenna-ellis-trump-campaign-legal-adviser-martial-law-reaction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
     excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
     publishedDateTime: 2020-12-29T02:52:29Z
@@ -111,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Top Facebook, Twitter execs donated tens of thousands of dollars to Biden campaign"
-    excerpt: "Top executives at Facebook and Twitter donated tens of thousands of dollars to President-elect Joe Biden's campaign, Federal Election Commission records reviewed by Fox News reveal, as the social media platforms come under fire for limiting the circulation of reports surrounding Hunter Biden’s business"
-    publishedDateTime: 2020-12-15T14:49:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p51jS2evj3M/facebook-twitter-biden-campaign-donations-censorship"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-biden-campaign-donations-censorship.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
     publishedDateTime: 2020-12-18T01:19:36Z
@@ -140,22 +92,6 @@ related:
     quality: 156
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "KT McFarland: Trump's Abraham Accords are so significant, even 'a Biden admin can't screw it up'"
-    excerpt: "The U.S. brokered Abraham Accords which have made great strides in normalizing relations in the Middle East and promoting a mentality of peace that will extend far beyond his presidency, KT McFarland said Sunday."
-    publishedDateTime: 2020-12-28T02:38:00Z
-    webUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran"
-    ampWebUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e200f42d-47e5-4e6b-8adc-02df3f0b10a8/66390a62-dbae-443b-b83b-a66c4beeb143/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -190,20 +126,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Left Seeks Leverage to Move Biden"
-    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
-    publishedDateTime: 2020-12-28T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "sNpHSgJOnBsL/v+O4SP2X17Ah42MThBWJNT+jAId2h2DJ4rNIj0HIeyIADBLSr2uXuqDdi8cP5F3AB2bDU4EffmPoxAUmNT4j4Qik+zYbgLDxqN2R3CA/gGHZX1I3O08zpe0+EOgckz7vMx4V/FseP2ci+ghX3+0GFhB1DNKsIR0yWrDV1LhDG/EwvqiMnFhEnm8vGeyFnheuiyMC6R61VDQVJPIC/RVmUv3VKeizXM5ZVz+PBoWJnynBfwo1Ap2+GfgO/Z65SgJ//03RJqGuTkgEAkSJ6X5nLTXMcp+I6itkry/5JHn2itqZLGzpigxOezNK1U7dUjLeAAnpF1HlmZjZmAyyM1a84/ShXMhktU=;aLdU3RWLUXoY5Xduk4BHYw=="

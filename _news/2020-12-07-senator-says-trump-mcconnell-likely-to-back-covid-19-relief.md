@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mnuchin says pandemic loan to Trump donor’s company ‘not the spirit and the intent’ of program"
+    excerpt: "Treasury secretary responds to Congresswoman's questions about why a car-title lender was able to get low-interest federal loan"
+    publishedDateTime: 2020-12-04T00:42:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7LXJKBFMMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 582
+        isCached: true
 
 secured: "G4lYey6HkSvkqvYyn2Hp8QMgUSdmnCxJvU+H+Atk+I3TFQhIFW9V/TmwRHhM/qG0MSkLrGQ6NZbTfi1fSnFRaDLxrZXNXhNPSq9JYDOIeNmup89UJ6xR/LVCkiXHPQ2pGfWdZR6iFbT5byo3gNXMz2bXF59YOHweawvE4l/jD/9rjbiGa7TzqNrKubkbb3U9GlR1DWIjJ3VExe3aZHzN73pY29o8rhHLPcdZf+vltpTrGZv995RVpKkjT1L/14EZmm0sG9d/bLTZnU1l13oIW4uYJ5PZxdbz2k9H6Z7PRzTy7YWbYasPuMahGJsB8RlZCe1wAlBb5P7YrHYM/ewbTFi16WmGxapl6uaI9/LvUk0=;+TamfPe1mjgHbozqX1inaw=="
 ---

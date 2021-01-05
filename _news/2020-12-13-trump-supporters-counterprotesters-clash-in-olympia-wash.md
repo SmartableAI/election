@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
 type: article
 quality: 135
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
-    excerpt: "Follow for the latest updates on the D.C. protests."
-    publishedDateTime: 2020-12-13T04:57:00Z
-    webUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020"
-    ampWebUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae7bb54-eeb3-4e89-b4b0-ad66c6ffb1ef/9f4c5af7-1da5-482c-bc85-23b80ae8e810/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "QEaLWaXecT/kLPt0zQGQASr9yH5GmiO8+dbRGNmZ9GHi2zG8lg9wtHVuNsRomu1kPXgGmyjqA/uxR4pYNi5oimNeRJlrH4Mmy8TfR840VWwhhvBbjukLW97u/Zr/ZapgUhqXn7Qton7MyeBILVMyAs8EOXqQfuFXSQgAM6eR/+Rt/7MHWbnqHpOnF1i9B455T7meyz+c0gpQ80CJLEkQP/nYX+lEXxqbOg8rG0dj4v0lffjXwl+SqoFnUc9hOS0wVa3PBTYPVJkusEDi1XU/F9QEYsXLUMWC1P4svPUxWZ8+0AH0XYAcc1dnJ+8il56f2l3jcZIgPpCo97F9dLf9QC3UtGWRPYGr7lqEqDn+qLY=;5S+BBoN8XGtjXJFSyONioQ=="
 ---

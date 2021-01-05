@@ -90,22 +90,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 119
-  - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
-    excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
-    publishedDateTime: 2020-11-20T04:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "President Trump to hold White House COVID-19 summit as pressure mounts for FDA vaccine approval"
     excerpt: "The White House will host drug manufacturers, distributors and governors to discuss its $12-billion plan to vaccinate Americans against COVID-19."
     publishedDateTime: 2020-12-08T00:30:00Z
@@ -215,22 +199,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/13/gettyimages-1230067031_wide-ce0413b079c5a9d14d96e3fb5b48ee1bfa0f4135.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
-    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
-    publishedDateTime: 2020-11-07T18:32:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "7EUHD4rHE24we1F7eVJmA+AtmgbNeqGKCcgOlQDtmtjgRtcmo/b4rWZLS/NfINnbArTEsCzFQJ8XpDzcOk/st0i3kkwz0aZQ7DKAyyeobmRY8eJxlpRibFD6+YbP7jP5kgKr81nSh0NWNsWD2u1nbjDVceHrGARcUgz3t7mn7kspTLRRcu9KqlQOUoIqmc87i7I3k6HLdcrcZHYKvXtEaIQNX7DJlm8Mvkw5HqwFiHuKMzKCSpuBU4XBoRIdURdeF2a6aBct0sTn8Adnohb9FLGHpUwm/UgO0tMaXJ6DU1KAGOGKwp47NzkuWTMDxlxckaGZj9W81GRcD5G0TjaeH2vgt6IMlR4kfsV+mDo2ARc=;tSbUxPlRJniLLt1Wl8hu9w=="

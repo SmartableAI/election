@@ -64,22 +64,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Amid a crisis like 'we’ve never seen,' Biden drives to fill Cabinet"
-    excerpt: "The president-elect's transition team has already launched an all-hands-on-deck push to ensure smooth confirmation of its picks."
-    publishedDateTime: 2020-12-21T19:32:00Z
-    webUrl: "https://www.politico.com/news/2020/12/21/biden-cabinet-confirmation-drive-448947"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/21/biden-cabinet-confirmation-drive-448947"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/21/biden-cabinet-confirmation-drive-448947"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/0e/b7/6219efcf426e80a92291cb5d8130/gettyimages-1230220167-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "+w5VRDs7JqymGXSZfBDczLULDRlJ9Ng2HeOyuEyStqzyrBBvBUvUL5Xbro3PS6FoS8QUU4pVHy4ZHc7wMOb64tXSEr5CUCbT5Pi3M5T/YtU4JU9tZLwflMoBVharTTTr45oiPdZnhDIMTMMKFLbatp1uYnY0tGlorBz/nDa6pAgB27fKpvFWsIUUH7VdZKaRTLraFolMtyhITV3v9TCX0jmJueQO8PyY0Mstj4uENKtEIV3Wk8vW4r1OarTJvaZoxqMVSFn0eWNdR3kjrkNHwKAQRuHT0gx3VqobP5M1gj2job4P7ROreRyQMrMp/QGcYNjeNLR5YvKUiga2KVt0xV7fz0nk9Nv6/NO8ouw8kydOfDSr0uzOEvN9J+T2x5RTlXwc009QcyBvf6qlLce3rrWjLPiIqprmUwXGDvRg/VMNU/N5aNXb1qo0OIz2xXoHT9t1Q7jjLky4uJBPKlThZkAld6QgOg4YsN2ElkKE4StfXovgHXdYmMuZzZlNXi/x6xT7TrmNiPU9DXINFeAcvw==;thP1xnFOIrRvxbS7oS2MAA=="
 ---

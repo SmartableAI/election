@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
+    excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
+    publishedDateTime: 2020-12-16T09:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/attorney-general-william-barr-leaving-trump-administration/5993228002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5993228002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5993228002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
     excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
     publishedDateTime: 2020-12-24T01:40:00Z

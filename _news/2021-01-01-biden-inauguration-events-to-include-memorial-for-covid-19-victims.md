@@ -63,6 +63,22 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Biden to be sworn into office in largely virtual event as COVID-19 rages"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the steps of the U.S. Capitol, but the inaugural festivities will be largely virtual due to the COVID-19 pandemic,"
+    publishedDateTime: 2020-12-15T23:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-idUSKBN28P2GO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544658548&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JM"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
     publishedDateTime: 2020-12-31T12:49:00Z
@@ -200,22 +216,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
         width: 1200
         height: 675
-        isCached: true
-  - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
-    excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
-    publishedDateTime: 2020-12-29T00:15:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 90
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
     excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."

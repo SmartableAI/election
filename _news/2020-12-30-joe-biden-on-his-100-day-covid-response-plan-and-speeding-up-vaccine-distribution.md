@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "What to expect when Congress meets to confirm Joe Biden’s win"
+    excerpt: "Congress will meet Wednesday to count and confirm each state’s electoral votes. It has become routine after recent elections for House lawmakers on the losing side to put up a symbolic fight over the results,"
+    publishedDateTime: 2021-01-04T12:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTVYT5SN3MI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 950
+        isCached: true
   - title: "In farewell, DeVos urges Congress to reject Biden's policies"
     excerpt: "In a farewell letter to Congress, Education Secretary Betsy DeVos urged lawmakers to reject policies supported by President-elect Joe Biden, and to protect Trump administration policies that Biden has"
     publishedDateTime: 2021-01-04T23:59:00Z
@@ -162,22 +178,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/e5b25d91f19ef31e827ffe55577ae4c37af7f45f/0_237_4190_2516/master/4190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb09f0f6a25502db5121d186d0767040"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
-    excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
-    publishedDateTime: 2020-12-27T17:18:00Z
-    webUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130"
-    ampWebUrl: "https://www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brother-joe-bidens-closest-advisor-picks-amazon-new-client-3110130?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "sAebFe8Pl1exm00TktbUUYkhOek2I+qDDR7Snf7RqH/cHT2cbvQGF2VXjbsT9jEO56zUxz2RXAazOpp1NUGNz6lAjeRQ6/3b81Sz91zLBh68Kmztr8wNQWKrLmiapDI0rlNxe7LpZbslMi1ATMZ36EHDGC/KBLxX+1RsxmRu2F8BC6jSs4ZLi0zHykjrN1cnrJZLFvJyzZZP+UzY+0xp8XI4cHGtYn3SvGO4eoWY2zty2mgOL84daCjx81wi9Um0uwG3hGuiOikDoqH+ityhi+DaqDFs0Gh2s5tecJP1Z3TOWKTVhf3YLHCpPI7yPPExFAJcVVhvslKg+W6uxp+gaH03lLC9h+H8f4tzZi1QQb6tmtAbK+1o07y2u0QzIE1YlJRSrLlJbZmURi3gRqf4fe3GZ1huLDj4dvjGkooar5chiUl44WmLjb7xcRXkICgx1DY2Q7rOLCiiiS5BamopsQK1mWXZAuVzBLpK5n9hLt9pwXCFdcY/8tM1VGe68cbqOG9jIh65dGUfmLSGQXeRLg==;uP3LkBAtdJ0JtbdLvBwPBg=="

@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says coronavirus relief package during lame-duck period likely 'just a start'"
-    excerpt: "Lawmakers have just days to reach an agreement on additional relief before Congress closes for the year."
-    publishedDateTime: 2020-12-01T21:00:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xWROiHsG-WE/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp"
+  - title: "Trump to sign coronavirus vaccine executive order prioritizing Americans over foreign nations"
+    excerpt: "EXCLUSIVE: President Trump is expected to sign an executive order Tuesday that will ensure all Americans have access to the coronavirus vaccine before the U.S. government begins aiding nations around the world, Fox News has learned."
+    publishedDateTime: 2020-12-07T18:58:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gY0UJnc0-Sg/trump-executive-order-coronavirus-vaccine-america-first"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65cf5a5c-9728-4133-b323-de669e0545e8/ca5dbb94-67b3-49a7-88a0-2b0d4e389b3b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "HxEplTQ23AAgPnxvOgYDz4LY4Kx+qUmxsyZaA3RtvtN24r80wOQvlYG8HCgML7TwLuQZZApUqofOmTrE8mKLTT1eW+ItLSXid0F28B/e2/Psd6Ap7Nz5ZEXTixf+pU/9ODPEIvVCXLq1C9h8pr7TA/y0/8wd/ZiQ/hG+JzahoXftED0VzflRNEEtvoqny062V9bLfu5FeHJiWoqzmGovIuBKYe0pDHywXgEvXtjGIDEP3zRa4GirJO51gJGC73x5fosPh8B4HiJlYrk77S6w/JKPgSGWyIlg20PyJXKfsYMhW+rYjRL38ndMfqYTmDuz5dcdjeCbuyvufIGaZMQvVNpBS7GQgbhp67MxcKL0wJk=;QB8KtmVKZaPQNLqP2U1BAA=="

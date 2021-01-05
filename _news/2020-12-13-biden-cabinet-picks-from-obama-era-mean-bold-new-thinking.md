@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-pick
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "Tracking Biden's Cabinet picks as the incoming administration takes shape"
-    excerpt: "The president-elect has announced more than a dozen nominees to lead key departments and agencies throughout the federal government."
-    publishedDateTime: 2020-12-17T00:55:00Z
-    webUrl: "https://www.cbsnews.com/news/bidens-administration-cabinet-updates/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bidens-administration-cabinet-updates/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wJD0t1NmsZ5RhKE6hv/hvc6tUsveljXmmQERP+h+/J+5Scxzmn2cr9otX5wWdGuPrfA8+2TTWozG+wFOosa+mIr1bUM0+o6FTYdVBZ1Y8w9rqW7yEgmkdPx+rhTDMtY0Yi8sJ7b6l5GrmgKyWEc2Qm+N9UgvX/xHhyWc3k/ahhM4/VeizjGOjhwO0OwNF+a0nrW3zEQSVdr+SgR/ybw417lGouN1zHFSHemgYaD/uaxZNcy9fvrVL9Pr97h6BU8etiQFqB93N7qtiXB1cJ8wHpn29FTnNIPOjwN94bh/ti511z8l4RAVGnBYpKRx2dxg9uRPHA9ZvI79SA87t5KCUhTOI3PWVMiFASFJpnDi5odRn/OgE6yiq0hR/G5KD/GuFJS6P5/pQW705KZwT3uf3AZWSbI+Q6dFHtBUK9TL705zeho2q8W9vEetsKkFNSZb6dAlyaWPmybQOgdJuVIxzJJFVKtpAUrwnznJkL7T3sgLPllq0YKlNxN7mijEA1OA6G745uHuMmmRYtObbZmRBQ==;dOw0BYyrKQfPsMUbGLqT1A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
 type: article
 quality: 191
-heat: -1
-published: false
+heat: 411
+published: true
 
 provider:
   name: CNN
@@ -32,310 +32,175 @@ images:
     isCached: true
 
 related:
-  - title: "Harris on her working relationship with Biden: 'We are full partners in this process' "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n"
-    publishedDateTime: 2020-12-04T03:33:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 192
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris assembles staff as she builds her vice presidential portfolio"
-    excerpt: "Vice President-elect Kamala Harris is constructing the key team of senior staffers who will accompany her to the White House, announcing Thursday the hiring of three top roles including chief of staff.\n    \n"
-    publishedDateTime: 2020-12-03T13:32:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-kMYAxmxAVQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-staff/index.html"
+  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
+    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
+    publishedDateTime: 2020-12-10T12:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203131916-flournoy-kosoglu-mceldowney-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden unveils senior leadership team charged with planning inauguration"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the senior leadership of the committee charged with planning and executing what will be an unprecedented presidential inauguration, as it is set to take place during a global pandemic.\n    \n"
-    publishedDateTime: 2020-11-30T14:53:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dRbbA1Ypefs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/biden-inauguration-committee/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/biden-inauguration-committee/index.html"
+  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
+    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-10T02:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and Barr had 'contentious' White House meeting this week"
+    excerpt: "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar"
+    publishedDateTime: 2020-12-03T16:20:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125151119-01-biden-thanksgiving-remarks-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Here are the historic firsts in Biden's administration "
-    excerpt: "Several of President-elect Joe Biden's nominees would make history if confirmed by the United States Senate to serve in top roles in his incoming administration.\n    \n"
-    publishedDateTime: 2020-11-30T17:28:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swylSRkYuTM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/historic-firsts-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/historic-firsts-biden-administration/index.html"
+  - title: "Trump praised QAnon during meeting about keeping the Senate"
+    excerpt: "President Donald Trump brought up Rep.-elect Marjorie Taylor Greene's support for the dangerous QAnon conspiracy theory during a meeting on keeping the Senate with Majority Leader Mitch McConnell and other aides, a source familiar with the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-03T18:55:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSqlcfVccwo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130111218-historic-firsts-biden-admin-yellen-mayorkas-haines-adeyemo-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden fills out his inauguration team"
-    excerpt: "President-elect Joe Biden's transition team on Tuesday announced more senior positions on his inauguration committee.\n    \n"
-    publishedDateTime: 2020-12-01T21:10:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EBgAG3wL7SU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-inauguration-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-inauguration-team/index.html"
+  - title: "Analysis: Al Gore conceded on this date. Trump still hasn't"
+    excerpt: "President Donald Trump shows no signs of acknowledging reality, as he continues his hopeless journey to overturn the 2020 election results. Whether he likes it or not, it's President-elect Joe Biden who will be president starting on January 20.\n    \n"
+    publishedDateTime: 2020-12-13T15:21:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mFygR2rYmmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/trump-gore-concede/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130145456-biden-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109123506-03-concession-speech-gore-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The seven most important relationships Biden will have on Capitol Hill"
-    excerpt: "Most Republicans in Congress still haven't called to congratulate Joe Biden for winning the election, let alone refer to him as President-elect -- which makes Mitt Romney all the more of an outlier. He was the first GOP senator to congratulate Biden when he was declared the victor. That's a reflection"
-    publishedDateTime: 2020-12-02T17:59:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvgs7-KywD4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/biden-romney-seven-important-relationships/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/biden-romney-seven-important-relationships/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170610074920-mitt-romney-joe-biden-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden faces increasing pressure to diversify his Cabinet "
-    excerpt: "A group of lawmakers and civil rights groups are demanding that President-elect Joe Biden appoint Black and Latino nominees to some of the remaining high-level Cabinet positions, as Biden faces increasing pressure to diversify his administration.\n    \n"
-    publishedDateTime: 2020-12-03T12:06:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfTg2qEZBOk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201132456-02-biden-economic-team-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democratic concerns over Morell and torture scramble Biden's CIA decision"
-    excerpt: "One of President-elect Joe Biden's initial frontrunners to be CIA director, Mike Morell, is facing increasingly complicated prospects as his potential nomination faces growing opposition, according to multiple sources familiar with transition discussions.\n    \n"
-    publishedDateTime: 2020-12-03T21:36:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v3CIJoZ4AlU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-cia-director-morell-concerns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-cia-director-morell-concerns/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170111193408-michael-morell-trump-amanpour-00013223-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "More than 1,000 Black women urge Biden to choose more Black women for his Cabinet"
-    excerpt: "More than 1,000 influential Black women on Monday signed an open letter to President-elect Joe Biden and Vice President-elect Kamala Harris, urging their transition team to consider -- and appoint -- more Black women to hold positions in Biden's Cabinet.\n    \n"
-    publishedDateTime: 2020-12-08T04:38:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1mh7XlbHa0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/black-women-joe-biden-cabinet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/black-women-joe-biden-cabinet/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206234438-joe-biden-1204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Progressives are picking their fights with Biden. Neera Tanden's nomination likely won't be one."
-    excerpt: "First, there was surprise. Then flashes of anger. But most progressive allies of Sen. Bernie Sanders have quietly resigned themselves -- or even offered some modest public support -- to Neera Tanden following President-elect Joe Biden's decision to tap their longtime nemesis for a Cabinet-level job.\n"
-    publishedDateTime: 2020-12-03T17:37:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aPESdvReqFI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/neera-tanden-bernie-sanders-progressives/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/neera-tanden-bernie-sanders-progressives/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Hispanic caucus expresses frustration to Biden team with how Michelle Lujan Grisham has been treated"
-    excerpt: "Members of the Congressional Hispanic Caucus expressed frustration in a meeting with leaders of President-elect Joe Biden's transition team on Thursday with how they believe New Mexico Gov. Michelle Lujan Grisham has been treated in the Cabinet selection process.\n    \n"
-    publishedDateTime: 2020-12-04T02:28:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n-n_949UjLs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/hispanic-caucus-lujan-grisham-transition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/hispanic-caucus-lujan-grisham-transition/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730001746-02-michelle-lujan-grisham-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Weeks Late, Biden Gets His Briefings"
-    excerpt: "After weeks of waiting, Joe Biden and Kamala Harris received their first full presidential intelligence briefings yesterday, their transition team announced. Most presidents-elect begin to receive the briefings shortly after the election,"
-    publishedDateTime: 2020-12-01T12:04:00Z
-    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/05/20/us/onpolitics-coffee/onpolitics-coffee-facebookJumbo.jpg"
-        width: 827
-        height: 433
-        isCached: true
-  - title: "No, it isn’t unusual that Kamala Harris is still in the Senate."
-    excerpt: "In the past half century, it has been common for vice president-elects to resign from their previous posts in late December or January."
-    publishedDateTime: 2020-12-01T21:39:00Z
-    webUrl: "https://www.nytimes.com/2020/12/01/technology/no-it-isnt-unusual-that-kamala-harris-is-still-in-the-senate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/01/technology/no-it-isnt-unusual-that-kamala-harris-is-still-in-the-senate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/technology/no-it-isnt-unusual-that-kamala-harris-is-still-in-the-senate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/01/business/01distortion-harris1/01distortion-harris1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Expect big things from Kamala Harris"
-    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
-    publishedDateTime: 2020-12-05T15:53:00Z
-    webUrl: "https://www.cnn.com/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203142911-01-kamala-harris-acceptance-speech-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Investigation of His Son Is Likely to Hang Over Biden as He Takes Office"
-    excerpt: "Unless the Trump Justice Department clears Hunter Biden, the new president will confront the prospect of his own administration handling an inquiry that could expose his son to criminal prosecution."
-    publishedDateTime: 2020-12-11T01:42:00Z
-    webUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/us/politics/hunter-biden-investigation.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10dc-investigate1/10dc-investigate1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden told civil rights leaders in private meeting that progressives' hopes for executive actions are 'way beyond the bounds' of his presidential authority"
-    excerpt: "President-elect Joe Biden expressed skepticism about his powers to implement his agenda by executive action Tuesday in a private virtual meeting with civil rights leaders, according to a recording reported Thursday by The Intercept.\n    \n"
-    publishedDateTime: 2020-12-10T20:17:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lT9noMhZaDE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-audio-civil-rights-leaders/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-audio-civil-rights-leaders/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 133
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Hunter Biden, president-elect's son, says Delaware AG is probing his taxes"
-    excerpt: "The probe comes weeks after an election in which President Donald Trump and his allies made unfounded and baseless claims of corruption regarding Hunter Biden and his father."
-    publishedDateTime: 2020-12-09T21:55:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/hunter-biden-president-elect-s-son-says-delaware-ag-probing-n1250607"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250607"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250607"
+  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
+    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
+    publishedDateTime: 2020-12-11T04:47:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 133
+    quality: 174
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3145896/191212-hunter-biden-al-1256_235d0d2971da9e34e3889de320c2bc3f.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
         width: 2500
-        height: 1496
+        height: 1667
         isCached: true
-  - title: "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff"
-    excerpt: "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision."
-    publishedDateTime: 2020-12-01T05:46:00Z
-    webUrl: "https://www.cnn.com/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
+  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
+    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
+    publishedDateTime: 2020-12-10T19:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 132
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201002511-tina-flournoy-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Gavin Newsom has to pick someone to fill Kamala Harris’s Senate seat, and the pressure is mounting."
-    excerpt: "Alex Padilla, California’s secretary of state, has emerged as the front-runner to succeed Vice President-elect Kamala Harris. But Gov. Gavin Newsom appears to be in no rush to make his choice. Though many names have been floated to succeed Ms."
-    publishedDateTime: 2020-11-30T23:48:00Z
-    webUrl: "https://www.nytimes.com/2020/11/30/us/gavin-newsom-has-to-pick-someone-to-fill-kamala-harriss-senate-seat-and-the-pressure-is-mounting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/gavin-newsom-has-to-pick-someone-to-fill-kamala-harriss-senate-seat-and-the-pressure-is-mounting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/gavin-newsom-has-to-pick-someone-to-fill-kamala-harriss-senate-seat-and-the-pressure-is-mounting.amp.html"
+  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
+    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
+    publishedDateTime: 2020-12-12T05:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
+      name: CNN
+      domain: cnn.com
+    quality: 165
     images:
-      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-newsom-senate/30transition-briefing-newsom-senate-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
+  - title: "Dianne Feinstein wants Alex Padilla to replace Kamala Harris in Senate"
+    excerpt: "Calif., is throwing her support to California Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris when she is sworn in as vice president \"I know him. And my sense is that he's going to represent California very well."
+    publishedDateTime: 2020-12-02T23:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/dianne-feinstein-wants-alex-padilla-replace-kamala-harris-senate-n1249773"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249773"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249773"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429311/201118-alex-padilla-al-1302_81e1861128631a14e6087a1ab33ff821.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts"
+    excerpt: "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla."
+    publishedDateTime: 2020-12-14T13:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250975"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
+    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
+    publishedDateTime: 2020-12-10T02:39:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "4SSfVNP+0AaVKfqR9a+ec3I3I+T7/PZXnAafIfphkdVd5BYpvpvXQBS5GWbE5T3tQjMB6NdMy0RVvx/ozix+MarOuDtYdX1YwPPaKXagC00NwCbitniCatbmRP+aZHC8FBwqTRyLN5fxCgtgjHhbB2FIONMnO+T2jtQ74mgo62I08MwMDeW8sFF2uXqS7nPnBAs1PHD52c3dpQhF5Cyhy0EiDa65y/tC5GDZe3UvSuomT9Ia1RkIT4e6fBmrb9mcH4aQxuzXTTcW7FA3RmYSyooUUcY6h4ORmrZr/vUG3KOH/NDf9fyTh0qvJG1+nn4RsBffAp2xYLQbbsQIsehmn2DyKHDQNRuKnDTAZA41COc=;Q57fKofjlanicezPIGDSlQ=="
 ---

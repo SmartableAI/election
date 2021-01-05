@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/ellis-refuses-to-confirm-covid-diag
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats.amp"
 type: article
 quality: 167
-heat: -1
-published: false
+heat: 207
+published: true
 
 provider:
   name: Fox News
@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats"
-    excerpt: "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election."
-    publishedDateTime: 2020-12-01T17:26:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot"
-    ampWebUrl: "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp"
+  - title: "Trump tweets Rudy Giuliani has tested positive for COVID-19"
+    excerpt: "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on"
+    publishedDateTime: 2020-12-06T20:34:00Z
+    webUrl: "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/"
+    ampWebUrl: "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/rudy-covid.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Cybersecurity Official Fired by Trump Says U.S. Election Was Secure"
-    excerpt: "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome."
-    publishedDateTime: 2020-12-17T06:11:00Z
-    webUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
+  - title: "Trump threatens to veto defense spending bill, citing China"
+    excerpt: "President Trump on Sunday reiterated his threat to veto a $740 billion defense spending bill, setting up a showdown with the Congress that passed the legislation last week by veto-proof margins."
+    publishedDateTime: 2020-12-13T20:15:00Z
+    webUrl: "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/"
+    ampWebUrl: "https://nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/13/trump-threatens-to-veto-defense-spending-bill/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-274231/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Cybersecurity Official Fired by Trump Last Month Says U.S. Election Was Secure"
-    excerpt: "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome."
-    publishedDateTime: 2020-12-17T02:56:00Z
-    webUrl: "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=politics_lead_pos5"
-    ampWebUrl: "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-274231/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Trump-ndaa-veto-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "1n+EFPMudnlUGs8uQF0XXIl5xZLSExUTQTRiOlr6Lo27vLa8Tx3amRldJSPa4Sp2YhxU/GkUDhyRrIoPqbdDMTkLBA2iANnzirg6rQdlIDAQFE+axgVaBsrAaqV2lHryaVkmY+oVI+jrbwIUeFkiBSYo9OLrH1WBaTpnT92z/TuDwxhJ59umz25H9F4ExmH5AVzitpzNCOoy2Oe+84LkihqNjUPrVbvXxHo3ao8iRqV1AJgECoyO++/zPGJJ5pbWWsQd8cx2U6Wn+TW9ITQyu/14Jtksq5rPSMJkCs9hiu/lPiLDNrWO01oU6rQwBzC4Jqgt5sjTEEHgV8pbMcskCej41KIV5fwWWf+cKaGGrxE=;FUVZnTWSSQBqxZbWamNxlQ=="

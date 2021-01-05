@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden accuses Trump appointees of obstructing transition on national security issues"
+    excerpt: "President-elect Joe Biden on Monday accused President Trump and his political appointees of obstructing the transition of power to his incoming administration, particularly in the national security sphere,"
+    publishedDateTime: 2020-12-29T02:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-obstruction/2020/12/28/d4dd6e7e-4925-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-obstruction/2020/12/28/d4dd6e7e-4925-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-obstruction/2020/12/28/d4dd6e7e-4925-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CAKJLSJJUI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "How Trump drove the lie that the election was stolen, undermining voter trust in the outcome"
     excerpt: "Trump media outfits and an assortment of state lawmakers and lawyers who gave oxygen to debunked allegations, the president persuaded millions of Americans that the vote was rigged."
     publishedDateTime: 2020-12-20T22:26:00Z

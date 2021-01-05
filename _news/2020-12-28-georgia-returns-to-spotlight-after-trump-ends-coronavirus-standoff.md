@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden and Harris to campaign in Georgia in final days before Senate run-offs"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are poised to make a final push in Georgia ahead of the state's high stakes Senate run-off elections next week.\n    \n"
-    publishedDateTime: 2020-12-30T10:30:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XqGpjacjBo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-harris-campaign-georgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-harris-campaign-georgia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 197
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204050014-biden-harris-split-1204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump says he hopes Pence 'comes through' while he rallies for Georgia senators"
     excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
     publishedDateTime: 2021-01-05T04:50:04Z
@@ -80,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's bid to steal Georgia exposes GOP election ruse"
-    excerpt: "Astonishing new evidence of a desperate President Donald Trump caught on tape trying to steal the election exposes the depth of his corruption and makes his Republican Capitol Hill allies complicit in his bid to thwart the will of voters.\n    \n"
-    publishedDateTime: 2021-01-04T07:12:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szs1_xXWE2U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-election-joe-biden-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump and Hawley set off Republican meltdown with Georgia elections looming"
     excerpt: "President Donald Trump is stoking division in the Republican ranks days before control of the Senate -- and the balance of power in Washington -- is decided in a pair of runoff elections in Georgia.\n    \n"
     publishedDateTime: 2021-01-02T11:11:24Z
@@ -109,22 +77,6 @@ related:
     quality: 188
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia election official shoots down Trump's election conspiracy theories"
-    excerpt: "A top Georgia election official said Monday that \"everybody's vote did count\" in the state's November elections as he shot down a list of voter fraud conspiracy theories President Donald Trump aired in a call with Georgia Secretary of State Brad Raffensperger this weekend.\n    \n"
-    publishedDateTime: 2021-01-05T00:44:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gAhh3YeX2rE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/sterling-trump-georgia-election-official-conspiracy-theories/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/sterling-trump-georgia-election-official-conspiracy-theories/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 188
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104163050-gabriel-sterling-georgia-elections-0104---screenshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -176,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact-checking Trump campaign ad implying fraud in Georgia"
-    excerpt: "A week before Congress is set to certify former Vice President Joe Biden's victory in the 2020 presidential election, President Donald Trump and his allies are continuing to cry fraud.\n    \n"
-    publishedDateTime: 2020-12-31T22:43:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PrH1N_c6o64/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-campaign-ga-ad-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107222839-fulton-county-ballot-counting-1106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fact checking Trump's call with Georgia's secretary of state"
     excerpt: "In the now-notorious phone call between President Donald Trump, Georgia's Secretary of State Brad Raffensperger and staff, the President repeated multiple false claims in an effort to claim victory in Georgia, a state he lost to President-elect Joe Biden.\n    \n"
     publishedDateTime: 2021-01-04T19:03:15Z
@@ -205,38 +141,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's call could put the President in jeopardy, legal experts say"
-    excerpt: "Experienced prosecutors, election lawyers and some public officials have piled on calling for criminal investigations into whether President Donald Trump broke election fraud when he pressured Georgia officials on a phone call Saturday to \"find\" 11,870 votes that would reverse his loss in the state.\n"
-    publishedDateTime: 2021-01-04T20:53:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nq8HWkkv2cM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/trump-call-legal-jeopardy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/trump-call-legal-jeopardy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As Georgia votes, Trump tries to destroy America's faith in democracy"
-    excerpt: "Desperate, deluded and dangerous, President Donald Trump drove America deeper into a political abyss on Monday night in his zeal to steal an election he lost and to destroy faith in the democracy that fairly ejected him from office.\n    \n"
-    publishedDateTime: 2021-01-05T09:52:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EgxJDEaaKEE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/donald-trump-georgia-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104214240-04-donald-trump-dalton-ga-0104-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -384,38 +288,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "In call, Trump demands Georgia officials 'find' votes to tilt election"
-    excerpt: "President Donald Trump pushed Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results after his loss to President-elect Biden, according to an audio recording of a phone call obtained by CNN and first reported by the Washington Post."
-    publishedDateTime: 2021-01-03T17:30:00Z
-    webUrl: "https://www.cnn.com/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/donald-trump-brad-raffensperger-call-washington-post/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103124447-brad-raffensperger-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump drive to overturn election, rescue Senate majority collide in Georgia"
-    excerpt: "Both Trump and President-elect Joe Biden are traveling to the state for last-minute campaign events on the eve of Tuesday's Senate runoffs."
-    publishedDateTime: 2021-01-04T18:22:00Z
-    webUrl: "https://www.politico.com/news/2021/01/04/trump-biden-georgia-senate-runoffs-454533"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/04/trump-biden-georgia-senate-runoffs-454533"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/04/trump-biden-georgia-senate-runoffs-454533"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 148
-    images:
-      - url: "https://static.politico.com/e6/a1/ab79277044c79441676b700ec5f9/20210104-trump-georgia-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump begs Georgia secretary of state to overturn election results in remarkable, hourlong phone call"
     excerpt: "President Donald Trump begged Georgia's secretary of state to overturn the election results in a remarkable, hourlong phone call obtained by NBC News on Sunday. Excerpts of the call, which took place Saturday,"
     publishedDateTime: 2021-01-03T19:21:00Z
@@ -495,50 +367,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_53/3439194/210102-trump-perdue-loeffler-mn-1715_92edc40e4b0f9264b7fe0659472051d0.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Raffensperger: Trump could face investigation over election call"
-    excerpt: "Georgia Secretary of State Brad Raffensperger said Monday that it was unlikely his office would open an investigation into his weekend phone call with President Donald Trump, but suggested a criminal probe could still be launched by an Atlanta-area district attorney."
-    publishedDateTime: 2021-01-04T13:22:00Z
-    webUrl: "https://www.politico.com/news/2021/01/04/raffensperger-trump-investigation-call-454478"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/16/82/e71983f147aa984c6ccac3fcf540/brad-raffensperger.jpg"
-        width: 1160
-        height: 772
-        isCached: true
-  - title: "Trump urges Georgia election officials to ‘find’ votes"
-    excerpt: "In audio from a Saturday phone call obtained by The Washington Post, the president is heard pressuring Georgia election officials to reverse his election loss."
-    publishedDateTime: 2021-01-03T21:13:00Z
-    webUrl: "https://www.politico.com/news/2021/01/03/trump-georgia-election-454122"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/cf/f8/25ea870e4e9fbb63982dfb56b0ff/gettyimages-1293915838.jpg"
-        width: 2642
-        height: 1761
-        isCached: true
-  - title: "Listen to the full audio of Trump's phone call with the Georgia secretary of state"
-    excerpt: "In an astounding phone call, President Donald Trump for over an hour berated and threatened Georgia Secretary of State Brad Raffensperger, repeating various false claims about voter fraud and begging the Republican official to overturn the election results."
-    publishedDateTime: 2021-01-03T23:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/listen-full-audio-trump-s-phone-call-georgia-secretary-state-n1252696"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252696"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252696"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_53/3439288/210103-donald-trump-jm-1619_a67bfcb4b233682890956e527ecbe768.jpg"
-        width: 2500
-        height: 1663
         isCached: true
   - title: "The 37 most outrageous lines from Donald Trump's call with the Georgia secretary of state"
     excerpt: "President Donald Trump spent an hour on the phone with Georgia Secretary of State Brad Raffensperger (R) in an attempt to convince the state's top election official to overturn the results of the 2020 presidential election in the state."

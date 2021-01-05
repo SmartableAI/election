@@ -29,62 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Pandemic is heading into its \"darkest days,\" Biden coronavirus advisory board member warns"
-    excerpt: "\"On Labor Day we were 32,000 cases a day in this country,\" Osterholm said. \"Do not be at all surprised when we hit 200,000 cases a day.\""
-    publishedDateTime: 2020-11-10T16:14:00Z
-    webUrl: "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/"
+  - title: "Biden warns 'darkest days' are ahead for U.S...."
+    excerpt: "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T14:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 115
+    quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/10/dff95b9c-2398-45be-a634-98f96d898e3d/thumbnail/1200x630/ed4590a58c3d8478fd41c70fc4bd63cb/1605022192600.png"
-        width: 1200
-        height: 630
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Coronavirus live news: Biden warns 'darkest days' ahead for US; UK reports another 691 deaths"
-    excerpt: "Anthony Fauci ‘extremely confident’ in vaccine; BioNTech’s CEO says tests being run on mutant strain; Ireland to tighten restrictions from Christmas Eve"
-    publishedDateTime: 2020-12-22T23:25:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe279cd8f08dd27861cff78"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
+  - title: "Joe Biden: 'Darkest days in the battle against Covid are ahead'"
+    excerpt: "Mr Biden, who is due to be sworn in next month, has made the fight against the virus a priority and promised to distribute 100m vaccine shots in his first 100 days in office. Biden: 'Darkest days' ahead in fight against Covid."
+    publishedDateTime: 2020-12-23T01:54:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55419737"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
-  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
-    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
-    publishedDateTime: 2020-11-09T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
+      name: BBC
+      domain: bbc.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
-    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
-    publishedDateTime: 2020-11-10T13:55:00Z
-    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09281s8.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "TmalvFf+FsUUghvSHXzgGOGcvORztd26ciO+WGRw+dgaVwV50jOpOw/EKwnUnxtSvbIEN5905vnwa0mBMJF7grCL4zXSMnn2KjAzXfmO04h4OczWRjmlnnVBYlGo2jC0mojxqfzvaJfZhg8lT68ztsPg8GNTWjb1EuMjl8xVBLYT4JxuesvieZdab+FGYbLSzw+PgANEURByWhd541NMVa6fyLYl5lkE7EUrv0cMqQoF4crhNHJqrEnf6gnLxhfxOKf9Lt007R5UtsEUzvT3PpXyJLphhiLZTJnOZOfg3amw4UpbwlmCF1LjFmAfwY82r2ZkSVuX7NsfTElTue3t8l2WaAgx7l8rCQLajAmfk7PpGp1fhQkwDQVy+a+52WfUNizfZVo1RhcumLRZ3bca27gWZuAyr+TnbnwUHUMr024DMX9LglNUyrfergIwd8x9SzXaZyeVZKc0xhdUQry0J+GU1CadJYEZlGfA+IHro72CNiK4IcpVZw68cKi661gPAJKKwC+HuLJhT5E678ptbQ==;Qj943Ol2m/SMe3e68tPWAA=="

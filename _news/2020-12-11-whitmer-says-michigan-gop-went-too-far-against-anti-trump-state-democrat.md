@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump legal team celebrates after Michigan judge allows probe of Dominion voting machines"
+    excerpt: "A Michigan judge is allowing a forensic investigation of 22 Dominion vote tabulation machines in rural Antrim County amid claims that votes there were compromised."
+    publishedDateTime: 2020-12-06T14:16:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kkUJwgp3HA8/trump-legal-team-michigan-antrim-county-judge-order-dominion-machines"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-team-michigan-antrim-county-judge-order-dominion-machines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-team-michigan-antrim-county-judge-order-dominion-machines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c7b7e4-ffbc-4b49-a4a8-640565af93b6/06c050fa-6866-4d84-975c-c6077b61e24e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

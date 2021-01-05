@@ -31,149 +31,195 @@ images:
     isCached: true
 
 related:
-  - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
-    excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
-    publishedDateTime: 2020-12-18T17:40:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
+  - title: "Live Updates: Trump campaign files appeal to Supreme Court over Penn. election"
+    excerpt: "The president’s campaign alleged in a statement that the Pennsylvania State Supreme Court’s changing of the law was a violation of Article II of the U.S. Constitution and Bush v. Gore. "
+    publishedDateTime: 2020-12-21T05:00:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WnV1JtmlOdY/live-updates-legal-12-21-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f51873-a71e-4406-b320-93b1475df477/eeb42936-4b53-460a-9c17-3c8ae93a81cf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign files lawsuit over New Mexico ballot drop boxes"
+    excerpt: "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes."
+    publishedDateTime: 2020-12-15T20:21:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350011448560.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump campaign manager launching firm to work with outgoing president"
+    excerpt: "President Trump’s reelection campaign manager Bill Stepien is joining two other top members of Trump’s 2020 campaign team in setting up a political consulting firm that would likely work with the soon-to-be former president as he stays engaged in Republican Party politics."
+    publishedDateTime: 2020-12-22T16:05:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KTee3IG8pJ0/trump-campaign-manager-firm-work-with-outgoing-president"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Dem congressman suggests Pelosi refuse to seat 126 House Republicans backing Trump’s election lawsuit"
-    excerpt: "Rep. Bill Pascrell, D-N.J., sent a letter Friday urging House Speaker Nancy Pelosi, D-Calif., to consider blocking more than 100 Republican lawmakers from taking office because of their support for President Trump's lawsuit challenging the 2020 election results."
-    publishedDateTime: 2020-12-12T01:20:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/othhPpl_3lc/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-suggests-pelosi-refuse-to-seat-126-house-republicans-backing-trumps-election-lawsuit.amp"
+  - title: "Trump grants 15 pardons, 5 commutations"
+    excerpt: "President Trump issued full pardons to 15 individuals and commuted part or all of the sentences of an additional five people, the White House announced Tuesday."
+    publishedDateTime: 2020-12-23T00:18:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be49e1af-bdeb-4c95-92ae-d90b8af1ee9a/b851ccf8-5175-45cc-89b2-9f6946360c14/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20353841936137.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Questions linger over the Left's plot against Donald Trump"
+    excerpt: "For four years, we listened to unsupported allegations of a conspiracy by a foreign government to interfere with our presidential election, that Russia stole the election of 2016, implanting their Russian asset,"
+    publishedDateTime: 2020-12-13T20:18:00Z
+    webUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa6e2aad-22e4-4178-829c-91ad2bdc3551/a0090242-6ca2-4a14-b839-6834909e9e14/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump expected to veto defense bill, forcing Congress back to the Hill"
-    excerpt: "President Trump is expected to veto the National Defense Authorization Act (NDAA) Wednesday, sources tell Fox News, forcing the House and Senate to reconvene immediately following Christmas."
-    publishedDateTime: 2020-12-22T20:31:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDgzBEoTNok/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-to-veto-defense-bill-forcing-congress-back-to-the-hill.amp"
+  - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
+    excerpt: "Follow for the latest updates on the D.C. protests."
+    publishedDateTime: 2020-12-13T04:57:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d52b8d4b-34b0-4017-b5ba-4302e95b3668/04a2861e-1bee-49c5-be40-19160523eb40/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae7bb54-eeb3-4e89-b4b0-ad66c6ffb1ef/9f4c5af7-1da5-482c-bc85-23b80ae8e810/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell implores Trump not to veto defense bill, prepares override effort"
-    excerpt: ""
-    publishedDateTime: 2020-12-22T08:12:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYiTGFKrJTk/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-implores-trump-not-to-veto-defense-bill-prepares-override-effort.amp"
+  - title: "Trump campaign asks SCOTUS to reverse decisions by Pennsylvania high court"
+    excerpt: "The Trump campaign on Sunday asked the US Supreme Court to reverse three decisions by the Pennsylvania Supreme Court, claiming there is a “likelihood” they violate the Constitution and"
+    publishedDateTime: 2020-12-20T21:47:00Z
+    webUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/"
+    ampWebUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-scotus-pa.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
+    excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
+    publishedDateTime: 2020-12-16T04:35:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-273956/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'"
+    excerpt: "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation."
+    publishedDateTime: 2020-12-25T17:14:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9107df7-1cf8-47d5-a9bd-ec708ef61a02/d932b3cc-32bc-45e4-9850-102bc8606f94/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell silent after Trump threatens to block coronavirus, government funding package"
-    excerpt: "Senate Majority Leader Mitch McConnell hasn't yet responded to President Trump demanding Tuesday night that Congress include $2,000 stimulus checks in the coronavirus aid package that it passed on Monday, which included smaller $600 checks for individuals."
-    publishedDateTime: 2020-12-23T16:43:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p3rjdZ8SWiM/mcconnell-trump-threat-coronavirus-government-funding-package"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-threat-coronavirus-government-funding-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-threat-coronavirus-government-funding-package.amp"
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "House set for showdown over Trump demands on stimulus, spending; McConnell mum on potential veto"
-    excerpt: "House Democrats and Republicans are set to make dueling \"unanimous consent\" requests on Thursday based on grievances President Trump aired Tuesday night to the massive coronavirus stimulus and government funding package lawmakers sent to his desk — exchanging political barbs as it's still unclear whether"
-    publishedDateTime: 2020-12-24T12:20:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pAR1gXH_f9A/house-showdown-trump-demands-stimulus-spending"
-    ampWebUrl: "https://www.foxnews.com/politics/house-showdown-trump-demands-stimulus-spending.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-showdown-trump-demands-stimulus-spending.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Rep.-elect Yvette Herrell relates to Trump's voter fraud claims: 'I know exactly what he's going through'"
-    excerpt: "Rep.-elect Yvette Herrell understands the joy of leading on election night and then the sinking feeling of having that advantage slowly erased as mail-in ballots are counted."
-    publishedDateTime: 2020-12-17T20:38:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ro5VXs0johg/rep-elect-yvette-herrell-trump-voter-fraud-claims"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-yvette-herrell-trump-voter-fraud-claims.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Yvette-Herrell-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight"
-    excerpt: "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory."
-    publishedDateTime: 2020-12-18T17:59:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350731665251.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "CNN's Harwood: Republicans would 'smack their moms in the face' to please Donald Trump"
-    excerpt: "CNN White House correspondent John Harwood said Friday that Republican members of Congress would hit their own mothers if President Trump wanted."
-    publishedDateTime: 2020-12-11T20:11:00Z
-    webUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump"
-    ampWebUrl: "https://www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-harwood-republicans-smack-mothers-please-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c8df7a-eaf0-44ed-a011-63755a0a2217/95f0028d-74bf-4110-98a2-0fcbbc174d75/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-251063/social"
         width: 1280
-        height: 720
+        height: 640
+        isCached: true
+  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 114
+    images:
+      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "Sl69l5tOAC+kkqWMpYqi36DulwadoGRbbDBZ51BN1bRV+xNQI+weIAsir52Uc7m7ckNAjoqxvvUmLfEScbQ8/PJzbcmAuD2cVNud0vTZlDKXGxPxHHy2FZcRse0XW3dSBKLK+W8ASed38niLfN80LuCLG8IZ3E7qjsUCwmtw2Rdzdk3AKENkberYc2U+mg4zOsAbpDYNMxTHlBMD26t2L7wys83ZYG/RRinNmQjGSsCDtX2xfmEyHabIFDqdxpRyL+GEw09rUdXLP4nIXaTr1b37D+GdM0mIkmqNIDpno0s4QmcOm+cdymrOPk2x92PY2VdefW8W/tl4xWLahVVnbDZf9LEPCdTku6j62fZhwhc=;yBLHei6AWWvg/gKbfzbryA=="

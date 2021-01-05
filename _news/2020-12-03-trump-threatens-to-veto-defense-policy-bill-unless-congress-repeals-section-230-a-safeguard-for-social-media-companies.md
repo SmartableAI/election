@@ -29,140 +29,163 @@ images:
     isCached: true
 
 related:
-  - title: "Up to the people, not the medical profession, to oust Trump: APA chief"
-    excerpt: "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office."
-    publishedDateTime: 2020-11-26T16:17:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6406402002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002"
+  - title: "Trump vows defense bill veto unless internet liability shield scrapped"
+    excerpt: "U.S. President Donald Trump said on Tuesday he would veto the $740 billion National Defense Authorization Act unless it includes a measure eliminating a federal law protecting tech companies such as Facebook and Twitter."
+    publishedDateTime: 2020-12-02T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C0B1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543139133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB1045"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump boasts of vaccines, but will he coax people to get shots?"
+    excerpt: "President Trump takes credit for new coronavirus vaccines, yet they'll do little good if many people remain opposed to vaccinations."
+    publishedDateTime: 2020-12-08T16:49:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d8926/2147483647/strip/true/crop/4592x2999+0+224/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fd9%2F94374aa24f578e18c9842f2775df%2Fla-fi-lazarus-healthcare-three-hundred-dollar-band-aid.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Dunes at Trump's Scottish golf course lose protected status"
+    excerpt: "Conservation officials in Scotland say the coastal sand dunes at President Donald Trump’s Aberdeenshire golf resort have lost their special status as a protected environmental site"
+    publishedDateTime: 2020-12-09T19:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
+    excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
+    publishedDateTime: 2020-12-04T08:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump administration moves to strip federal protections for migratory birds"
+    excerpt: "The Trump administration moved forward Friday on gutting a longstanding federal protection for the nation's birds, over objections from former federal officials and many scientists that billions more birds will likely perish as a result."
+    publishedDateTime: 2020-12-01T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/01/trump-administration-moves-gut-federal-protections-migratory-birds/6463879002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6463879002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6463879002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/30/PGRF/9bfd80db-f79b-45b8-b49c-f57b55a20c05-AP20323772023717.jpg?auto=webp&crop=2249,1266,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
-  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
-    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
-    publishedDateTime: 2020-11-30T11:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+  - title: "Trump aide banned from Justice Dept. after pressuring staffers for case information"
+    excerpt: "A Trump aide at the Justice Department has been banned from the building after trying to pressure staff members for sensitive case information."
+    publishedDateTime: 2020-12-04T10:23:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 119
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4a0f100/2147483647/strip/true/crop/5224x3412+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa4%2Ffc0b18963aad988309de671ad9b7%2F119a28a48b65471da8e7610b476cf7ad"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Trump silent as UK is first to authorizes vaccine"
-    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
-    publishedDateTime: 2020-12-02T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Mnuchin says pandemic loan to Trump donor’s company ‘not the spirit and the intent’ of program"
-    excerpt: "Treasury secretary responds to Congresswoman's questions about why a car-title lender was able to get low-interest federal loan"
-    publishedDateTime: 2020-12-04T00:42:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
+  - title: "Letter from 1,500 attorneys says Trump campaign lawyers don’t have ‘license to lie’"
+    excerpt: "The letter escalates the concerns of Rep. Bill Pascrell Jr. (D-N.J.), who filed complaints with ethics boards in five states calling for Rudolph W. Giuliani and other members of the team to be investigated and disbarred."
+    publishedDateTime: 2020-12-09T04:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7LXJKBFMMI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4L25SRLJMI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
-        height: 582
+        height: 960
         isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
-    publishedDateTime: 2020-11-30T19:14:00Z
-    webUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump Vows To Veto Defense Bill Unless Shield For Big Tech Is Scrapped"
-    excerpt: "The president wants Congress to repeal Section 230 of the 1996 Communications Decency Act, a provision that provides legal protection for tech companies."
-    publishedDateTime: 2020-12-02T10:25:00Z
-    webUrl: "https://www.npr.org/2020/12/02/941019533/trump-vows-to-veto-defense-bill-unless-shield-for-big-tech-is-scrapped"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Trump reportedly considering pardons for family members"
-    excerpt: "The White House is dodging questions about reports that President Trump is considering preemptive pardons for three of his adult children and his son-in-law. Ben Tracy reports."
-    publishedDateTime: 2020-12-03T00:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-reportedly-considering-pardons-for-family-members/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/df15d6e8-a197-437e-a0f3-7865b37d6913/thumbnail/1200x630/c5d88b341c61ac4ff3fc03c4a9d587a8/tracy-600139-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
-    excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."
-    publishedDateTime: 2020-12-02T13:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/trump-says-veto-defense-bill-over-section-230-social-media/3791708001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3791708001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791708001"
+  - title: "President Trump’s niece, Mary Trump, says her ‘cruel and traitorous’ uncle belongs in prison"
+    excerpt: "Mary Trump rejects the notion that putting a former president on trial would deepen the nation’s political divisions."
+    publishedDateTime: 2020-12-04T23:04:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/04/trumps-niece-says-her-cruel-and-traitorous-uncle-belongs-prison/3832014001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3832014001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3832014001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 104
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/23824b15-b233-4546-b723-194679457438-AP20336673206931.jpg?auto=webp&crop=5876,3306,x0,y298&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/90f61df1-be20-45c5-9bd8-9690433193d5-AP_Mary_Trump_Interview.jpg?auto=webp&crop=1499,844,x0,y76&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The."
-    publishedDateTime: 2020-11-30T05:35:00Z
-    webUrl: "https://www.chron.com/news/article/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
+  - title: "Senate fails attempt to block Trump administration’s $23-billion arms deal with United Arab Emirates"
+    excerpt: "The Senate fell short Wednesday in trying to halt the Trump administration’s proposed $23-billion arms sales to the United Arab Emirates, despite bipartisan objections to the package of F-35 fighter jets and drones stemming from a broader Middle East peace agreement."
+    publishedDateTime: 2020-12-10T04:21:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 110
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/17d0ac5/2147483647/strip/true/crop/4192x2738+5+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F95%2Fd75a8b98a5a0d3f2f2532520eec2%2F92d2ddb98a88412186f7bce3bd18cd80"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "US Congress Slaps Trump By Overriding Veto Of Defense Bill"
+    excerpt: "The US Congress on Friday dealt Donald Trump a humiliating blow in his last days in office with the Senate voting overwhelmingly to override his veto of a sweeping defense bill -- the first time lawmakers have done so during his presidency."
+    publishedDateTime: 2021-01-01T20:02:00Z
+    webUrl: "https://www.ibtimes.com/us-congress-slaps-trump-overriding-veto-defense-bill-3113099"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/01/the-senate-vote-on-the-defense-bill-marked.jpg"
+        width: 1024
+        height: 656
         isCached: true
 
 secured: "toaRcVFEbrLqsh/95LB46WgGCUhhOD6NygsJiU6pUdlk5b+PS4xfYUBM/2NVA6guIq9DDpLI4bhdnn99OVknI4Y7IynSeX0VoHVS5N5EsFlrzbGiUYRHeqLijIZgq97CXNyLnqgJq/YD7KafI4kS/MtIRNpUlpQY09Z2PxN08rkdd53+j0bgniKoqzWEEhrOemRGoVF4tZqKFZWr5TdpeX6r0RBVwJBMxQok2cQKh5m2NQd+zy7CFqad65U38RmKp501GV6LErr+MSSTZs9QfO3HK3USlIZtJDE4RYsvgmeHc8OzQ8yJoNHgjN/VUPLm7CEvFAz2Yc+FAfLvMwucm2o5dYo4xebieJBSQzT3kyU=;1uNNlD67qFOcOpsIZWhQ+w=="

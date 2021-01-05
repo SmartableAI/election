@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
 type: article
 quality: 170
-heat: 330
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,131 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Huckabee: Joe Biden 'luckiest man' as media fails to press him on Hunter Biden probe"
-    excerpt: "Mike Huckabee slammed the mainstream media for only lobbing \"softball\" questions at President-elect Joe Biden while Hunter Biden is under federal investigation for overseas business dealings. "
-    publishedDateTime: 2020-12-18T17:01:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OkC9ldyBDA/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+  - title: "Live Updates: Biden heads to Georgia to campaign for Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden will campaign for the Democratic candidates just a day after the Electoral College confirmed his victory. "
+    publishedDateTime: 2020-12-15T05:30:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Du6DASvtJE/live-updates-georgia-senate-12-15-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-15-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-15-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Joe Biden claims ‘foul play’ in Hunter tax investigation but says he’s ‘not concerned’"
-    excerpt: "The president-elect said he will be able to look past personal attacks on his son while in office."
-    publishedDateTime: 2020-12-18T00:52:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ct2XqQsUJhU/joe-biden-foul-play-hunter-tax-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314ad8b7-b082-424c-9561-c701dbe9d307/28526cd8-742c-444b-8156-c59abbed03ee/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf42e365-98fa-4dbb-b788-d0ab7117dc5c/484cffb7-254f-4677-8e0c-a807272dea5b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden considers Boston Mayor Walsh for labor secretary amid pressure for diverse Cabinet: sources"
-    excerpt: "Boston Mayor Marty Walsh is being strongly considered for labor secretary in the new Biden administration, two sources familiar with the discussions tell Fox News, but racial diversity considerations are weighing heavily on President-elect Joe Biden’s decision."
-    publishedDateTime: 2020-12-24T20:51:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
+  - title: "Live Updates: Biden to campaign in Georgia for Senate candidates Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden will be in Georgia next week to campaign for Democratic Senate candidates Jon Ossoff and Raphael Warnock."
+    publishedDateTime: 2020-12-10T04:40:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XRtnZJSz4xA/live-updates-senate-12-10-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's claim he won't discuss Hunter case with AG pick shows need for special counsel: Sen. Kennedy"
-    excerpt: "Sen. John Kennedy, R-La., said President-elect Joe Biden's claim he would not discuss the investigation into his son with his attorney general pick was why a special counsel was needed on the matter."
-    publishedDateTime: 2020-12-21T17:17:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IDcH2uB4rIo/hunter-biden-attorney-general-pick-special-counsel-kennedy"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-attorney-general-pick-special-counsel-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-attorney-general-pick-special-counsel-kennedy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66264099-fd84-4298-bc4c-99bd6e36d647/d73a3e4a-75cc-404e-94b9-fd0ff4c8be2c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e9e271f-ce01-4542-baeb-3dc605c526a6/6d9bc3da-2ec9-44b8-9e71-79c685935a6f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trey Gowdy rips Biden comments defending son Hunter: 'The United States Attorney's office is not foul play'"
-    excerpt: "Fox News contributor Trey Gowdy rejected President-elect Joe Biden’s notion that accusations surrounding his son’s business dealings overseas constitute \"foul play.\""
-    publishedDateTime: 2020-12-18T19:57:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cw6mGZFHNFU/trey-gowdy-joe-biden-hunter-biden-foul-play"
-    ampWebUrl: "https://www.foxnews.com/politics/trey-gowdy-joe-biden-hunter-biden-foul-play.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trey-gowdy-joe-biden-hunter-biden-foul-play.amp"
+  - title: "LIVE UPDATES: Biden announces 'Flip Georgia Fund' to support Democratic runoff candidates"
+    excerpt: "Follow for the latest updates on the Georgia Senate runoff"
+    publishedDateTime: 2020-12-11T05:44:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rFqltlqQq9k/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden hasn't discussed Hunter in his search for an AG, some stories about son were 'Russian disinformation'"
-    excerpt: "President-elect Joe Biden said in a press conference Monday that his son Hunter’s business dealings had not come up in discussions about his highly anticipated pick for attorney general. "
-    publishedDateTime: 2020-12-22T20:57:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M8-eCabO4xc/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Barr-Biden-DOJ.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62b705d1-9028-496b-afbe-ae155e9646d0/9d03800d-131b-436b-affd-7f72a9fd40f4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Huckabee: Joe Biden 'luckiest man' as media fails to press him on Hunter Biden probe"
-    excerpt: "Mike Huckabee slammed the mainstream media for only lobbing \"softball\" questions at President-elect Joe Biden while Hunter Biden is under federal investigation for overseas business dealings."
-    publishedDateTime: 2020-12-18T17:06:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-media-business-dealings-colbert-mike-huckabee.amp"
+  - title: "Biden debuts 'Flip Georgia Fund' to fundraise for Warnock, Ossoff ahead of key runoff vote"
+    excerpt: "“The Georgia Senate runoffs are crucial – it’s why I’ll be traveling there next Tuesday,” Biden wrote on Twitter."
+    publishedDateTime: 2020-12-10T22:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4CGA9yADG-c/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/078f1b0b-dd95-4528-8469-4953a43cfd21/6593df76-3ee6-4ad4-8a83-44dbc5d4923c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden mocks questions about Hunter as mainstream media remains largely uninterested"
-    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
-    publishedDateTime: 2020-12-23T18:31:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested"
-    ampWebUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
+  - title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
+    excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-18T05:57:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 130
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86956551-e068-49b5-a2db-204d8ebeb325/f136f818-3a95-467b-ba4e-1a795a7ac3a0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6148cd10-fca2-4297-9ce3-0975a3ba3d8c/a12ceab4-ce94-43d5-b2d5-c6bad73d0a4f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

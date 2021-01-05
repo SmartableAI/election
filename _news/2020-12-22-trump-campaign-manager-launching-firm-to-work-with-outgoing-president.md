@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign persists with election challenges less than 2 weeks from key Jan. 6 date"
-    excerpt: "President Trump and his campaign are continuing to challenge the result of November's presidential election, with a number of cases still ongoing less than two weeks before electoral votes are officially counted by Congress on Jan. 6."
-    publishedDateTime: 2020-12-24T19:47:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTyReV9x0Xw/trump-campaign-election-challenges-ongoing-jan-6-date"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-election-challenges-ongoing-jan-6-date.amp"
+  - title: "Live Updates: Trump campaign files appeal to Supreme Court over Penn. election"
+    excerpt: "The president’s campaign alleged in a statement that the Pennsylvania State Supreme Court’s changing of the law was a violation of Article II of the U.S. Constitution and Bush v. Gore. "
+    publishedDateTime: 2020-12-21T05:00:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WnV1JtmlOdY/live-updates-legal-12-21-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 186
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Texas-SCOTUS-Challenge.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump supporters to hold virtual 'second inauguration' on Jan. 20"
-    excerpt: "Thousands of supporters have pledged to attend a virtual \"second inauguration\" for President Trump, who lost his bid for a second term, at the same time President-elect Joe Biden is slated to be sworn in on Jan. 20. "
-    publishedDateTime: 2020-12-22T19:12:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdWWyQp7CVQ/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d52b8d4b-34b0-4017-b5ba-4302e95b3668/04a2861e-1bee-49c5-be40-19160523eb40/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f51873-a71e-4406-b320-93b1475df477/eeb42936-4b53-460a-9c17-3c8ae93a81cf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump declares war on Thune, but Noem says she won't challenge senator"
-    excerpt: "Soon after President Trump declared that South Dakota Sen. John Thune's \"political career is over,\" the state’s governor and Trump ally Kristi Noem called the number two Republican in the Senate \"a friend\" and said she wouldn’t \"be challenging\" Thune when he is up for re-election in 2022."
-    publishedDateTime: 2020-12-23T15:12:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8f7RMBp0MMs/trump-thune-noem-south-dakota"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
+  - title: "Trump campaign files lawsuit over New Mexico ballot drop boxes"
+    excerpt: "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes."
+    publishedDateTime: 2020-12-15T20:21:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350011448560.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump grants 15 pardons, 5 commutations"
     excerpt: "President Trump issued full pardons to 15 individuals and commuted part or all of the sentences of an additional five people, the White House announced Tuesday."
@@ -95,85 +79,117 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Who is Charles Kushner, who was pardoned by Trump?"
-    excerpt: "President Trump issued 26 pardons on Wednesday, including several with personal ties to the president or members of his administration. One of them is Charles Kushner, father of Trump's adviser and son-in-law, Jared Kushner."
-    publishedDateTime: 2020-12-24T14:21:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xh4B44uoAhI/who-is-charles-kushner-trump-pardon"
-    ampWebUrl: "https://www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
+  - title: "McConnell: Pelosi, Schumer could have had COVID aid bill months ago, but wanted to damage Trump campaign"
+    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., praised the coronavirus stimulus bill that's poised to pass Congress Monday after months of stalled negotiations, but added that Democrats could have had the same deal months ago had they not prioritized damaging President Trump's reelection hopes."
+    publishedDateTime: 2020-12-21T20:26:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3-beU90FwlY/mcconnell-coronavirus-aid-bill-pelosi-schumer-election"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-coronavirus-aid-bill-pelosi-schumer-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-coronavirus-aid-bill-pelosi-schumer-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20359026146833-e1608817865436.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4075735f-49a6-4cdc-891c-07958e64eca1/f8e5afac-7cf8-49c2-8e7a-12643376b67d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump meets with members of Congress plotting Electoral College objections on Jan. 6"
-    excerpt: "President Trump Monday huddled with members of Congress to discuss plans to object to President-elect Joe Biden's Electoral College win and to force a debate on allegations of voter fraud."
-    publishedDateTime: 2020-12-22T03:09:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aX2HxSADYtY/members-of-congress-trump-electoral-college-objections-on-jan-6"
-    ampWebUrl: "https://www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/members-of-congress-trump-electoral-college-objections-on-jan-6.amp"
+  - title: "Questions linger over the Left's plot against Donald Trump"
+    excerpt: "For four years, we listened to unsupported allegations of a conspiracy by a foreign government to interfere with our presidential election, that Russia stole the election of 2016, implanting their Russian asset,"
+    publishedDateTime: 2020-12-13T20:18:00Z
+    webUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/questions-linger-over-the-lefts-plot-against-donald-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/5c7cdfe5-Marjorie-Taylor-Greene-FACEBOOK.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump Will Face Different Twitter Rules When He Leaves Office"
-    excerpt: "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20."
-    publishedDateTime: 2020-12-22T18:03:00Z
-    webUrl: "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-274855/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa6e2aad-22e4-4178-829c-91ad2bdc3551/a0090242-6ca2-4a14-b839-6834909e9e14/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Trump Lawyers Get Little Backup From Their Firms or Universities"
-    excerpt: "Chapman University becomes the latest organization to formally distance itself from President Trump’s quixotic legal efforts to challenge the results of November’s election."
-    publishedDateTime: 2020-12-25T10:50:00Z
-    webUrl: "https://www.wsj.com/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-get-little-backup-from-their-firms-or-universities-11608892200"
+  - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
+    excerpt: "Follow for the latest updates on the D.C. protests."
+    publishedDateTime: 2020-12-13T04:57:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
     images:
-      - url: "https://images.wsj.net/im-277452/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae7bb54-eeb3-4e89-b4b0-ad66c6ffb1ef/9f4c5af7-1da5-482c-bc85-23b80ae8e810/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Trump takes meetings on Christmas to urge Congress to pass $2K stimulus checks"
-    excerpt: "President Trump repeated his calls for Congress to approve $2,000 coronavirus stimulus checks in a Christmas Day tweet, announcing he has been taking meetings over the holiday to secure a deal"
-    publishedDateTime: 2020-12-25T22:35:00Z
-    webUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
-    ampWebUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+  - title: "Trump campaign asks SCOTUS to reverse decisions by Pennsylvania high court"
+    excerpt: "The Trump campaign on Sunday asked the US Supreme Court to reverse three decisions by the Pennsylvania Supreme Court, claiming there is a “likelihood” they violate the Constitution and"
+    publishedDateTime: 2020-12-20T21:47:00Z
+    webUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/"
+    ampWebUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 131
+    quality: 133
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-12.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-scotus-pa.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
+    excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
+    publishedDateTime: 2020-12-16T04:35:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-273956/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'"
+    excerpt: "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation."
+    publishedDateTime: 2020-12-25T17:14:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-251063/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
     excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
@@ -190,6 +206,20 @@ related:
       - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "YS88UtlBnNoR8I9sIBK0qKRuC1zhniReTkr83n5TVKA+NZ2O9BLEojNanY8XKOLIRt8S7YbWVviZjLH8rTF2VY9mFjN7hp0/3SQ6fA90bf9AEcox8kJ/l4NPhLDHeGX371H/NOMcSK+/0O7PFZfzfb14GgG7PZzTGtnNHPO5DZol9ACaAuQyakLqt3xno6cfX2xRvBez0ZD7povu2yTr8UaZcH9kyIQF9aB4w50NwPgd5vvbjqT2JhkhncadOUGpw2xou/ZNNim5XJreo5hiLpSz2U2CddK0VUV9rGtH826V/SHqLkCwKsKoC9uHx1DllCyCj7Jn06gS5uGFuq8tdpUgutHINbBJOlu1ZiBUerU=;jYV6fo7QNOT7wAJijpfvrA=="

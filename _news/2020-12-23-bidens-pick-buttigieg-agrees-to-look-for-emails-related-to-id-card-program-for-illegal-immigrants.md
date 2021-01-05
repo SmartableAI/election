@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says 'I'm confident' Hunter did nothing wrong, amid federal probe into 'tax affairs'"
+    excerpt: "President-elect Biden on Wednesday directly addressed questions about a federal investigation into his son, Hunter Biden, for the first time, saying \"I'm confident\" that he did nothing wrong."
+    publishedDateTime: 2020-12-16T17:47:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1B4KF7eeTXw/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-im-confident-hunter-did-nothing-wrong-amid-federal-probe-into-tax-affairs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "eAO/1QpIy4c98oOEI3ahg2VI4D8jjX1ssw/h339DeoSWuAmxWMzCsArvhL+aZlsv5QaM4/jJKBQyj7DZ6jy18Mo64KW95ADynmyCUQkxpc9GWZdl8IvOzLw5yDZI+pnTyIvCjWb6xyJ7yDZJFkHrfccYpYlb6Lv0lAXTo+a+sYkN6mivppN1IXOBRJiaYqkTZA89jEnNfRyx1grtVjIV9x/VZSoxuhG/s4Gy3b9zsiA788SdQnQm+VoL2N6JEeBGJq6NMHC8Pwau+BlCtG1dKO0GfvIj9bNM6D26rHzP68VvmQ2GXAsWZ1CMeOr186gKg5WlNVvuQy/lJnMbVq/VGhS0+tYwZrYMbfws49N+iSs=;3y8muYegoPb/p4SilU1S4A=="
 ---

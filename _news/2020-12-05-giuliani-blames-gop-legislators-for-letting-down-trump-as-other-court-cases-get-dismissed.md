@@ -31,51 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Giuliani says Trump won't concede amid legal challenges"
-    excerpt: "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia."
-    publishedDateTime: 2020-11-08T10:59:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
+  - title: "GOP senators find bodybags with anti-Trump notes on their front porches"
+    excerpt: "Several GOP Senators were bombarded with dozens of bodybags at their homes on Tuesday by angry protesters pushing for COVID-19 relief after months of gridlock over negotiations in Congress. "
+    publishedDateTime: 2020-12-01T23:09:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ihg7jai6l8/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ivanka Trump slams media for ignoring violence against conservatives"
-    excerpt: "Ivanka Trump on Sunday called out the media for its apparent double standards on violence directed towards conservatives and supporters of President Donald Trump. "
-    publishedDateTime: 2020-11-15T21:55:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x7gGe7zVWQc/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95a364f4-3e47-461f-901a-cb621453ed7d/e45b25bf-9dfe-4e16-9b3b-e2abcf8a9661/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "These Dems balked at a coronavirus vaccine under Trump. Will they change their tune now?"
-    excerpt: "When President Trump first told the American public that a coronavirus vaccine could come this year -- at the time he said possibly before Election Day -- Democrats including Vice President-elect Kamala Harris said they would not trust Trump as to any vaccine's safety."
-    publishedDateTime: 2020-11-09T20:01:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F4dtB1xwKqY/democrats-balked-at-coronavirus-vaccine-under-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
+  - title: "Would a Trump 2024 announcement freeze out GOP rivals?"
+    excerpt: "Trump’s flirtation with a third White House run would definitely put a damper on what was thought to be a wide open battle for the GOP 2024 presidential nomination. And it could potentially freeze out early moves by other Republicans with national aspirations."
+    publishedDateTime: 2020-12-01T01:49:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7mkgYRoAUc/would-a-trump-2024-announcement-freeze-out-gop-rivals"
+    ampWebUrl: "https://www.foxnews.com/politics/would-a-trump-2024-announcement-freeze-out-gop-rivals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-a-trump-2024-announcement-freeze-out-gop-rivals.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/099faceb-1615-4e7b-afcb-a7c7202dec3f/2fc973bf-71b6-4759-b179-89f24a5ca219/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Why Barr’s break with Trump could be a turning point"
+    excerpt: "On Tuesday, a very high-profile Republican, Bill Barr, essentially agreed with what the media have been saying about the lack of widespread fraud."
+    publishedDateTime: 2020-12-03T08:05:00Z
+    webUrl: "https://www.foxnews.com/media/why-barrs-break-with-trump-could-be-a-turning-point"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a6640f-c34a-424c-b093-20cec29b5225/9378e4e9-2f55-43d7-a064-b5c7647de438/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

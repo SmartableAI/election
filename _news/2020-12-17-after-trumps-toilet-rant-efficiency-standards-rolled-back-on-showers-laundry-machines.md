@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
+    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-09T22:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump tells allies he will run in 2024, but hints he may back out"
     excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
     publishedDateTime: 2020-12-14T09:37:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families"
+    excerpt: "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data."
+    publishedDateTime: 2020-12-03T10:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "oUf2AjTLOqXpwfjuOYM0eUqyJfvz+8KNFMbOBElN04vx2OduXuQbuF35Odz4pK9fHvdJJWfb/Mngv5qyP/TkyjGdGDOh6GrtaQGTeUjuK5hkMySxCJ1ARMFr6LrlVy2iiaE2JIo26UoSb1PHYxLn61MP3sqkrCmZYgiYCwdF/36oPmhULjffC8Dj43mFBJz/EA5gPjdMWqmimRFnrZhStSrMgKyZButE56hUsYmyAsy4O/dl1NKeSQ5xdVz/hiEL5T30WLGQUnZJgG6Qfj7LUGJW9sObdu4ni9DB3MYyAWHl9ZrOSiwgQEcf/vMu6fOpHzEMsK/oziQp3lA3esW+Dn2megEAZG72tP+u5+RSN5U=;TiZ9EXoXKZW7cQILC9Ktug=="

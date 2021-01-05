@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump pardons ex-national security adviser Michael Flynn; ends three-year legal odyssey"
-    excerpt: "Michael Flynn pleaded guilty three years ago to lying about his conversations with Russian Ambassador Sergey Kislyak."
-    publishedDateTime: 2020-11-27T07:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/25/michael-flynn-trump-announces-pardon-former-national-security-advisor/6419985002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6419985002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6419985002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NY AG predicts President Trump will step down so VP Pence can pardon him"
     excerpt: "New York Attorney General Letitia James is predicting President Donald Trump will step down from office so Vice President Mike Pence can pardon him. “He can preemptively pardon individuals, and the ,” James said on ABC’s “The View” Tuesday."
     publishedDateTime: 2020-12-09T14:58:00Z

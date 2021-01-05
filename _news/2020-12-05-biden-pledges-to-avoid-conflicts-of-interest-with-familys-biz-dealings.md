@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tom Cotton slams Biden's 'unity' platform, points to admin picks"
-    excerpt: "Sen. Tom Cotton, R-Ark., on Sunday took President-elect Joe Biden to task over his pledge to unify the country yet still choose controversial people to fill his cabinet."
-    publishedDateTime: 2020-11-30T02:39:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vd-59UYctwo/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50b8fc2a-904d-4300-b976-88f2492ef7c6/112e6a82-2e8c-40e9-a330-e482ab9b5b3d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden intends to keep Wray as FBI director"
     excerpt: "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed."
     publishedDateTime: 2020-12-02T18:42:22Z
@@ -62,6 +46,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden looks to give Senate GOP cover"
+    excerpt: "Is there anyone left in Congress who knows the old rules?"
+    publishedDateTime: 2020-12-02T22:30:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kb_I-_teJGA/biden-looks-to-give-senate-gop-cover"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-looks-to-give-senate-gop-cover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-looks-to-give-senate-gop-cover.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pick oversaw flood of foreign money into liberal think tank"
+    excerpt: "President-elect Joe Biden’s pick to head the Office and Management Budget, Neera Tanden, oversaw a flood of foreign money as head of one of Washington’s most prominent liberal think tanks."
+    publishedDateTime: 2020-12-02T02:27:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HB9a82DHpz8/biden-pick-oversaw-foreign-money-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336683803892.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Joe Biden says he was chasing dog after shower when he broke foot"
     excerpt: "President-elect Joe Biden said Thursday that he fractured his foot after tripping on a bath mat following a shower over the weekend and while chasing his dog Major, explaining the incident and saying it isn’t a “very exciting story.”"
@@ -79,85 +95,99 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's national security adviser pick played key role in Clinton email scandal"
-    excerpt: "Jake Sullivan served as deputy chief of staff to Hillary Clinton during her time as secretary of state and later served as a top policy adviser during her campaign."
-    publishedDateTime: 2020-11-23T21:16:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XH4uG_Yy7ZE/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
+  - title: "Biden to name his defense secretary choice on Friday"
+    excerpt: "Biden to name his Defense secretary choice on Friday"
+    publishedDateTime: 2020-12-07T22:30:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
+    excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
+    publishedDateTime: 2020-12-03T02:23:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PWghQ6qtETM/consulting-firm-biden-cabinet-scrubs-china-website"
+    ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
+    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
+    publishedDateTime: 2020-12-07T19:36:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
+    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
+    publishedDateTime: 2020-12-02T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden secretary of state pick Blinken admitted Obama administration 'failed' in Syria"
-    excerpt: "Anthony Blinken, President-elect Joe Biden’s pick for secretary of state, admitted earlier this year that the Obama administration “failed” in Syria — although he also panned the Trump administration for “pulling out” of the country entirely."
-    publishedDateTime: 2020-11-24T18:45:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPnhD6uzLE8/biden-blinken-admitted-obama-failed-syria"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Retired Catholic archbishop says Biden should be denied Holy Communion over abortion stance"
-    excerpt: "The issue of Communion denial has sharply divided the Catholic leadership, leading to the formation of a council to assess the issue."
-    publishedDateTime: 2020-12-05T15:43:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQWa9WG5Bi0/archbishop-biden-not-full-communion-with-church-urges-denial"
-    ampWebUrl: "https://www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Archbishop-Charles-Chaput-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden pick privately trashed him in 2015, said he would make Clinton look better by comparison"
-    excerpt: "Neera Tanden is President-elect Joe Biden's pick for director of the Office of Management and Budget, but a leaked email from 2015 indicates that Tanden may not have always believed Biden was the best Democratic presidential candidate for the job."
-    publishedDateTime: 2020-11-30T19:19:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hMFklZua2hU/biden-cabinet-nominee-tanden-privately-trashed-biden-2015-email"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-tanden-privately-trashed-biden-2015-email.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-tanden-privately-trashed-biden-2015-email.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335233191090-e1606762419788.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Sen. Cotton says Neera Tanden has no chance of being confirmed, tells Biden 'go back to the drawing board'"
-    excerpt: "Neera Tanden has “no chance of being confirmed,” Sen. Tom Cotton said on Wednesday."
-    publishedDateTime: 2020-12-02T14:06:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovAKAOTmZAA/tom-cotton-neera-tanden-no-chance-senate-confirmation"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
+    excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
+    publishedDateTime: 2020-12-05T22:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57210d5f-358a-4ff8-acbe-abaf067e07f8/a94f5a55-e631-4532-af94-215a01db6a60/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden pick for OMB director will push globalist policies that cost US jobs: Huckabee"
+    excerpt: "President-elect Joe Biden’s pick for director of the Office of Management and Budget (OMB) will push globalist policies that will lead to the loss of U.S. jobs, former Arkansas Gov. Mike Huckabee warned Tuesday."
+    publishedDateTime: 2020-12-01T22:41:00Z
+    webUrl: "https://www.foxnews.com/politics/neera-tanden-omb-director-globalist-policies-mike-huckabee"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/huckabee-12-01.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "CCCSdccC7kFMQG3XePoUBmFvzTlU/eEdy/l8Kbecno657WAm8kAzsjKhu3lLZx4qXxoxbGto8ZJ634WIGabVFn7YUlpFWDWtSHbWeXLK13tEFi1qogSapyCI8oLRIlokDsZKb1P0MF47/H4A2jsqBa69Fqsmvu6Q8ib6QpJDJb60JK/kMnRXlPqCSqmBSB+bQgzFvayEV+HmJQUotAn2gQpHw/JylXTDsETZ28VgvYnYfAE9+LocCBFcwtGweH7L3F0tB90gW8ZiMbWjkLBeWejzOwzx3fS/RP4EESWlXbCEbKf5Zx2jvjMKvYC9BB1NkwDZYFIBaqb5oJ2iOwux88x2TB4CEXVkYgt4MCiwEyI=;Xwr5xevWVBOxWP0X89dzkA=="

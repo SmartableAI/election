@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's demands run into McConnell's maneuvers"
+    excerpt: "In the weirdest of twists at the end of his presidency, President Donald Trump is now in league with Nancy Pelosi, Chuck Schumer and Bernie Sanders over $2,000 Covid-19 relief checks, doing battle with Republican leaders over Pentagon policy and warning the political party he overtook and remade in his"
+    publishedDateTime: 2020-12-30T05:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_OY6qMSlvqo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216122059-03-mcconnell-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "n//zmn/mkEWfWV6rhFrvF9Z8jnsQgVHDquPR6irVtWuYgLymo+dvkbJ4GABzcNti4AHFW2uaH6PUnm5bXbvF2x7BzipV8BP0Pa8Ya0ZbUPt/+2RBDEQPI1z9FNGNV9HGR8CWE+LQp6MPYGsZmavR8QHGLjfAP9tUS0RHNCmfySUhhT3K5K/Ai7a6lyGC6ekI3jYg3ZpJDD/CpkLCmAGre7GLNXdhrVcIoVECVAPwZVT1DNBnPPtJGgDkFUi/KGeojeX6p8rtSS/Dd4Ks/CohmUodPxPxHDq5SOeNbrDbTyE3+AoWPTz5btr5kJ+hZmQ7VWzT0/Z1viQ9AJNE5xBHWe0M0u7o0iYV9gPUxWz7PZsl6A2IBHHvbc6TCSODidGVsc3EZv4+o2ZCcs6/ZZh3wZIhftgDv+gTqwXDBCZoJOulPEO0WyonoitdBVY2lCeJtmrNfNNIOpChIPmMKiQXzW8SJ7vebtahr7RQ1Hwegk5M21RR4k7sNbXGGbR9/9Oe90gPimsWLmR+65vwtV2VYQ==;hcIaEbUWYOoJfDsfIyeTag=="
 ---

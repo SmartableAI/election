@@ -89,22 +89,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
-    excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
-    publishedDateTime: 2020-11-23T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJVQRVQ5RMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 963
-        isCached: true
   - title: "Kamala Harris’ husband, lawyer Doug Emhoff, to teach next semester at Georgetown"
     excerpt: "The incoming second gentleman has landed a new job at the Georgetown University Law Center, school officials announced. Doug Emhoff, husband to Vice President-elect Kamala D. Harris, announced last month he would leave his Los Angeles law firm by Inauguration Day."
     publishedDateTime: 2020-12-13T07:40:00Z
@@ -222,22 +206,6 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
-  - title: "Kamala Harris' husband Doug Emhoff breaks gender stereotypes by putting her career ahead of his as second gentleman"
-    excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, is quitting his job to be second gentleman, breaking gender and race stereotypes."
-    publishedDateTime: 2020-11-12T23:01:00Z
-    webUrl: "https://www.cincinnati.com/story/money/2020/11/12/kamala-harris-husband-second-gentleman-doug-emhoff-breaks-stereotypes/6227849002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6227849002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6227849002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b4f7d491-8820-4536-b3c3-3bdd42e2b92c-AP_Election_2020_Emhoff_2.jpg?auto=webp&crop=3938,2216,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "OUHPk9IWcf59vfurwdDnR8zq61G2ktGzTNF4pcaCgSHeeUs+I+0qBKOV1NM0Na+jwNCEqZUvXADAl+bC0RZL+mjtqdks4mxCvCkOhYRZubOKx+Qx2jO31e4G1fHjKF4yM+RLX+IpRdt4JDK3+4t/QveqBjRoxNnKQoIkb4sAvN2u4+lNSQo7kdyF8FW8mb4rZ8GClDAFOgNGKa94L0f2S0AZkNZPKDvaDsnMxaRl69bdf9eI/GVRtH+p2t2I5yP2NrMrTukSx1wCP7W4I4w9u7JMmJgn+k34m4+F++oyc9+jSBWVIEq1OJI6U42U4SIPZosudSEcyrmRj/SafocqnzuanySTh+fjqeh8bfvsV7c=;fluUeuteqOXOfXAgL22IKg=="
 ---

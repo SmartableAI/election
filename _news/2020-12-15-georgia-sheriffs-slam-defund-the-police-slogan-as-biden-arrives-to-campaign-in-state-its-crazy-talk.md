@@ -79,38 +79,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden campaigns in Georgia runoffs, hoping for Democrat-controlled Senate"
-    excerpt: "President-elect Joe Biden hits the campaign trail on Tuesday for the first time since Election Day on Nov. 3. With the success of his incoming administration’s agenda very much hinging on whether the Democrats sweep both of Georgia’s twin Jan. 5 runoff elections and regain the majority in the Senate,"
-    publishedDateTime: 2020-12-15T17:04:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_MdMu4L9jFo/biden-campaigns-georgia-runoffs-ossoff-warnock"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaigns-georgia-runoffs-ossoff-warnock.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
-    publishedDateTime: 2020-12-15T15:52:00Z
-    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
-    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 162
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Harris says ‘everything is at stake’ in Georgia’s twin Senate runoff elections"
     excerpt: "Vice president-elect Kamala Harris headlines a rally for Democratic candidates Jon Ossoff and Raphael Warnock in Columbus, Georgia in the state's twin Senate runoff elections."
     publishedDateTime: 2020-12-21T20:55:00Z

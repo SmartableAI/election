@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Democratic donors want apology from Biden aide after 'bunch of f--ers' remark"
-    excerpt: "Some of President-elect Joe Biden’s donors want his aide Jennifer O’Malley Dillon to apologize after she called Republicans on Capitol Hill \"a bunch of f---ers,\" and at the same time praised Biden’s call for unity."
-    publishedDateTime: 2020-12-17T00:30:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x2xvF3NDkME/unity-democratic-donors-apology-biden-aide"
-    ampWebUrl: "https://www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp"
+  - title: "Democrat Joe Manchin opposed Biden surgeon general pick under Obama"
+    excerpt: "At the time, the West Virginia Democrat questioned whether Dr. Vivek Murthy could separate his political beliefs from his public health views."
+    publishedDateTime: 2020-12-07T20:51:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI2JXhtkRsU/democrat-manchin-opposed-biden-surgeon-general-pick-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/biden-apJen-O-Malley-Dillon-getty.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden aide who called GOP 'a bunch of fu------' says she 'probably could have chosen better' words"
-    excerpt: "Top Biden aide Jen O’Malley Dillon, who was criticized for calling Republicans \"a bunch of f------\" in an interview with Glamour magazine this week, said Thursday that she “used some words that I probably could have chosen better,\" according to Politico. "
-    publishedDateTime: 2020-12-18T01:27:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mOmNhw0Ce_0/biden-aide-gop-bunch-fu-chosen-better-words"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-aide-gop-bunch-fu-chosen-better-words.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aide-gop-bunch-fu-chosen-better-words.amp"
+  - title: "Retired Catholic archbishop says Biden should be denied Holy Communion over abortion stance"
+    excerpt: "The issue of Communion denial has sharply divided the Catholic leadership, leading to the formation of a council to assess the issue."
+    publishedDateTime: 2020-12-05T15:43:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQWa9WG5Bi0/archbishop-biden-not-full-communion-with-church-urges-denial"
+    ampWebUrl: "https://www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Archbishop-Charles-Chaput-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden administration pick Neera Tanden outed sexual harassment victim at liberal think tank: report"
+    excerpt: "President-elect Joe Biden's pick to lead the White House Office of Management and Budget, Neera Tanden — like his other expected nominees — is likely to see a contentious confirmation hearing, but she is no stranger to controversy after reportedly revealing the name of an alleged sexual harassment victim"
+    publishedDateTime: 2020-12-02T14:40:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ygo2Nksy784/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7fa6bd-da8a-4da5-9c84-14fdaa91c6b5/066eec86-f509-42da-b359-a02d2f00a7e6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bef5df3-b1ad-4063-9945-74d7c18dcd09/d317839e-7140-4e34-b763-0f08bbdeea34/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
+    excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."
+    publishedDateTime: 2020-12-10T11:57:00Z
+    webUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say"
+    ampWebUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "BcinqBSbdA3HiC9SJhZgUxuDEDir//RRF+cwXojgWrD0QHMsSXH5bD4CuTSw0q6kPiFQwDPDky5SbFA8lvJQ7n+JvDQlCpeoSFWlu1JmBl2Q9AJ145ZThxERNCAeQJ4N0oyaVe23yB9s1xZv27ZfCSevj0VGDh9vByLkh8rPyrYeQPy7sP68MfoQ7LcO0G4q6Y86qfIZhJGOsXd00U86Stjkt3wLNMaR7iRDWhk7pGwc+cLEoCkAmTfCTiZJAmVwdoAdvQeD+qhXXPfTgHvkVpUNikxoXkY9vNGGG9eozKdnrz7JFw8n/PpIvlS5hEHQLvB8s4fzpgD7iejQe9hzdgUYS/BF4F4rNmZY6hbqqVo=;dTCos6jnXpEpX4rLmi6BMg=="

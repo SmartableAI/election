@@ -64,22 +64,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
-    excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
-    publishedDateTime: 2020-12-14T16:45:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump fires back after McConnell recognizes Biden's victory: 'Too soon to give up'"
     excerpt: "It took more than 14 hours, but President Trump finally publicly responded to a speech by Senate Majority Leader Mitch McConnell in which the Trump ally and fellow Republican congratulated President-elect Joe Biden on his White House victory."
     publishedDateTime: 2020-12-16T15:33:11Z
@@ -128,22 +112,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden changes his story on Bin Laden raid -- again"
-    excerpt: "President-elect Joe Biden came under fire earlier this year for denying his opposition to the 2011 raid that killed Usama bin Laden after previously claiming that he advised then-President Obama against it. "
-    publishedDateTime: 2020-12-07T00:59:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VUmhWXUtvkE/biden-bin-laden-raid-obama"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76c0eaf-5096-4a0a-bb3c-7fc7db46132a/9941afad-0e5a-4e96-985a-d38d9e65ff99/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden's health team picks point to more hands-on federal response"
     excerpt: "President-elect Joe Biden's choices for his health care team point to a stronger federal role in the nation's COVID-19 strategy, restoration of a guiding stress on science and an emphasis on equitable distribution of vaccines and treatments."
     publishedDateTime: 2020-12-08T16:14:30Z
@@ -157,6 +125,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82f2e1a9-be17-47ad-9e03-87cdb925e02d/3b181a5a-a397-4b4f-94ce-a60e3688ed33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gun rights group blast Biden’s HHS pick"
+    excerpt: "Group claims Biden pick signals incoming White House will push firearm ownership as a public health crisis."
+    publishedDateTime: 2020-12-08T23:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGl2pM9YapI/gun-rights-group-biden-hhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -688,6 +672,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Potential Biden education secretary pick was a vocal critic of Obama-era policies"
+    excerpt: "Eskelsen Garcia criticized Obama for emphasizing the role of standardized testing."
+    publishedDateTime: 2020-12-10T00:54:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5I8R3e8XXPA/potential-biden-education-secretary-critic-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/potential-biden-education-secretary-critic-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/potential-biden-education-secretary-critic-obama.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcb73ed2-d096-4c2f-8bbf-41e6cf993a64/374ed0ec-5351-4c8c-b62c-0eca14538fda/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Flashback: Biden praised ‘constant,' 'unrelenting’ stream of immigration into US"
     excerpt: "President-elect Joe Biden, during the Obama administration, said the U.S. benefits from a “constant” and “unrelenting” stream of immigration -- and that those with white European heritage becoming a minority in the U.S. is \"a source of our strength.\""
     publishedDateTime: 2020-12-13T01:33:40Z
@@ -1056,6 +1056,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Loeffler and Perdue back Texas suit aiming to overturn elector slates in Georgia, other states Biden won"
+    excerpt: "Sens. David Perdue and Kelly Loeffler Tuesday announced their support of a Texas lawsuit at the Supreme Court which seeks to have the justices declare that Pennsylvania, Michigan, Wisconsin and Georgia are \"in violation of the Electors Clause of and the Fourteenth Amendment\" and bar those states' current"
+    publishedDateTime: 2020-12-09T14:09:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TqJXuCgM8k/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won"
+    ampWebUrl: "https://www.foxnews.com/politics/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden’s foreign transactions repeatedly flagged as potential criminal activity, Senate probe found"
     excerpt: "A Republican-led Senate investigation noted “potential criminal activity” among his transactions."
     publishedDateTime: 2020-12-10T02:24:31Z
@@ -1246,6 +1262,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Electoral College voting to select Biden as next president"
+    excerpt: "Members of the Electoral College are gathering in each state Monday to cast their votes for president and vice president of the United States."
+    publishedDateTime: 2020-12-14T16:45:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Biden says schools should reopen within first 100 days in call with governors"
     excerpt: "Biden has emphasized school reopenings as a key initial step in his incoming administration’s plan to combat the coronavirus pandemic."
     publishedDateTime: 2020-12-17T03:25:00Z
@@ -1261,20 +1293,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f63ac40d-c3f5-4649-880f-d3d25c419466/5a3fc880-79f3-427b-8782-b1db7a069d53/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
-    excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
-    publishedDateTime: 2020-12-16T08:15:00Z
-    webUrl: "https://www.foxnews.com/media/do-over-biden-clinches-columnists-left-and-right-dump-on-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/8daf5c9f-Trump-Biden-Recent-AP.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
     excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election."
@@ -1305,20 +1323,6 @@ related:
     quality: 129
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4118860c-733d-46af-b1ba-85f6a4fdc12d/a180d325-392c-4ed8-9b5c-9ce197a500d1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Republicans Backing Trump Fraud Claims Even As Biden Wins Electoral College"
-    excerpt: "If tens of millions of Republicans believe Joe Biden is an illegitimate president--Trump actually used that phrase--it could well damage his administration. And at a deeper level, if much of one political party believes an election is being stolen--and next time it could be the Democrats--that seriously damages democracy."
-    publishedDateTime: 2020-12-15T08:15:00Z
-    webUrl: "https://www.foxnews.com/media/republicans-backing-trump-fraud-claims-even-as-biden-wins-electoral-college"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/BIDEN-TRUMP-SBS.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1417,20 +1421,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
-    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
-    publishedDateTime: 2020-12-13T15:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 73
-    images:
-      - url: "https://assets.realclear.com/images/52/529627.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "J5dnfsdipiWiwRDp6sUDWHJZb9LmHJeilxOh6BEUxTYozrDU0PY1iGsiBYXYF4OYm/6RVDsX3sod8wFa0NqaiWn5pspkw90hF6nFg/FKu0QGIfFVJ5HU4a6ynrJs/jPm3eBBSQs7vdSY8quTjICZgCRhNJkxv44NlSCKBltDRfTN8vPxc2zDAjdJ0hNaop9/HPaCJaAqa+MBV518FaBFNKzsR/r79yZBR3mvADQqrADFwik8U7hlO4eKtSZS2r9ZtfMmxIVW4Ruul1SyQJ37a7Ke4P7qZ/gxe7NxnQJ0LVjVlUpaUmAgfc593O91rVNO4KKQLZle9K/m6/TEG3IxutbzzFFaT8VsOC/aJCqP91A=;HcytOAEjlf3G7agI4LNM9w=="

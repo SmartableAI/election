@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp"
 type: article
 quality: 171
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Biden pick Neera Tanden repudiated Michelle Obama catchphrase, said 'going high doesn't f--king work'"
-    excerpt: "President-elect Joe Biden's nominee to head the Office and Management and Budget, Neera Tanden, in 2017 repudiated the Michelle Obama catchphrase \"when they go low we go high,\" tweeting that \"going high doesn't f**king work.\""
-    publishedDateTime: 2020-12-01T21:29:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UizLGZ_hA5g/biden-neera-tanden-repudiated-michelle-obama-catchphrase-going-high"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-neera-tanden-repudiated-michelle-obama-catchphrase-going-high.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neera-tanden-repudiated-michelle-obama-catchphrase-going-high.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "oc0qq4lo5XN/+EDN6ke+aOg9mlodTU+Zy/pKLSTEldGVdn8rP5yQKr9Qtsw8bR3u8BYcX9cf2GsAbagWVSDrrK1Dh5ZdHuetnz2mKKDpLl1yBvcsVKMw9XhMnH5U9ora/2b7ejRbMloWJdoWK4qJ2GGDUUTNrv+hA5KNvoi+qy7iroW+d09khdt1IOefqsB8gBh1iTqDKp6clWD4HnH+X1SQQgOAuwyptS0kRE76Wb0tv7TtA6NokvbpE4C/eDXffCjEDlQA9AW3+idFHxIezP8PaSIUYnpXr4VEaISxOddNU13IeMoFKuaFRkMNrFzDr1xfBYSCqdQKEve1ldWjpfFVWu57X8olkiB/RmtJ3Yo=;qN5dQRGmC3+HYLufGfM7mQ=="
 ---

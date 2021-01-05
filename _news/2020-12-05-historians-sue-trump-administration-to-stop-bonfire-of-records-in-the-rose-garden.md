@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
 type: article
 quality: 119
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: Washington Post
@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "If no crime was committed, how can Trump issue pardons to his inner circle?"
-    excerpt: "Don’t let Trump discredit the pardon ,” op-ed, Dec. 1]. This presents a logical quandary: This administration has held that it has committed no crimes. How does a pardon work in absence of crime? The president has pardoned convicted criminals such as."
-    publishedDateTime: 2020-12-06T22:48:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
+    excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"
+    publishedDateTime: 2020-12-05T04:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
+  - title: "Trump administration to impose long-awaited sanctions on Turkey over Russian missile defense system"
+    excerpt: "Ankara's purchase and testing of the S-400 system alarmed its NATO allies, and touched off demands in Washington to impose sanctions. The annoucement comes as Congress is poised to pass a defense bill that would have forced the administration's hand."
+    publishedDateTime: 2020-12-11T04:53:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 123
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z6AWUJXIYUI6NEB5TMI627MNFI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RWTV6R3DEI6XPDIS2XQ3KXHFA.jpg&w=1440"
         width: 1440
-        height: 960
-        isCached: true
-  - title: "Roles of Trump fundraiser, Kushner's attorney were scrutinized in pardon bribe probe"
-    excerpt: "A former Trump fundraiser and a prominent lawyer were among the people scrutinized by the Justice Department for their roles in what a judge described as a possible bribery scheme to win a presidential pardon for a convicted felon,"
-    publishedDateTime: 2020-12-04T09:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-pardon-idUSKBN28E0CL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0CL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0CL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump has the power to issue pre-emptive pardons. Here’s how past presidents used it."
-    excerpt: "George Washington, Gerald Ford and Jimmy Carter have used the pre-emptive pardon to seek national unity, not to protect family members as Trump is reported to be considering."
-    publishedDateTime: 2020-12-11T14:10:00Z
-    webUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/"
-    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LNJ6UXI3UI6VP2EBUY4QWBYUU.jpg&w=1440"
-        width: 1440
-        height: 960
+        height: 983
         isCached: true
 
 secured: "MFjOtWtPC0qh8pGu4QcE8t5gB3svwBVAp03rqw5oITlXvlNwkWiBZOuNpgdr/rUdKGRTYAkYUDVU9rBGw7PaNuvZHIVbrC2bIMKkoGTmAReGZPcYykoisf4hMZvP0dro8y39ThaSH8KWsfONsYGfYSWXDHuuKL1oZlkKdJAx/taca47tdHWpLQLg1Dd1UzXqu5SNlZerUEyyo5G0YrGc0SfpHuX3pMdrwynTtAWNIH2eqthOChDTo9T5zrCKyG6H3cmqeOVJDk8LTLcckz9QuIF+n1qRM1bemZSE2TcAn9OS0AeI72vrQdNov7tMA22siEb7NXe375dtyqaCZJHeU2a6Q7sgT9vL9jELfHefIMdz+c12GdWpyejcZQ9jUr+yqO50p9GEm0ddbB7T/aAx9V/dpqRFyHYqNL615JlI3k4QpyPAO6eWdXLLQyPlJLU+aQkeRYjZeW/OAlWRBYgndGX5vAcYJFM/U3rl34SfK3ZvYCcRP+PXEw79MuDqEjrGhhbBxooHo7Kd++u60FAW/w==;aHTrVS+OyizCi9Ce+Vsc9w=="

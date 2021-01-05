@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-cov
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Trump administration reportedly rejected an offer from Pfizer for more COVID-19 vaccine doses, and now other countries might get them"
+    excerpt: "The Trump administration purchased 100 million doses of Pfizer's vaccine, but it's a two-dose treatment so it will only go to 50 million Americans."
+    publishedDateTime: 2020-12-07T22:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fcea8cfeadd8400183dfa73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "T5mRyDKOCc4gkPZw8KHR9hNy78G9u2fFsK6CAZuIl1g3ExNkNqNfjH248kNgPBlchSlD2ebQx0NOjy4sbA2wxB95ZtMfVDzAKKbhHNboYDkENX0P7GhHch+9U9OmTR/B5CDPm6BiqYfh7t4dAQdXhpS7hq3mbwcPL7p/bQCOFnPTWtn/8rDlQCXx+7Xq5Fh5K1mPyUhhTUdcLU7Z8MllS4hoU1oaS6QNCtm17eczcf5KHOUOVH6SyK5R3b8SWkoYb/JoEW2fZeG77hAPRLj10TBuGoJTDLEUb0/ewx0fX6EuWfFSupoD1rH3/jCTAPmBdrAR37B1St7wBp/MNV/AIgH/3NhyNAGIw9BcMip29SQ=;foJMBEnkmZ4gDKqN2ONv/g=="

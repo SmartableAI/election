@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden warns \"darkest days\" of pandemic are still ahead"
+    excerpt: "President-elect Joe Biden warned that tens of thousands of more lives will be lost due to COVID-19, even with a vaccine. Nikole Killion reports."
+    publishedDateTime: 2020-12-23T00:39:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-warns-darkest-days-of-pandemic-are-still-ahead/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/eaa54dae-b3bb-4ee1-8a5a-2f3334df0a6e/thumbnail/1200x630/faca699237f4f387d8d9553e78c1b755/20201222-en-killion-replace-614816-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "p+/kwwXWv57okF7q237zdQgOcQVZUHgP4QRkULUfKvQ4zwSXQz/itWTtK+OFBeIp/fT/7+H65ikN33eeDZBOotHCbDL1VpZVpAU5+LzLU6dKk55tF8FT6YFHvHX0GwGuaLDozQn3bs4HvjAXv3NABs9MoVGBAPKbfVDV+xFRUzlmn31wh0qAKMDHa9HpegDJtJ7rKQ09+IeGN7qaxx6eXNp+/hX0XMM+hAMcfddDrdUeEwd0MHXK6ql36x0p5nb2ElVHedQS5aOu4PHayxGypZgziAdHytLjiNnUs8D0xWJ5nsn8Z8NyDsBqpr6fUiOUiTEE5YqPVnvIsXHVbrIs4nYyxF7qhEkbfL4huHNjXnbOscD75bmzaxMZK+iazK5q9juimdIwS3cYGQag4vHEROl0K65B5qWF7GqFYOEIL01Z0xef0W72ZTHYPLU4MJ7x/18aYnTc13tFaEbFQr5GvHOr2KI2KQgWZcCN9CBIcj5Dn8hJdGxgg5oYhx4AVu9BBKIoj/3PzpByBFDw48GbPA==;w3VEmiQyVcitaIzcoimMAA=="
 ---

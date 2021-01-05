@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/student-loan-relief-devo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/student-loan-relief-devos-trump-biden/index.html"
 type: article
 quality: 166
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.politico.com/a8/53/14b4729a45d19396481a7440ac6a/gettyimages-1255052290-2-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden, Calling Stimulus Bill a ‘Down Payment,’ Urges More Relief"
+    excerpt: "The president-elect said he would ask Congress soon after his inauguration to pass an additional coronavirus aid package with more money for firefighters, police officers and nurses."
+    publishedDateTime: 2020-12-22T23:55:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Bf+JrsAbQKUVxcvTm3A5zpe4tWoJC3dCfmhyB+JAH1Sdw4+w3u6g9uQmXCKLA8lxpTth/yL78RdcAHBVTrJUUhHmq/2fbiSmnQEFpB4GpcvY6FIG9eXhDzcsT2Db383LcuPdWaqghigaGm23Hro8V9iTg9IT30kSdZfAQEITdnpB0/HwrTQs7aYBV1h4qOu77SN/z8sUyGNjuxyuQJBlRLRYJVdMdOYgAwLu9Bt4SBcElSjkEa8lQlVfYvTxzVf8hcyhWpZb2r+BoisXxUaCFqZD8KVVHacTwnEmVNLHPVlHED3lSv54Y+nkH5PPZZJ4twnjxCw595a2TphA9qsjCg2xfC/5tCvsxLvOhRT1qlA=;D8lCRixzUkBBy4DYZls9Pg=="

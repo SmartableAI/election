@@ -47,37 +47,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
-    excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
-    publishedDateTime: 2020-12-05T14:23:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+  - title: "Biden will meet with leaders of civil rights groups amid pressure to choose diverse Cabinet"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to hold a virtual meeting with leaders of civil rights organizations Tuesday in Wilmington, Delaware, as Biden faces pressure to appoint a diverse slate of nominees to Cabinet positions and top administration posts.\n    \n"
+    publishedDateTime: 2020-12-08T17:13:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/76FsIoHMFFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/biden-civil-rights-leaders-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/biden-civil-rights-leaders-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203235613-biden-presidete-crisis-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Push me': Biden welcomes diversity push as he faces criticism over Cabinet picks"
-    excerpt: "President-elect Joe Biden got a lot of help from a lot of different people to beat President Donald Trump. Now he's already facing some frustration from constituencies that got him elected that he's not giving them enough room at the governing table.\n    \n"
-    publishedDateTime: 2020-12-04T05:10:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9WgPfyMM9Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
+  - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
+    excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
+    publishedDateTime: 2020-12-09T00:18:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jUHJfkpbhXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208175659-marcia-fudge-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Lawmakers to Biden: 'Step it up' on Cabinet diversity"
+    excerpt: "The next administration will feature a number of historic \"firsts,\" but lawmakers and advocates of color are pushing for more."
+    publishedDateTime: 2020-12-02T00:51:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/biden-cabinet-diversity-lawmakers-442003"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/01/biden-cabinet-diversity-lawmakers-442003"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/01/biden-cabinet-diversity-lawmakers-442003"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/93/1d/dfe53fea403386b5ecf213572fbc/201201-clyburn-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden goes to bat for Defense secretary nominee Austin"
     excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
@@ -94,6 +110,22 @@ related:
       - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Presidential Transition Live Updates: Biden Builds a Cabinet of Longtime Allies"
+    excerpt: "The president-elect is putting a premium on personal relationships as he selects his team. The biggest gun control advocacy group, run by former Mayor Michael Bloomberg, wants the Biden administration to act immediately with executive orders."
+    publishedDateTime: 2020-12-10T08:29:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10transition-brief-cabinet/10transition-brief-cabinet-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "qPx2mJXkwObJIbiF4/1+V8fLgk4moiUrGVV9EyLq32ukQ3QQJh7lwlHeXG6xWzMAI9rLiXnkAdmrNxUN53AMbW9N3XRLHZ3KGeor+4jMbHQ+26jCPL0vG3jhoOpxOKzbxYJPOEg0TLrPs0k/dnRw10KNfu5Npi+QIocTZD4fHTlvyHy9yWSDBGbR1D8Q6tgTh21CnRY7d7Gc90KIUks3/1pkJO6tKTQv3xuePSFDk4TOb4ZF0EASpzcPwAdVNku7ZkILCjP3ykp9NtU18Wp1LSmBQ0S2dc0I0RPVUrnyUY61mO1Yx6yQeMBnJjXGysq+AYJkCX8FXm0O4DbR1uZapKodRieOOTxLs3Iuq6XpHkA=;R/QAF8Q7ASq89mQr1NRirw=="

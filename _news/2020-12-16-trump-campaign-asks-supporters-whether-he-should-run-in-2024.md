@@ -31,191 +31,165 @@ images:
     isCached: true
 
 related:
-  - title: "Some advisers urge Trump not to veto defense bill: source"
-    excerpt: "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday."
-    publishedDateTime: 2020-12-16T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0"
+  - title: "Trump loses one Wisconsin case while arguing another one"
+    excerpt: "As Trump loses an election lawsuit in federal court in Wisconsin, the state's high court hears another that one justice says “smacks of racism.”"
+    publishedDateTime: 2020-12-12T20:16:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK"
-        width: 817
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2257466/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Fa7%2F70c4aa8f40cdb15585b4f9f9570a%2Fww1thumb.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Trump signs into law stopgap funding bill to avoid government shutdown"
-    excerpt: "President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds passed by Congress to avoid a midnight government shutdown, as lawmakers negotiate a $900 billion pandemic aid bill and as part of $1."
-    publishedDateTime: 2020-12-19T08:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28S31A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28S31A"
+  - title: "Trump loses Wisconsin case while arguing another one"
+    excerpt: "U.S. District Judge Brett Ludwig dismissed the lawsuit asking the court to order the Republican-controlled Legislature to name Mr. Trump the winner over Democrat Joe Biden."
+    publishedDateTime: 2020-12-13T12:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-wisconsin-court-losses/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545099113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH1Q4"
-        width: 817
-        height: 545
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Congress approves $900B COVID relief bill, sending to Trump"
-    excerpt: "After months of Washington gridlock, Congress is set to act on a $900 billion pandemic relief package, finally delivering long-sought cash to businesses and individuals as well as resources to vaccinate a nation confronting a frightening surge in COVID-19 cases and deaths."
-    publishedDateTime: 2020-12-22T15:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-seals-agreement-900-billion-covid-relief-bill-74837831"
+  - title: "Biggest vets groups step up pressure on Trump to fire Wilkie"
+    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of"
+    publishedDateTime: 2020-12-19T14:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biggest-vets-groups-step-pressure-trump-fire-wilkie-74764252"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_ed98b12d65af484c908f5cbfefd34f4a_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f9a2c279eb674cbb97dd86f2cbdb63c8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Covid relief: Trump demands changes to sign $900bn bill"
-    excerpt: "Outgoing president says $600 stimulus payout to most Americans should increase to $2,000, or $4,000 for a couple"
-    publishedDateTime: 2020-12-23T03:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/7028196812fbe9486628434e6239f4854962ec9f/0_363_5442_3265/master/5442.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93941f4b1bb96141d79e029b0ec09467"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
-    excerpt: "U.S. President Donald Trump threatened on Tuesday not to sign a $892-billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
-    publishedDateTime: 2020-12-23T02:06:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN28X04N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X04N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X04N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545504122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
-    excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
-    publishedDateTime: 2020-12-14T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/trump-faces-dec-23-deadline-to-veto-or-sign-massive-ndaa-defense-bill-idUSKBN28O26L?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O26L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O26L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "President Trump throws wrench into COVID-19 relief by saying he won't sign bill"
-    excerpt: "President Donald Trump is giving both Democrats and Republicans a headache on Tuesday after the shocking announcement on Twitter that he will not sign the COVID-19 relief bill negotiated in the Senate and House for months."
-    publishedDateTime: 2020-12-23T07:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "George Pell: Trump is a barbarian, but 'in some important ways' he's our barbarian"
-    excerpt: "Cardinal praises president’s ‘splendid’ supreme court appointments at the launch of his prison journal"
-    publishedDateTime: 2020-12-16T23:49:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/dec/17/george-pell-trump-is-a-barbarian-but-in-some-important-ways-hes-our-barbarian"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/a1c8e57a076a7d3d3646b9555dbad5efda037fec/0_10_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=34a518665ddd9a135335792c884b19f7"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
-    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
-    publishedDateTime: 2020-12-10T16:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+  - title: "Court affirms ruling dismissing Trump challenge in Wisconsin"
+    excerpt: "A federal appeals court has refused to overturn a decision dismissing President Donald Trump’s lawsuit seeking to declare him the winner in swing state Wisconsin"
+    publishedDateTime: 2020-12-24T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
-    excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
-    publishedDateTime: 2020-12-21T09:53:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUKKBN28V0ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28V0ET"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28V0ET"
+  - title: "Trump makes 2nd request to Supreme Court over Wisconsin loss"
+    excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state."
+    publishedDateTime: 2020-12-31T08:23:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545256677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump signs two-day spending bill, narrowly avoiding federal shutdown"
-    excerpt: "President Trump signed a stopgap spending bill Friday night, aimed at extending a midnight deadline to keep the federal government funded and avoid a shutdown. The Senate had passed the measure with a unanimous voice vote."
-    publishedDateTime: 2020-12-19T13:28:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/"
+  - title: "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says"
+    excerpt: "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot."
+    publishedDateTime: 2020-12-13T14:18:00Z
+    webUrl: "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "House Dems' campaign chief a moderate who wins in Trump land"
+    excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
+    publishedDateTime: 2020-12-13T04:42:00Z
+    webUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump attacks Republicans while attending Army-Navy football game"
+    excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
+    publishedDateTime: 2020-12-13T00:10:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/fe3ad989-62cc-4804-bf6a-db03fbe8588c/thumbnail/1200x630/efc1169bcb63f8ad076de34acc4fb270/1219-satmo-captiolhilllatest-reid-612724-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump signs stopgap government funding bill to avoid midnight shutdown - White House"
-    excerpt: "U.S. President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds to avoid a midnight government shutdown, the White House said in a statement. (Reporting by"
-    publishedDateTime: 2020-12-19T08:28:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/trump-signs-stopgap-government-funding-bill-to-avoid-midnight-shutdown-white-house-idUSL1N2IZ03O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IZ03O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IZ03O"
+  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
+    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
+    publishedDateTime: 2020-12-17T03:37:00Z
+    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
+    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
+        width: 1024
+        height: 716
+        isCached: true
+  - title: "Trump Admin Revives Oil Leasing in California Despite Opposition"
+    excerpt: "The Trump administration on Thursday will hold a sale of oil and gas leases on federal land in California for the first time in eight years despite widespread opposition to the auction in the Democratic state,"
+    publishedDateTime: 2020-12-10T12:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Biggest Vets Groups Step up Pressure on Trump to Fire Wilkie"
+    excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of a sexual assault at a VA hospital."
+    publishedDateTime: 2020-12-16T19:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-16/biggest-vets-groups-step-up-pressure-on-trump-to-fire-wilkie?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "v49Gv/Nir+rZrpuuddhevDe/d7JpPvN6k9kApWAlEIldDQ0vKQr2OZirTihFBC3FR97ftSyo5PwBMhK5Vc7DGrbO9QSCDX0EQXh0cfeNeUtm7Oo3wyZdPhgMka975bFCVwN840Liiyn0O0j1o5lT8ZJT9TIuTzEXLGtUncJ8zb6qAdSkr3fHJxPcAx26R3NK+QdiHxaPkV9q5j46pfHG4n1svJV8qIT4i4eSIS710XVH3w2PNsheR7dbKmsMbbVJJkdnxXxWx4lwZpm7Mb0GlgiDaagkdQ95Hwh6FOCCDCypB3EcqJvk7zTzOR+wswRadJ4bwO/QFHowqtXtrGn7X1EYo7BVB9r7/BdjT0G/7MPsM5HFueLHoFvVqe8Ufew97T1h3wKYTCC+VoNvu2lDFJE40t8vkdi/VHPks47PSL5pNk5QSRzFyqnVgzL2UxMK0zTGBCz2udeyHP+egKjNmnlwgl3Jf/lVNG1FlhnJ4kLfi7a8dhhu7liHMOehSHsWtAEyTjgycSUmGg1F6+U7IA==;RZQI9Wn7Z1vu2VeBm5ztsQ=="
 ---

@@ -31,141 +31,86 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign legal team distances itself from Powell"
-    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell"
-    publishedDateTime: 2020-11-23T06:44:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
-    excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
-    publishedDateTime: 2020-11-23T10:17:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/512e097/2147483647/strip/true/crop/3034x1982+0+21/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F66%2F110684d9467c885e9125a53f9c39%2Fap20325745047715.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
-    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
-    publishedDateTime: 2020-11-28T22:39:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Giuliani releases statement distancing Trump campaign from lawyer Sidney Powell"
-    excerpt: "The president’s legal team was thrown into tumult Sunday when two Trump attorneys – Rudolph W. Giuliani and Jenna Ellis – released a statement abruptly distancing the campaign from a third attorney, Sidney Powell."
-    publishedDateTime: 2020-11-23T00:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHKKJBBNDMI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
-    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
-    publishedDateTime: 2020-11-29T12:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump axed campaign lawyer Sidney Powell was because 'she was too conspiratorial even for him'"
-    excerpt: "Powell has alleged a vast plot involving foreign communists and GOP officials to subvert the election, but even Trump it seems has heard enough."
-    publishedDateTime: 2020-11-23T11:56:00Z
-    webUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Is In No Mood To Concede, But Says Will Leave White House"
-    excerpt: "President Trump took questions from reporters for the first time since he lost the election to Joe Biden. He said he'll leave the White House on Jan. 20, but made clear he won't concede."
-    publishedDateTime: 2020-11-27T00:37:00Z
-    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/11/26/939386434/trump-is-in-no-mood-to-concede-but-says-will-leave-white-house"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/26/gettyimages-1229807318_wide-dc29074408bab292f4fe2832d0280d50e2312ab2.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Trump returns to the White House from Camp David"
-    excerpt: "President Donald Trump returned to the White House on Sunday after spending the Thanksgiving holiday break with his family at Camp David. (Nov. 29)"
-    publishedDateTime: 2020-11-29T20:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/29/trump-returns-white-house-camp-david/6457672002/"
+  - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
+    excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""
+    publishedDateTime: 2020-12-07T15:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3856164001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/98e5c227-dd38-4ef0-aabd-82799a517b55_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Sidney Powell Unrelenting in Legal Battle on Trump's Behalf"
-    excerpt: "Conservative attorney Sidney Powell has been unrelenting in her battle on behalf of President Donald Trump and the Americans who have pledged their faith in him."
-    publishedDateTime: 2020-12-10T17:27:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
+  - title: "'This ship has sailed': Judges reject 2 more cases from pro-Trump lawyer Sidney Powell"
+    excerpt: "Attorney Sidney Powell saw swift defeat in two cases Monday morning, with judges in Michigan and Georgia dismissing her efforts to overturn the 2020 presidential contest."
+    publishedDateTime: 2020-12-07T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/sidney-powell-01-ap-iwb-201207_1607362601991_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Sidney Powell's Trump lawsuit is the stuff of 'mythos' and has no basis in reality, said Georgia officials in bid for dismissal"
+    excerpt: "Trump's claims of fraud and malfeasance \"would be extraordinary if true, but they are not,\" the joint filing stated."
+    publishedDateTime: 2020-12-06T16:20:00Z
+    webUrl: "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fccf3b5eadd8400183df640?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A witness in Trump ally Sidney Powell's lawsuits says the voting results in 'Edison County' indicate fraud. No such place exists."
+    excerpt: "The lawsuit is being pushed by allies of President Donald Trump in an effort to fight voters and declare him the winner of Michigan's electoral votes."
+    publishedDateTime: 2020-12-01T17:23:00Z
+    webUrl: "https://businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fc6705d037cbd00186131db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Explosive thrown through Michigan man’s window, victim thinks he was targeted over Trump support"
+    excerpt: "A homeowner believes his personal politics led someone to throw an explosive through his window Saturday morning, causing extensive damage to his house. According to WDIV Detroit, the homeowner -- who has not been identified for safety reasons -- was upstairs in his home shortly after midnight when he and his girlfriend heard a pair of explosions."
+    publishedDateTime: 2020-12-08T04:59:00Z
+    webUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DEQV7NJM5CEVE6NFWCPVNPERI.jpg"
+        width: 665
+        height: 334
+        isCached: true
 
 secured: "IDvXmvopoFXwBeRTiVmExOF5kAekXF62S+VmOjJVbFP+hzw3rZibf0x1wFI5gXrdzLvxAPWgVCqpQH6g4SsOmxp35IomE9KzWwMdiyDmlUnn8uXEi5vp5ufJ6ujsYlY0tpGpeirVzEph8A12OszBEmErszDk4wjGJEoVPLL1yctu31Yvu+WULUaJv5JJMrmO5GXT1Bj+F3uoVcrOUy/CP9YgoUr5jBqxZdjOkn9FLtIP9KIMQO0KrxHM7Y7VpY25uXbYMbqmoupkHtX8DhcoYaGqcnifMBie89HdHk78bbQFlZZ1IP4PXgjSQOhQ79ed8qADpEDVUhDus4f+fCKeKOJUeDIuzPvuluMHqkkNxF0r7leQl9+kiu5SWzxrZRvjqJzeCQphC+rGn5aGBCVOkMeADC5vvHpeQK5/PL0goQ7orZ1K+9TQWQH2Ol00Kz0Xlx2xqKbEWayH0a4ODOULJHo3om9j2iXJXIYokk0pnJZ9UJJsX9e4/mq78M7IBpcqMHGvvDHpUKi6pliKEBhxyQ==;aPY8G1/ANfgxtagod2C1hQ=="
 ---

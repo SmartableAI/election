@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump files latest lawsuit in Georgia challenging election result"
+    excerpt: "President Trump and a Georgia Republican voter filed the latest lawsuit Friday challenging last month's election result, alleging that there are demonstrable ways Georgia's election laws were violated \"thousands\" of times."
+    publishedDateTime: 2020-12-04T23:25:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sYuAZFTTxQw/trump-lawsuit-georgia-challenging-election-result"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-lawsuit-georgia-challenging-election-result.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawsuit-georgia-challenging-election-result.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e806eeae-f80a-466f-a8c3-c7209c14d158/86067518-0868-454e-9525-020b4623dbbf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kemp, Trump clash over election results"
     excerpt: "Georgia Gov. Brian Kemp, a Republican, pushed back on President Trump’s demands for a “signature verification” in an attempt to overturn the state’s elections results, saying he has called for such an audit three times."
     publishedDateTime: 2020-12-05T21:39:37Z
@@ -112,6 +128,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Twitter weighs in on whether Trump could be banned after leaving office"
+    excerpt: "Once President-elect Joe Biden assumes office on Inauguration Day, Twitter could remove President Trump’s special privileges as a high-profile world leader and treat his account as a normal one if he keeps butting up against the platform’s rules."
+    publishedDateTime: 2020-12-05T03:39:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WDwVSxG_9X8/twitter-whether-trump-ban-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20339074006282.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump tells 'Fox & Friends' he's 'so disappointed' in Supreme Court for turning aside Texas election suit"
     excerpt: "President Trump told Fox News Saturday that he is \"so disappointed\" in the Supreme Court for declining to hear a lawsuit brought by the state of Texas that sought to nullify the election results in four battleground states."
     publishedDateTime: 2020-12-12T22:43:02Z
@@ -143,22 +175,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
-    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
-    publishedDateTime: 2020-12-03T16:45:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3N4_V-Ux3Ro/joey-jones-blasts-politicization-american-flag"
-    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump thanks Alabama congressman who says he will challenge Electoral College votes"
     excerpt: "President Trump on Thursday thanked Alabama Republican Rep. Mo Brooks, who said he plans to challenge the Electoral College votes next month when Congress meets Jan. 6 to certify the 2020 presidential election."
@@ -285,6 +301,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Trump-Barr-AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Mike Pence visits Georgia ahead of Trump Senate race rally on Saturday"
+    excerpt: "Vice President Mike Pence visited Georgia on Friday ahead of a get-out-the-vote rally by President Trump on Saturday to boost the two GOP Senate runoff candidates. Pence insisted during a speech"
+    publishedDateTime: 2020-12-05T00:42:00Z
+    webUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
+    ampWebUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mike-pence-georgia-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Bets on Long-Shot Texas Election Lawsuit"
     excerpt: "The president and his supporters have pinned their hopes of reversing President-elect Joe Biden’s victory on a lawsuit filed by the Republican Texas attorney general that election-law specialists say has almost no chance of success."
@@ -476,22 +508,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
-    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
-    publishedDateTime: 2020-12-03T16:59:00Z
-    webUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag"
-    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump backers in Sacramento say counter-protesters damaged their vehicles: report"
     excerpt: "Some supporters of President Trump who gathered for a rally outside the  Statehouse on Saturday say they found their vehicles damaged when they tried to leave the event, according to a report."
     publishedDateTime: 2020-12-06T09:52:00Z
@@ -523,20 +539,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347639088808.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Donald Trump Is Not a Political Genius"
-    excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
-    publishedDateTime: 2020-12-05T13:23:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/05/donald_trump_is_not_a_political_genius_530753.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "BVoN7JG5/PQwTjPb8qihnqRoTwnxW5EksXRhJ1FIpF5m23be0rGfqeyxjsHb8CHjBhuEgeTEMMzIprEGsVOR9CkaBY2QiWkWdMplNqpZPly9ymnxfTOolF5W31SMthcirYYekPBPyLtFgQcrNwKdXD/+CYoFTn8k1q2kWBfs8CMPykyh3Lq0rm7bHvxg2zs6VwZVoNnu9MtKUMeaSDdqmjtu38pQ4FaWkJTX2nyjpFN9Zdg3FGW9L2NRj/g8CtVFf/TWSx6E1Soj96dFohkBn1/uw5VG7a3SW0ZnrDi7iua9b4iYk/+kz1nTahTwA0ID4LAZYIFu+gtulQtYW5HzkNM8mQaIyQiMsMrBeEcIdKY=;vws7f1WXEPgMkiOf5+QSHw=="

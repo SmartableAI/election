@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
+    excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
+    publishedDateTime: 2020-12-29T16:02:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to deliver remarks on foreign policy and national security Monday"
     excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
     publishedDateTime: 2020-12-28T17:04:04Z
@@ -159,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House"
-    excerpt: "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n"
-    publishedDateTime: 2020-11-07T01:21:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
     excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
     publishedDateTime: 2020-12-31T16:16:47Z
@@ -238,6 +238,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124125657-sen-kelly-loeffler-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden to attack Trump admin for slow pace of Covid vaccinations"
+    excerpt: "President-elect Joe Biden plans to hit the Trump administration on Tuesday for \"falling short\" on the pace of vaccinating Americans against Covid-19,a transition official said, previewing the remarks."
+    publishedDateTime: 2020-12-29T21:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-talk-covid-harris-gets-vaccine-n1252464"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252464"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252464"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438481/201229-joe-biden-kamala-harris-jm-0714_27a62254dfa9e7114e055c1b65c53e0e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump hotel looks to cash in on Biden inauguration"
+    excerpt: "As Trump allies plot a last-ditch effort on Jan. 6 to try to prevent Joe Biden from being formally selected as the next president, at least one part of Trump-world is tacitly acknowledging that there won’t be a second Trump term,"
+    publishedDateTime: 2020-12-31T22:05:00Z
+    webUrl: "https://www.politico.com/news/2020/12/31/trump-hotel-biden-inauguration-453168"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/31/trump-hotel-biden-inauguration-453168"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/31/trump-hotel-biden-inauguration-453168"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/fd/ae/ad27dd274fedbf0fc6d0e48dc1a4/180912-trump-international-hotel-getty-773.jpg"
+        width: 5282
+        height: 3523
         isCached: true
   - title: "Biden will travel to Georgia to boost Ossoff and Warnock in runoff elections"
     excerpt: "Biden's trip to Atlanta on Tuesday will be his first campaign event since he secured the presidency last month."
@@ -334,6 +366,20 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_blackgeorgiavoters_pt_200104_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden's health agenda runs through Georgia"
+    excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
+    publishedDateTime: 2021-01-05T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/01/05/bidens-health-agenda-runs-through-georgia-792581"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "3XxPdhGOiuzHG9EddJyd/UdvIDjVn4G8AuUYZrQ+Y9uvpHaNlQhXs7BlBWFRE7Sf09KsX6D9ipLFK03tCyhwsW2otd0ngHMPOM8jLMT4NkxtiifQtpJPmI410MCJYfLQSrSIQniWBVJ6/FE01grialUEEhGweF3clA+vyjSS3n5CBVz+OA26wh/7E0VtxSqmPQq+0fwXdcei25BrkBKW/kSwm0mTwYntrpmPyVx4MYjEXHGIFUfdipnOkOgu25Szs8VuWwnSC1p2ZXOKWOxCBmVY1dv/kPUNk2dv0eH2bZxui00Lj5Iz1uKgv8kQertywoCeCkebkyCKOAELf1z6LusqJgg0aDqSf7n9CV99FcE=;tVIvRK9VPt7mmE0cfThbaQ=="

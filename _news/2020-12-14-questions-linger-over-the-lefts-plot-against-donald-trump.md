@@ -32,67 +32,195 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tells 'Fox & Friends' election challenges 'not over' ahead of Electoral College vote"
-    excerpt: "President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results, despite the Electoral College getting set to cast their votes on Monday."
-    publishedDateTime: 2020-12-13T12:48:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cd_49uR8pnc/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp"
+  - title: "Live Updates: Trump campaign files appeal to Supreme Court over Penn. election"
+    excerpt: "The president’s campaign alleged in a statement that the Pennsylvania State Supreme Court’s changing of the law was a violation of Article II of the U.S. Constitution and Bush v. Gore. "
+    publishedDateTime: 2020-12-21T05:00:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WnV1JtmlOdY/live-updates-legal-12-21-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 180
+    quality: 186
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f51873-a71e-4406-b320-93b1475df477/eeb42936-4b53-460a-9c17-3c8ae93a81cf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump team continues legal fight as Electoral College 'safe harbor' deadline arrives"
-    excerpt: "Tuesday may be the \"safe harbor\" deadline that requires Congress to accept states' certified election results, but the Trump campaign legal team says they're going to keep fighting."
-    publishedDateTime: 2020-12-08T15:01:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5U6uVUnBbY/trump-safe-harbor-electoral-college-legal-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-safe-harbor-electoral-college-legal-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-safe-harbor-electoral-college-legal-fight.amp"
+  - title: "Trump campaign files lawsuit over New Mexico ballot drop boxes"
+    excerpt: "As New Mexico electors cast their votes on Monday, President Trump's campaign team filed a suit over the state's use of ballot drop boxes."
+    publishedDateTime: 2020-12-15T20:21:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jn8uE8tIPwM/trump-campaign-files-lawsuit-over-nm-drop-boxes"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-over-nm-drop-boxes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20330650216357.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350011448560.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
-    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
-    publishedDateTime: 2020-12-11T11:47:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
+  - title: "Trump campaign manager launching firm to work with outgoing president"
+    excerpt: "President Trump’s reelection campaign manager Bill Stepien is joining two other top members of Trump’s 2020 campaign team in setting up a political consulting firm that would likely work with the soon-to-be former president as he stays engaged in Republican Party politics."
+    publishedDateTime: 2020-12-22T16:05:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KTee3IG8pJ0/trump-campaign-manager-firm-work-with-outgoing-president"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-manager-firm-work-with-outgoing-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 151
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
-        width: 1024
-        height: 576
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "CNN's John Avlon compares Trump election challenge supporters to 'Confederates'"
-    excerpt: "CNN senior political analyst John Avlon compared President Trump and supporters of his ongoing efforts to challenge the results of the 2020 presidential election to \"Confederates\" in support of slavery."
-    publishedDateTime: 2020-12-10T02:19:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp"
+  - title: "Trump grants 15 pardons, 5 commutations"
+    excerpt: "President Trump issued full pardons to 15 individuals and commuted part or all of the sentences of an additional five people, the White House announced Tuesday."
+    publishedDateTime: 2020-12-23T00:18:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4X-ugqKI64/trump-grants-15-pardons-5-commutations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-15-pardons-5-commutations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 146
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0089e4b9-29c4-49b8-8005-562d83395371/4dee8747-4a34-412f-8c8e-6c396e994b06/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20353841936137.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "McConnell: Pelosi, Schumer could have had COVID aid bill months ago, but wanted to damage Trump campaign"
+    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., praised the coronavirus stimulus bill that's poised to pass Congress Monday after months of stalled negotiations, but added that Democrats could have had the same deal months ago had they not prioritized damaging President Trump's reelection hopes."
+    publishedDateTime: 2020-12-21T20:26:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3-beU90FwlY/mcconnell-coronavirus-aid-bill-pelosi-schumer-election"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-coronavirus-aid-bill-pelosi-schumer-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-coronavirus-aid-bill-pelosi-schumer-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4075735f-49a6-4cdc-891c-07958e64eca1/f8e5afac-7cf8-49c2-8e7a-12643376b67d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
+    excerpt: "Follow for the latest updates on the D.C. protests."
+    publishedDateTime: 2020-12-13T04:57:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-pro-anti-trump-protests-converge-washington-d-c-12-13-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae7bb54-eeb3-4e89-b4b0-ad66c6ffb1ef/9f4c5af7-1da5-482c-bc85-23b80ae8e810/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign asks SCOTUS to reverse decisions by Pennsylvania high court"
+    excerpt: "The Trump campaign on Sunday asked the US Supreme Court to reverse three decisions by the Pennsylvania Supreme Court, claiming there is a “likelihood” they violate the Constitution and"
+    publishedDateTime: 2020-12-20T21:47:00Z
+    webUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/"
+    ampWebUrl: "https://nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/20/trump-campaign-asks-scotus-to-reverse-decision-by-pennsylvania-court/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-scotus-pa.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Organization Ordered to Turn Over Documents to New York Attorney General"
+    excerpt: "A New York judge ordered the Trump Organization to hand over documents related to its sprawling Westchester County estate to the state attorney general’s office as it pursues a civil fraud investigation into the president and his company."
+    publishedDateTime: 2020-12-16T04:35:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-ordered-to-turn-over-documents-to-new-york-attorney-general-11608073387"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-273956/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'"
+    excerpt: "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation."
+    publishedDateTime: 2020-12-25T17:14:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-251063/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Supreme Court Dismisses Challenge to Trump Plan to Exclude Illegal Immigrants From Congressional Reapportionment"
+    excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
+    publishedDateTime: 2020-12-18T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-challenge-to-trump-plan-to-exclude-illegal-immigrants-from-congressional-reapportionment-11608305125"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 114
+    images:
+      - url: "https://images.wsj.net/im-251063?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Covid-19 Live Updates: U.S. Hospitalizations Hit New Record; Trump to Tighten Rules on U.K. Air Arrivals"
+    excerpt: "The number of newly reported Covid-19 infections and deaths in the U.S. fell Thursday from the day earlier, but hospitalizations hit another record."
+    publishedDateTime: 2020-12-25T08:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/covid-2020-12-25"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 98
+    images:
+      - url: "https://images.wsj.net/im-278216/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "OecgFyw1oRPtUoiUbsHQITp5d8bMXWpAIN60ngGI1NJoIdrLFu6b5cNdYxrF3bD0ugEr6PerPvtos7zyH1nQAAHdrCBMtlkWYiM8StxAmcUR1rNXxaGr8ZC5UDDqrwlRy031yOkCfRf85AqqPgA/dmniuepX5WbYqSw5di124haf4ad8dO8feL8kPSFD4KZZE+jeooEPFr9FMa1PeODcqZLB9tMDtV3/y8K+RKKcTqJS+i1sXSobk3G6iwCCGO1sSkZ3jNncRpkiazcvyT4jzrOzOI8HfOpYpJczA/oOa8HCwhsHat6nkzmzfZgn6c29Fmq9zazhe7LPt0y4orUvTVmXIn6Ylp/ZHFKcYaR/s+iSHu/JcyNZcJpwYuIRPi0xJUQs9JvjIBEd6HD3UjOs6ZzVcZFFlMMmnDBiLMkJKVRk8HQxlnhFGqz4yeaWFmP9mlIfSkfXHN4a3rNT9UhrlwCkp1y+I4Nf45CYSjc2xjKJbroV9//CACZ3dvaHe5pNHgLlQSHN4SJc8B4f6kMxJQ==;wy6kAmQCbOd/KHCNKBnvzw=="

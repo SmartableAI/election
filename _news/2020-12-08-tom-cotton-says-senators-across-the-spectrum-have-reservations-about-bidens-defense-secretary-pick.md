@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to name his defense secretary choice on Friday"
-    excerpt: "Biden to name his Defense secretary choice on Friday"
-    publishedDateTime: 2020-12-07T22:30:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ww_ZOH_z2Y/biden-to-name-his-defense-secretary-choice-on-friday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
     excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration. "
     publishedDateTime: 2020-12-09T17:51:31Z
@@ -63,51 +47,51 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden to nominate retired four-star Army general Lloyd Austin for secretary of defense"
-    excerpt: "If confirmed by the Senate, Austin would be the first Black leader of the Pentagon."
-    publishedDateTime: 2020-12-08T01:24:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQSpNxVlQ9Y/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
+  - title: "US-China tensions worsen with Hunter Biden, Eric Swalwell revelations: GOP lawmakers"
+    excerpt: "The clouds over Hunter Biden, whose business dealings in China were investigated by two GOP committee chairs in the Senate, and Rep. Eric Swalwell, D-Calif., raise fresh questions about how the United States will confront one of its top strategic foes in 2021 and beyond."
+    publishedDateTime: 2020-12-11T17:51:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fC0ZKskQ6lE/china-hunter-biden-eric-swalwell-beirelationship-beijing"
+    ampWebUrl: "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85337bb5-204b-463b-9f43-f1f0206fb7ef/77ef1044-1d52-4fd1-9090-96ae52c81ed9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Obama-biden-hunter-SAI-sharpen.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden expected to name Marcia Fudge as HUD secretary, but she comes with a controversial past"
-    excerpt: "Fudge has served in the House for Ohio’s 11th Congressional District since 2008."
-    publishedDateTime: 2020-12-08T23:33:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBTgOBmdppI/biden-marcia-fudge-hud-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
+  - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
+    excerpt: "Rep. Eric Swalwell, D-Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
+    publishedDateTime: 2020-12-09T01:29:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pN2xhiSbIRU/eric-swalwell-chinese-spy-influx-of-russians"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Susan Rice tapped to lead Biden's Domestic Policy Council, Denis McDonough picked for VA secretary"
-    excerpt: "President-elect Joe Biden announced Thursday that he has selected former Obama adviser and envoy Susan Rice to lead the White House Domestic Policy Council."
-    publishedDateTime: 2020-12-10T15:47:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LszaglA27Dg/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
+  - title: "Hunter Biden requested keys for new 'office mates' Joe Biden, Chinese 'emissary' to CEFC chairman, emails show"
+    excerpt: "Hunter Biden requested in 2017 that keys be made for his new \"office mates,\" listing his father, President-elect Joe Biden, Jill Biden and his uncle, Jim Biden, for space he planned to share with an \"emissary\" for a chairman of a Chinese energy company, according to an email obtained by Fox News. "
+    publishedDateTime: 2020-12-12T15:34:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/azy4ZwN7zyM/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-requested-keys-new-office-mates-joe-biden-chinese-emissary-cefc-chairman.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -127,21 +111,53 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Defense Secretary pick at helm when team accused of ‘watering down’ ISIS intel"
-    excerpt: "President-elect Joe Biden’s choice for secretary of defense, retired Gen. Lloyd Austin, could make history as the first Black man to serve in the position, but getting his appointment through Congress could be an uphill battle."
-    publishedDateTime: 2020-12-10T01:58:00Z
-    webUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
+  - title: "US-China tensions worsen with Hunter Biden, Eric Swalwell revelations: GOP lawmakers"
+    excerpt: "The clouds over Hunter Biden, whose business dealings in China were investigated by two GOP committee chairs in the Senate, and Rep. Eric Swalwell, D-Calif., raise fresh questions about how the United States will confront one of its top strategic foes in 2021 and beyond."
+    publishedDateTime: 2020-12-11T18:06:00Z
+    webUrl: "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing"
+    ampWebUrl: "https://www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-hunter-biden-eric-swalwell-beirelationship-beijing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Obama-biden-hunter-SAI-sharpen.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "KT McFarland: There is 'significant evidence' Hunter Biden has been 'compromised by Chinese'"
+    excerpt: "Former Deputy National Security Adviser K.T. McFarland echoed calls Wednesday from top Republican lawmakers urging President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-17T02:33:00Z
+    webUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government"
+    ampWebUrl: "https://www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcfarland-significant-evidence-hunter-biden-chinese-government.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f108777-fca7-4218-961c-c6c4cda89d2d/6f3bdca7-7016-446a-b879-59f4abb555f7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
+    excerpt: "Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
+    publishedDateTime: 2020-12-10T11:19:00Z
+    webUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "GfyGwSnkiKz2cWZF3Bl3qr8NA2wZ97tEp9SyS6GvmhVnBC3r5W+7UeJpWdP/NyavjkW+a4RU8b/XkBA2SaaTUpPkgiCi/TKYaUNYOizfLTsm4xHm23TbqzCk/V/9EOP1v7TGAynEQImWgX5BB6VFxkNXvh+8HhdtE+8Prdf1E/+lb2iAPCNKLYTXmfG/CYQxbopIc/fvOAoFkoTgbudkA3Jz7SRtxhhzgAatMW2PHfTVMp52DggMEUvT2B74gKT6/Vs9HdayqtAj9PcDI58gHx72d8lLH1GzZ4KDiFu9KPGvsPXq1TbupqKJqIfONnJqu5tRWWanZOa77Wu6SoKEjeUNxS37PyoUibpRki6vRv4=;CQnu91+SHF0Xxokn0duk+g=="

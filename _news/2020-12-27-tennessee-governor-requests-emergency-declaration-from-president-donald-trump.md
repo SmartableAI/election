@@ -32,21 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump versus the truth: The most outrageous falsehoods of his presidency"
-    excerpt: "I have never seen a president in American history who has lied so continuously and so outrageously as Donald Trump, period,” presidential historian Michael Beschloss said."
-    publishedDateTime: 2020-12-31T09:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252580"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252580"
+  - title: "Trump extends immigration restrictions, citing pandemic's impact on labor market "
+    excerpt: "President Donald Trump extended certain restrictions on legal immigration and on visas that allow immigrants to temporarily work in the United States on Thursday, just hours before those restrictions were set to lapse. Trump extended the restrictions through March 31, two months after he will leave office.\n"
+    publishedDateTime: 2021-01-01T00:38:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rvAwU8yfuBQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/trump-immigration-restrictions-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231163449-trump-final-days-early-white-house-return-election-results-collins-dnt-lead-vpx-00003317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration to block palm oil from second company in Malaysia over forced labor findings"
+    excerpt: "The Trump administration will halt imports of palm oil from Malaysia over findings of forced labor abuses at the plantations of one of the country's top producers of the product, which is found in many everyday items.\n    \n"
+    publishedDateTime: 2020-12-30T12:30:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4S9T1G5AKhA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/palm-oil-second-company-malaysia-forced-labor/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930174806-palm-oil-malaysia-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
+    excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."
+    publishedDateTime: 2021-01-05T05:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/we-won-trump-spreads-misinformation-about-2020-election-during-final-n1252802"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252802"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252802"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3439555/210104-georgia-donald-trump-kelly-loeffler-rally-ac-1159p_905398a7de4c07e8af6ea1193f82fcf5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump opens up federal dollars for private school vouchers amid pandemic"
+    excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."
+    publishedDateTime: 2020-12-29T01:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 134
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_52/3437553/201222-trump-biggest-whoppers-main-cover-cs_03ea1ca899b5c3c15b942562ca290873.jpg"
-        width: 2500
-        height: 1408
+      - url: "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "jpbEyfgelm61ECX2RCdoSW1rUa6W60bA29j+QZWFNhnL+OhLlIlV7B9ft3jGs4lQFAdcYvLhX4XOTtlmc5rOL2lEkKL7CsgYT8QWcDHFmGZku6rUFkQgHJ2dtRol5rBU6ovCyF0gl+44nZ+t+yrRRVTXT6He66yJqnU0vL/ttveDh3JSdLEV+kGq/Sky8B4IiVFYOzgys+mTzlCDrXnJ27IjKyrXUfhKX2AtnCE8oRRjtM9YjdqnhCjolNsTg4ddMwriKjHTrszY1CoO6uDaU5AxXUHJxxypEke/H/uUnre/Aie7+hrZk0/TM+ho5e4eAhhk53zCRttcI05IGRlifVPICgbGIKW7ByWdAgo8yEyakftuNXPglN2IXWGZhW2x2qwhyg85MSr3lXgRJFdrq3cAFfH+8ecbdxJ2kUVxIChhUSvJwBw0VweLNJexLEBhs17fe2dpbgHx8ykk+uUM96PYqrztq1tHA5Y5+RUNpL7ix3uD5ox3E/SOlDN/8lb71wgVp8resZiUHCca7kgPLA==;NPTx8hOl31G5x7Nj4lx3YQ=="

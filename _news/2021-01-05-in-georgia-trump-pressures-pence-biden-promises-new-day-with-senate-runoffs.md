@@ -2,11 +2,11 @@
 category: news
 title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
 excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
-publishedDateTime: 2021-01-05T12:33:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
-webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2992MO"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2992MO"
+publishedDateTime: 2021-01-05T09:53:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
+webUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN29A0D0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A0D0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A0D0"
 type: article
 quality: 151
 heat: -1
@@ -44,22 +44,6 @@ related:
     quality: 155
     images:
       - url: "https://s.abcnews.com/images/Politics/mike-pence-01-gty-jc-210104_1609778952307_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Georgia elections official urges Trump to rein in supporters"
-    excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-    publishedDateTime: 2020-12-02T05:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -351,22 +335,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "At Georgia rally, Trump spouts election falsehoods, amplifies old grievances"
-    excerpt: "Trump falsely proclaimed himself the victor of the presidential race at Saturday's rally, his first since losing the election to Joe Biden."
-    publishedDateTime: 2020-12-06T02:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QACYZSRXNAI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Top Georgia election official says White House pushed him to take Trump call"
     excerpt: "Georgia's top election official said on Monday that fellow Republican President Donald Trump had pushed him to take an \"inappropriate\" call in which he pressured the state to overturn his November presidential election defeat there."
     publishedDateTime: 2021-01-05T04:26:00Z
@@ -381,6 +349,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546585876&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0314P"
         width: 904
+        height: 545
+        isCached: true
+  - title: "With U.S. Senate at stake and Trump raging, Georgia votes in runoff elections"
+    excerpt: "Control of the U.S. Senate - and with it the ability to block or advance President-elect Joe Biden's agenda - is on the line in a pair of runoff elections in Georgia on Tuesday after a dizzying campaign that shattered spending and early turnout records."
+    publishedDateTime: 2021-01-05T16:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia/with-u-s-senate-at-stake-and-trump-raging-georgia-votes-in-runoff-elections-idUSKBN29A13V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A13V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A13V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546680592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0411K"
+        width: 817
         height: 545
         isCached: true
   - title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
@@ -507,22 +491,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
-    excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
-    publishedDateTime: 2020-11-24T23:52:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2842XI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2842XI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
     excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
     publishedDateTime: 2020-12-30T14:52:00Z
@@ -587,21 +555,21 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Trump team requests official recount of Georgia presidential vote"
-    excerpt: "President Trump's legal team says his campaign has requested an official recount of votes in the Georgia presidential race using safeguards including signature matching."
-    publishedDateTime: 2020-11-22T04:34:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+  - title: "Trump-Biden transition live updates: Trump, Biden to hold dueling rallies on eve of Georgia runoffs"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 16 days. Lawmakers are responding Monday to an explosive phone call between President Trump and Brad Raffensperger in which Trump,"
+    publishedDateTime: 2021-01-04T16:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 126
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
-        width: 320
-        height: 209
+      - url: "https://s.abcnews.com/images/Politics/president-trump-ap-jef-210103_1609706538723_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 901
         isCached: true
   - title: "Trump calls for Georgia Gov. Brian Kemp, a fellow Republican, to resign"
     excerpt: "The president’s demand stems from the governor’s refusal to embrace Trump’s baseless claims of widespread election fraud."
@@ -826,6 +794,54 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV"
         width: 817
         height: 545
+        isCached: true
+  - title: "Big Questions: Georgia tests battleground status, Trump era"
+    excerpt: "The two Georgia runoffs that will determine control of the Senate have kept President Donald Trump and President-elect Joe Biden in campaign mode and run up a half-billion-dollar tab in the process"
+    publishedDateTime: 2021-01-05T16:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/big-questions-georgia-tests-battleground-status-trump-era/2021/01/05/123c9248-4f72-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/big-questions-georgia-tests-battleground-status-trump-era/2021/01/05/123c9248-4f72-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/big-questions-georgia-tests-battleground-status-trump-era/2021/01/05/123c9248-4f72-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Newsmax, OAN vie for Trump loyalists as Georgia votes"
+    excerpt: "As candidates face off in Georgia on Tuesday in contests that will determine the balance of power in the U.S. Senate, another race is underway between cable news networks catering to conservative audiences."
+    publishedDateTime: 2021-01-05T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-conservative-med-idUSKBN29A147"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A147"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A147"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546649664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH040K6"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Schwarzenegger: Trump call to Georgia official 'un-American'"
+    excerpt: "Arnold Schwarzenegger is blasting President Trump for his call to Georgia Secretary of State Brad Raffensperger, dubbing the commander in chief's pressure campaign to \"recaluculate\" the election results there \"un-American bullshit."
+    publishedDateTime: 2021-01-05T16:26:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532686-schwarzenegger-trump-call-to-georgia-official-un-american"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/532686-schwarzenegger-trump-call-to-georgia-official-un-american?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/532686-schwarzenegger-trump-call-to-georgia-official-un-american?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schwarzeneggerarnold_032619gn7_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump urges Georgia governor to call special session of state legislature"
     excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."
@@ -1083,6 +1099,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A GOP group allied to Mike Pence spent $25,000 on Fox News ads to show Trump that his vice president is loyal"
+    excerpt: "The Club for Growth paid for the ads to be aired in Palm Beach, Florida, last week while President Trump was in Mar-a-Lago, Bloomberg reported."
+    publishedDateTime: 2021-01-05T15:42:00Z
+    webUrl: "https://www.businessinsider.com/pence-ally-buys-fox-news-ads-show-loyalty-to-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-ally-buys-fox-news-ads-show-loyalty-to-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ally-buys-fox-news-ads-show-loyalty-to-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5ff4732c3793140019e28580?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Is Donald Trump Mad at Mike Lee? President Scolds Senator at Georgia Rally"
     excerpt: "Lee helped to lead the president's defense in his impeachment trial but has refused to oppose ratifying Biden's win."
     publishedDateTime: 2021-01-05T08:42:00Z
@@ -1099,42 +1131,6 @@ related:
         width: 3772
         height: 2573
         isCached: true
-  - title: "Georgia elections chief battles fellow Republicans, Trump"
-    excerpt: "Georgia's secretary of state is a man on an island, and the political flood is rising fast, as President Donald Trump and his allies vent their outrage at the fellow Republican and make unsupported claims that mismanagement and fraud tainted the state's presidential election."
-    publishedDateTime: 2020-11-17T16:56:00Z
-    webUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Trump makes false claims about election results at Georgia rally"
-    excerpt: "President Trump visited Georgia to campaign for two Republican Senate candidates, but used the rally to complain and repeat false claims about the presidential election. Chip Reid reports."
-    publishedDateTime: 2020-12-07T00:05:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-makes-false-claims-about-election-results-at-georgia-rally/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/06/48ff8c01-9b6e-402e-82be-f23532f545ad/thumbnail/1200x630/ae25ba5520ef4e579278b166a5617af3/1206-wn-reid-602626-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Georgia high court rejects latest Trump election appeal"
-    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
-    publishedDateTime: 2020-12-14T08:44:00Z
-    webUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "As Donald Trump Causes Chaos for Georgia GOP, Democrats Pull Away in Runoff Polls"
     excerpt: "Democratic Senate candidates Jon Ossoff and Raphael Warnock have pulled ahead of their Republican rivals in Georgia runoff polls, as President Donald Trump continued to cause difficulties for the GOP incumbents over the weekend."
     publishedDateTime: 2021-01-04T10:59:00Z
@@ -1459,6 +1455,22 @@ related:
     quality: 108
     images:
       - url: "https://i.insider.com/5ff0a420a18a450018cb6856?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump vows to campaign against Georgia Governor Brian Kemp over his lukewarm support of the president's baseless election fraud claims"
+    excerpt: "\"I'm going to be here in a year and a half and I'm going to be campaigning against your governor and your crazy secretary of state,\" Trump promised."
+    publishedDateTime: 2021-01-05T16:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-to-campaign-against-georgia-governor-and-secretary-of-state-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-to-campaign-against-georgia-governor-and-secretary-of-state-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-campaign-against-georgia-governor-and-secretary-of-state-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5ff47d2a6056b60018721eeb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -2039,6 +2051,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "3Bzmltet7m7H0fzNjJ2z3n3W8ig71/r5W9fVoGnt7bkR9c3TCBsqdN4+xfEa0ofl9zeYi39D6vSmBnT3ZGUgXRUl67c7dFJNH/zqAgJxUTc/5f+AJ/bEA9Pi3xtZjOMkzGSJdblKPH9OjARWWFDpaMGzGEpAFzklmwjCf/+S3uqdNTLBOCvVYgAgcYRwcBO6waDUEvUxDDi6JEu3XiY8pLhBIMcSsIYnoxxo3xBh2uBctxCHw/LSicII+hH9CXpGcIy6oiZJKuSHitUhY2o1ydlQIL7eSskFPeOXDvHg7Zd7PpJmbiiWPecr5bF07m80AbiHt7h09haVesGH2ebpRJvUDHYxH/RFpQWlByX59Y0=;p6L9q7b1o5Dn2JGvvnCyuA=="
+secured: "3tFecyW9P1j9GvAmI3DSpKrzoHP+/yeumWHSQHgAIVGsG5sFiiM8tDkqKnyqfdG8So0S2mTpxCCWcdo6BPIX3WRBXRFFajh17U2uLEDzg0vp4Jxmj21zbCZZ65w3oQ2t7JDRFJ9CiXOj8t0xqLqtN4ZI04GxPpUXZOyyin0n7p9DOlu8Rp2BhXPjPy15fW1YNB8kQhxLDbTsBf1gbai9SyXI1nHihTODp6axOwpRBLDYOCpjJ+KmVtWuBY1Qe5vSpWVgzIn4UnKR1Zp8L+9V7J8EEMb14bGSN5mvh8BACDEI/hNNJkG+atQ6wyb639OepTVfNEamAS2gyTTm909fvLWcVDs07LR7All8QBcKRcI=;HPzjvbfjdELDlxeO4BpKyg=="
 ---
 

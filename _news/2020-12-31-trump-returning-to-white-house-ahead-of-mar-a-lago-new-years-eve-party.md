@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-returning-to-white-house-ahea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returning-to-white-house-ahead-of-mar-a-lago-new-years-eve-party.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 255
+published: true
 
 provider:
   name: Fox News
@@ -31,70 +31,63 @@ images:
     isCached: true
 
 related:
-  - title: "Senate moves toward override of Trump's NDAA veto"
-    excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
-    publishedDateTime: 2020-12-30T23:54:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OooZKJf0iL0/senate-override-trumps-ndaa-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
+  - title: "Trump the clear Republican 'front-runner' in next White House race"
+    excerpt: "There's more than three years to go until the next Iowa caucuses and New Hampshire presidential primary, but what some considered the first cattle call in the 2024 White House race takes place next week."
+    publishedDateTime: 2021-01-02T11:53:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZB1WUo0VtA/trump-clear-republican-frontrunner-2024-white-house-race"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17b137e3-5326-458c-8dac-2b17a4b1df85/6b0d5c98-c000-475d-8802-ecec566d7d77/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:40:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
+  - title: "Trump returning to White House early from holiday vacation at Mar-a-Lago"
+    excerpt: "Lago club short and will return to the White House Thursday morning, the administration announced. The White House did not provide any"
+    publishedDateTime: 2020-12-31T12:43:00Z
+    webUrl: "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/"
+    ampWebUrl: "https://nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/31/trump-returning-to-white-house-early-from-mar-a-lago/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
+      name: New York Post
+      domain: nypost.com
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-14.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Senate moves toward override of Trump's NDAA veto"
-    excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
-    publishedDateTime: 2020-12-31T00:09:00Z
-    webUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-override-trumps-ndaa-bill-veto.amp"
+  - title: "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash"
+    excerpt: "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash."
+    publishedDateTime: 2021-01-02T19:34:00Z
+    webUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/"
+    ampWebUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
+      name: New York Post
+      domain: nypost.com
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17b137e3-5326-458c-8dac-2b17a4b1df85/6b0d5c98-c000-475d-8802-ecec566d7d77/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
-    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
-    publishedDateTime: 2020-12-29T16:54:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
+  - title: "Trump's Stuning Achievement in Middle East"
+    excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"
+    publishedDateTime: 2020-12-30T12:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/30/trumps_stuning_achievement_in_middle_east_532387.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "LOKjOuMdXKYCaRZ448HMIhVy5UwIr6cQ3TexVbbwLvvNjKNoXSlmwIC+4/vI6Jkc9lKGBYAfXiODL09DQ2GyogvNVJpn1DFZeMbaA0tvxTJP2SqRiLLdYAwJctvBZmr9fmiPDqGd4WeBYZLTRdTcDe7HfdqYZZiHui4uvH1YkrYYRcBzLhV4f81Kz97G7KD6ysik969wxPgL2nrrBv3WPJLphiumyuyQkvmcbvR8iwlEAHgAroPtWl1YKdeDrprw7km0CANgkkqSfGk/RtlBJX3ADggQ5YmixaGKwXB75g6ue5l8gO8oZClhLW8VeOHKBf+Ch1reGtMhJssGIQhOEutIZxEqUJwF3dbACL4TLOw=;lE9e0d1Ny9Tcfp96VGDaOg=="
 ---

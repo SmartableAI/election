@@ -63,35 +63,35 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
-    excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
-    publishedDateTime: 2020-12-22T00:16:00Z
-    webUrl: "https://www.cbsnews.com/news/barr-russia-hack-hunter-biden-election-special-counsel/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
+    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
+    publishedDateTime: 2020-12-20T17:16:00Z
+    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/eb038982-0b90-4344-b964-18786880b5e8/thumbnail/1200x630/f4a166ec88a22235f15565c5b36488b7/gettyimages-1230248436.jpg"
+      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Electoral College makes it official: Biden won"
-    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
-    publishedDateTime: 2020-12-15T05:31:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/electoral-college-makes-official-biden-won/3901023001/"
+  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
+    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
+    publishedDateTime: 2020-12-21T18:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden Presidency Will Drag Down Stock Markets, Investors Predict"
     excerpt: "In general, some of Biden’s economic policies might not be as conducive to growth as the tax-friendly agenda of his predecessor."

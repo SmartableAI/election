@@ -47,22 +47,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "President Trump pardons ex-national security adviser Michael Flynn; ends three-year legal odyssey"
-    excerpt: "Michael Flynn pleaded guilty three years ago to lying about his conversations with Russian Ambassador Sergey Kislyak."
-    publishedDateTime: 2020-11-27T07:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/25/michael-flynn-trump-announces-pardon-former-national-security-advisor/6419985002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6419985002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6419985002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Michael Anton’s ‘Flight 93 Election’ Essay Defined the Trump Era"
     excerpt: "Michael Anton wrote an essay for the right-wing Claremont Institute, “The Flight 93 Election,” making the case for Donald Trump’s election as a necessary gamble to stave off the destruction of conservatism."
     publishedDateTime: 2020-12-11T17:00:00Z

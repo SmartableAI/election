@@ -95,38 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "World leaders congratulate Biden as Trump refuses to concede"
-    excerpt: "Leaders around the world have offered their congratulations to President-elect Joe Biden even as President Donald Trump refuses to concede his election loss.\n    \n"
-    publishedDateTime: 2020-11-11T18:44:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XEu5j7HYynU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/world-leaders-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/world-leaders-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109141708-joe-biden-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Stark contrast between Biden and Trump's words"
-    excerpt: "CNN's John Avlon breaks down President Trump's unwillingness to accept the results of the 2020 election.\n    \n"
-    publishedDateTime: 2020-11-26T01:39:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n3QdaZ7A8og/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/26/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/26/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125203719-avlon-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
     excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect, according to people familiar with the matter.\n    \n"
     publishedDateTime: 2020-12-16T19:44:45Z
@@ -188,22 +156,6 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214170919-alex-azar-1214-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
-    excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
-    publishedDateTime: 2020-11-17T19:35:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RTCDyXlNH70/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170816201413-paul-mitchell-eb-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -572,20 +524,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092448-02-joe-biden-health-team-1208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration will attempt to box Biden administration in on China policies"
-    excerpt: "The Trump administration plans to continue carrying out its hardline China policies in the next two months before a Biden administration takes over, administration officials tell CNN.\n    \n"
-    publishedDateTime: 2020-11-16T04:32:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-ndNUWn-hY/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108102810-white-house-morning-1108-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

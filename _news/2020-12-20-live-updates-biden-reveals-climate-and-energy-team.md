@@ -31,261 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "ELECTION 2020 LIVE UPDATES: Biden to meet with Pelosi, Schumer"
-    excerpt: "Follow for the latest developments in the 2020 election."
-    publishedDateTime: 2020-11-20T12:31:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HT_EivXLUSM/live-updates-elections-2020-nov-20-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
+  - title: "Live Updates: Arizona, Wisconsin certify election results for Biden"
+    excerpt: "President Trump suffered another setback in his push to overturn his defeat in the presidential election, as Arizona on Monday certified President-elect Joe Biden's victory in the state."
+    publishedDateTime: 2020-12-01T03:48:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23aMvB4EcFg/live-updates-election-12-1-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f052cb7c-eb11-4b09-a6d3-03469e7b0739/92fc3b81-6048-4b27-adfe-2dbea62e35ec/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3212f6e9-d407-4a26-afce-c45958a41c08/58384915-7131-4732-88d5-2bd8ef6d9eac/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden appoints two former lobbyists to senior staff"
-    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
-    publishedDateTime: 2020-11-18T00:19:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BzjWSVcWpCk/biden-two-former-lobbyists-senior-staff"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+  - title: "LIVE UPDATES: Trump, Georgia governor clash over election results"
+    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
+    publishedDateTime: 2020-12-06T05:47:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/es-q1G6XQKA/live-updates-trump-georgia-governor-clash-election-12-6-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/173a5348-d54c-421c-98b5-a78d78786523/a1dd487d-39a4-4368-9cae-e408837c1c58/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump refuses to say he has confidence in Barr"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-12-04T05:30:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yeYKdJ8JQyo/live-updates-trump-refuses-to-say-he-has-confidence-in-barr"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/124ffac8-ca25-4803-bc95-b57a6754174c/45640ca8-73b0-4813-915b-5189d0c9bf46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
-    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task."
-    publishedDateTime: 2020-11-18T17:27:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
+  - title: "Biden HHS pick sued nuns over contraception mandate"
+    excerpt: "President-elect Biden has chosen a secretary of Health and Human Services who sued to block a policy that would have exempted nuns from Obamacare's contraception mandate, provoking even more scrutiny over how Biden's Catholic faith influences his political agenda."
+    publishedDateTime: 2020-12-07T21:06:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fohoO2PHXFc/biden-hhs-pick-nuns-contraception-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden tells Pelosi and Schumer ‘mi casa, you casa’"
-    excerpt: "President-elect Joe Biden is urging Congress to quickly pass a COVID relief amid a new surge in the coronavirus pandemic, according to a top Biden transition official."
-    publishedDateTime: 2020-11-21T00:13:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yYitcmc6D5Q/biden-tells-pelosi-and-schumer-mi-casa-you-casa"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp"
+  - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
+    excerpt: "Follow for the latest updates on the 2020 election"
+    publishedDateTime: 2020-12-05T07:00:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBPbIvg9W5M/live-updates-biden-americans-masks-vaccine-12-5-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump considering dramatic White House departure amid legal fight"
+    excerpt: "Trump said last month that he would leave office if the Electoral College votes for President-elect Joe Biden"
+    publishedDateTime: 2020-12-07T03:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/So_fEGG0sno/live-updates-legal-12-7-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Georgia secretary of state to recertify results confirming Biden win after third count"
+    excerpt: "Georgia Secretary of State Brad Raffensperger says his office will recertify the presidential election results on Monday, following a second recount that once again upheld President-elect Joe Biden's victory in the state."
+    publishedDateTime: 2020-12-07T17:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PymTRoLBCU/georgia-election-recertification-biden-win-third-count"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Biden to receive first presidential daily briefing"
-    excerpt: "Follow for the latest updates on the 2020 elections."
-    publishedDateTime: 2020-11-30T04:50:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ixx6PQIJ67M/live-updates-biden-to-receive-first-presidential-daily-briefing"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-to-receive-first-presidential-daily-briefing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-to-receive-first-presidential-daily-briefing.amp"
+  - title: "Democratic Gov. Gretchen Whitmer to serve as co-chair of President-elect Joe Biden's inauguration"
+    excerpt: "Michigan Gov. Gretchen Whitmer will serve as co-chair for President-elect Joe Biden’s inauguration next month. "
+    publishedDateTime: 2020-12-07T20:35:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/roZTFUpA4wU/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57eef4cf-e3b7-4faa-9e42-64adf7fa2b16/53ed1ef5-d63d-4971-9edf-cd960aca9139/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
-    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
-    publishedDateTime: 2020-12-26T13:14:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
-    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
-    publishedDateTime: 2020-11-16T19:35:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Mitt Romney accuses Trump of trying to 'subvert' will of the people"
-    excerpt: "Follow for the latest updates on President Trump's legal fight over the 2020 election."
-    publishedDateTime: 2020-11-20T08:04:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNfuWTGcMRs/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b07fbf9-f747-4615-8169-50562db72cdb/218acde3-1d04-49ce-9bb6-fa40ebdb3bba/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Wisconsin recounts begin in 2 Democratic counties at Trump request"
-    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
-    publishedDateTime: 2020-11-21T07:44:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2VVxPRK67w/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbccafed-16c9-4435-93de-562383fc0ea6/994a4418-3a2f-450b-b128-b2ae669c184d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden to likely visit Georgia, help Democrats in January Senate runoff"
-    excerpt: "President-elect Joe Biden will likely visit Georgia to boost campaign efforts for the two Democratic candidates in the January Senate runoff, according to his top aide."
-    publishedDateTime: 2020-11-23T04:13:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AEop6vFTOSw/live-updates-georgia-11-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dc6269f-e25b-4630-a5db-4d561bb72fe3/a14a44a4-3844-403a-95b3-9a09b13de519/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Graham warns Biden, Pelosi and Schumer would form 'trifecta from hell' if Democrats take Senate"
-    excerpt: "\"A lot's at stake\" in Georgia's dual Senate runoff elections on Jan. 5, Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told “Hannity” Monday night."
-    publishedDateTime: 2020-11-24T04:56:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OI-nOlU5p0M/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2069c0c-74dd-472f-8781-6653e4b602e0/b7bd73a7-fd86-42e4-8c9e-e7f2862265a2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden continues to receive softball questions from the press, which praises cabinet rollout"
-    excerpt: "Speaking briefly to reporters on Tuesday in Wilmington, Del., after he formally introduced members of his administration, Biden took a few questions. "
-    publishedDateTime: 2020-11-25T03:45:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bcKLY3YDc-I/live-updates-election-11-25-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cdab3d6-280e-470d-89fe-b97f1018972a/dad892cc-9f4f-489e-819c-6f963818fcd7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
-    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task. The Biden team tells Fox News that Biden’s stance on Iran is “spelled out ..."
-    publishedDateTime: 2020-11-19T02:07:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden appoints two former lobbyists to senior staff"
-    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
-    publishedDateTime: 2020-11-20T05:36:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "'Squad' members pressure Joe Biden to deliver on progressive agenda"
-    excerpt: "Well, my hope is that by shining the light on this it lights - sunlight is a great disinfectant and what we got to have is put pressure on these counties to make sure that they are actually taking the proper precautions with their absentee ballots,"
-    publishedDateTime: 2020-11-27T13:07:00Z
-    webUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda"
-    ampWebUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b2a1e1b-4d5a-452d-8186-0fc9f2dfe0a3/3cc6197e-65e3-4e86-bf57-402d92fc305e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Electoral College voting to select Biden as next president"
-    excerpt: "Members of the Electoral College are gathering in each state Monday to cast their votes for president and vice president of the United States."
-    publishedDateTime: 2020-12-14T16:45:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20338756509391.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Zizx81yw07OdlGAk/kYIUxrqWJC3dciFJctD9eIIj59RK5UEfEibIIDi419Do5YZVmvLoqdR4PaJ9AO9/mpLsrM75CK0EhEsc0k7vB7NxH8S3dQMWqcWGpFZPJfX5NRftQvemmAzGQoLRANaeog0025EjAZG3iXpdDz5aUDVln6iojDZTVfGUg/numoQwF2hrzq4hK8+M7Gv0x47pM6I3tkA7CI7PKF+wDa3YomlOxgiwBdVzq7cbtccr6t0iZ1XkaIAjYCcc8ItFfzXrKc0Cw9UtTGfjQmkPH7h11Se6blo0Ln7Yrr9QYc+dqIlio6e7G7xPnMZtMMIUJWO3vfpWLk3Ko+XmNMq/w+zh0HDgvo=;3u3IZdRO4JTaF/2HPvQ2Vg=="

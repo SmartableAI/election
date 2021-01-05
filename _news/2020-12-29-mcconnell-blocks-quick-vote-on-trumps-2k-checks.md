@@ -31,267 +31,308 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: McConnell backs Trump legal fight in election results"
-    excerpt: "Senate Majority Leader Mitch McConnell backed the Trump campaign’s legal challenge of voting results in several battleground states on Monday in his first public comments on the floor since Election Day."
-    publishedDateTime: 2020-11-10T03:26:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhVVfdnuOxE/live-updates-mcconnell-backs-trump-legal-fight-in-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mcconnell-backs-trump-legal-fight-in-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mcconnell-backs-trump-legal-fight-in-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c008d21d-d7d5-4ea0-b56d-07090579f222/1f5d28f4-cedf-4547-8612-5a42e025facd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump says 2020 election results still 'have a long way to go'"
-    excerpt: "President Trump is continuing his legal battles in several states to contest the results of the 2020 elections, saying Thursday there's still a \"long way to go.\" "
-    publishedDateTime: 2020-11-27T12:17:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpTHR07HUQ8/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd783d84-429d-4224-ae28-ab962ec0b926/432ddf66-7179-47a9-9b61-f0f6ca58146a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump campaign files appeal to Supreme Court over Penn. election"
-    excerpt: "The president’s campaign alleged in a statement that the Pennsylvania State Supreme Court’s changing of the law was a violation of Article II of the U.S. Constitution and Bush v. Gore. "
-    publishedDateTime: 2020-12-21T05:00:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WnV1JtmlOdY/live-updates-legal-12-21-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f51873-a71e-4406-b320-93b1475df477/eeb42936-4b53-460a-9c17-3c8ae93a81cf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
-    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
-    publishedDateTime: 2020-11-11T03:36:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FkIiNtD8eG8/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live updates: Trump 'frustrated' but still 'strong' after election, Geraldo says"
-    excerpt: "Fox News’ Geraldo Rivera says he has “no doubt” President Trump will run again in 2024 if his post-election lawsuits fail to alter the results of his 2020 run against Joe Biden."
-    publishedDateTime: 2020-11-14T05:57:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ndaTaOo_00Y/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f925242-9535-48dc-b0c7-99e1668d52e6/f314b605-adc5-4d79-91c0-c639bb1bb271/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump says he won election, repeats claims of voting irregularities"
-    excerpt: "President Trump called into an event held by Pennsylvania Republicans on Wednesday, where he reiterated his claim that he won the Nov. 3 election and reasserted claims of voting irregularities."
-    publishedDateTime: 2020-11-26T06:07:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rw50pE_dIaI/live-updates-election-11-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
-    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
-    publishedDateTime: 2020-11-16T03:38:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TduFhXP3qp8/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump refuses to say he has confidence in Barr"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-12-04T05:30:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yeYKdJ8JQyo/live-updates-trump-refuses-to-say-he-has-confidence-in-barr"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
+  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
+    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. "
+    publishedDateTime: 2020-12-25T17:38:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/124ffac8-ca25-4803-bc95-b57a6754174c/45640ca8-73b0-4813-915b-5189d0c9bf46/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump and GOP continue legal challenges to election results, ask media to investigate fraud allegations"
-    excerpt: "The Trump campaign and GOP leadership on Monday continued to raise allegations of voter fraud and misconduct at the polls last week as it marches forward with its legal challenges despite facing long odds given the Electoral College tally and recent court rulings that found no evidence of widespread"
-    publishedDateTime: 2020-11-09T23:26:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zo3njD7jJxU/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
-    excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
-    publishedDateTime: 2020-11-15T18:47:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeBQ4A35NWk/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
+  - title: "Trump doubles down $2,000 coronavirus check demand"
+    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
+    publishedDateTime: 2020-12-25T22:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-7QUImVAiU/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Trump considering dramatic White House departure amid legal fight"
-    excerpt: "Trump said last month that he would leave office if the Electoral College votes for President-elect Joe Biden"
-    publishedDateTime: 2020-12-07T03:55:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/So_fEGG0sno/live-updates-legal-12-7-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
-    excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
-    publishedDateTime: 2020-11-13T05:38:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lQ05vuAWZQ/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+  - title: "Bernie Sanders agrees with Trump’s push for more coronavirus stimulus"
+    excerpt: "Sen. Bernie Sanders, I-Vt., backs President Trump's decision to raise stimulus payments and urges Mitch McConnell to get on with a vote."
+    publishedDateTime: 2020-12-31T03:04:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fM4QHqv6BoE/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b370aa-373a-47b2-b50f-22488dcb8bec/b89ffe85-b89f-4280-b0d7-10846e06c8b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lindsey Graham backs Trump over McConnell on $2,000 checks"
+    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
+    publishedDateTime: 2021-01-02T00:34:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lL8ovciaJR4/lindsey-graham-trump-over-mcconnell-2000-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
+    excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
+    publishedDateTime: 2020-12-23T00:29:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad4f7059-6a1c-4c13-8c56-1500f5e3194b/a32212e6-c4fe-472c-a36b-b568d020c8bc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-11-29T06:23:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
+  - title: "Trump’s call for $2,000 stimulus checks hailed – by critics Pelosi, AOC, Sanders"
+    excerpt: "As if 2020 hasn’t delivered enough unexpected news, consider this: President Trump’s call Tuesday night for Congress to raise coronavirus stimulus payments to Americans to $2,000 won raves from at least three of his harshest critics."
+    publishedDateTime: 2020-12-23T04:15:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DluRjDsgcPA/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Pelosi-Sanders-AOC-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles"
-    excerpt: "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin."
-    publishedDateTime: 2020-11-09T17:17:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+  - title: "Pelosi presses McCarthy to agree to bigger stimulus checks after Trump intervention"
+    excerpt: "House Speaker Nancy Pelosi on Wednesday called on GOP Leader Kevin McCarthy to join her in backing a boost to the coronavirus stimulus checks – which would bump them to $2,000 – because of a last-minute demand from President Trump."
+    publishedDateTime: 2020-12-23T17:58:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvospTGeXI8/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
+    excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
+    publishedDateTime: 2020-12-28T12:26:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDDzr9WpMvw/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package"
+    ampWebUrl: "https://www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-2000-stimulus-checks-trump-signs-relief-spending-package.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Pennsylvania court rejects Trump effort to block 9,000 late-arriving absentee ballots"
-    excerpt: "The latest updates on the Trump campaign's 2020 legal battle."
-    publishedDateTime: 2020-11-15T08:05:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xqILdCB5fkg/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
+  - title: "Sanders calls Trump delay on relief bill 'cruel,' while agreeing with push for $2,000 payments"
+    excerpt: "House Speaker Nancy Pelosi said she would force a vote Monday on increasing payments to Americans in a coronavirus relief bill from $600 to $2,000 after President Trump urged lawmakers to do so, but Sen. Bernie Sanders, I-Vt., offered sharp opposition to the president's decision to not automatically"
+    publishedDateTime: 2020-12-27T19:43:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bx2rWLUCaWA/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0fb0da50-f3b6-4175-bf1a-a589a89046ea/d6bc5969-56c7-4af3-a3fd-6449fe84882c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f2e7ff-9ac5-45dd-ace4-2e5288b5f724/b4a74886-bfc2-4b11-a57f-9eedc083859b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell Backs Court Challenges; Toomey Says Trump Was 'Hard to Watch'"
-    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s legal challenges to vote counting still under way in the presidential election Friday, but did not second his unsubstantiated claim that the election was rigged against him."
-    publishedDateTime: 2020-11-07T02:24:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/x7emWiaqiV0SQ6jnMhnJ"
+  - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
+    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen. Bernie Sanders and Senate Minority Leader Chuck Schumer each urged the body to put the"
+    publishedDateTime: 2020-12-29T18:08:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsJIdswnJwk/mcconnell-blocks-2000-stimulus-checks-quick-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
     images:
-      - url: "https://images.wsj.net/im-256198?size=1.5"
-        width: 1280
-        height: 853
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "GOP Leader McCarthy Backs Trump's Legal Challenges to Vote Counts"
-    excerpt: "House Minority Leader Kevin McCarthy expressed support Sunday for the Trump campaign’s legal challenges to the presidential election results, joining other Republican lawmakers who have taken a similar stance."
-    publishedDateTime: 2020-11-08T20:13:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/M5Du9vmqlx2n4E2ZgO6O"
+  - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
+    excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
+    publishedDateTime: 2020-12-23T18:49:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NXt7eXVNPcc/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 95
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell introduces his own bill on $2,000 stimulus checks, other Trump priorities"
+    excerpt: "Senate Majority Leader Mitch McConnell on Wednesday introduced his own version of a bill to increase the $600 stimulus checks from the coronavirus relief package to $2,000, but also included two other major priorities for President Trump."
+    publishedDateTime: 2020-12-30T14:13:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W3UbenYSOCU/mcconnell-introduces-his-own-bill-on-2000-stimulus-checks-other-trump-priorities"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/12/29/990505083001_6219051691001_6219049610001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
+    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number."
+    publishedDateTime: 2020-12-25T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1197873325.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump doubles down $2,000 coronavirus check demand"
+    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
+    publishedDateTime: 2020-12-25T23:07:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lindsey Graham backs Trump over McConnell on $2,000 stimulus checks"
+    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
+    publishedDateTime: 2021-01-02T00:48:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump rips ‘Pathetic!!!’ Senate GOP for blocking $2,000 checks"
+    excerpt: "Our Republican Senate just missed the opportunity to get rid of Section 230, which gives unlimited power to Big Tech companies. Pathetic!!!” Trump tweeted."
+    publishedDateTime: 2021-01-01T22:10:00Z
+    webUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/"
+    ampWebUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
+    excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
+    publishedDateTime: 2020-12-24T08:12:00Z
+    webUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt"
+    ampWebUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
+    excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
+    publishedDateTime: 2020-12-28T10:19:00Z
+    webUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
+    ampWebUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
+    excerpt: "Senate Majority Leader Mitch McConnell said on Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen."
+    publishedDateTime: 2020-12-29T18:21:00Z
+    webUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "kMcLpX6UWFVtv3DsqZiGftghTIssMSXaXaVF/tehfGf/sEhiFJ8jNbtSMmH/u1uBWItZ5N18zWXVcO370kG5XtHYebgHC5ku7IRR34tSoV08bQf1FcwqipkLM1ZyI51+6HweHvX5qG8Xr23raGw8FZyxPm6ElxT4kTGb5wiwvaZKAumwQGEFg+y8XohDuV0jM9QQFy8a2BwgQw9jzJqCC0XbxRD3VMIShJ5WIINWxVqKM5tdoj9S+Wg6izYZTNbunGI4+2PpyCaOi8/uJ1CKXvK5uDqBFZNzKUIT35g1+Y2l/4awJA0Que1ApTHwcBpwgyGlzPXbCJbaD+iALsxgnDgZm7oX6fRoUk/1H/cGi7U=;sMe4ni7KsYa2xechXtovLA=="
 ---

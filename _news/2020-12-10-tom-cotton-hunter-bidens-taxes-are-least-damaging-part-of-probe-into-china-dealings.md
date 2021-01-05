@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBlMuqDYz5o/hunter
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBlMuqDYz5o/hunter-biden-taxes-china-allegations-tom-cotton"
 type: article
 quality: 147
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2970927c-3de0-45c7-ac27-2dd8e5214ff2/fb93b2b6-66cf-45d1-a0b8-b588a1779790/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Hunter Biden 'tax affairs' under federal probe; links to China funds emerge, sources say"
-    excerpt: "Hunter Biden confirms grand jury investigation; links to China funds emerge, sources tell Fox News President-elect Joe Biden’s son Hunter Biden confirmed Wednesday that his \"tax affairs\" are under investigation by the U."
-    publishedDateTime: 2020-12-10T11:57:00Z
-    webUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say"
-    ampWebUrl: "https://www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hunter-biden-tax-affairs-under-federal-investigation-links-to-china-funds-emerge-sources-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Hunter-Color-correct.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "0A6p3n+Qme6Vu19hHA3+Os4vRxhByavy4kDg+mRVsRJnWYs20EGy00oM93Xe/CvBa98kboP7oCbipJxwgvfgNBGJgC6kgPs3c+eQJWsBHPSJcKCUB4PLI/oeZupqZkzLjCWmM7Kow3uFmo1AI0O1tmr+oXVw7eFDhiFgxZ1l0p3yPF8hBhTls1fh97amwI7R1Qe9NJMa4P+8iv4dP2hAZDkZ85Xb0cz9Vd5rqa4m1CTi9smip9XXJzIvfxPEC4TcYDS0igIfKRWrIheg4PiSoSSkVpc+/b5oySL+b8HMgeGQjiPRjnUrXIzaB3QvZ7hRQ+4HDcsyXks1roBgzsmMkOxEnpZr9B4J67Yw0y879L4=;rAUJ9UfXjTZgA94Dwd1Fkg=="

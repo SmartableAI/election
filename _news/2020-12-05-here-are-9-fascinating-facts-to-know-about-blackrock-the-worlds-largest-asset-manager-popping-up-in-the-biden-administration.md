@@ -31,81 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "The Trailer: What Biden and the left are demanding of each other"
-    excerpt: "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia"
-    publishedDateTime: 2020-12-01T22:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
+  - title: "China's Wang vows to uphold trade deal during Biden administration: U.S. business group"
+    excerpt: "Chinese Foreign Minister Wang Yi assured U.S. executives during a videoconference on Sunday that Beijing remained committed to the Phase 1 trade deal with the United States, the head of the US-China Business Council said."
+    publishedDateTime: 2020-12-08T13:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-china/china-foreign-minister-pledges-to-uphold-trade-deal-during-biden-administration-us-china-business-council-idUSKBN28H30Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H30Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543785941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61OL"
+        width: 788
+        height: 545
+        isCached: true
+  - title: "Judith Heumann: 'Biden is committed to involving disabled people in his administration'"
+    excerpt: "The US activist on Covid’s impact and her starring role in Crip Camp, the documentary charting the birth of the disability rights movement"
+    publishedDateTime: 2020-12-15T10:00:00Z
+    webUrl: "https://www.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
+    ampWebUrl: "https://amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/dec/15/judith-heumann-biden-is-committed-to-involving-disabled-people-covid-crip-camp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/3d90cbafa017f6722f77179c47ff994b5abfc67a/120_0_1800_1080/master/1800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8585343d59071aee5cb9e05a5d0ad88"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "McDonough says Biden administration will 'fight like hell' for veterans"
+    excerpt: "President-elect Joe Biden introduced Denis McDouough as his Veterans Affairs Secretary nominee at an event in Wilmington, Del. on Dec. 11."
+    publishedDateTime: 2020-12-11T23:50:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/mcdonough-says-biden-administration-will-fight-like-hell-for-veterans/2020/12/11/d0a8254f-d813-4de6-9323-7e7a4b63faa4_video.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden faces a changed world from when he last held power, and not for the better"
-    excerpt: "In foreign policy, Joe Biden can't pick up where he and President Obama left off. He faces heightened tensions, especially with China and Iran."
-    publishedDateTime: 2020-12-07T12:14:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-07/biden-faces-different-world-than-he-left-four-years-ago?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 120
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ba41504/2147483647/strip/true/crop/5636x3681+0+57/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F44%2F56cb36034f4792e1203a5779f5fe%2Fla-photos-1staff-644724-fg-1105-universityattack-mwy-0989.JPG"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Black Lives Matter and other activists protest possible Biden appointment for Garcetti"
-    excerpt: "Groups opposed to L.A. Mayor Eric Garcetti possibly joining the Biden administration demonstrated outside Garcetti's residence on Monday for the seventh straight day."
-    publishedDateTime: 2020-12-01T03:02:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 117
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "In Thanksgiving message, Joe Biden reminds Americans \"we're at war with a virus, not with each other\""
-    excerpt: "Washington — President-elect Joe Biden urged Americans to resist surrendering to the \"fatigue\" of the coronavirus pandemic and come together with the shared goal of defeating the virus, echoing calls of public health officials who are calling for the nation to scale down their Thanksgiving celebrations amid the surge in COVID-19 cases nationwide."
-    publishedDateTime: 2020-11-25T20:44:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/8e3e3b24-051d-4285-a0a2-de21efdfe8a4/thumbnail/1200x630g8/58eaece4ff4e082cf8a78dcf603888e3/gettyimages-1229785663.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden weighs Rahm Emanuel for transportation secretary"
-    excerpt: "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary."
-    publishedDateTime: 2020-12-01T09:28:00Z
-    webUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_6a931d6c5e944923980408fa241c2a43_name_bad8873a_3bf0_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "Health officials lay out wish list for Biden Administration: Restore the CDC, prioritize health across the globe"
+    excerpt: "A who's who of health officials published a commentary Wednesday outlining their wish list for the incoming Biden-Harris Administration, starting with their desire for the U.S. to rejoin the global public health community."
+    publishedDateTime: 2020-12-03T18:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/12/03/health-experts-call-biden-restore-cdc-prioritize-global-health/3792331001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3792331001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3792331001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/505fe506013ba96c4ebd6d67660c8f64967f96f8/c=949-779-4680-2887/local/-/media/2018/02/20/USATODAY/USATODAY/636547234970675887-IMG-0406.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "RCZTkHeoOGy51Rv7bvlx4YVMOcKu7bPbSeNWr1TJXRFDoGm7GtwoQiVXlHeUO9i7qv1IjuWJ79MDJHq3GbDqqspgYkguUqvF9OUCnZItBURPOADper99a3wLk02QHuFLF9ddBREUn8/1pwaPy4gDAfu2FqBjWmvjLr4jBitgsa1fPyZHIoruftQXatHXpk4A+HP27mPOArPpwUKHf4GptzFyCxgbyalVjM7l1HA8QO8P2ekFqhsPcRXD8PN6+8OFKfqMgHgak3cO2Xbe8NBbuZFU7ojwDuHo8P4VskvA5cqjntRHwdtcl2ECrPP/jn2DamtX9T8S7ypp1eZ8549MYh0JzRuZLUPCyq7tFUT9Oi+mtk5AI8nB1KktlwYCTs15qYopfNXT3B2ueKopoAS9mYW7PdciYUtVGRwtPPZazhQEucp2TbaF7IGXybgfqPL+Cc4ktFa4YiEse79Xzty9TK0ltRyVceEn8XuGRIiAp28ieVfYX0Wq5etKAIpZy0YyHEU7Kys7WL3FpYsyumz/Pw==;4ebEJcEI4octtr2i/rN8kg=="
 ---

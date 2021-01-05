@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resist
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/30/us/politics/ossoff-georgia-resistance-trump.amp.html"
 type: article
 quality: 134
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "Trump was briefed that China sought to pay non-state actors to attack US forces in Afghanistan"
+    excerpt: "President Donald Trump received information earlier this month that China sought to pay non-state actors to attack American forces in Afghanistan, a senior administration official said.\n    \n"
+    publishedDateTime: 2020-12-31T00:17:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jY9JDWPrjcs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "5LwuiHWKZ8voq1CAxe3hUyJMmf5Ymzemhcor9RBOOkv/PmIzInztpEoORJHn0vEsy1cTtfgGk5BcOt5caaJOZNJQRzJIrhaSWFC9bRzYYW3TqPzX14PpjRdZmObnfXifx1TBhucjE/JTr0iCvIBUZ1MhKuq4Z7JGAe34AaVFzLcB6xnYq1ckJQNcVLHwljcElHHZ4ygoBqLvKQTTH/w5HaoU+097Cr3BZ8XPh2/lBEeC5SX8i2Ndm3b4pNrSvuWAHjfQfKipepbbgm80BmZLaxfKRIMtxC+BEkW4Nc7cfZQ0Lhvx5F37reAlqjjLyj4CF+SG1igre2WKcTjUqHPHOmJrOp/ZlejuXar91n6ARYUiRcsjX+PSdZOa1vJ70ns12QW9r9ltH+Dv+X/wpYusBfJd+pv13QMFBYC9UJ139AQEXb2+yVV7hNEOf6cQiFGSzFCpOjDjuBKCAnR+9ECA2AJYbgU/12pIN0MX9Txjotlnq33oeLOZJnU1nqKwVKijsMFWrCUu+v3LA9MisA6scw==;/vHbkLtMPvFcDIT9U0/DZw=="
 ---

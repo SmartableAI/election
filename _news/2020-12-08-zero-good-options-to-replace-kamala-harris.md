@@ -30,6 +30,54 @@ images:
     isCached: true
 
 related:
+  - title: "Time magazine names Biden, Harris its Person of the Year in profile fiercely critical of Trump"
+    excerpt: ""
+    publishedDateTime: 2020-12-11T05:01:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAhFnJT1EBA/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 203
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:05:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 202
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "LIVE UPDATES: Trump 'surprised' some congressional Republicans think Biden won election"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-12-06T05:41:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5a8soicvt8/trump-surprised-congressional-republicans-biden-won-election-12-6-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aaca5c8c-b769-4449-8d7c-92a7aaddc214/9f4dff36-6ba0-49e0-b71b-19d2d47e6c91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris"
     excerpt: "Former top aide to Harris resigned after settling a sexual harassment case."
     publishedDateTime: 2020-12-08T02:26:20Z
@@ -46,67 +94,179 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden HHS pick sued nuns over contraception mandate"
-    excerpt: "President-elect Biden has chosen a secretary of Health and Human Services who sued to block a policy that would have exempted nuns from Obamacare's contraception mandate, provoking even more scrutiny over how Biden's Catholic faith influences his political agenda."
-    publishedDateTime: 2020-12-07T21:06:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fohoO2PHXFc/biden-hhs-pick-nuns-contraception-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
+  - title: "Fauci says Biden, Harris should get COVID-19 vaccine ASAP 'for security reasons'"
+    excerpt: "After the first American was inoculated with a coronavirus vaccine on Monday, the nation’s top infectious disease expert recommended that President-elect Joe Biden and Vice President-elect Kamala Harris should move toward the front of the line."
+    publishedDateTime: 2020-12-15T18:56:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jP6646MLm8/fauci-biden-harris-covid-19-vaccine-asap-security-reasons"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-harris-covid-19-vaccine-asap-security-reasons.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 195
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5affd312-5021-48bd-bd9a-ed5c5607ccf8/f467789e-3b2b-44ee-be75-39e8312c303c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
-    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
-    publishedDateTime: 2020-12-07T16:14:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+  - title: "Biden burned in bid to follow Trump playbook"
+    excerpt: "Biden's secretary of Defense pick Lloyd Austin would need the same kind of waiver from Congress James Mattis got."
+    publishedDateTime: 2020-12-08T20:13:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_82qxXiQ2MU/biden-burned-in-bid-to-follow-trump-playbook"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump slams lack of media coverage of Hunter Biden"
+    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won. "
+    publishedDateTime: 2020-12-11T18:32:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VavpxlwzfM/trump-slams-media-coverage-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
+        isCached: true
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:11:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GojdMbZs3UE/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Gun rights group blast Biden’s HHS pick"
-    excerpt: "Group claims Biden pick signals incoming White House will push firearm ownership as a public health crisis."
-    publishedDateTime: 2020-12-08T23:57:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGl2pM9YapI/gun-rights-group-biden-hhs-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-06T23:23:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Mifn6ZHwF8/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
+    excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
+    publishedDateTime: 2020-12-14T16:45:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4UjY15p7cKU/trump-biden-officials-condemn-iran-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-officials-condemn-iran-reporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347367382392.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
+    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch.\""
+    publishedDateTime: 2020-12-17T15:56:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-PCiaPqoNA/trump-hunter-biden-special-prosecutor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
+    excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
+    publishedDateTime: 2020-12-05T22:51:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-4.jpg"
+        width: 339
+        height: 226
+        isCached: true
+  - title: "Trump asking about potential special counsel to investigate Hunter Biden after Barr resignation"
+    excerpt: "President Trump is talking to advisers about asking for a special counsel to be appointed to continue investigations into the \"tax affairs\" of Hunter Biden, the son of President-elect Biden, according to a report."
+    publishedDateTime: 2020-12-16T13:37:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjIq4H_lGM4/trump-potential-special-counsel-hunter-biden-barr-resignation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-potential-special-counsel-hunter-biden-barr-resignation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden changes his story on Bin Laden raid -- again"
+    excerpt: "President-elect Joe Biden came under fire earlier this year for denying his opposition to the 2011 raid that killed Usama bin Laden after previously claiming that he advised then-President Obama against it. "
+    publishedDateTime: 2020-12-07T00:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VUmhWXUtvkE/biden-bin-laden-raid-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76c0eaf-5096-4a0a-bb3c-7fc7db46132a/9941afad-0e5a-4e96-985a-d38d9e65ff99/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Kennedy predicts 'tough time with confirmation' for Biden HHS pick Becerra"
-    excerpt: "President-elect Joe Biden's nomination of California Attorney General Xavier Becerra to be the next health and human services secretary doesn't make sense to Sen. John Kennedy, R-La."
-    publishedDateTime: 2020-12-08T21:19:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IqLu_C7SebQ/biden-hhs-xavier-becerra-cabinet-pick-louisiana-senator-kennedy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-cabinet-pick-louisiana-senator-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-cabinet-pick-louisiana-senator-kennedy.amp"
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3N4_V-Ux3Ro/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -126,22 +286,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Pro-lifers, religious liberty advocates sound alarm over Biden HHS pick Xavier Becerra"
-    excerpt: "A number of Catholics and conservative activists are sounding the alarm Monday over Health and Human Services Secretary nominee Xavier Becerra, pointing to his record of attacking conservative policies as California's attorney general. "
-    publishedDateTime: 2020-12-07T20:19:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NDbnaXr1Gq0/pro-lifers-religious-liberty-advocates-becerra-hhs"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "NAACP meets with Biden, Harris, pushes for 'civil rights envoy' to spearhead racial justice reforms"
     excerpt: "The National Association for the Advancement of Colored People (NAACP), met with President-elect Joe Biden and Vice President-elect Kamala Harris Tuesday and pushed him to create a new \"civil rights envoy\" position in the White House to carry out a racial justice agenda. "
     publishedDateTime: 2020-12-09T01:16:08Z
@@ -156,69 +300,165 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden picks health team, including Becerra for HHS secretary, Fauci as top coronavirus adviser"
-    excerpt: "President-elect Joe Biden announced Monday that he intends to nominate California Attorney General Xavier Becerra for secretary of Health and Human Services. "
-    publishedDateTime: 2020-12-07T11:07:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKt-48-CoV4/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
+  - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
+    excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
+    publishedDateTime: 2020-12-13T06:14:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-272735/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Pursues Appointing Special Counsel to Probe Election, Hunter Biden"
+    excerpt: "The president has expressed frustration with Attorney General William Barr as efforts to overturn the election have repeatedly failed."
+    publishedDateTime: 2020-12-12T08:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 164
+    images:
+      - url: "https://images.wsj.net/im-271974/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Jr. to stump for Perdue after Pence rallies Thursday, as Trump team answers Biden event"
+    excerpt: "Donald Trump Jr. will hold his first in-person events of the Georgia Senate runoffs this week for Sen. David Perdue, adding himself to the long list of boldface political names to descend on the Peach State for the critical Jan."
+    publishedDateTime: 2020-12-16T12:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-stump-perdue-this-weekend-pence-rallies-thursday-trump-team-answers-biden-event.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20316781729713.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden botches HHS pick Becerra's name, calls nominee 'Secretary of Health and Education Services'"
-    excerpt: "President-elect Joe Biden did not make the smoothest introduction of Health and Human Services (HHS) Secretary nominee Xavier Becerra during a Tuesday event unveiling Biden's health and coronavirus team."
-    publishedDateTime: 2020-12-08T22:26:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhJUjN8zHmw/biden-hhs-xavier-becerra-health-education-services"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-health-education-services.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-health-education-services.amp"
+  - title: "McConnell congratulates Joe Biden, Kamala Harris on election win from Senate"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday congratulated President-elect Joe Biden on his victory following the Electoral College’s vote on Monday. “The Electoral College has"
+    publishedDateTime: 2020-12-15T15:52:00Z
+    webUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/"
+    ampWebUrl: "https://nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/15/mitch-mcconnell-congratulates-biden-harris-on-election-win/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: New York Post
+      domain: nypost.com
     quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mcconnell-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden pick Becerra asked Clinton to pardon cocaine trafficker after donations from his father: House probe"
-    excerpt: "President-elect Joe Biden's pick for health and human services secretary, Xavier Becerra, played a key role in events that led to the pardon of a convicted drug trafficker after the defendant's father contributed thousands of dollars toward his campaigns."
-    publishedDateTime: 2020-12-08T16:50:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JLbsuuPU8H0/biden-pick-becerra-sought-cocaine-trafficker-pardon-after-donations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-becerra-sought-cocaine-trafficker-pardon-after-donations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-becerra-sought-cocaine-trafficker-pardon-after-donations.amp"
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:12:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 152
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden HHS pick Becerra 'looks forward' to working 'in good faith' with Republicans, Democrats if confirmed"
-    excerpt: "President-elect Joe Biden’s pick for secretary of the Health and Human Services Xavier Becerra is looking forward to “working in good faith with members of both parties in Congress,” the Biden Transition Team said, despite criticisms that the California attorney general and former Democratic congressman"
-    publishedDateTime: 2020-12-11T20:47:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9jQ_bMceiQ/biden-hhs-becerra-republicans-democrats-confirmed"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-becerra-republicans-democrats-confirmed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-becerra-republicans-democrats-confirmed.amp"
+  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
+    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
+    publishedDateTime: 2020-12-10T02:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-270768/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Seventeen states, Trump join Texas SCOTUS suit to toss Biden electors"
+    excerpt: "Seventeen states on Wednesday filed a brief with the Supreme Court siding with a Texas lawsuit against four battleground states Joe Biden won — charging that they acted"
+    publishedDateTime: 2020-12-09T22:21:00Z
+    webUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/"
+    ampWebUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Ken-Paxton2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden, Trump, Fauci among Time's finalists for Person of the Year"
+    excerpt: "Time magazine unveiled its 2020 Person of the Year finalists on Thursday, with President Donald Trump, President-elect Joe Biden, the “movement for racial justice” and frontline healthcare workers including Dr."
+    publishedDateTime: 2020-12-10T20:06:00Z
+    webUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year"
+    ampWebUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Biden-Trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump critic Richard Painter calls for Hunter Biden special counsel"
+    excerpt: "One of President Trump’s harshest critics has jumped on the bandwagon that’s calling for a special counsel to investigate President-elect Joe Biden’s son."
+    publishedDateTime: 2020-12-11T18:22:00Z
+    webUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/"
+    ampWebUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Richard-Painter-special-counsel-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump slams lack of media coverage of Hunter Biden"
+    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won."
+    publishedDateTime: 2020-12-11T18:44:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
         isCached: true
   - title: "Kellyanne Conway: ‘It Looks like Joe Biden and Kamala Harris will prevail’"
     excerpt: "Kellyanne Conway says the party is probably over for her former boss and that Joe Biden and Kamala Harris will likely be moving into the White House in January. “The president wants to exhaust all"
@@ -236,6 +476,132 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Liberal media ‘snuffed out' Hunter Biden coverage until after election to help defeat Trump, critics say"
+    excerpt: "The liberal mainstream media largely ignored the ongoing Hunter Biden scandal until after his father won the presidential election and media watchdogs feel it was a strategic move by the liberal media to help Joe Biden defeat President Trump."
+    publishedDateTime: 2020-12-10T16:27:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/tapper-cnn.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump-Era Tax Rule Benefiting Some Multinationals May Get Revised Under Biden"
+    excerpt: "A regulation that cut the tax bills of companies such as Philip Morris and Sealed Air could be poised for reversal in 2021 as the Biden administration tries to deliver on its campaign promise to raise taxes on corporations."
+    publishedDateTime: 2020-12-07T10:44:00Z
+    webUrl: "https://www.wsj.com/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 147
+    images:
+      - url: "https://images.wsj.net/im-268013/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-07T00:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Iran will reportedly hike oil production if Biden eases sanctions Trump imposed"
+    excerpt: "President Hassan Rouhani was quoted in state media saying that before President Trump exited the Iranian nuclear deal in 2018 and reimposed crippling sanctions the Islamic Republic had exported"
+    publishedDateTime: 2020-12-06T14:09:00Z
+    webUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/"
+    ampWebUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/iran-oil-biden-comments.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says he has 'nothing to do' with 'potential prosecution' of Hunter Biden"
+    excerpt: "President Trump on Thursday said he has \"NOTHING to do\" with the \"potential prosecution\" of President-elect Joe Biden’s son, calling the fallout surrounding Hunter Biden’s confirmation that he is under federal investigation \"very sad to watch."
+    publishedDateTime: 2020-12-17T16:10:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-special-prosecutor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump keeps denouncing election as Biden transition grinds on"
+    excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."
+    publishedDateTime: 2020-12-08T12:56:00Z
+    webUrl: "https://www.foxnews.com/media/trump-keeps-denouncing-election-as-biden-transition-grinds-on"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris' brother-in-law floated for attorney general"
+    excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
+    publishedDateTime: 2020-12-03T11:06:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris Names Senior White House Staff"
     excerpt: "The vice president-elect selected three women to serve in top roles on her team."
     publishedDateTime: 2020-12-03T20:40:00Z
@@ -252,51 +618,91 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
-    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
-    publishedDateTime: 2020-12-07T16:29:00Z
-    webUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:59:00Z
+    webUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
-    excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
-    publishedDateTime: 2020-11-30T11:55:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
+  - title: "Do-over: Biden clinches, columnists left and right dump on Trump"
+    excerpt: "William Barr may have chosen to resign, but it was clear that his relationship with President Trump had simply become untenable."
+    publishedDateTime: 2020-12-16T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/do-over-biden-clinches-columnists-left-and-right-dump-on-trump"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 130
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/8daf5c9f-Trump-Biden-Recent-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump"
-    excerpt: "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives."
-    publishedDateTime: 2020-12-09T08:24:00Z
-    webUrl: "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump"
+  - title: "Republicans Backing Trump Fraud Claims Even As Biden Wins Electoral College"
+    excerpt: "If tens of millions of Republicans believe Joe Biden is an illegitimate president--Trump actually used that phrase--it could well damage his administration. And at a deeper level, if much of one political party believes an election is being stolen--and next time it could be the Democrats--that seriously damages democracy."
+    publishedDateTime: 2020-12-15T08:15:00Z
+    webUrl: "https://www.foxnews.com/media/republicans-backing-trump-fraud-claims-even-as-biden-wins-electoral-college"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 114
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/BIDEN-TRUMP-SBS.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
+    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
+    publishedDateTime: 2020-12-11T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/526544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
+    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
+    publishedDateTime: 2020-12-13T15:51:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/529627.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Donald Trump Is Not a Political Genius"
+    excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
+    publishedDateTime: 2020-12-05T13:23:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/05/donald_trump_is_not_a_political_genius_530753.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Expect Big Things From Harris as Vice President"
     excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"

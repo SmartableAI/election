@@ -28,131 +28,133 @@ images:
     isCached: true
 
 related:
-  - title: "Fox News Poll: Most Republicans say President Trump was robbed"
-    excerpt: "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters."
-    publishedDateTime: 2020-12-11T23:01:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T15:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Fox News Poll: Voters give President Trump mixed reviews after 4 years"
-    excerpt: "Trump ends 2020 with positive ratings for his handling of the economy, but mixed reviews from voters on other issues -- and for his performance overall."
-    publishedDateTime: 2020-12-11T23:01:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wHASXdWkvhk/president-trump-voters-mixed-reviews-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
+  - title: "Lara Trump teases potential Senate run in North Carolina"
+    excerpt: "Lara Trump teased a potential Senate run in North Carolina Friday to replace Sen. Richard Burr, who is retiring after three terms in 2022. "
+    publishedDateTime: 2020-12-05T02:33:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBJhXZWMQcE/lara-trump-senate-run-north-carolina"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c4cf900-7e8a-4ea4-9509-3cec99500b9a/8c80d9e2-d8c8-442d-9efb-75024fb9150d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House tees up Trump veto override fight on defense spending bill"
+    excerpt: "The House of Representatives will debate and vote on the final version of the defense policy bill Tuesday."
+    publishedDateTime: 2020-12-08T16:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IndEufEVR7Q/house-trump-veto-override-fight-defense-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/house-trump-veto-override-fight-defense-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-trump-veto-override-fight-defense-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "President Trump secures deal between Israel and Morocco in a Hanukkah miracle"
-    excerpt: "News of today’s historic announcement of normalization between Israel and Morocco brokered by the Trump administration was met with a lukewarm reaction by the United Nations and diplomats at the world body’s headquarters."
-    publishedDateTime: 2020-12-10T23:03:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcDaSs62nOE/president-trump-israel-and-morocco-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
+  - title: "Trump dismisses DOJ's probe of bribery-for-pardon allegation: 'Fake News!'"
+    excerpt: "President Trump on Tuesday dismissed reports that the Justice Department was investigating claims of a bribery scheme involving a possible presidential pardon."
+    publishedDateTime: 2020-12-02T09:19:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Crt1jzDR3-s/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64eafaca-7ae0-45a9-80b4-9364c88d4519/10bb732c-1723-43e0-ba28-4865ffee598a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf560f2e-05fa-4ff8-9f82-14d5d26d17fd/e937ee12-a5c3-4c30-b63a-b94bfc66284b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill, call it example of ‘swamp politics’"
-    excerpt: "EXCLUSIVE: A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of “swamp politics” in Washington D.C."
-    publishedDateTime: 2020-12-17T00:07:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N1HHeIz8g6o/house-republicans-trump-veto-omnibus-spending-bill"
+  - title: "McConnell plans for new coronavirus relief bill that President Trump will sign into law"
+    excerpt: "Senate Majority Leader Mitch McConnell said Republicans are eyeing a new targeted coronavirus relief bill based on what President Trump would sign into law, and poured cold water on a new bipartisan $908 billion proposal his colleagues put forth earlier Tuesday."
+    publishedDateTime: 2020-12-01T21:31:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3tOElJBfEA/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 143
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b300ec5-e6cb-4dcb-9b6d-ce7d4eada6bf/d1092241-4b99-4650-8d43-4d7cef082db5/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Israel and Morocco Agree to Normalize Relations, Trump Says"
-    excerpt: "The deal, which required a U.S. shift on Morocco policy, marks another advance in U.S. efforts to strengthen ties between once-hostile nations in the Middle East"
-    publishedDateTime: 2020-12-10T18:31:00Z
-    webUrl: "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+  - title: "Trump Expected to Name New Indo-Pacific Command Head"
+    excerpt: "The Trump administration is preparing to name a new head of the U.S. Indo-Pacific Command, which oversees operations and strategy for China and elsewhere in Asia."
+    publishedDateTime: 2020-11-30T16:53:00Z
+    webUrl: "https://www.wsj.com/articles/trump-expected-to-name-new-indo-pacific-command-head-11606753476?mod=hp_listb_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-expected-to-name-new-indo-pacific-command-head-11606753476"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-expected-to-name-new-indo-pacific-command-head-11606753476"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-271478/social"
+      - url: "https://images.wsj.net/im-265954/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Rep. Kevin Brady calls for probe into leak of President Trump's taxes"
-    excerpt: "We know, for the president, Rudy Giuliani and Chris Christie have been prepping the president and alternating playing roles acting as Joe Biden. As for the former vice president, he has been relying on his former chief of staff Ron Klain,"
-    publishedDateTime: 2020-12-12T14:39:00Z
-    webUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes"
-    ampWebUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+  - title: "Can President Trump Pardon Himself and His Family?"
+    excerpt: "Legal experts say the president’s pardon powers are wide-ranging, but do have limits."
+    publishedDateTime: 2020-12-02T22:40:00Z
+    webUrl: "https://www.wsj.com/articles/can-president-trump-pardon-himself-and-his-family-11606947916"
+    ampWebUrl: "https://www.wsj.com/amp/articles/can-president-trump-pardon-himself-and-his-family-11606947916"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-president-trump-pardon-himself-and-his-family-11606947916"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-267090/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T16:06:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/deb31fac-e5c1-42e8-9a09-7d27440b42f1/c69902d9-ac13-4eb5-8b7b-31c93af3ca0d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump gets West Point ovation at last Army-Navy game of his presidency"
-    excerpt: "The storied match-up, normally held in Philadelphia’s cavernous Lincoln Financial Field, this year moved to the US Military Academy’s much cozier gridiron due to the coronavirus"
-    publishedDateTime: 2020-12-12T21:40:00Z
-    webUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/"
-    ampWebUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-army-navy.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 794
-        isCached: true
-  - title: "McEnany claims Trump was not allowed orderly transition in 2016"
-    excerpt: "Tonight, President Trump is ignoring all the hysteria from the media mob and the Democratic Party and vowing to fight for you, the American people. Watch this. DONALD TRUMP, PRESIDENT OF THE UNITED STATES: Big pharma ran millions of dollars of negative advertisements against me during the campaign,"
-    publishedDateTime: 2020-12-13T20:08:00Z
-    webUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016"
-    ampWebUrl: "https://www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mcenany-claims-trump-was-not-allowed-orderly-transition-in-2016.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
     excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
@@ -169,6 +171,54 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Lou Holtz calls Trump ‘greatest president in my lifetime,’ accepts Medal of Freedom"
+    excerpt: "President Trump on Thursday awarded Notre Dame’s legendary former football coach Lou Holtz the Presidential Medal of Freedom — and Holtz reciprocated by hailing Trump as the “greatest"
+    publishedDateTime: 2020-12-03T18:13:00Z
+    webUrl: "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/"
+    ampWebUrl: "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/1229926968-e1607018824688.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Neil Young drops lawsuit against Donald Trump over use of his music at campaign events"
+    excerpt: "Neil Young seems to have dropped his legal suit against Donald Trump for using his music at campaign events. In August, the singer and songwriter finally sued the Trump 2020 campaign for copyright infringement after the president repeatedly ignored calls from the rocker to stop using his music at events,"
+    publishedDateTime: 2020-12-09T15:35:00Z
+    webUrl: "https://www.foxnews.com/entertainment/neil-young-drops-lawsuit-donald-trump-music-campaign-events"
+    ampWebUrl: "https://www.foxnews.com/entertainment/neil-young-drops-lawsuit-donald-trump-music-campaign-events.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/neil-young-drops-lawsuit-donald-trump-music-campaign-events.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Neil-Young-Trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
+    excerpt: "Trump attorneys Sidney Powell and L. Lin Wood urged Georgians not to participate in a runoff vote that will determine control of the Senate in January until state officials address unsubstantiated claims that President-elect Joe Biden won the White House through voter fraud."
+    publishedDateTime: 2020-12-03T00:11:00Z
+    webUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xKl+Q6q2oQgkcLpH4YJwEcoMXC2jGHzoGW6VvO7pa01KSjbD1neIVdE/ctZqxJH1TjmtN+cuF3xvnU5RRbWY1wM3U91E5DRV0LPgwLP/M6GsgcVd8VO4YsF2+AoYB4JIYquRty2u1VsOI/+MO6EPsBLgO0du8YOZNAPMonF+cDA06M9RJF6gyaUyjMKItDq4fcvnRAEyws/L6/WPn9XiIBBly4CV3aZDsZq1R4VSGgla5hzA8fFo8A+1b9UNNj8cVZc/ZYvBkINS5m1flFCq3mDPt6N0NdFnYK3bEZtRZ5GY6dQ0nEwmEFfb7yx/wDlk7w0y3OeiWjNkKZRVpufgcR/ISKjiKT1GLg11uNuRFMc=;aRZpM+HaISaGqDQtSNag5A=="

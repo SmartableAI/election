@@ -31,99 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
-    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-10T02:29:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+  - title: "Senate fails to block Trump-backed arms sale to United Arab Emirates"
+    excerpt: "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n"
+    publishedDateTime: 2020-12-10T01:18:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
-    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
-    publishedDateTime: 2020-12-10T19:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+  - title: "Trump tells allies he will run in 2024, but hints he may back out"
+    excerpt: "In calls to allies, Trump has been asking how to navigate the next two years and floated a possible trip to the Middle East."
+    publishedDateTime: 2020-12-14T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-2024-possible-run-444460"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-2024-possible-run-444460"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
-    excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
-    publishedDateTime: 2020-12-12T18:36:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
-    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
-    publishedDateTime: 2020-12-12T05:30:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
-    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
-    publishedDateTime: 2020-12-11T14:30:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
-    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
-    publishedDateTime: 2020-12-15T01:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
+  - title: "After Trump's toilet rant, efficiency standards rolled back on showers, laundry machines"
+    excerpt: "Trump has spent much of the past year lamenting the functionality of toilets, showers, dishwashers, sinks, and other appliances and bathroom fixtures."
+    publishedDateTime: 2020-12-17T00:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/months-after-trump-s-toilet-rant-admin-rolls-back-shower-n1251399"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251399"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251399"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 128
+    quality: 126
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_51/3436183/201216-donald-trump-melania-hair-jm-1253_ede4f40ed1b5aca7b381951744805c48.jpg"
+        width: 1758
+        height: 1171
+        isCached: true
+  - title: "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families"
+    excerpt: "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data."
+    publishedDateTime: 2020-12-03T10:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg"
         width: 2500
         height: 1667
         isCached: true

@@ -47,6 +47,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Congress faces Christmas showdown with Trump over tech and defense bill"
+    excerpt: "The U.S. Congress will return to Washington during its Christmas holiday break if necessary to override President Donald Trump's threatened veto of a $740 billion defense bill, lawmakers said on Monday,"
+    publishedDateTime: 2020-12-08T02:11:00Z
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28H2DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Trump says Barr resigning, will leave before Christmas"
+    excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the"
+    publishedDateTime: 2020-12-15T03:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_599641c5141449b59413cfa6b1fc0562_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Thousands gather in D.C. for pro-Trump demonstrations as city braces for clashes"
     excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
     publishedDateTime: 2020-12-12T22:23:00Z
@@ -108,22 +140,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E7DCKOB3G4I6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 1027
-        isCached: true
-  - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
-    excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"
-    publishedDateTime: 2020-12-03T14:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NVPXVQBVEYI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "pvrtB8sQ87QuCVRGaHPwNuas39eWH7RI8riydEnP22i1MQhjARrRPnjdvKb93sUkJ253OyoyRNUEmg+w/R5GLnQYoQAI8M4wasmhxdczWImnGC8aB4N+TsZuip/azhE6IWa0pgyTOhZWFwczoOWUYbRpSX+J7n2N/Q7f2kOUGYWXvraC7/iC3q8Ofy+PPcGRv/+ShCGt1fPT1oxu02SfqzyQAbjCYZ0wo0WtdWcH9EPCHd7KyQ93LUia/f9weXMvyOduYHt0Skwv1Faljxw9yUr7mxCDaFt7X//E6BbJJzSjlbe4d828rL1HgH0RXQodhJ4k2Zg55ZNDw48GZ9WH3JCpX7e1PDn4WSppXbunWCpNQp/BPw8HALArbqGY45l7enVTv05JgXlh8/R6LO1rg5dcH533ZNPELDqim+n+kmWRLTQXRKN6YDMWkU2cusPeucl5SPWelkfSlNdpNvKzdRduIxWewJT3rzmyWyRd57uyR+8ciDh8cyq5iXslFhXENzqnVKM4KPaNtOSv+5ROHw==;Tmcav7Y/3BkvLA0zWJPeyA=="

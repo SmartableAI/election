@@ -47,6 +47,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Congress faces Christmas showdown with Trump over tech and defense bill"
+    excerpt: "The U.S. Congress will return to Washington during its Christmas holiday break if necessary to override President Donald Trump's threatened veto of a $740 billion defense bill, lawmakers said on Monday,"
+    publishedDateTime: 2020-12-08T02:11:00Z
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28H2DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Trump says Barr resigning, will leave before Christmas"
+    excerpt: "Attorney General William Barr, one of President Donald Trump’s staunchest allies, is resigning amid lingering tension with the president over the president’s baseless claims of election fraud and the"
+    publishedDateTime: 2020-12-15T03:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-barr-resigning-leave-christmas-74725943"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_599641c5141449b59413cfa6b1fc0562_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Note: Electoral College voting brings crossroads for Trump and his GOP"
     excerpt: "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging."
     publishedDateTime: 2020-12-14T13:31:00Z
@@ -108,22 +140,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E7DCKOB3G4I6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 1027
-        isCached: true
-  - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
-    excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"
-    publishedDateTime: 2020-12-03T14:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NVPXVQBVEYI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "lVxPy496Qb0ZfSX+PK6J2SSI08zQTN25157YAvgQWzsZBfP4h+m/hUjIZqWEmFwqW70PoJM81pe4Ozz9I5ZkRVYclU8EmixNcL5XJR1cCnyYD/HjjSbp0LNVtaFRC9ftdX2/t1DkxIcFew49yboEn77PMeSYF+2clzjGg6h2ySc7m03BOtbq03FoNbjDW4jovlvWUsXOqdB+vuac4IMyFt9CEYTS9crlFZkmv8ymhz5WT9ksQJ1A+KhsVvtri6zZLaz5+Cf+dzKjqtWm4EC7x8j62hqlrseMpV93VGESSOWna21W1oKS6qqlfAKEE/3wLdwVE/j5hfIWVjKFVjWNCcXNq1LEOvTioe9bQ7D4J+927T54C2xqXDSNS9KBjX3cZ4u7fbMQ1s+mDjMWcz3jaYzwH3KMo6Rfi+1HK1ZTFwk+8agBn4LDHrozlMuAvGL5Nnv8n8MUxE+Z6QHvwzwB23FhcN/AaamXnQa9xfEbGqD/IIY3etZu86UAQWxOPzA31wh9CmcVP15O9km2Vx3WIg==;spOTgl2dSxLI1yALPhj4LQ=="

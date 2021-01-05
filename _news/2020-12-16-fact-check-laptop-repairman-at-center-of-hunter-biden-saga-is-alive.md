@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
 type: article
 quality: 125
-heat: 385
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,69 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
-    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
-    publishedDateTime: 2020-12-18T19:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+  - title: "Hunter Biden subpoena seeks information on Burisma, other entities"
+    excerpt: "The Justice Department’s subpoena to Hunter Biden sought information involving more than two dozen entities to examine some of his foreign business ties, including with Ukrainian gas company Burisma."
+    publishedDateTime: 2020-12-13T05:54:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/917e0d2/2147483647/strip/true/crop/5591x3652+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fd3%2F7a50b7183b1f03b43442ff45987a%2F356ca0eaf41c446db3ea424d5c48b946"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "'Folks, we're in crisis': Joe Biden introduces environmental advisers"
+    excerpt: "President-elect announces racially diverse team to face ‘existential threat of our time’"
+    publishedDateTime: 2020-12-19T22:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
+      - url: "https://i.guim.co.uk/img/media/03159c767c65ac80359381a5b009af4b78e0b79e/0_211_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dad6a73e9673345a1d1669253a4318"
         width: 600
         height: 360
         isCached: true
-  - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
-    excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
-    publishedDateTime: 2020-12-12T04:49:00Z
-    webUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298"
-    ampWebUrl: "https://www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/though-biden-urged-choose-black-ag-all-current-contenders-are-white-report-1554298?amp=1"
+  - title: "Chris Ruddy: Newsmax calls the election for Joe Biden"
+    excerpt: "Chris Ruddy, the CEO of Newsmax Media, has defended his US channel's post election coverage when President Donald Trump challenged the result. He told Hardtalk's Stephen Sackur: \"There is a media-spin that somehow we are trying to deny the election or as you say out-Trump,"
+    publishedDateTime: 2020-12-16T16:11:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55334234"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1685378/biden-considering-four-ag-picks-report.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Joe Biden says he will push for more stimulus checks in next Covid relief bill"
-    excerpt: "President-elect Joe Biden will push for a third round of stimulus checks in the next Covid-19 relief bill, he said on Tuesday. The former vice president said at an event in Wilmington, Del. that his plan will call for direct payments to Americans but declined to specify how large they would be,"
-    publishedDateTime: 2020-12-22T20:43:00Z
-    webUrl: "https://www.cnbc.com/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/stimulus-checks-biden-to-push-for-more-payments-in-next-covid-plan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 121
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
-        width: 3873
-        height: 2664
-        isCached: true
-  - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
-    excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."
-    publishedDateTime: 2020-12-22T15:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-prague-newspaper-idUSKBN28W1SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28W1SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W1SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: BBC
+      domain: bbc.com
     quality: 120
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545448292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL12O"
-        width: 818
-        height: 545
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091mmz2.jpg"
+        width: 400
+        height: 224
         isCached: true
   - title: "Texas Baptist Minister, a Lifelong Republican, Loses License After Endorsing Biden"
     excerpt: "\"Had I endorsed Donald Trump or kept my views to myself, I am sure I would still be a licensed Christian minister on the pathway to formal ordination,\" David Bumgardner said."
@@ -110,6 +92,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1661437/texas-voting.jpg"
         width: 2500
         height: 1669
+        isCached: true
+  - title: "Hunter Biden, long a GOP political target, reveals he is subject of federal tax probe"
+    excerpt: "Hunter Biden, the president-elect's embattled son, announced Wednesday that federal prosecutors in Delaware are investigating his \"tax affairs.\""
+    publishedDateTime: 2020-12-10T00:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/hunter-biden-01-gty-llr-201209_1607550823079_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Nearly 50 years after death of wife and daughter, empathy remains at Joe Biden's core"
     excerpt: "Joe Biden made headlines as the 29-year-old lawyer who pulled off an upset win against Sen. Caleb Boggs to represent Delaware in the Senate -- one of the youngest people ever elected to the body. But it was a different headline a month after the election that would forever change his life: \"Biden's wife,"
@@ -143,63 +141,68 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Iran rejects IAEA chief's call that new agreement needed after Biden takes office -tweet"
-    excerpt: "Iran's ambassador to the International Atomic Energy Agency on Friday rejected the UN atomic watchdog chief's suggestion that reviving Iran's nuclear deal after a new U.S. administration comes to power would require striking a new agreement."
-    publishedDateTime: 2020-12-18T11:57:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int/iran-rejects-iaea-chiefs-call-that-new-agreement-needed-after-biden-takes-office-tweet-idUSKBN28S0OK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0OW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0OW"
+  - title: "Disability Rights Groups Send Letter Opposing Biden's Potential Education Secretary Pick"
+    excerpt: "\"As the leader of the NEA, Eskelsen García had the opportunity to steer the organization toward equity and access for students with disabilities but failed to do so,\" the letter read."
+    publishedDateTime: 2020-12-11T20:27:00Z
+    webUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189"
+    ampWebUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 116
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544999702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0DB"
-        width: 852
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1684808/lily-eskelsen-garcia-nea-conference-2018.jpg"
+        width: 3500
+        height: 2333
         isCached: true
-  - title: "Biden won't ask his attorney general candidates about potential investigations into his son, Hunter"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said Biden would not be addressing an investigation with his candidates for Attorney General."
-    publishedDateTime: 2020-12-20T17:16:00Z
-    webUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wont-ask-ag-candidates-about-hunter-investigation-2020-12?amp"
+  - title: "President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs'"
+    excerpt: "WASHINGTON -- President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs.' Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general 24/7 coverage"
+    publishedDateTime: 2020-12-09T22:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: ABC
+      domain: abcnews.go.com
+    quality: 113
     images:
-      - url: "https://i.insider.com/5fdbcfa4d366e60018098c5f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "'No plans' for special counsel in Hunter Biden probe -Barr"
-    excerpt: "Politics 'No plans' for special counsel in Hunter Biden probe -Barr. Posted . U.S. Attorney General William Barr said on Monday he has no plans to appoint a special counsel to inv"
-    publishedDateTime: 2020-12-21T18:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/no-plans-for-special-counsel-in-hunter-b-idOVD9YH5NJ?chan=6g5ka85"
+  - title: "'Need a miracle': Permanent resident facing deportation hoping he can last until Biden administration"
+    excerpt: "Kelvin Silva faces deportation from ICE, even though he's been a legal permanent resident of the United States since the 1980s."
+    publishedDateTime: 2020-12-11T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/miracle-permanent-resident-facing-deportation-hoping-biden-administration/story?id=74602993"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden defends son in Justice Department probe..."
+    excerpt: "Watch \"President-elect Joe Biden defends his son Hunter Biden in the Justice Department probe during a sit down with Stephen Colbert on 'The Late Show'\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-18T00:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201218001933-president-elect-joe-biden-defends-his-son-hunter-biden-in-the-justice-department-probe-during-a-sit-down-with-stephen-colbert-on-the-la/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201221&i=OVD9YH5NJ&r=OVD9YH5NJ&t=2"
-        width: 960
-        height: 540
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/18/story_08169353_1608251944.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden says he sees no evidence cyber attack is under control"
-    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T03:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Hunter Biden reveals he is under federal investigation for \"tax affairs\""
     excerpt: "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest."
     publishedDateTime: 2020-12-10T13:43:00Z
@@ -214,17 +217,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
-    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
-    publishedDateTime: 2020-12-10T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd16d6d8f0892e7c1ad2d5c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 88
 
 secured: "+fMoxQOriBNfPefHaVpR/jd21gpvcOWJZrgLMYIDeHhRcbI2vzjMnD3kTTaKhp2lPMopAgcPojkhRfS5BXcvJiL8sy6LzYFI1Fc5bgT76I1Xnv8T9xR64V+XKfqpZQqM9lrd3uwUMQnPCT5nLM1Vm1+g5u4mwQr8qXvaSRH9kl2SmUn2kf80YOZJOKhgKmALfYJM94cDzZ+YzKJCt/HDI95aRq/7ohBJ5krH6W4X1Vy72P9wWK0z1YmGmvA1xo/cmUnH14uSG483B7gLr1kpLgfhcfrrDesAJRC8ibTPEUWdbA1yBXdA0MkNDOm0Ddjdz0FrMT6d7CelVdm3Lie7oqJIkaaiuRRuPzaHDVwolz05/SpdY7+xhhDwvvQw3BNWUx6tRbKza/FrJ9ZVlj7uUUnxvAxneBJKlYiGdCnqB8pumxgWbB6m3M75b6rjfHY+1NaF8GhbKz/BaLCIPWqbZtD5hRxPU0Wjkqw9xLV8eMndUIOMyqTyz/g7kbIhKfLswCaRvDVoAKQAwWnGFzmMpw==;y9u/yFbp/koUi6CVNUtWTA=="
 ---

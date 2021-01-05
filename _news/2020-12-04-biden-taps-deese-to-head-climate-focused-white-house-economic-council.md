@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2NU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2NU"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 285
+published: true
 
 provider:
   name: Reuters
@@ -31,83 +31,128 @@ images:
     isCached: true
 
 related:
-  - title: "Milwaukee County vote recount gives Biden small boost"
-    excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
-    publishedDateTime: 2020-11-28T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Joe Biden’s ‘Groundhog Day’ moment"
+    excerpt: "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008."
+    publishedDateTime: 2020-12-05T19:01:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "The Latest: Biden gives dire virus warning for next 2 months"
-    excerpt: "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths"
-    publishedDateTime: 2020-12-02T14:31:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Biden selects Katherine Tai as U.S. trade representative"
+    excerpt: "President-elect Joe Biden plans to nominate Katherine Tai to be U.S. trade representative, according to three people familiar with the decision. Tai, who has been the chief trade counsel on the House Ways and Means Committee since 2017,"
+    publishedDateTime: 2020-12-09T23:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMK24QB2MMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "The Latest: Biden gives dire virus warning for next 2 months"
-    excerpt: "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths"
-    publishedDateTime: 2020-12-02T23:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
+  - title: "Biden picks leave Democrats with slimmest House majority in modern history"
+    excerpt: "President-elect Joe Biden 's decision to tap Reps. Cedric Richmond (D-La.) and Marcia Fudge (D-Ohio) for his new administration will mean Speaker Nancy Pelosi 's fragile House majority — already decimated in the November election — will temporarily shrink by a couple more seats next month."
+    publishedDateTime: 2020-12-09T20:38:00Z
+    webUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
+    ampWebUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_023ecb7890ac49878a685821011d8798_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/fudgemarcia_052219gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Joe and Jill Biden write op-ed celebrating smaller Thanksgiving amid pandemic"
-    excerpt: "President-elect Joe Biden and his wife, Jill, wrote an op-ed on Thursday celebrating Thanksgiving and sympathizing with families who remain separated over the holiday due to the coronavirus pandemic."
-    publishedDateTime: 2020-11-27T00:56:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
+  - title: "Biden has picked a retired general for defense secretary. Here’s why it matters."
+    excerpt: "President-elect Joe Biden announced his nominee for defense secretary would be retired Army. The move would make the former U.S. Central Command leader the first Black secretary of defense. Biden would also be the second consecutive president to begin his tenure with the nomination of a retired military officer for the post."
+    publishedDateTime: 2020-12-09T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2ZROABZFII6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 946
+        isCached: true
+  - title: "Republicans raise red flags over Becerra’s nomination to lead Biden health department"
+    excerpt: "Some Senate Republicans have signaled concern with Becerra's nomination, but it is unclear if it is enough to block his appointment."
+    publishedDateTime: 2020-12-07T22:37:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7346959/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2F1c%2Fa43eff0d40549c495fb9035e1854%2Falt-auditorium-1920.png"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden to tap Katherine Tai for U.S. trade representative and Denis McDonough to head veterans affairs"
+    excerpt: "Tai would be the first Asian American woman to be USTR. McDonough was President Obama's White House chief of staff."
+    publishedDateTime: 2020-12-10T15:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 122
+    quality: 110
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/ad794d08-da70-4784-af10-7a0a27efa50d/thumbnail/1200x630/0a490c83b38cebb34e0afc20cddf570f/gettyimages-1229520125.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/10/5dfa7453-737b-4d9a-9b23-b0401be1d262/thumbnail/1200x630/ad20fd9161a0dce85803688f7f56049e/screen-shot-2020-12-10-at-10-47-18-am.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Wisconsin county recount boosts Biden's margin"
-    excerpt: "Top News Wisconsin county recount boosts Biden's margin. Posted . President Donald Trump's election campaign demanded recounts in two of Wisconsin's most populous and Democratic-l"
-    publishedDateTime: 2020-11-28T20:26:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD6HLTCV"
+  - title: "Biden taps Big Law partners for White House Counsel's office"
+    excerpt: "President-elect Joe Biden on Wednesday named four partners from three Big Law firms who will serve in senior roles in the Office of the White House Counsel."
+    publishedDateTime: 2020-12-24T02:56:00Z
+    webUrl: "https://www.reuters.com/article/whitehousecounsel-biglaw-biden/biden-taps-big-law-partners-for-white-house-counsels-office-idUSL1N2J32N1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J32N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J32N1"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department."
+    excerpt: "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress."
+    publishedDateTime: 2020-12-08T12:10:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-black-general-lloyd-austin-military-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201128&i=OVD6HLTCV&r=OVD6HLTCV&t=2"
-        width: 960
-        height: 540
+      - url: "https://i.insider.com/5fc16dcb50e71a0011557c1f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "m2UCLC9yKXxy9a+MkW/wWL5nepcUo+XlY7McftHfOKiP6z/8HCIqSMfMOc2RBNJWXZM+tQf6mJUp8b4R2IhEl36X7sx8y5y23Slarm3G6cRw78wb+0HNgsPVnEJx0gchYofwP1I3fZqNppflQJYTvELALbN082exPDHV608rjSLV6UsXAt/ez2Wwqa/lMDMtXqbbJXIp/AmuqSkIqY3ESd77wKsH0P11J0GxUCCTFlotAh2GHngiBm2ruAlEcxvnoYPiECt31Zo3C0QeNW19ODhiBuq6yKeJa1JLnG76hsNEQD978PszY7SBmvK/dbpnFdkv2IwVlrYmq5OA0yzGffecg46CAGdWtQW+C5mEz0kw0pPYh9v2fJajW4os6tN7ZGxm+TsqFqNMxJEmnT1XFEhZJHre6TQxy2QLyO3HC/iXDZ2+yNo9UklKrI7dswRD7qYU1vKkYe3fTg7lfq02DhFkOG0+Ft/ciblADB4QGcBNtIWhecLXO+6lOjzK9jPcVy1QAos5ATNeRAaByxv4xg==;CA/ZfU+HyY8kDkZKMTjLhg=="

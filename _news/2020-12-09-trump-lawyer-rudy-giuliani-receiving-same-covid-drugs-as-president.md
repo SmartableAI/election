@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-55243581"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581"
 type: article
 quality: 125
-heat: 385
+heat: 345
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 119
-  - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
-    excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
-    publishedDateTime: 2020-11-20T04:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
     excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
     publishedDateTime: 2020-12-14T12:29:00Z
@@ -215,22 +199,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/13/gettyimages-1230067031_wide-ce0413b079c5a9d14d96e3fb5b48ee1bfa0f4135.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
-    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
-    publishedDateTime: 2020-11-07T18:32:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "BhHUvtCxalLN9RECS4orlSKS7TWT0IRn5WnulcTjxu7VZMm9bMu1L+pNVhJKuK0aaOuLHMZ9BAmUqaegeXWjbKRzrnmK6X9j6SKzOEzYUde9jBZXbJS0paN30GCQkj9Ddu/2bHReFkiq+ZBAwyoH7lMVKPc09w/3m5nE/Nkz0bcjJdRYoljrVyGxMxpf7Bldu8X3YVPbbIEuQD6kFgujrU/pE0lZCG8JrHxjH1M9/ufvW8XgBXDogudr7GkUn4MUgCJdztZtv2ceF6AWThOVZM/pqxq7dJulzGXefaCi5NK+6bQixLwQSmsbJL+a+y1q3XB+4V1Hh893AsNmZLjvC2/eJIiqeGRv7KQVuS90i6M=;ByThdRhghFLPCa05a9ldNg=="

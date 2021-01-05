@@ -25,6 +25,54 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Trump loses one Wisconsin case while arguing another one"
+    excerpt: "As Trump loses an election lawsuit in federal court in Wisconsin, the state's high court hears another that one justice says “smacks of racism.”"
+    publishedDateTime: 2020-12-12T20:16:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2257466/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Fa7%2F70c4aa8f40cdb15585b4f9f9570a%2Fww1thumb.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump loses Wisconsin case while arguing another one"
+    excerpt: "U.S. District Judge Brett Ludwig dismissed the lawsuit asking the court to order the Republican-controlled Legislature to name Mr. Trump the winner over Democrat Joe Biden."
+    publishedDateTime: 2020-12-13T12:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-wisconsin-court-losses/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-wisconsin-court-losses/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump campaign asks supporters whether he should run in 2024"
+    excerpt: "Trump has not conceded or admitted that he lost this year’s election, but his campaign emailed supporters asking whether he should run again in 2024"
+    publishedDateTime: 2020-12-16T02:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/15/trump-campaign-asks-supporters-possible-2024-presidential-run/3915868001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3915868001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3915868001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/39f65dce-c41a-4dc2-baf7-6136ca73b276-GTY_1230110683.jpg?auto=webp&crop=4457,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biggest vets groups step up pressure on Trump to fire Wilkie"
     excerpt: "The nation’s six largest veterans groups are calling on President Donald Trump to immediately fire Veterans Affairs Secretary Robert Wilkie over the mishandling of a congressional aide’s allegation of"
     publishedDateTime: 2020-12-19T14:58:00Z
@@ -41,70 +89,106 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Euro, Aussie gain, disregarding Trump's threat to block stimulus"
-    excerpt: "The euro rose to $1.22 and the dollar fell on Wednesday as foreign exchange traders looked beyond U.S. President Donald Trump's threat to block a $892 billion COVID-19 aid package."
-    publishedDateTime: 2020-12-23T14:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-global-forex-idUSKBN28X064"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X064"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X064"
+  - title: "Court affirms ruling dismissing Trump challenge in Wisconsin"
+    excerpt: "A federal appeals court has refused to overturn a decision dismissing President Donald Trump’s lawsuit seeking to declare him the winner in swing state Wisconsin"
+    publishedDateTime: 2020-12-24T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/court-affirms-ruling-dismissing-trump-challenge-in-wisconsin/2020/12/24/49f7228a-463e-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545537325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0JA"
-        width: 741
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Musicians who opposed Trump's use of their music in 2020"
-    excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
-    publishedDateTime: 2020-12-25T19:26:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+  - title: "Trump makes 2nd request to Supreme Court over Wisconsin loss"
+    excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state."
+    publishedDateTime: 2020-12-31T08:23:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/musiciansagainsttrump_getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
-    excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
-    publishedDateTime: 2020-12-16T09:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/attorney-general-william-barr-leaving-trump-administration/5993228002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5993228002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5993228002"
+  - title: "Trump's legal attempt to throw out votes in Wisconsin's most diverse counties 'smacks of racism,' judge says"
+    excerpt: "Most Black Wisconsinites live in or around the two counties, Milwaukee and Dane, where the Trump legal team sort to throw out 221,000 absentee ballot."
+    publishedDateTime: 2020-12-13T14:18:00Z
+    webUrl: "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-election-fraud-lawsuit-smacks-of-racism-judge-says-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fd606459cf1420018d2f0ed?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House"
-    excerpt: "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies."
-    publishedDateTime: 2020-12-19T11:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3931868001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3931868001"
+  - title: "House Dems' campaign chief a moderate who wins in Trump land"
+    excerpt: "Their dwindling majority in peril, House Democrats are entrusting their campaign operations to an analytical, openly gay moderate who’s been an attorney, businessman and five-time winner in his competitive congressional district."
+    publishedDateTime: 2020-12-13T04:42:00Z
+    webUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-dems-campaign-chief-a-moderate-who-wins-in-trump-land-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump attacks Republicans while attending Army-Navy football game"
+    excerpt: "Navy football game this Saturday, President Trump tweeted attacks against fellow Republicans and allies who urge the President to accept the election results. Chip Reid has more."
+    publishedDateTime: 2020-12-13T00:10:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-attacks-republicans-while-attending-army-navy-football-game/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/faa39348-f87f-4e26-94f3-50a0aef33d73-AFP_AFP_8QT7GX.jpg?auto=webp&crop=4499,2531,x0,y234&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/7cbaa70c-b218-411b-8363-bc3da5691388/thumbnail/1200x630/2e13b0afd7921afd4ad282cebebdc306/cbsn-fusion-trump-attacks-republicans-while-attending-army-navy-football-game-thumbnail-607720-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
+  - title: "Hacker Reveals Trump's Twitter Password And It's A Very Easy, Obvious One"
+    excerpt: "The cybersecurity researcher said it only took him five attempts to successfully log into President Donald Trump's Twitter account."
+    publishedDateTime: 2020-12-17T03:37:00Z
+    webUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003"
+    ampWebUrl: "https://www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hacker-reveals-trumps-twitter-password-its-very-easy-obvious-one-3104003?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/29/us-president-donald-trump-says-he-will-not.jpg"
+        width: 1024
+        height: 716
+        isCached: true
+  - title: "Trump Admin Revives Oil Leasing in California Despite Opposition"
+    excerpt: "The Trump administration on Thursday will hold a sale of oil and gas leases on federal land in California for the first time in eight years despite widespread opposition to the auction in the Democratic state,"
+    publishedDateTime: 2020-12-10T12:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "E0mKcrj7c/Pw+MU8EUTzoZyFbzRghvY9T/mbcZw6BGDiToxuCYweN5t8H9t0z9wSez1IDEooDfWpgh9MZSreWtD8Hwqe7ScgEAyZwTrVm5zXg2Nm2goMBaef8uXMJOAopusuqGrbCoNMaNWj+AwhgFzPykxerm6+0H5dpD2ycXoghdZSiqDjwf6WsKy8sx1dK3FfWdnBgsOsmMOqiIAPSpYBP1vxqh6Xyv6xjgW+KD9ln+gZu+BwzsDtliHzBOwtakwJCvtp4LOyGIS3PjdrCmi+0WKec5yoO68kBeXedt7OvdVcSUYXAxlnn4eh8ONBsi3paXApBjTmvrwPZfJjs8PbdW7RYS0f9QlscFx/WezVTyXeO0ru08bjFaP2bXHr9SIOvYE8xQhmR0Z7UokBeM8SqjUdwY6qNoSZjqrfAZ/J7py4iqLEyvnyxRs9zASNVvBUhvYqjWIbVE/JdALQwedlVm4eSOUiL2pR6Fd8Fao559xWO7nVArMwoxLv38fKhDbxi9EC4O4YRN49Pzuu+g==;5SUREVqOUuoGXrxprplqUw=="
 ---

@@ -79,21 +79,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
-    excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
-    publishedDateTime: 2020-11-29T17:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
+  - title: "Judge calls Trump request in Wisconsin lawsuit ‘bizarre’"
+    excerpt: "A federal judge hearing President Donald Trump’s lawsuit seeking to overturn Democrat Joe Biden’s win in Wisconsin says that the president’s request to “remand” the case to the GOP-controlled Legislature to pick new electors was “bizarre."
+    publishedDateTime: 2020-12-05T00:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump files new case in lawsuit barrage, looking to Wisconsin's legislature to flip outcome"
     excerpt: "President Donald Trump late Wednesday filed a new federal lawsuit contesting the vote in Wisconsin, the latest in a blizzard of suits around the country."
@@ -126,6 +126,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/35179d2161584dcb3c3dc696c5aa3b4becbdd366/75_133_2544_1527/master/2544.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3c992fb8d7052bc64c3f55ff4ce9f9cf"
         width: 600
         height: 360
+        isCached: true
+  - title: "Ivanka Trump Deposed In Inauguration Fund Lawsuit"
+    excerpt: "President Trump's eldest daughter gave a deposition this week in connection with the suit, being heard in a Washington, D.C. court. She condemned the investigation on Twitter."
+    publishedDateTime: 2020-12-03T15:26:00Z
+    webUrl: "https://www.npr.org/2020/12/03/942054569/ivanka-trump-deposed-in-inauguration-fund-lawsuit"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20301833488219_wide-7c4d6471270d895c2cdd40e0ba918e8e36ce43d9.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
     excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."

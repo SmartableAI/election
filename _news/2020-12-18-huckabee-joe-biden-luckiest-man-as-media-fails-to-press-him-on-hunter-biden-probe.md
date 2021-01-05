@@ -31,101 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will not discuss Hunter Biden probe with attorney general candidates: Psaki"
-    excerpt: "President-elect Joe Biden's pick for White House press secretary, Jen Psaki, told \"Fox News Sunday\" that Biden will not discuss any investigation of his son Hunter with anyone he is considering to be the next U.S. attorney general."
-    publishedDateTime: 2020-12-20T15:37:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPNYhfeATsU/hunter-biden-probe-attorney-general-candidates-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
+  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
+    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-17T20:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OZs82XMrWUI/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3510bd-03e7-49ea-8fbe-75b8933bd5c1/360cfa39-c952-4b0b-8928-61d73d18ee39/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
+    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
+    publishedDateTime: 2020-12-12T19:22:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden claims ‘foul play’ in Hunter tax investigation but says he’s ‘not concerned’"
-    excerpt: "The president-elect said he will be able to look past personal attacks on his son while in office."
-    publishedDateTime: 2020-12-18T00:52:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ct2XqQsUJhU/joe-biden-foul-play-hunter-tax-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-foul-play-hunter-tax-investigation.amp"
+  - title: "Biden adviser's brother lobbying for drugmaker under federal probe"
+    excerpt: "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-17T21:19:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314ad8b7-b082-424c-9561-c701dbe9d307/28526cd8-742c-444b-8156-c59abbed03ee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden considers Boston Mayor Walsh for labor secretary amid pressure for diverse Cabinet: sources"
-    excerpt: "Boston Mayor Marty Walsh is being strongly considered for labor secretary in the new Biden administration, two sources familiar with the discussions tell Fox News, but racial diversity considerations are weighing heavily on President-elect Joe Biden’s decision."
-    publishedDateTime: 2020-12-24T20:51:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's claim he won't discuss Hunter case with AG pick shows need for special counsel: Sen. Kennedy"
-    excerpt: "Sen. John Kennedy, R-La., said President-elect Joe Biden's claim he would not discuss the investigation into his son with his attorney general pick was why a special counsel was needed on the matter."
-    publishedDateTime: 2020-12-21T17:17:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IDcH2uB4rIo/hunter-biden-attorney-general-pick-special-counsel-kennedy"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-attorney-general-pick-special-counsel-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-attorney-general-pick-special-counsel-kennedy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66264099-fd84-4298-bc4c-99bd6e36d647/d73a3e4a-75cc-404e-94b9-fd0ff4c8be2c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trey Gowdy rips Biden comments defending son Hunter: 'The United States Attorney's office is not foul play'"
-    excerpt: "Fox News contributor Trey Gowdy rejected President-elect Joe Biden’s notion that accusations surrounding his son’s business dealings overseas constitute \"foul play.\""
-    publishedDateTime: 2020-12-18T19:57:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cw6mGZFHNFU/trey-gowdy-joe-biden-hunter-biden-foul-play"
-    ampWebUrl: "https://www.foxnews.com/politics/trey-gowdy-joe-biden-hunter-biden-foul-play.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trey-gowdy-joe-biden-hunter-biden-foul-play.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden hasn't discussed Hunter in his search for an AG, some stories about son were 'Russian disinformation'"
-    excerpt: "President-elect Joe Biden said in a press conference Monday that his son Hunter’s business dealings had not come up in discussions about his highly anticipated pick for attorney general. "
-    publishedDateTime: 2020-12-22T20:57:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M8-eCabO4xc/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Barr-Biden-DOJ.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Huckabee: Joe Biden 'luckiest man' as media fails to press him on Hunter Biden probe"
     excerpt: "Mike Huckabee slammed the mainstream media for only lobbing \"softball\" questions at President-elect Joe Biden while Hunter Biden is under federal investigation for overseas business dealings."
@@ -143,19 +95,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden mocks questions about Hunter as mainstream media remains largely uninterested"
-    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
-    publishedDateTime: 2020-12-23T18:31:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested"
-    ampWebUrl: "https://www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-mocks-questions-hunter-media-uninterested.amp"
+  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
+    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
+    publishedDateTime: 2020-12-13T01:28:00Z
+    webUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators?amp%2F"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 123
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86956551-e068-49b5-a2db-204d8ebeb325/f136f818-3a95-467b-ba4e-1a795a7ac3a0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

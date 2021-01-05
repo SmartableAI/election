@@ -95,53 +95,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Georgia secretary of state to recertify results confirming Biden win after third count"
-    excerpt: "Georgia Secretary of State Brad Raffensperger says his office will recertify the presidential election results on Monday, following a second recount that once again upheld President-elect Joe Biden's victory in the state."
-    publishedDateTime: 2020-12-07T17:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PymTRoLBCU/georgia-election-recertification-biden-win-third-count"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
+  - title: "Sen. Cotton says Neera Tanden has no chance of being confirmed, tells Biden 'go back to the drawing board'"
+    excerpt: "Neera Tanden has “no chance of being confirmed,” Sen. Tom Cotton said on Wednesday."
+    publishedDateTime: 2020-12-02T14:06:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovAKAOTmZAA/tom-cotton-neera-tanden-no-chance-senate-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
-    excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet. "
-    publishedDateTime: 2020-11-28T20:24:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p5fuVHUMcII/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
-    excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet."
-    publishedDateTime: 2020-11-28T20:30:00Z
-    webUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "FaGbmv/A37tZYU44uQDa1xhbPwSA4TJtWp+TUSvhzouI77+8nuZAYY4g7jns/9M6V7zlJxuWxceqcyjdEqqQebJiOxOYwXL8Wqi/tpQUV21roH5fywWGx0Ks84f2TdyxY/M6R4gowqmj07iiT8MpuWAXxnRE2qLJQGR2jFnWJ1hmptSVgO+yY8AOLis0LSVcOFtWDwITezkjDN4VWeL9a6JemIEFrcelJGPWxuEHSYJGybLck944TvDc3GX+WpMnysDFRTqZgxWB8Kmb8eY6CQY6IsQD5EMX8H7u53ZA3oDIUcB7Word6DyFtWnqPjz73B6qUFOcp3suONUa1cpXS3AN0HUT6TW5uuHX5VCDtEY=;3o3XCiLykgP1UB+K2MqiuQ=="

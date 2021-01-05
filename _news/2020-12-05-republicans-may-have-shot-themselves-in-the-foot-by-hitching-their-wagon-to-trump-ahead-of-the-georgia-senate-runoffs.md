@@ -47,38 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
-    excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
-    publishedDateTime: 2020-12-05T09:48:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN28E37D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E37D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E37D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543523100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB401N"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
-    excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
-    publishedDateTime: 2020-12-05T16:28:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN28E37D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E37D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E37D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543537204&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB407O"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
     excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
     publishedDateTime: 2020-12-04T10:14:00Z
@@ -94,70 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/2d1fb1e6-935c-491b-af2f-64a1ce3f520a-EDIT_W_29002.jpg?auto=webp&crop=2355,1325,x0,y464&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Georgia upholds Biden's win as Trump turns down offer of more coronavirus vaccine doses - live"
-    excerpt: "New York Times reports Trump passed on Pfizer’s offer in late summer and the company may not be able to provide more doses until next June"
-    publishedDateTime: 2020-12-07T22:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce99b38f084f47a8a40f83"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 128
-    images:
-      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
-    excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
-    publishedDateTime: 2020-11-28T22:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump 'ashamed' to have endorsed Republican Georgia governor"
-    excerpt: "President Donald Trump said Sunday he was “ashamed” for endorsing the Republican governor of Georgia after he lost in the state to Democrat Joe Biden"
-    publishedDateTime: 2020-11-29T21:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
-    excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
-    publishedDateTime: 2020-11-29T20:05:00Z
-    webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "GOP leader McDaniel to run for 3rd term with Trump's backing"
     excerpt: "Republican National Committee Chairwoman Ronna McDaniel is launching her bid for a third two-year term heading the GOP's governing organization"
@@ -206,22 +110,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Trump's veto threat on must-pass defense bill meets GOP resistance"
-    excerpt: "Trump's Tuesday night veto threat of a highly popular, must-pass defense bill -- which includes a 3% pay raise for U.S. troops -- has been met with GOP defiance."
-    publishedDateTime: 2020-12-03T01:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-veto-threat-pass-defense-bill-meets-gop/story?id=74506183"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-veto-threat-pass-defense-bill-meets-gop/story?id=74506183"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-veto-threat-pass-defense-bill-meets-gop/story?id=74506183"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-gop-social-media-00-gty-llr-201202_1606950356056_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "The many Trump contradictions that could hurt the GOP in Georgia"
     excerpt: "And Trump could bring those contradictions straight to Georgia. He’ll be there Saturday for a campaign rally that could hurt as much as help Georgia Republicans in January elections for two Georgia Senate seats that will decide which party controls the Senate."
@@ -335,22 +223,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
-    excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
-    publishedDateTime: 2020-11-29T22:12:00Z
-    webUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "GOP congressman wants to condemn colleagues who call on Trump to concede"
     excerpt: "Rep. Alex Mooney (R-W.Va.) proposed the resolution during a House Republican Conference Tuesday, reflecting the GOP fealty to the lame-duck president."
     publishedDateTime: 2020-12-08T22:26:00Z
@@ -399,22 +271,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Failing to convince Gov. Kemp to flip election, Trump vows to 'win back the White House' at Georgia rally"
-    excerpt: "In a phone call, Gov. Kemp refused Trump's request for a legislative session to appoint a pro-Trump slate to the Electoral College, reports said."
-    publishedDateTime: 2020-12-07T23:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/trump-georgia-brian-kemp-rejects-changing-election/3839689001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3839689001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3839689001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/dcc9bd75-5c3a-46f6-a2d2-21dcf4f62331-GTY_1289641035.jpg?auto=webp&crop=3205,1803,x0,y219&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump campaign, GOP raised at least $170 million since Election Day pushing baseless election fraud claims"
     excerpt: "Since Election Day, President Donald Trump’s campaign has raised over $170 million -- much of that money has gone to retire campaign debt and to fund Trump's new PAC."
     publishedDateTime: 2020-12-01T23:49:00Z
@@ -462,20 +318,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543753150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB701N"
         width: 663
         height: 545
-        isCached: true
-  - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
-    excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."
-    publishedDateTime: 2020-11-21T01:15:00Z
-    webUrl: "https://www.cbsnews.com/video/mike-pence-campaigns-in-georiga-for-senate-runoff-elections/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/81a7d18b-7048-4d17-b82d-971aace7b830/thumbnail/1200x630/182241d14d0784dc2ff695deb6bee018/cbsn-fusion-mike-pence-campaigns-in-georiga-for-senate-runoff-elections-thumbnail-592241-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Georgia voting manager says that refuting Trump's debunked election claims are a like a 'game of whack-a-mole'"
     excerpt: "\"The president's statements are false,\" he said. \"It undermines democracy. We've got to get to a point where responsible people act responsibly.\""
@@ -757,20 +599,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump won't say if he still has confidence in..."
-    excerpt: "Watch \"President Trump won't say if he still has confidence in AG Barr\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-05T00:11:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201204233715-president-trump-wont-say-if-he-still-has-confidence-in-ag-barr/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/04/story_07986340_1607125204.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "In Arizona, Trump's false claims have torn open a GOP rift"
     excerpt: "Arizona Gov. Doug Ducey spent much of Donald Trump's presidency trying not to provoke confrontation with the president or his fervent defenders. He almost made it through."
     publishedDateTime: 2020-12-11T18:54:00Z
@@ -851,20 +679,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
-    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
-    publishedDateTime: 2020-11-29T09:33:00Z
-    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pence comes to Georgia as calm before potential Trump storm | Charlotte Observer"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-04T20:50:00Z
@@ -913,34 +727,17 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
-    publishedDateTime: 2020-11-20T20:33:00Z
-    webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
+  - title: "Trump Headed to Georgia as Turnout Driver, but Also a Threat"
+    excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter President-elect Joe Biden’s administration."
+    publishedDateTime: 2020-12-01T04:07:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat?context=amp"
     type: article
     provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
-    excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
-    publishedDateTime: 2020-11-10T20:57:00Z
-    webUrl: "https://www.ajc.com/politics/politics-blog/vice-president-pence-will-campaign-in-georgia-for-gop-senators-in-runoff/6FXJHBVYLJGPXAY4BLC6G73WEQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/pbOdNqkyHcqh0kn5aevnLaU4l3s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JP473P73HVH3D4OQD373MMVNR4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "FIn8tsn+f/h/9pynqcEk4z5s1E2DFoFLR8b9gC3o7Jgh87Xy3aX+HV6FAQGMy9gbBonsYvCPwNjg3ZB2uMw4WKL7ktQnOSfBxyOXB+yKb3mEozzg6fZfc924Cg7TBSYy+/B3rXjCNFv7SUuZ6UNFspgFOJ29rFKFZxnlLA/D03q3334vxlwf8mZ67y/M6WycBzeiMXvq8oILy8yfJ5QQB0iZCY0pkrzAYMaYclC31nqC9olRJAmkoK7SZDSZskYZBUG5MY2IeJ7GqJdOYd9smmHu3qENQdoW+xXPowJVJBr/4YPZZVZ0zDyXpiRG9mNbno/ieUTvRqUcmXKpVgIp6ssG2EhiBRIwBaWqLJEX1k4U1E5dE1gT3v6FYr/AguU7FzNRPAif+Cz+t9nWGge0GWDKmzlEMvmvyIUuBWssrv3P77o9Ti434qcz0rJtaKMAsV7CRvTqEQWjD/6L5hF7i8llVgYBfp/M10OOvQwj0I9bPTFopC27DDKeEKBiPx3tevot4DrshBzErT8EG4PHQQ==;OS5mdeBJrn1eS1yZjOIluQ=="
 ---

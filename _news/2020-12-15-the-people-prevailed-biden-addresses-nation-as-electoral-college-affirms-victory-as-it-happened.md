@@ -73,38 +73,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Tuesday's safe harbor deadline is boost for Biden"
-    excerpt: "A deadline set Tuesday under federal law essentially locks in President-elect Joe Biden’s victory, even though President Donald Trump is still falsely claiming he won reelection"
-    publishedDateTime: 2020-12-09T12:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/safe-harbor-law-locks-congress-accepting-bidens-win-74597839"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e9204dca46054191810493c0d6053ca0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "In break with Trump, McConnell urges passage of defense bill"
-    excerpt: "In a rare break with President Donald Trump, Senate Majority Leader Mitch McConnell is urging passage of a wide-ranging defense policy bill that Trump has threatened to veto"
-    publishedDateTime: 2020-12-10T22:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Watch live: Biden delivers remarks following Electoral College victory"
     excerpt: "President-elect Joe Biden is set to deliver remarks Monday evening following his official Electoral College victory.Electors across the country cast their votes on Monday, with California officially putting Biden over the 270 threshold."
     publishedDateTime: 2020-12-14T23:02:00Z

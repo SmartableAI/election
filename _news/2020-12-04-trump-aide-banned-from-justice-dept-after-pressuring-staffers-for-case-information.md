@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump administration moves to strip federal protections for migratory birds"
+    excerpt: "The Trump administration moved forward Friday on gutting a longstanding federal protection for the nation's birds, over objections from former federal officials and many scientists that billions more birds will likely perish as a result."
+    publishedDateTime: 2020-12-01T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/01/trump-administration-moves-gut-federal-protections-migratory-birds/6463879002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6463879002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6463879002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/30/PGRF/9bfd80db-f79b-45b8-b49c-f57b55a20c05-AP20323772023717.jpg?auto=webp&crop=2249,1266,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Letter from 1,500 attorneys says Trump campaign lawyers don’t have ‘license to lie’"
     excerpt: "The letter escalates the concerns of Rep. Bill Pascrell Jr. (D-N.J.), who filed complaints with ethics boards in five states calling for Rudolph W. Giuliani and other members of the team to be investigated and disbarred."
     publishedDateTime: 2020-12-09T04:32:00Z
@@ -142,6 +158,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/17d0ac5/2147483647/strip/true/crop/4192x2738+5+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F95%2Fd75a8b98a5a0d3f2f2532520eec2%2F92d2ddb98a88412186f7bce3bd18cd80"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
+    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
+    publishedDateTime: 2020-12-02T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 81
+    images:
+      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "US Congress Slaps Trump By Overriding Veto Of Defense Bill"
     excerpt: "The US Congress on Friday dealt Donald Trump a humiliating blow in his last days in office with the Senate voting overwhelmingly to override his veto of a sweeping defense bill -- the first time lawmakers have done so during his presidency."

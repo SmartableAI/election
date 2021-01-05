@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to make trip to Georgia to stump for Ossoff, Warnock"
-    excerpt: "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation."
-    publishedDateTime: 2020-11-22T21:18:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock"
-    ampWebUrl: "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-and-Joe-Biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden expected to pick Antony Blinken as top diplomat"
-    excerpt: ""
-    publishedDateTime: 2020-11-23T06:12:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZTz72Id-jw8/biden-expected-to-pick-antony-blinken-as-top-diplomat"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-expected-to-pick-antony-blinken-as-top-diplomat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expected-to-pick-antony-blinken-as-top-diplomat.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Live Updates: Biden heads to Georgia to campaign for Ossoff, Warnock"
     excerpt: "President-elect Joe Biden will campaign for the Democratic candidates just a day after the Electoral College confirmed his victory. "
     publishedDateTime: 2020-12-15T05:30:59Z
@@ -79,35 +47,69 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden expected to make trip to Georgia to stump for Ossoff, Warnock"
-    excerpt: "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation."
-    publishedDateTime: 2020-11-22T21:26:00Z
-    webUrl: "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock"
-    ampWebUrl: "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp"
+  - title: "Live Updates: Biden to campaign in Georgia for Senate candidates Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden will be in Georgia next week to campaign for Democratic Senate candidates Jon Ossoff and Raphael Warnock."
+    publishedDateTime: 2020-12-10T04:40:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XRtnZJSz4xA/live-updates-senate-12-10-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-and-Joe-Biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e9e271f-ce01-4542-baeb-3dc605c526a6/6d9bc3da-2ec9-44b8-9e71-79c685935a6f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Watch: President-elect Joe Biden Campaigns In Georgia For Ossoff And Warnock"
-    excerpt: "President-elect Joe Biden is scheduled to host a campaign rally for Democratic Senate candidates Jon Ossoff and Raphael Warnock on Monday afternoon ahead of Georgia's runoff elections."
-    publishedDateTime: 2021-01-05T05:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/04/watch_live_biden_campaigns_in_georgia_for_ossoff_and_warnock.html"
+  - title: "Biden will not discuss Hunter Biden probe with attorney general candidates: Psaki"
+    excerpt: "President-elect Joe Biden's pick for White House press secretary, Jen Psaki, told \"Fox News Sunday\" that Biden will not discuss any investigation of his son Hunter with anyone he is considering to be the next U.S. attorney general."
+    publishedDateTime: 2020-12-20T15:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPNYhfeATsU/hunter-biden-probe-attorney-general-candidates-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-attorney-general-candidates-psaki.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 62
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
-      - url: "https://assets.realclear.com/images/53/530997.jpg"
-        width: 1030
-        height: 772
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3510bd-03e7-49ea-8fbe-75b8933bd5c1/360cfa39-c952-4b0b-8928-61d73d18ee39/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden announces 'Flip Georgia Fund' to support Democratic runoff candidates"
+    excerpt: "Follow for the latest updates on the Georgia Senate runoff"
+    publishedDateTime: 2020-12-11T05:44:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rFqltlqQq9k/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62b705d1-9028-496b-afbe-ae155e9646d0/9d03800d-131b-436b-affd-7f72a9fd40f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden adviser’s brother lobbying for drugmaker under federal probe"
+    excerpt: "The brother of an incoming adviser to President-elect Joe Biden is currently lobbying for a drugmaker that is under federal investigation for allegedly inflating its role in Operation Warp Speed."
+    publishedDateTime: 2020-12-18T05:57:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-18-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6148cd10-fca2-4297-9ce3-0975a3ba3d8c/a12ceab4-ce94-43d5-b2d5-c6bad73d0a4f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "6s5sk7ecG5hSSRqC8LAM/sUy9n8qLj72ojzhcrqq9xGCFgwfG6qeYbIDaklGZQbZG5rC8Nfe+MgqiwnaZCiLcpG1TpvuG83lRaNQahISZ+S2+QpJjv1MVVbNHOL6dZsaypGlBWxWr94w6ThaUXCVrMloneVoGfTUAapA6RLDBlKXrOpFyWhHhtTkIWoe/JhHKZX8iEZxEFzM2vr6/akA486MuXGfPe3vKEdHBa5b122kjWYxZUc34iZim3Gd5TtAmUSEJUIU0tc79qBKgQQXFg+qLMeVKeyvJK2tufTo1SKG/6VkaP5rnyM13Ewmiaa7ZWKQmyBcvDOWCOtd8Z0Vp7tx5Ra49Gzoem2jW1n6Cec=;Ls6t5BgyZsKKh/wnKaMRXA=="

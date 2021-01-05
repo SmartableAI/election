@@ -143,38 +143,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
-    excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
-    publishedDateTime: 2020-11-29T23:29:00Z
-    webUrl: "https://omaha.com/news/local/govt-and-politics/omahas-symone-sanders-will-be-chief-spokeswoman-for-vp-elect-kamala-harris/article_0c8e95f0-b6fc-51b3-983a-593bc7d9c2e3.html"
-    ampWebUrl: "https://omaha.com/news/local/govt-and-politics/omahas-symone-sanders-will-be-chief-spokeswoman-for-vp-elect-kamala-harris/article_0c8e95f0-b6fc-51b3-983a-593bc7d9c2e3.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/local/govt-and-politics/omahas-symone-sanders-will-be-chief-spokeswoman-for-vp-elect-kamala-harris/article_0c8e95f0-b6fc-51b3-983a-593bc7d9c2e3.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 73
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/65/d65390d1-17ef-51a6-bf87-71b4ce3c5b4d/5fb53bc58afee.preview.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
-    excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
-    publishedDateTime: 2020-11-26T14:03:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 70
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Feinstein picks Padilla in jockeying for Harris' Senate seat"
     excerpt: "Sen. Dianne Feinstein has picked a favorite in the fight to replace Vice President-elect Kamala Harris as California's junior senator: Secretary of State Alex Padilla."
     publishedDateTime: 2020-12-03T00:53:00Z

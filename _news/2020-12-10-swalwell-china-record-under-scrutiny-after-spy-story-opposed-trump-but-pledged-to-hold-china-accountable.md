@@ -80,38 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
-    excerpt: "Rep. Eric Swalwell, D-Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
-    publishedDateTime: 2020-12-09T01:29:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pN2xhiSbIRU/eric-swalwell-chinese-spy-influx-of-russians"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
-    excerpt: "Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
-    publishedDateTime: 2020-12-10T11:19:00Z
-    webUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "fHZeLR1D9OJA48kvv2hGzaKIICREJb3FUOewngico0InyPy86bq9sNejc277RPjju71UBQjn4lcTlUrXnv9skDil3kmit5snj7Tnu3f/EjBFLMRglibPhx5BAqGPR2R7xrN2v37pkydmbXn25OgP28lJ4lwZbNWodR0w4fgt5OHOc5q1urrS7QECIVygko1QXdihChTbPr4qZePhD9QxxAOMqPAOxlBkxagyDRjUk4gTM7xgYUJFsI0+KR1uHnf826nhcYmPfqEcB97v+7ieRmlS9i/44elWjHmytwzxrNcegSrsZFRDTa3xL/NF9DF6EXLyU+jST7f29H6eNK4Su+eQMhrtJ5LohexcfgMHpkg=;I6hLvGNrXrBDao8q0ktWAA=="
 ---

@@ -43,118 +43,6 @@ related:
         width: 3500
         height: 2365
         isCached: true
-  - title: "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition"
-    excerpt: "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition."
-    publishedDateTime: 2020-11-24T14:03:00Z
-    webUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 128
-    images:
-      - url: "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden chooses an all-female senior White House press team"
-    excerpt: "President-elect Joe Biden will have an all-female communications team at his White House, led by campaign communications director Kate Bedingfield."
-    publishedDateTime: 2020-11-30T06:11:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d0905f2/2147483647/strip/true/crop/4902x3202+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2Fe0%2Fb14d08af4c349b87fafc63e086ec%2Felection-2020-wisconsin-recount-84374.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden hires all-female senior communications team"
-    excerpt: "Biden’s press team will be led by Kate Bedingfield, a veteran Biden aide who served as his campaign communications director and will hold the same title in his White House. “Communicating directly and truthfully to the American people is one of the most important duties of a President,"
-    publishedDateTime: 2020-11-29T21:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
-  - title: "Biden names all-woman communications team"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
-    publishedDateTime: 2020-11-30T08:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Top secret: Biden gets access to President’s Daily Brief"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
-    publishedDateTime: 2020-11-30T15:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-receive-first-intelligence-briefing-monday/2020/11/30/462363a2-3320-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-receive-first-intelligence-briefing-monday/2020/11/30/462363a2-3320-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-receive-first-intelligence-briefing-monday/2020/11/30/462363a2-3320-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden names liberal econ team as pandemic threatens workers"
-    excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
-    publishedDateTime: 2020-12-01T12:39:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e1eb1f0937a946559f4c1685d17ddba3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Top secret: Biden gets access to President’s Daily Brief"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
-    publishedDateTime: 2020-12-01T01:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden to present top economy advisers as pandemic threat worsens"
     excerpt: "U.S. President-elect Joe Biden will formally introduce his top economic policy advisers on Tuesday as his administration prepares to take power amid a slowing economic recovery hampered by the resurgent coronavirus pandemic."
     publishedDateTime: 2020-12-01T17:35:00Z
@@ -299,36 +187,6 @@ related:
         width: 1024
         height: 699
         isCached: true
-  - title: "Kamala Harris calls teen who went viral for painting portrait of vice president-elect"
-    excerpt: "\"You really have a gift, my goodness. I was so touched to see it,\" Vice President-elect Kamala Harris told the 14-year-old artist."
-    publishedDateTime: 2020-11-26T21:46:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/26/ac748686-00fb-4ed8-bc47-b26f134cf02d/thumbnail/1200x630/1479e37ae938cc507f7a50f93f6c3f65/screen-shot-2020-11-26-at-1-42-40-pm.png"
-        width: 909
-        height: 630
-        isCached: true
-  - title: "Kamala Harris on ‘the difference between charity and duty’"
-    excerpt: "Vice President-elect Kamala Harris spoke about Americans “duty\" to their communities during a Thanksgiving address at D.C. Central Kitchen on Nov. 25."
-    publishedDateTime: 2020-11-25T23:30:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/kamala-harris-on-the-difference-between-charity-and-duty/2020/11/25/099aab8d-7b0f-4e43-b68b-2eb58225965a_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-25-2020/t_4123531793634076a85e79a952ef5903_name_harris.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
     excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
     publishedDateTime: 2020-12-02T15:04:00Z
@@ -359,28 +217,6 @@ related:
         width: 1000
         height: 723
         isCached: true
-  - title: "Safe harbor law locks Congress into accepting Biden's win"
-    excerpt: "Happy Safe Harbor Day, America."
-    publishedDateTime: 2020-12-08T14:37:00Z
-    webUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
-    excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
-    publishedDateTime: 2020-11-24T18:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd4b358f08850ef86c56cd"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
   - title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
     excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
     publishedDateTime: 2020-12-05T19:12:00Z
@@ -397,17 +233,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains"
-    excerpt: "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve."
-    publishedDateTime: 2020-11-25T13:37:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 91
   - title: "Tina Flournoy, longtime Democratic strategist, named Vice President-elect Kamala Harris chief of staff"
     excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
     publishedDateTime: 2020-12-03T14:29:00Z
@@ -419,54 +244,6 @@ related:
     quality: 89
     images:
       - url: "https://www.chicagotribune.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden, Harris to begin receiving classified Presidential Daily Brief for the first time"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will begin receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan 20."
-    publishedDateTime: 2020-11-30T18:27:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 82
-    images:
-      - url: "https://www.baltimoresun.com/resizer/wavSoYc6wjMeOzZdUem95afekPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCALR3A6ENCEHHOG4KLHACH524.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris Shares Her Family's Favorite Cornbread Dressing Recipe"
-    excerpt: "With Thanksgiving only a couple days away, Vice President-elect Kamala Harris decided to share her recipe for cornbread dressing. “During difficult times I have always turned to cooking,” she wrote in an Instagram post on Tuesday with her recipe."
-    publishedDateTime: 2020-11-25T16:14:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/kamala-harris-cornbread-dressing-te-main-201125_e8382611305aa6bff826a8c0e0dfe593.fit-2000w.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
-    excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-26T19:22:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/TylerGordon.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -501,38 +278,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/time-koty-tyler-gordon.jpg?w=800&h=532"
         width: 800
         height: 532
-        isCached: true
-  - title: "The Easy Way for Joe Biden to Save Lives"
-    excerpt: "There’s an on-the-shelf policy the Biden administration could enact unilaterally that would save millions of American lives, without costing the government a single cent on net. That policy, one pushed for but never implemented by the Trump administration,"
-    publishedDateTime: 2020-12-05T11:11:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2020/12/easy-way-to-quit-smoking/617305/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/617305/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617305/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/jmB42DJzPPFAnmeCrgMjCurSMYI=/570x321/media/img/mt/2020/12/smoking4/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "Who Joe Biden Has Announced for His Cabinet So Far"
-    excerpt: "President-elect Joe Biden has been widely expected to staff his administration with a mix of experienced advisers and credentialed experts from Washington, D.C., as well as the kinds of diverse faces he says ensure his administration reflects the country."
-    publishedDateTime: 2020-12-05T19:53:00Z
-    webUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/"
-    ampWebUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 75
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B11025%2C3200%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-3.jpg"
-        width: 1500
-        height: 785
         isCached: true
   - title: "Watch live: Vice President-elect Kamala Harris receives COVID-19 vaccine"
     excerpt: "Vice President-elect Kamala Harris will receive a COVID-19 vaccine on Tuesday, becoming the latest high-profile figure to be inoculated."
@@ -598,22 +343,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings - but global elite boys club remains"
-    excerpt: "Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal R"
-    publishedDateTime: 2020-11-25T18:05:00Z
-    webUrl: "https://www.chron.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 61
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Kamala Harris Announces New Staff Picks, Marking First Time Women Will Hold Top 3 Spots in VP's Office"
     excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president’s office."
     publishedDateTime: 2020-12-04T20:30:00Z
@@ -662,20 +391,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris shares how to brine a turkey in viral video"
-    excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
-    publishedDateTime: 2020-11-26T19:18:00Z
-    webUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "This Little-Known Indian Village Has Made Headlines Because of Kamala Harris"
     excerpt: "As CNN host John King spent days tirelessly facing the magic wall to explain what was happening, miles away in Tamil Nadu, India, a small village was rooting for vice president nominee Kamala Harris—in a very Indian way."
     publishedDateTime: 2020-12-07T18:37:00Z
@@ -689,22 +404,6 @@ related:
       - url: "https://www.fodors.com/wp-content/uploads/2020/12/kamala-harris-hero.jpg"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "Gov. Andrew Cuomo, Dr. Anthony Fauci, Kanye West, Kamala Harris, Black Lives Matter nominated for Time’s Person of the Year"
-    excerpt: "Gov. Andrew Cuomo and Dr. Anthony Fauci have been nominated for Time’s Person of the Year. Time magazine released its list of reader poll nominees Wednesday for the 2020 Person of the Year honor. The governor of New York and Fauci,"
-    publishedDateTime: 2020-11-27T18:01:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 49
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RFFAMYBJTBHUFCYFPLJT5JKI4Y.JPG"
-        width: 4637
-        height: 2961
         isCached: true
   - title: "Omaha native will be chief spokeswoman for Harris"
     excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."

@@ -45,6 +45,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Euro, Aussie gain, disregarding Trump's threat to block stimulus"
+    excerpt: "The euro rose to $1.22 and the dollar fell on Wednesday as foreign exchange traders looked beyond U.S. President Donald Trump's threat to block a $892 billion COVID-19 aid package."
+    publishedDateTime: 2020-12-23T14:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-global-forex-idUSKBN28X064"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X064"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X064"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545537325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0JA"
+        width: 741
+        height: 545
+        isCached: true
   - title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
     excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
     publishedDateTime: 2020-12-23T11:58:00Z
@@ -77,21 +93,21 @@ related:
         width: 738
         height: 545
         isCached: true
-  - title: "Trump finds himself isolated in refusal to blame Russia for big cyberattack"
-    excerpt: "President Trump’s dismissive characterization of a massive cyberattack targeting multiple U.S. agencies drew pushback Sunday from lawmakers, cybersecurity experts and the incoming Biden administration amid growing questions over the president’s refusal to acknowledge that Russia was likely behind the intrusions."
-    publishedDateTime: 2020-12-21T02:04:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
+  - title: "Musicians who opposed Trump's use of their music in 2020"
+    excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
+    publishedDateTime: 2020-12-25T19:26:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/529275-musicians-who-opposed-trumps-use-of-their-music-in-2020?amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 123
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/382d7fb/2147483647/strip/true/crop/4651x3038+374+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F33%2F1e4dcf792e85239693113608299b%2Fd47918cfadda477f8b5fa5fed2afeba0"
-        width: 320
-        height: 209
+      - url: "https://thehill.com/sites/default/files/musiciansagainsttrump_getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "RPT-UPDATE 2-Trump downplays impact of massive breach of government computer systems"
     excerpt: "U.S. President Donald Trump in his first comments about a widespread data breach across the U.S. government downplayed the seriousness and impact of the cyber espionage campaign, and questioned whether Russia was to blame."
@@ -175,20 +191,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
-  - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
-    excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
-    publishedDateTime: 2020-12-22T04:30:00Z
-    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-president-trump-says-russia-likely-behind-cyberattack/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 96
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Disputing his own top officials, Trump blames China, not Russia, for government agency hack"
     excerpt: "Cybersecurity experts and Secretary of State Mike Pompeo say evidence points to Russia for a massive hack of U.S. government agencies, but President Trump is pointing the finger at China. CBS News White House correspondent Paula Reid spoke with CBSN's Anne-Marie Green about what the Biden administration can do to deter Russian hacking and interference,"
     publishedDateTime: 2020-12-21T15:49:00Z

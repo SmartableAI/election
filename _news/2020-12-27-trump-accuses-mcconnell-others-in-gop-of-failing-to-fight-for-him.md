@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-mcconnell-others-in-g
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-mcconnell-others-in-gop-of-failing-to-fight-for-him.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 275
+published: true
 
 provider:
   name: Fox News
@@ -31,99 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'"
-    excerpt: "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden."
-    publishedDateTime: 2020-12-26T19:10:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Former DOJ lawyer apologizes for not doing more to resist Trump"
-    excerpt: "A former Justice Department attorney who worked for the Office of Legal Counsel wrote an op-ed for The New York Times in which she offered an apology for not taking a stronger stance against President Trump."
-    publishedDateTime: 2020-12-21T18:38:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fdzvCP71dUY/former-doj-lawyer-op-ed-resist-trump-apology"
-    ampWebUrl: "https://www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-doj-lawyer-op-ed-resist-trump-apology.amp"
+  - title: "McConnell praises Trump for signing COVID-19, government funding bills"
+    excerpt: ""
+    publishedDateTime: 2020-12-28T09:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20355106504110-e1608575361908.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
-    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
-    publishedDateTime: 2020-12-19T18:36:00Z
-    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-275358/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Amid Vaccine Rollout and Historic Hack, Trump Remains Focused on Reversing Election"
-    excerpt: "The president has been largely out of sight, paying little public attention to any events other than his efforts to overturn Joe Biden’s victory."
-    publishedDateTime: 2020-12-21T02:24:00Z
-    webUrl: "https://www.wsj.com/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amid-vaccine-rollout-and-historic-hack-trump-remains-focused-on-reversing-election-11608401545"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-275358/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'"
-    excerpt: "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden."
-    publishedDateTime: 2020-12-26T19:14:00Z
-    webUrl: "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp"
+  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
+    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
+    publishedDateTime: 2020-12-29T16:40:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 142
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ivanka Trump champions working families, fights human trafficking during her father's presidency"
+    excerpt: "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements."
+    publishedDateTime: 2020-12-24T18:23:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Kamala Harris: Trump Election Challenge A \"Bold Abuse Of Power\""
-    excerpt: "Vice President-elect Kamala Harris blasted President Trump at an event Sunday in Georgia, calling his election challenge a \"bald-faced, bold abuse of power\" and saying his call \"Have y'all heard about that recorded conversation?"
-    publishedDateTime: 2021-01-03T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/03/kamala_harris_trump_election_challenge_a_bold_abuse_of_power.html"
+  - title: "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight"
+    excerpt: "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget."
+    publishedDateTime: 2020-12-29T16:54:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 95
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
     images:
-      - url: "https://assets.realclear.com/images/53/531278.jpg"
-        width: 750
-        height: 562
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Morning Joe' mainstay Donny Deutsch blames media for continuing to obsess over Trump: 'We are guilty'"
+    excerpt: "Joe\" regular Donny Deutsch slammed the mainstream media on Monday for continuing to obsess over President Trump with non-stop coverage and said the press is \"guilty\" of focusing extensive coverage on him rather than President-elect Joe Biden."
+    publishedDateTime: 2020-12-28T19:44:00Z
+    webUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty"
+    ampWebUrl: "https://www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/morning-joe-donny-deutsch-trump-coverage-msnbc-guilty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "lHa6xDERPhpacbbS7qRE82kVYsroztDbfm+F/CZRhzyWhnu2e0VhcgoznKNmq+6D0pmS8Jl+xMUvqca2mfNivJSLVH6kzNjfX5DF16jRyMZ91A3/8NmIyOtuOy/ExwOHq3/9A1eZDlXs12qb+vA5G12zxGgXuvbhkG2XB4QpEI9YJgGquAnpIkfNIjRefMdR6uNQhN3z59OCi+BfOo7UwTbBmBrTCZM9JMbkC1/zCq+QzXt2HCGyyptaUYbOs/CeTeDJTKSXrbvrGiHnOYksDV/1KEGSzx/SAcOP0mij6lqW+XvzCGUspAO6xgaqqikf5/vFBUKVNbe0er+2vryU2geEjPIDYHLbf0GYqB3heFA=;l/XUBd8vUoe8BiDtsO6Z9w=="

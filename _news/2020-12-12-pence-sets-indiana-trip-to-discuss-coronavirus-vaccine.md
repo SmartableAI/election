@@ -27,53 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools"
-    excerpt: "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer"
-    publishedDateTime: 2020-12-13T22:29:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
+  - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
+    excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
+    publishedDateTime: 2020-12-07T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-stimulus-idUKKBN28H2SR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543740708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61KL"
+        width: 754
+        height: 545
+        isCached: true
+  - title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
+    excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
+    publishedDateTime: 2020-12-04T00:24:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 111
     images:
-      - url: "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f"
+      - url: "https://i.guim.co.uk/img/media/f7bf741bb5ed58d1d1a7ab5eb7e7e64a7344f762/0_389_5769_3462/master/5769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c7d46d692f3f408174b8245cb43dcab"
         width: 600
         height: 360
         isCached: true
-  - title: "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use"
-    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
-    publishedDateTime: 2020-12-16T06:08:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
+  - title: "Biden to Americans: we need your help"
+    excerpt: "Watch \"Biden to Americans: we need your help; president-elect outlines pandemic plan which include mask wearing and vaccine distribution\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120554-biden-to-americans-we-need-your-help-president-elect-outlines-pandemic-plan-which-include-mask-wearing-and-vaccine-distribution/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 109
-    images:
-      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus live news: Trump will 'absolutely' encourage Americans to take Covid vaccine, says press secretary"
-    excerpt: "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries"
-    publishedDateTime: 2020-12-16T00:40:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd950d88f08a72f01adbe51"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d"
-        width: 600
-        height: 360
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040589_1607515744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
+    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
+    publishedDateTime: 2020-12-07T01:53:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
+    ampWebUrl: "https://amp.freep.com/amp/3776655001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 677
         isCached: true
 
 secured: "kaOuUVC92pfNDgFQEgZx2kQQy0x4qYAF/witroA1/0Fg/1QDG7wJ1+HizwLMps3T1P+JsJBEBmadufBhfiPXCJiMfS4naCU8/NYB+Yg7o5VfowGBdOvGJMTzizKq6ADMIackBOyq+Na3/ZRMU19dvdCDDwqWF+vvWXc1uFrnaiWjRnDsgELLf0W5lAiiIzLSacdHyLP1WqZsXqr0pLHI1nBklUWAiP38OcNhE6O8BDOUazGF0ZfOuM9SLW/oBMBWY8Pwg6D0zkmUiYSNwGzooC0Xw0ynm/Rwq5FYIkb0k4bOm5Lqku/0uFdKEFOEjbkkxhAWMwzFbp1AjsnKILDVKKfzA7XjQsJ/1+cHnVeYWWk=;l2hGWOHxBA1bZmFDyWcVjA=="

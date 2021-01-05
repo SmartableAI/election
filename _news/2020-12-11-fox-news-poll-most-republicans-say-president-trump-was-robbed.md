@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
 type: article
 quality: 175
-heat: 355
+heat: 315
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64eafaca-7ae0-45a9-80b4-9364c88d4519/10bb732c-1723-43e0-ba28-4865ffee598a/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump lost the 2020 election, but he proved America can win again"
-    excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
-    publishedDateTime: 2020-12-05T15:21:00Z
-    webUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/"
-    ampWebUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-rally.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "House Republicans urge Trump to veto omnibus spending bill, call it example of ‘swamp politics’"
     excerpt: "EXCLUSIVE: A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of “swamp politics” in Washington D.C."
@@ -156,22 +140,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee331ede-b231-4332-804e-fcd02265cb3e/2bdcb55b-ac61-46c8-ab1b-d2c239278a91/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
-    excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
-    publishedDateTime: 2020-12-04T20:12:00Z
-    webUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom"
-    ampWebUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "ZDn+zNxMY7dtSrXk/aHZdNapqfkVLDcmlAmDpBBn/BQfGmkeXwDCqPuxm9rBRK+S3Zam0XtwOEl9oTML/iFLBbnTN48jCL8p0YLDKzNvSgS8cO/+7jmr5rnrKZ5HHC9lN0bk4t3Tvt+Jb/U3VevprN8AO/+h83K9DzvGybOpQWmKuXNsk8u6KobVSKOD0Y+pBloDHPqq1yUXzqOT2LmW5ji5LtR/NBA9/9Q+EHZEXxxF4Zvk9mEC9UxFy6CL7PtvSRmEjS4UKhRJ/Mp7TleZJUIiCo97CCW5WhlmhCLWL7xodOfFCG4RCK/fXAfXrklwpkxv/bp6eE47RWIWZ2/SvDnXOq4+R/GVM4t6XeBTRHY=;cZVAGX4kgKMUWNzXS7hvuQ=="

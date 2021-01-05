@@ -63,37 +63,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Senate votes to override Trump's NDAA veto"
-    excerpt: "Trump refused to approve the military spending bill because it did not include a repeal of Section 230."
-    publishedDateTime: 2021-01-01T19:43:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CPZPla9qI7M/senate-votes-override-trump-ndaa-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-votes-override-trump-ndaa-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-votes-override-trump-ndaa-veto.amp"
+  - title: "Trump immigration order restricting guest worker visas set to expire"
+    excerpt: "An executive order signed by President Trump over the summer, which expanded immigration restrictions in an effort to protect the labor market for American workers amid the coronavirus pandemic, is due to expire by the end of the week -- and immigration hawks are urging him to extend it."
+    publishedDateTime: 2020-12-30T21:41:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcHDdmhv0Yw/trump-immigration-order-visas-expire"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-immigration-order-visas-expire.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d32a56b-88d2-4b0b-a24c-2732599508e1/c5834e63-6f8d-4cad-9246-e1f5ed9cdc47/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0f9774-6462-421e-bd32-a0f3b77bc88b/36f8d087-4aef-458a-b58a-ffcc8022c85e/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump campaign spends $3M to file for recounts in two Wisconsin counties"
-    excerpt: "The Trump campaign said Wednesday it is spending $3 million in Wisconsin to file for a partial recount in the state, claiming illegally-altered absentee ballots and illegal advice given by government officials allowing Wisconsin’s voter ID laws to be circumvented."
-    publishedDateTime: 2020-11-18T16:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3bKTLRwMnFo/trump-campaign-partial-recount-two-wisconsin-counties"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
     excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
@@ -142,38 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
-    excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
-    publishedDateTime: 2020-12-24T18:13:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5ZVVfp56SBI/supreme-court-trump-campaign-case-no-hurry"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-campaign-case-no-hurry.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Urged Georgia Secretary of State to Overturn Election Results"
-    excerpt: "During a phone call Saturday, the president repeatedly asserted the election was fraudulent and claimed hundreds of thousands of votes were destroyed and that he had clearly won the state."
-    publishedDateTime: 2021-01-03T20:54:00Z
-    webUrl: "https://www.wsj.com/articles/trump-urged-georgia-secretary-of-state-to-overturn-election-results-11609707084"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-urged-georgia-secretary-of-state-to-overturn-election-results-11609707084"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-urged-georgia-secretary-of-state-to-overturn-election-results-11609707084"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-280090/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Covid-19 Aid Bill Remains in Doubt as Congress Braces for Showdown With Trump"
     excerpt: "Unemployment benefits used by millions of Americans lapsed overnight and the government was at risk of shutting down, as lawmakers were poised to face off with President Trump over his objections to sweeping pandemic-aid legislation and a defense-policy bill."
@@ -238,20 +190,6 @@ related:
       - url: "https://assets.realclear.com/images/53/531282_5_.jpg"
         width: 750
         height: 512
-        isCached: true
-  - title: "Trump: Rigging Of 2020 Election Was Final Step In Media's Effort To Overthrow The Will Of The People"
-    excerpt: "President Donald Trump released a video message on the 2020 election Tuesday night from the White House. PRESIDENT DONALD TRUMP: My fellow Americans, today I want to explain to you why I am so determined to pursue every legal and constitutional option available to stop the theft of the Presidential Election."
-    publishedDateTime: 2020-12-26T10:19:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/12/23/trump_rigging_of_2020_election_was_the_final_step_in_the_medias_effort_to_overthrow_the_will_of_the_people.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/530656.jpg"
-        width: 910
-        height: 682
         isCached: true
   - title: "Trump's Stunning Achievement in Middle East"
     excerpt: "RealClearPolitics"

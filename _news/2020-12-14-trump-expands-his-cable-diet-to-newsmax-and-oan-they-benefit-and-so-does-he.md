@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FOCUS-Newsmax plans expansion to capitalize on Trump support, anger at Fox News"
+    excerpt: "Newsmax, a conservative cable news channel promoted by President Donald Trump, plans to expand in the United States and Britain, Chief Executive Chris Ruddy told Reuters."
+    publishedDateTime: 2020-12-10T11:14:00Z
+    webUrl: "https://www.reuters.com/article/media-conservative/focus-newsmax-plans-expansion-to-capitalize-on-trump-support-anger-at-fox-news-idUSL1N2IK2B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IK2B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IK2B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544083608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90M9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
     publishedDateTime: 2020-12-08T09:12:00Z

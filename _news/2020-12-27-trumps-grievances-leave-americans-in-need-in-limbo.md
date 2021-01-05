@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump absent as vaccine distribution lags and thousands continue to die"
+    excerpt: "A closing indignity on the final day of this horrendous year is that nobody actually seems to expect Donald Trump, who is still the President, to be paying much or any attention to the actual nightmare underway in the country he still leads.\n    \n"
+    publishedDateTime: 2020-12-31T11:00:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AD9G4wCpAuE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/donald-trump-covid-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182835-01-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Many jobless Americans will lose benefits unless Trump signs relief bill Saturday"
     excerpt: "Millions of jobless gig-workers and independent contractors, as well as long-term unemployed Americans, will lose their unemployment benefits after this weekend if President Donald Trump doesn't sign the $900 billion relief package Congress passed earlier this week.\n    \n"
     publishedDateTime: 2020-12-26T21:22:20Z
@@ -110,22 +126,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "How Trump Tried, but Largely Failed, to Derail America’s Top Climate Report"
-    excerpt: "The White House repeatedly attempted to thwart the country’s premier climate science document, one meant to steer policy for years. Scientists got in the way."
-    publishedDateTime: 2021-01-01T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/climate/trump-national-climate-assessment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/31/climate/31CLI-ASSESSMENT2/merlin_160191879_1db5bea5-8dfe-4c3e-8d88-f3fcff2187ca-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
 
 secured: "cDT4Hq8E9EVS87zQvoCcUzFY6BgVRvr+PASO0JFxGpLZtnppaRSDUiVP/bPMYsrdcggMsX6X6Cj2zhOjOkgp35JDv9QTcx/B9DJAJMRUZMGhdK9n1BzLoU82y1Zksg30a6FFp0EwtlUO/zupUvtb4t8MtJaXhrmh/nDZrs6R/RUv25yMPcIm52jTk7A5AwFoFOhbRwZiCOTtv1Iv+TM9Ouzpz7RTcEQE2XVD89a5xSeG+yO9YNpyL+9BKXURJYO3cE+b3QQh2nI68FuAgQX0CyW7UxYp63d9Mctbt2FS/hwcoYXpChYYabmMp3sZ3KSSRkkRK6PkhE7NeGEi7tTzIX9FptLkAYEns9lJKJiYpQU=;fyvpj/Yxaz0vUfOX88U7Jg=="

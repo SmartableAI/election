@@ -31,211 +31,197 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Trump says DOJ 'missing in action' during election challenge"
-    excerpt: "Follow for the latest updates on the 2020 election legal fight."
-    publishedDateTime: 2020-11-30T04:20:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd00b8cb-3654-49f6-a8db-b0fe6e3fb865/6aa8c157-f99d-4b17-8c8c-2f2e6f3af5d7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
-    excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
-    publishedDateTime: 2020-11-23T04:13:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hemingway: Trump tackling election integrity issue 'unites Republican voters like nothing else'"
-    excerpt: "Republicans have been \"concerned\" with preserving election integrity prior to the 2020 presidential election, Mollie Hemingway said on Thursday."
-    publishedDateTime: 2020-12-03T21:29:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nYb67ptl4Qk/hemingway-trump-tackling-election-integrity-republican-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump tells Georgia governor to 'do something,' as Kemp says interfering with election is illegal"
-    excerpt: "President Trump on Tuesday told Georgia Gov. Brian Kemp to \"do something\" to overrule state election officials, claiming he would find a \"gold mine\" of fraud, as the governor's office maintained that Georgia law \"prohibits\" him from \"interfering in elections.\""
-    publishedDateTime: 2020-12-01T15:08:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bc5dlBeRYSs/trump-georgia-governor-kemp-election-do-something"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Trump's legal team criticized by Rush Limbaugh"
-    excerpt: "Rush Limbaugh knocked President Trump's legal team for underdelivering at last week's widely-hyped press conference alleging widespread voter fraud that stole a \"landslide\" victory from their client. "
-    publishedDateTime: 2020-11-24T03:53:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvL2kh9z3nY/live-updates-election-legal-11-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T15:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump urges Georgia Republicans to reelect Perdue, Loeffler"
-    excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
-    publishedDateTime: 2020-12-06T08:36:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyBHwPEZXVI/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64f1a210-dff4-48db-a6f3-62bfd4d76b8c/4152f4df-3684-437a-a048-a5ab0f84ad09/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
-    excerpt: "Follow for the latest updates on the 2020 election"
-    publishedDateTime: 2020-12-05T07:00:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBPbIvg9W5M/live-updates-biden-americans-masks-vaccine-12-5-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump campaign eyes Supreme Court after appeals panel tosses Pa. fraud case"
-    excerpt: "The Trump 2020 Campaign looked ahead to a potential Supreme Court fight after a panel of federal appeals judges in Pennsylvania dismissed the campaign's lawsuit over alleged voter fraud in the presidential election. "
-    publishedDateTime: 2020-11-28T06:44:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-Ot-6MG-y4/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/529a207d-73d0-460c-9fde-43b3a041b0a5/6f32cf3d-90c4-48e9-85d9-f9b631b23713/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump campaign alleges abuse around the process of absentee voting in Wisconsin"
-    excerpt: "A lawsuit was filed Tuesday morning and comes after Wisconsin completed its partial recount — which maintained that Joe Biden won the presidential race in the state — and after Wisconsin Gov. Tony Evers formally certified Biden’s victory Monday night."
-    publishedDateTime: 2020-12-02T03:52:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fk5xH0p5mcw/live-updates-legal-12-2-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hemingway: Trump tackling election integrity issue 'unites Republican voters like nothing else'"
-    excerpt: "Republicans have been \"concerned\" with preserving election integrity prior to the 2020 presidential election, Mollie Hemingway said on Thursday."
-    publishedDateTime: 2020-12-05T18:03:00Z
-    webUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 138
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "GM Stops Backing Trump Administration in Emissions Fight With California"
-    excerpt: "General Motors will no longer back the administration in its legal battle to strip California’s authority to set its own fuel-efficiency regulations, saying GM’s goals for green cars are aligned with the state and the new Biden administration."
-    publishedDateTime: 2020-11-23T20:03:00Z
-    webUrl: "https://www.wsj.com/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
+  - title: "Lara Trump teases potential Senate run in North Carolina"
+    excerpt: "Lara Trump teased a potential Senate run in North Carolina Friday to replace Sen. Richard Burr, who is retiring after three terms in 2022. "
+    publishedDateTime: 2020-12-05T02:33:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBJhXZWMQcE/lara-trump-senate-run-north-carolina"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c4cf900-7e8a-4ea4-9509-3cec99500b9a/8c80d9e2-d8c8-442d-9efb-75024fb9150d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House tees up Trump veto override fight on defense spending bill"
+    excerpt: "The House of Representatives will debate and vote on the final version of the defense policy bill Tuesday."
+    publishedDateTime: 2020-12-08T16:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IndEufEVR7Q/house-trump-veto-override-fight-defense-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/house-trump-veto-override-fight-defense-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-trump-veto-override-fight-defense-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McConnell plans for new coronavirus relief bill that President Trump will sign into law"
+    excerpt: "Senate Majority Leader Mitch McConnell said Republicans are eyeing a new targeted coronavirus relief bill based on what President Trump would sign into law, and poured cold water on a new bipartisan $908 billion proposal his colleagues put forth earlier Tuesday."
+    publishedDateTime: 2020-12-01T21:31:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3tOElJBfEA/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump lost the 2020 election, but he proved America can win again"
+    excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
+    publishedDateTime: 2020-12-05T15:21:00Z
+    webUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/"
+    ampWebUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-rally.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Expected to Name New Indo-Pacific Command Head"
+    excerpt: "The Trump administration is preparing to name a new head of the U.S. Indo-Pacific Command, which oversees operations and strategy for China and elsewhere in Asia."
+    publishedDateTime: 2020-11-30T16:53:00Z
+    webUrl: "https://www.wsj.com/articles/trump-expected-to-name-new-indo-pacific-command-head-11606753476?mod=hp_listb_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-expected-to-name-new-indo-pacific-command-head-11606753476"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-expected-to-name-new-indo-pacific-command-head-11606753476"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-263785/social"
+      - url: "https://images.wsj.net/im-265954/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
-    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
-    publishedDateTime: 2020-11-28T00:16:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
+  - title: "Can President Trump Pardon Himself and His Family?"
+    excerpt: "Legal experts say the president’s pardon powers are wide-ranging, but do have limits."
+    publishedDateTime: 2020-12-02T22:40:00Z
+    webUrl: "https://www.wsj.com/articles/can-president-trump-pardon-himself-and-his-family-11606947916"
+    ampWebUrl: "https://www.wsj.com/amp/articles/can-president-trump-pardon-himself-and-his-family-11606947916"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-president-trump-pardon-himself-and-his-family-11606947916"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 128
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-265473?size=1.5"
+      - url: "https://images.wsj.net/im-267090/social"
         width: 1280
-        height: 853
+        height: 640
         isCached: true
-  - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
-    excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"
-    publishedDateTime: 2020-11-23T22:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T16:06:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/47/473955_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
+    excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
+    publishedDateTime: 2020-12-04T20:12:00Z
+    webUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom"
+    ampWebUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Lou Holtz calls Trump ‘greatest president in my lifetime,’ accepts Medal of Freedom"
+    excerpt: "President Trump on Thursday awarded Notre Dame’s legendary former football coach Lou Holtz the Presidential Medal of Freedom — and Holtz reciprocated by hailing Trump as the “greatest"
+    publishedDateTime: 2020-12-03T18:13:00Z
+    webUrl: "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/"
+    ampWebUrl: "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/1229926968-e1607018824688.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Neil Young drops lawsuit against Donald Trump over use of his music at campaign events"
+    excerpt: "Neil Young seems to have dropped his legal suit against Donald Trump for using his music at campaign events. In August, the singer and songwriter finally sued the Trump 2020 campaign for copyright infringement after the president repeatedly ignored calls from the rocker to stop using his music at events,"
+    publishedDateTime: 2020-12-09T15:35:00Z
+    webUrl: "https://www.foxnews.com/entertainment/neil-young-drops-lawsuit-donald-trump-music-campaign-events"
+    ampWebUrl: "https://www.foxnews.com/entertainment/neil-young-drops-lawsuit-donald-trump-music-campaign-events.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/neil-young-drops-lawsuit-donald-trump-music-campaign-events.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Neil-Young-Trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
+    excerpt: "Trump attorneys Sidney Powell and L. Lin Wood urged Georgians not to participate in a runoff vote that will determine control of the Senate in January until state officials address unsubstantiated claims that President-elect Joe Biden won the White House through voter fraud."
+    publishedDateTime: 2020-12-03T00:11:00Z
+    webUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dYyiRDDDtV9J72WDcVsA8IitUYn402MIMB2J6LuwphAhWUSviEabknihsU4dgefLUE2xBPHJ+sUYIdvF+QwiRQ7cer/ufaL7NfT+rheFe4Eo89T1+Mjr36nJ8p3mhgwth5o6+9HLm4+aGyTLeIxCkFzWQ+wUXDTmwIHyQVZScHMIxclKaU8Ndup+S+v7MI49wtULbx4u2DC4TjgAt4dhNdD+BqXtZqVKFBE0skQV6lx4YzcFurNJ19xATKnQRhRz4Q2A6xcVthlv6eK/0xeBuA/jaEm058gtfGKpvpa+2y5oevb/sO7A/BiBiDiGmm2zEYo3Bo1OMxAS/QiQIS/rjyfbhHUI8wG31sfSsGE1TPU=;kW9NPdfUaSicOV7SidYYRA=="

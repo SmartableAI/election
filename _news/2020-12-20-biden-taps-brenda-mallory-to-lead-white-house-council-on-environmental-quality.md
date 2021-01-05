@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/video/politics/biden-taps-brenda-ma
 webUrl: "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Washington Post
@@ -27,51 +27,6 @@ images:
     width: 1484
     height: 834
     isCached: true
-
-related:
-  - title: "Joe Biden introduces Miguel Cardona as pick to lead Education Department"
-    excerpt: "Washington — President-elect Joe Biden on Wednesday will formally introduce Miguel Cardona, the Connecticut commissioner of education, as his nominee to lead the Department of Education. The president-elect revealed Tuesday he tapped Cardona to serve as his secretary of education,"
-    publishedDateTime: 2020-12-23T17:28:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-miguel-cardona-education-department-watch-live-stream-today-2020-12-23/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/23/1ec5a37e-cf5e-44b9-b321-e3caf7efdbdf/thumbnail/1200x630/a5f8c12ebc252faa3cad0bbada1d4850/gettyimages-1230275863.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says"
-    excerpt: "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students."
-    publishedDateTime: 2020-12-17T21:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3921340001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/07/PDTF/b9c1ab22-05fd-4a78-8850-47d04f2cbf3b-AP20133643287574.jpg?auto=webp&crop=5109,2874,x0,y259&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
-    excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
-    publishedDateTime: 2020-12-17T20:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-interior-idUSW1N2HV025"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HV025"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HV025"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
 
 secured: "LezBzsE5Bysqt3827Uh92aPKz56aEFd7UKMagewAfQg78aFw9LEvIfcjPK6xQE0uKKBckgVFDPTNOBowVlKVYAqI0a2P7d68WaHsJ2PU81mqrmMST6J0DaPQweGgwp+NwdNZ1hc26Ay+96mz5oPCiY2mz/Yijvdij4l3O20gQe06abiP/eB+vVVv1njF5+3UihhEFbxZ2N+4U7wGFRU9eLlvgVbnisUt3LwPqY9bsfMTOXATr7qKdA13YCMxAyTtcLmKsKhnsMvcw3Q3fJgp8kf4lMqbSnpDADxH/er1HJx8bdBUPhCMOJMS/1whwmVsd8vraVftzyfFh6bdFyQtKSE7pDzbt1LqhDfoWepWXxTXeU8+2Tq5577h1VbPbRa8bPLMJk1kScg/YKaOu9WZtWAY1SOXP9i0vys0gXFX+wAA/PIRE3w+d5fGUSAGFU+S90xqhEmPV8eJWP0eghDIYy8dz+nQHf5cQwvzJx0lYWTfRF+/DTAYWXCFeepXQMo25Dja9UMO97d+CoFtwCF1kQ==;bFp+yQcXCqP5m8cbhqVRpQ=="
 ---

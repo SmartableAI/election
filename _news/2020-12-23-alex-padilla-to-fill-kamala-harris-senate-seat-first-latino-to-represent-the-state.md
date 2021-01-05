@@ -48,6 +48,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congress will have 0 Black women senators after Kamala Harris becomes VP"
+    excerpt: "Sen. Kamala Harris broke barriers as America's first female, first Black and first South Asian vice president-elect. But after her exit in January to join the Biden administration, there will be no Black women in the Senate.\n    \n"
+    publishedDateTime: 2020-12-23T19:35:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pi8x4KeNUHU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/black-women-senators-harris-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Alex Padilla Will Replace Kamala Harris in the Senate"
+    excerpt: "Gov. Gavin Newsom of California selected Mr. Padilla to serve the final two years of Ms. Harris’s term. Mr. Padilla will be the first Latino senator to represent the state."
+    publishedDateTime: 2020-12-22T18:06:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/alex-padilla-kamala-california-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/alex-padilla-kamala-california-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/alex-padilla-kamala-california-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/us/politics/HFOcalifornia-senate-pick-padilla/HFOcalifornia-senate-pick-padilla-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris receives coronavirus vaccination"
     excerpt: "Vice President-elect Kamala Harris received a coronavirus vaccination on Tuesday in Washington, joining President-elect Joe Biden, Vice President Mike Pence and other leaders who have been inoculated."
     publishedDateTime: 2020-12-29T16:51:00Z

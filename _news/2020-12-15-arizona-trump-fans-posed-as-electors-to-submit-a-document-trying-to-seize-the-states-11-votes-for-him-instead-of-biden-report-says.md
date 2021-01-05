@@ -106,38 +106,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "China finally congratulates Joe Biden, Kamala Harris on election victory"
-    excerpt: "Beijing sent belated felicitations after Biden spoke with the leaders of U.S. allies Japan, South Korea and Australia."
-    publishedDateTime: 2020-11-13T10:05:00Z
-    webUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 154
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DAONIORFQ4I6XJUIKKMK2XKYBI.jpg&w=1440"
-        width: 1440
-        height: 1049
-        isCached: true
-  - title: "After Biden-Harris speeches, CNN's Don Lemon expresses emotional relief, rips 'PTSD' of Trump era"
-    excerpt: "CNN's Don Lemon felt relief at news of apparent Biden election win, saying marginalized people have suffered 'PTSD,' 'whiplash' under President Trump."
-    publishedDateTime: 2020-11-08T07:49:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/11/07/cnn-don-lemon-president-trump-joe-biden-kamala-harris/6211859002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6211859002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6211859002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 152
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/11/01/USAT/e866f5de-ccf2-4c21-94b1-c60fd9f80071-AP_CNN-Lemon.JPG?auto=webp&crop=2786,1567,x0,y630&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A lawyer who pushed a 'birther' conspiracy about Kamala Harris has joined Trump's election fight"
     excerpt: "President Donald Trump praised John Eastman as a \"very highly qualified, very talented lawyer\" after he published an op-ed about Biden's VP pick."
     publishedDateTime: 2020-12-10T21:09:00Z
@@ -298,22 +266,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "What a Joe BIden-Kamala Harris administration means for markets, tech, healthcare, cannabis, and Donald Trump"
-    excerpt: "The AP, NBC, CNN, The New York Times, and The Washington Post called the presidential election for Joe Biden shortly after 11 a.m. ET Saturday."
-    publishedDateTime: 2020-11-09T03:22:00Z
-    webUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 146
-    images:
-      - url: "https://i.insider.com/5fa81e7d1df1d500182197b1?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Sen. Lamar Alexander says that Trump should put 'the country first' and accept Biden's election win"
     excerpt: "\"States have certified their votes,\" the GOP senator said. \"The courts have resolved the disputes. It looks very much like the electors will vote for Joe Biden.\""
     publishedDateTime: 2020-12-13T21:23:00Z
@@ -329,22 +281,6 @@ related:
       - url: "https://i.insider.com/5f1f57c2f0f4193a2a0bfda3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The Latest: Biden cites need for Trump to share virus plans"
-    excerpt: "President-elect Joe Biden says the outgoing Trump administration’s failure to share specific plans on combating the coronavirus pandemic is stymying American businesses’ abilities to find ways to grow"
-    publishedDateTime: 2020-11-16T20:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden picks defense secretary as Trump hosts vaccine summit – live"
     excerpt: "The US is on course to record its 15 millionth coronavirus case today"
@@ -952,20 +888,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
-    excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
-    publishedDateTime: 2020-11-17T14:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/prison-fellowship-s-statement-on-joe-biden-kamala-harris-election-victory"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 134
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden, Harris to meet with civil rights leaders amid pressure to diversify Cabinet"
     excerpt: "Elect Joe Biden and Vice President Elect Kamala Harris are set to meet with civil rights leaders today amid a push to diversity their cabinet."
     publishedDateTime: 2020-12-08T23:51:00Z
@@ -1141,20 +1063,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSNZPACBN4I6XC6AVYKVX3SK74.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Joe Biden & Kamala Harris address the economy..."
-    excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-16T20:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201116201403-president-elect-joe-biden-vice-president-elect-kamala-harris-address-the-economy/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 130
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/16/story_07715160_1605559805.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Fauci says to give COVID-19 vaccine to Biden, Harris, Trump, Pence"
     excerpt: "Dr. Anthony Fauci says 'for security reasons' President-elect Biden and Vice President-elect Harris should be vaccinated for COVID-19 as soon as possible."
@@ -1410,45 +1318,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Joe Biden & Kamala Harris to address nation"
-    excerpt: "Watch \"Joe Biden and Kamala Harris to address the nation\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-07T22:18:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201107230157-joe-biden-and-kamala-harris-to-address-the-nation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596530_1604790724.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden and Kamala Harris: The Post’s Stories"
-    excerpt: "With the Democrat’s win on Nov. 7, Biden will resume a decades-long career in public service, while Sen. Kamala D. Harris (D-Calif.) will become the first Black and Asian American female vice president. We’ve compiled some of our most deeply reported ..."
-    publishedDateTime: 2020-11-10T16:52:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/11/10/biden-harris-background/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/resizer/w29vakFJD5g-rcE8gEB8MYQHFNc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SGF7KP6EHJHHHNUEX6ZM2T5XUQ.jpg"
-        width: 1484
-        height: 989
-        isCached: true
-  - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-11-17T20:04:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Senate OKs Trump pick for FCC, adding hurdle to Biden plans"
     excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely to stymie President-elect Joe Biden’s policies."
     publishedDateTime: 2020-12-09T02:29:00Z
@@ -1637,20 +1506,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
-    excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
-    publishedDateTime: 2020-11-10T05:31:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 119
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/rawImage.jpg"
-        width: 1700
-        height: 1296
-        isCached: true
   - title: "Biden's son faces investigation over taxes as Trump joins Texas lawsuit that aims to overturn election"
     excerpt: "President-elect Joe Biden's son Hunter Biden is facing a federal investigation into his tax records. Meanwhile, President Trump is focusing on overturning the election, joining a lawsuit brought to the Supreme Court by Texas' attorney general that seeks to invalidate ballots from four battleground states won by the president-elect."
     publishedDateTime: 2020-12-11T02:19:00Z
@@ -1810,22 +1665,6 @@ related:
       - url: "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Election 2020: Joe Biden beats defiant Donald Trump; Kamala Harris first woman elected vice president"
-    excerpt: "In a Saturday evening address to the nation, Biden touted the fact that he’s won more votes than any presidential ticket in history, calling his win “a convincing victory, a victory for the people.”"
-    publishedDateTime: 2020-11-08T02:43:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 105
-    images:
-      - url: "https://www.courant.com/resizer/Ee0W9aCN3FWG-v2fbZgPvyrZ73A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KZKWCXLLWNHSTL2ISPRCT3M6EE.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "The Latest: Biden: Moment calls for waiver for defense pick"
     excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
@@ -2253,17 +2092,6 @@ related:
         width: 1423
         height: 800
         isCached: true
-  - title: "Chicago Area Leaders React After Joe Biden, Kamala Harris Projected To Defeat President Donald Trump, VP Mike Pence"
-    excerpt: "Gov. JB Pritzker said \"America elected a President and Vice President who will lead with compassion, restore dignity to the office, and give us hope for a brighter future.\""
-    publishedDateTime: 2020-11-07T21:24:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/"
-    ampWebUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
-    cdnAmpWebUrl: "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 88
   - title: "Maryland's electors cast the state's 10 votes for Joe Biden, Kamala Harris"
     excerpt: "Maryland's presidential electors gathered in Annapolis on Monday to cast their votes for President-elect Joe Biden, who won the state in a landslide on Nov. 3. The state's 10 votes formalized Biden and Vice President-elect Kamala Harris's victory in Maryland and pushed the Democrats toward the 306 total Electoral College votes they are expected to receive."
     publishedDateTime: 2020-12-14T18:15:00Z
@@ -2405,20 +2233,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
-    publishedDateTime: 2020-12-01T06:24:00Z
-    webUrl: "https://theweek.com/5things/952601/biden-harris-first-access-trumps-topsecret-presidents-daily-brief"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 82
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1286019386.jpg?itok=X1likKTA"
-        width: 840
-        height: 560
         isCached: true
   - title: "Politics live updates: Tickets to Joe Biden, Kamala Harris swearing-in ceremony to be limited"
     excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
@@ -2780,24 +2594,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden and Senator Kamala Harris Address the Nation"
-    excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"
-    publishedDateTime: 2020-11-06T21:58:00Z
-    webUrl: "https://www.c-span.org/video/?477893-1/joe-biden-senator-kamala-harris-address-nation"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Joe Biden and Kamala Harris Victory Speeches"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation from Wilmington, Delaware, after being declared the winners of the 2020 presidential election. President-elect Biden said the American people have \"delivered us a clear victory,"
-    publishedDateTime: 2020-11-09T02:03:00Z
-    webUrl: "https://www.c-span.org/video/?477916-1/president-elect-joe-biden-vice-president-elect-kamala-harris-address-nation&live"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
   - title: "NY Electors Cast Votes for Biden, Harris in Brief Ceremony"
     excerpt: "New York’s 29 presidential electors awarded their votes to Joe Biden and running mate Kamala Harris Monday on Monday."
     publishedDateTime: 2020-12-14T18:41:00Z
@@ -2807,15 +2603,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
-  - title: "Deep roots exist between Joe Biden, Kamala Harris and the world of sports"
-    excerpt: "From high school football to a youth dance troupe, President-elect Joe Biden and Vice President-elect Kamala Harris have a long history with sports."
-    publishedDateTime: 2020-11-08T20:18:00Z
-    webUrl: "https://www.cincinnati.com/story/sports/2020/11/08/joe-biden-kamala-harris-sports-histories/6140675002/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 49
 
 secured: "PYM66Ap9UQ4uXe2zsKREJxjx67Ka3XCAEeXJdaRM+IIUlQkaFg1s5FwyN/ipPNk3UTd+lw8Gv0UXoGj1wNoTJvJ8e6L/aD1TNvdUqiwuHIapKUYn0ltzCOMoKPLpSUn13i+UHSInhAXkE5t4V+HELbmdXeLbAb/fPy5Ko4Otf8p+HLfNXWQU6x9eik1+DVCho2MxnTUoGcUWXojkexlPGg/CDGqheotjr1cBCI4vGPR/jsbkpiP/hWWHI/4KBS4x/jF7pB3Sx5biE9uHbydI5yfcpeVcDVkuH5U467wg7qvmutY6edMxRciFWt5fYpHCV2Me+UNtxS/3wS+cIm39Nc8XL6pzUgR8v4sQGyOa+3k=;SBSiDi7AAJoLQCuOm2Y7vg=="
 ---

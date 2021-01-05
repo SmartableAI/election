@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Banished from the Trump legal team, attorney Sidney Powell still finds a guest chair on Fox"
+    excerpt: "What Dobbs didn’t mention is that eight days earlier, Donald Trump’s re-election campaign had put out a statement dropping Powell from their legal effort to overturn the resul"
+    publishedDateTime: 2020-12-01T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "A witness in Trump ally Sidney Powell's lawsuits says the voting results in 'Edison County' indicate fraud. No such place exists."
     excerpt: "The lawsuit is being pushed by allies of President Donald Trump in an effort to fight voters and declare him the winner of Michigan's electoral votes."
     publishedDateTime: 2020-12-01T17:23:00Z

@@ -31,348 +31,140 @@ images:
     isCached: true
 
 related:
-  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
-    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
-    publishedDateTime: 2020-12-04T18:05:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+  - title: "Putin congratulates Biden on election victory"
+    excerpt: ""
+    publishedDateTime: 2020-12-15T08:44:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ov1bROivNoQ/putin-congratulates-biden-on-election-victory"
+    ampWebUrl: "https://www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-congratulates-biden-on-election-victory.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 202
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden to campaign in Georgia on same day as Trump ahead of pivotal Senate elections"
-    excerpt: "President-elect Joe Biden will campaign in Georgia the day before the Jan. 5 Senate runoff races there, the same day President Trump is scheduled to hold a rally for Sens. David Perdue and Kelly Loeffler."
-    publishedDateTime: 2020-12-30T12:29:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dKAc7ftm5kY/biden-dueling-georgia-rally-trump-senate-races"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dueling-georgia-rally-trump-senate-races.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dueling-georgia-rally-trump-senate-races.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 199
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump, Biden camps inspect Nevada election office ahead of Thursday hearing on lawsuit"
-    excerpt: "Attorneys for the Trump 2020 Campaign and representatives of Joe Biden’s six Nevada Electoral College delegates inspected a vote-counting location in Carson City on Tuesday in connection with a voter fraud lawsuit filed by the Trump team."
-    publishedDateTime: 2020-12-02T06:57:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X3PuysVGGVs/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 197
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump 'surprised' some congressional Republicans think Biden won election"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-12-06T05:41:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5a8soicvt8/trump-surprised-congressional-republicans-biden-won-election-12-6-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 197
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aaca5c8c-b769-4449-8d7c-92a7aaddc214/9f4dff36-6ba0-49e0-b71b-19d2d47e6c91/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
-    excerpt: "Biden now has 306 electoral votes."
-    publishedDateTime: 2020-11-20T01:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden gets boost from Wisconsin recount that cost Trump $3M"
-    excerpt: "President-elect Joe Biden picked up 132 more votes after an election recount in Milwaukee County, among the two places in Wisconsin that President Trump spent $3 million to force a recount."
-    publishedDateTime: 2020-11-28T17:48:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU6vMKqo9G0/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump files latest lawsuit in Georgia challenging election result"
-    excerpt: "President Trump and a Georgia Republican voter filed the latest lawsuit Friday challenging last month's election result, alleging that there are demonstrable ways Georgia's election laws were violated \"thousands\" of times."
-    publishedDateTime: 2020-12-04T23:25:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sYuAZFTTxQw/trump-lawsuit-georgia-challenging-election-result"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-lawsuit-georgia-challenging-election-result.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawsuit-georgia-challenging-election-result.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e806eeae-f80a-466f-a8c3-c7209c14d158/86067518-0868-454e-9525-020b4623dbbf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump, Georgia governor clash over election results"
-    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
-    publishedDateTime: 2020-12-06T05:47:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/es-q1G6XQKA/live-updates-trump-georgia-governor-clash-election-12-6-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/173a5348-d54c-421c-98b5-a78d78786523/a1dd487d-39a4-4368-9cae-e408837c1c58/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden burned in bid to follow Trump playbook"
-    excerpt: "Biden's secretary of Defense pick Lloyd Austin would need the same kind of waiver from Congress James Mattis got."
-    publishedDateTime: 2020-12-08T20:13:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_82qxXiQ2MU/biden-burned-in-bid-to-follow-trump-playbook"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won. "
-    publishedDateTime: 2020-12-11T18:32:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VavpxlwzfM/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
-        isCached: true
-  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
-    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
-    publishedDateTime: 2020-12-10T16:11:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GojdMbZs3UE/trump-coronavirus-birx-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
-    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
-    publishedDateTime: 2020-12-06T23:23:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Mifn6ZHwF8/trump-inauguration-day-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+  - title: "Barr says he has 'no plan' to appoint election, Hunter Biden special counsels"
+    excerpt: "Attorney General William Barr on Monday said he has \"no plan\" to appoint a special counsel to take over the federal investigation into Hunter Biden’s \"tax affairs,\" or one to probe allegations of widespread voter fraud in the 2020 prwsidential election. "
+    publishedDateTime: 2020-12-21T16:35:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOEZZYFqVO8/barr-no-special-counsel-election-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/barr-no-special-counsel-election-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-no-special-counsel-election-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 187
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pence returns to Georgia on Friday; Obama stars in new Ossoff TV ad"
-    excerpt: "Vice President Mike Pence will return to Georgia on Friday to hit the campaign trail in the state’s twin Jan. 5 Senate runoff elections, where the Republicans' Senate majority is at stake."
-    publishedDateTime: 2020-12-01T17:57:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HChPSLnQKKo/pence-returns-to-georgia-obama-stars-new-ossoff-ad"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden trails Trump, Obama and Bush in dragging feet to name attorney general pick"
-    excerpt: "President-elect Joe Biden has parted ways with years of presidential precedent by not yet having picked an attorney general as the election year comes to a close."
-    publishedDateTime: 2020-12-31T00:42:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0T4Qj91WVD0/biden-trump-obama-bush-attorney-general"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-obama-bush-attorney-general.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-obama-bush-attorney-general.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20363751241700.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Live Updates: Trump says he will leave office if Electoral College votes for Biden"
-    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, while also promising to keep up with his legal fight."
-    publishedDateTime: 2020-11-27T13:36:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDmRpAN92qc/live-updates-election-11-27-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
+  - title: "Trump fires back after McConnell recognizes Biden's victory: 'Too soon to give up'"
+    excerpt: "It took more than 14 hours, but President Trump finally publicly responded to a speech by Senate Majority Leader Mitch McConnell in which the Trump ally and fellow Republican congratulated President-elect Joe Biden on his White House victory."
+    publishedDateTime: 2020-12-16T15:33:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCqUgYOGg9s/trump-responds-mcconnell-biden-victory"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-responds-mcconnell-biden-victory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-responds-mcconnell-biden-victory.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 184
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2046661-af49-43f7-be94-c44b4151c606/4f7e54a9-6753-4532-8282-e80392731859/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "LIVE UPDATES: Trump claims Biden must prove his votes were legal to become president"
-    excerpt: "President Trump on Friday claimed that Democrat Joe Biden must prove his win in Pennsylvania wasn't \"fraudulently or illegally obtained\" to become president. "
-    publishedDateTime: 2020-11-28T07:28:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpVj8U08b4w/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
+  - title: "Live Updates: Biden says it will take months to reverse Trump's immigration policies"
+    excerpt: "President-elect Joe Biden says he won’t roll back President Trump’s immigration restrictions \"on day one,\" but rather would take approximately six months to implement immigration reform policies in order to prevent triggering a surge of \"2 million people on our border.\""
+    publishedDateTime: 2020-12-23T05:59:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gQDs7DV__a8/live-updates-biden-transition-12-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 183
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/903d7caa-6386-4844-aa0c-b4697bfe26e7/57c22f54-2652-4ec5-84ce-0c8701537f33/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump says Biden can't be president if voter fraud claims are accurate"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-12-03T07:45:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbLI00ZI54c/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate.amp"
+  - title: "Rep. Jim Jordan: Voters not knowing about Hunter Biden probe before election 'is just wrong'"
+    excerpt: "The media and the American people should have known about the federal investigation into President-elect Joe Biden's son Hunter prior to last month's presidential election, Rep. Jim Jordan, R-Ohio, said on Friday."
+    publishedDateTime: 2020-12-12T05:42:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6l6tzgljFzQ/jim-jordan-hunter-biden-investigation-voters-media"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 179
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biased media ignored Biden's 'potential criminal activity' for months: Trump campaign"
-    excerpt: "Trump 2020 national press secretary Hogan Gidley reacted Friday on \"Outnumbered Overtime\" to the latest revelations about the Hunter Biden investigation, including that Attorney General William Barr was aware of it in the spring."
-    publishedDateTime: 2020-12-11T19:44:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmLPYMG6fzU/biased-media-bidens-potential-criminal-activity-trump-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adb23140-e9cf-491e-8575-04fe15b0f561/74a2486d-979b-4865-bb21-ed4ce837046d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
-    excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
-    publishedDateTime: 2020-12-05T22:51:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-4.jpg"
-        width: 339
-        height: 226
-        isCached: true
-  - title: "Trump claims Biden must prove votes weren't 'illegally obtained' in order to enter White House"
-    excerpt: "President Trump on Friday claimed that President-elect Joe Biden must prove that the votes he received in the presidential election were not “illegally obtained” in order to enter the White House -- the latest sign that Trump is not giving up his efforts to challenge the result."
-    publishedDateTime: 2020-11-27T17:35:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amZifCI9xwo/trump-biden-illegally-obtained-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b5d8907-832c-454a-88d2-e1bd843f5702/e53d9336-9bb5-4e3e-9758-0d7c04ed5f47/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GOP views Georgia Senate runoffs as 'firewall' against Biden's agenda"
-    excerpt: "Republicans are amping up efforts to retain their Senate majority through a pair of Georgia runoffs that they view as a \"firewall\" against Democrats' agenda after President Trump lost his reelection bid. "
-    publishedDateTime: 2020-11-27T14:17:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DwRm6r0BiyY/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda.amp"
+  - title: "Biden's health team picks point to more hands-on federal response"
+    excerpt: "President-elect Joe Biden's choices for his health care team point to a stronger federal role in the nation's COVID-19 strategy, restoration of a guiding stress on science and an emphasis on equitable distribution of vaccines and treatments."
+    publishedDateTime: 2020-12-08T16:14:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yqtvvfd-T_Q/biden-health-team-hands-on-federal-response"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-health-team-hands-on-federal-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-team-hands-on-federal-response.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82f2e1a9-be17-47ad-9e03-87cdb925e02d/3b181a5a-a397-4b4f-94ce-a60e3688ed33/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump hints at 2024 presidential run in remarks at White House party"
-    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-12-02T15:49:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+  - title: "Gun rights group blast Biden’s HHS pick"
+    excerpt: "Group claims Biden pick signals incoming White House will push firearm ownership as a public health crisis."
+    publishedDateTime: 2020-12-08T23:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGl2pM9YapI/gun-rights-group-biden-hhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Azar says he's already met with Biden transition team"
+    excerpt: "Health and Human Services Secretary Alex Azar said Wednesday that he’s already met with the Biden transition team, looking to ensure a smooth transition of power. "
+    publishedDateTime: 2020-12-09T20:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9nB69YUg78E/azar-met-with-biden-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/azar-met-with-biden-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/azar-met-with-biden-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8c9545a-a072-4743-a566-6e5a86b358a3/fa34f2bf-f746-417f-a5ef-403bbde4e836/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden defends nomination of retired general to lead Defense Department"
+    excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen. Lloyd Austin as Defense secretary in his upcoming administration"
+    publishedDateTime: 2020-12-09T20:30:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uX_ycAfeYW4/biden-defends-nomination-of-retired-general-to-lead-defense-department"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
     type: article
     provider:
       name: Fox News
@@ -383,309 +175,869 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump to headline rally in Georgia runoffs Saturday"
-    excerpt: "President Trump will headline the rally Saturday at 7pm at the airport in Valdosta, a city in the southern part of the state, according to an announcement Wednesday from Trump’s re-election campaign"
-    publishedDateTime: 2020-12-03T01:49:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGMmkBLq_Lk/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
+  - title: "Hunter Biden 'tax affairs' under federal investigation"
+    excerpt: "The U.S. Attorney’s Office in Delaware is investigating Hunter Biden’s “tax affairs,” President-elect Joe Biden’s son confirmed on Wednesday, saying he is taking the matter “very seriously” and is “confident” he handled his affairs “legally and appropriately.” \u2028"
+    publishedDateTime: 2020-12-09T21:05:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqduG92XE-M/hunter-biden-tax-affairs-under-federal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "GOP anticipation builds ahead of Trump's Georgia rally"
-    excerpt: "GOP anticipation and trepidation over Trump’s Georgia Senate runoffs rally."
-    publishedDateTime: 2020-12-05T13:40:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/beIj8e9AW1s/trump-georgia-rally-saturday-dec-5-gop"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
+  - title: "Joe Biden's gaffe-filled 2020: President-elect botches HHS announcement"
+    excerpt: "President-elect Joe Biden had his latest misadventure with a teleprompter on Wednesday, botching the name of Xavier Becerra, his nominee for Health and Human Services Secretary."
+    publishedDateTime: 2020-12-09T20:35:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXylyVV42QA/joe-bidens-best-teleprompter-gaffes-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f1b25b6-51f5-4710-a2e8-de6c3dff8d45/1a5a5d5d-281e-4651-96b8-b5982d9f0e7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Multiple Senate Democrats signal opposition to Biden's Pentagon pick"
+    excerpt: "President-elect Joe Biden will officially tap retired four-star General Lloyd J. Austin III to be his Defense Secretary Wednesday, but some Senate Democrats are already expressing opposition to the pick because of a law that mandates the Pentagon chief must be retired from the military for at least seven"
+    publishedDateTime: 2020-12-09T01:38:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hrqRGYeL7GE/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief"
+    ampWebUrl: "https://www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec68a32e-4817-41ce-a05e-09b225696e18/37ad2bac-a654-4987-91e7-4b3680fbb613/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ron Johnson pushes back on calls for Hunter Biden special counsel"
+    excerpt: "EXCLUSIVE: Senate Homeland Security Committee Chairman Ron Johnson, who has been looking into Hunter Biden’s foreign business dealings for over a year, told Fox News on Wednesday he opposes the appointment of a special counsel to investigate President-elect Joe Biden’s son, while vowing to continue looking"
+    publishedDateTime: 2020-12-09T22:34:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GchTH4Gp6z0/ron-johnson-hunter-biden-special-counsel-calls-pushback"
+    ampWebUrl: "https://www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Twitter weighs in on whether Trump could be banned after leaving office"
-    excerpt: "Once President-elect Joe Biden assumes office on Inauguration Day, Twitter could remove President Trump’s special privileges as a high-profile world leader and treat his account as a normal one if he keeps butting up against the platform’s rules."
-    publishedDateTime: 2020-12-05T03:39:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WDwVSxG_9X8/twitter-whether-trump-ban-leaving-office"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
+  - title: "Black Lives Matter calls out Biden for excluding them from meeting"
+    excerpt: "Black Lives Matter seemed to knock President-elect Joe Biden on Wednesday after it was revealed that he didn't include them in a meeting where multiple civil rights groups laid out their recommendations for his Justice Department."
+    publishedDateTime: 2020-12-10T02:21:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aWae4uIJhME/black-lives-matter-biden-doj-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-biden-doj-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-biden-doj-meeting.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20339074006282.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4023def7-6307-4b82-9858-79d0ec409a14/09025484-6fb1-4971-a578-6b5948885433/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Will Joe Biden fire the Hunter Biden investigators?"
+    excerpt: "President-elect Joe Biden has not said whether he’ll commit to keeping the Delaware U.S. Attorney investigating Hunter Biden in his position in the new administration. "
+    publishedDateTime: 2020-12-10T22:43:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B15Aa6slS64/will-joe-biden-fire-the-hunter-biden-investigators"
+    ampWebUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5da600fb-fbc4-43de-a50c-a2190fcc4c4e/c6eb9241-3c2b-4074-b59a-25c4600012a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AOC knocks Joe Biden’s agenda as ‘a little hazy’"
+    excerpt: "President-elect Joe Biden has started to fill out key roles in his cabinet and staff before he takes office, but Congresswoman Alexandria Ocasio-Cortez, D-N.Y., said this week that she'd like to see a more unified unit. "
+    publishedDateTime: 2020-12-11T03:27:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2o_wp2ku20/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision"
+    ampWebUrl: "https://www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94263045-eb33-4a8d-a418-079be75f1161/e3bf2dbe-1805-4073-8722-3e255f507b05/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's Health and Human Services pick has no public health experience"
+    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
+    publishedDateTime: 2020-12-11T23:22:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ODX7-larJ7M/bidens-health-and-human-services-pick-has-no-public-health-experience"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Comer says investigation into Hunter Biden must go on unimpeded"
+    excerpt: ""
+    publishedDateTime: 2020-12-11T08:58:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rC_Eh0oYIrE/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded"
+    ampWebUrl: "https://www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden's brother James is also caught up in federal probe: report"
+    excerpt: "Federal authorities are reportedly conducting a criminal investigation into a hospital business tied to President-elect Joe Biden’s brother James."
+    publishedDateTime: 2020-12-11T00:52:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oiZ-fyQ8YsQ/joe-bidens-brother-james-federal-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-brother-james-federal-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-brother-james-federal-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a6837db-74e7-4137-9fec-d45f0b35bdab/64b1d66c-f5d4-4ec0-96ec-4e475773dedc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NY Gov. Cuomo among contenders for Biden attorney general"
+    excerpt: "New York Gov. Andrew Cuomo is one of several contenders under consideration by President-elect Joe Biden for the role of attorney general, a person with knowledge of the search process said Friday."
+    publishedDateTime: 2020-12-12T17:20:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0w1crn2Bhg8/cuomo-among-contenders-for-biden-attorney-general-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Cuomo-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Democrat Joe Manchin opposed Biden surgeon general pick under Obama"
-    excerpt: "At the time, the West Virginia Democrat questioned whether Dr. Vivek Murthy could separate his political beliefs from his public health views."
-    publishedDateTime: 2020-12-07T20:51:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI2JXhtkRsU/democrat-manchin-opposed-biden-surgeon-general-pick-obama"
-    ampWebUrl: "https://www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp"
+  - title: "Biden considers Samantha Power for USAID: Report"
+    excerpt: "President-elect Joe Biden is reportedly considering former United Nations Ambassador Samantha Power to lead the U.S. Agency for International Development (USAID)."
+    publishedDateTime: 2020-12-14T04:25:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsYeFyMrgSU/biden-weighs-samantha-power-for-usaid-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-weighs-samantha-power-for-usaid-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weighs-samantha-power-for-usaid-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/samantha-power.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden makes big investment in Georgia’s Senate runoffs"
-    excerpt: "Hoping to help the Democrats win back the majority in the Senate, President-elect Joe Biden’s making what’s being described as a mid-seven figure investment in Georgia’s twin Senate runoffs, where the GOP’s control of the chamber is at stake"
-    publishedDateTime: 2020-12-11T20:42:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEyL8hQB2X0/biden-makes-big-investment-in-georgias-senate-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
+  - title: "Biden tries out for new role in Georgia: Party leader"
+    excerpt: "Biden has some motivation in his trip to Georgia Tuesday."
+    publishedDateTime: 2020-12-15T21:01:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2vtr33jvR8/biden-tries-out-for-new-role-in-georgia-party-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump, Biden hold dueling campaign events on eve of Georgia runoffs as candidates make final pitches"
-    excerpt: "With the Senate majority up for grabs, which will likely determine how successful President-elect Joe Biden will be in passing his incoming administration’s agenda, the stakes in Tuesday’s twin Senate runoff elections in Georgia were already enormous."
-    publishedDateTime: 2021-01-04T17:21:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kl5Kqu3J_Fg/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-hold-dueling-campaign-events-on-eve-of-georgia-runoffs-as-candidates-make-final-pitches.amp"
+  - title: "Joe Biden butchers Jon Ossoff's name at Georgia rally"
+    excerpt: "President-elect Joe Biden mispronounced Democratic Senate hopeful John Ossoff's name during an election event Tuesday ahead of the crucial runoff races. "
+    publishedDateTime: 2020-12-16T01:10:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jzj6pCsvQlc/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-butchers-jon-ossoffs-name-at-georgia-rally.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f98e1f8c-cd6f-4852-9633-18a5e391a3fd/268d78bf-145e-43a9-828d-749a63b16c84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden picks Michael Regan to head  Environmental Protection Agency"
+    excerpt: "President-elect Joe Biden tapped Michael Regan to serve as administrator of the Environmental Protection Agency on Thursday, Fox News has confirmed."
+    publishedDateTime: 2020-12-17T20:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VToRMAIl7o/biden-picks-michael-regan-to-head-epa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-picks-michael-regan-to-head-epa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-michael-regan-to-head-epa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Michael-Regan-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Biden just gave House Republicans a major boost"
+    excerpt: "Biden's most recent administration pick could leave House Democrats in a lurch."
+    publishedDateTime: 2020-12-17T21:31:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qy8Fk3ub884/biden-house-republicans-major-boost"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-house-republicans-major-boost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-house-republicans-major-boost.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99ab4cdb-ec1c-4f20-96c6-2ed03ef0b690/5f7c0011-8a99-4911-ba8b-72634accde89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden cuts ad for Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden urged Georgians to vote for Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock in a brand-new ad after campaigning for them in Georgia this week."
+    publishedDateTime: 2020-12-17T05:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ggFutYivllw/live-updates-georgia-senate-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-17-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f98e1f8c-cd6f-4852-9633-18a5e391a3fd/268d78bf-145e-43a9-828d-749a63b16c84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Loeffler again refuses to accept Biden as president-elect"
+    excerpt: "Sen. Kelly Loeffler in remarks to the press Wednesday continues to refuse to acknowledge that Joe Biden is the president-elect, even after the Electoral College officially cast their votes for Biden on Monday and Senate Majority Leader Mitch McConnell on Tuesday acknowledged that Biden will be the next"
+    publishedDateTime: 2020-12-17T19:32:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5QWpqvCReQ/loeffler-again-refuses-to-acknowledge-biden-as-president-elect"
+    ampWebUrl: "https://www.foxnews.com/politics/loeffler-again-refuses-to-acknowledge-biden-as-president-elect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/loeffler-again-refuses-to-acknowledge-biden-as-president-elect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Concha on media coverage of Biden injury: If it was Trump, they would have 'screamed' about transparency"
-    excerpt: "The mainstream media would not have covered President Trump the same as President-elect Joe Biden's foot injury, Fox News contributor Joe Concha argued Tuesday."
-    publishedDateTime: 2020-12-01T13:43:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Yzotfs7xCs/biden-foot-injury-press-trump-concha"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
+  - title: "U.S.-Cuba relations and a Biden administration"
+    excerpt: "President-elect Joe Biden is expected to reverse many Trump administration policies when he enters office in January 2021, and at the top of his list will be restoring international relationships that the Democrat has said were destroyed with President Trump’s \"America first\" rhetoric."
+    publishedDateTime: 2020-12-18T23:02:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4SemxckDhY/u-s-cuba-relations-under-a-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/u-s-cuba-relations-under-a-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/u-s-cuba-relations-under-a-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c3db3fd-7d8d-4dd8-806d-31a44f628bdf/a5461994-6b1e-4bea-9685-f5fdc5122b96/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden unveils climate and energy team, promises 'ambitious' action"
+    excerpt: "President-elect Joe Biden on Saturday unveiled his incoming administration’s climate and energy team in Wilmington, Del. -- hailing its diversity and promising \"ambitious\" action on climate change."
+    publishedDateTime: 2020-12-19T20:42:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y6vOJ4W3N7w/biden-harris-climate-energy-team"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-climate-energy-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-climate-energy-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
+    excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."
+    publishedDateTime: 2020-12-10T19:08:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTZER3EI68o/hawley-joe-biden-questions-probe-hunter"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-joe-biden-questions-probe-hunter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-joe-biden-questions-probe-hunter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admits to a 'bit of a cold' after Electoral College victory speech"
+    excerpt: "Biden’s voice was slightly hoarse during the address, which took place shortly after he surpassed the 270-vote threshold required to win the White House."
+    publishedDateTime: 2020-12-15T03:22:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ckEiGdq99E/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-acknowledges-he-has-little-bit-of-a-cold-after-presidential-victory-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb17ad28-ae6e-42d1-8679-bd42bdd8dab0/7cbadd7e-fcd4-4f9c-b4c9-63f546a675f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden HHS nominee was an investor in company sued over elder abuse claims"
+    excerpt: "Xavier Becerra sold his shares in the company earlier this year."
+    publishedDateTime: 2020-12-15T01:23:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzH50Ib5XUA/biden-hhs-nominee-investor-elder-abuse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-investor-elder-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-investor-elder-abuse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Jill Biden's dissertation criticized in viral Twitter thread: 'It's bad'"
+    excerpt: "A viral Twitter thread breaking down incoming first lady Jill Biden's 2007 dissertation to earn her doctorate in education outlined examples of poor writing and math errors."
+    publishedDateTime: 2020-12-16T23:05:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1kJvjvzRDY/viral-twitter-thread-criticizes-jill-biden-dissertation"
+    ampWebUrl: "https://www.foxnews.com/politics/viral-twitter-thread-criticizes-jill-biden-dissertation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/viral-twitter-thread-criticizes-jill-biden-dissertation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4802aae-889b-4fac-b010-9913d8165396/dfcb9cb3-e25f-439f-b621-e0382eba208c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Lindsey Graham calls for special counsel to investigate Hunter Biden"
+    excerpt: "The senator called for the special counsel to probe whether “any crimes were committed” and determine any “conflicts” that exist for President-elect Joe Biden’s incoming administration."
+    publishedDateTime: 2020-12-16T22:55:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ITJkCiFQjs/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LA Mayor Eric Garcetti says he turned down Biden administration position"
+    excerpt: "LA Mayor Eric Garcetti said he turned down a position in President-elect Joe Biden's administration, instead opting to stay in his city as the COVID-19 crisis continues to worsen."
+    publishedDateTime: 2020-12-18T19:29:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N_dhxWZ9RBM/la-mayor-eric-garcetti-turned-down-biden-admin-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-eric-garcetti-turned-down-biden-admin-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-eric-garcetti-turned-down-biden-admin-position.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91241984-bb88-4d48-96e8-2feb01180b7d/a4d135b3-e019-4971-ae80-6905d383bcea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dozens of House Democrats join 'Squad' in demanding Biden end death penalty"
+    excerpt: "More than three dozen members of Congress signed onto a letter Tuesday calling for President-elect Joe Biden to halt the federal government's use of the death penalty and show he's willing \"to dismantle its use altogether.\""
+    publishedDateTime: 2020-12-16T00:53:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nfDYFuKi5QI/house-dems-squad-biden-death-penalty"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dems-squad-biden-death-penalty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-squad-biden-death-penalty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d557601-35f9-4fef-9ec8-1b9c55219f32/b989605a-9f99-410a-aa7a-c4d0930b55c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hillary Clinton defends Biden deputy chief of staff after 'f---ers' comment"
+    excerpt: "Former Secretary of State Hillary Clinton defended Biden campaign manager and incoming deputy chief of staff Jennifer O’Malley Dillon after she called Republicans a \"bunch of f---ers.\" "
+    publishedDateTime: 2020-12-17T18:32:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fOYobxYGivM/hillary-clinton-defends-biden-deputy-chief-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-defends-biden-deputy-chief-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-defends-biden-deputy-chief-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/hillary.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
+    excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
+    publishedDateTime: 2020-12-08T16:02:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW05KClJdVg/rep-slotkin-biden-general-defense-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-slotkin-biden-general-defense-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-slotkin-biden-general-defense-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Georgia’s Kemp again rejects lawmakers replacing electors after call with Trump"
-    excerpt: "Gov. Brian Kemp, the Georgia Republican, issued a joint statement Sunday night that said it would be in violation of state law for him to call a special session of the legislature to overturn his state’s election results."
-    publishedDateTime: 2020-12-07T04:47:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6y0ldAqgGvQ/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump.amp"
+  - title: "Biden transition team deletes old ad hammering Buttigieg's lack of experience"
+    excerpt: "President-elect Joe Biden’s transition team has deleted an ad hammering Pete Buttigieg’s lack of experience from the Democratic primary after Biden chose the former mayor to serve as transportation secretary. "
+    publishedDateTime: 2020-12-16T22:21:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQrrI9VZ6AQ/biden-transition-deletes-ad-hammering-buttigiegs-lack-of-experience"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-deletes-ad-hammering-buttigiegs-lack-of-experience.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-deletes-ad-hammering-buttigiegs-lack-of-experience.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20351632662706-e1608148698619.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "60% of voters view Biden's 2020 presidential victory as legitimate, poll finds"
+    excerpt: "The results skewed heavily based on party affiliation."
+    publishedDateTime: 2020-12-11T02:46:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTFtjrDGLA8/60-of-voters-view-bidens-2020-presidential-victory-as-legitimate-poll-finds"
+    ampWebUrl: "https://www.foxnews.com/politics/60-of-voters-view-bidens-2020-presidential-victory-as-legitimate-poll-finds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/60-of-voters-view-bidens-2020-presidential-victory-as-legitimate-poll-finds.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/612e10a1-2e19-4187-9810-f21cbbf153df/d2d7a5d8-08f2-41fd-92b9-c005b70f7afc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump plans Georgia visit to campaign for Senate runoff candidates"
-    excerpt: "Follow for the latest updates on the January U.S. Senate runoffs in Georgia"
-    publishedDateTime: 2020-11-28T08:36:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aMxmbeYxM_U/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
+  - title: "Flashback: Biden praised ‘constant,' 'unrelenting’ stream of immigration into US"
+    excerpt: "President-elect Joe Biden, during the Obama administration, said the U.S. benefits from a “constant” and “unrelenting” stream of immigration -- and that those with white European heritage becoming a minority in the U.S. is \"a source of our strength.\""
+    publishedDateTime: 2020-12-13T01:33:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bsMogvw3hWI/flashback-joe-biden-constant-unrelenting-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-joe-biden-constant-unrelenting-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-joe-biden-constant-unrelenting-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f81d5bb-aaa9-4e45-b0bb-04c49b11546c/7ff0a562-bdd7-4c0c-97eb-8c80f3b3ca71/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/105a243f-647e-49c0-a21a-db935c01db1a/2b2f4938-3d66-4bc8-899f-72bd96357331/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Jr. rips 'radical left' in Georgia Senate runoff TV campaign for super PAC"
-    excerpt: "Trump Jr. will appear in ads beginning Thursday on behalf of the Save the US Senate PAC, a group founded by his longtime aides Taylor Budowich and Andy Surabian."
-    publishedDateTime: 2020-12-08T21:52:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hEXPLIM7q_o/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+  - title: "Progressives give Biden's Cabinet picks mixed reviews, demand more representation"
+    excerpt: "Some progressive Democrats are raising concerns about how President-elect Joe Biden's Cabinet is beginning to take shape and are demanding more representation in the incoming administration. "
+    publishedDateTime: 2020-12-14T19:08:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWonzdVLudI/progressives-push-biden-for-more-cabinet-representation-amid-growing-frustration"
+    ampWebUrl: "https://www.foxnews.com/politics/progressives-push-biden-for-more-cabinet-representation-amid-growing-frustration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-push-biden-for-more-cabinet-representation-amid-growing-frustration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb251d9-02dd-417a-bd90-6515a31715cb/100bd5cb-8f4e-4ffb-acd5-9b84a7daf550/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden to campaign in Georgia for Senate candidates Ossoff, Warnock"
-    excerpt: "President-elect Joe Biden will be in Georgia next week to campaign for Democratic Senate candidates Jon Ossoff and Raphael Warnock."
-    publishedDateTime: 2020-12-10T04:40:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XRtnZJSz4xA/live-updates-senate-12-10-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
+  - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
+    excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election. "
+    publishedDateTime: 2020-12-15T16:00:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/La9No09D_mY/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e9e271f-ce01-4542-baeb-3dc605c526a6/6d9bc3da-2ec9-44b8-9e71-79c685935a6f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Zuckerberg-Dorsey-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
-    excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
-    publishedDateTime: 2020-11-27T12:15:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVYQur-2_hY/live-updates-georgia-senate-runoff-november-27"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
+  - title: "Rand Paul opposes Hunter Biden special counsel but says federal probe must continue"
+    excerpt: "Sen. Rand Paul, R-Ky., said Thursday that Hunter Biden \"deserves the same justice that Paul Manafort got\" but opposed appointing a special sounsel to oversee the investigation into his tax affairs."
+    publishedDateTime: 2020-12-17T17:05:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ti2GoH1cSEw/rand-paul-hunter-biden-special-counsel-manafort"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4118860c-733d-46af-b1ba-85f6a4fdc12d/a180d325-392c-4ed8-9b5c-9ce197a500d1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Executive at nonprofit that helped in Georgia audit has history of anti-Trump tweets"
-    excerpt: "The executive director of a San Francisco-based nonprofit that was tapped by Georgia’s secretary of state to assist in the state’s audit has a history of anti-Trump tweets, but has insisted that he does not “bring them to work.”"
-    publishedDateTime: 2020-12-01T16:04:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d0eNOTp8iQE/georgia-audit-nonprofit-executive-anti-trump-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp"
+  - title: "Sen. Johnson: Voters, Congress should have known about DOJ Hunter Biden investigation"
+    excerpt: "Sen. Ron Johnson, R-Wis., said members of Congress should have been informed that Hunter Biden's \"tax affairs\" were under investigation as they considered whether to vote to impeach President Trump in 2019."
+    publishedDateTime: 2020-12-13T17:06:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgzkEr6DgMg/william-barr-hunter-biden-doj-investigation-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-barr-hunter-biden-doj-investigation-ron-johnson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Democratic PAC billboards push Trump supporters to sit out Georgia Senate runoff vote"
-    excerpt: "The billboards say: \"Perdue/Loeffler Didn't Deliver For Trump, Don't Deliver For Them.\""
-    publishedDateTime: 2020-12-02T03:10:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IW4PfoE5OXA/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
+  - title: "Live Updates: Biden addresses nation after Electoral College vote formalizes victory"
+    excerpt: "In his most forceful condemnation to date, Biden described the president's persistent efforts to reverse the election results as an \"unprecedented assault on our democracy.\" "
+    publishedDateTime: 2020-12-15T05:30:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AMgZqHXzyzA/live-updates-biden-transition-12-15-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-15-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-15-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19c259e9-3646-4cb2-8805-d7925ab8f1ac/48edf0e4-e5c9-4ed9-890c-f23ccfba59d8/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a17aa2f0-ba7c-436f-8948-9a146dc2bc01/79f7ae1d-67c4-49af-bba8-4e4ebc9511e5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump to campaign for GOP Senate runoff candidates in Georgia Saturday"
-    excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
-    publishedDateTime: 2020-12-03T06:13:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X1WgTSy5Plw/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday.amp"
+  - title: "Cotton calls on Joe Biden to hold press conference about family's business interests"
+    excerpt: "Sen. Tom Cotton, R-Ark., called on President-elect Joe Biden Thursday to \"come entirely clean\" and address questions about his family's overseas business dealings."
+    publishedDateTime: 2020-12-17T20:35:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEzsWWlJI3U/tom-cotton-joe-biden-hold-press-conference-family-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c52c112-f7a8-401a-911a-350f77702a09/72f4df19-ba45-4df8-a29a-e07d0173f7f7/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump warns Georgia voters, 'If you don't vote, the socialists and the communists win'"
-    excerpt: "President Trump urged his supporters to vote for Republican Sens. Kelly Loeffler and David Perdue to prevent the \"socialists\" and \"communists\" from gaining control of the U.S. Senate."
-    publishedDateTime: 2020-12-07T02:01:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToD9tQ4smzE/trump-communist-democrats-senate-georgia"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-communist-democrats-senate-georgia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-communist-democrats-senate-georgia.amp"
+  - title: "Biden defense secretary pick puts Democrats who opposed Mattis' waiver in a tough spot"
+    excerpt: "Lawmakers would need to approve a waiver allowing him to serve."
+    publishedDateTime: 2020-12-09T01:53:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wnIRbzCu1SM/biden-defense-secretary-pick-dems-opposed-mattis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b82c52d-6baf-4dd2-90b8-e403898a75c6/9eea1eab-e62b-406b-912d-b8b272393d47/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden announces 'Flip Georgia Fund' to support Democratic runoff candidates"
-    excerpt: "Follow for the latest updates on the Georgia Senate runoff"
-    publishedDateTime: 2020-12-11T05:44:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rFqltlqQq9k/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
+  - title: "Hunter Biden’s China business deals leading up to 2018 probe detailed in Senate report"
+    excerpt: "Hunter Biden’s past dealings with Chinese nationals – including some flagged for “potential financial criminal activity” – are outlined in a Senate committee report reviewed by Fox News."
+    publishedDateTime: 2020-12-10T06:43:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KpERGRK55rg/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "UN Ambassador Craft calls for reform of Human Rights Council, as Biden likely to rejoin"
+    excerpt: "U.N. Ambassador Kelly Craft on Monday called for significant reforms to the controversial Human Rights Council, warning that the U.S. should not rejoin unless it fixes its membership, elections and anti-Israel bias -- ahead of a likely change in policy from the incoming Biden administration."
+    publishedDateTime: 2020-12-14T21:41:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IRJaCtaELyE/un-ambassador-craft-reform-human-rights-council"
+    ampWebUrl: "https://www.foxnews.com/politics/un-ambassador-craft-reform-human-rights-council.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/un-ambassador-craft-reform-human-rights-council.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e4c3f5f-8738-4f0a-be02-531a88eb9c4b/d49fdefa-00b4-47f1-96e1-7cea7bbb3fe7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden may stagger nominations from House to avoid cutting into slim Democratic majority"
+    excerpt: "President-elect Joe Biden may stagger nominations of House Democrats for positions in the upcoming administration to avoid cutting into House Speaker Nancy Pelosi’s already slim majority after losses in the November election."
+    publishedDateTime: 2020-12-19T10:55:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8CFCpcv-V8A/biden-may-stagger-nominations-from-house-to-avoid-cutting-into-slim-democratic-majority"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-may-stagger-nominations-from-house-to-avoid-cutting-into-slim-democratic-majority.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-stagger-nominations-from-house-to-avoid-cutting-into-slim-democratic-majority.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c25d3d8-c458-41d5-8b1b-54ea2eca9a77/a243a863-d350-4cc0-96e7-ec93d56db16a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden faces increasing pressure to include greater Latino representation in his cabinet"
+    excerpt: "The Congressional Hispanic Caucus put more pressure on President-elect Joe Biden to bolster Latino representation in his cabinet."
+    publishedDateTime: 2020-12-20T02:13:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/re7kXNBUHdo/biden-pressure-greater-latino-representation-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pressure-greater-latino-representation-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressure-greater-latino-representation-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4f0c4ce-26a5-46b0-9492-d485a2f1d303/e1ba3175-f9c1-4dbe-a47f-e9b4991047df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
+    excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."
+    publishedDateTime: 2020-12-10T02:54:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u734thyHz58/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62b705d1-9028-496b-afbe-ae155e9646d0/9d03800d-131b-436b-affd-7f72a9fd40f4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump warns Georgia runoff boycott would play 'right into the hands of some very sick people'"
-    excerpt: "Trump reiterated his frequent claim that the 2020 election was a “total scam,” but urged his supporters to turn out on behalf of Georgia’s Republican Senate candidates."
-    publishedDateTime: 2020-11-27T21:07:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GQ4DyPULdB0/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
+  - title: "Biden economic adviser criticized GOP immigration posturing as 'xenophobic, race-baiting'"
+    excerpt: "Comments were made in response to then-candidate Trump's discussion of a U.S.-Mexico border wall."
+    publishedDateTime: 2020-12-22T00:42:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/45ClCbXZ5nw/biden-economic-adviser-gop-immigration-posturing-xenophobic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-economic-adviser-gop-immigration-posturing-xenophobic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-gop-immigration-posturing-xenophobic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84658a6e-3221-4f17-8234-f8d7aca48db3/8c8a6b23-a7c5-404f-98f0-5f1493bd9558/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden officials urge caution on 'Day One' immigration changes, say some will 'take time'"
+    excerpt: "Top officials for the incoming Biden administration are warning that some changes to President Trump’s immigration policies will \"take time\" – and migrants should not expect the border to be \"fully open\" right away."
+    publishedDateTime: 2020-12-22T17:01:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bdiVEMGeK7k/biden-officials-day-one-immigration-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-officials-day-one-immigration-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-officials-day-one-immigration-changes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a0d009c-290d-48ec-b099-36f8328bcd96/40e3e412-7c85-458b-bc86-f0397800aad6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
+    excerpt: "“I’m proud of my son,” Biden said in response to a question from Fox News' Peter Doocy."
+    publishedDateTime: 2020-12-11T21:58:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vcpHfaLHDcc/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fdd4fa30-66ad-4e63-adb7-491d71f54190/dac5b2a1-6140-41e0-9388-9a2491361f93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden inaugural committee offers special VIP access to corporations that donate $1 million"
+    excerpt: "For a donation of $1 million, President-elect Joe Biden’s inaugural committee is offering a special VIP package to organizations. "
+    publishedDateTime: 2020-12-16T21:49:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8S2dZBjRofA/biden-inauguration-1-million-vip-chair"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-1-million-vip-chair.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-1-million-vip-chair.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20350034759334.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Hillary Clinton calls for abolishing Electoral College after casting electoral vote for Biden"
+    excerpt: "Hillary Clinton is once again calling for the scrapping of the Electoral College to pick presidents."
+    publishedDateTime: 2020-12-14T19:50:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lkxQn-SdgWA/hillary-clinton-vote-biden-abolish-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-vote-biden-abolish-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-vote-biden-abolish-electoral-college.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d7d32f1-3cbe-4d32-b262-11636ff1aadc/f7d0832f-1bc7-4025-a734-dddd2036d2b7/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden Defense pick could make for strange Capitol Hill bedfellows in looming confirmation battle"
+    excerpt: "Retired four-star Gen. Lloyd Austin, President-elect Biden's choice for secretary of defense, is forcing members of both parties in Congress to weigh how comfortable they are with placing a recently-retired general in what is meant to be a civilian position leading the American armed forces."
+    publishedDateTime: 2020-12-09T17:21:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mDfh0-w--g0/biden-defense-secretary-pick-congress-waiver"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-pick-congress-waiver.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-pick-congress-waiver.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ari Fleischer: Mainstream media committed 'dereliction of duty' by not reporting on Hunter Biden"
+    excerpt: "\"The press was derelict in its duty\" by not following up on the New York Post's reporting about Hunter Biden's overseas business dealings, former White House Press Secretary Ari Fleischer told “Outnumbered Overtime” on Thursday."
+    publishedDateTime: 2020-12-11T01:49:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wqAhP-4ld4M/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty"
+    ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live Updates: Biden economic adviser was outspokenly critical of GOP-sponsored immigration policies"
+    excerpt: "President-Elect Joe Biden tapped Joelle Gamble to serve as an economic adviser in his incoming administration"
+    publishedDateTime: 2020-12-22T05:03:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBt3R8OCQB4/live-updates-biden-transition-12-22-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-22-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-22-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e01ec4a-7cb8-4037-bd3e-b55b5f387bc4/23281677-21f6-4bd1-9e92-b6b1ab154be6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
-    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
-    publishedDateTime: 2020-11-20T22:50:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+  - title: "McConnell, top GOP senators acknowledge Biden as president-elect: 'The Electoral College has spoken'"
+    excerpt: "Top Senate Republicans are officially accepting President-elect Joe Biden's 2020 victory after the Electoral College confirmed his win on Monday."
+    publishedDateTime: 2020-12-15T15:30:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u8FY3PrPjdg/mcconnell-senate-republicans-biden-president-elect-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-senate-republicans-biden-president-elect-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-senate-republicans-biden-president-elect-electoral-college.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Fox News
+      domain: foxnews.com
     quality: 160
     images:
-      - url: "https://images.wsj.net/im-262788/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345602979352.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden announces additions to White House communications team, includes multiple ex-campaign staffers"
+    excerpt: "A number of communications officials from President-elect Joe Biden’s 2020 presidential campaign are joining the White House in what the Biden-Harris transition called a demonstration of their “commitment to build an administration that looks like America and is ready to deliver results for working families"
+    publishedDateTime: 2020-12-18T18:57:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vArQXBayaWA/biden-white-house-communications-team-former-campaign-staffers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-communications-team-former-campaign-staffers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-communications-team-former-campaign-staffers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Loeffler and Perdue back Texas suit aiming to overturn elector slates in Georgia, other states Biden won"
     excerpt: "Sens. David Perdue and Kelly Loeffler Tuesday announced their support of a Texas lawsuit at the Supreme Court which seeks to have the justices declare that Pennsylvania, Michigan, Wisconsin and Georgia are \"in violation of the Electors Clause of and the Fourteenth Amendment\" and bar those states' current"
@@ -703,459 +1055,372 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Obama joining Georgia Dems in virtual rally Friday before Trump heads to state Saturday in critical runoffs"
-    excerpt: "Former President Barack Obama will join Georgia Democratic Senate candidates Jon Ossoff and Raphael Warnock for a virtual rally Friday as the two U.S. Senate runoffs are little more than one month away and the control of the upper chamber hangs in the balance."
-    publishedDateTime: 2020-12-03T15:07:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI8-IqUkbvc/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
+  - title: "Hunter Biden’s foreign transactions repeatedly flagged as potential criminal activity, Senate probe found"
+    excerpt: "A Republican-led Senate investigation noted “potential criminal activity” among his transactions."
+    publishedDateTime: 2020-12-10T02:24:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X0N6doesa9k/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democratic senator wants Biden to declare climate 'national emergency,' aggressively wield executive power"
+    excerpt: "Sen. Jeff Merkley is calling on President-elect Joe Biden to employ \"bold executive action\" to address climate change, urging unilateral changes to transportation and spending on alternative energy."
+    publishedDateTime: 2020-12-21T20:12:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2xrKhbksTXA/merkley-biden-declare-climate-emergency"
+    ampWebUrl: "https://www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans slam Big Tech additions to Biden team, say Silicon Valley works 'hand in glove' with Democrats"
+    excerpt: "Big Tech employees have landed top posts on the Biden-Harris transition team and Republicans are raising concerns that the additions to the team and the next administration are \"evidence\" that Silicon Valley \"works hand in glove\" with Democratic politicians. "
+    publishedDateTime: 2020-12-21T20:12:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeHt-LO_t-I/biden-transition-facebook-google-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-facebook-google-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-facebook-google-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
-    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
-    publishedDateTime: 2020-12-04T18:12:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+  - title: "Live Updates: GA Senate runoffs will play role in Hunter Biden probe, says former WH communications director"
+    excerpt: "Control of the Senate will hinge on whether Sen. David Perdue, R-Ga., will beat 33-year-old Democratic media executive Jon Ossoff and whether Sen. Kelly Loeffler, R-Ga., will defeat Raphael Warnock."
+    publishedDateTime: 2020-12-14T05:30:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x621FWhGDiY/live-updates-senate-12-14-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-senate-12-14-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-senate-12-14-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 152
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbe35e1b-90e0-4b18-bbfb-d282af4d778f/cef75d0e-7eaf-439b-b82f-045dc25e3cff/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Plans to Roll Back Trump-Era Education Policies"
-    excerpt: "The president-elect has vowed to bring sweeping changes to education and to reverse some of the civil rights-related moves made under President Trump."
-    publishedDateTime: 2020-11-29T13:12:00Z
-    webUrl: "https://www.wsj.com/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-263007/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Mike Pence visits Georgia ahead of Trump Senate race rally on Saturday"
-    excerpt: "Vice President Mike Pence visited Georgia on Friday ahead of a get-out-the-vote rally by President Trump on Saturday to boost the two GOP Senate runoff candidates. Pence insisted during a speech"
-    publishedDateTime: 2020-12-05T00:42:00Z
-    webUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
-    ampWebUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mike-pence-georgia-2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "President Trump urges Georgia to turn out for Senate runoff election"
-    excerpt: "President Trump delivered his first stump speech since Election Day Saturday night, telling an enthusiastic Georgia crowd that the 2020 election was “rigged,” including in the Peach State —"
-    publishedDateTime: 2020-12-06T02:35:00Z
-    webUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/"
-    ampWebUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-2.jpg?quality=90&strip=all&w=978"
-        width: 978
-        height: 652
-        isCached: true
-  - title: "President Trump visits Valdosta, Georgia for first post-election rally"
-    excerpt: "His re-election campaign may be over, but President Trump still can’t resist a rally. The president and First Lady Melania Trump head to Valdosta, GA, Saturday to stump with Republican Sens."
-    publishedDateTime: 2020-12-05T18:02:00Z
-    webUrl: "https://nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/"
-    ampWebUrl: "https://nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
-    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
-    publishedDateTime: 2020-12-10T02:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-270768/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Seventeen states, Trump join Texas SCOTUS suit to toss Biden electors"
-    excerpt: "Seventeen states on Wednesday filed a brief with the Supreme Court siding with a Texas lawsuit against four battleground states Joe Biden won — charging that they acted"
-    publishedDateTime: 2020-12-09T22:21:00Z
-    webUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/"
-    ampWebUrl: "https://nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/09/17-states-trump-join-texas-scotus-suit-to-toss-biden-electors/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Ken-Paxton2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden, Trump, Fauci among Time's finalists for Person of the Year"
-    excerpt: "Time magazine unveiled its 2020 Person of the Year finalists on Thursday, with President Donald Trump, President-elect Joe Biden, the “movement for racial justice” and frontline healthcare workers including Dr."
-    publishedDateTime: 2020-12-10T20:06:00Z
-    webUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year"
-    ampWebUrl: "https://www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-fauci-among-times-finalists-for-person-of-the-year.amp"
+  - title: "LIVE UPDATES: Biden's transition team deletes old ad criticizing his transportation secretary pick Buttigieg"
+    excerpt: "Biden announced his pick Tuesday, calling the former mayor of South Bend, Ind., a \"leader, patriot, and problem-solver.\" "
+    publishedDateTime: 2020-12-17T05:27:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OkizBmiIJmk/live-updates-biden-transition-12-17-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-17-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Biden-Trump.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump critic Richard Painter calls for Hunter Biden special counsel"
-    excerpt: "One of President Trump’s harshest critics has jumped on the bandwagon that’s calling for a special counsel to investigate President-elect Joe Biden’s son."
-    publishedDateTime: 2020-12-11T18:22:00Z
-    webUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/"
-    ampWebUrl: "https://nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/11/richard-painter-calling-for-a-hunter-biden-special-counsel/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Richard-Painter-special-counsel-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won."
-    publishedDateTime: 2020-12-11T18:44:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
-        isCached: true
-  - title: "Biden, Trump to Campaign in Georgia Senate Runoffs"
-    excerpt: "President-elect Joe Biden will travel to Georgia to campaign for the two Democrats in runoff elections that will decide the control of the Senate, as he and President Trump hold competing rallies in the state."
-    publishedDateTime: 2020-12-30T16:37:00Z
-    webUrl: "https://www.wsj.com/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-trump-to-campaign-in-georgia-senate-runoffs-11609345078"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-279214/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:08:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Liberal media ‘snuffed out' Hunter Biden coverage until after election to help defeat Trump, critics say"
-    excerpt: "The liberal mainstream media largely ignored the ongoing Hunter Biden scandal until after his father won the presidential election and media watchdogs feel it was a strategic move by the liberal media to help Joe Biden defeat President Trump."
-    publishedDateTime: 2020-12-10T16:27:00Z
-    webUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump"
-    ampWebUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/tapper-cnn.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
-    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
-    publishedDateTime: 2020-12-10T16:21:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump-Era Tax Rule Benefiting Some Multinationals May Get Revised Under Biden"
-    excerpt: "A regulation that cut the tax bills of companies such as Philip Morris and Sealed Air could be poised for reversal in 2021 as the Biden administration tries to deliver on its campaign promise to raise taxes on corporations."
-    publishedDateTime: 2020-12-07T10:44:00Z
-    webUrl: "https://www.wsj.com/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 147
-    images:
-      - url: "https://images.wsj.net/im-268013/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
-    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
-    publishedDateTime: 2020-12-07T00:03:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f63ac40d-c3f5-4649-880f-d3d25c419466/5a3fc880-79f3-427b-8782-b1db7a069d53/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Iran will reportedly hike oil production if Biden eases sanctions Trump imposed"
-    excerpt: "President Hassan Rouhani was quoted in state media saying that before President Trump exited the Iranian nuclear deal in 2018 and reimposed crippling sanctions the Islamic Republic had exported"
-    publishedDateTime: 2020-12-06T14:09:00Z
-    webUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/"
-    ampWebUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 146
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/iran-oil-biden-comments.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump keeps denouncing election as Biden transition grinds on"
-    excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."
-    publishedDateTime: 2020-12-08T12:56:00Z
-    webUrl: "https://www.foxnews.com/media/trump-keeps-denouncing-election-as-biden-transition-grinds-on"
+  - title: "Biden ally Terry McAuliffe could face pushback from liberal groups in bid for VA gubernatorial reelection"
+    excerpt: "Former Virginia Gov. Terry McAuliffe announced Wednesday he will be running for a second term as governor in 2021, but he could face pushback from liberal Democrats, as the pool of candidates becomes increasingly diverse in the upcoming cycle. "
+    publishedDateTime: 2020-12-09T22:36:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6VAYjx5Ev7I/biden-ally-terry-mcauliffe-could-face-pushback-from-liberal-groups-in-bid-for-va-gubernatorial-reelection"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 145
+    quality: 153
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20344633514577.jpg"
+        width: 1024
+        height: 763
+        isCached: true
+  - title: "NY Post's Devine: Mainstream media suppressed Hunter Biden story until 'their man' won election"
+    excerpt: "New York Post columnist Miranda Devine ripped mainstream media outlets on Friday for \"actively suppressing\" the Hunter Biden story until \"their man\" Joe Biden was elected."
+    publishedDateTime: 2020-12-11T15:58:00Z
+    webUrl: "https://www.foxnews.com/media/ny-post-devine-mainstream-media-suppressed-hunter-biden-story"
+    ampWebUrl: "https://www.foxnews.com/media/ny-post-devine-mainstream-media-suppressed-hunter-biden-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-post-devine-mainstream-media-suppressed-hunter-biden-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pence returns to Georgia on Friday; Obama stars in new Ossoff TV ad"
-    excerpt: "Vice President Mike Pence will return to Georgia on Friday to hit the campaign trail in the state’s twin Jan. 5 Senate runoff elections, where the Republicans' Senate majority is at stake."
-    publishedDateTime: 2020-12-01T18:13:00Z
-    webUrl: "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
+  - title: "Biden to name Marcia Fudge as HUD secretary"
+    excerpt: "Fudge has served as representative for Ohio’s 11th congressional district since 2008. Prior to her selection as HUD Secretary, Fudge had campaigned for a Cabinet appointment and lobbied the Biden-Harris transition team to be secretary of agriculture."
+    publishedDateTime: 2020-12-08T23:47:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20325700810970.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump hints at 2024 presidential run in remarks at White House party"
-    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-12-02T16:06:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+  - title: "Biden defends nomination of retired general to lead Defense Department"
+    excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen."
+    publishedDateTime: 2020-12-09T20:40:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20344680556597.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Loeffler refuses to acknowledge Trump loss in Georgia senate debate"
-    excerpt: "During a contentious Sunday night debate ahead of next month’s pivotal Senate runoff elections in Georgia, Republican Sen. Kelly Loeffler refused to acknowledge that President"
-    publishedDateTime: 2020-12-07T02:02:00Z
-    webUrl: "https://nypost.com/2020/12/06/loeffler-refuses-to-acknowledge-trump-loss-in-debate/"
-    ampWebUrl: "https://nypost.com/2020/12/06/loeffler-refuses-to-acknowledge-trump-loss-in-debate/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/loeffler-refuses-to-acknowledge-trump-loss-in-debate/amp/"
+  - title: "Biden's Health and Human Services pick has no public health experience"
+    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
+    publishedDateTime: 2020-12-11T23:36:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Fox News
+      domain: foxnews.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/georgia-debate.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Georgia Republicans Await Trump Visit With Trepidation Ahead of Crucial Vote"
-    excerpt: "GOP officials in Georgia hope the president will rally support for their candidates in two runoff Senate races when he visits Saturday evening, but are concerned he may renew his attacks on the state’s Republican leaders."
-    publishedDateTime: 2020-12-05T22:15:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
+  - title: "Will Joe Biden fire the Hunter Biden investigators?"
+    excerpt: "President-elect Joe Biden has not said whether he’ll commit to keeping the Delaware U.S. Attorney investigating Hunter Biden in his position in the new administration."
+    publishedDateTime: 2020-12-12T11:54:00Z
+    webUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators"
+    ampWebUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5da600fb-fbc4-43de-a50c-a2190fcc4c4e/c6eb9241-3c2b-4074-b59a-25c4600012a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden tries out for new role in Georgia: Party leader"
+    excerpt: "So what does Joe Biden want out of Georgia? Two new senators and a Democratic Senate majority, duh. But what he would also like would be to steer his party in a direction that might let him govern. The results of the Jan."
+    publishedDateTime: 2020-12-15T21:14:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-out-for-new-role-in-georgia-party-leader.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3bd447-8a3b-48ca-855f-1905ec761300/f9d04390-711f-4fdc-ae12-5d8d954e431c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Electoral College voting to select Biden as next president"
+    excerpt: "Members of the Electoral College are gathering in each state Monday to cast their votes for president and vice president of the United States."
+    publishedDateTime: 2020-12-14T16:45:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-14-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "Sen. Lindsey Graham calls for special counsel to investigate Hunter Biden"
+    excerpt: "The senator called for the special counsel to probe whether “any crimes were committed” and determine any “conflicts” that exist for President-elect Joe Biden’s incoming administration."
+    publishedDateTime: 2020-12-16T23:26:00Z
+    webUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-special-counsel-investigate-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d84048f7-5ae5-4394-9d7b-cecf95ee1791/47a99c53-d927-4f9c-b2ad-38eb6d18d93f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says schools should reopen within first 100 days in call with governors"
+    excerpt: "Biden has emphasized school reopenings as a key initial step in his incoming administration’s plan to combat the coronavirus pandemic."
+    publishedDateTime: 2020-12-17T03:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schools-should-reopen-within-first-100-days-in-call-with-governors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
     quality: 132
     images:
-      - url: "https://images.wsj.net/im-268593/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
-    excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"
-    publishedDateTime: 2020-11-27T12:17:00Z
-    webUrl: "https://www.wsj.com/video/trump-says-he-will-leave-white-house-if-electoral-college-votes-biden/07F1D78F-7C94-448E-8279-19326EBE99C9.html"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f63ac40d-c3f5-4649-880f-d3d25c419466/5a3fc880-79f3-427b-8782-b1db7a069d53/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Jr. rips 'radical left' in Georgia Senate runoff TV campaign for super PAC"
-    excerpt: "Trump Jr. will appear in ads beginning Thursday on behalf of the Save the US Senate PAC, a group founded by his longtime aides Taylor Budowich and Andy Surabian."
-    publishedDateTime: 2020-12-08T22:05:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+  - title: "House Republicans demand hearing on Big Tech's censorship of Hunter Biden stories"
+    excerpt: "House Republicans have doubled down on their request for an emergency hearing on Big Tech's censorship of stories damaging to Hunter Biden, the president-elect's son, just days before the Nov. 3 election."
+    publishedDateTime: 2020-12-15T16:17:00Z
+    webUrl: "https://www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-demand-hearing-big-tech-censorship-hunter-biden-stories.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 130
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Donald Trump Jr to be featured in super PAC ads in Georgia Senate race aimed at mobilizing Trump voters"
-    excerpt: "Top aides to Donald Trump Jr. are launching a super PAC aimed at boosting GOP voter turnout in the Jan. 5 U.S. Senate runoff elections in Georgia, which will be key to which party controls the majority in the chamber in the next two years and whether Republicans have a say in President-elect Biden's agenda."
-    publishedDateTime: 2020-11-30T14:48:00Z
-    webUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Zuckerberg-Dorsey-REUTERS.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
-    excerpt: "Trump attorneys Sidney Powell and L. Lin Wood urged Georgians not to participate in a runoff vote that will determine control of the Senate in January until state officials address unsubstantiated claims that President-elect Joe Biden won the White House through voter fraud."
-    publishedDateTime: 2020-12-03T00:11:00Z
-    webUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+  - title: "Rand Paul opposes Hunter Biden special counsel but says federal probe must continue"
+    excerpt: "Ky., said Thursday that Hunter Biden \"deserves the same justice that Paul Manafort got\" but opposed appointing a special sounsel to oversee the investigation into his tax affairs."
+    publishedDateTime: 2020-12-17T17:10:00Z
+    webUrl: "https://www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-hunter-biden-special-counsel-manafort.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 118
+    quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4118860c-733d-46af-b1ba-85f6a4fdc12d/a180d325-392c-4ed8-9b5c-9ce197a500d1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Challenge on Global Warming"
-    excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. There are three camps for everyone who have any opinion on what happened with this 2020 election."
-    publishedDateTime: 2020-11-27T12:24:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/27/bidens_challenge_on_global_warming_530177.html#!"
+  - title: "Cotton calls on Joe Biden to hold press conference about family's business interests"
+    excerpt: "Sen. Tom Cotton, R-Ark., called on President-elect Joe Biden Thursday to \"come entirely clean\" and address questions about his family's overseas business dealings."
+    publishedDateTime: 2020-12-17T20:47:00Z
+    webUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-joe-biden-hold-press-conference-family-dealings.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Laura Ingraham: Chinese officials know Biden win was ‘huge victory’ for Communist Party"
+    excerpt: "The Chinese Communist Party (CCP) isn’t trying to hide their excitement at Joe Biden’s presidential election victory, Laura Ingraham said Tuesday night."
+    publishedDateTime: 2020-12-16T04:50:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-china-muscle-flexing-ccp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b02ae19e-dca7-4ce3-8d45-b0ac32921107/86b32ae9-3b4a-400e-8113-1546bc7ef335/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden inauguration planners urge supporters to skip event due to COVID-19"
+    excerpt: "Inauguration planners for President-elect Joe Biden said Tuesday the Jan. 20 festivities will be heavily pared down and urged supporters to prevent the spread of the coronavirus by not coming to the event."
+    publishedDateTime: 2020-12-16T05:27:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-16-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720c3b05-0120-4bac-9997-05b32886b143/b7f1c478-7057-4cc1-b544-e432868cb4b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
+    excerpt: "Hunter Biden disclosed earlier this week that the U.S. Attorney’s Office in Delaware had an active investigation into his tax history. The investigation began in 2018, a source"
+    publishedDateTime: 2020-12-11T22:03:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fdd4fa30-66ad-4e63-adb7-491d71f54190/dac5b2a1-6140-41e0-9388-9a2491361f93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US sanctions could further strain relations with NATO ally Turkey amid Biden transition: analysts"
+    excerpt: "The State Department announced Monday that the U.S. is imposing sanctions on Turkey over its acquisition of Russian S-400 air missile defense system, which could further strain relations with the longtime NATO ally as President-elect Joe Biden prepares to take office,"
+    publishedDateTime: 2020-12-15T01:33:00Z
+    webUrl: "https://www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts"
+    ampWebUrl: "https://www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/us-sanctions-nato-ally-turkey-biden-transition-analysts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/erdogan.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Democratic senator wants Biden to declare climate 'national emergency,' aggressively wield executive power"
+    excerpt: "Sen. Jeff Merkley is calling on President-elect Joe Biden to employ \"bold executive action\" to address climate change, urging unilateral changes to transportation and spending on alternative energy."
+    publishedDateTime: 2020-12-21T20:26:00Z
+    webUrl: "https://www.foxnews.com/politics/merkley-biden-declare-climate-emergency"
+    ampWebUrl: "https://www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merkley-biden-declare-climate-emergency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "zC492bT9gVIYzM4nGeYDgF51chAb4yAJiP44+fTIUsukdnLkOzNtoyfqB+/Jhink7tmwBZoVcxdm55ia/p3Lh45kE1WOXbYAPa9s0YH6Kj9QzXByCSpYlG/+P70s5NRHYu+bGGMIhoS8j8I6xstW2luU9IBxRgYozxxeicsZDiTVKPqDNEFMMZh/1yEjfZYP0XgcSCzOfUhTYoNF9ekFgjhIwRbXrP7ype17U4D5Hvlu0w1Wl4DnEoe86qyr3hM/yEYzl10wpQDNitpFKe+Qtt/aLGM14FkDs6ocpoky0OfC91FCj6bB4NRjIubMam/Krlhwe/89Rs8Apqn+fi47F43u7ZqhSshZSA/U3YHihw8=;wS8nNOnImeS5wvT2RLgDAQ=="
 ---

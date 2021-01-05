@@ -62,37 +62,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Nevada GOP vows appeal after judge dismisses Trump campaign’s latest suit"
-    excerpt: "The Republican Party in Nevada vowed to appeal the Friday decision by Judge James Russell, dismissing claims of widespread voter fraud in the 2020 presidential election made by Trump’s legal team."
-    publishedDateTime: 2020-12-05T02:44:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5qbf0HsMis/nevada-gop-appeal-judge-trump-campaigns-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-gop-appeal-judge-trump-campaigns-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-gop-appeal-judge-trump-campaigns-lawsuit.amp"
+  - title: "Giuliani blames GOP legislators for letting down Trump as other court cases get dismissed"
+    excerpt: "After weeks of failed lawsuits, the Trump campaign suffered another blow in a late Thursday-night Supreme Court decision rejecting the campaign's efforts to reverse Pennsylvania’s election results."
+    publishedDateTime: 2020-12-05T03:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG0A05vuu3Y/giuliani-gop-legislators-let-down-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1e9ef4-9f2c-4d69-ad79-d689751c9a41/45d541b2-f2d3-461e-bb28-2f05b3ef8537/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump Moves Forward With Changes to Federal Hiring, Firing"
-    excerpt: "The Trump administration is rapidly moving forward with a last-minute push to ease hiring and firing standards for many federal workers."
-    publishedDateTime: 2020-12-02T14:20:00Z
-    webUrl: "https://www.wsj.com/articles/trump-moves-forward-with-changes-to-federal-hiring-firing-11606918431"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-moves-forward-with-changes-to-federal-hiring-firing-11606918431"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-moves-forward-with-changes-to-federal-hiring-firing-11606918431"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-266832/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "0zTTSqWkhDeWHFoUummWQmfSqK1PUcz1Qx3lON8D1hVAvjgkkC8odiG5dl0d6IXHj7HtyNLAVt6o2An4oIZihXG/6nKI0k0P0dpb4l8ejfAeJnG3+6BKt7FeCYqvjk9gxfGKfsaKYSjZiUWZ163jjT9JBwN1fj+Vfw69EthV/p1x+HW9l6q2iBfr81s/BLC9PJcwlv9m6bJiah1qRmDvwH6HugZRdDddBm/WD1j4WiqhFQdABP0EsSGA4RJj9UQ+lMKJxHbzlp0TUOHV6HbKASAs556Lj4Eql/B4nZgyaFy+N3xZmlAYeOGBBmk624Pb4Pi5qUmReMY6lGuhXuDGpajKvpEQaKqPLiLeSvkamSwmMzkkwkusShrsJdSQ+D0oZr0MSlaMerHT9oQfxlqmqk/Zv8oUoZzJMLrv4xb6JPZG6ilBmG9dy82ySDjSvzq9Iue3/PFfyFF/mcV5983eRnhnsYY5LQESj6b9C7M80qRmuZSpKdravAHZpXCmA8+vkPrIhSvktlfURXDjzfoZOw==;6it88iYVI5fMh3B8EZhTvQ=="

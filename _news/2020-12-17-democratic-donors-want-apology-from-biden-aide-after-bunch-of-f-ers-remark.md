@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/unity-democratic-donors-apology-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unity-democratic-donors-apology-biden-aide.amp"
 type: article
 quality: 172
-heat: 212
+heat: 192
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7fa6bd-da8a-4da5-9c84-14fdaa91c6b5/066eec86-f509-42da-b359-a02d2f00a7e6/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden further slims Democratic House majority with USDA pick, despite worries from some top Democrats"
-    excerpt: "With House Democrats down to their slimmest majority in the chamber since World War II, a former chief of staff to House Speaker Nancy Pelosi is warning President-elect Joe Biden and his team to stop grabbing congressional Democrats for his incoming administration."
-    publishedDateTime: 2020-12-10T19:51:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EK1oNhXTAxs/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-further-slims-dem-house-majority-with-cabinet-nomination-worrying-some-top-democrats.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "X7fqovCj4e36/7P/EQBykxtvNQHJ99q5I3ioBYAQg75FaCVDj6+3SpGkj79iDIND8sba06ZuBgLMI4umtl1ipD9ZSVH7dGtaD2IHiJ1TXB5FTCMUhIYsX9mNpdXo0g+uy/cDYaq9MiYxQ/LT3uadSvj6mQfRUP1ozTOeswTKCweAwnBtGzd+xyW59pARGQb/hIjF7cVHDwFkeQlnUCW8ccGrp656aGYF4WEkF5r+dkM08hW5ukk/91T9dmW24e2hU3qqEHQpwpuH0DsvmnX2TD/Gk4dGOAp99d+h2VsQ7DKgq0lihcQHeSAeaAOAOYyxexkJvwfnAiyOjycF2jk36zGjhwNiZf1GkN8xIV+dCTI=;1WPLz/xm/djzcHXm+WBs9Q=="
