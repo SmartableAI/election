@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "What Pence Should Do"
+    excerpt: "A lawyer writes that the vice president has a “purely ministerial” role at the vote certification. Also: Presidential medals; Joe Biden and the Bork hearings; term limits; the gift of reading."
+    publishedDateTime: 2021-01-05T20:14:00Z
+    webUrl: "https://www.nytimes.com/2021/01/05/opinion/letters/trump-pence-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/05/opinion/letters/trump-pence-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/05/opinion/letters/trump-pence-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05transition-brief-pence-choice/05transition-brief-pence-choice-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "Zy+fwyKUr5sSqxye/GV5cYEAXfL/u23CihyzVQkawtlXvXFWNJznOVQseb4NW3jQpb3rw1ZkM0zDkdoqNlAMTwkDXMXgBsqKXL1dQVpSJ3pCOgxxaRrPApSxcE88MAb8ibvGzKqatgTzPO0ht1B5Amn84gByATCMieUP2eMNH9fEQsZB4xtuss83IOfvY1E6UMj/G4JsnwpvDYrHuGtd9r3eqdlcRVCGfC5AkyNDft6aGXEUxJ3Z92E9VQM6rHlkekOW2cv872nvDQLUKY9A4lKAiOfx7qckG0N2WzM1G1auMGktEKB2gDIfFwwlaKE18JfcRU0NyXl77win0Obu7yLbTAX987ZFXhPjYy/Q39Lqx9ENnqxYPSvmHKfTFmyVm0x98Lk4u4ZELfb2leHfBVWRx6a3z7ou7Atv2LBgRf7mqH9ngdMhvVzMIWrIodBuSR4qVAjgRnb4arsQrRxAmGL3i3kaPyX+NTJVr7ze4N6QcRiEJzlukm/isUcjobNCyLmosYXDDaZzNXhHOmjHqg==;s2XYtDwxkv/CsOiwWynZtg=="
 ---

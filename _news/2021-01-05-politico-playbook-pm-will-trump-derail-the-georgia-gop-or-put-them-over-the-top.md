@@ -382,6 +382,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Georgia's Raffensperger says Trump's defeat is the 'cold hard truth,' hints at probe"
+    excerpt: "The Republican secretary of state also said the call from Trump could warrant an investigation into possible conflicts of interest."
+    publishedDateTime: 2021-01-06T00:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/georgia-s-raffensperger-says-he-never-believed-it-appropriate-speak-n1252724"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252724"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252724"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3439355/2104-raffensperger-georgia-mc-1333_6dc343e5ae1cc75428f71b551b3578ad.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The 37 most outrageous lines from Donald Trump's call with the Georgia secretary of state"
     excerpt: "President Donald Trump spent an hour on the phone with Georgia Secretary of State Brad Raffensperger (R) in an attempt to convince the state's top election official to overturn the results of the 2020 presidential election in the state."
     publishedDateTime: 2021-01-04T15:42:00Z

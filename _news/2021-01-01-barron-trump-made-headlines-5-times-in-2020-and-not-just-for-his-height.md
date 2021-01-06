@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Washington Braces for Chaos as Trump Supporters Descend for “Final Stand”"
+    excerpt: "To Trump’s most fervent supporters, Wednesday is seen as the day to mount a “final stand\" to keep the President in power."
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://time.com/5926403/trump-supporters-final-stand/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 104
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump__Election_Rally_Washington_DC_01.jpg"
+        width: 2400
+        height: 1601
+        isCached: true
   - title: "Donald Trump Upset Dr. Fauci Is Getting Credit For COVID-19 Response"
     excerpt: "President Donald Trump on Sunday expressed his displeasure that Dr. Anthony Fauci has been praised for his response to the COVID-19 pandemic instead of his adminstration. Trump took to Twitter to slam the media for not recognizing his contributions and making Fauci’s name synonymous with any credit."
     publishedDateTime: 2021-01-03T20:27:00Z

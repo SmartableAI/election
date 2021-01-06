@@ -693,6 +693,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Congress is set to confirm Joe Biden's win over Trump despite GOP pushback. Here's what to know"
+    excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden's win over Trump."
+    publishedDateTime: 2021-01-06T00:54:00Z
+    webUrl: "https://www.cnbc.com/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 128
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106789979-16050180472020-11-10t140746z_1683144574_rc2e0k96i6do_rtrmadp_0_usa-court-obamacare.jpeg?v=1605018077"
+        width: 2908
+        height: 1743
+        isCached: true
   - title: "Biden calls Trump pandemic effort a ‘travesty’ and vows extensive federal response to coronavirus"
     excerpt: "As officials warn of a post-holiday increase in covid-19 cases, Vice President-elect Kamala Harris became the latest high-profile politician to be vaccinated."
     publishedDateTime: 2020-12-29T22:26:00Z
@@ -900,22 +916,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTVYT5SN3MI6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 950
-        isCached: true
-  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
-    excerpt: "In a farewell letter to Congress, Education Secretary Betsy DeVos urged lawmakers to reject policies supported by President-elect Joe Biden, and to protect Trump administration policies that Biden has"
-    publishedDateTime: 2021-01-04T23:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ac7c9c071d014d49aa21c6de04c480e1_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "On day of protest, Biden supporters should stay home"
     excerpt: "I hope supporters of President-elect Joe Biden stay away from any D.C. demonstrations on Wednesday. The election results are a stronger message than any chant or placard. Just let the true-believer sore losers have their moment so we can get on with the important business of 2021."
@@ -1309,6 +1309,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
+    excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
+    publishedDateTime: 2021-01-05T06:31:00Z
+    webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-return-white-hou
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-return-white-house-early-florida-vacation-74983852"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/TVprj6I_MiixMX6j-AmfkAs6eYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PAVSBWTRPDKJZNXABFXCVNHI6Q.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Washington Braces for Chaos as Trump Supporters Descend for “Final Stand”"
+    excerpt: "To Trump’s most fervent supporters, Wednesday is seen as the day to mount a “final stand\" to keep the President in power."
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://time.com/5926403/trump-supporters-final-stand/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 104
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump__Election_Rally_Washington_DC_01.jpg"
+        width: 2400
+        height: 1601
         isCached: true
   - title: "Barron Trump Made Headlines 5 Times In 2020 And Not Just For His Height"
     excerpt: "His height surprised many during recent public appearances, but he's been in the news more than you might think."

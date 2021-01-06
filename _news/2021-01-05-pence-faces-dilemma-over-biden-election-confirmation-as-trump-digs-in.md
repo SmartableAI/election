@@ -273,6 +273,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President to speak at pro-Trump rally in DC on sidelines of Electoral College certification"
+    excerpt: "President Trump confirmed he would speak at a pro-Trump rally on Wednesday, taking place on the sidelines of a joint session of Congress to certify the results of the 2020 presidential election."
+    publishedDateTime: 2021-01-06T00:08:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K0dgc_4ZVig/trump-to-speak-at-pro-trump-rally-in-dc-on-sidelines-of-electoral-college-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-speak-at-pro-trump-rally-in-dc-on-sidelines-of-electoral-college-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-speak-at-pro-trump-rally-in-dc-on-sidelines-of-electoral-college-certification.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump puts pressure on Pence ahead of election showdown in Congress"
     excerpt: "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump."
     publishedDateTime: 2021-01-05T18:54:00Z
@@ -430,6 +446,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-280120/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Adviser Cleta Mitchell Resigns From Law Firm After Georgia Call"
+    excerpt: "The lawyer faced criticism after joining the president in pressuring the state’s election officials to overturn Joe Biden’s victory."
+    publishedDateTime: 2021-01-06T00:42:00Z
+    webUrl: "https://www.wsj.com/articles/trump-adviser-cleta-mitchell-resigns-from-law-firm-after-georgia-call-11609892830"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-adviser-cleta-mitchell-resigns-from-law-firm-after-georgia-call-11609892830"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adviser-cleta-mitchell-resigns-from-law-firm-after-georgia-call-11609892830"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-280293/social"
         width: 1280
         height: 640
         isCached: true

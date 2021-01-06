@@ -109,6 +109,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden inauguration to feature virtual nationwide parade"
+    excerpt: "President-elect Joe Biden’s inauguration will include a “virtual parade across America,” consistent with crowd limits during the coronavirus era, organizers announced Sunday. Following the swearing-in ceremony on Inauguration Day,"
+    publishedDateTime: 2021-01-05T23:22:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-03/biden-inauguration-to-feature-virtual-nationwide-parade"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-03/biden-inauguration-to-feature-virtual-nationwide-parade?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-03/biden-inauguration-to-feature-virtual-nationwide-parade?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d37e9f8/2147483647/strip/true/crop/4402x2875+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F19%2F2b%2F937f1f2148c4944890912ed311ec%2Fla-photos-1staff-654636-alex-jones-rally-jja-003.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Pence seeks dismissal of suit aiming to overturn election"
     excerpt: "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presidential election won by Joe Biden when Congress formally counts the Electoral College votes next week."
     publishedDateTime: 2021-01-01T14:35:00Z
@@ -303,6 +319,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Unprecedented Drama of Joe Biden’s Election Certification"
+    excerpt: "The ceremonial aspect of congressional certification gives Trump supporters chances to voice their personal objections to the presidential election. But it can’t change the outcome."
+    publishedDateTime: 2021-01-06T00:18:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/the-unprecedented-drama-of-joe-bidens-election-certification"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/the-unprecedented-drama-of-joe-bidens-election-certification?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-05/the-unprecedented-drama-of-joe-bidens-election-certification?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
     excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
     publishedDateTime: 2021-01-04T21:24:00Z

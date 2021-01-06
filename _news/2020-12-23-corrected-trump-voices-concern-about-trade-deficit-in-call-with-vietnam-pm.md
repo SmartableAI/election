@@ -137,6 +137,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Judge nixes latest Trump bid to invalidate Georgia election"
+    excerpt: "A federal judge has rejected President Donald Trump’s latest bid to overturn his election loss in Georgia during a hearing that the president’s lawyer blocked members of the public from listening to r"
+    publishedDateTime: 2021-01-06T00:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/judge-nixes-latest-trump-bid-to-invalidate-georgia-election/2021/01/05/ce3de710-4f88-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/judge-nixes-latest-trump-bid-to-invalidate-georgia-election/2021/01/05/ce3de710-4f88-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-nixes-latest-trump-bid-to-invalidate-georgia-election/2021/01/05/ce3de710-4f88-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Georgia election guardian Raffensperger faces heat as Trump contests defeat"
     excerpt: "Georgia's Republican secretary of state, Brad Raffensperger, cemented his status as an unlikely hero for U.S. Democrats following a fresh clash in which he rejected President Donald Trump's claims that his election defeat was the result of widespread fraud."
     publishedDateTime: 2021-01-04T04:22:00Z
@@ -326,6 +342,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_50832d0b077043f5a704433fcd7fac0e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Law enforcement braces for protests as Trump supporters gather in capital"
+    excerpt: "Law enforcement was bracing for protests as Trump supporters gather in the nation's capital to demonstrate against Congress ratifying Joe Biden as president-elect."
+    publishedDateTime: 2021-01-06T00:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/law-enforcement-braces-protests-trump-supporters-gather-capital/story?id=75057898"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/law-enforcement-braces-protests-trump-supporters-gather-capital/story?id=75057898"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/law-enforcement-braces-protests-trump-supporters-gather-capital/story?id=75057898"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/US/washington-dc-election-protest-preparations-donald-trump-03-gty-llr-210105_1609879931269_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

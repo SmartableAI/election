@@ -96,22 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Rand Paul calls for Trump to pardon Edward Snowden"
-    excerpt: "Rand Paul reiterated his call for President Trump to pardon Edward Snowden, the whistleblower and former National Security Agency contractor who leaked information about classified government surveillance programs in 2013."
-    publishedDateTime: 2021-01-02T06:37:00Z
-    webUrl: "https://www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden"
-    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87d54718-d17b-43b2-81bd-0b73602d6a6d/6d74d503-da1b-4a76-8fed-2a0c4291d098/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "9h2sC2xQ/JTi9UsUAR5OgdU3VEvBxv9Xy+9JCtEDdWLDMN7pHHLSSiCDn6HRlnJJ7Y9TJ5NQtvimxZN+DpsGYfXulgg52HfSlxv4PPEBEGnrZ6hpHF/dtP7fCR3zrAyO/AYo/CysGaVj+lnNRA4srssA4zUJYljBBJNnG1ZxGGAcDTwJlTHc2ylbOrY3wO6ZBe6JI4E+xsmFiIFqd/DBGUQWLiwDkGM3RekSQBhvmSN5I69X88P0lLNP3GgL32mpRy5+AqdKt4uvHVx/tJsCjeICL4lJHRa4HSDi6KHqJJ8k/u/HWsG5pXTs6hECaI05G1y+pfA5p7/qqAp3YJ20MNxfgCbNiD1e2Ac1U1rEEWI=;EZyT0rbjT8MEknhy+pAsHg=="
 ---

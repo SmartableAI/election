@@ -111,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Georgia election official who slammed Trump's voter fraud claims says he'll vote for GOP Senate candidates"
-    excerpt: "Georgia election official Gabriel Sterling, who has pushed back against President Trump’s claims of voter fraud in public and on a recorded phone call that was later leaked, announced Tuesday that he is voting for Republicans Sen. Kelly Loeffler and former Sen. David Perdue."
-    publishedDateTime: 2021-01-05T14:44:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hUIGkVseTp8/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP-Gabriel-Sterling.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "McCarthy reacts to leaked phone call of Trump pressing Georgia's secretary of state"
     excerpt: "House Minority Leader Kevin McCarthy told “Fox & Friends” on Monday that “we have to make sure that our elections are accountable, have integrity and are safe.”"
     publishedDateTime: 2021-01-04T17:52:18Z
@@ -158,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump says voting machines down in Georgia GOP ‘strongholds,' secretary of state's office says otherwise"
+    excerpt: "President Trump tweeted about voting machine complications in Georgia's \"Republican strongholds\" Tuesday afternoon, but was rebuked by an official from the secretary of state’s office."
+    publishedDateTime: 2021-01-05T23:38:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPQCfvRNarY/trump-voting-machines-down-georgia-gop-sos"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-voting-machines-down-georgia-gop-sos.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-voting-machines-down-georgia-gop-sos.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd6d50f1-3621-492f-bc68-81e70496213d/3379f4c4-a1e1-49f1-a670-2194df04623e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump says he'll campaign against Georgia Gov. Brian Kemp, warns Dem Senate victory would lead to socialism"
     excerpt: "In final rally, Trump said Georgia's Democratic Senate runoff candidates want to \"turn America into Venezuela.\""

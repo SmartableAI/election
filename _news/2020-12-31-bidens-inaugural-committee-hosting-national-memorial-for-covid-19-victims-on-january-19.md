@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's inaugural committee hosting 'virtual parade across America' on Inauguration Day"
-    excerpt: "President-elect Joe Biden's inaugural committee on Sunday announced there would be a virtual parade after the swearing-in ceremony on Inauguration Day as part of efforts to keep crowds to a minimum amid the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-01-03T23:39:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pvc8Jb_IAEQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/biden-inauguration-virtual-parade/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/biden-inauguration-virtual-parade/index.html"
+  - title: "Biden to focus on Covid relief for small businesses in Wednesday speech"
+    excerpt: "President-elect Joe Biden will make remarks Wednesday focusing on delivering relief to small businesses amid the coronavirus pandemic with a focus on helping minority-owned businesses, a transition spokesperson tells CNN.\n    \n"
+    publishedDateTime: 2021-01-06T00:27:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0dZpg5DLygM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/biden-wednesday-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/biden-wednesday-speech/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104155740-01-joe-biden-1222-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

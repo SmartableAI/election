@@ -2,6 +2,170 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-24-trump-issues-26-new-pardons-including-ones-for-stone-manafort-and-charles-kushner.md",
+      "title": "Trump issues 26 new pardons, including ones for Stone, Manafort and Charles Kushner",
+      "excerpt": "President Donald Trump on Wednesday evening announced 26 new pardons, including ones for longtime ally Roger Stone, former campaign chairman Paul Manafort and White House senior adviser Jared Kushner's father, Charles.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oHD7oSC-poI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oHD7oSC-poI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201223174954-roger-stone-paul-manafort-charles-kushner-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html",
+      "publishedDateTime": "2020-12-23T16:25:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-congressional-gop-grapples-with-unhinged-trump.md",
+      "title": "Congressional GOP grapples with 'unhinged' Trump",
+      "excerpt": "Even in his waning days in power, President Donald Trump is still finding ways to inflict his signature loyalty tests on the Republican Party.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gQBM4HKE9Mo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gQBM4HKE9Mo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 655,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201223055901-02-donald-trump-1212-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/23/politics/congress-gop-trump-veto/index.html",
+      "publishedDateTime": "2020-12-23T12:44:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-trump-bashes-dems-extreme-left-wing-agenda-then-pushes-for-2000-cash-payments-something-opposed-by-conservatives-its-confusing.md",
+      "title": "Trump bashes Dems’ ‘extreme left-wing agenda,’ then pushes for $2,000 cash payments, something opposed by conservatives. It’s confusing.",
+      "excerpt": "President Donald Trump stood in the White House’s Diplomatic Reception Room, holiday garland and gleaming ornaments draped on the fireplace behind him, and spoke into the camera not to deliver warm Christmas wishes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/NIqwUIY1cAamOKhxJynugtGG97Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5CQXMI33ZVBUVOCTSVDKV6ZN4Y",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-23T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-egregious-and-disgusting-trumps-pardon-of-blackwater-contractors-sparks-outrage-warnings.md",
       "title": "'Egregious and disgusting': Trump's pardon of Blackwater contractors sparks outrage, warnings",
       "excerpt": "Blackwater contractors convicted of killing 14 Iraqi civilians could jeopardize the safety of American military personnel.",
@@ -1190,175 +1354,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-from-trumps-impeachment-trial-to-hunter-biden-the-biggest-political-scandals-of-2020.md",
-      "title": "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020",
-      "excerpt": "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 402,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp",
-      "publishedDateTime": "2020-12-22T11:27:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.md",
-      "title": "Trump supporters to hold virtual 'second inauguration' on Jan. 20",
-      "excerpt": "Thousands of supporters have pledged to attend a virtual \"second inauguration\" for President Trump, who lost his bid for a second term, at the same time President-elect Joe Biden is slated to be sworn in on Jan. 20. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdWWyQp7CVQ/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdWWyQp7CVQ/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d52b8d4b-34b0-4017-b5ba-4302e95b3668/04a2861e-1bee-49c5-be40-19160523eb40/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.amp",
-      "publishedDateTime": "2020-12-22T11:12:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-newsom-picks-alex-padilla-to-fill-kamala-harris-senate-seat.md",
-      "title": "Newsom picks Alex Padilla to fill Kamala Harris' Senate seat",
-      "excerpt": "Gov. Gavin Newsom appointed California Secretary of State Alex Padilla to fill Vice President-elect Kamala Harris' Senate seat on Tuesday, choosing the first Latino in state history for the role.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BvWnOu_ZcO4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BvWnOu_ZcO4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222130046-alex-padilla-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/alex-padilla-senate-gavin-newsom/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/alex-padilla-senate-gavin-newsom/index.html",
-      "publishedDateTime": "2020-12-22T10:37:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

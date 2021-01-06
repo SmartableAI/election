@@ -1,34 +1,28 @@
 ---
 category: news
 title: "In farewell, DeVos urges Congress to reject Biden's policies"
-excerpt: "In a farewell letter to Congress, Education Secretary Betsy DeVos urged lawmakers to reject policies supported by President-elect Joe Biden, and to protect Trump administration policies that Biden has"
-publishedDateTime: 2021-01-04T23:59:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-webUrl: "https://abcnews.go.com/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/farewell-devos-urges-congress-reject-bidens-policies-75039715"
+excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
+publishedDateTime: 2021-01-05T06:31:00Z
+originalUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
+webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
+ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ac7c9c071d014d49aa21c6de04c480e1_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Trump keeps pressure on Pence to reject Biden's win before Congress Wednesday"
@@ -698,6 +692,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Congress is set to confirm Joe Biden's win over Trump despite GOP pushback. Here's what to know"
+    excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden's win over Trump."
+    publishedDateTime: 2021-01-06T00:54:00Z
+    webUrl: "https://www.cnbc.com/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 128
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106789979-16050180472020-11-10t140746z_1683144574_rc2e0k96i6do_rtrmadp_0_usa-court-obamacare.jpeg?v=1605018077"
+        width: 2908
+        height: 1743
         isCached: true
   - title: "Biden calls Trump pandemic effort a ‘travesty’ and vows extensive federal response to coronavirus"
     excerpt: "As officials warn of a post-holiday increase in covid-19 cases, Vice President-elect Kamala Harris became the latest high-profile politician to be vaccinated."
@@ -1727,6 +1737,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YLtehBTGNMx/+uKdD3vvmJtIRLj4AiR8GH98RVR+vnbErxl3VD08BS+eDIEOcRRVjDP1JAMPpJnIeivcVWs1U74uojhh9vbEpXHAl6Li38p3e/1FLRyGzybluL8W9tsQ5LNzvZAng8wrhodIl9wl2FbYP6GZHs6c/lxETeRbLbxjKvmvvmgb4VWgUO4D9pEIKceY+grQc5IIT+f95mLwkO+ie6Cka0xPWj3PrFMwtuz8rm8eGt90UHuwZ6gWKN7w//vkAhN+JRunADcT0bhSFMBQrZxoKNrVDc2vu3ewQIkWrZZMKPK1qyGxWbI+MeXB7zT/hGZm3qwY/Sf0Ry0DxvmBUqhcCjgEGwpD+V8Nx8ZQ+mHJvvOJ2qxf9IRphPQgEbkjWiwelvqf9BebA449EyO+vZunaHtqF1suoiR9JTd8/4XVcYgLyPst8WqTUSKoFC9Bj26iNrCKisnAfUjh8QDJu5Lz96Kdp3zHcWuqk+8rMirFqHv1sqgI1tNCOefpBLgFsXvCkEbrv+arPZ250Q==;I8oneUWzghqRjfGcBZ6ulQ=="
+secured: "Y1Bue7w1zXxeeivzGq4UBFbolCdZ/Ytbk7u2cb8TcLUZFurjWt2pXsvvRi2DkWMdveF/RxqfhGr+fXT9CTj7Snwypff77svwzvgcXqVi61hPs8g8QEkzcITP8sXF3N6jDp7txyWOPLo02kJxECAem2imrm9f4dBriavxlBUZ0hYywc8FmxfXoTsXQnkaLH4j7xG2XcidRdOa+BblocaY2Iko/FBdvw4ZghFV7Uv+KR+l1PK+K9NK+oNgHHUE5bEqUonaNTQJ8RBBmr4hQsX4zFcA7VGNGAnwfSH6qcABZiI9rfC0nBwz/j5rHrWrnCK+thNxBYQ0M9rqLPQyhqoVIko0CXNr3ZLl6lWMFIjij4A=;5zsZmPN6/hM6OJIRqFTKBg=="
 ---
 

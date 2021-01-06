@@ -384,6 +384,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Georgia's Raffensperger says Trump's defeat is the 'cold hard truth,' hints at probe"
+    excerpt: "The Republican secretary of state also said the call from Trump could warrant an investigation into possible conflicts of interest."
+    publishedDateTime: 2021-01-06T00:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/georgia-s-raffensperger-says-he-never-believed-it-appropriate-speak-n1252724"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252724"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252724"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3439355/2104-raffensperger-georgia-mc-1333_6dc343e5ae1cc75428f71b551b3578ad.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump's call with Georgia's Raffensperger could be illegal, but it would be hard to prosecute, experts say"
     excerpt: "Proving criminal intent would make a prosecution difficult, one legal expert said. Others were more gung-ho about the prospects of a case."
     publishedDateTime: 2021-01-05T00:16:00Z

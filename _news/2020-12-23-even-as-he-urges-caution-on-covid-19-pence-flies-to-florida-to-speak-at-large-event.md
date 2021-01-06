@@ -45,22 +45,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden inaugural activities to include memorial service for covid victims"
-    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
-    publishedDateTime: 2020-12-31T12:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Biden pledges to distribute 100m vaccine shots in first 100 days of presidency – live"
     excerpt: "President-elect vowed to implement an effective vaccine distribution plan during the first 100 days of his administration"
     publishedDateTime: 2020-12-08T20:50:00Z

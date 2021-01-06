@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump signs order banning transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
+    publishedDateTime: 2021-01-06T00:44:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-china-tech-exclusive-idUKKBN29A2PG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29A2PG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29A2PG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546717743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
+        width: 815
+        height: 545
+        isCached: true
   - title: "Trump protesters warned not to carry guns as Washington DC calls up National Guard"
     excerpt: "DC police chief says ahead of inauguration protests ‘there are people intent on coming to our city armed’"
     publishedDateTime: 2021-01-05T04:20:00Z

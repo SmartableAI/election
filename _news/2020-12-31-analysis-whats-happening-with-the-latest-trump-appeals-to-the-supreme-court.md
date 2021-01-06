@@ -127,6 +127,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump's election delusions are getting grander"
+    excerpt: "As President Donald Trump's days in the White House grow increasingly numbered, his delusions about the 2020 election are growing. By a lot.\n    \n"
+    publishedDateTime: 2021-01-05T23:54:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PzwXDj1AyhU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/trump-2020-election-delusion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/trump-2020-election-delusion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105112259-01-trump-rally-ga-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump threatens Republican control of Senate in Georgia elections"
+    excerpt: "President Donald Trump has torn apart the Republican Party that ruled Georgia for nearly two decades, imperiling its candidates in two elections on Tuesday that will determine the control of the US Senate.\n    \n"
+    publishedDateTime: 2021-01-05T23:53:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hfc0VMEYIL4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/loeffler-ossoff-perdue-warnock-runoff-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/loeffler-ossoff-perdue-warnock-runoff-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228131555-02-ossoff-perdue-warnock-loeffler-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump deal with Morocco is yet another headache for Biden team"
     excerpt: "On Thursday, Morocco became the fourth Arab state this year to announce it would establish relations with Israel. It was another diplomatic win for the Trump administration, with US President Donald Trump tweeting that it was \"a massive breakthrough for peace in the Middle East!\"\n    \n"
     publishedDateTime: 2020-12-12T17:34:56Z
@@ -156,6 +188,22 @@ related:
     quality: 188
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104163050-gabriel-sterling-georgia-elections-0104---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia secretary of state on Trump's false election claims: 'He just has bad data'"
+    excerpt: "Georgia Secretary of State Brad Raffensperger said Tuesday that President Donald Trump was working with faulty information when he pushed Raffensperger in a phone conversation Saturday to \"find\" votes that would overturn the presidential election results.\n    \n"
+    publishedDateTime: 2021-01-05T23:41:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c5HZdbvm3eg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/raffensperger-georgia-bad-data-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/raffensperger-georgia-bad-data-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120084211-secretary-of-state-brad-raffensperger-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -431,6 +479,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration locks down border wall contracts, complicating Biden's pledge to stop construction"
+    excerpt: "The Trump administration is continuing to award border wall contracts in the waning days of Donald Trump's presidency, including in areas where private land hasn't yet been acquired, an unusual move that will complicate President-elect Joe Biden's pledge to halt construction.\n    \n"
+    publishedDateTime: 2021-01-05T23:55:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VkNR-bPFFH0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/border-wall-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/border-wall-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229230412-border-wall-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia's GOP secretary of state to Trump: 'What you're saying is not true' "
     excerpt: "Just days before the crucial Georgia runoffs that will determine control of the US Senate, Georgia Secretary of State Brad Raffensperger delivered a strong message to Donald Trump as the President persists in attacking the Peach State's electoral process and the Republican leaders in charge of administering"
     publishedDateTime: 2021-01-03T17:19:48Z
@@ -542,6 +606,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103150627-trump-raffensperger-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Pence Said to Have Told Trump He Lacks Power to Change Election Result"
+    excerpt: "Vice President Mike Pence has been under public and private pressure from President Trump to stop Congress from ratifying Joseph R. Biden Jr.’s Electoral College victory.Credit...Nicole Craine for The New York Times By Maggie Haberman and Annie Karni ..."
+    publishedDateTime: 2021-01-06T00:36:00Z
+    webUrl: "https://www.nytimes.com/2021/01/05/us/politics/pence-trump-election-results.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/05/us/politics/pence-trump-election-results.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/05/us/politics/pence-trump-election-results.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 165
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-trump-pence/05dc-trump-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump attacks No. 2 Senate Republican as the President turns on allies in his final days in office"
     excerpt: "President Donald Trump is spending his final days in office attacking leadership within his own party, this time the second-highest ranking Republican in the Senate, offering a possible preview of his broader post-presidential strategy to use his influence in the 2022 midterm elections and beyond.\n "
@@ -861,6 +941,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pro-Trump Protesters Gather Amid Warnings of Violence"
+    excerpt: "With a grand stage, video monitors and a planned presidential appearance, pro-Trump demonstrators will condemn Joseph R. Biden Jr.’s victory with a planned show of force."
+    publishedDateTime: 2021-01-06T00:11:00Z
+    webUrl: "https://www.nytimes.com/2021/01/05/us/politics/pro-trump-protests-washington.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/05/us/politics/pro-trump-protests-washington.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/05/us/politics/pro-trump-protests-washington.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-protests-1/05dc-protests-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
     publishedDateTime: 2020-12-30T10:07:00Z
@@ -994,6 +1090,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/f9/d5/13463f924a329ab0342b54bbce08/201231-mar-a-lago-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Donald Trump’s Most Audacious Loyalty Test Ever"
+    excerpt: "In the waning days of his administration, the president is forcing members of his party to publicly make a choice that likely will help no one but him."
+    publishedDateTime: 2021-01-06T00:02:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/05/donald-trumps-most-audacious-loyalty-test-ever-455245"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/95/51/0486340745a3a1f4cc381be29364/gettyimages-1287973462-773.jpg"
         width: 1160
         height: 773
         isCached: true

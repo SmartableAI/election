@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-biden-taps-more-obama-alums-for-key-foreign-policy-jobs.md",
+      "title": "Biden taps more Obama alums for key foreign policy jobs",
+      "excerpt": "Wendy Sherman, the chief U.S. negotiator of the Iran nuclear deal, is expected to be picked to serve as deputy secretary of state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HMOG6OSPUQI6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 956,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-05T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-arnold-schwarzenegger-calls-efforts-to-overturn-bidens-win-crazy-and-evil.md",
       "title": "Arnold Schwarzenegger Calls Efforts to Overturn Biden's Win 'Crazy and Evil'",
       "excerpt": "The former GOP California governor said lawmakers objecting to Biden's win will be remembered as \"villains\" by their grandchildren.",
@@ -487,63 +539,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
-      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
-      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-280273/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "publishedDateTime": "2021-01-04T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-05-former-president-jimmy-carter-wife-rosalynn-will-not-attend-joe-bidens-inauguration.md",
+      "title": "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration",
+      "excerpt": "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
+      "publishedDateTime": "2021-01-05T15:55:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-schwarzenegger-calls-on-gop-to-reject-stupid-crazy-and-evil-trump-election-challenge.md",
+      "title": "Schwarzenegger calls on GOP to reject 'stupid, crazy and evil' Trump election challenge",
+      "excerpt": "Former California Gov. Arnold Schwarzenegger, R, said that after growing up in a country that “gave up on democracy and faced the consequences,” he worried for his party’s and the U.S.’ future amid President Trump’s continued election challenges. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Arnold-SCHWARZENEGGER-REUTERS.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "publishedDateTime": "2021-01-05T15:25:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-iran-reportedly-asks-interpol-to-arrest-trump-over-killing-of-qassem-soleimani.md",
       "title": "Iran reportedly asks Interpol to arrest Trump over killing of Qassem Soleimani",
       "excerpt": "Iran has asked Interpol to issue a “red notice” and direct law enforcement agencies around the world to arrest President Trump and 47 American officials for the US drone strike that",
@@ -176,7 +288,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 975,
+      "heat": 1015,
       "tags": null,
       "images": [
         {
@@ -587,63 +699,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it.md",
-      "title": "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?",
-      "excerpt": "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "originalUrl": "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-280273/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919",
-      "publishedDateTime": "2021-01-04T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1498,7 +1553,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 201,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1571,62 +1626,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
       "publishedDateTime": "2020-12-29T16:56:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-nikki-haley-says-americans-should-be-worried-about-woke-left-when-biden-is-president.md",
-      "title": "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "publishedDateTime": "2020-12-29T15:28:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/biden-inauguration-virtu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/biden-inauguration-virtual-parade/index.html"
 type: article
 quality: 167
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Biden's inaugural committee hosting national memorial for Covid-19 victims on January 19"
-    excerpt: "President-elect Joe Biden's inaugural committee on Thursday announced that it is hosting a national memorial to remember and honor the lives lost to Covid-19 and is asking cities and towns around the country to participate.\n    \n"
-    publishedDateTime: 2020-12-31T14:20:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200822172519-lincoln-memorial-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "14PWI0061L4U7TJwXViTRuU4+lrv2ojTDYRLDPpvdryug54nvvJDaM0SF3lO3b/LEJvEyjbRV0+O3dsI8FTcQW1OgTzcvF3m/Zsjce1CtzjewgHf5mbb15FAcCmEV6UMS/6/hEq5pNTWqZvCVg6G19kTZ6ilCkMu912z9bImzXdk/oxss154/trWSoY7wlbTB+YNv6tgYrz01vblOkfNjqbr2hTr+7CstobsjKMOVgVpesdSZ09PAlW3OWlf4NhFHyXYGNTCY4oWqmfnJ3QYPhhsPbjXh1kkaVstGG9wxqMFSbEY4QDYibmRBixWyQtpSM81hWrleWjAaua6+gIQPutz1UrLyPdrO+dGCa1pkyw=;pyODacKrTju3eXocsUzFUg=="
 ---
