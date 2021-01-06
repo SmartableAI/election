@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
+    excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in November's presidential election."
+    publishedDateTime: 2021-01-06T05:40:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ve3gXlncsFo/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "After Biden criticism, Trump tells states to 'get moving' on COVID-19 vaccinations"
     excerpt: "President Trump is taking aim at the states for the slow rollout so far of COVID-19 vaccinations across the country."
     publishedDateTime: 2020-12-30T16:07:42Z

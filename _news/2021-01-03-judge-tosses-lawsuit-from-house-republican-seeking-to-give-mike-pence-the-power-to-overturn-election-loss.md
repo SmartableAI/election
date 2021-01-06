@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Federal judge rejects lawsuit seeking to overturn Trump loss"
+    excerpt: "A federal judge has rejected a lawsuit filed by two Republican Wisconsin lawmakers, voting rights groups and others seeking to overturn the 2020 presidential election results in Wisconsin and four oth"
+    publishedDateTime: 2021-01-05T00:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/federal-judge-rejects-lawsuit-seeking-to-overturn-trump-loss/2021/01/04/381cb176-4ec5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pence sued by Texas GOP Congressman Louie Gohmert over competing electors"
     excerpt: "A Republican congressman from Texas sued Vice President Mike Pence in the latest long-shot effort to reverse President-elect Joe Biden’s victory over Donald Trump. In the lawsuit, Representative Louie Gohmert seeks a court order forcing the vice president to acknowledge what Gohmert claims is Pence’s power to disregard states’ chosen Democratic electors and instead select competing slates of GOP electors on Jan."
     publishedDateTime: 2020-12-28T20:31:00Z
@@ -79,6 +95,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Pence seeks dismissal of suit aiming to overturn election"
+    excerpt: "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presidential election won by Joe Biden when Congress formally counts the Electoral College votes next week."
+    publishedDateTime: 2021-01-01T14:35:00Z
+    webUrl: "https://www.businessinsider.com/pence-seeks-dismissal-of-suit-aiming-to-overturn-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-seeks-dismissal-of-suit-aiming-to-overturn-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-seeks-dismissal-of-suit-aiming-to-overturn-election-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "A federal appeals court shot down a GOP lawmaker's lawsuit against Mike Pence seeking to overturn the 2020 election"
     excerpt: "Rep. Louie Gohmert's last-ditch legal effort asked the judges to empower Pence to overturn the election results and declare Trump the winner."
     publishedDateTime: 2021-01-03T03:51:00Z
@@ -94,6 +121,38 @@ related:
       - url: "https://i.insider.com/5fdc7852c910a400192e83f0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
+    excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
+    publishedDateTime: 2020-12-28T18:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Republican legislators sue Mike Pence to try to undo election results"
+    excerpt: "A group of Republican legislators led by U.S.  (R-Texas) is suing Vice President Mike Pence, hoping that it will end up allowing Pence to choose which electoral votes should count from states in which President Donald Trump lost."
+    publishedDateTime: 2020-12-29T11:41:00Z
+    webUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html"
+    ampWebUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
+        width: 3052
+        height: 2034
         isCached: true
   - title: "GOP legislators sue Mike Pence in latest effort to undo election results"
     excerpt: "The lawsuit, led by Texas Rep. Louie Gohmert, aims to have a judge allow Vice President Mike Pence to choose which electoral votes to count in key states that President Trump lost."
@@ -126,6 +185,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229686198.jpg?itok=Xe-uSQS1"
         width: 840
         height: 560
+        isCached: true
+  - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
+    excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
+    publishedDateTime: 2020-12-28T20:36:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 84
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mike Pence asks judge to toss Gohmert's lawsuit that seeks to overturn election results"
     excerpt: "Vice President Mike Pence is set to oversee Congress when it officially counts the votes cast by the Electoral College on Jan. 6."

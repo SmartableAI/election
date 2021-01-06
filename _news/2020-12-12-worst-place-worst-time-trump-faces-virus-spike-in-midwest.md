@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
 type: article
 quality: 125
-heat: 205
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump injects politics into the vaccine — again — at a most inopportune time"
-    excerpt: "In an early-morning tweetstorm, Trump suggested the FDA and its head, Stephen Hahn, weren’t moving fast enough."
-    publishedDateTime: 2020-12-11T16:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7F6WHEEEFYI6VANDS2IMTCARCE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Coronavirus vaccine, pro-Trump DC rally, Army-Navy game: 5 things to know this weekend"
     excerpt: "CDC advisors meet to review data on Pfizer and BioNTech's COVID vaccine, Trump supporters plan for DC rally and more things to start your weekend."
     publishedDateTime: 2020-12-12T10:38:00Z
@@ -62,20 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/31dda42b-429a-49d4-9149-e586d64a933f-USATSI_15294432.jpg?auto=webp&crop=3499,1969,x0,y145&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Four People Stabbed and At Least 23 Arrested at Pro-Trump Rally in D.C."
-    excerpt: "Trump demonstrators after sundown Saturday. WRC-TV reported that four people were taken to a hospital with stab wounds, and the Metropolitan Police Department told the station that 23 people were arrested."
-    publishedDateTime: 2020-12-14T02:14:00Z
-    webUrl: "https://time.com/5921156/stabbing-trump-rally-washington/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/12/D.C..jpg"
-        width: 4841
-        height: 3227
         isCached: true
   - title: "Most US voters don't want Trump to run in 2024 and 42% say he is 'one of the worst presidents' ever, Fox News poll finds"
     excerpt: "Voters disapprove of President Trump's handling of COVID-19, immigration, and healthcare. When it comes to economics, Trump is viewed more positively."

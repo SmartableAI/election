@@ -79,22 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump to meet next week with industry, government officials on COVID vaccine"
-    excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
-    publishedDateTime: 2020-12-01T21:07:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
-        width: 886
-        height: 545
-        isCached: true
   - title: "Live politics updates: Pence heads to Tennessee to talk COVID vaccine, 3 ex-presidents say they'll take it"
     excerpt: "Pence visits Memphis on Thursday to hold a roundtable discussion on distributing a COVID-19 vaccine as case numbers in the U.S. reach new highs."
     publishedDateTime: 2020-12-03T13:50:00Z

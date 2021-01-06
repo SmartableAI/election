@@ -63,33 +63,6 @@ related:
         width: 1200
         height: 861
         isCached: true
-  - title: "Trump suggests White House staff will wait longer for COVID-19 vaccines"
-    excerpt: "U.S. President Donald Trump suggested late Sunday that senior White House officials would wait longer for COVID-19 vaccines hours after media outlets reported senior officials were to receive doses within 10 days."
-    publishedDateTime: 2020-12-14T09:03:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-white-house-idUSKBN28N0UP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0UP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0UP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544430348&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0I6"
-        width: 801
-        height: 545
-        isCached: true
-  - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine - source"
-    excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
-    publishedDateTime: 2020-12-14T03:04:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house/trump-pence-other-top-officials-to-be-offered-covid-19-vaccine-source-idUSL1N2IT0NP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IT0NP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IT0NP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
   - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
     excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
     publishedDateTime: 2020-12-14T12:29:00Z
@@ -105,22 +78,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/08/401aaaf8-9c1b-42f2-8222-dce3dee41a73/thumbnail/1200x630/f05ea69c149e05afcaf546d5740f12ca/cbsn-fusion-eye-opener-white-house-denies-rejecting-pfizer-offer-for-more-vaccines-thumbnail-603672-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump touts COVID-19 vaccines at 'summit' amid growing questions over timeline, number of doses"
-    excerpt: "Trump signed an executive order at the COVID-19 vaccine event asserting the government must ensure Americans have access to the vaccine first."
-    publishedDateTime: 2020-12-08T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/trump-touts-covid-19-vaccine-despite-questions-timeline-doses/6488136002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6488136002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6488136002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/4be9a102-6ccc-439e-a0f5-84a67dc2fbaf-AFP_AFP_8WQ49E.jpg?auto=webp&crop=4497,2530,x0,y132&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Attorney General William Barr resigns after recent clashes with Trump, still defends president"
     excerpt: "William Barr, who has served as President Donald Trump's most effective shield and advocate for broad presidential authority, is leaving before Christmas."
@@ -170,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump suggests Rudy Giuliani's crusade to overturn the election results is 'more important' than when he led New York's 9/11 response"
+    excerpt: "Giuliani was lauded for his 9/11 response, but his public image has cratered in recent years as he spins a web of increasingly incoherent conspiracies."
+    publishedDateTime: 2020-12-07T19:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fce7fa0eadd8400183df929?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump is holding out on supporting the $908 billion COVID-19 stimulus bill despite more lawmakers rallying round it"
     excerpt: "After a press conference, the White House clarified that Trump does not support the $908 billion compromise bill, and instead wants a smaller one."
     publishedDateTime: 2020-12-04T12:17:00Z
@@ -185,20 +158,6 @@ related:
       - url: "https://i.insider.com/5fca1f38b6a3a800199b688e?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump Says White House Officials Won't Be First To Receive COVID-19 Vaccine"
-    excerpt: "An administration spokesman said senior government officials would be among the first to get the vaccine, but the president himself later said that White House staff would get it later."
-    publishedDateTime: 2020-12-14T06:03:00Z
-    webUrl: "https://www.npr.org/sections/coronavirus-live-updates/2020/12/14/946142015/trump-says-white-house-officials-wont-be-first-to-receive-covid-19-vaccine"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 103
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/13/gettyimages-1230067031_wide-ce0413b079c5a9d14d96e3fb5b48ee1bfa0f4135.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
 
 secured: "YYqvawgiWShEqV3WkXX6Z9eSi9Zq9zaWvrHiqSwCxjd8sEzd4mnvAGPh6BQVe/tSWI6l4wjjhl/ZvbqEsu5JXXpNKZXIitphVlj0JKajYe0uYvNP1+Sl1piJG+oGZ+ws3akHv5vGQFjDUlW58BBux1EpSaaFc+cG3DLqjJrY+SFABresAO42keXVZFGuUs5ZJpobv53lWXhHtDglZLQ2xP91MYAMhUgVVld3iVhu01r3umu/oXjvoMFTPL/mY0Xpt0QtBD2Mw+LH66xDxoq0VopCYEwHP8moPVuvb58bahiwynytGRrDyP19iQBZlIm2JqKzjZkZKWr6fabTGdnoIKen535nCEZC633P3swKRs7pdgR8Bk6ilm9gduZMQXFjG9e+BJztEv8Dtii+eCE4ZqsHSuBWv0ww0YyLtLPmvRrwAhquix8XtHHcELClSMJF06QllXhicjkFIZGlVk0G4hw7unaDEFqoHd6aFttavX2RC8E4gWUK55Q3w2fHr6gx7hUat5tldioxJvRZBVQhgQ==;lyGhVV78n2/0P/SoxNQD3g=="

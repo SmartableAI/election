@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Banished from the Trump legal team, attorney Sidney Powell still finds a guest chair on Fox"
+    excerpt: "What Dobbs didn’t mention is that eight days earlier, Donald Trump’s re-election campaign had put out a statement dropping Powell from their legal effort to overturn the resul"
+    publishedDateTime: 2020-12-01T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "zv2m4L0BXi/8Ltpkpcl9LlS2pE/Z64R8Kh1waYmpaw9oKCtbqeT8EO1xwZVNNlciCdhCdRaXjhyYIQ1D+Zjxrn64/KVUeLyTtb1Ia5MOv0GfiSjpf+TTPHeBYhFeDTfym/+1RWcLkKXGH2tCzlGHFTAnZc0VOEgGeMsXgTaIcKfbnSvt38yIqQ6k93oKJZr2vT/BBxYgN4xNbRzJaz2wwdts700BwsSaRFZHr0n07YtQW/JM2bMZ+dyIQiSoDr3A7HlPYPf9z+civqIOppHFi0r2dXZ+LjSVtLR3xK/h3BqJaa/aPx6rFep7NpRho2OuAcgbieuvfFAGC5Ue+XW+RpTl+QnySO79U+SX/qanlDxdfoVKeIyBREkZb4eQV3gJhOmJ5KOsZLXBVH+IruIweDUHCqpk5+N2tZ24RVPuenp7HMM48sAARceYjk0k+EXKhmOP0of2nMs9yO0HFZPGVO71lviqUF6nX+DP025HlonubTCUXGsB5WlFa1tMbhgfjLdf8OEncEgudfuSTQ86aw==;BBXPJfS8fTj+PTy/jFZwHQ=="
 ---

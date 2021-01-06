@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-overrid
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -29,6 +29,115 @@ images:
     width: 1200
     height: 689
     isCached: true
+
+related:
+  - title: "'Trump is my president': Protesters gather in DC a day before Congress certifies election"
+    excerpt: "Crowds gathered in Washington on Tuesday, a day before larger rallies and a congressional vote to certify the election are planned."
+    publishedDateTime: 2021-01-06T04:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4141044001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/fb64f38a-fa86-4187-9fcc-00a05d2b22c4-MicrosoftTeams-image_3.png?auto=webp&crop=2775,1561,x1,y439&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
+    excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
+    publishedDateTime: 2021-01-03T14:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/03/congress-house-senate-members-sworn-covid-19-rages/6410063002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6410063002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6410063002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/97ca686a-8201-445e-96a5-bdb07c28b1a2-sinful-cities-09-dc.jpg?auto=webp&crop=1962,1104,x369,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Only woman on federal death row asks President Trump to be a 'hero,' commute her sentence"
+    excerpt: "Lisa Montgomery, the only woman on federal death row, is asking President Donald Trump to commute her sentence to life without parole."
+    publishedDateTime: 2021-01-05T20:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/05/lisa-montgomery-execution-president-trump-asked-commute-sentence/6552869002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6552869002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6552869002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/PNAS/989839bb-17d1-4cf0-a2bf-79501cdbb429-Lisa_-_prison.jpg?auto=webp&crop=1175,661,x0,y600&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "U.S. hits Iran with fresh sanctions in final weeks of Trump presidency -Treasury website"
+    excerpt: "The United States imposed fresh Iran-related sanctions targeting the steel sector on Tuesday, according to the Treasury Department's website, continuing to increase pressure on Tehran in the final weeks of Donald Trump's presidency."
+    publishedDateTime: 2021-01-05T20:24:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN29A1R5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A1R5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A1R5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546682328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH040XM"
+        width: 810
+        height: 545
+        isCached: true
+  - title: "'Are you trying to say' that 'Trump will be president?': Fox News host Bret Baier grills Sen. Josh Hawley over his election challenge"
+    excerpt: "\"That depends on what happens on Wednesday,\" Hawley said. \"No, it doesn't,\" Baier interrupted, followed by an explanation of the electoral process."
+    publishedDateTime: 2021-01-05T18:25:00Z
+    webUrl: "https://www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-fox-news-bret-baier-grills-josh-hawley-election-challenge-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5ff4902c6056b60018721f80?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
+    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
+    publishedDateTime: 2021-01-05T04:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Alert: Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
+    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
+    publishedDateTime: 2021-01-01T13:36:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "goP0JrxsyLeDynYodtZA1VDQUyVyFN2B+SBXk5jCx154P86BtBrvjoMwy/M3k+vXG2epVMqImVqjFPeMr4UhbWXOH9EJPe0ZFz8bedlw7qYiuHeLCdnWbsFTd45/gkgiLEdCYlz8X8bc0HCQC2VNXILYbDIKjUC+B6DWu1w4Y+ywDZxE70qxdw0Ct3FLeyxnTQ6uD4bxiziCytNZsDpEv5WH5BFqUofTgwqCHa4vG/D/dpXyZV1bp8Cf0pfRfzjxKb5KCswoz5YIYbRU5nws+PMROWzJPEkRcY8OvbmzcBGGuSAJxjLKuaDYhZH+RoEcx1CH9i/YuKLipzH+kAWSFB8X4JwLzM0Mv93mb8W/yQeCvr179EgjI6yQQ7ditXI8gwKsVZe1VGZU474hWYK3RQKw0SH0fRZ0xOfdU6at0dA2vC/VkPPrGABxVCR7QKCWNbXjxg288jntonb8dFMwx5K6dyzwhsNxtv2IUQt1aXHOOCq2/fQNDEwH9Axp8GsZ5DugqmCDVE+u1TXXzGzmSw==;BBgDYI/xzJn8y7qUy/JFfQ=="
 ---

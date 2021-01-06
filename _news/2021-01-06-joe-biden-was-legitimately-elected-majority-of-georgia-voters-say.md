@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Joe Biden was ‘legitimately’ elected, majority of Georgia voters say"
-excerpt: "Sixty one percent of Georgians say that Biden was \"legitimately\" elected president, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 Georgia voters."
+excerpt: "Sixty-one percent of Georgians say that Biden was \"legitimately\" elected president, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 Georgia voters."
 publishedDateTime: 2021-01-06T04:12:37Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say"
@@ -46,6 +46,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ARAkUMgdNlfj18l5n8etU+rqJotWRKsewy93rSu9M70cVNRafGOAM71LYOFiVz00p/l+aeDrXEq5l2bqsuMYG9egPabO5POpuYsBMI2dU8hI6/VqxjVtKn6ayJSSbSi2ZFz5YqvWYOrgDAY1W9q5vu7IGLnPnko5elaytixvFR6WhT+74fknbwyh/PxDRgc8dHfEe90bQjDtR7SlO7x7Rd0Hj2Ixm2aXVjGF/ORfI7TT0rWmK1nHeoLZIpQhWL6rxs2/hUuzkJyJEAwxQZAmQBWRF/W5OOLMPyBUYMXOe6aEplKvsQANOEqyMga8XurQC+kWnAyHuTiVR4VABU/VyaFs8buEuUTtBQcFbGSPwo0=;nwV4hKwhsIMCfahse8aDyw=="
+secured: "cinNYTPWBvd4EE+hSoNXNKv109TW8tVCn6jn6GuFSAnxqhQRaWqMbm6wftyKikj5FOyxfJuTgui5VFTkn2U+9qYq1NPHwizXT4KktCBZHD4rsJW3nGmJBvqkuxbXw2uCS0kz9fHHc9DtmLK0GjjZoL1spMDvqUNQ6gOyhI5NvmP4Mn8z2dC0qFTOavZQa8oLAzCjvjPAkQdIBdpFKKnG4FU2FGGPd1Src25DdFj/TiEyQvvXyCetYXZLqEU6a8BLAKeFSyIhduFWUz84EAwIBsuK9vRy2fVU6hymuHfOOYSl7fgu91JnN8ENLvs6y8QVfZtDsMZGu5gGvFHkGgIxIRONGajI5kvy/3trjCuEKcg=;Bg1h4n64dTlo0jq/pYKr3g=="
 ---
 

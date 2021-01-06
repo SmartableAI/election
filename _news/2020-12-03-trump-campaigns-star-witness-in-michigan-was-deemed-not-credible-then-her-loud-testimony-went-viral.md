@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/03/melissa-carone-mich
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/03/melissa-carone-michigan-trump-giuliani-election/?outputType=amp"
 type: article
 quality: 108
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/10/03/PDTF/4d1cb9cc-996c-41ed-827d-f28cb68e9c8b-Jocelyn_Benson2.jpg?auto=webp&crop=3959,2227,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Explosive thrown through Michigan man’s window, victim thinks he was targeted over Trump support"
+    excerpt: "A homeowner believes his personal politics led someone to throw an explosive through his window Saturday morning, causing extensive damage to his house. According to WDIV Detroit, the homeowner -- who has not been identified for safety reasons -- was upstairs in his home shortly after midnight when he and his girlfriend heard a pair of explosions."
+    publishedDateTime: 2020-12-08T04:59:00Z
+    webUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DEQV7NJM5CEVE6NFWCPVNPERI.jpg"
+        width: 665
+        height: 334
         isCached: true
 
 secured: "fDmKAPPRqWyY4Udm5JAI91ulymCm7IPJaefKfUi0aIMjidKBh/hF8y27wAz/5VpVaPsVkzQ0DoRsASfJGW05CInQP7zJtcyMn5UDxOlFEdJktEUpngM0WHyVOsISOVeUKWi1Y8RrdFWJjbY93Z24I+j3RO/SlodsmQ8rlLr4Bu5xJqE096dIt6hWIERwHlR6P4K2Zd0fBRbNqGOR5Yp8lsKVeC38BDAxFT8fKNlgAjpNZVOPSXuELkL99nBOqWxDg0Is6A7xIxvRAx6RlT+36oa8ITCm+fI9+BN6XnXNUqraoeZpOg3xHbt2JMa2xyqlE4DAjg6dRJqXVJDQBfj4EvHiVh0new7gK2oQqC2HoeE=;mdAoJmEQVAkVcSfyYW0ZqQ=="

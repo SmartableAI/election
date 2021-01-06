@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ted Cruz, 10 others to object to certifying Joe Biden's presidential victory"
+    excerpt: "U.S. Sen. Ted Cruz and other Republicans are seeking to block President-elect Joe Biden from being confirmed as the winner of November's election."
+    publishedDateTime: 2021-01-02T19:42:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/01/02/ted-cruz-oppose-certification-joe-biden-president-elect/4113134001/"
+    ampWebUrl: "https://amp.statesman.com/amp/4113134001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4113134001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/6756f0576e26b57a13add179d066d19941b8e701/c=0-84-1600-984/local/-/media/2020/11/10/Austin/ghows-TX-201109504-78281058.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NWIrfc0hkWswA2bhfMrB8JsTfWFdcmm5AbPUCySkWML6d3vVpjigIwTe5SEG6oRPgxCB72MZFpPofWoQAU9ugIE8zXboF4LzX6eUyroihq9+hHA2z5WrYiycZmKKPfxAqf5cHMgZRsEWYR8i5cas6aSLbDR4IOba0nrvKV0Qe7HLKIW27d5s71p+lklHgIMdFwYufezP9527RhMEM3QQN/9GmCxYHiepHJko8iSrDhqBnBqf8wc9Z0bZ7t4ohl9vtHNZZYQRax8qI1qsauSz6v/lZpisnA3HCy8CKg2hIs8bpeEQTvo2l63zHqiVJpQvRpBGq22drGslTeMHNYQ7Zu4K6W56iRlTK2vwy4gv7k2fJxJUdjN84PXeqaxhwGMl+C0t5WiEswsf2BrQFYdq8gFP9n+XysX9cY5Jxpjnv9B0QEx994kLawAdTAYu6nfuBcpUtBvTYlPv6YMrUEpxgl0masWcyiHTLetOvbgbSc0ad4KyuqQFGAPm0TB7pS9Rbe8n5NR69iGAe9F86X3XnQ==;c5IIpmPj00MVttJam/FIYw=="
 ---

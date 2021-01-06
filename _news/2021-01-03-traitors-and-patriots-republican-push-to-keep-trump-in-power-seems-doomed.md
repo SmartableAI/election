@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/trump-republicans-el
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-republicans-electoral-college-results-senators-cruz-hawley-romney"
 type: article
 quality: 122
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Video shows Romney being called \"traitor\" by Trump fans while on flight"
+    excerpt: "Senator Mitt Romney of Utah faced chants of \"traitor\" while on a flight from Salt Lake City to Washington, D.C. A video posted to Twitter appears to show a small group of passengers chanting, at least one of whom appears to not be properly wearing a mask."
+    publishedDateTime: 2021-01-06T06:12:00Z
+    webUrl: "https://www.cbsnews.com/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/15/d59f3cf4-2765-4eef-8ba6-0ac0c2a1fa64/thumbnail/1200x630/5adc68b1321cf2039392175302a1cce4/cbsn-fusion-senator-mitt-romney-on-electoral-college-vote-covid-19-relief-bill-negotiations-thumbnail-609751-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "H9VOevELaasgQTziZLiOmFhPwehiCAqz2oLg3jGgIoV4UIZD7kztf5qAR46zjFweWsj/xY8Bfa0P9MVpDxOUPiHGjh4Sleosuwl9PTdCXrMuwXOTcXt+Q7HeP/dNNL6enKRMP3tWZR/VtNUBDSnnyEDs+k/gDIv7aBq3G1luAj5RLtpzmsiYuSJY3bda34S91vLDIfhU2ylbbKCGw9y4jglzkFCUiY+jZJHnAszXOlwx5OMyB6dOjdWu9u3e1aAPFIXwdH/S0sunL3j+kXSuWAyN5k5FCdQUhY7lYnyNXiJISQptvxJeFqMoDjeDVKdKy45ZA1TpToU8CT0sAmvF/DTCjXV10+1gRLNeqnb0B4z+3Mw/1N3/AvSXXF7ioTf+05fO0j+F5hIwa7U13fB7zTeBE6FBq7K204BI0dusrve8JdTqEBzEMz9FC40dn8BDExfmnWC1roKy/3W83ZsxylvbKiG8fzdF1cGub/hfaTBkI+PlGxByLp2rYL4QBbO9swLugt8i9xbbk5wMP15bYA==;pTYMsUdsJpm75sKhdFfDDg=="
 ---

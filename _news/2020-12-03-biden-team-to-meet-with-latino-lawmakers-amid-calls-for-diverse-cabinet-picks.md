@@ -79,38 +79,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Hunter Biden says federal prosecutors are investigating his taxes"
-    excerpt: "CNN reported that the investigation dates as far back as 2018 and was put on pause during the election because of its politically sensitive nature."
-    publishedDateTime: 2020-12-09T21:55:00Z
-    webUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fd140d1240ebd00126be0fc?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Hunter Biden says U.S. prosecutor investigating his taxes"
-    excerpt: "President-elect Joe Biden's son Hunter Biden said on Wednesday the U.S. Attorney's Office in Delaware is investigating his tax affairs."
-    publishedDateTime: 2020-12-10T00:10:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J2Z8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2Z8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2Z8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1544021936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81SU"
-        width: 968
-        height: 545
-        isCached: true
   - title: "Hunter Biden tax inquiry examining Chinese business dealings"
     excerpt: "The investigation began in 2018 but it is unclear which entities might be tied up in the inquiry, which was only disclosed to Hunter Biden on Tuesday."
     publishedDateTime: 2020-12-10T05:45:00Z
@@ -127,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "The Latest: Group of senators urges Biden's win be certified"
+    excerpt: "A bipartisan group of 10 senators has issued a statement calling for Congress to certify President-elect Joe Biden’s win"
+    publishedDateTime: 2021-01-03T19:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-johnson-insists-vote-challenge-helps-democracy-75023649"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-johnson-insists-vote-challenge-helps-democracy-75023649"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-johnson-insists-vote-challenge-helps-democracy-75023649"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Latest: Biden urges voters to support Ossoff, Warnock"
     excerpt: "President-elect Joe Biden is addressing a drive-in rally in a parking lot in Atlanta ahead of Georgia’s two pivotal Senate special elections"
     publishedDateTime: 2021-01-04T22:00:00Z
@@ -142,38 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Black Lives Matter movement at a crossroads as Biden prepares to take office"
-    excerpt: "Sloan’s hesitant support for Biden reflects a divide among racial justice activists about the movement’s strategy under the soon-to-be presidency. Some factions of the Black L"
-    publishedDateTime: 2020-12-02T05:54:00Z
-    webUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TDVL6BUGQI6XIRJ2FTO3EHWCY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Texas attorney general asks Supreme Court to block Biden victory in 4 states"
-    excerpt: "President Trump, his campaign and his allies have engaged in aggressive but fruitless legal challenges designed to overturn Joe Biden's victory."
-    publishedDateTime: 2020-12-08T17:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/08/texas-ag-ken-paxton-asks-supreme-court-block-biden-wins-4-states/6491137002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6491137002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6491137002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Hunter Biden's taxes under investigation by U.S. attorney's office in Delaware"
     excerpt: "I am confident that a professional and objective review of these matters will demonstrate that I handled my affairs legally and appropriately, Hunter Biden said in a statement."
@@ -207,37 +159,21 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Biden is now seriously considering a Black US Army general to lead the US military"
-    excerpt: "If nominated by Biden and confirmed by the Senate, the retired US Army general would be America's first Black defense secretary."
-    publishedDateTime: 2020-12-07T22:51:00Z
-    webUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+  - title: "Biden defense nominee’s need for a congressional waiver sows discomfort among Democrats"
+    excerpt: "Democrats who voted never to bend the rules governing civilian leadership at the Pentagon were left looking for loopholes to justify their support for retired Gen. Lloyd J. Austin III."
+    publishedDateTime: 2020-12-09T01:01:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/5fcea2d6037cbd001861460f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
-    excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
-    publishedDateTime: 2020-12-04T11:07:00Z
-    webUrl: "https://www.usatoday.com/story/money/economy/2020/12/04/biden-democrats-back-908-billion-stimulus-bill-with-no-second-check/115094770/"
-    ampWebUrl: "https://amp.usatoday.com/amp/115094770"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115094770"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/fba88f6b-d2ac-4acf-8bcc-232bf11bcdc2-biden_pelosi.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SI6QUTBZWMI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Biden: Latest jobs report 'dire'"
     excerpt: "President-elect Joe Biden says that the most recent jobs report is \"dire\" and that there is no time to lose in crafting a rescue package as millions of people have lost their jobs or have seen their incomes slashed during the pandemic."
@@ -279,36 +215,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Texas attorney general sues to block Biden's victory in four other states"
-    excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
-    publishedDateTime: 2020-12-08T23:40:00Z
-    webUrl: "https://www.cbsnews.com/video/texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/85fff2ad-4248-40d9-83cb-b4456bb8a942/thumbnail/1200x630/6f43ea027be4327c917d24dba92e60f2/cbsn-fusion-texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan-thumbnail-604234-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
-    excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
-    publishedDateTime: 2020-12-05T05:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 101
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."

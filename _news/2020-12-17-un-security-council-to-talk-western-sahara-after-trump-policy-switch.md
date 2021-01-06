@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0D1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0D1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/23/2e4aef4a-6cb1-41a9-a420-0a143c395282/thumbnail/1200x630/444950440a8ce0cf449a1e3dbf449ae8/gettyimages-83951527.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "With threat, Trump plunges COVID talks, GOP into tumult"
+    excerpt: "Facing his final four weeks in office, President Donald Trump has plunged Washington into chaos once more, mounting another desperate attempt to cling to power while leaving lawmakers scrambling to re"
+    publishedDateTime: 2020-12-24T00:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump spoke with Saudi Arabia's King Salman about regional security -White House statement"
     excerpt: "President Donald Trump spoke with King Salman bin Abdulaziz Al Saud of Saudi Arabia on Thursday, discussing regional security issues, according to a statement from the White House."

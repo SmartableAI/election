@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4101264001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001"
 type: article
 quality: 126
-heat: 226
+heat: 186
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump presidential museum will have 'unconventional' story to tell"
-    excerpt: "An impeachment. A once-in-a-century pandemic and unprecedented post-election challenge. And that's just one year of the Trump presidency."
-    publishedDateTime: 2020-12-30T12:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/trump-presidential-museum-have-unconventional-story-tell/4084730001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4084730001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4084730001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/dd2d1f29-0dd9-4988-9dcd-de1126fa28d9-2019123_Trump_Tuesday_13.JPG?auto=webp&crop=4295,2416,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump's Blackwater pardons an affront to justice, say UN experts"
     excerpt: "Rights experts say pardon of four contractors over Iraq killings undermine humanitarian law"
     publishedDateTime: 2020-12-30T10:17:00Z
@@ -79,36 +63,20 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
-    excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
-    publishedDateTime: 2020-12-28T13:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2920I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920I0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920I0"
+  - title: "U.S. judge blocks Trump sanctions targeting human rights lawyers, war crimes tribunal"
+    excerpt: "A U.S. judge on Monday blocked the Trump administration from sanctioning human rights lawyers for supporting the work of the world's war crimes tribunal, the International Criminal Court."
+    publishedDateTime: 2021-01-05T04:44:00Z
+    webUrl: "https://www.reuters.com/article/us-warcrimes-afghanistan-trump/u-s-judge-blocks-trump-sanctions-targeting-human-rights-lawyers-war-crimes-tribunal-idUSKBN2992MD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2992MD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992MD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 121
+    quality: 118
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545962041&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0I6"
-        width: 757
-        height: 545
-        isCached: true
-  - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
-    excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
-    publishedDateTime: 2020-12-28T19:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2920I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2920I0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2920I0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546601042&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0319Y"
+        width: 806
         height: 545
         isCached: true
 

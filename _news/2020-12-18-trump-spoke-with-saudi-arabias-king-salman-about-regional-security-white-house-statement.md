@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "With threat, Trump plunges COVID talks, GOP into tumult"
+    excerpt: "Facing his final four weeks in office, President Donald Trump has plunged Washington into chaos once more, mounting another desperate attempt to cling to power while leaving lawmakers scrambling to re"
+    publishedDateTime: 2020-12-24T00:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "bxwdOICJpYYtGcSatMvnKgrtja3g6OoBwPMCl6082TjCpfyUc8SONcN0eI53EUo5UJsl23fWPEYbe6hdDpMkI+k5KMwblCdTD5Ttu96Fk/s3EZGnvqhdPHAluk5NH+AQcYE427IQVdFCH+HE859iZo2+rilMBeCGajK36gRjuqGKk3A6Ropjt9mZrgaDvDrc2suEBgGdBO0UWBRnK7yxDcTQdBjiNxJZNZIoe9sw5W8JObG2LgX2Ciocmxhe8tBYGGT9/Eprdj+z36SVfmmYnb50b5hYHKnxhG/iSITHW3OqO2gjGEq0IpCK8nTzxeAiWsOya0SKHs1zm4Pxk+Ief/W9E/Ai8l2o8+rUX7bs/LU=;yJxOarud+RjXopT13No6XQ=="
 ---

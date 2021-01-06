@@ -31,64 +31,112 @@ images:
     isCached: true
 
 related:
-  - title: "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election"
-    excerpt: "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\""
-    publishedDateTime: 2021-01-01T13:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
+  - title: "'Trump is my president': Protesters gather in DC a day before Congress certifies election"
+    excerpt: "Crowds gathered in Washington on Tuesday, a day before larger rallies and a congressional vote to certify the election are planned."
+    publishedDateTime: 2021-01-06T04:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4141044001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 131
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/fb64f38a-fa86-4187-9fcc-00a05d2b22c4-MicrosoftTeams-image_3.png?auto=webp&crop=2775,1561,x1,y439&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "House approves Trump's $2K checks, sending to GOP-led Senate"
-    excerpt: "The House has voted overwhelmingly to increase COVID-19 relief checks to $2,000, meeting President Donald Trump’s demand for bigger payments"
-    publishedDateTime: 2020-12-29T02:30:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+  - title: "Congress overrode Trump’s veto. The president’s response? ‘Pathetic!!!’"
+    excerpt: "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office."
+    publishedDateTime: 2021-01-02T01:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-veto-override-20210101-h2ajstl26ffk7djxcxoewqgdk4-story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.chicagotribune.com/resizer/lQDdyaU0W5nDFfAqhNYmilsO5gA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXUYFAUSS3L7H674HBQSWUFGNA.aspx"
+        width: 1200
+        height: 689
         isCached: true
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
-    publishedDateTime: 2020-12-30T19:17:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+  - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
+    excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
+    publishedDateTime: 2021-01-03T14:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/03/congress-house-senate-members-sworn-covid-19-rages/6410063002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6410063002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6410063002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
-    excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
-    publishedDateTime: 2021-01-04T05:27:00Z
-    webUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 71
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H6JQPAWYSFBNZJ7PDA5OYAMLZU.jpg"
-        width: 5653
-        height: 3769
+      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/97ca686a-8201-445e-96a5-bdb07c28b1a2-sinful-cities-09-dc.jpg?auto=webp&crop=1962,1104,x369,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Only woman on federal death row asks President Trump to be a 'hero,' commute her sentence"
+    excerpt: "Lisa Montgomery, the only woman on federal death row, is asking President Donald Trump to commute her sentence to life without parole."
+    publishedDateTime: 2021-01-05T20:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/05/lisa-montgomery-execution-president-trump-asked-commute-sentence/6552869002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6552869002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6552869002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/PNAS/989839bb-17d1-4cf0-a2bf-79501cdbb429-Lisa_-_prison.jpg?auto=webp&crop=1175,661,x0,y600&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "U.S. hits Iran with fresh sanctions in final weeks of Trump presidency -Treasury website"
+    excerpt: "The United States imposed fresh Iran-related sanctions targeting the steel sector on Tuesday, according to the Treasury Department's website, continuing to increase pressure on Tehran in the final weeks of Donald Trump's presidency."
+    publishedDateTime: 2021-01-05T20:24:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN29A1R5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A1R5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A1R5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546682328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH040XM"
+        width: 810
+        height: 545
+        isCached: true
+  - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
+    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
+    publishedDateTime: 2021-01-05T04:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Alert: Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
+    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
+    publishedDateTime: 2021-01-01T13:36:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "4+bW2auLj5GZPI/iYOIURnZ0yvutPBfUAoesqlUhNYYhrz5r2EloZ4/P5QfWHXNMTJu+9H2SfwXjkSm/CyMW2sT4I6I9hEFjrPaWdS0XRRiGxptHQUssCJwT1DOR13ShEd4Wngh7o/MbBQjuBhYPOUkLmWsbBSIRBKN0YcujOiLXVIGlaWNZJRYZ2fftyqmH/JMWEDIi041ra4dvA12VPpGl8RRA0SKKvIWxcRM4AaAy5ilR8wmEw9QHQvqnmNBIpx5SJX0P8qpBTu0IwvjT2u5/fyjKZYlMsnLt2/a2mPtwbxDHxAkpElGql1pPdUKgeMyN9XuqrW7FTJli7i4sj9YCrbCHt4UHbJZyucS/d3w=;nDop4VHaa8RPBVWM82JOBA=="

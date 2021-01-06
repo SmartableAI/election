@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lawyer Rudy Giuliani receiving same Covid drugs as president"
-    excerpt: "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ..."
-    publishedDateTime: 2020-12-09T12:07:00Z
-    webUrl: "https://www.bbc.com/news/world-55243581"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-55243581"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581"
+  - title: "Trump boasts of vaccines, but will he coax people to get shots?"
+    excerpt: "President Trump takes credit for new coronavirus vaccines, yet they'll do little good if many people remain opposed to vaccinations."
+    publishedDateTime: 2020-12-08T16:49:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg"
-        width: 1024
-        height: 576
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d8926/2147483647/strip/true/crop/4592x2999+0+224/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fd9%2F94374aa24f578e18c9842f2775df%2Fla-fi-lazarus-healthcare-three-hundred-dollar-band-aid.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Paul Krugman column: Trump tries to kill COVID relief"
-    excerpt: "The next few months will be terrible. Several thousand Americans are now dying from COVID-19 every day; given the lag between cases and deaths, the daily toll will almost certainly rise through the end of this year,"
-    publishedDateTime: 2020-12-11T16:25:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-coronavirus-relief-20201211-jcxmsholbzblhokh7adahtgpfq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-coronavirus-relief-20201211-jcxmsholbzblhokh7adahtgpfq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-trump-coronavirus-relief-20201211-jcxmsholbzblhokh7adahtgpfq-story.html?outputType=amp"
+  - title: "Donald Trump reverses plan to give White House officials Covid vaccine"
+    excerpt: "Trump makes announcement hours after administration said senior officials would be offered jab as early as this week"
+    publishedDateTime: 2020-12-14T09:43:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/14/donald-trump-reverses-plan-to-give-white-house-officials-covid-vaccine"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/14/donald-trump-reverses-plan-to-give-white-house-officials-covid-vaccine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/14/donald-trump-reverses-plan-to-give-white-house-officials-covid-vaccine"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/PKQdHEDXejajyy8YKGTSWZN1AyI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4Q3NLXF3MRCXXFIA5XJRJPW25Y.jpg"
-        width: 1200
-        height: 861
+      - url: "https://i.guim.co.uk/img/media/086c0878405b6949e55bb595845a4a76dcb1d5ae/1225_989_3525_2114/master/3525.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ec0bc9434f653dfa366714ade510b776"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump suggests White House staff will wait longer for COVID-19 vaccines"
     excerpt: "U.S. President Donald Trump suggested late Sunday that senior White House officials would wait longer for COVID-19 vaccines hours after media outlets reported senior officials were to receive doses within 10 days."
@@ -77,6 +77,22 @@ related:
         width: 801
         height: 545
         isCached: true
+  - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
+    excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
+    publishedDateTime: 2020-12-16T02:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-energy-efficiency-idUSKBN28P2XZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2XZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544679145&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1Q8"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump, Pence, other top officials to be offered COVID-19 vaccine - source"
     excerpt: "U.S. President Donald Trump, Vice President Mike Pence and other top U.S. officials will be offered the newly approved COVID-19 vaccine beginning Monday, according to a source familiar with the plans."
     publishedDateTime: 2020-12-14T03:04:00Z
@@ -88,38 +104,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 119
-  - title: "Trump scraps plan to have top White House personnel among first vaccinated against COVID-19"
-    excerpt: "President scraps administration order saying they should get the shots along with frontline health workers and people in nursing homes and long-term care facilities."
-    publishedDateTime: 2020-12-14T12:29:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rejects-early-covid-vaccination-plan-white-house-staff/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/08/401aaaf8-9c1b-42f2-8222-dce3dee41a73/thumbnail/1200x630/f05ea69c149e05afcaf546d5740f12ca/cbsn-fusion-eye-opener-white-house-denies-rejecting-pfizer-offer-for-more-vaccines-thumbnail-603672-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President Trump to hold White House COVID-19 summit as pressure mounts for FDA vaccine approval"
-    excerpt: "The White House will host drug manufacturers, distributors and governors to discuss its $12-billion plan to vaccinate Americans against COVID-19."
-    publishedDateTime: 2020-12-08T00:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/07/trump-white-house-covid-summit-fda-vaccine-approval/3861768001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3861768001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3861768001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/2603d7e0-5273-478c-854f-3e83fd666dd0-AFP_AFP_8VR2DQ.jpg?auto=webp&crop=3200,1800,x400,y433&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump touts COVID-19 vaccines at 'summit' amid growing questions over timeline, number of doses"
     excerpt: "Trump signed an executive order at the COVID-19 vaccine event asserting the government must ensure Americans have access to the vaccine first."
     publishedDateTime: 2020-12-08T19:55:00Z
@@ -135,70 +119,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/4be9a102-6ccc-439e-a0f5-84a67dc2fbaf-AFP_AFP_8WQ49E.jpg?auto=webp&crop=4497,2530,x0,y132&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Attorney General William Barr resigns after recent clashes with Trump, still defends president"
-    excerpt: "William Barr, who has served as President Donald Trump's most effective shield and advocate for broad presidential authority, is leaving before Christmas."
-    publishedDateTime: 2020-12-15T08:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/attorney-general-william-barr-leaving-trump-administration/5993228002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5993228002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5993228002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump 'penned political suicide note' at every Covid press conference, former Australian PM says"
-    excerpt: "If US president handled coronavirus pandemic ‘half-decently’ he would have won election, John Howard says"
-    publishedDateTime: 2020-12-16T16:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/17/trump-penned-political-suicide-note-at-every-covid-press-conference-former-australian-pm-says"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/17/trump-penned-political-suicide-note-at-every-covid-press-conference-former-australian-pm-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/17/trump-penned-political-suicide-note-at-every-covid-press-conference-former-australian-pm-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 112
-    images:
-      - url: "https://i.guim.co.uk/img/media/b313b2d8fcdf19bc0deec89605a864cc624a936b/310_0_4752_2851/master/4752.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c524f276219e23e262a50558b87723e3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump claimed that COVID-19 vaccine would have taken 'five years' to develop if he weren't president"
-    excerpt: "Trump's Operation Warp Speed has spent billions funding vaccine efforts, but Pfizer didn't take any federal money for research and development."
-    publishedDateTime: 2020-12-13T22:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-vaccine-five-years-if-he-werent-president-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fd6736de00bce00188bb12c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump is holding out on supporting the $908 billion COVID-19 stimulus bill despite more lawmakers rallying round it"
-    excerpt: "After a press conference, the White House clarified that Trump does not support the $908 billion compromise bill, and instead wants a smaller one."
-    publishedDateTime: 2020-12-04T12:17:00Z
-    webUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5fca1f38b6a3a800199b688e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "UEYGZIa4yMoCL7xjFVHW0CLGKhJvzPSUQT/+wDcusfZcxvkg9olSta7V4zbMfCDGmP/OO+R0B0H2KvCDF14T28b4BtjDfEmZ0djbVqnruocGvXqzeZjjlPD2RywybabHP9mZIgKMaushkyxjrGsBVBR3e7LaRoSkZdyDWKqWrnumVkR02H2uxhWsVh5Q8Dw8FRojuZ+L8n9C2k6DnETBrg8POZ4tlN+TY3y+iRhr/Ur1L7Y7MjkrU5bMvl6NbozKRVgN1PgqlRS1HzozwILz6z7kImfAsjPvL5mN7Vzr9eWG+QCXTvCs2ClOTN9TlOgOSQZ6Hhpvni/A+aCriQcgrDy0qYBe1olFykaedONjcH8=;W5E1gCOxzc4VKueUeby8Pw=="

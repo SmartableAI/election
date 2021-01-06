@@ -57,22 +57,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Attorney General William Barr resigns after clashes with Trump, still defends president"
-    excerpt: "William Barr, who served as President Donald Trump's most effective shield and advocate for broad presidential authority, will leave before Christmas."
-    publishedDateTime: 2020-12-16T09:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/attorney-general-william-barr-leaving-trump-administration/5993228002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5993228002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5993228002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/01/USAT/70fdbe50-e9b6-48b0-ab1d-32b8986206d3-USATSI_14865079.jpg?auto=webp&crop=5471,3077,x0,y571&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump vowed to drain the swamp. Then he granted clemency to three former congressmen convicted of federal crimes."
     excerpt: "Pardons and commutations went to “cronies” while thousands of applications at the Justice Department are pending."
     publishedDateTime: 2020-12-24T01:40:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45Z646SFOII6XMHEB4MCSI5AEU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "The US government changed the rules to allow more powerful showers after Trump complained about not getting enough water to wash his hair"
-    excerpt: "At a White House event in July, President Trump complained that showers weren't providing enough water for him to properly wash his hair."
-    publishedDateTime: 2020-12-16T12:52:00Z
-    webUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fd9f5721803a80018adfb87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "MHRrp1e6hIIvpri0BPlwrQ7hdcJzsTv3ByKmJsn6/7igbn166rwprRu8xONelJiAgnLxy2cQtJLjXAyLEriec+GYdFyXYXz15Tpgq2fU6boD3x9kwNMMasm2uvrr8sAJxGZkYuaT1LPWz4Cw2k9+vtBeJlYxuZZf2E1wq3p9+ePi8hy1/raf/tw7zX4Uj4R1NW+uv/evF90bswH9nuZtHyr4KTONAkk1mEiIzbfgSgpSkQBpahVStfp/jRqNv9/iZn5Rzy3WOG/eFWN2K/oxI5voYkqlVHSJayHLW0ubRYmhsOIfeDMSURnu10qFjPjWWytZTbnvY+i0kDq7NDqlFsz0qbN3oEqBWKirGI0zqxk=;dw14B77MyxuP5XyY23SKMg=="

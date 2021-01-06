@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOVDTSO8GV"
 webUrl: "https://www.reuters.com/video/watch/idOVDTSO8GV"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "Pence won't interfere in election count - advisers"
-    excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties when presiding in Congress on Wednesday, advisers said."
-    publishedDateTime: 2021-01-05T23:42:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPLgi?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5ff4ef7ee4b04d4457632de9-1609887614487?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "3rDSxofdfZ56E40UAi3yHYeD26tTG5QFNts8Auh1au4/7/hyLqxdcm+8tyl8f79vV9wUwNQZ/OWae/JlMq8So+GyccFOjTlBUoDvz+KKjaQe194T2o0sU4NbKPgdOzXfhL1hKyhfM7U70LYivFvyDpv3Fe73MwxBNV5ZUWLKnR7Ngw+mmyxKCCkvDoe6uPK5yrxf3gojoV9qwpnUtKrc+fEc+cfcCT8vp7OCUkDoODs4E3vChuAcnDb9SPaGki7K+aMbnOOe2wJh32TIYjp0tBRu1APA2Tb4RBMRQZrahu8gcdaBVKRt2QxQII/oNeK6RfJpFbVz5hx6I/9FwHoLaHF/Y6Wd+lNWttqe/Z7HADFg1JH4oeV+1/Pj13/aNaZMvW0C/xX6z5leQTCUyPTIoYndbcOuVom6aHZmLDuGsaWCN9uIdPd+7sOfuYIlqo1NqMNwUkMwaF13G07I60sw96EPN1nl+AoUrr4M3WnUoAdG+c2jPVL3xC6aXm9zfUBpcuRFVYFrBYAGSUMaMBq2nA==;Me04Z039f8PAdyhYXSblqg=="
 ---

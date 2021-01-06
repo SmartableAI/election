@@ -25,856 +25,188 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Trump keeps pressure on Pence to reject Biden's win before Congress Wednesday"
-    excerpt: "President Trump is keeping pressure on Vice President Mike Pence to reject Joe Biden's win, but those close to Pence say he's expected to stick to his scripted role."
-    publishedDateTime: 2021-01-05T20:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551"
+  - title: "Election 2020 Today: Pence to Georgia, Biden’s climate team"
+    excerpt: "Here’s what’s happening Thursday in Election 2020 and President-elect Joe Biden’s transition. GOP FOCUS: Vice President Mike Pence touches down in Georgia again for a pair of rallies in Columbus and Macon."
+    publishedDateTime: 2020-12-17T12:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 162
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
     images:
-      - url: "https://s.abcnews.com/images/Politics/pence-short-wh-01-gty-iwb-210105_1609861701648_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump pressure on Georgia election official puts spotlight on Pence, other top Republicans"
-    excerpt: "President Donald Trump's call to pressure a Georgia election official threatened to exacerbate a schism among top Republicans."
-    publishedDateTime: 2021-01-04T18:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pressure-georgia-election-official-puts-spotlight-pence/story?id=75037635"
+  - title: "Election 2020 Today: Pence to Georgia, Biden's climate team"
+    excerpt: "Here’s what’s happening Thursday in Election 2020 and President-elect Joe Biden's transition. GOP FOCUS: Vice President Mike Pence touches down in Georgia again for a pair of rallies in Columbus and Macon."
+    publishedDateTime: 2020-12-17T16:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-pence-georgia-bidens-climate-team-74776478"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-pence-georgia-bidens-climate-team-74776478"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-pence-georgia-bidens-climate-team-74776478"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 155
     images:
-      - url: "https://s.abcnews.com/images/Politics/mike-pence-01-gty-jc-210104_1609778952307_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a0e72d1e3d754cf280205f691fe6d837_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Despite pressure from Trump, Pence will not interfere in election count Wednesday - advisers"
-    excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties and not interfere with the election certification when presiding in Congress on Wednesday,"
-    publishedDateTime: 2021-01-06T04:18:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pence-idINKBN29B08C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29B08C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29B08C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 154
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
-    excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
-    publishedDateTime: 2021-01-05T12:33:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idAFKBN2992MO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2992MO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2992MO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 151
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546616266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0406D"
-        width: 783
-        height: 545
-        isCached: true
-  - title: "VP Mike Pence said to have told Trump he lacks power to change election result"
-    excerpt: "Vice President Mike Pence told President Donald Trump on Tuesday that he did not believe he had the power to block congressional certification of Joe Biden’s victory in the presidential election despite Trump’s baseless insistence that he did,"
-    publishedDateTime: 2021-01-06T01:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pence-election-results-20210106-36waujzejrh5rb5jmiwyjugn2q-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pence-election-results-20210106-36waujzejrh5rb5jmiwyjugn2q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pence-election-results-20210106-36waujzejrh5rb5jmiwyjugn2q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 151
-    images:
-      - url: "https://www.chicagotribune.com/resizer/bXb8f7jRLtZVQNEmXaX5Z5SmeQw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X5FPICJBHVB7TGHYQRATV7SCPA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Loyal soldier Pence torn between Trump, Constitution"
-    excerpt: "Now Vice President Mike Pence finds himself in the most precarious position of his tenure as he prepares to preside over Wednesday's congressional tally of Electoral College votes, the last front ..."
-    publishedDateTime: 2021-01-05T19:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
+  - title: "Georgia to again certify election results showing Biden won"
+    excerpt: "Georgia’s top elections official says his office plans to recertify the state’s election results after a recount confirmed once again that Democrat Joe Biden defeated President Donald Trump in the sta"
+    publishedDateTime: 2020-12-07T19:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-certify-election-results-showing-biden-won-74585047"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-certify-election-results-showing-biden-won-74585047"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-certify-election-results-showing-biden-won-74585047"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 150
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c73f2e2a9d7b46deb1ee0331c8cdd5fa_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_54cc7cd091d9484c8381203e3fa6c223_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Judge Denies Donald Trump's Request to Decertify Joe Biden's Win in Georgia"
-    excerpt: "Governor Brian Kemp and Secretary of State Brad Raffensperger said in a court filing that Trump's requests were \"absurd\" and that his lawsuit was the result of a \"manufactured crisis.\""
-    publishedDateTime: 2021-01-05T18:51:00Z
-    webUrl: "https://www.newsweek.com/judge-denies-donald-trumps-request-decertify-joe-bidens-win-georgia-1559090"
-    ampWebUrl: "https://www.newsweek.com/judge-denies-donald-trumps-request-decertify-joe-bidens-win-georgia-1559090?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/judge-denies-donald-trumps-request-decertify-joe-bidens-win-georgia-1559090?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 148
-    images:
-      - url: "https://d.newsweek.com/en/full/1698667/president-trump-campaigns-georgia-runoffs.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump is repaying Pence's 4 years of unflinching loyalty by making him a scapegoat for his election loss"
-    excerpt: "Trump's move to put all of this on Pence means that the vice president is likely to be vilified in the eyes of the president's supporters."
-    publishedDateTime: 2021-01-05T18:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-throws-pence-under-bus-falsely-claiming-can-overturn-election-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-throws-pence-under-bus-falsely-claiming-can-overturn-election-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-throws-pence-under-bus-falsely-claiming-can-overturn-election-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 148
-    images:
-      - url: "https://i.insider.com/5ff4a3bc3793140019e286b2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "U.S. appeals court rejects lawmaker's bid to have Pence overturn Biden's win"
-    excerpt: "A federal appeals court on Saturday rejected a Republican congressman's bid to allow Vice President Mike Pence to overturn President-elect Joe Biden's Nov. 3 election victory in favor of President Donald Trump."
-    publishedDateTime: 2021-01-03T07:52:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pence-idUSKBN29802P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29802P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29802P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 147
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546458150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0201B"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump"
-    excerpt: "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming."
-    publishedDateTime: 2020-12-31T20:49:00Z
-    webUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345"
-    ampWebUrl: "https://www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approach-latin-america-will-major-departure-donald-trump-1558345?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 146
-    images:
-      - url: "https://d.newsweek.com/en/full/1696572/joe-biden-latin-america.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "US election: Trump tells Georgia election official to 'find' votes to overturn Biden win"
-    excerpt: "US President Donald Trump has been recorded telling Georgia's top election official to \"find\" enough votes to overturn the election result. \"I just want to find 11,780 votes,\" Mr Trump told Republican Secretary of State Brad Raffensperger in a recording released by the Washington Post."
-    publishedDateTime: 2021-01-03T20:49:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55524838"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55524838"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55524838"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 146
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EE1/production/_116337604_mediaitem116337599.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Despite pressure from Trump, Pence won't interfere in election count Wednesday: advisers"
-    excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties when presiding in Congress on Wednesday, advisers said."
-    publishedDateTime: 2021-01-06T02:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pence-idUSKBN29A2J0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2J0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2J0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 146
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "A dozen Republican senators plan to object to certification of Biden's election win over Trump"
-    excerpt: "Sen. Ted Cruz and 10 other Republican senators will join Sen. Josh Hawley in objecting to the election results during Wednesday's joint session."
-    publishedDateTime: 2021-01-02T21:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/02/republican-senators-join-josh-hawley-election-objection/4113152001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4113152001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4113152001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 143
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/ea6f78dc-cc00-4dc6-bbd5-db90c0cc6cb0-VPC_TED_CRUS_HAMMERS_JACK_DORSEY_SOT_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump-Biden transition live updates: Judge tosses suit against VP seeking reversal of election"
-    excerpt: "A judge has tossed out Rep. Louie Gohmert's effort to overturn the results of the presidential election by forcing Vice President Mike Pence to override the electors when votes are finalized by Congress on Jan 6."
-    publishedDateTime: 2021-01-02T16:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
+  - title: "Election 2020 Today: Trump base resigned, Buttigieg picked"
+    excerpt: "Now that the Electoral College has formalized Joe Biden’s win and Republican officials are finally acknowledging Biden as president-elect, many Trump voters across the country seem to be doing the sam"
+    publishedDateTime: 2020-12-16T11:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-base-resigned-buttigieg-picked-74755240"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 143
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/pence_hpMain_20210101-211259_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5557287d6a5f4a1b867acf4d62e5191d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Pence asked a judge to kill a lawsuit filed by Trump fans seeking to empower him to overturn Biden's election win on January 6"
-    excerpt: "Lawyers for Pence asking for the suit to be dismissed on December 31, describing it as \"a legal contradiction.\""
-    publishedDateTime: 2021-01-01T14:39:00Z
-    webUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-asks-judge-kill-lawsuit-aimed-overturn-biden-win-2021-1?amp"
+  - title: "Election 2020 Today: Trump base resigned, Buttigieg picked"
+    excerpt: "Now that the Electoral College has formalized Joe Biden’s win and Republican officials are finally acknowledging Biden as president-elect, many Trump voters across the country seem to be doing the sam"
+    publishedDateTime: 2020-12-16T16:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-trump-base-resigned-buttigieg-picked/2020/12/16/bcea00c8-3f90-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 142
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
     images:
-      - url: "https://i.insider.com/5fef2b309ff41f001883fa37?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Twitter to wipe Trump's followers before Biden handover"
-    excerpt: "Twitter agreed to Donald Trump's request in 2016 to inherit Barack Obama's millions of followers. “In 2016, the Trump administration absorbed all of President Obama's Twitter followers on @POTUS and @WhiteHouse - at Team 44's urging,"
-    publishedDateTime: 2020-12-23T14:10:00Z
-    webUrl: "https://www.bbc.com/news/technology-55426685?via=indexdotco"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-55426685"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55426685"
+  - title: "Uganda election: False claims about Joe Biden and others"
+    excerpt: "Our first example is a widely-shared video clip, with social media users claiming it shows US President-elect Joe Biden at an event calling for the release of Bobi Wine (real name Robert Kyagulanyi)."
+    publishedDateTime: 2020-12-20T00:17:00Z
+    webUrl: "https://www.bbc.com/news/world-africa-55353891"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-africa-55353891"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-55353891"
     type: article
     provider:
       name: BBC
       domain: bbc.com
     quality: 140
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/AF48/production/_116227844_whatsubject.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11797/production/_116157517_biden_gettyimages-1290143413.jpg"
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden says Trump's vaccine roll out has 'fallen behind'"
-    excerpt: "President-elect Joe Biden criticized President Donald Trump's promised swift coronavirus vaccine rollout, saying it has fallen behind expectations."
-    publishedDateTime: 2020-12-30T02:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-coronavirus-idUSKBN2931ZC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2931ZC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2931ZC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546089972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS12W"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden, Trump to campaign in Georgia on eve of Senate runoffs"
-    excerpt: "President-elect Joe Biden and President Donald Trump will campaign next week in Georgia, holding dueling events on the eve of runoff elections that will determine who controls the U.S. Senate and the fate of Biden's legislative agenda."
-    publishedDateTime: 2020-12-31T04:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN2941HE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2941HE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2941HE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546167820&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0W1"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "GOP’s Hawley joins Trump-fueled push to object to Biden electors"
-    excerpt: "Republican Senator Josh Hawley said he will object to the certification of the Electoral College votes for Joe Biden as president when Congress convenes on Jan. 6."
-    publishedDateTime: 2020-12-30T16:39:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-30/hawley-trump-electoral-college-biden-win-object?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/297ec54/2147483647/strip/true/crop/3666x2394+0+235/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F1e%2F7457d0074fccb5d94d4db8604eae%2Fgettyimages-530730748.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "In dueling New Year messages, Trump reflects while Biden looks ahead"
-    excerpt: "President Donald Trump in a New Year's Eve message reflected on his accomplishments in office, calling them \"historic victories,\" while his successor, President-elect Joe Biden, struck an upbeat tone in looking ahead to 2021."
-    publishedDateTime: 2021-01-01T14:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN2951BB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
-        width: 813
-        height: 545
-        isCached: true
-  - title: "GOP torn over Trump's Electoral College challenge of Biden"
-    excerpt: "President Donald Trump’s extraordinary election challenge over his defeat by President-elect Joe Biden is splitting the Republican Party"
-    publishedDateTime: 2021-01-02T07:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-torn-trumps-electoral-college-challenge-biden-75010758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1c7c00831119410299b01800e094832d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "More GOP lawmakers enlist in Trump effort to undo Biden win"
-    excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the E"
-    publishedDateTime: 2021-01-03T00:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/more-gop-lawmakers-enlist-in-trump-effort-to-undo-biden-win/2021/01/02/fbf0b2b0-4d57-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump, Biden face new head-to-head contest in Georgia"
-    excerpt: "President Trump and President-elect Joe Biden will travel to Georgia on Monday, making one final push in the state’s U.S. Senate runoffs that will decide which party controls the upper chamber for the next two years."
-    publishedDateTime: 2021-01-04T01:34:00Z
-    webUrl: "https://thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia"
-    ampWebUrl: "https://thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532256-trump-biden-face-new-head-to-head-contest-in-georgia?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_123120getty_split_georgia-biden-trump.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden, Trump warn of high stakes of Georgia Senate runoffs"
-    excerpt: "President-elect Joe Biden on Monday told Georgia Democrats they had the power to “chart the course” for a generation as President Donald Trump rehashed old grievances over his November loss in final pleas ahead of runoff elections that will determine control of the U."
-    publishedDateTime: 2021-01-05T02:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pence-biden-warn-of-high-stakes-of-georgia-senate-runoffs/2021/01/04/90db826c-4ef0-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pence-biden-warn-of-high-stakes-of-georgia-senate-runoffs/2021/01/04/90db826c-4ef0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-biden-warn-of-high-stakes-of-georgia-senate-runoffs/2021/01/04/90db826c-4ef0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Loyal soldier Pence torn between Trump, Constitution"
-    excerpt: "Vice President Mike Pence has been President Donald Trump’s most loyal soldier, dutifully backing the unpredictable leader through one chaotic situation after another"
-    publishedDateTime: 2021-01-05T10:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/loyal-soldier-pence-torn-between-trump-constitution/2021/01/05/2ec97c26-4f1a-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump, Biden to rally in Georgia ahead of high-stakes Senate races"
-    excerpt: "President Donald Trump travels to Georgia on Monday in a bid to keep the U.S. Senate in the hands of his Republican Party, after his efforts to overturn his own defeat in the state have injected new uncertainty into a pair of races that are seen as too close to call."
-    publishedDateTime: 2021-01-04T16:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN29912P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29912P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29912P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546530199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH030IH"
-        width: 769
-        height: 545
-        isCached: true
-  - title: "Trump urges Georgia voters to preserve GOP control of Senate; pressures Pence over election protests"
-    excerpt: "Some Trump supporters falsely believe Pence can throw out electoral votes from Biden states after GOP lawmakers protest."
-    publishedDateTime: 2021-01-05T03:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/donald-trump-stumps-georgia-republicans-senate-runoff/4124475001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4124475001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124475001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/82ce36ca-0da7-4d0c-a46c-5201dc8f1ebe-AP20358775512344.jpg?auto=webp&crop=4271,2402,x1,y144&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump allies scrambling for strategy to overturn Biden win"
-    excerpt: "Republican lawmakers who are trying to overturn Joe Biden’s victory over President Donald Trump have not settled on a full strategy"
-    publishedDateTime: 2021-01-05T18:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/many-more-in-gop-rejecting-trumps-bid-to-undo-his-defeat/2021/01/04/0168f022-4ef2-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump to speak at DC rally as Congress meets on election"
-    excerpt: "President Donald Trump will personally address a gathering of his supporters in Washington Wednesday as he seeks to rally populist support for his last-ditch efforts to overturn his loss to President-"
-    publishedDateTime: 2021-01-05T20:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-dc-rally-congress-meets-election-75063237"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-speak-dc-rally-congress-meets-election-75063237"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-speak-dc-rally-congress-meets-election-75063237"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9b654c2480a7451d85df8276c50d1374_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
-    excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
-    publishedDateTime: 2021-01-02T17:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/02/georgia-runoffs-ossoff-warnock-loeffler-perdue-biden"
+  - title: "Electoral college: key states confirm Joe Biden's victory in presidential election"
+    excerpt: "Votes in Georgia, Pennsylvania, Wisconsin and Arizona effectively end Donald Trump’s long-shot attempt to overturn results"
+    publishedDateTime: 2020-12-14T20:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/14/electoral-college-joe-biden-donald-trump-2020-election"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/8dc540bec1a7d9c55084a25600358e55896ed6d5/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f39a4b7b0d2576d3eff26f15ceada36"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump returns to Washington early as allies plot challenge to Biden victory"
-    excerpt: "Lago trip as Republican senator says he will formally object to electoral college result next Wednesday"
-    publishedDateTime: 2020-12-31T19:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/31/trump-washington-republicans-challenge-biden-victory"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/31/trump-washington-republicans-challenge-biden-victory"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/31/trump-washington-republicans-challenge-biden-victory"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 138
-    images:
-      - url: "https://i.guim.co.uk/img/media/8106f9de72c2a4fa38c4d66ea9613aaa58ab559a/0_89_2745_1648/master/2745.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ccd3affb019996dd22c0312766f540ec"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Congressman suggests street violence after judge rejects bid to force Pence to block Biden win"
-    excerpt: "Texas congressman Louie Gohmert suggested that 'violence in the streets' may be the only remaining option to block Joe Biden from becoming president."
-    publishedDateTime: 2021-01-02T20:11:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-02/gohmert-pence-biden-win?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 138
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/2f0e133/2147483647/strip/true/crop/4002x2614+271+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F5b577cdf6d336b933447c354b73f%2F1b7c9b3976fd4155a44b801b2e959f97"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "How the latest moves by Tehan and Trump will complicate Biden's Iran policy"
-    excerpt: "Latest provocative moves by Tehran, and some less-than-coherent actions by the outgoing U.S. leader, are already complicating Biden's Iran policy."
-    publishedDateTime: 2021-01-05T16:14:00Z
-    webUrl: "https://www.cbsnews.com/news/iran-nuclear-enrichment-south-korean-tanker-iraq-assassination-anniversary-complicate-biden-policy/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/iran-nuclear-enrichment-south-korean-tanker-iraq-assassination-anniversary-complicate-biden-policy/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/iran-nuclear-enrichment-south-korean-tanker-iraq-assassination-anniversary-complicate-biden-policy/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 138
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/07/22/bff3ced0-1b8f-4b6e-afcb-ce25a2af53c4/thumbnail/1200x630/f5a8c525e0bac10a0f26d822a3946ba7/2019-07-16t000000z-1766373506-rc12a395c1e0-rtrmadp-3-mideast-iran.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump warns Cotton after senator says he won't object to Biden certification"
-    excerpt: "President Trump on Monday targeted Sen. Tom Cotton (R-Ark.) a day after the senator said he would not join an effort to object to the certification of Electoral College votes affirming Joe Biden as the next president."
-    publishedDateTime: 2021-01-04T16:16:00Z
-    webUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden"
-    ampWebUrl: "https://thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532510-trump-warns-cotton-after-senator-says-he-wont-object-to-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 137
-    images:
-      - url: "https://thehill.com/sites/default/files/cottontom_070120bc_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden, Trump to campaign in Georgia runoff elections"
-    excerpt: "Posted [NFA] President-elect Joe Biden and President Donald Trump will campaign next week in Georgia, holding due"
-    publishedDateTime: 2020-12-31T22:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMu5?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fee39bde4b04d4457632bc2-1609447869483?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump-Biden transition live updates: Trump back at WH, Biden plans COVID memorial"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 20 days. Russ Vought, the current director of the Office of Management and Budget, struck back at President-elect Joe Biden's transition team one day after it leveled allegations that Trump's OMB was hindering the incoming team."
-    publishedDateTime: 2021-01-01T02:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74922408"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 135
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump2-01-gty-iwb-201231_1609441395060_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Growing crowd of Trump loyalists in the Senate vows to challenge Biden’s victory"
-    excerpt: "Eleven GOP senators pledged to reject Biden’s electoral votes from swing states, defying a plea from Senate leaders to avoid a fight over the election’s legitimacy when Congress meets in a joint session next week."
-    publishedDateTime: 2021-01-03T05:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senators-challenge-election/2021/01/02/81a4e5c4-4c7d-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senators-challenge-election/2021/01/02/81a4e5c4-4c7d-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senators-challenge-election/2021/01/02/81a4e5c4-4c7d-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 135
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DI2JVISLTMI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "'I just want 11,780 votes': Trump pressed Georgia to overturn Biden win – report"
-    excerpt: "Trump asked secretary of state Brad Raffensperger in hour-long phone call to recalculate vote"
-    publishedDateTime: 2021-01-03T14:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/03/trump-georgia-raffensperger-call-biden-washington-post"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 135
-    images:
-      - url: "https://i.guim.co.uk/img/media/ef50fd94529c5075f1f3ddf5a581dcdfec6735ae/0_152_5469_3282/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c54870c1ba952942958b6060f010ab75"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Live updates: Biden, Trump plan dueling events in Georgia ahead of Senate runoffs"
-    excerpt: "The president and president-elect both plan high-profile trips to a state where two Senate contests on Tuesday will determine which party controls the chamber in Washington."
-    publishedDateTime: 2021-01-04T12:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/joe-biden-trump-transition-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 135
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBB7HXHLXZHBLCJ7VNHMATDLNI.jpg&w=1440"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pence 'stands with' Trump ahead of Ga. election"
-    excerpt: "Vice President Mike Pence told Georgia voters he \"stands with President Trump\" after the president pressured Georgia's Republican secretary of state to “find” enough votes to overturn Joe Biden's win there in November."
-    publishedDateTime: 2021-01-04T20:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/04/pence-stands-with-trump-ahead-ga-election/4132464001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 135
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b247a757-6681-4259-98fb-8e7c754c5f85_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
-    excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."
-    publishedDateTime: 2021-01-06T01:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
     quality: 134
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5CL3QSODQI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 969
+      - url: "https://i.guim.co.uk/img/media/db7d3342fc6619931c02b4b619d3d79bcc7d80ce/0_120_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c8d6ddfbba62fd7cf15141727b34de8"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
-    excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
-    publishedDateTime: 2020-12-30T14:52:00Z
-    webUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-pence-aide-olivia-troye-fears-violence-january-trump-rally-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
-    images:
-      - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "'Trump is my president': Protesters gather in DC a day before Congress certifies election"
-    excerpt: "Crowds gathered in Washington on Tuesday, a day before larger rallies and a congressional vote to certify the election are planned."
-    publishedDateTime: 2021-01-06T04:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4141044001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001"
+  - title: "AG Barr: No reason to name special counsels to investigate Hunter Biden or election fraud"
+    excerpt: "Attorney General Barr distanced himself from Trump saying he saw no cause for appointing special counsels to investigate Joe Biden's son Hunter Biden."
+    publishedDateTime: 2020-12-21T18:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 131
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/fb64f38a-fa86-4187-9fcc-00a05d2b22c4-MicrosoftTeams-image_3.png?auto=webp&crop=2775,1561,x1,y439&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden warns Trump administration's vaccine distribution plans are \"falling far behind\""
-    excerpt: "Washington — President-elect Joe Biden warned Americans on Tuesday that they need to brace for a \"very tough period for our nation\" with soaring coronavirus case counts and deaths expected in the coming weeks and said the Trump administration's plans for distributing coronavirus vaccines are lagging."
-    publishedDateTime: 2020-12-29T21:28:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-covid-pandemic-speech-live-stream-today-2020-12-29/"
+  - title: "Live updates: Pence campaigns in Georgia Senate races; Biden settles on EPA, interior nominees"
+    excerpt: "The vice president's return to Georgia underscored the importance of the Senate races there. The outcome will determine which party controls the Senate next year."
+    publishedDateTime: 2020-12-17T23:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/17/joe-biden-trump-transition-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/17/joe-biden-trump-transition-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/17/joe-biden-trump-transition-live-updates/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 130
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/29/10986146-2a9f-442c-a4c7-691464688551/thumbnail/1200x630g2/c70d66c8a8df12651b774420f99afe1d/biden-covid19.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2FHBB7HXHLXZHBLCJ7VNHMATDLNI%252Ejpg&w=1440"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump allies launch desperate final efforts ahead of congressional confirmation of Biden win"
-    excerpt: "President Trump and his allies are growing increasingly desperate as Congress prepares to formally receive the votes that will confirm his election loss next week, filing lawsuits against nonexistent entities and even Trump’s own vice president as they try to come up with new ways to overturn the vote."
-    publishedDateTime: 2020-12-30T04:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-contest-election-congress/2020/12/29/425fb512-4a05-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 129
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q7XCJCKFEI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "A Trump hotel in DC more than quadrupled prices for room bookings around Biden's inauguration"
-    excerpt: "Rates at the Trump International Hotel begin at $2,225 a night around January 20, inauguration day. On other January days, rates begin at $476."
-    publishedDateTime: 2021-01-01T16:29:00Z
-    webUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-hiked-up-prices-to-profit-from-bidens-inauguration-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 129
-    images:
-      - url: "https://i.insider.com/5fef3c929ff41f001883fa39?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump and Joe Biden vs. Facebook and Twitter: Why Section 230 could get repealed in 2021"
-    excerpt: "Section 230, which shields Facebook, Google and Twitter from liability for what users post, is facing growing bipartisan fire and possible repeal."
-    publishedDateTime: 2021-01-05T12:26:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/04/trump-biden-pelosi-section-230-repeal-facebook-twitter-google/4132529001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4132529001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4132529001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 128
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden calls Trump pandemic effort a ‘travesty’ and vows extensive federal response to coronavirus"
-    excerpt: "As officials warn of a post-holiday increase in covid-19 cases, Vice President-elect Kamala Harris became the latest high-profile politician to be vaccinated."
-    publishedDateTime: 2020-12-29T22:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-coronavirus--surge-speech/2020/12/29/47134920-49d3-11eb-a9f4-0e668b9772ba_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-coronavirus--surge-speech/2020/12/29/47134920-49d3-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-coronavirus--surge-speech/2020/12/29/47134920-49d3-11eb-a9f4-0e668b9772ba_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/22F42VCJ6QI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 998
-        isCached: true
-  - title: "'Peter Navarro Is Lying': Critics Slam Trump Adviser's Claim Biden Inauguration Could Be Delayed"
-    excerpt: "Peter Navarro, a top adviser to President Donald Trump, drew substantial criticism after he claimed during an interview with Fox News host Jeanine Pirro that President-elect Joe Biden's inauguration could be delayed."
-    publishedDateTime: 2021-01-03T16:06:00Z
-    webUrl: "https://www.newsweek.com/peter-navarro-lying-critics-slam-trump-advisers-claim-biden-inauguration-could-delayed-1558570"
-    ampWebUrl: "https://www.newsweek.com/peter-navarro-lying-critics-slam-trump-advisers-claim-biden-inauguration-could-delayed-1558570?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/peter-navarro-lying-critics-slam-trump-advisers-claim-biden-inauguration-could-delayed-1558570?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 127
-    images:
-      - url: "https://d.newsweek.com/en/full/1696929/peter-navarro.jpg"
-        width: 1024
-        height: 672
-        isCached: true
-  - title: "Trump-Biden transition live updates: Trump, Biden to hold dueling rallies on eve of Georgia runoffs"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 16 days. Lawmakers are responding Monday to an explosive phone call between President Trump and Brad Raffensperger in which Trump,"
-    publishedDateTime: 2021-01-04T16:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 126
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-trump-ap-jef-210103_1609706538723_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 901
-        isCached: true
-  - title: "Just how much of a rebuke to Trump is Congress’s veto override?"
-    excerpt: "Republicans in Congress are about to hand President Trump the biggest legislative loss of his presidency by helping Democrats override a Trump veto for the first time. On Monday, the House of Representatives overwhelmingly voted to override his veto of what is normally a broad bipartisan defense bill."
-    publishedDateTime: 2020-12-29T16:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/29/just-how-much-rebuke-trump-is-congresss-veto-override/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MS2EGCJLAI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump's pardons and commutations"
-    excerpt: "President Trump's pardons have included service members charged with murder and a former national security adviser accused of lying to the FBI."
-    publishedDateTime: 2020-12-29T18:10:00Z
-    webUrl: "https://www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
-    ampWebUrl: "https://www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
-    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/president-trumps-pardons-and-commutations/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797393%2Fa6b890e7-d0a9-4435-934f-e1343b744dfb-XXX__JG_138559_Roger_Stone_Sent_02_2_jmg_39237.jpeg/fill/300/300/"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Republican senator says he will challenge Biden victory in Congress"
-    excerpt: "Republican Senator Josh Hawley on Wednesday pledged to challenge Democrat President-elect Joe Biden's victory when Congress convenes to officially tally the electoral votes, which could trigger a lengthy debate in the Senate but has virtually no chance of overturning"
-    publishedDateTime: 2020-12-30T19:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-senate-idUSKBN29424P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29424P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29424P"
+  - title: "U.S. Appeals Court rejects bid to block Georgia win for Biden"
+    excerpt: "A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect Joe Biden's victory in Georgia and left in place procedures that will make it easier for voters to cast absentee ballots in January when two Senate seats are up for grabs."
+    publishedDateTime: 2020-12-05T16:49:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-georgia-idUKKBN28F0MW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28F0MW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28F0MW"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT18H"
-        width: 703
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543550384&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB40EU"
+        width: 811
         height: 545
         isCached: true
-  - title: "In a first, Congress overrides Trump veto of defense bill"
-    excerpt: "Congress has overridden President Donald Trump’s veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago"
-    publishedDateTime: 2021-01-02T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-a-first-congress-overrides-trump-veto-of-defense-bill/2021/01/01/c59b2000-4c68-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+  - title: "Susan Rice tapped for top domestic policy role in Biden administration"
+    excerpt: "Former UN ambassador would not need Senate approval; Denis McDonough nominated to run veterans affairs"
+    publishedDateTime: 2020-12-10T12:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/10/susan-rice-domestic-policy-council-denis-mcdonough-biden-administration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/10/susan-rice-domestic-policy-council-denis-mcdonough-biden-administration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/10/susan-rice-domestic-policy-council-denis-mcdonough-biden-administration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6b8bb87ac0f9956fe8198835fd788c176c9fea20/0_151_4518_2711/master/4518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=715d55d7d4e1ede25866fed0c6bed6ba"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Gun restrictions face uphill battle even under Biden"
+    excerpt: "The gun debate in America will soon enter a new chapter with a Democrat in the White House after four years under President Donald Trump in which gun control advocates developed a long wish list for reform amid a spate of large-scale mass killings in places like Las Vegas,"
+    publishedDateTime: 2020-12-10T22:24:00Z
+    webUrl: "https://www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -885,969 +217,1196 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Rejecting Trump veto, Republican-led Senate backs defense bill"
-    excerpt: "President Donald Trump suffered a stinging rebuke in the U.S. Senate on Friday when fellow Republicans joined Democrats to override a presidential veto for the first time in his tenure, pushing through a defense policy bill he opposed just weeks before he leaves office."
-    publishedDateTime: 2021-01-02T05:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/defying-trump-u-s-senate-overrides-defense-bill-veto-idUKKBN2962I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2962I6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2962I6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546357129&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0018S"
-        width: 821
-        height: 545
-        isCached: true
-  - title: "Senate overrides Trump's veto of defense bill"
-    excerpt: "The Senate on Friday overrode President Trump's veto of the National Defense Authorization Act, the $740 billion defense policy bill. This veto, in the waning days of Mr. Trump's presidency, marked the first time Congress has voted to override him."
-    publishedDateTime: 2021-01-02T12:40:00Z
-    webUrl: "https://www.cbsnews.com/news/senate-overrides-trump-veto-defense-bill/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-overrides-trump-veto-defense-bill/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-overrides-trump-veto-defense-bill/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/3cdbe37c-81c6-476b-8d44-10e62d7db7ab/thumbnail/1200x630/df1abc3a29d6681129db66683375189d/gettyimages-1230346650.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "US Congress overrides Trump defence spending bill veto"
-    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-    publishedDateTime: 2021-01-02T04:09:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "US Congress overrides Trump veto for first time"
-    excerpt: "The US Congress has overturned President Donald Trump's veto of a defence spending bill, the first time this has happened in his presidency. The Republican-controlled Senate held a rare New Year's Day session to debate the move,"
-    publishedDateTime: 2021-01-03T06:06:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55510151"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55510151"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55510151"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/99C2/production/_116326393_trumpmelaniaepa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The Latest: Group of senators urges Biden's win be certified"
-    excerpt: "A bipartisan group of 10 senators has issued a statement calling for Congress to certify President-elect Joe Biden’s win"
-    publishedDateTime: 2021-01-03T19:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-johnson-insists-vote-challenge-helps-democracy-75023649"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-johnson-insists-vote-challenge-helps-democracy-75023649"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-johnson-insists-vote-challenge-helps-democracy-75023649"
+  - title: "Biden's transition contends with probe into son's finances"
+    excerpt: "The revelation that federal prosecutors have launched a tax investigation into President-elect Joe Biden’s son Hunter is now looming over the incoming administration's transition efforts"
+    publishedDateTime: 2020-12-11T19:44:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb6fdf9e9ae14882ab437470936ab848_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "What to expect when Congress meets to confirm Joe Biden’s win"
-    excerpt: "Congress will meet Wednesday to count and confirm each state’s electoral votes. It has become routine after recent elections for House lawmakers on the losing side to put up a symbolic fight over the results,"
-    publishedDateTime: 2021-01-04T12:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/congress-presidential-election-january-6/?outputType=amp"
+  - title: "Supreme Court rejects Republican attack on Biden victory"
+    excerpt: "The Supreme Court has rejected a lawsuit backed by President Donald Trump to overturn Joe Biden’s election victory, ending a desperate attempt to get legal issues rejected by state and federal judges"
+    publishedDateTime: 2020-12-12T02:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hundreds-gop-members-sign-texas-led-election-lawsuit-74666427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hundreds-gop-members-sign-texas-led-election-lawsuit-74666427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hundreds-gop-members-sign-texas-led-election-lawsuit-74666427"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_03b66442def44970a3cbd37ffc2e4338_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "As leaders fete Paris climate pact, Biden pledges to rejoin"
+    excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
+    publishedDateTime: 2020-12-12T16:24:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "As leaders set fresh climate goals, Biden pledges US support"
+    excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
+    publishedDateTime: 2020-12-12T22:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689716"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Battleground states vote as electors formally choose Biden"
+    excerpt: "Presidential electors in key battleground states have cast the votes that will affirm Joe Biden as the nation’s next president"
+    publishedDateTime: 2020-12-14T10:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/electors-meeting-to-formally-choose-biden-as-next-president/2020/12/14/e72eeabc-3dcc-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/electors-meeting-to-formally-choose-biden-as-next-president/2020/12/14/e72eeabc-3dcc-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/electors-meeting-to-formally-choose-biden-as-next-president/2020/12/14/e72eeabc-3dcc-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTVYT5SN3MI6XIPV7WXSRT6KSA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Electors meeting to formally choose Biden as next president"
+    excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president"
+    publishedDateTime: 2020-12-14T05:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/electors-meeting-formally-choose-biden-president-74709840"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_22cb7f1614ec49cd8418a9ca04bf00cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Arizona's 11 electors vote for Democrat Joe Biden for president"
+    excerpt: "Arizona's 11 electors voted for Democrat Joe Biden for president on Monday, confirming the president-elect's victory in the Southwestern state in the 2020 U.S. presidential election, according to a spokesperson for the secretary of state."
+    publishedDateTime: 2020-12-14T18:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-arizona-idUSKBN28O2J4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O2J4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O2J4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544534640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1F9"
+        width: 809
+        height: 545
+        isCached: true
+  - title: "Biden clears 270-vote mark as electors affirm his victory"
+    excerpt: "The voting milestone came late Monday when California electors affirmed Biden’s massive 5 million-vote win last month in the nation’s largest state."
+    publishedDateTime: 2020-12-14T22:45:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f7c20cd/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd0%2F24%2F7f959987465cafef5482c63f37d2%2Fla-na-pol-biden-birthday13.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Electoral college meeting to formally choose Biden as next president"
+    excerpt: "Electors in the electoral college are casting the votes that will formally choose Joe Biden as the nation’s next president."
+    publishedDateTime: 2020-12-14T18:27:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electors-meeting-to-formally-choose-biden-as-next-president?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Wisconsin's 10 electors vote for Democrat Joe Biden for president"
+    excerpt: "Wisconsin's 10 electors voted for Democrat Joe Biden for president on Monday, confirming the president-elect's victory in the state in the 2020 U.S. presidential election."
+    publishedDateTime: 2020-12-14T18:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsins-10-electors-vote-for-democrat-joe-biden-for-president-idUSKBN28O2LD?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O2LD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O2LD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544537476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD1GR"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden to take oath outside Capitol amid virus restrictions"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office outside the U.S. Capital building, but it probably won't look like other inaugurations"
+    publishedDateTime: 2020-12-16T04:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-oath-capitol-amid-virus-restrictions-74740129"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c24f606b827343ab87fb216f6d3d9f1b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Factbox: The Biden Cabinet - president-elect fills out his team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating members of his Cabinet and White House team, working to fulfill his promise to build an administration that reflects the United States' diversity."
+    publishedDateTime: 2020-12-16T06:02:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q048"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544692898&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF01L"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Factbox: The Biden Cabinet - President-elect fills out his team"
+    excerpt: "Democratic President-elect Joe Biden has nominated a flurry of members for his Cabinet and White House team, working to fulfill his promise to build an administration that reflects the United States' diversity."
+    publishedDateTime: 2020-12-17T02:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idUSL1N2IQ1W4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IQ1W4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IQ1W4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544692898&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF01L"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Loeffler declines to rule out formal protest of Biden's win"
+    excerpt: "Sen. Kelly Loeffler is declining to rule out a formal protest of Democrat Joe Biden's victory when Congress convenes next month to certify the presidential election results"
+    publishedDateTime: 2020-12-17T01:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/loeffler-declines-rule-formal-protest-bidens-win-74768923"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loeffler-declines-rule-formal-protest-bidens-win-74768923"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loeffler-declines-rule-formal-protest-bidens-win-74768923"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6f499440ec3444f887d6fa5c7cff157e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden names cabinet officials tasked to fight climate change"
+    excerpt: "U.S. president-elect Joe Biden named the team he wants to spearhead his response to climate change on Thursday, picking former Environmental Protection Agency (EPA) chief Gina McCarthy to lead a new office focused on global warming."
+    publishedDateTime: 2020-12-18T05:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-climate-idUSKBN28S02N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S02N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S02N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544970785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH012"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Los Angeles mayor says turned down job in Biden administration"
+    excerpt: "Los Angeles Mayor Eric Garcetti said on Thursday that he turned down an offer to work in the administration of President-elect Joe Biden so he can focus on the city as coronavirus cases rise."
+    publishedDateTime: 2020-12-18T02:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-garcetti-idUSKBN28S071"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S071"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S071"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544978339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH02W"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Transition stumbles test Biden's bond with Capitol Hill"
+    excerpt: "WASHINGTON -- President-elect Joe Biden brings more Capitol Hill experience than any president in decades, but his transition has stumbled in ways large and small, exposing the challenges of navigating a Congress that is a different place than when he last served in 2009."
+    publishedDateTime: 2020-12-18T10:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transition-stumbles-test-bidens-bond-capitol-hill-74795016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "With climate change focus, Biden filling environmental, interior posts"
+    excerpt: "(This Dec 17 story corrects historic significance of Michael Regan's nomination in 2nd paragraph to say if appointed, he would be the first Black man to run the EPA. Also corrects references in previous updates of story."
+    publishedDateTime: 2020-12-18T14:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden/with-climate-change-focus-biden-filling-environmental-interior-posts-idUSKBN28R1FT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R1FT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R1FT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544975651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1VL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Fear fuels gun sales as Biden vows crackdown"
+    excerpt: "A surge in gun sales reflects what experts call a perfect storm of conditions that breed fear: a pandemic, recession, civil unrest, and divisive presidential election."
+    publishedDateTime: 2020-12-19T00:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fear-fuels-gun-sales-biden-vows-crackdown/story?id=74759162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/gun-1-abc-er-201218_1608328180476_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mr. Biden should fix broken immigration policies"
+    excerpt: "President-elect Joe Biden must address the rise in xenophobia among the general public as a result of Mr. Trump’s repeated claims about refugees, Deferred Action for Childhood Arrivals recipients, international students (including me) and immigrants."
+    publishedDateTime: 2020-12-18T21:44:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-fix-broken-immigration-policies/2020/12/18/def5a53c-4080-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-fix-broken-immigration-policies/2020/12/18/def5a53c-4080-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-fix-broken-immigration-policies/2020/12/18/def5a53c-4080-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T3P6BECAUYI6XFCT7Q3LUBIXQE.jpg&w=1440"
+        width: 1440
+        height: 772
+        isCached: true
+  - title: "With climate change focus, Biden filling environmental, interior posts"
+    excerpt: "(This Dec 17 story corrects historic significance of Michael Regan's nomination in 2nd paragraph to say if appointed, he would be the first Black man to run the EPA. Also corrects references in previous updates of story."
+    publishedDateTime: 2020-12-18T20:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN28R1FT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28R1FT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R1FT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1544975651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1VL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden may time confirmation votes to protect House majority"
+    excerpt: "President-elect Joe Biden’s decision to tap several House Democrats for administrative positions is putting Speaker Nancy Pelosi in a politically tough spot"
+    publishedDateTime: 2020-12-19T18:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-time-confirmation-votes-protect-house-majority-74808527"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6139efaf033d42579c0c3d46bd00a5aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden nominees mount charm offensive amid tough confirmation landscape"
+    excerpt: "Confirmation battles over the president-elect’s Cabinet picks are set to begin even before he is inaugurated, posing an early test of the post-Trump political world and setting the tone for Joe Biden’s presidency."
+    publishedDateTime: 2020-12-20T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-nominee-senate/2020/12/19/019403ae-3e24-11eb-8db8-395dedaaa036_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA3US2SBVII6XFCT7Q3LUBIXQE.jpg&w=1440"
         width: 1440
         height: 950
         isCached: true
-  - title: "On day of protest, Biden supporters should stay home"
-    excerpt: "I hope supporters of President-elect Joe Biden stay away from any D.C. demonstrations on Wednesday. The election results are a stronger message than any chant or placard. Just let the true-believer sore losers have their moment so we can get on with the important business of 2021."
-    publishedDateTime: 2021-01-05T21:36:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CBXK66SEPMI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
-    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-    publishedDateTime: 2021-01-04T20:16:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump is heard on audiotape pressuring Georgia secretary of state to 'find' votes to overturn Biden's win"
-    excerpt: "Neal Katyal, acting solicitor general during the Obama administration, said the Trump call \"demonstrates an impeachable, perhaps criminal, offense.\""
-    publishedDateTime: 2021-01-05T06:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/03/trump-pressured-georgia-election-official-call-washington-post-report-says/4119948001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4119948001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4119948001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/8d2d59a1-292e-493e-a149-97eb72904e36-AP_Trump_Legacy_By_The_Numbers.jpg?auto=webp&crop=4766,2681,x0,y242&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump Shares Tweet on Whether Presidential Inauguration Can Be Delayed"
-    excerpt: "President Donald Trump shared a tweet on Sunday questioning whether the constitutionally mandated inauguration date of January 20 can be delayed. The Constitution explicitly states in the 20th Amendment,"
-    publishedDateTime: 2021-01-03T17:14:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-shares-tweet-whether-presidential-inauguration-can-delayed-1558577"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-shares-tweet-whether-presidential-inauguration-can-delayed-1558577?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-shares-tweet-whether-presidential-inauguration-can-delayed-1558577?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1696944/donald-trump.jpg"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "Why Is Donald Trump Mad at Mike Lee? President Scolds Senator at Georgia Rally"
-    excerpt: "Lee helped to lead the president's defense in his impeachment trial but has refused to oppose ratifying Biden's win."
-    publishedDateTime: 2021-01-05T08:42:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1698318/president-trump-jokes-senator-mike-lee.jpg"
-        width: 3772
-        height: 2573
-        isCached: true
-  - title: "Biden criticises Trump over slow Covid-19 vaccine rollout – video"
-    excerpt: "Ramping up vaccine rollout will be the 'greatest operational challenges we've ever faced as a nation'  Biden says"
-    publishedDateTime: 2020-12-29T16:58:00Z
-    webUrl: "https://www.theguardian.com/global/video/2020/dec/29/biden-criticises-trump-over-slow-covid-19-vaccine-rollout-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/46662180b955305cb03c9a68b6d93b89eaf71fe6/0_177_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce9a44a189c76abd7d573b52d811573c"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden urges Trump to take coronavirus vaccine and promote masks"
-    excerpt: "President-elect Joe Biden on Dec. 29 encouraged President Trump to take the coronavirus vaccine as soon as his doctors recommend it and again called for Americans to wear a mask to guard against the virus."
-    publishedDateTime: 2020-12-29T21:48:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-urges-trump-to-take-coronavirus-vaccine-and-promote-masks/2020/12/29/5591eb4f-8f9d-4caa-805d-52a8ba75653a_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-29-2020/t_fa48a779c9da4288a801dc48894fc8b2_name_63b5578c_4a1c_11eb_97b6_4eb9f72ff46b_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "'Wild Protests:' Police brace for pro-Trump demonstrations when Congress meets Jan. 6 to formalize Biden's win"
-    excerpt: "Die-hard supporters are planning to protest Jan. 6, seeking to pressure congressional Republicans into reversing Joe Biden's electoral victory."
-    publishedDateTime: 2020-12-31T21:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/31/elections-protest-dc-police-brace-donald-trump-demonstrators/4097472001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4097472001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4097472001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/1ad3f7c5-deff-4acb-848e-c40cb8fbb92b-AP_Trump_Rallies_1.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AUDIO TRANSCRIPT: Trump pressures Georgia secretary of state to 'find' votes to overturn Biden's statewide win"
-    excerpt: "In an hour-long phone call, Trump repeatedly made the false claim that he won Georgia and continued to bring up debunked voter fraud allegations."
-    publishedDateTime: 2021-01-04T05:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01"
-    ampWebUrl: "https://www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-georgia-brad-raffensperger-election-influencing-transcript-republicans-2021-01?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5ff275316056b60018721ad3?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "GOP plans to upend Biden win for Trump rips party apart"
-    excerpt: "The extraordinary effort to overturn the is ripping the Republican Party apart as GOP lawmakers orchestrating the challenges to Joe Biden's victory faced intense blowback Sunday from others in the party warning they undermining Americans' faith in democracy."
-    publishedDateTime: 2021-01-04T02:06:00Z
-    webUrl: "https://www.businessinsider.com/gop-plans-to-upend-biden-win-for-trump-rips-party-apart-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/gop-plans-to-upend-biden-win-for-trump-rips-party-apart-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-plans-to-upend-biden-win-for-trump-rips-party-apart-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "'I hope Mike Pence comes through for us': Trump puts vice president under pressure – video"
-    excerpt: "Trump puts vice president under pressure – video"
-    publishedDateTime: 2021-01-05T08:06:00Z
-    webUrl: "https://www.theguardian.com/global/video/2021/jan/05/i-hope-mike-pence-comes-through-for-us-trump-puts-vice-president-under-pressure-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/2a3f990fc29317b0ec66698d6e841818d3177eeb/0_26_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07b9f6266286d301aa4dd75c0c949c55"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
-    excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
-    publishedDateTime: 2021-01-02T00:35:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/congress-override-trump-first-time/2021/01/01/eaca9c96-4c51-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/congress-override-trump-first-time/2021/01/01/eaca9c96-4c51-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/congress-override-trump-first-time/2021/01/01/eaca9c96-4c51-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6OWCNCMMUI6XKPUBZTIXF3SXI.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
-  - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
-    excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
-    publishedDateTime: 2021-01-03T06:26:00Z
-    webUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Carl Bernstein says Trump's call asking a Georgia official to help him overturn Biden's win is 'worse than Watergate'"
-    excerpt: "The Washington Post published audio from the call where Trump asked Brad Raffensperger to \"find\" votes to overturn Biden's win."
-    publishedDateTime: 2021-01-04T10:55:00Z
-    webUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/carl-bernstein-trump-call-with-georgia-official-worse-than-watergate-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5ff2e2616056b60018721af0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump advisor Peter Navarro falsely claimed that Biden's inauguration could be delayed, contradicting the Constitution"
-    excerpt: "Navarro also said he would release a report containing so-called evidence that Democrats stole the 2020 election, titled \"The Art of the Steal.\""
-    publishedDateTime: 2021-01-03T02:52:00Z
-    webUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-falsely-claims-biden-inauguration-can-be-delayed-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5ff1a0e7a18a450018cb6898?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "U.S. hits Iran with fresh sanctions in final weeks of Trump presidency -Treasury website"
-    excerpt: "The United States imposed fresh Iran-related sanctions targeting the steel sector on Tuesday, according to the Treasury Department's website, continuing to increase pressure on Tehran in the final weeks of Donald Trump's presidency."
-    publishedDateTime: 2021-01-05T20:24:00Z
-    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN29A1R5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A1R5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A1R5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546682328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH040XM"
-        width: 810
-        height: 545
-        isCached: true
-  - title: "Trump pressured Georgia official on vote tally as allies seek to overturn results in Congress"
-    excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused Trump's demands."
-    publishedDateTime: 2021-01-03T20:20:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 114
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/102580c/2147483647/strip/true/crop/4159x2716+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F9d%2F7a97face49cf8ef215d0731921e6%2Fap20309660647036.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Secret Service to make changes to presidential detail to bring on agents who worked with Biden"
-    excerpt: "The Secret Service is making some staff changes in the presidential detail that will guard President-elect Joe Biden, amid concerns from Biden allies that some current members were politically aligned with President Trump,"
-    publishedDateTime: 2020-12-31T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/secret-service-to-make-changes-to-presidential-detail-to-bring-on-agents-who-worked-with-biden/2020/12/30/d6fb8fe8-49ce-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MOMNUCK6II6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Appeals court clears way for only woman on federal death row to be executed before Biden takes office"
-    excerpt: "A federal court has cleared the way for the only woman on federal death row to be executed before President-elect Joe Biden takes office."
-    publishedDateTime: 2021-01-02T21:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/02/lisa-montgomery-execution-appeals-court-clears-way-her-death/4114538001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4114538001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114538001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/17/PNAS/989839bb-17d1-4cf0-a2bf-79501cdbb429-Lisa_-_prison.jpg?auto=webp&crop=1175,661,x0,y600&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "GOP Congressman-elect Burgess Owens says 'there's no question' that Trump was reelected to a second term"
-    excerpt: "Utah Rep. Owens said challenges to President-elect Joe Biden's presidential victory on the House floor is \"the right thing to do.\""
-    publishedDateTime: 2021-01-02T17:43:00Z
-    webUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01"
-    ampWebUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5ff0a420a18a450018cb6856?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
-    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
-    publishedDateTime: 2021-01-01T20:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-overrides-donald-trumps-veto-defense-policy-bill-75006657"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 107
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
-    excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
-    publishedDateTime: 2020-12-31T11:16:00Z
-    webUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/census-bureau-to-miss-deadline-jeopardizing-trump-plan-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Congress overrides Trump defence spending bill veto"
-    excerpt: "US Congress overturns President Donald Trump's veto of a defence spending bill, for the first time in his presidency."
-    publishedDateTime: 2021-01-01T20:40:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55509883"
+  - title: "Joe Biden says 'no time to waste' as climate team unveiled"
+    excerpt: "US President-elect Joe Biden has introduced his climate and energy team, saying they will lead an \"ambitious plan\" to combat climate change. Mr Biden has vowed to make the issue a top priority in an agenda that reverses many Trump administration policies."
+    publishedDateTime: 2020-12-20T11:17:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55382209"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55382209"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55382209"
     type: article
     provider:
       name: BBC
       domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/42AC/production/_116186071_mediaitem116186070.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "President in the pews: DC churches offer Biden options"
+    excerpt: "Yet President-elect Joe Biden enters his church, St. Joseph on the Brandywine, with startlingly little interruption. Wearing a dark suit and medical mask, Biden slipped into a polished wooden pew near the back of the sanctuary for a recent Saturday evening Catholic Mass."
+    publishedDateTime: 2020-12-19T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-pews-dc-churches-offer-biden-options-74818520"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-pews-dc-churches-offer-biden-options-74818520"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-pews-dc-churches-offer-biden-options-74818520"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_378b1cfde4fd4b6fa394f7508ecbee96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "\"We're in a crisis\": Biden introduces climate policy team"
+    excerpt: "The vice president-elect formally announced his nominees for positions such as EPA administrator and Interior secretary."
+    publishedDateTime: 2020-12-19T21:28:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-climate-team-announcement-watch-live-stream-today-2020-12-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-climate-team-announcement-watch-live-stream-today-2020-12-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-climate-team-announcement-watch-live-stream-today-2020-12-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/18/5d619364-6dff-43fa-b823-22bdbf743c05/thumbnail/1200x630/1d70155ebd39283cb129d4044fdfa4d5/cbsn-fusion-former-white-house-official-discusses-president-elect-bidens-post-electoral-college-speech-cabinet-picks-thumbnail-612021-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden's team vows action against hack as US threats persist"
+    excerpt: "The chief of staff for President-elect Joe Biden says that once Biden is in office, he'll punish Russia for its suspected cyberespionage operation against the United States with financial sanctions an"
+    publishedDateTime: 2020-12-20T23:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-downplays-russia-comments-hacking-campaign-74826639"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mexican president expects no conflicts with Biden administration"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday his weekend call with U.S. President-elect Joe Biden was \"very friendly\" and that he expect relations to be positive with the new Democratic administration taking office in January."
+    publishedDateTime: 2020-12-21T14:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1UG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1UG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545311096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK126"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden's team vows action against hack as US threats persist"
+    excerpt: "The chief of staff for President-elect Joe Biden says that once Biden is in office, he'll punish Russia for its suspected cyberespionage operation against the United States with financial sanctions an"
+    publishedDateTime: 2020-12-22T00:34:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-downplays-russia-comments-hacking-campaign-74826640"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-downplays-russia-comments-hacking-campaign-74826640"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-downplays-russia-comments-hacking-campaign-74826640"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e2631e17a9481292d29b56b37c8f96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mexican president expects no conflicts with Biden administration"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday his weekend call with U.S. President-elect Joe Biden was \"very friendly\" and that he expect relations to be positive with the new Democratic administration taking office in January."
+    publishedDateTime: 2020-12-21T19:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-mexico/mexican-president-expects-no-conflicts-with-biden-administration-idUSKBN28V1UG?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V1UG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V1UG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545311096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK126"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Covid: US President-elect Joe Biden gets vaccine live on TV"
+    excerpt: "President-elect Joe Biden has received his first dose of the Pfizer Covid-19 vaccine, saying he was getting the jab to show Americans it is \"safe to take\". Mr Biden joins a growing number of political leaders getting the jab,"
+    publishedDateTime: 2020-12-25T07:47:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55401706?at_custom2=twitter&at_campaign=64&at_custom4=BC9012"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55401706"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55401706"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/115EE/production/_116205117_biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden taps Susan Rice as top domestic policy adviser amid flurry of moves"
+    excerpt: "U.S. President-elect Joe Biden chose Susan Rice, who was national security adviser to former President Barack Obama, on Thursday to lead the White House's domestic policy council as part of a flurry of appointments to his developing administration."
+    publishedDateTime: 2020-12-10T18:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/biden-taps-susan-rice-as-top-domestic-policy-adviser-amid-new-cabinet-picks-idUSKBN28K28J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K28J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K28J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544125363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91B5"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Progressives frustrated with representation as Biden Cabinet takes shape"
+    excerpt: "Some progressives are getting increasingly frustrated with the how President-elect Joe Biden’s potential Cabinet is shaping up, venting that the incoming administration does not properly reflect the r"
+    publishedDateTime: 2020-12-13T15:24:00Z
+    webUrl: "https://thehill.com/homenews/administration/529877-progressives-frustrated-with-representation-as-biden-cabinet-takes"
+    ampWebUrl: "https://thehill.com/homenews/administration/529877-progressives-frustrated-with-representation-as-biden-cabinet-takes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/529877-progressives-frustrated-with-representation-as-biden-cabinet-takes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/sandersbernie_ocasiocortezalexandria_121120gn_split_progressives.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Electoral college members meet to formally choose Biden as next president"
+    excerpt: "Presidential electors are meeting across the United States on Monday to formally choose Joe Biden as the nation’s next president."
+    publishedDateTime: 2020-12-14T09:20:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electoral-college-members-meet-formally-choose-biden-president"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-14/electoral-college-members-meet-formally-choose-biden-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-14/electoral-college-members-meet-formally-choose-biden-president?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/18bb0d1/2147483647/strip/true/crop/1000x653+0+344/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2F3d%2Ff8c811a0dd67c7fa20d65716c010%2Fdf7b33a49ae0421fb1d1525f6a62ff47"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden's Secretary of State nominee makes first visit to State Department"
+    excerpt: "President-elect Joe Biden's nominee for Secretary of State, Antony Blinken, visited the State Department for the first time on Thursday, taking part in his first meetings and briefings at the building since the election."
+    publishedDateTime: 2020-12-17T19:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-blinken-idUSKBN28R30B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R30B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R30B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544944128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1RK"
+        width: 800
+        height: 545
+        isCached: true
+  - title: "President-elect Joe Biden to receive first dose of Pfizer vaccine Monday"
+    excerpt: "Biden’s incoming White House press secretary told reporters Friday the president-elect and the incoming first lady will be vaccinated in Delaware. The announcement Friday came after Vice President Pence was given the shot during a televised appearance along with second lady Karen Pence and Surgeon General Jerome Adams."
+    publishedDateTime: 2020-12-18T22:22:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530918-president-elect-joe-biden-to-receive-first-dose"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530918-president-elect-joe-biden-to-receive-first-dose?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/530918-president-elect-joe-biden-to-receive-first-dose?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_bidenpicks_112320getty_0.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Attorney General Barr: No reason to name special counsels to investigate Hunter Biden or election fraud"
+    excerpt: "Attorney General William Barr distanced himself from President Donald Trump by saying he saw no cause for appointing special counsels to investigate Joe Biden's son Hunter."
+    publishedDateTime: 2020-12-21T20:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Justice department plans to execute five inmates before Biden's inauguration"
+    excerpt: "Brandon Bernard, who was convicted at 18, to die on Thursday in Trump administration decision that breaks with precedent"
+    publishedDateTime: 2020-12-10T16:07:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/10/trump-administration-justice-department-federal-executions"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/10/trump-administration-justice-department-federal-executions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/10/trump-administration-justice-department-federal-executions"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/b8a35976a36e4f47b3fc387ecd45d3aaa9cecf3a/0_107_4654_2793/master/4654.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=951e29e03391afce35c4690f7586774a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Politics live updates: COVID relief bill vote tonight, Biden gets vaccine today"
+    excerpt: "Lawmakers struck a nearly $900 billion COVID-19 stimulus deal Sunday that includes another round of stimulus checks and badly needed jobless benefits for struggling Americans, ending a long standoff in Washington with one of the biggest rescue bills in U."
+    publishedDateTime: 2020-12-21T13:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/politics-live-updates-covid-relief-bill-vote-biden-gets-vaccine/3988877001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3988877001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3988877001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/e4c9919c-85aa-4fdf-858d-189372b5ebc3-AP20339765776790.jpg?auto=webp&crop=3581,2014,x0,y154&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden heads to Georgia to support Democrats in crucial Senate runoffs – live"
+    excerpt: "Biden will be in Georgia to campaign for two Democratic US Senate candidates whose runoff elections could make or break his policy agenda"
+    publishedDateTime: 2020-12-15T14:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fd8c5c08f08b0a99da96c01"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/15/us-election-electoral-college-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/cebbf418b5cbd4752c7f9a43c4d20d410e22d20d/0_31_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f6021407f574536f7ea0695c55f5872"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Hunter Biden inquiry now weighs on president-elect's looming attorney general nomination"
+    excerpt: "The investigation into Hunter Biden's taxes represents first test of Joe Biden's pledge to guard the Justice Department from White House influence."
+    publishedDateTime: 2020-12-10T19:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/hunter-biden-tax-investigation-weighs-joe-biden-attorney-general-pick/3878150001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3878150001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3878150001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/03/USAT/2ae97134-1746-46ac-9866-3308dae0288b-008_EPA_-FILE-_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.2.JPG?auto=webp&crop=3499,1968,x1,y14&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Electoral College: Presidential electors meet to formally choose Joe Biden as next president"
+    excerpt: "The electors' votes have drawn more attention than usual this year because President Donald Trump has refused to concede the election and continued to make baseless allegations of fraud."
+    publishedDateTime: 2020-12-14T13:23:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-electoral-college-meets-votes-20201214-ulwfiyghq5aujlg2b5yb6ok4s4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-electoral-college-meets-votes-20201214-ulwfiyghq5aujlg2b5yb6ok4s4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-electoral-college-meets-votes-20201214-ulwfiyghq5aujlg2b5yb6ok4s4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Gs0oY4xyEHWt8FotOvdtOyY71Ic=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2K2K726RBCE5PSUOFMZVMRVOJY.aspx"
+        width: 1200
+        height: 713
+        isCached: true
+  - title: "Biden slams GOP senators who \"did nothing\" as Trump tried to nullify Georgia votes"
+    excerpt: "President-elect Joe Biden returned to the campaign trail in Atlanta on Tuesday to speak at a rally on behalf of Democratic Senate candidates Jon Ossoff and Raphael Warnock. The outcome of Georgia's Senate runoff elections will determine which party controls the chamber during Mr."
+    publishedDateTime: 2020-12-16T00:41:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-slams-gop-senators-perdue-loeffler-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/15/7a8cf98f-f3fe-4ccd-a834-b83b47c98bee/thumbnail/1200x630/bd17bc3aadac374a91fe7490e16d3d86/cbsn-fusion-president-elect-biden-slams-gop-senators-who-did-nothing-during-attempts-to-nullify-georgia-votes-thumbnail-610155-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fact check: Claim of Georgia vote spike for Biden after pipe burst at counting site is false"
+    excerpt: "A pipe break in Georgia and a counting stop seen on surveillance video happened on two different occasions and are not related in any way."
+    publishedDateTime: 2020-12-16T17:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/16/fact-check-claim-ga-vote-spike-biden-after-pipe-burst-false/3879081001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3879081001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3879081001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/9756d6b6-5a16-426f-a633-3f5746980893-AP_Election_2020_Georgia_Vote_Counting.jpg?auto=webp&crop=1023,575,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory"
+    excerpt: "WASHINGTON — President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory. Copyright 2020 The. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-12-14T22:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-elect-joe-biden-clears-270-vote-threshold-in-electoral-college-count-formalizing-his-victory/2020/12/14/12bd77ae-3e5c-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Second recount confirms Biden won Georgia"
+    excerpt: "Watch \"Second recount confirms Joe Biden won Georgia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-03T18:42:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201203182028-second-recount-confirms-joe-biden-won-georgia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p092w75k.jpg"
-        width: 400
-        height: 225
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962329_1607020084.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Congress overrides Trump veto of defense bill"
-    excerpt: "Congress has overridden President Donald Trump's veto of a defense policy bill, a first by lawmakers since he took office nearly four years ago. (Jan. 1)"
-    publishedDateTime: 2021-01-01T22:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/01/congress-overrides-trump-veto-defense-bill/4109576001/"
+  - title: "Biden eyes Obama administration veterans for White House Cabinet"
+    excerpt: "President-elect Joe Biden is turning to three more Obama White House veterans to serve in his administration. If Mr. Biden's 14 Cabinet picks thus far are confirmed, they would represent the most diverse collection of men and women to ever advise the president."
+    publishedDateTime: 2020-12-12T14:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-eyes-obama-administration-veterans-for-white-house-cabinet/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/575b9bef-a8a2-4c40-abfc-ba1ab686b3c1/thumbnail/1200x630/57a1bf83906f0207a66f1f216cde191f/cbsn-fusion-biden-eyes-obama-administration-veterans-for-white-house-cabinet-thumbnail-607512-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden: US needs presidential leadership on virus"
+    excerpt: "President-elect Joe Biden says that the American public should have confidence in a coronavirus vaccine that may soon begin to become available. Biden said combating the pandemic is \"serious business\" that requires \"presidential leadership."
+    publishedDateTime: 2020-12-11T23:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/biden-us-needs-presidential-leadership-virus/6514314002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/8de7293b-663a-4341-93ba-d150da6c5035-0747ad3b-8dc5-44b0-bf26-86dd84701db2_thumbnail.png?quality=10"
-        width: 852
-        height: 480
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2048cb74-f8c1-4830-9fa9-efdd790a344c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Senate overrides Trump's veto on defense bill"
-    excerpt: "Top News Senate overrides Trump's veto on defense bill. Posted . President Donald Trump's fellow Republicans in the U.S. Senate on Friday overrode his veto for the first time in h"
-    publishedDateTime: 2021-01-02T11:21:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVDTDODSV"
+  - title: "Atlanta Mayor Declines Role in Incoming Biden Administration"
+    excerpt: "Atlanta Mayor Keisha Lance Bottoms turned down a position in President-elect Joe Biden’s cabinet, her spokesman said, amid speculation about what role she might play in the new administration."
+    publishedDateTime: 2020-12-13T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/atlanta-mayor-declines-role-in-incoming-biden-administration/2020/12/12/30b78404-3cd4-11eb-aad9-8959227280c4_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DRBU4GB42QI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Supreme Court rejects Republican attack on Biden victory"
+    excerpt: "The Supreme Court has rejected a lawsuit backed by President Donald Trump to overturn Joe Biden’s election victory, ending a desperate attempt to get legal issues rejected by state and federal judges before the nation’s highest court and subvert the will of voters."
+    publishedDateTime: 2020-12-13T04:39:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-republican-attack-on-biden-victory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Electoral College Prepares To Ratify Joe Biden's Presidential Win"
+    excerpt: "On this day when Joe Biden's presidential win is expected to be ratified, NPR's Rachel Martin talks to conservative writer Jonah Goldberg about why the Electoral College is important."
+    publishedDateTime: 2020-12-14T08:31:00Z
+    webUrl: "https://www.npr.org/2020/12/14/946189554/electoral-college-prepares-to-ratify-joe-bidens-presidential-win"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "'Democracy prevailed': Biden aims to unify divided nation"
+    excerpt: "WILMINGTON, Del. (AP) — President-elect Joe Biden pointedly criticized President Donald Trump on Monday for threatening core principles of democracy even as he told Americans that their form of self-government ultimately “prevailed."
+    publishedDateTime: 2020-12-15T11:54:00Z
+    webUrl: "https://www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democracy-prevailed-biden-aims-to-unify-divided-nation-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Nevada electors cast ballots for Biden as president"
+    excerpt: "Members of the electoral college from the state of Nevada convened on Dec. 14 to formally vote for Joe Biden as the next president of the United States."
+    publishedDateTime: 2020-12-14T19:20:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/nevada-electors-cast-ballots-for-biden-as-president/2020/12/14/b0b69daa-3288-4abf-aa03-831ed6abb888_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-14-2020/t_406d76e8f0cb4466bb284ef78086866c_name_nevada_electors.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "Pennsylvania casts 20 electoral votes for Joe Biden"
+    excerpt: "Pennsylvania on Monday cast its 20 electoral votes for Democrat Joe Biden, the native son whose win in the state last month cemented his victory over President"
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://apnews.com/e1d2afadefa36cf2c82046be779463d1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/540f25d139ae4adaab857ee1f42b3817/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Virginia cast 13 Electoral College votes for Joe Biden"
+    excerpt: "Virginia cast its 13 Electoral College votes for President-elect Joe Biden on Monday. The 13 electors gathered at the state House of Delegates for a ceremony that"
+    publishedDateTime: 2020-12-14T20:45:00Z
+    webUrl: "https://apnews.com/a8b1715cfeae0b4395ada82bb9afcc29"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Biden hits Georgia campaign trail ahead of runoffs"
+    excerpt: "Politics Biden hits Georgia campaign trail ahead of runoffs. Posted [NFA] Hours after speaking with Republican Senator Mitch McConnell and vowing to try to work together, Presiden"
+    publishedDateTime: 2020-12-16T00:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD94IM73"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210101&i=OVDTDODSV&r=OVDTDODSV&t=2"
+      - url: "https://static.reuters.com/resources/r/?d=20201216&i=OVD94IM73&r=OVD94IM73&t=2"
         width: 960
         height: 540
         isCached: true
-  - title: "Congress opening new session as virus, Biden's win dominate"
-    excerpt: "Congress is preparing to convene for a new session with lawmakers sworn into office during a tumultuous period"
-    publishedDateTime: 2021-01-03T21:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-opens-session-covid-19-bidens-win-dominate-75020965"
+  - title: "Biden: Lives depend on Georgia Senate race outcome"
+    excerpt: "President-elect Joe Biden campaigned in Atlanta Tuesday, thanking Georgians for delivering him the state in last month's election and urging them to vote in the runoffs January 5th for two Senate seats,"
+    publishedDateTime: 2020-12-15T23:27:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/biden-lives-depend-georgia-senate-race-outcome/3914297001/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1bd6e367e4884507967e7d137c5e154c_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/76eb0933-81b0-4879-9bf5-c9cb7f8afd5d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "In farewell, DeVos urges Congress to reject Biden's policies"
-    excerpt: "In a farewell letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject President-elect Joe Biden's education agenda, while imploring them to shield Trump administration policies that Biden has promised to eliminate."
-    publishedDateTime: 2021-01-05T06:31:00Z
-    webUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-farewell-devos-urges-congress-to-reject-bidens-policies-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
-    excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
-    publishedDateTime: 2021-01-05T18:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-pressures-pence-to-violate-the-constitution-and-overturn-the-election-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-pressures-pence-to-violate-the-constitution-and-overturn-the-election-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pressures-pence-to-violate-the-constitution-and-overturn-the-election-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5ff494f83793140019e28654?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Inside the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
-    excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
-    publishedDateTime: 2021-01-05T00:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-troll-biden-twitter-white-house-democrats-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5ff1e02aa18a450018cb68b3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
-    excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
-    publishedDateTime: 2021-01-05T04:58:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-election-petition/it-is-time-new-york-law-firm-leaders-urge-congress-to-certify-biden-win-idUSL1N2JF2LY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JF2LY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF2LY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-  - title: "In Georgia Senate runoff, most GOP voters say Biden stole election from Trump"
-    excerpt: "The poll of voters measured how deeply President Donald Trump’s false claims of fraud and misconduct have resonated with Republicans in the state."
-    publishedDateTime: 2021-01-06T02:20:00Z
-    webUrl: "https://www.al.com/news/2021/01/in-georgia-senate-runoff-most-gop-voters-say-biden-stole-election-from-trump.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/in-georgia-senate-runoff-most-gop-voters-say-biden-stole-election-from-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/in-georgia-senate-runoff-most-gop-voters-say-biden-stole-election-from-trump.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 102
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N7P2TTXLGNBSPNBETRTAED2P5A.jpg"
-        width: 2722
-        height: 1810
-        isCached: true
-  - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
-    excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
-    publishedDateTime: 2020-12-29T21:26:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-response-plan-vaccine-distribution/"
+  - title: "Biden makes plea to Georgia voters"
+    excerpt: "Watch \"Joe Biden makes plea to Georgia voters in the Senate runoff races in the state as Republicans acknowledge the president-elect's victory\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-16T02:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201216111358-joe-biden-makes-plea-to-georgia-voters-in-the-senate-runoff-races-in-the-state-as-republicans-acknowledge-the-president-elects-victory/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 100
+    quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/c0ee9fa5-cfc9-486e-97d6-fb0f7d792ca7/thumbnail/1200x630/3a6397e7cee8d7040b8a6e789e15cbe6/cbsn-fusion-joe-biden-covid-19-response-plan-vaccine-distribution-thumbnail-617751-640x360.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/16/story_08137778_1608117484.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Electoral College votes to elect Joe Biden"
+    excerpt: "Watch \"Electoral College votes to elect Joe Biden; president-elect thanks supporters during speech\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-16T12:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201215123920-electoral-college-votes-to-elect-joe-biden-president-elect-thanks-supporters-during-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/15/story_08122500_1608036183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Stay away: Thumbs down on inauguration crowds for Biden"
+    excerpt: "Stay away."
+    publishedDateTime: 2020-12-17T12:49:00Z
+    webUrl: "https://www.businessinsider.com/stay-away-thumbs-down-on-inauguration-crowds-for-biden-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/stay-away-thumbs-down-on-inauguration-crowds-for-biden-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stay-away-thumbs-down-on-inauguration-crowds-for-biden-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Former White House official on Biden's Cabinet picks"
+    excerpt: "President-elect Joe Biden has pledged to unify a divided nation after the electoral college confirmed his election victory. Meantime, Biden's future cabinet is starting to take shape. So far he's announced more than a dozen nominees for key positions."
+    publishedDateTime: 2020-12-18T03:52:00Z
+    webUrl: "https://www.cbsnews.com/video/former-white-house-official-joe-grogan-on-biden-cabinet-picks-analysis/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/18/5d619364-6dff-43fa-b823-22bdbf743c05/thumbnail/1200x630/1d70155ebd39283cb129d4044fdfa4d5/cbsn-fusion-former-white-house-official-discusses-president-elect-bidens-post-electoral-college-speech-cabinet-picks-thumbnail-612021-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
-    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
-    publishedDateTime: 2021-01-04T18:16:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
-    images:
-      - url: "https://www.chicagotribune.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
-    excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
-    publishedDateTime: 2021-01-04T08:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-defense-idINKBN2990BC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990BC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990BC"
+  - title: "L.A. mayor says turned down job in Biden administration"
+    excerpt: "Los Angeles Mayor Eric Garcetti said on Thursday that he turned down an offer to work in the administration of President-elect Joe Biden because of the coronavirus pandemic."
+    publishedDateTime: 2020-12-18T06:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-garcetti-idUSL1N2IY04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IY04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IY04A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 96
-  - title: "More GOP lawmakers enlist in Trump effort to overturn Biden win"
-    excerpt: "The senators largely acknowledged Saturday they will not succeed in preventing Joe Biden from being inaugurated on Jan. 20."
-    publishedDateTime: 2021-01-02T23:41:00Z
-    webUrl: "https://www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/more-gop-lawmakers-enlist-in-trump-effort-to-overturn-biden-win.html?outputType=amp"
+    quality: 105
+  - title: "Mike Pence rallies in Georgia for Senate runoff"
+    excerpt: "Vice President Mike Pence is seemingly holding rallies everywhere in Georgia lately — except Atlanta and its inner suburbs. Pence returned Thursday for events in Columbus and Macon to support Republican Sens."
+    publishedDateTime: 2020-12-17T19:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/17/mike-pence-rallies-georgia-senate-runoff/3945003001/"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 90
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHXCRYK3WRCPJLWDMJHFKZZ5DY.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2e1d175c-c4ea-45c6-ab01-1e5a997abea4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump Official Makes False Claim That Joe Biden's Inauguration Can Be Postponed"
-    excerpt: "White House trade advisor Peter Navarro has claimed that Vice President Mike Pence can change the date of Inauguration Day."
-    publishedDateTime: 2021-01-03T19:27:00Z
-    webUrl: "https://www.ibtimes.com/trump-official-makes-false-claim-joe-bidens-inauguration-can-be-postponed-3113606"
-    ampWebUrl: "https://www.ibtimes.com/trump-official-makes-false-claim-joe-bidens-inauguration-can-be-postponed-3113606?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-official-makes-false-claim-joe-bidens-inauguration-can-be-postponed-3113606?amp=1"
+  - title: "Biden rolled out his climate and environment team"
+    excerpt: "President-elect Joe Biden on Saturday rolled out an environmental team that he hopes will steer America toward greater action to curb climate change and protect the nation's air and water. (Dec. 19)"
+    publishedDateTime: 2020-12-19T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/19/biden-rolled-out-his-climate-and-environment-team/3977388001/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/12/white-house-trade-advisor-peter-navarro-pictured-in.jpg"
-        width: 1024
-        height: 680
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2746ba1f-83ab-4c28-aa87-193c625e95a8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Biden urges Georgians to ‘lead us forward’ as Trump keeps up election fight on eve of pivotal Senate runoffs"
-    excerpt: "Tuesday’s double-barreled runoffs in the Peach State will determine which party controls the Senate for the next two years, and Biden said the Democratic challengers in the race will allow him to implement his presidential agenda if elected."
-    publishedDateTime: 2021-01-05T00:52:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/ny-biden-trump-georgia-runoffs-20210105-jpvc6tnbh5dorlkapvnzbtln7i-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/ny-biden-trump-georgia-runoffs-20210105-jpvc6tnbh5dorlkapvnzbtln7i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/ny-biden-trump-georgia-runoffs-20210105-jpvc6tnbh5dorlkapvnzbtln7i-story.html?outputType=amp"
+  - title: "In confronting climate change, Biden won’t have a day to waste"
+    excerpt: "In recent days Joe Biden has shown he is prepared to deliver on his promise to pursue a more ambitious environmental agenda than any of his predecessors — one that aspires to rapidly shrink the nation’s carbon emissions,"
+    publishedDateTime: 2020-12-22T13:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/22/biden-climate-change/?arc404=true"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 86
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://www.nydailynews.com/resizer/DZpxkQVrQMiK0ZuTlrPZbsGTrtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3RQWOBI2KPYB5TQ7JEHW7OMZZU.aspx"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/resizer/s51tottGf5UTxN4eqK2QppiS5Ds=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJS6HQCAVYI6XNMLCYR7MJTZMA.jpg"
+        width: 1484
+        height: 989
         isCached: true
-  - title: "Trump To Speak At Wednesday's 'Save America' Rally Protesting Election Results"
-    excerpt: "Thousands of MAGA supporters are expected to attend the rally in a last-ditch attempt to keep the lame duck president in the White House."
-    publishedDateTime: 2021-01-05T03:05:00Z
-    webUrl: "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450"
-    ampWebUrl: "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1"
+  - title: "Joe Biden speaks at rally for Georgia Senate runoffs"
+    excerpt: "\"Georgia, the whole nation is looking to you,\" President-elect Joe Biden said at a rally for Democratic Senate candidates Jon Ossoff and Raphael Warnock the day before the state's runoff elections will determine which party controls the Senate."
+    publishedDateTime: 2021-01-04T22:33:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-speaks-rally-democrats-jon-ossoff-raphael-warnock-georgia-senate-runoffs/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
-        width: 1024
-        height: 688
-        isCached: true
-  - title: "Vice President Mike Pence torn between President Donald Trump and Constitution"
-    excerpt: "Now Vice President Mike Pence finds himself in the most precarious position of his tenure as he prepares to preside over Wednesday’s congressional tally of Electoral College votes, the last front in Trump’s futile attempts to overturn President-elect ..."
-    publishedDateTime: 2021-01-05T18:56:00Z
-    webUrl: "https://www.masslive.com/politics/2021/01/vice-president-mike-pence-torn-between-president-donald-trump-and-constitution.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/01/vice-president-mike-pence-torn-between-president-donald-trump-and-constitution.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/01/vice-president-mike-pence-torn-between-president-donald-trump-and-constitution.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AZXB3XUPW5ERXL4BY5FIKFTLNY.jpg"
-        width: 4657
-        height: 3105
-        isCached: true
-  - title: "The ways Donald Trump and Republicans have tried to overturn Joe Biden's 2020 win"
-    excerpt: "Rep. Louie Gohmert's lawsuit is the latest in a series of attempts by Trump's allies to overturn the results of the 2020 general election."
-    publishedDateTime: 2020-12-29T12:27:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/29/how-trump-and-republicans-have-tried-overturn-2020-election/4064558001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4064558001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4064558001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 85
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump says he'll 'fight like hell' to hold on to presidency after loss to Joe Biden"
-    excerpt: "With mounting desperation, Donald Trump declared he would “fight like hell” to hold on to the presidency and appealed to Republican lawmakers to reverse his election loss to Joe Biden when they convene this week to confirm the Electoral College vote."
-    publishedDateTime: 2021-01-05T14:49:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_a3e890d6-4f61-11eb-b7d9-837d0d058f19.html"
-    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_a3e890d6-4f61-11eb-b7d9-837d0d058f19.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_a3e890d6-4f61-11eb-b7d9-837d0d058f19.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 84
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/c6/5c64d74e-4f64-11eb-a7fa-27e8c0fa72e2/5ff47b3fb0506.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Twitter Reacts To Report Trump Hotel Is Trying To Cash In On Joe Biden's Inauguration: 'That's Expected'"
-    excerpt: "Twitter users have mixed reactions to reports that one of President Donald Trump's hotels was trying to profit from guests looking for a room on or near Jan. 20, the date of Joe Biden's inauguration."
-    publishedDateTime: 2021-01-03T10:41:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-report-trump-hotel-trying-cash-joe-bidens-inauguration-thats-expected-3113405"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-report-trump-hotel-trying-cash-joe-bidens-inauguration-thats-expected-3113405?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-report-trump-hotel-trying-cash-joe-bidens-inauguration-thats-expected-3113405?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 83
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/electoral-college-votes-won-by-joe-biden-and.jpg"
-        width: 493
-        height: 768
-        isCached: true
-  - title: "Trump and Biden head to Georgia for dueling rallies on eve of pivotal Senate runoffs"
-    excerpt: "The dramatic clash comes just a day after reports surfaced of Trump’s new effort to pressure election officials to overturn his defeat in the presidential vote."
-    publishedDateTime: 2021-01-04T14:16:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-run-off-biden-trump-20210104-iplsc4uxmndppiuomxz2petjmq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 83
-    images:
-      - url: "https://www.nydailynews.com/resizer/zGp9-DqHnTtapD4TEFOai1grPis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZJN2Q5IPVEMDMOGTVOWNQZCJ4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Congress Is Set to Confirm Joe Biden's Win Over Trump Despite GOP Pushback. Here's What to Know"
-    excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden’s win over Trump."
-    publishedDateTime: 2021-01-05T20:27:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 78
-    images:
-      - url: "https://media.nbcnewyork.com/2021/01/106789979-16050180472020-11-10t140746z_1683144574_rc2e0k96i6do_rtrmadp_0_usa-court-obamacare.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
-    excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-    publishedDateTime: 2021-01-03T19:54:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-phone-call-georgia-secretary-of-state-20210103-p776qpxuynbvremhch62grwgdq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 74
-    images:
-      - url: "https://www.baltimoresun.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ted Cruz, 10 others to object to certifying Joe Biden's presidential victory"
-    excerpt: "U.S. Sen. Ted Cruz and other Republicans are seeking to block President-elect Joe Biden from being confirmed as the winner of November's election."
-    publishedDateTime: 2021-01-02T19:42:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2021/01/02/ted-cruz-oppose-certification-joe-biden-president-elect/4113134001/"
-    ampWebUrl: "https://amp.statesman.com/amp/4113134001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4113134001"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/6756f0576e26b57a13add179d066d19941b8e701/c=0-84-1600-984/local/-/media/2020/11/10/Austin/ghows-TX-201109504-78281058.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
-    excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."
-    publishedDateTime: 2021-01-01T20:13:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/in-rare-jan-1-session-congress-overrides-donald-trumps-veto-of-defense-bill.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 71
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WMESNELVLJCGBIYTR4ZUTLLMWM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How Georgia Senate runoffs could close door on Trump era — or cripple Joe Biden’s presidency before it starts"
-    excerpt: "With the U.S. set to inaugurate a new president in just two weeks, the Georgia Senate runoffs have become the second most important election in recent history — with nothing less than control of the entire U."
-    publishedDateTime: 2021-01-04T04:00:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-runoff-trump-biden-20210104-eu63rtpxejcrrfrw4rqoyppl2q-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-runoff-trump-biden-20210104-eu63rtpxejcrrfrw4rqoyppl2q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-georgia-senate-runoff-trump-biden-20210104-eu63rtpxejcrrfrw4rqoyppl2q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 71
-    images:
-      - url: "https://www.nydailynews.com/resizer/FyNJXGzYNFQkR-P-ud24j2R52Nc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T6BPAPOYRCBKEUJBBPNY4CSE2U.aspx"
-        width: 1200
-        height: 724
-        isCached: true
-  - title: "Biden Says Trump Vaccine Plan Falling 'Far Behind'"
-    excerpt: "US President-elect Joe Biden on Tuesday vowed a relentless effort to fight Covid-19 the moment he takes office, as he warned that Donald Trump's vaccination drive was falling dangerously short. Speaking after a briefing by experts,"
-    publishedDateTime: 2020-12-29T21:28:00Z
-    webUrl: "https://www.ibtimes.com/biden-says-trump-vaccine-plan-falling-far-behind-3111410"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/us-president-elect-joe-biden-wears-a-mask.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "GOP Torn Over Trump's Electoral College Challenge of Biden"
-    excerpt: "President Donald Trump’s extraordinary election challenge over his defeat by President-elect Joe Biden is splitting the Republican Party."
-    publishedDateTime: 2021-01-03T10:41:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-01/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "More GOP Lawmakers Enlist in Trump Effort to Undo Biden Win"
-    excerpt: "A growing number of Republican lawmakers have joined President Donald Trump’s extraordinary effort to overturn the election, pledging to reject the results when Congress meets next week to count the Electoral College votes and certify President-elect Joe Biden’s win."
-    publishedDateTime: 2021-01-04T02:27:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-02/gop-torn-over-trumps-electoral-college-challenge-of-biden?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Trump, Biden Campaign In Georgia For Crucial Senate Races"
-    excerpt: "President Donald Trump, still seeking ways to reverse his election defeat, and President-elect Joe Biden converge on Georgia on Monday for dueling rallies on the eve of runoff votes that will decide control of the US Senate."
-    publishedDateTime: 2021-01-04T17:04:00Z
-    webUrl: "https://www.ibtimes.com/trump-biden-campaign-georgia-crucial-senate-races-3114261"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/us-president-donald-trump-is-to-campaign-in.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Trump, Biden Campaigning In Georgia For Crucial Senate Races"
-    excerpt: "President-elect Joe Biden and President Donald Trump, still scheming to reverse his election defeat and lashing out at Republicans who have refused to endorse his efforts, converge on Georgia on Monday for dueling rallies on the eve of runoff votes that will decide control of the US Senate."
-    publishedDateTime: 2021-01-04T19:57:00Z
-    webUrl: "https://www.ibtimes.com/trump-biden-campaigning-georgia-crucial-senate-races-3114261"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/us-president-donald-trump-is-to-campaign-in.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Melania Trump Will Divorce Donald Before Summer And Date Business Figure, Psychics Predict"
-    excerpt: "Melania Trump will divorce her husband Donald Trump and date a prominent business figure, according to a panel of psychics."
-    publishedDateTime: 2021-01-06T01:00:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "President Donald Trump, in call with Georgia secretary of state, makes another failed attempt to overturn loss to Joe Biden"
-    excerpt: "Republicans seeking to disenfranchise millions of voters and overturn the election. But now, Trump wants more votes to be counted. Or, at least, he wants the Georgia count “recalculated.” During an hour-long call obtained by The Washington Post,"
-    publishedDateTime: 2021-01-03T20:58:00Z
-    webUrl: "https://www.masslive.com/politics/2021/01/president-donald-trump-in-call-with-georgia-secretary-of-state-makes-another-failed-attempt-to-overturn-loss-to-joe-biden.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/01/president-donald-trump-in-call-with-georgia-secretary-of-state-makes-another-failed-attempt-to-overturn-loss-to-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/01/president-donald-trump-in-call-with-georgia-secretary-of-state-makes-another-failed-attempt-to-overturn-loss-to-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 64
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WMESNELVLJCGBIYTR4ZUTLLMWM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "US Congress Slaps Trump By Overriding Veto Of Defense Bill"
-    excerpt: "The US Congress on Friday dealt Donald Trump a humiliating blow in his last days in office with the Senate voting overwhelmingly to override his veto of a sweeping defense bill -- the first time lawmakers have done so during his presidency."
-    publishedDateTime: 2021-01-01T20:02:00Z
-    webUrl: "https://www.ibtimes.com/us-congress-slaps-trump-overriding-veto-defense-bill-3113099"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/01/the-senate-vote-on-the-defense-bill-marked.jpg"
-        width: 1024
-        height: 656
-        isCached: true
-  - title: "Alert: Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency"
-    excerpt: "Congress overrides Donald Trump's veto of a defense policy bill in the first such rebuke of his presidency."
-    publishedDateTime: 2021-01-01T13:36:00Z
-    webUrl: "https://www.chron.com/news/article/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Congress-overrides-Donald-Trump-s-veto-of-15840331.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
-    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
-    publishedDateTime: 2021-01-02T23:43:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 50
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/04/5aad5faf-8437-4bc4-bb93-9a6b81456fc8/thumbnail/1200x630/f249c989dc7dcd9f2a754c2c686f7d73/cbsn-fusion-joe-biden-speaks-rally-democrats-jon-ossoff-raphael-warnock-georgia-senate-runoffs-thumbnail-620019-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Electoral College to formally vote for Joe Biden to become next president"
+    excerpt: "As Electoral College members meet in each state to cast their ballots, formally affirming Joe Biden as the next president of the United States, President Trump is vowing to continue fighting the election results."
+    publishedDateTime: 2020-12-14T14:54:00Z
+    webUrl: "https://www.cbsnews.com/video/electoral-college-to-formally-vote-for-joe-biden-to-become-next-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/14/613442a6-44e2-4b05-872b-aaa855e0c641/thumbnail/1200x630/07ce2e797ff1b06b6cfe02d667bae322/cbsn-fusion-electoral-college-to-formally-vote-for-joe-biden-to-become-next-president-thumbnail-608937-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
+    excerpt: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
+    publishedDateTime: 2020-12-10T15:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-taps-former-obama-adviser-and-envoy-susan-rice-to-lead-white-house-domestic-policy-council/2020/12/10/7e8574d8-3afa-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-elect-joe-biden-taps-former-obama-adviser-and-envoy-susan-rice-to-lead-white-house-domestic-policy-council/2020/12/10/7e8574d8-3afa-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-elect-joe-biden-taps-former-obama-adviser-and-envoy-susan-rice-to-lead-white-house-domestic-policy-council/2020/12/10/7e8574d8-3afa-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Connecticut education Commissioner Miguel Cardona selected for U.S. education secretary by President-elect Joe Biden"
+    excerpt: "President-elect Joe Biden has chosen Connecticut Education Commissioner Miguel Cardona to serve as his education secretary, the Associated Press confirmed Tuesday."
+    publishedDateTime: 2020-12-23T00:21:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/hc-news-connecticut-biden-selects-cardona-20201222-wtgzszbkjnap7dj3ampob4j3z4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Jo-B1PnxSkoKpQxkUmqDsLiOrOA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3MGRC3YXYFD2HGNNPCKPFTSFGA.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Who is Miguel Cardona? The Connecticut education commissioner is President-elect Joe Biden’s pick for U.S. education secretary"
+    excerpt: "President-elect Joe Biden has selected Connecticut education Commissioner Miguel Cardona to be the next U.S. secretary of education, according to The Associated Press and multiple reports."
+    publishedDateTime: 2020-12-22T15:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/hc-pol-who-is-miguel-cardona-20201222-t3ok4evvobfhrgwyesjql67vny-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 97
+    images:
+      - url: "https://www.chicagotribune.com/resizer/4kWgjcdbgSC_uHmEu1u5QiXkQl0=/630x630/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FMQOPSDT2VG2LHHYPHNQBMNF2M.jpg"
+        width: 630
+        height: 630
+        isCached: true
+  - title: "Amid Georgia Senate race, Democrat Raphael Warnock slams opponent Sen. Kelly Loeffler for not acknowledging Joe Biden’s presidential win"
+    excerpt: "\"It's difficult to overstate how much is at stake here,\" Warnock said. The two runoff races in Georgia between Warnock and Republican Sen. Kelly Loeffler and Republican Sen. David Perdue and Democratic candidate Jon Ossoff have become a political centerfold as the future of the Senate rests on who will win in Georgia."
+    publishedDateTime: 2020-12-17T18:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/difficult-overstate-stake-warnock/story?id=74725230"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 92
+    images:
+      - url: "https://s.abcnews.com/images/Politics/raphael-warnock-view-abc-jef-201217_1608222297936_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mike Pence in Georgia again today | Everything to know"
+    excerpt: "Vice President Mike Pence will again visit Georgia today, a frequent stop of his as the Trump administration looks to continue supporting Sens. Kelly Loeffler and David Perdue in their re-election bid."
+    publishedDateTime: 2020-12-10T12:33:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/82da2ba8-be52-41c2-828a-4abe03641f27/82da2ba8-be52-41c2-828a-4abe03641f27_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Mike Pence rallies in Georgia again"
+    excerpt: "Vice President Mike Pence again visited Georgia today, a frequent stop of his as the Trump administration looks to continue supporting Sens. Kelly Loeffler and David Perdue in their re-election bid. The vice president attended a \"Defend the Majority\" rally in Augusta this afternoon."
+    publishedDateTime: 2020-12-11T22:13:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/82da2ba8-be52-41c2-828a-4abe03641f27/82da2ba8-be52-41c2-828a-4abe03641f27_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "4 Ways Joe Biden Could Boost Your Social Security Check"
+    excerpt: "If you receive Social Security benefits, you could be in for a raise after President-elect Joe Biden is sworn into office. With COVID-19 dominating headlines throughout the election, Biden's Social Security plan wasn't exactly a hot topic."
+    publishedDateTime: 2020-12-20T17:20:00Z
+    webUrl: "https://www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.html"
+    ampWebUrl: "https://www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/investment/personal-finance/4-ways-joe-biden-could-boost-your-social-security-check/article_75225e9f-dc83-5ab3-a8b0-b7b248de4323.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/01/e01386db-c88a-5b35-87eb-0d685cc9b61f/5fdf831779249.image.jpg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Vice President Mike Pence will visit Georgia for a third time this month"
+    excerpt: "One of the nation's top Republicans will be back in Georgia for a third time this month. Vice President Mike Pence's weekly December appearances have included stops to rally support for Georgia's Republican U."
+    publishedDateTime: 2020-12-12T02:37:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 74
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/ef695f65-dca2-48da-819f-fded464d7f91/ef695f65-dca2-48da-819f-fded464d7f91_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "US election: Mitch McConnell congratulates Joe Biden after electoral college vote"
+    excerpt: "Top Republican Mitch McConnell has acknowledge Joe Biden as US president-elect for the first time since the 3 November election. The Senate majority leader also congratulated Kamala Harris: \"Beyond our differences all Americans can take pride that our nation has a female vice-president-elect for the very first time."
+    publishedDateTime: 2020-12-15T16:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-55324387"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 65
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p091jsj5.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Vice President Mike Pence holds rally in August, Georgia"
+    excerpt: "The Vice President was back in Georgia again Thursday to drum up support for Sens. Kelly Loeffler and David Perdue ahead of a high-stakes January runoff."
+    publishedDateTime: 2020-12-10T21:29:00Z
+    webUrl: "https://www.11alive.com/video/news/politics/elections/vice-president-mike-pence-holds-rally-in-august-georgia/85-c15842c2-b278-4310-859d-bace95d87211"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 55
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/013872d5-ce10-4967-ba3e-9b3577082656/013872d5-ce10-4967-ba3e-9b3577082656_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Georgia Democratic Electors Cast 16 Votes for Joe Biden"
+    excerpt: "Georgia ’s 16 Electoral College votes have been cast for Democrat Joe Biden for president. The state’s Democratic electors, including former candidate for governor Stacey Abrams, met in the state Senate chamber on Monday."
+    publishedDateTime: 2020-12-14T18:04:00Z
+    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden"
+    ampWebUrl: "https://www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/georgia/articles/2020-12-14/georgia-democratic-electors-cast-16-votes-for-joe-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Colorado Democratic Electors Cast Nine Votes for Joe Biden"
+    excerpt: "Colorado’s nine Democratic presidential electors cast their votes for Joe Biden at the state Capitol on Monday. The vote formally seals Biden’s win in Colorado, where he beat President Donald Trump by about 14 percentage points,"
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington-dc/articles/2020-12-14/colorado-democratic-electors-cast-nine-votes-for-joe-biden"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "xtUbXuDZ+oGMY93KS+VfSZ4inxLhnffyPZsrPbv/B9Kiqef35ZoQKUVn00Zrrldu+yzmtqj7FovEPyn+9yfvnz8mZTnTiqNOUJdBFlRF9ufxcx3sFEvh6fWuoOD5W/FE5EaFAoDQeTzSsaBUE/iyzPIusmMa4FGGLb9KKO/R55PeAeD3O2ZsRCHnONsBuCE2oE/PD6R0Npzty2jJYD8GREZeUu0yDjHGUNdJMwAO0ECxogLvGQYd1t6nr9NMbpgIZZZKM9AkNkDxgwfhHPjlcRal+Jd2Wi+8lHKPxvamZZ7+964uRcun49QaffzufeQdbb5WRVrbulBms1Xstlbj4zwXcWLvnH6kFuhXw33vgCw=;229eFqCobPWtdEzSa9UfFg=="
 ---

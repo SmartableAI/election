@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "President Trump throws wrench into COVID-19 relief by saying he won't sign bill"
+    excerpt: "President Donald Trump is giving both Democrats and Republicans a headache on Tuesday after the shocking announcement on Twitter that he will not sign the COVID-19 relief bill negotiated in the Senate and House for months."
+    publishedDateTime: 2020-12-23T07:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-throws-wrench-covid-19-relief-sign/story?id=74871815"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-gty-jef-201209_1607554682850_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump expected to arrive on Dec. 23 for last presidential Christmas at Mar-a-Lago"
     excerpt: "Trump is expected to arrive in Palm Beach on Dec. 23 and return to Washington Jan. 3 for his last Christmas and New Years  at Mar-a-Lago as president"
     publishedDateTime: 2020-12-18T00:34:00Z
@@ -63,29 +79,22 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Trump's would-be neighbors say he can't live at Mar-a-Lago post-presidency"
-    excerpt: "The Post’s Carol D. Leonnig explains the difficulties President Trump will have if he claims Mar-a-Lago in Palm Beach, Fla., as his post-presidency residence."
-    publishedDateTime: 2020-12-18T18:51:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trumps-would-be-neighbors-say-he-cant-live-at-mar-a-lago-post-presidency/2020/12/18/266978a3-811d-44f0-a65a-1eb2cf4f69ee_video.html"
+  - title: "Officials finally found a case of a dead person voting, accusing a Republican of pretending to be his dead mom to vote for Trump"
+    excerpt: "Bruce Bartman pretended to be his dead mom to cast a ballot for President Donald Trump, who lost the state anyway, prosecutors said."
+    publishedDateTime: 2020-12-22T00:59:00Z
+    webUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-election-fraud-pennsylvania-charge-dead-mom-vote-trump-2020-12?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-18-2020/t_194d60baf64341449edc279aee47ae2e_name_07a44092_2a62_11e9_b2fc_721718903bfc_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://i.insider.com/5fe123edc910a400192e8de7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "South Carolina Electors Cast All 9 Votes for President Trump"
-    excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
-    publishedDateTime: 2020-12-14T16:54:00Z
-    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2020-12-14/south-carolina-electors-cast-all-9-votes-for-president-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "neBzQYck0R/JHSeRfbWx7LkCbJ2fsWiUlN/FFizFc5dbVG1UhMCnbrhM/0MzlIAGwKl2aJI/acvb+XK7bBAtWUjDmpJEqDk8gKvKJsXuz08FKqElvTkNsNl+T8ar2FNNNtoexvvC0S60xcW0tFNqxv4+huHHOrAA9rII52Xw7sr3bxbcpHDRdt3JBK+SYvGFPXPDRS2kM9xEzGY0F7RASn89dUO8kHmzk75Wb/cyrPtC+QaCKxXnasNkjTdBlM6WftzN4W3ydslgmSahqeLK6R34FY5wfBxo1aGDxFdSDufSHqjcniuzfMFxZgzZ7ttNNDWi5a3IB+pjzdMdks/zP53fDdDojda8C+qdbSXtycxXIW3oK+RgqeQ8VbTpUzf+4zqIAdVs5kwH0vpdCVbRLiN5HZ2UrClDHEoyvILumm00YzahxlecaJnP7ktwo0RIlNQz74eRGKtOZlR1+KDjJNt+E2SLuX4ubp3gRu4psh4iqcudD0SKzikk64B4yng7UWcf7KvpG/VXQO5LYEGJ6g==;digixy1obmWF/YNa4Bf2cw=="
 ---

@@ -47,38 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Iran pressures Biden with plan to increase underground enrichment machines"
-    excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
-    publishedDateTime: 2020-12-04T15:42:00Z
-    webUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E1VR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL"
-        width: 808
-        height: 545
-        isCached: true
-  - title: "Biden said he’ll work to advance transgender rights. Here are 4 things to know."
-    excerpt: "Transgender Day of Remembrance, President-elect Joe Biden said that “ transgender rights are human rights” and committed to advancing transgender rights as part of his administration’s platform. According to the UCLA Williams Institute,"
-    publishedDateTime: 2020-12-10T16:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZLNZJXJ5YI6TIZJON4PX6Q3MM.jpg&w=1440"
-        width: 1440
-        height: 897
-        isCached: true
   - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
     excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
     publishedDateTime: 2020-12-04T07:32:00Z

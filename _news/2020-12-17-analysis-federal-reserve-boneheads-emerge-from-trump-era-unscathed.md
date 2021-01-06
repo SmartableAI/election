@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Most federal employees to get the day off Dec. 24 under Trump executive order"
-    excerpt: "Trump follows a tradition of presidents excusing federal employees from work on the day before Christmas when the Christmas Day federal holiday falls on a Friday."
-    publishedDateTime: 2020-12-14T16:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSJT7RBTC4I6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "UCFE4mRawIU5Q6umMnfquN7olXvmY7b3PrXp7EsugLp+GVOsva9qWO+CIIXobt7RWpYoqEdUKeXZewQ45fTHKht8rYUSuuV/5pkfu5T8o0qIYQBHvWDmuI2SrCq4u9C1mbeTi3qJ2DVbXP5F1iFoBMnWYMOcyKEa3TzZhFGteoGWsc5ENFyH00scH4l+Dc6yfkb8QhLh8IypYWD92EWTmUrxk9xwTn0fsSdxbDu/WXHWzRMnjZTLKpsCjogWxwZs4rIPg6u53DYdFww/wWo2ep7GXVQrF6J1w3pBPJwh7x9ofCUqaRVXy29zt85q5WbAVSrVBrCGdBU8+64vqi7lHlB3Au0Wgno8IyWMqYAkius=;nCpwPsHPJ9VWN8vErRwERg=="
 ---

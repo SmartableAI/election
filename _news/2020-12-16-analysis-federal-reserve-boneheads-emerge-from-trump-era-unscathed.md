@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28Q1CZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Q1CZ"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_02c80f0ffd974b349dce990e511214f3_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Most federal employees to get the day off Dec. 24 under Trump executive order"
-    excerpt: "Trump follows a tradition of presidents excusing federal employees from work on the day before Christmas when the Christmas Day federal holiday falls on a Friday."
-    publishedDateTime: 2020-12-14T16:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-christmas-eve-federal/2020/12/14/1f01d1ec-3e28-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSJT7RBTC4I6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "8ioCiNQPOvTxosNHUxdQpz/jd+PPGNn9IVN8i5PPR6sS1oGkD9PjvDdSUBO5EWV33ECRo1TTm/3coDxv90wjx9awraBsxHFDZOrFX/x1G0xJSB6ib+ql2NAyDY3qp4Zk/noP+BZJFyf0g2Y+hRGQG9QPK3PY9fAuf0UfaT40M32kGUT4B92jM0D2/Ojesr1dMxVmbxIW5AN8nRMfZGjSJnsGFQIUGAQEDaEeaOucPRaGpJTmG9GZO8QEfg8VCY6rIdUCFXubabCZD76lTOoeW24o7oBqrop/+r4n/iIbnGSEUInotfgjKbDwimEWH4NSxbxQHlZNFOAu7uNpHormzZZOuRgZyBJBcWXRO4XDjf4YFOL9m5AY6ggZWkQ1RkFGiynKlDV/THOx/WPEeA+fleiwkpqRar3yM9Ti3eAEmtjcC7bAsW0TokgBerU9JUU2ROshJVs37sUYuPE5c+XIj9q5AOdYElPJh4gSQRJUStrwWZBPCL6IIIlqiU/YNCCoUCLfJiubxu+eZy4bDci16w==;+shWaytzWgZePnyhAIyvfA=="

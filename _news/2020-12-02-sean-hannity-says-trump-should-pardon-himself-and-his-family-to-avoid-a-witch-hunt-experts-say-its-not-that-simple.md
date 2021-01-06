@@ -31,99 +31,227 @@ images:
     isCached: true
 
 related:
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T11:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T16:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon/explainer-could-trump-preemptively-pardon-his-family-or-even-himself-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "If no crime was committed, how can Trump issue pardons to his inner circle?"
-    excerpt: "Don’t let Trump discredit the pardon ,” op-ed, Dec. 1]. This presents a logical quandary: This administration has held that it has committed no crimes. How does a pardon work in absence of crime? The president has pardoned convicted criminals such as."
-    publishedDateTime: 2020-12-06T22:48:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z6AWUJXIYUI6NEB5TMI627MNFI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Can Trump preemptively pardon his allies or himself? Here is what you need to know."
-    excerpt: "Trump has also claimed that he has “the absolute right to pardon myself,” raising the possibility that he may try to impose roadblocks against any future federal prosecution of himself. And a federal judge this week unsealed heavily redacted documents revealing that the FBI has been investigating an unidentified person for a potential pardon-for-bribe scheme."
-    publishedDateTime: 2020-12-03T08:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
-    images:
-      - url: "https://www.chicagotribune.com/resizer/THDtZok_bGc0_mHKvExKL7EF7Gs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y4XJC3VIGROSLTRPTFWLUGCFMQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Roles of Trump fundraiser, Kushner's attorney were scrutinized in pardon bribe probe"
-    excerpt: "A former Trump fundraiser and a prominent lawyer were among the people scrutinized by the Justice Department for their roles in what a judge described as a possible bribery scheme to win a presidential pardon for a convicted felon,"
-    publishedDateTime: 2020-12-04T09:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-pardon-idUSKBN28E0CL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0CL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0CL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Could Trump be indicted? And could he pardon himself?"
-    excerpt: "As the US justice department investigates an alleged ‘bribery for pardon’ scheme at the White House, Jonathan Freedland and David Smith delve into the many possible legal issues Donald Trump could fac"
-    publishedDateTime: 2020-12-07T16:30:00Z
-    webUrl: "https://www.theguardian.com/australia-news/audio/2020/dec/08/could-trump-be-indicted-and-could-he-pardon-himself"
+  - title: "Giuliani discussed ‘pre-emptive pardon' with Trump, report says – live"
+    excerpt: "New York Times reports lawyer has discussed possibility with president, but not yet clear what Giuliani would need pardon for – follow all the latest news"
+    publishedDateTime: 2020-12-01T18:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc68c458f08c1b9f135793d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/7af114aff4550d379aaf8ab6da501bc3dec175d4/0_181_1776_1066/master/1776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fb617a980e3a208f0bcb7fc09e12836"
+      - url: "https://i.guim.co.uk/img/media/c11052f35fb1f65fe7c377c654ef0658772a6589/0_27_4860_2916/master/4860.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da753df18c72d2a40197acf879c33f5f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
+    publishedDateTime: 2020-12-07T08:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-3-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSL1N2IM0G2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
+        width: 823
+        height: 545
+        isCached: true
+  - title: "Rudy Giuliani has tested positive for COVID-19, Trump says"
+    excerpt: "President Donald Trump tweeted on Sunday. \"@RudyGiuliani, by far the greatest mayor in the history of NYC, and who has been working tirelessly exposing the most corrupt election (by far!) in the history of the USA,"
+    publishedDateTime: 2020-12-06T20:33:00Z
+    webUrl: "https://abcnews.go.com/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    ampWebUrl: "https://abcnews.go.com/amp/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rudy-giuliani-file-rt-jef-201206_1607286223261_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rudy Giuliani tests positive for COVID-19, Trump says"
+    excerpt: "Rudy Giuliani, President Trump's personal attorney who has been traveling the country raising unsubstantiated claims of voter fraud, tested positive for COVID-19, the president said Sunday. \".@RudyGiuliani,"
+    publishedDateTime: 2020-12-07T00:20:00Z
+    webUrl: "https://www.cbsnews.com/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/06/0a568217-27df-4cab-ba62-e2bd58bd977e/thumbnail/1200x630/8e7115d01fe374a1bd37797a705de9f2/gettyimages-1229918573.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump lawyer Giuliani in hospital after positive COVID test"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump's inner circle to contract the disease that is now surging across the U."
+    publishedDateTime: 2020-12-07T06:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14f1636a3763410bb1b2fe0b2bb65990_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump lawyer Rudy Giuliani tests positive for COVID"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
+    publishedDateTime: 2020-12-06T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump says campaign attorney Rudy Giuliani tested positive for COVID-19"
+    excerpt: "President Trump said his attorney Rudy Giuliani, who has been leading efforts to overturn the results of the Nov. 3 general election, has tested positive for the COVID-19."
+    publishedDateTime: 2020-12-06T20:53:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3e93524/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2Fbf%2F8b117a3f47aab7a83bd339209959%2Ftrump-75735.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump says lawyer Rudy Giuliani has Covid-19"
+    excerpt: "President Donald Trump says his personal lawyer Rudy Giuliani has tested positive for Covid-19. The president wrote in a tweet: \"Get better soon Rudy, we will carry on!\" Mr Giuliani, who has been leading the Trump campaign's legal challenges to the 2020 election results,"
+    publishedDateTime: 2020-12-06T20:53:00Z
+    webUrl: "https://www.bbc.com/news/amp/world-us-canada-55210243"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55210243"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55210243"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2247/production/_115857780_giuliani-gettyimages-1229918573.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump reportedly limited US purchases of Pfizer vaccine when offered - live"
+    excerpt: "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June"
+    publishedDateTime: 2020-12-08T00:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
+    publishedDateTime: 2020-12-07T02:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSKBN28G0T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
+        width: 823
+        height: 545
+        isCached: true
+  - title: "Trump lawyer Giuliani, suffering from COVID-19, to attend virtual hearing -source"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani, who was recently hospitalized with COVID-19, will attend a virtual hearing this week with Georgia lawmakers over Trump's flagging effort to overturn his U."
+    publishedDateTime: 2020-12-08T22:44:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I2I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543875712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71F9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump has the power to issue pre-emptive pardons. Here’s how past presidents used it."
+    excerpt: "George Washington, Gerald Ford and Jimmy Carter have used the pre-emptive pardon to seek national unity, not to protect family members as Trump is reported to be considering."
+    publishedDateTime: 2020-12-11T14:10:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LNJ6UXI3UI6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's lawyer Rudy Giuliani asks witness to remove her face mask"
+    excerpt: "At a hearing before the Michigan legislature about alleged voter fraud, Donald Trump's lawyer, Rudy Giuliani asked a witness seated next to him to remove her mask, because he said he couldn’t hear her."
+    publishedDateTime: 2020-12-07T12:00:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55214670"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p090q08t.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Trump attorney Rudy Giuliani coming to Michigan to give testimony on 2020 election"
+    excerpt: "Rudy Giuliani, attorney for President Donald Trump, is coming to Michigan Wednesday to address a legislative committee probing Michigan’s 2020 election process."
+    publishedDateTime: 2020-12-01T16:19:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OUA5RKJTANEJLMY2CFI2PWMQZI.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "3MeFQ+9fzY9A+98as87OnGpQEFVxmoWmwzKNmMcTMwOEhspBeaYv1zhhl8SSBJ7lbawn0IRzRYF71eMo7L4bI/H0sUhaOMPZQsjeCI74Q7/fBEPnRl3pEjobt6y2ryRpOcrnbVZh12MUhNMjpL0MUHjoGJiz5oZq2vAIobVE1qtm8A+EJ8xJTS8HjrPvtO4XYBmlelQEPSf9AdTAAR9gGbEe38X9OS/Z7bBCnyWXfkt5U0vAj/l0gy/PG04WMRWfdnJbyUYpR5+5rR7E3w/x7zUwNpztU/sYJpQBpXhkhfr7CyoeB0HNNqHGSG8niBtpvdfYPCPy5GR6Q0u4gQMSTMJ6YOkpu4RBdJ/VApm6cGCqV1rtpysyKLC7srRqWJPiFud6V4c0nDc3CuaVAqGTafA60+K1LJaDsDDlKd4rfBuY0F99zk8GiMIZB4b8ubNKmdbXm52shJPehu20RJB3cwazzHga+1o78fyuk9vo2kZ44gaWhzuKnfP3REPKEX+M/mwgXNKyyfVCz8R4DAFoRQ==;rZnrXaPB4LLdNcdR6K1uqQ=="

@@ -47,6 +47,86 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Nissan joins GM in exiting auto group backing Trump"
+    excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
+    publishedDateTime: 2020-12-04T21:59:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
+        width: 747
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Nissan joins GM in exiting auto group backing Trump"
+    excerpt: "Japanese automaker Nissan Motor Co on Friday joined General Motors Co in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
+    publishedDateTime: 2020-12-05T02:44:00Z
+    webUrl: "https://www.reuters.com/article/autos-emissions-trump/update-1-nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSL1N2IK2PU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
+        width: 747
+        height: 545
+        isCached: true
+  - title: "Another Trump veto possible as Congress votes on blocking $23B arms sale to UAE"
+    excerpt: "President Donald Trump is nearing one last battle with Congress over his push for massive arms sales to the Middle East -- threatening to veto lawmakers' effort to halt a $23 billion sale to the United Arab Emirates."
+    publishedDateTime: 2020-12-09T17:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/leaders-abraham-accords-gty-ps-201209_1607527065488_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump's Save America PAC is raking in donations — what can that money be spent on?"
+    excerpt: "Since November 3, the campaign, Republican National Committee, Trump Victory and Trump Make America Great Again joint committees, and President Trump's new political action committee, Save America, have collected $207."
+    publishedDateTime: 2020-12-05T21:02:00Z
+    webUrl: "https://www.cbsnews.com/news/trumps-save-america-pac-is-raking-in-donations-what-can-that-money-be-spent-on/?ftag=CNM-00-10aab7e"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trumps-save-america-pac-is-raking-in-donations-what-can-that-money-be-spent-on/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trumps-save-america-pac-is-raking-in-donations-what-can-that-money-be-spent-on/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/02/1b2aff86-0030-4f6e-ad59-386903796529/thumbnail/1200x630g2/ae00e73e1d028b5549c484a69354be04/gettyimages-1229807681.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senate fails attempt to block Trump administration’s $23-billion arms deal with United Arab Emirates"
+    excerpt: "The Senate fell short Wednesday in trying to halt the Trump administration’s proposed $23-billion arms sales to the United Arab Emirates, despite bipartisan objections to the package of F-35 fighter jets and drones stemming from a broader Middle East peace agreement."
+    publishedDateTime: 2020-12-10T04:21:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 110
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/17d0ac5/2147483647/strip/true/crop/4192x2738+5+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F95%2Fd75a8b98a5a0d3f2f2532520eec2%2F92d2ddb98a88412186f7bce3bd18cd80"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Why did white evangelicals vote for Trump? Politics Weekly Extra podcast"
     excerpt: "Jonathan Freedland is joined by Lerone Martin of Washington University, to discuss how America’s strictest Christians came to back Donald Trump. Now that Trump is on his way out, where does that leave his Christian backers?"
     publishedDateTime: 2020-12-11T05:00:00Z
@@ -61,6 +141,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Don't Flip, Says Auctioneer Seeking $3 Million for Trump's Childhood Home"
+    excerpt: "U.S. President Donald Trump's childhood home is up for sale for the fourth time in four years, with a bloated $3 million target price that the auctioneer hopes his admirers will pay. Other Tudor-style houses on the street in Jamaica Estates,"
+    publishedDateTime: 2020-12-10T02:07:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
 secured: "wuG6mHpd+utP4iIC+VHX1TUcpzvk9C72fY1nsS1SrwRxLVElFLRR7pyB/WWeD/Wc8HVRGi7p7EMhHM+2jJ5xgKO/wEbL5PWPlpE2PIiVd81TkeVuCQC2ZQTTUOYGx8KjzsDJdIvYNR4pzhLzWNqLi6MjVnh2iNOlB832sdyU3LRCpfVShajYOGIaFW7VXtSPcKbN0lX9PS2XRx0Q2czijuMeaJWb6P5mA52scTRBdw1yzL7M2KEvb49Vlznycl2MV9o0T62q/9RTTky++tcQ7ErpN3kL4yNaeSJZfutaZxzeHFBo0TzavxljhjK1T7wUHutno/nKhw6GBT9X51C9VgQDfMBdPtJ09AJ+UO3Aj6A=;pwnvhltS8ER46M+OjKBC9w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-connecticut-scho
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 305
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
         width: 1440
         height: 895
         isCached: true
+  - title: "Biden's plans on further COVID19 relief aid?"
+    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T00:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
     excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
     publishedDateTime: 2020-12-17T20:05:00Z
@@ -137,6 +151,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Joe Biden cometh, and he's bringing his czars to rule"
+    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
+    publishedDateTime: 2020-12-28T14:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "VCN6VlRKcn/ipuUqTf4FhPSRYJjpnNQSAGplnLV3cJRynXg0UUYiTc50Zh29KoUEheR3EQ8hga7EkP1XlEf8yRp+U90IDwoDRMRrnv/8YPa1Wk1n24OPbyHeUBCjb8mC02XpaNUs9BFTMei233r3axt1HpBvVcwkoY74h4VdtCQBecYt8jcMa2lJe1z+D0d/uJp+N7wpCUdGJ+ubloNlpNpiaHTCJX1DpVqjpIkYbXfsCgq/5Q/KC5hTpChTj7ZmyeNdvI77E4p/6fSmmPy+MKjxftuiQBdi/xJJz0vQEzLzBSzvzB96qF+uDOMnGosa805qbgOQrC9CEWsAhLXlOF88pB84G6BUb/n8zyKqM9w=;3F8klMnD3EvFjtHiRDrW1g=="

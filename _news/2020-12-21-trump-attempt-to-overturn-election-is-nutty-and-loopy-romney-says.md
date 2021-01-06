@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/20/donald-trump-elector
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/20/donald-trump-electoral-fraud-sidney-powell-michael-flynn-republicans-mitt-romney"
 type: article
 quality: 140
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://i.insider.com/5f90888aabcd0c0018d68e2f?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump says U.S. Attorney General Barr resigns"
-    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
-    publishedDateTime: 2020-12-15T09:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMHv?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd8312ae4b04d44576323f2-1608003884993?location=LANDSCAPE"
-        width: 2241
-        height: 1495
         isCached: true
 
 secured: "6RC5NCA1cmKGQf9XWMvrD5an/g9PUDBreWYfNONJBH6moEqb9s4a5CG3By+NeBnxAhGCbOt9CLP6cb+n3jBGP+MEqPEvHY0+Kr6i40Ifm62ozfp21GzLc1agcYcRM1ZxZ4p22G6w28478bKT7xf17ig39nHMsSaRhKOQfu9l617ipk7/s2VbwaFcIQMA0jU71s6vaHuvgd9nFE69GfOCTP3BpoFu3bWf7n0NqVCGmrRi2x5qxx/cSMS9rBudYlGSObaXtpJkmFMTJrZwUj7lD10edFLG8sGJfKdEzPA9iRbcIDRU44ZsbCZY0XeAjqJpUTCEupOHPJvmsGoAVtLynrfvJR1iSO5E69LN2ykKPPUEsV028U4zFKgxIbAcrh4YVcX3kXO/IpiAbL8Rkj3k+1hepenyDl178T0REEyaHch7CxgWtqM1cAcStnoaXEANkAV2bDMcP2fFfshW/xd/ZCcuzIXhO1t2g8CuaQk0EHBrXQ64mEoad9G7AZ4kAAwaS6amGJ0i2PJZ6hjqngnQOQ==;3bFGW1Mi0nUT3Bdu71NiGQ=="

@@ -45,6 +45,54 @@ related:
         width: 1440
         height: 906
         isCached: true
+  - title: "Controversial postal chief poised to remain in Biden administration"
+    excerpt: "With no clear recourse to immediately remove him, Postmaster General Louis DeJoy is expected to remain in his role after President-elect Joe Biden is sworn in next month."
+    publishedDateTime: 2020-12-01T18:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dejoy-gty-jt-201130_1606777534812_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Klain brings decades of DC experience to Biden White House"
+    excerpt: "Ron Klain has checked all the boxes of a classic Washington striver: Georgetown, Harvard Law, Supreme Court and Capitol Hill staffer, White House adviser and, along the way, of course, lobbyist and la"
+    publishedDateTime: 2020-12-02T16:55:05Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_887f8ac3db0d4656b4e9d3986d10cc9a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Among first acts, Biden to call for 100 days of mask-wearing"
+    excerpt: "Joe Biden says he will ask Americans to commit to 100 days of wearing masks as one of his first acts as president"
+    publishedDateTime: 2020-12-04T02:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden is facing high hopes, tough choices on border wall"
     excerpt: "The U.S. government has been trying to take Pamela Rivas' land for a border wall since before Joe Biden was vice president. From a brushy bluff, Rivas can look across the Rio Grande to Mexico on the other side."
     publishedDateTime: 2020-12-04T23:32:00Z
@@ -109,6 +157,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Focus on union leader as Biden searches for education secretary"
+    excerpt: "No matter whom Biden chooses, the person is sure to represent an about-face from current Secretary Betsy DeVos, who has made school choice her signature issue. The depar"
+    publishedDateTime: 2020-12-12T00:01:00Z
+    webUrl: "https://www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2EEY6EB4AII6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Former CIA director says intelligence community will recover under Biden"
     excerpt: "Former CIA Director Michael Hayden said Monday that he believes that the intelligence community will recover under President-elect Biden, after it faced repeated attacks from President Trump over the past four years."
     publishedDateTime: 2020-12-07T22:41:00Z
@@ -124,6 +188,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/07/04dfc8e0-5817-4c99-8312-3be7a4b1230b/thumbnail/1200x630/5f84e8e5b635e038d429583d2243481a/ap-080205068440.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President-elect Biden to push for the majority of schools to reopen by May"
+    excerpt: "Joe Biden pledged Tuesday to bring the coronavirus pandemic under enough control to open the “majority” of schools during his first 100 days as president, even while warning that the U.S. is facing a “dark winter."
+    publishedDateTime: 2020-12-09T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/president-elect-biden-to-push-for-schools-to-reopen-by-may/2020/12/09/ef80229c-2ad2-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/president-elect-biden-to-push-for-schools-to-reopen-by-may/2020/12/09/ef80229c-2ad2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/president-elect-biden-to-push-for-schools-to-reopen-by-may/2020/12/09/ef80229c-2ad2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5R5OAB2HUI6XGGEEXOJ6SMH5A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
     excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
@@ -189,6 +269,22 @@ related:
         width: 689
         height: 545
         isCached: true
+  - title: "Joe Biden's staff nominations are early test of relationship with progressives"
+    excerpt: "The Democratic left rallied around the party’s nominee but are now warily surveying his picks for top administration positions"
+    publishedDateTime: 2020-12-06T10:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/aa1012ec8311abb0800902730dedc528f26b2a22/0_138_4953_2973/master/4953.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3caeec7363d79a0ebbfbb56e9ccce2cf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden picks two former Obama officials to help lead COVID-19 response - Politico"
     excerpt: "President-elect Joe Biden has selected former Obama administration official Jeff Zients to be his White House coronavirus coordinator and former U.S. Surgeon General Vivek Murthy to return in that role,"
     publishedDateTime: 2020-12-03T18:52:00Z
@@ -219,6 +315,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Appeals Court rejects bid to block Biden's GA win"
+    excerpt: "Top News U.S. Appeals Court rejects bid to block Biden's GA win. Posted [NFA] A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect"
+    publishedDateTime: 2020-12-05T21:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD7QJZKV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201205&i=OVD7QJZKV&r=OVD7QJZKV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "The Latest: Biden names prominent allies as inaugural chairs"
     excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
     publishedDateTime: 2020-12-07T15:27:00Z
@@ -230,6 +340,48 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden makes two more cabinet picks"
+    excerpt: "Watch \"Biden makes two more cabinet picks; to nominate Rep. Marcia Fudge to lead housing and urban development and Tom Vilsack as agriculture secretary\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:16:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120516-biden-makes-two-more-cabinet-picks-to-nominate-rep-marcia-fudge-to-lead-housing-and-urban-development-and-tom-vilsack-as-agriculture-se/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040588_1607515624.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Civil rights groups pressure Biden to diversify senior Cabinet posts"
+    excerpt: "The Post’s Annie Linskey explains why President-elect Joe Biden’s early top Cabinet picks worry Black, Hispanic and Asian supporters."
+    publishedDateTime: 2020-12-08T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/civil-rights-groups-pressure-biden-to-diversify-senior-cabinet-posts/2020/12/08/de1c6414-07fb-4f2b-a501-37d4e7e4c71a_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-08-2020/t_49ccbf9e6f93490ea6e5fa5ee48bad12_name_39575c08_2f5d_11eb_9dd6_2d0179981719_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "We’ve entered into a new era of globalization — no matter what Joe Biden does"
+    excerpt: "Supporters of an open international economy see new hope in Joe Biden’s election that perhaps globalization is not on its death bed after all. But the assumption that Biden will restore robust growth in international trade and investment is misplaced."
+    publishedDateTime: 2020-12-04T11:06:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2021/01/07/weve-entered-into-new-era-globalization-no-matter-what-joe-biden-does/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/resizer/H8nN4ZoaWHxWUviuMDxj3sYgoDM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5UJMARTS4I6XFUZADJRD4J5FU.jpg"
+        width: 1484
+        height: 990
+        isCached: true
   - title: "A former Obama official says the Biden administration has its work cut out for it to fix refugee resettlement and asylum"
     excerpt: "Business Insider spoke to Robert Carey, the former director of refugee resettlement, about the work ahead to help refugees and asylum seekers."
     publishedDateTime: 2020-12-02T08:22:00Z
@@ -271,6 +423,20 @@ related:
     quality: 97
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/04/bbf7e83d-69b4-4bdd-8437-a6e84d0c78e3/thumbnail/1200x630/e78e695cf08585ba584dca9760b6bfa7/cbsn-fusion-president-elect-biden-calls-on-americans-to-wear-masks-for-his-first-100-days-in-office-thumbnail-601166-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former CIA director says intelligence community will recover under President-elect Biden"
+    excerpt: "Former CIA Director Michael Hayden told CBSN's \"Red & Blue\" that he believes that the intelligence community will recover under President-elect Joe Biden after it faced repeated attacks from President Trump over the past four years."
+    publishedDateTime: 2020-12-07T23:33:00Z
+    webUrl: "https://www.cbsnews.com/video/former-cia-director-michael-hayden-intelligence-community-will-recover-under-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/1eacfb4d-460e-4567-8a59-bf624273e749/thumbnail/1200x630/58b543705b72534410432b3b518be4f5/cbsn-fusion-former-cia-director-says-intelligence-community-will-recover-under-biden-thumbnail-603368-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

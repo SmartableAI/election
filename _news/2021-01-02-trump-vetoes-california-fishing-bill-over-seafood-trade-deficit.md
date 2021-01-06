@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/4110144001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110144001"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 165
+published: true
 
 provider:
   name: USA Today
@@ -31,65 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Trump vetoes Calif. fishing bill over seafood trade deficit"
-    excerpt: "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California"
-    publishedDateTime: 2021-01-02T00:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
+  - title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
+    excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
+    publishedDateTime: 2020-12-26T16:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-slams-fashion-magazines-melania-no-front-pages-unfair-michelle-2020-12?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5fe722f1a644880018193614?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump signs order banning transactions with eight Chinese apps including Alipay"
-    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
-    publishedDateTime: 2021-01-06T00:44:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-china-tech-exclusive-idUKKBN29A2PG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29A2PG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29A2PG"
+  - title: "Melania Trump Will Divorce Donald Before Summer And Date Business Figure, Psychics Predict"
+    excerpt: "Melania Trump will divorce her husband Donald Trump and date a prominent business figure, according to a panel of psychics."
+    publishedDateTime: 2021-01-06T01:00:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546717743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
-        width: 815
-        height: 545
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Trump protesters warned not to carry guns as Washington DC calls up National Guard"
-    excerpt: "DC police chief says ahead of inauguration protests ‘there are people intent on coming to our city armed’"
-    publishedDateTime: 2021-01-05T04:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/2dcd9f469390dd3b7a9118294d6c4ad0b252152b/0_214_4375_2626/master/4375.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae070f44a3b787baaff4759a2c031c86"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
-    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
-    publishedDateTime: 2021-01-06T02:47:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-tech-idUSL1N2JG2FN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2FN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2FN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
 
 secured: "MXOhBSK0/JAi2neuitWHc7vS7qXwcdQyvKsbkEESLAWKyJZ+yKfcwapvWoSroMKGAnSOXIPnLyHi0jPzAvaQa/ENMG16PUjxjpN4YDgm9z0KwpCUr8x5ZAv8SoESJ1/1AbivgndHAKbKDfej2c5nbLs1818WqZoG8egW+i5+y4DgcCTsO6soL7Ytsah0Va+U+KrPHKotRQxpewrp2uZPrjn7j92CKMnsvDoZBA0E0vAbQgFqhkAzioKSQKb/ajalFFtPXySsglTBp/vDQix2jkiViZlgzHL8yp4fCPKkYuK/gnN3Pe+aNEKxaRIVkYzfnLlLyo5EwDmcx4jj5LTnwvrmcNsYv/30EhopWuA+9EjFuVAdafSJMI83d1D4NGj/B6EPwfi/F9CjUY9oK1w4LbV8/yxB/uurrrfVH3Nv1YIatYY8EigZ3jk9NPgYn66SeccfIwMaeWoQtlaax7jp5Uk6yqLqJAfF5SaT9P/x1ST6gGFAgFTgHvs+GN9kW94omAYY2YumCCRDhPnJ59p0Wg==;UHnhYfqql8AMUW5Zs5KAoA=="
 ---

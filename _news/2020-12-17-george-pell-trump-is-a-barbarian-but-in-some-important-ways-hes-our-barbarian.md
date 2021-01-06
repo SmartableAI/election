@@ -31,111 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Some advisers urge Trump not to veto defense bill: source"
-    excerpt: "U.S. President Donald Trump is being urged by some advisers not to go ahead with his plan to veto a major defense bill because it is all but certain to be overridden by the U.S. Congress, a source familiar with the situation said on Tuesday."
-    publishedDateTime: 2020-12-16T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-trump/some-advisers-urge-trump-not-to-veto-defense-bill-source-idUSKBN28P2Z0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2Z0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2Z0"
+  - title: "Cardinal Pell on Trump, Benedict XVI and a plot against him"
+    excerpt: "Pope Francis’ former treasurer, Cardinal George Pell, has praised President Donald Trump’s “splendid” Supreme Court appointments and defense of Christian values"
+    publishedDateTime: 2020-12-17T01:41:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/cardinal-pell-trump-benedict-xvi-plot-74767530"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544682785&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1QK"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/International/WireAP_db87ce70924f4bd1942b890a41d3f72d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump signs into law stopgap funding bill to avoid government shutdown"
-    excerpt: "President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds passed by Congress to avoid a midnight government shutdown, as lawmakers negotiate a $900 billion pandemic aid bill and as part of $1."
-    publishedDateTime: 2020-12-19T08:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28S31A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28S31A"
+  - title: "Trump Won't Pardon His Family Because They May Testify Against Him, Says Ex-lawyer"
+    excerpt: "Michael Cohen told Vanity Fair that Trump \"cares for no one or for anything except for himself...that includes his own children.\""
+    publishedDateTime: 2020-12-18T16:28:00Z
+    webUrl: "https://www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953"
+    ampWebUrl: "https://www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-wont-pardon-his-family-because-they-may-testify-against-him-says-ex-lawyer-1555953?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545099113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH1Q4"
-        width: 817
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1688664/michael-cohen.jpg"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "Trump faces Dec. 23 deadline to veto - or sign - massive NDAA defense bill"
-    excerpt: "U.S. President Donald Trump has until Dec. 23 to decide whether to veto the $740 billion National Defense Authorization Act or allow the annual measure setting policy for the Department of Defense to become law,"
-    publishedDateTime: 2020-12-14T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/trump-faces-dec-23-deadline-to-veto-or-sign-massive-ndaa-defense-bill-idUSKBN28O26L?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O26L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O26L"
+  - title: "Despite his boasts, Trump again is no deal-maker as Congress seeks pandemic relief bill"
+    excerpt: "Donald Trump was elected partly on his fame for \"The Art of the Deal,\" yet he's cut no big deals in office. The relief package is the latest, perhaps final, example."
+    publishedDateTime: 2020-12-20T11:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-20/despite-his-boasts-trump-again-is-no-deal-maker-as-congress-seeks-crisis-relief-bill?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544521382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD175"
-        width: 817
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a41683/2147483647/strip/true/crop/1722x1125+139+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdc%2Fbc%2F56179fae7739bfcf6f70d6ad974e%2Fla-fg-iran-nuclear-pictures-20150714-003"
+        width: 320
+        height: 209
         isCached: true
-  - title: "COVID-19 stimulus deal remains elusive as Trump signs 2-day spending bill to avoid shutdown"
-    excerpt: "This short-term extension of government funding would be the second time Congress has punted a shutdown deadline this month."
-    publishedDateTime: 2020-12-20T08:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/18/covid-stimulus-update-lawmakers-prepare-fund-government-2-days/3940074001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3940074001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3940074001"
+  - title: "Sidney Powell Unrelenting in Legal Battle on Trump's Behalf"
+    excerpt: "Conservative attorney Sidney Powell has been unrelenting in her battle on behalf of President Donald Trump and the Americans who have pledged their faith in him."
+    publishedDateTime: 2020-12-10T17:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/82478af1-0d25-4fa4-bd52-06c5186b4f99-AFP_AFP_8XA3VM.jpg?auto=webp&crop=1023,576,x0,y66&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
-    excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
-    publishedDateTime: 2020-12-21T09:53:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUKKBN28V0ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28V0ET"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28V0ET"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545256677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump signs two-day spending bill, narrowly avoiding federal shutdown"
-    excerpt: "President Trump signed a stopgap spending bill Friday night, aimed at extending a midnight deadline to keep the federal government funded and avoid a shutdown. The Senate had passed the measure with a unanimous voice vote."
-    publishedDateTime: 2020-12-19T13:28:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/fe3ad989-62cc-4804-bf6a-db03fbe8588c/thumbnail/1200x630/efc1169bcb63f8ad076de34acc4fb270/1219-satmo-captiolhilllatest-reid-612724-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump signs stopgap government funding bill to avoid midnight shutdown - White House"
-    excerpt: "U.S. President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds to avoid a midnight government shutdown, the White House said in a statement. (Reporting by"
-    publishedDateTime: 2020-12-19T08:28:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/trump-signs-stopgap-government-funding-bill-to-avoid-midnight-shutdown-white-house-idUSL1N2IZ03O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IZ03O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IZ03O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "QrKSCZz93RDwVTcd7G674ym8gqPGFTZVirJtPvq+vvEP1t/WULhrHZcS9ckPuo7uE9tmJ2SzmZVIa/QHClrh76M7cYCGSIMwUm5lf9OrtpcfoDB0NaX2MsLKlH72rVE3VCB+Imh2y1bRcPibfhGesl5drh4EX2KeAazL9hHl5oK89NJMxIbuddTJIBzp80+S5rOuCfxl3MLCeJgI72r/skTn6uUgkoMpILD6q8KCph2wsa19T0/6ZQEfWtMgm018j96I5+AEcNig9wibG9VgZDzo3lPvZSEQ3Vf55GIJ5QqdbFn+SIRnM47N7Jg8B1XaOrlUef09PDYIgyz1SJnC7BYtPOY35TPaTzH0NeMoDTQ=;cJdcp/+K99FhjE6Ug6KDFQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runof
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-04-2021/t_9a6b425de37e4e7ca9a643b4e00cfd85_name_ba017554_4eda_11eb_a1f5_fdaf28cfca90.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 988
+        isCached: true
+  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
+    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
+    publishedDateTime: 2020-12-30T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "iqJMidQ+k9VnXn8SWU+tXuWv9DZ1aI8pfeHtBdUtw18G2k8VepNc3yN9UmZVCD9ee0GblrnQlwTzEb0AhC+OQ6n5ieUe8wyPItom2T/zFzUluZNybZEdEIlwfGfl3GLsdBu2D7QwEsmQvvdJbBtqIs+qCBV/Fv6QPFuwIgO6QD5e2ZkuRiYf5TygkPGAsMMh5uGEJ2vOLZ2gC+bIqpYxcygOhBW1RUDUZBsY0HYVz2+bE5zSyiTAbFndIO06MhsTmaQzgAPTW2HrLfPxNnwFkir4xXdJC+4rB0hDaU/AZBOrp0EYX/UO0M/Ufy1KLcxYFj3ibYK2FiS2jGhF7LqYdrHpddl8B0ARXeNj4f0b7AD1zb9C8Dq0Don6S23Gne2YiXlTuO6q0GoHai172+t1r6Hxcfc20E3JISGScUrT1z3fxR9iiJ+KkITag59rss+pPvitfpbgaadrQ45MFcFtArckyVv+jsk7rAMZhEPot5sSJtcsOZLwH/o2p092exZr5eYJ+i8cDPFvn31Kbgr9SA==;WUdBFaJIT0rBIO6kkc7aPQ=="

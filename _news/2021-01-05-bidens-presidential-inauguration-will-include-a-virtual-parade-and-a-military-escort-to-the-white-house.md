@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden inauguration to feature memorial for COVID victims"
+    excerpt: "President-elect Joe Biden is planning a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor those killed by the coronavirus the day before he is sworn into office on Jan. 20"
+    publishedDateTime: 2020-12-31T15:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-memorial-covid-victims-74987984"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_467ec2758fd24427a99beb711a78f8a0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manufacturing trade group condemns GOP push to overturn Biden victory"
     excerpt: "The largest trade group for U.S. manufacturers criticized Monday a Republican effort to overturn the results of the 2020 presidential election and urged lawmakers to focus on fighting the coronavirus pandemic."
     publishedDateTime: 2021-01-04T20:50:00Z
@@ -62,6 +78,52 @@ related:
       - url: "https://thehill.com/sites/default/files/manufacturing_safety_shields_05182020_1.jpg"
         width: 980
         height: 552
+        isCached: true
+  - title: "11 More Republican Senators Say They Will Vote Against Certifying Joe Biden's Electoral College Win"
+    excerpt: "While their opposition will not change the election results, it will drag out the certification vote and likely further deepen partisan divisions."
+    publishedDateTime: 2021-01-02T19:49:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/senate-republicans-electoral-college-results-certify-object"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/senate-republicans-electoral-college-results-certify-object"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/senate-republicans-electoral-college-results-certify-object"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 111
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/12/11/campaign_images/buzzfeed-prod-web-04/republicans-confirmed-a-lot-of-judges-while-every-2-19652-1536766859-0_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Appeals court clears way for only woman on federal death row to be executed before Biden takes office"
+    excerpt: "A federal court has cleared the way for the only woman on federal death row to be executed before President-elect Joe Biden takes office."
+    publishedDateTime: 2021-01-02T21:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/02/lisa-montgomery-execution-appeals-court-clears-way-her-death/4114538001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4114538001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114538001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/PNAS/989839bb-17d1-4cf0-a2bf-79501cdbb429-Lisa_-_prison.jpg?auto=webp&crop=1175,661,x0,y600&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden to mourn U.S. COVID-19 deaths in nationwide tribute"
+    excerpt: "With the coronavirus death toll steadily rising, President-elect Joe Biden plans to honor the more than 300,000 lives lost in a nationwide tribute on the eve of his inauguration – which is expected to be a smaller,"
+    publishedDateTime: 2021-01-02T13:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-to-mourn-us-covid-19-deaths-in-nationwide-tribute/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/02/2c957dee-7664-45ec-922f-021a47430535/thumbnail/1200x630/12d27e34ebc8eb25609e8a2abd09bea8/0102-satmo-bidenlatest-killion-618982-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1eC2rnJJNOJ+QjvVJRBlkpWEcBeOH42kqIRKuh4jpNlqfIk/uX/APywpdtgbxnrW6EEVWWg/wbOZq2d2rXktXvIiBNFDQbbIsdo5WzmKnOyok11880HlYdLnd4DeaTsvYUowG1kMgRsBhKu6Ol/xSSmBxrbY5v/UsPJ1Mm8by24kyV3eQJHXGy8b5AR1uMvtXNdq7n+o5Py+kD+IHR4XbMInf8BjwdDeNbrZdGunt0PFq7AnW32hup6PoXq3pmds4WcEomWypYS3/B5x/R6nOL0RJ2vvgWSz6qxSnO4rQm2D6EEg/DFjVUswCzlt2Oh/k3X+QQ7QDqe+5so8B0Du1oY9U07i4IXkF9nGcQZfRr0ks4caEURHip/0OaoQ18+UaJUzy3dcf+popY5Dmvskib6i3FHEGN75t9i7aYYudrq0m/xBZVBaKyIEV0D9piXjAUnzQV83CKRT7mtf8D8yStyMYN9ymPtV2Feu32hYRPTBRbSvKuebQzfhlmHaUvjqeUNyES1Bb1ZKEa7o+mJsPA==;ODvRrl5YLbcWVECzOI/+tQ=="

@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
+    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
+    publishedDateTime: 2020-12-09T12:36:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
     excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
     publishedDateTime: 2020-12-09T02:56:00Z
@@ -127,17 +143,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
-    excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
-    publishedDateTime: 2020-12-09T03:23:00Z
-    webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+  - title: "'I'd get my house bombed tonight': Pennsylvania Republican leaders details pressure to support Trump's efforts to overturn the election"
+    excerpt: "Trump has run out of options to take Biden's win away, with the Supreme Court also refusing to hear a challenge to overturn Pennsylvania's results."
+    publishedDateTime: 2020-12-09T22:37:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd1370048a2590018262889?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "llmFE7yNJ8WqJiPxqq8rmtDKCSgCXI/OuxybSTBgAbwaHapfyM13vo/nwk5JcDD4FqCOsUSajS92PVWPr1QVhs71f+10bEt8280Z4cCet23kvUEm5fNaeOwkThdgHiivgpAoBiNhYAOLUlBUCAH6wxSp5anCw41oogeH2JHvXtpeyeMucrPaxTP0D/fVcP06L/gU2NrsqWhwj2BGo2tjtJ7ifcCqFFgiYHYIUzmwGQlwnCYLdUjWGkmhHb54IJv2bWOfDVF4QSbVCjXnXCfaYzzmN4okZF+zF9F82jIOq9+Svgk9Cdg8EgUrICyfr96L04r50qHCMdg+wXrxYoDC71gO7a6VaCnwOY+ZaZhFFoi3tYDkMFFeBTZO6A4zZQ1NOZ5WSPcRQ4qcQ/z3tHGs9xjtkvrZwbAyBqjue0JNFYo5Y3daNNQEoLIQxI6GvS6lftNB6UXX2PkshlF5NfZQiQRx/xsFFG87kWr4KVQbaHNLCkA1hOUhK0Q6c5DPYXY1WmrgZI06mry9nsC1V4YXRg==;g7ufxAg+quI6zLqlwuYHVw=="
 ---

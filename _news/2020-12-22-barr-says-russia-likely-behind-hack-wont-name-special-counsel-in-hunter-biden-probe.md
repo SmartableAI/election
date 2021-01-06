@@ -31,78 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
-    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
-    publishedDateTime: 2020-12-18T19:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+  - title: "AG Barr says he sees no reason to name special counsels to investigate Hunter Biden or election fraud"
+    excerpt: "Attorney General Barr said he saw no reason to appoint special counsels to investigate Hunter Biden or unsubstantiated allegations of election fraud."
+    publishedDateTime: 2020-12-21T16:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/barr-no-reason-special-counsels-hunter-biden-election-fraud/3991548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3991548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3991548001"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden mulls punishments for Russia over suspected role in government hack"
-    excerpt: "President-elect will consider options for unprecedented hacking of US government agencies"
-    publishedDateTime: 2020-12-20T14:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/2f95f60c5bec962f79f95030cfc8730e32dcac1f/0_235_3925_2355/master/3925.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fdfc5a1c6bcc8beb176560c6f747a577"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump finds himself isolated in refusal to blame Russia for big cyberattack"
-    excerpt: "President Trump’s dismissive characterization of a massive cyberattack targeting multiple U.S. agencies drew pushback Sunday from lawmakers, cybersecurity experts and the incoming Biden administration amid growing questions over the president’s refusal to acknowledge that Russia was likely behind the intrusions."
-    publishedDateTime: 2020-12-21T02:04:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-20/lawmakers-experts-baffled-trump-brushes-off-suspected-russian-hack?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 123
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/382d7fb/2147483647/strip/true/crop/4651x3038+374+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F33%2F1e4dcf792e85239693113608299b%2Fd47918cfadda477f8b5fa5fed2afeba0"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden says he sees no evidence cyber attack is under control"
-    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T03:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
-    excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
-    publishedDateTime: 2020-12-22T04:30:00Z
-    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-president-trump-says-russia-likely-behind-cyberattack/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 96
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/15/USAT/692ddb1b-5135-4cd3-9a7d-f76290ac2108-VPC_BARR_RESIGNS_GETTY_WIDE.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "The Memo: Left seeks leverage to move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/531602-the-memo-left-seeks-leverage-to-move-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_121920getty_memo-left-biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Saudi court jails women's rights activist, posing challenge for Biden"
+    excerpt: "A Saudi court on Monday sentenced prominent women's rights activist Loujain al-Hathloul to nearly six years in prison, her family said, after her conviction in a trial that has drawn international condemnation."
+    publishedDateTime: 2020-12-29T06:15:00Z
+    webUrl: "https://www.reuters.com/article/uk-saudi-rights-women-idUKKBN2920RK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2920RK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2920RK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545968497&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0MO"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Electoral College makes it official: Biden won"
+    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
+    publishedDateTime: 2020-12-15T05:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/15/electoral-college-makes-official-biden-won/3901023001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815449b8-6497-4ef2-bafa-450265f6c1b5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amazon hires lobbyist with ties to President-elect Joe Biden's White House counsel"
+    excerpt: "CNBC.com reporter Brian Schwartz discusses whether Amazon's new hire in Washington, DC could present a conflict of interest with one of President-elect Joe Biden's closest advisors."
+    publishedDateTime: 2020-12-28T13:33:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/28/amazon-hires-lobbyist-with-ties-to-president-elect-joe-bidens-white-house-counsel.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 99
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106816491-16091598732ED4-REQ-122820-wex-amazon.jpg?v=1609159872"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden Presidency Will Drag Down Stock Markets, Investors Predict"
+    excerpt: "In general, some of Biden’s economic policies might not be as conducive to growth as the tax-friendly agenda of his predecessor."
+    publishedDateTime: 2020-12-28T16:36:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-presidency-will-drag-down-stock-markets-investors-predict-3110663?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/21/us-president-elect-joe-biden-said-the-latest.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "pdDbu1B8MpGHyN3sEO//EeNGmKmyTIkcCLax+mCMH/bG+3k/CiBTo+lxhgG/peV1TIJgYUw+mHUEE+RQPyIFmuD5z5TcdOKRlPqfYwf3garCZubNXCHr3qczEyhluTpRgXZ6z1OBJn3qhW1lBDcuax0lVGTDvGV3YHv7aJlxRhQWWt/8LtelnipVjBexb9d37Fd7zqKlcWW/+W7a890o0/dWRcO1Ske1eDJynHKUzhWAyKJYvT9vpb7eUdf0Thx5nSZlsJL+O2tcaA7OnBBKlWgpjJbJN4PCF1eMZOyCGjtM51Dm2KLgba9w1FewfXmqWrcNV6BA63gDLbsBDFWYzZ26sXjnSSaKmNcYRfBjyEMRuzGXN6eA76TsesntTqHPxVP6QO32Pt3Lvkn0d13Wg9CvV27mFIdFTyV+uKVQtuRbJ6VOMnmM6NGd9WKPkAEidOGZlBYZ2eQF+uBtTG4M6VuCeyya4YwmNYEXZO80KsW0xe/X85+hoSlCx+Av16TDxWtQrCRjiTqPYGnqkignHA==;MoEhNOT2Q0GFpo55g+itRw=="

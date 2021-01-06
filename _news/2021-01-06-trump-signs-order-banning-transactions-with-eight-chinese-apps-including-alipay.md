@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump vetoes Calif. fishing bill over seafood trade deficit"
-    excerpt: "President Donald Trump has vetoed a bill that would have gradually ended the use of large-mesh drift gillnets used exclusively in federal waters off the coast of California"
-    publishedDateTime: 2021-01-02T00:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
+  - title: "Trump signs order banning transactions with Chinese apps Alipay and WeChat Pay"
+    excerpt: "Taking his campaign against Chinese technology down to the wire, President Trump on Tuesday signed an executive order banning transactions with a number of Chinese mobile apps, including Alipay and WeChat Pay."
+    publishedDateTime: 2021-01-06T04:39:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a978029763c14b3980faac4badecdfe8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump vetoes California fishing bill over seafood trade deficit"
-    excerpt: "President Donald Trump vetoed a bill to gradually end the use of large-mesh drift gillnets deployed in federal waters off the coast of California."
-    publishedDateTime: 2021-01-01T23:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/01/trump-vetos-california-fishing-bill-seafood-trade-deficit/4110144001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4110144001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110144001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump protesters warned not to carry guns as Washington DC calls up National Guard"
-    excerpt: "DC police chief says ahead of inauguration protests ‘there are people intent on coming to our city armed’"
-    publishedDateTime: 2021-01-05T04:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/trump-protesters-warned-not-to-carry-guns-as-washington-dc-calls-up-national-guard"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/2dcd9f469390dd3b7a9118294d6c4ad0b252152b/0_214_4375_2626/master/4375.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae070f44a3b787baaff4759a2c031c86"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKURI7SPWYI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
     excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
@@ -90,6 +58,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms"
+    excerpt: "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms."
+    publishedDateTime: 2021-01-02T14:45:00Z
+    webUrl: "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5ff06619a18a450018cb6826?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "hywnEWsl9Nb74bbCMwwNB6PNsHMq2X2qSXtMeo/fs/reM0VUEB5/rvx4EMhu13va92ZHz2+oyW5keQKgChVlINa6xUfT0s659B6f3JUUbEpWOyc6uUYLs1jvp8et3o1MwJO62mk2tOg7+kWtGHJGlvdfluicI1AyEM8BqY7IP39feobiUBfjTuBz4qW/iUtcuYnxuXtNX93adGcqAtexGTYmivTwKHReGiSasKm1LaYCNmKQttLMULmooV+sGD+YswBdaYHELiy59IK3p57lzommnX8EI4jEi8TAL0u29QMZyKlIzQN5n3kYU4FtQEzQy/ODYR3IUIS7I2v/lRUW7QKyAEqsSzU/MTpEIX0Zkkk=;TJ+m1G4g5j9/q8Ic+a7pjg=="
 ---

@@ -47,6 +47,33 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump signs order banning transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
+    publishedDateTime: 2021-01-06T00:44:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-china-tech-exclusive-idUKKBN29A2PG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29A2PG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29A2PG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546717743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
+        width: 815
+        height: 545
+        isCached: true
+  - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
+    publishedDateTime: 2021-01-06T02:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-tech-idUSL1N2JG2FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
 
 secured: "qniLSY2rs/UZfbi77t9CNq5g9zhzT7AiTJjR6l6VB+FScj0WWZmV3rTdwVyoTbbo+lL0uVy7tgDuHFZWzAbpLYhy226tg9ghGPnrZbWV+I5FAi7ATkwC8jneh34PGUecOmJid2yb1Gw6xJK9un0r57FQX/LHmq1YXV9mpFaDkGNI1W4cRQ107d+IQ9KRoIidgENOs1SaZ1OXRg5UgIyV8rdj9BfTkExQ+MuxL0Y1QrRa9cHJ3pvIBCNPw0gb4vkcUKBhp1+uRcE/VyXrFjxYli87F2V1/nMo4xaLXWyzHdUQerqJbBLKHzEJy/DLIum1OkxsXeSybZyWLwes6EIQCue/Ikf4XEwpgKq6XR6lEy4=;4gT94UN59sxpKXjmwHrBxw=="
 ---

@@ -141,6 +141,68 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Harris on Trump GA call before Senate runoff"
+    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
+    publishedDateTime: 2021-01-04T02:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
+    excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
+    publishedDateTime: 2020-12-30T13:58:00Z
+    webUrl: "https://www.khou.com/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 102
+    images:
+      - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Kamala Harris’s groundbreaking path to the White House"
+    excerpt: "How Harris got where she is, and where she’s likely headed, is the subject of Dan Morain’s “Kamala’s Way.” From the start, he explains, it’s been a complicated path, mixing principles and pragmatism,"
+    publishedDateTime: 2021-01-01T14:30:00Z
+    webUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/rcGgsBKubkAqaZioP9K6GjrB36I=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6POFLXWAZB7LM373XXSTZVNLI.jpg"
+        width: 1200
+        height: 891
+        isCached: true
+  - title: "Kamala Harris attempts to unite worried Georgia voters amid a strongly divided political cycle"
+    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
+    publishedDateTime: 2021-01-03T00:00:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/01/03/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4122933001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4122933001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4122933001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘This is about saving lives’: Vice President-elect Kamala Harris receives COVID vaccine on live TV"
     excerpt: "Vice President-elect Kamala Harris on Tuesday morning received the first dose of the COVID-19 vaccine on live television, urging Americans to trust not only the scientists who researched and produced the vaccines but frontline health care providers in communities across the country."
     publishedDateTime: 2020-12-29T16:38:00Z
@@ -156,6 +218,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UYW5JSQI3ZBPFHJI7AK7BZJLAM.JPG"
         width: 3149
         height: 2100
+        isCached: true
+  - title: "VP-elect Kamala Harris receives coronavirus vaccine"
+    excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
+    publishedDateTime: 2020-12-29T18:36:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/vp-elect-kamala-harris-receives-coronavirus-vaccine/IMNYPWEP4VDMZOB3COK62KHSMQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/HHv1BPHsIICavj07Z2odFiTQndA=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-20-2020/t_74fafcf1b29243b9a5def943e485f92b_name_t_d1a80fe1206e4f32b22e917a53a03f39_name_DNC_Harris__scaled.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris’ husband becomes first second gentleman"
     excerpt: "Doug Emhoff, the husband of Kamala Harris will also be a part of history this January. Harris' historic victory will result in a whole new job title for her husband"

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump refuses to budge over aid bill, imperiling jobless benefits for millions"
-    excerpt: "Millions of Americans are about to see their jobless benefits expire on Saturday as U.S. President Donald Trump has so far refused to sign into law a $2.3 trillion pandemic aid and spending package, insisting that it did not do enough to help everyday people."
-    publishedDateTime: 2020-12-26T21:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-idAFKBN290040"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN290040"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN290040"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545851654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP0A1"
-        width: 817
-        height: 545
-        isCached: true
   - title: "SCOTUS punts on Trump bid to exclude undocumented immigrants from key Census count"
     excerpt: "The Supreme Court on Friday, by a vote of 6-3, said an effort to block President Trump from excluding undocumented immigrants from a key Census count was \"premature.\""
     publishedDateTime: 2020-12-18T20:14:00Z

@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "After Trump backs down on stimulus bill, lawmakers set to vote on higher relief checks"
-    excerpt: "Democrats in the U.S. Congress on Monday will try to push through higher pandemic relief payments of $2,000 for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
-    publishedDateTime: 2020-12-28T18:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-idUSKBN2920MG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920MG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920MG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Post-presidency at Mar-a-Lago; What Donald Trump can expect when he leaves the White House"
-    excerpt: "Living at Mar-a-Lago as a former president who lost his re-election bid will not be the same as visiting Mar-a-Lago. Here's what he can expect."
-    publishedDateTime: 2020-12-29T13:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/29/life-mar-lago-wont-like-trumps-visits-here-what-expect/4070938001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4070938001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4070938001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPPP/904061d6-1a69-47a0-b1b7-54759c8102e2-USATSI_13867755.jpg?auto=webp&crop=4615,2596,x0,y220&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "97eGi24Q0muNVTuZISvkLntdDkAOkQqjYPPG6YqO/LyqVK++Uk+ydfzhg2fwh7h4lZuQYiiUF7b5bheErv4v7QziR7hLMCg8g5CMIngy3TqCXPvlHcMF8Y50PibKn4kaT61NjrzFWoZWTx+R+Rax5XRiyySxLbSm2kX6OJX/NMskLbniPJjVMp89AbYO9HI/JsEcH+JV+JT5kacAl30FqIHaQWWzjpvai6hY1j+bf7t98CqTSrhD9PL4304Nd8I1CUkljc8HWKTKOqJAuiFeLA0gH6MNofmOMqZZVBMOdwPQaEACXRzom4iWDSGHAxC37PFLKa1Zu+7Uuu9jFhaIbM4mQYB65QNOeYCzH77aRV0=;L+DQcYfKqgAzZyqCgpNpMw=="
 ---

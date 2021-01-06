@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump signs into law stopgap funding bill to avoid government shutdown"
+    excerpt: "President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds passed by Congress to avoid a midnight government shutdown, as lawmakers negotiate a $900 billion pandemic aid bill and as part of $1."
+    publishedDateTime: 2020-12-19T08:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28S31A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28S31A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545099113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH1Q4"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump downplays impact of massive hacking, questions Russia involvement"
     excerpt: "U.S. President Donald Trump, in his first comments about a widespread data breach across the U.S. government, on Saturday downplayed the cyber espionage campaign and questioned whether Russia was to blame as alleged by his own top diplomat."
     publishedDateTime: 2020-12-20T07:22:00Z
@@ -63,21 +79,69 @@ related:
         width: 741
         height: 545
         isCached: true
-  - title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
-    excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
-    publishedDateTime: 2020-12-23T11:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X00R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R"
+  - title: "Fact check: Trump did not tweet declaring Martial Law"
+    excerpt: "A screenshot of a tweet from an account allegedly belonging to President Donald Trump circulating on social media announced his invocation of Martial Law on Dec. 18. This tweet is fabricated."
+    publishedDateTime: 2020-12-23T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-fake-trump-tweet-martial/fact-check-trump-did-not-tweet-declaring-martial-law-idUSKBN28X2HE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X2HE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X2HE"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545498490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM009"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545600510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM1CR"
+        width: 818
         height: 545
+        isCached: true
+  - title: "Trump just blew up the stimulus and spending bill. What happens now?"
+    excerpt: "It's crunch time. Here's a breakdown of where things stand on the stimulus agreement, the $2,000 direct payment proposal and what could happen next."
+    publishedDateTime: 2020-12-23T18:49:00Z
+    webUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2000-checks-stimulus-veto-spending-bill-what-happens-now-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fe36dc3a644880018193234?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T20:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-veto-threat-raises-the-prospect-of-year-end-government-shutdown-idUSKBN28X1UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X1UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X1UD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545570453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM10K"
+        width: 738
+        height: 545
+        isCached: true
+  - title: "COVID relief bill flown to Florida, where Trump went golfing"
+    excerpt: "President's insistence on $2,000 checks to most Americans, rather than the $600 Congress agreed to, has left the future of any relief payments up in the air."
+    publishedDateTime: 2020-12-26T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-trump-flown-florida-golfing/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-trump-flown-florida-golfing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/25/bce91f76-ba94-4a92-a5c7-37babe774881/thumbnail/1200x630/b296c2307f373634d121d20813368967/gettyimages-1230290576.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Musicians who opposed Trump's use of their music in 2020"
     excerpt: "President Trump has repeatedly feuded with musical acts that have sued him to prevent his campaign from using their music at events."
@@ -95,75 +159,122 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump downplays massive cyberattack while Pompeo blames Russia"
-    excerpt: "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months."
-    publishedDateTime: 2020-12-19T20:06:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-downplays-massive-cyberattack-mike-pompeo-blames-russia/"
+  - title: "Trump loyalists harboring martial law fantasies don’t know their history"
+    excerpt: "Martial law has been declared 68 times in the past, according to a law center report, though never for the reasons some of President Trump's supporters are advocating for now."
+    publishedDateTime: 2020-12-22T12:06:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/12/22/martial-law-trump-flynn-history/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/22/martial-law-trump-flynn-history/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/22/martial-law-trump-flynn-history/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/c4fe8484-65cb-4e80-9c18-bcd7156e46d5/thumbnail/1200x630/c917a8dd6992345c8768d9b7ab63fb51/cbsn-fusion-president-trump-downplays-massive-cyberattack-mike-pompeo-blames-russia-for-breach-thumbnail-612837-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VTRUUXF46ZHENFPDGRYFMCHRAY.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Eye Opener: Trump pardons former advisers convicted in Russia probe"
-    excerpt: "President Trump announced another round of pardons and commutations on Wednesday, with former advisers Paul Manafort and Roger Stone both on the list. Also, American airports are buzzing with travelers despite warnings from health officials."
-    publishedDateTime: 2020-12-24T12:49:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/24/2ba3d634-673e-4d57-b175-5c4538502b19/thumbnail/1200x630/a41c34924ee8c14dfc7664f7bb1b5694/cbsn-fusion-eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe-thumbnail-615578-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Secretary of state says Russia ‘pretty clearly’ behind major cyberattack on US government, industry; Trump silent"
-    excerpt: "Mike Pompeo says Russia was “pretty clearly” behind the gravest cyberattack against the United States on record."
-    publishedDateTime: 2020-12-19T16:53:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-russia-hacking-cyberattack-20201219-l5mgq3q7mncgjb2fe7csbkbdiu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
-    images:
-      - url: "https://www.chicagotribune.com/resizer/19lNjHaESAwNGzeUPAfEWTjRL6M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CABCYCUO3BGJHLONLPWXO7J7AY.jpg"
-        width: 1200
-        height: 796
-        isCached: true
-  - title: "Attorney General Barr breaks with Trump, says Russia likely behind cyberattack"
-    excerpt: "Attorney General William Barr said on Monday that Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. CBS News' Paula Reid reports on the latest developments and expert cyberthreat intelligence analyst Charity Wright joins CBSN to discuss."
-    publishedDateTime: 2020-12-22T04:46:00Z
-    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-trump-says-russia-likely-behind-cyberattack/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Romney says Trump has 'blind spot' on Russia, calls hack 'extraordinarily damaging'"
-    excerpt: "Republican U.S. Senator Mitt Romney said a widespread data breach across the U.S. government was \"extraordinarily damaging\" and that President Donald Trump has a \"blind spot\" when it comes to Russia,"
-    publishedDateTime: 2020-12-20T15:32:00Z
-    webUrl: "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J008N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J008N"
+  - title: "Trump refuses to budge over aid bill, imperiling jobless benefits for millions"
+    excerpt: "Millions of Americans are about to see their jobless benefits expire on Saturday as U.S. President Donald Trump has so far refused to sign into law a $2.3 trillion pandemic aid and spending package, insisting that it did not do enough to help everyday people."
+    publishedDateTime: 2020-12-26T21:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-idAFKBN290040"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN290040"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN290040"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 99
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201226&t=2&i=1545851654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBP0A1"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump signs temporary spending bill into law to avoid government shutdown - White House statement"
+    excerpt: "President Donald Trump signed a temporary spending bill into law on Sunday night to avoid a government shutdown, the White House said in a statement."
+    publishedDateTime: 2020-12-21T09:53:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-trump-idUKKBN28V0ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28V0ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28V0ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545256677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK063"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Congress passes $900 billion 'historic bipartisan rescue package' that now heads to Trump for approval"
+    excerpt: "After weeks of painstaking negotiation and months of partisan finger-pointing, the Senate resoundingly passed a sweeping COVID-19 relief package Monday, sending a bill to President Donald Trump to sign that will send millions of Americans direct payments and rescue thousands of small businesses nationwide struggling to stay open in the face of the pandemic's suffocating grip."
+    publishedDateTime: 2020-12-22T11:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/21/stimulus-checks-covid-relief-bill-ppp-loan/3990756001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3990756001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3990756001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/398cd292-4d0a-49c5-b3e1-dada011a0b40-GTY_1292304296.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Trump signs two-day spending bill, narrowly avoiding federal shutdown"
+    excerpt: "President Trump signed a stopgap spending bill Friday night, aimed at extending a midnight deadline to keep the federal government funded and avoid a shutdown. The Senate had passed the measure with a unanimous voice vote."
+    publishedDateTime: 2020-12-19T13:28:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-signs-two-day-spending-bill-narrowly-avoiding-federal-shutdown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/fe3ad989-62cc-4804-bf6a-db03fbe8588c/thumbnail/1200x630/efc1169bcb63f8ad076de34acc4fb270/1219-satmo-captiolhilllatest-reid-612724-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump veto threat raises the prospect of year-end government shutdown"
+    excerpt: "Washington on Wednesday faced the prospect of a year-end U.S. government shutdown during a raging pandemic after outgoing President Donald Trump threatened not to sign a $2.3 trillion package funding the government for another year."
+    publishedDateTime: 2020-12-23T15:10:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-idUSL1N2J314S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J314S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J314S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Trump signs bill that could kick Chinese companies off US stock exchanges unless they agree to American accounting standards"
+    excerpt: "The Holding Foreign Companies Accountable Act gives Trump another tool to threaten Beijing with before leaving office in January."
+    publishedDateTime: 2020-12-18T23:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signs-bill-that-could-kick-chinese-firms-off-us-stock-exchanges-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f9c87d76f5b310011724a21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump signs stopgap government funding bill to avoid midnight shutdown - White House"
+    excerpt: "U.S. President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds to avoid a midnight government shutdown, the White House said in a statement. (Reporting by"
+    publishedDateTime: 2020-12-19T08:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/trump-signs-stopgap-government-funding-bill-to-avoid-midnight-shutdown-white-house-idUSL1N2IZ03O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IZ03O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IZ03O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
   - title: "Disputing his own top officials, Trump blames China, not Russia, for government agency hack"
     excerpt: "Cybersecurity experts and Secretary of State Mike Pompeo say evidence points to Russia for a massive hack of U.S. government agencies, but President Trump is pointing the finger at China. CBS News White House correspondent Paula Reid spoke with CBSN's Anne-Marie Green about what the Biden administration can do to deter Russian hacking and interference,"
     publishedDateTime: 2020-12-21T15:49:00Z
@@ -178,47 +289,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump issues wave of pardons and commutations to Russia probe defendants, former GOP lawmakers, Blackwater guards, and Border Patrol agents"
-    excerpt: "Trump issued pardons and commutations to 20 people including multiple close associates ensnared in the Russia probe and former GOP congressmen."
-    publishedDateTime: 2020-12-23T10:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+  - title: "The US government changed the rules to allow more powerful showers after Trump complained about not getting enough water to wash his hair"
+    excerpt: "At a White House event in July, President Trump complained that showers weren't providing enough water for him to properly wash his hair."
+    publishedDateTime: 2020-12-16T12:52:00Z
+    webUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-rolls-back-shower-restrictions-after-trump-complained-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 91
+    quality: 92
     images:
-      - url: "https://i.insider.com/5fd0bd5ecee0cf00114fa55e?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fd9f5721803a80018adfb87?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump downplays hack as Pompeo blames Russia"
-    excerpt: "Watch \"President Trump downplays U.S. government hack as Pompeo blames Russia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-21T12:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201221123118-president-trump-downplays-u-s-government-hack-as-pompeo-blames-russia/"
+  - title: "White House indicates Trump will sign $900 billion stimulus deal brokered by Republicans and Democrats in Congress"
+    excerpt: "The legislation includes $600 stimulus checks, $300 weekly unemployment benefits, small business aid, and funds for schools and universities."
+    publishedDateTime: 2020-12-21T07:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-will-sign-900-billion-coronavirus-stimulus-package-2020-12?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 85
-  - title: "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin"
-    excerpt: "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,"
-    publishedDateTime: 2020-12-19T02:25:00Z
-    webUrl: "https://nymag.com/intelligencer/article/trump-russian-hack-solar-winds-cyber-putin.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 73
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/6af/d6c/26cd6125882e55475038280280ed424f15-trump-putin.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
 
 secured: "R5f7GVxAdMA/0Z3IXKFBoE2eg49gULaeb6ZXKmSLRssaMCztv1WRawoICXlo/xhHocT4IBvybN6RfmLBk4eHFaGx86hFAW9PMPl9QERieuGYLA3JKu0SAbUZoRZo6IUG1G23R2L0k6plLFQ8JYwiVf1aFivGjKew5k9mX4k3ujVB7pZT0FcEUD0ajBSk4JvWXy8I9xWROkjULbmkmrOyXkeWdbEYmMUqXh/R8+CnRixlj20bxh9LYc8eaY4EK9d6U6yPsuHWoTDPFoAcHJivjcPYojygN8s21GKejC3xZJNmnXQgKp5zd1BmMuOtkU3/Sm9DbAGYFxmDR8eTJ2f8fqT8TIhdIq+NbP8TQbS1ASs=;tJWGN14zDsvYHelSXwAtZQ=="
 ---

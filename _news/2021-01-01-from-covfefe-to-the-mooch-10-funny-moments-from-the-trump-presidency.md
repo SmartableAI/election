@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-preside
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Trump to give ally Nunes the Presidential Medal of Freedom"
-    excerpt: "President Trump on Monday is expected to give Rep. Devin Nunes (R-Calif.) the Presidential Medal of Freedom, the nation’s highest civilian honor, according to someone familiar with the plans."
-    publishedDateTime: 2021-01-04T04:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/03/trump-give-ally-nunes-presidential-medal-freedom/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYWUWHA2ZAI6VF32CWTHCDWW3I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "TYWZlvn4TtTgUaN3N1Et0RCJ4WYQ0wQe+jUKqBkb9XXi5dB5YC55EuqRisJIUsEAaXR532Kol6dFWbG59F5vcVizQ6BT/CnUWGEAAVC14ct6rdxLksinBHZUnkm5HsJ4+MdruWajIHn46IdIQPy0zHRvCWomGNVUOIoCotx0El5Nq7POL4zVD0HjPpbEvx/nWAwQ2JrRxNPlIAucVooWssKTMmu2HtjkgkOAJ9vz3C/umzlPtrYLwGFpkFhqZzkqc+R3HUUsHNCioQTo8ZFPulY5Hxuhv1/86FuhnwAa//Q9BarSXaOM1XbYgxuFXoJ2Xd0i4b33zP0OdJKOAfqoycou+QKIdww+ea1+j3sTINA=;6pG7rZgj3Ydh0yL6l4pCnA=="
 ---

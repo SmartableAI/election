@@ -47,54 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Coronavirus live news: Trump passes Covid aid package; Indonesia to ban foreign travellers for two weeks"
-    excerpt: "Trump has passed a $900bn aid bill to support the US economy; Jakarta cities concerns around the new strains of coronavirus for ban"
-    publishedDateTime: 2020-12-28T10:26:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates?page=with:block-5fe9a50a8f08d0452b086195"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/28/coronavirus-live-news-donald-trump-covid-aid-package-vaccine-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 108
-    images:
-      - url: "https://i.guim.co.uk/img/media/eb377370afeca0dc7ef343922c89d6431653d400/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db9160be62ba9dbf5e00db73259cab84"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus updates: Donald Trump says US 'China Virus' data exaggerated; Dr. Anthony Fauci protests, draws president's wrath"
-    excerpt: "Anthony Fauci dismissed claims tweeted by President Donald Trump that coronavirus cases and deaths in the U.S. are \"fake news.\" Latest COVID news."
-    publishedDateTime: 2021-01-04T00:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2021/01/03/covid-update-larry-king-ill-4-million-december-vaccinations-us/4114363001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4114363001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114363001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 98
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/31/USAT/414bbc39-9b0a-4ff7-9a7f-0f396afdb7c3-AFP_AFP_8XY98A.jpg?auto=webp&crop=5471,3077,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘The deaths are real deaths’: Fauci rejects Trump effort to cast doubt on U.S. COVID numbers"
-    excerpt: "All you need to do is to go out into the trenches, go to the hospitals, see what the health care workers are dealing with,' Dr. Anthony Fauci said Sunday."
-    publishedDateTime: 2021-01-03T16:12:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-anthony-fauci-donald-trump-coronavirus-death-toll-20210103-ztfw6loqkbbhvky3xa6duuxnv4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-anthony-fauci-donald-trump-coronavirus-death-toll-20210103-ztfw6loqkbbhvky3xa6duuxnv4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-anthony-fauci-donald-trump-coronavirus-death-toll-20210103-ztfw6loqkbbhvky3xa6duuxnv4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 64
-    images:
-      - url: "https://www.nydailynews.com/resizer/w30JBE-zOgHU5iyEMW_FevA5miM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DGRBNACOGBEKZMHKXDFXYNOWUA.JPG"
-        width: 1200
-        height: 734
-        isCached: true
 
 secured: "gxZy9MTp2+Nf2hUMMGo5TQkYbGNVNjQFOBqEs43pwrTnmOKlB0j621VmacwNY/Bjuw+0Enf7z5niVRia19KVft4NZt2HdYMG87D802HTklbAkxkErZylcSYDYkjLEwTwdZwi4gRjoF03Qg2dCvBbfZAo5Zcw5vD+RNp1+yX1wMUTfKbHreAFLmeyzePDEO3Sps/IM/aiTsHYyQ0KVzp5KZQ67XDwrlNI6JUGS3E3YCbzbgQkhH+zCOfKJ1B+x1oECOyYNzRs7HS82dYit8MatTLMhJeXqqp1kRgJWud76Y4TjpjXc1CAfEmpQIQdR900suhmBMGcxS67g341AyUfF/zVwdylUIHgfJs1QHJQ7HnJ2LHQtkDlXA81XgPazJyFWfLrjxgFyRhjFBtPdTcz3MCuvH2TC/ZdMcdEwSXkoNZd6+ZsjTxV0D06xEJp5NLOYSioKqVF9MdRjoQ65yK+DYTTP0UGXv2gf/sMLNZE+ypVELlNA5AHZXAJOzL7cMrhWrxCNsJ3zEJbfkrn9h4sYA==;eno/NP8KvpV2ZRp2kci9vQ=="
 ---

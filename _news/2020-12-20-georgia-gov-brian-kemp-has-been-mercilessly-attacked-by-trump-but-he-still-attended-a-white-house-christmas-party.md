@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump retweeted a call to have him jailed but Georgia Gov. Brian Kemp still won't concede that Trump lost the election"
-    excerpt: "In a new interview, Kemp declined to say that the election was over, while Trump retweeted a call for Kemp to be jailed."
-    publishedDateTime: 2020-12-16T05:41:00Z
-    webUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fd9795a6524f10019792432?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Georgia Gov. Brian Kemp mocked for attending White House Christmas party after Trump insults"
     excerpt: "Since the election, Trump has called Kemp a \"fool,\" a \"clown,\" a \"RINO,\" one of the nation's worst governors, and declared him \"finished as governor.\""
     publishedDateTime: 2020-12-20T02:21:00Z

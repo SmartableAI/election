@@ -121,6 +121,20 @@ related:
         width: 1440
         height: 895
         isCached: true
+  - title: "Biden's plans on further COVID19 relief aid?"
+    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T00:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Brother Of Joe Biden’s Closest Advisor Picks Up Amazon As New Client"
     excerpt: "Amazon has hired Jeff Ricchetti, the brother of Joe Biden’s White House counselor Steve Ricchetti, to work for its cloud platform Amazon Web Services. A new lobbying disclosure report revealed Jeff Ricchetti landed a lobbying contract with the tech retail giant last month,"
     publishedDateTime: 2020-12-27T17:18:00Z
@@ -136,6 +150,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/23/joe-biden-is-president-elect-despite-president-donald.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Joe Biden cometh, and he's bringing his czars to rule"
+    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
+    publishedDateTime: 2020-12-28T14:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "YliZH4O2vtEUNGmfapimPgTOKGcPHl27HLOTEfC490D7LJWCDP/Fp6GGi741AjiXDjW8Zn7IOqXhWbtld3Y61PWE5AS9hBxoARI/ZZQAjlOBMOrx63vNEAOyMrHziv1N6twf9L6NTg+OZAiO2tGgip2ViAZBCHxEuuyVF6m71cwFadZqzQn+AG/J5DAUQbKD8BlZVPP99zARgKDmR92o3KGOQlNSs+3etTnw71eVTmTjVEJA+YNgyru16+3oHhve+LiZlTAXEC2A3NNPJ8lCwm9DPFhFgwkcw5V3uvNgqBhscqgoqrDWO79lNVYDZC5rGlP1VznLMlW5+ToqjT78zo3Gmz6kaBMPd+CnVILc2bM=;nnlGygjn9LTq9fjVQK3XmA=="

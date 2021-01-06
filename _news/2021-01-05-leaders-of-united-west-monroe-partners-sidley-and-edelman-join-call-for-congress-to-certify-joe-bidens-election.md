@@ -31,368 +31,225 @@ images:
     isCached: true
 
 related:
-  - title: "Biden election: Mike Pence 'welcomes' senators' bid to derail result"
-    excerpt: "President Mike Pence has welcomed an effort by a group of senators to refuse to certify Joe Biden's presidential election win. The 11 Republican senators and senators-elect, led by Ted Cruz, want a 10-day delay to audit unsubstantiated allegations of election fraud."
-    publishedDateTime: 2021-01-03T16:54:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55517626"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55517626"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55517626"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 155
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5F71/production/_116333442_pence2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Biden: Trump aides setting 'roadblocks' for his transition team"
-    excerpt: "President-elect Joe Biden said on Monday many of America's security agencies had been \"hollowed out\" under President Donald Trump and the lack of information being provided to his transition team by the outgoing administration was an \"irresponsibility."
-    publishedDateTime: 2020-12-29T05:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-nationalsecurity-idUSKBN2921U4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2921U4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2921U4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545991901&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0X6"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump Retweets Claim GOP Senator Pat Toomey 'Complicit in' Massive Election Fraud"
-    excerpt: "The Pennsylvania senator on Saturday criticized his Republican colleagues' plans to challenge President-elect Joe Biden's victory."
-    publishedDateTime: 2021-01-03T18:40:00Z
-    webUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584"
-    ampWebUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 135
-    images:
-      - url: "https://d.newsweek.com/en/full/1696945/donald-trump-2020-election-white-house.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Congressman, other Republicans sue Vice President Pence in last-ditch effort to overturn Biden win"
-    excerpt: "Rep. Louie Gohmert and other Republicans' lawsuit is effectively attempting to reverse President-elect Joe Biden's victory over President Donald Trump."
-    publishedDateTime: 2020-12-28T18:55:00Z
-    webUrl: "https://www.cnbc.com/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/28/gohmert-other-republicans-sue-pence-in-last-ditch-effort-to-overturn-biden-win.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 126
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106816660-1609177703757-gettyimages-1230000337-house_freedom468_120320.jpeg?v=1609177793"
-        width: 4829
-        height: 3220
-        isCached: true
-  - title: "Biden inauguration to feature virtual, nationwide parade"
-    excerpt: "President-elect Joe Biden’s inauguration will include a “virtual parade across America” consistent with crowd limits during the coronavirus era"
-    publishedDateTime: 2021-01-04T01:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-feature-virtual-nationwide-parade-75027469"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-virtual-nationwide-parade-75027469"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-feature-virtual-nationwide-parade-75027469"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5b154f12b3704f6d9eafe32fd554a658_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden inauguration to feature virtual nationwide parade"
-    excerpt: "President-elect Joe Biden’s inauguration will include a “virtual parade across America,” consistent with crowd limits during the coronavirus era, organizers announced Sunday. Following the swearing-in ceremony on Inauguration Day,"
-    publishedDateTime: 2021-01-05T23:22:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-01-03/biden-inauguration-to-feature-virtual-nationwide-parade"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-03/biden-inauguration-to-feature-virtual-nationwide-parade?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-03/biden-inauguration-to-feature-virtual-nationwide-parade?_amp=true"
+  - title: "Biden inauguration events to include memorial for COVID-19 victims"
+    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
+    publishedDateTime: 2020-12-31T16:33:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d37e9f8/2147483647/strip/true/crop/4402x2875+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F19%2F2b%2F937f1f2148c4944890912ed311ec%2Fla-photos-1staff-654636-alex-jones-rally-jja-003.JPG"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "Pence seeks dismissal of suit aiming to overturn election"
-    excerpt: "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presidential election won by Joe Biden when Congress formally counts the Electoral College votes next week."
-    publishedDateTime: 2021-01-01T14:35:00Z
-    webUrl: "https://www.businessinsider.com/pence-seeks-dismissal-of-suit-aiming-to-overturn-election-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pence-seeks-dismissal-of-suit-aiming-to-overturn-election-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-seeks-dismissal-of-suit-aiming-to-overturn-election-2021-1?amp"
+  - title: "Biden taps more Obama alums for key foreign policy jobs"
+    excerpt: "Wendy Sherman, the chief U.S. negotiator of the Iran nuclear deal, is expected to be picked to serve as deputy secretary of state."
+    publishedDateTime: 2021-01-05T23:02:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
-    excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."
-    publishedDateTime: 2020-12-30T19:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-transition-idUSKBN29422E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29422E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29422E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546198325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT17D"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HMOG6OSPUQI6XPNEMFNK57IFKU.jpg&w=1440"
+        width: 1440
+        height: 956
         isCached: true
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2020-12-30T20:32:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+  - title: "On day of protest, Biden supporters should stay home"
+    excerpt: "I hope supporters of President-elect Joe Biden stay away from any D.C. demonstrations on Wednesday. The election results are a stronger message than any chant or placard. Just let the true-believer sore losers have their moment so we can get on with the important business of 2021."
+    publishedDateTime: 2021-01-05T21:36:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CBXK66SEPMI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden inaugural activities to include memorial service for covid victims"
+    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
+    publishedDateTime: 2020-12-31T12:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
+    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
+    publishedDateTime: 2020-12-29T11:00:00Z
+    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
+    excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
+    publishedDateTime: 2020-12-31T00:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
         width: 1200
-        height: 741
+        height: 675
         isCached: true
-  - title: "11 More Republican Senators Say They Will Vote Against Certifying Joe Biden's Electoral College Win"
-    excerpt: "While their opposition will not change the election results, it will drag out the certification vote and likely further deepen partisan divisions."
-    publishedDateTime: 2021-01-02T19:49:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/senate-republicans-electoral-college-results-certify-object"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/senate-republicans-electoral-college-results-certify-object"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/senate-republicans-electoral-college-results-certify-object"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 111
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/12/11/campaign_images/buzzfeed-prod-web-04/republicans-confirmed-a-lot-of-judges-while-every-2-19652-1536766859-0_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
-    excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions."
-    publishedDateTime: 2021-01-01T12:23:00Z
-    webUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Some GOP lawmakers push to dispute Joe Biden's victory"
-    excerpt: "At least a dozen Republican senators say they will officially object to Joe Biden's victory in the Electoral College during a joint session of Congress on Wednesday. The group, led by Senator Ted Cruz of Texas,"
-    publishedDateTime: 2021-01-04T18:02:00Z
-    webUrl: "https://www.cbsnews.com/video/some-gop-lawmakers-push-to-dispute-joe-bidens-victory/"
+  - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
+    excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
+    publishedDateTime: 2020-12-11T19:55:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/04/f493bbcf-2362-43ba-862b-75811972c95f/thumbnail/1200x630/910b5622a37d6cdee14a25e9be9f26d9/0104-cbsn-hkb-goplawmakersdelaybiden-619831-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
-    excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
-    publishedDateTime: 2020-12-30T13:58:00Z
-    webUrl: "https://www.khou.com/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
+    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
+    publishedDateTime: 2021-01-04T18:16:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 102
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
     images:
-      - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Amazon hires lobbyist with ties to President-elect Joe Biden's White House counsel"
-    excerpt: "CNBC.com reporter Brian Schwartz discusses whether Amazon's new hire in Washington, DC could present a conflict of interest with one of President-elect Joe Biden's closest advisors."
-    publishedDateTime: 2020-12-28T13:33:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/28/amazon-hires-lobbyist-with-ties-to-president-elect-joe-bidens-white-house-counsel.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 99
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106816491-16091598732ED4-REQ-122820-wex-amazon.jpg?v=1609159872"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Louie Gohmert sues Mike Pence in bid to overturn election results"
-    excerpt: "A group of Republicans led by Rep. Louie Gohmert on Monday sued Vice President Mike Pence arguing that he is legally authorized to choose pro-Trump electors when Congress meets next month to certify the results of the presidential election."
-    publishedDateTime: 2020-12-28T18:42:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/louie-gohmert-sues-mike-pence-bid-overturn-electio/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/29/congress_judiciary_96421_c0-0-3786-2208_s1200x700.jpg?962ee6637fa28f773de275bdd510053858c8f287"
+      - url: "https://www.chicagotribune.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Republican legislators sue Mike Pence to try to undo election results"
-    excerpt: "A group of Republican legislators led by U.S.  (R-Texas) is suing Vice President Mike Pence, hoping that it will end up allowing Pence to choose which electoral votes should count from states in which President Donald Trump lost."
-    publishedDateTime: 2020-12-29T11:41:00Z
-    webUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html"
-    ampWebUrl: "https://www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/elections/2020/12/republican-legislators-sue-mike-pence-to-try-to-undo-election-results.html?outputType=amp"
+  - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
+    excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
+    publishedDateTime: 2021-01-03T03:37:00Z
+    webUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
+    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 90
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWTMB2TV3RDGFEJHU4SWWC5A34.jpg"
-        width: 3052
-        height: 2034
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/joe-jill-biden.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Louie Gohmert sues Pence in far-fetched bid to overturn election results on Jan. 6"
-    excerpt: "Rep. Louie Gohmert of Tyler is suing Vice President Mike Pence in an improbable bid to overturn President-elect Joe Biden’s victory. Gohmert and"
-    publishedDateTime: 2020-12-28T20:36:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/12/28/louie-gohmert-sues-pence-in-far-fetched-bid-to-overturn-election-results-on-jan-6/?outputType=amp"
+  - title: "Joe Biden selects three Texans for White House staff"
+    excerpt: "Three Texans are. President-elect Joe Biden and Vice President-elect Kamala Harris announced the appointments Tuesday of three Democratic operatives with"
+    publishedDateTime: 2021-01-06T02:24:00Z
+    webUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 75
+    images:
+      - url: "https://thumbnails.texastribune.org/lizlcxbguJPX5REvUaO4EjQslQI=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d73f7ca54a1e8d5ef4ee5cb17ce7d8cc/White%20House%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
+  - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
+    excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."
+    publishedDateTime: 2021-01-04T19:47:00Z
+    webUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281"
+    ampWebUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/joe-biden-warned-that-the-virus-crisis-might.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "George W. and Laura Bush will travel to D.C. to attend President-elect Joe Biden’s inauguration"
+    excerpt: "Former President George W. Bush and his wife, Laura, “look forward to returning to the Capitol for the swearing in” of President-elect"
+    publishedDateTime: 2021-01-06T01:54:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/05/george-w-and-laura-bush-will-travel-to-dc-to-attend-president-elect-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/05/george-w-and-laura-bush-will-travel-to-dc-to-attend-president-elect-joe-bidens-inauguration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/05/george-w-and-laura-bush-will-travel-to-dc-to-attend-president-elect-joe-bidens-inauguration/?outputType=amp"
     type: article
     provider:
       name: Dallas Morning News
       domain: dallasnews.com
-    quality: 84
+    quality: 63
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JhGbxKDWa215V-r3Lg0FdsT-nDU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHD73RRQY3BMTNRG6DKQ45VLPI.jpg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/64lHv9K2CyG5PiPyPf14fPUt1PM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/YXUUWICKWRG7BKAHK4SVIBIQ4U.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Texas’ Ted Cruz Leads 11 Senators in Attempt to Challenge Joe Biden’s Victory"
-    excerpt: "Texas Sen. Ted Cruz said he will spearhead a drive by nearly a dozen Republican senators to challenge President-elect Joe Biden’s victory in the Senate."
-    publishedDateTime: 2021-01-02T19:55:00Z
-    webUrl: "https://timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads-11-senators-in-attempt-to-challenge-joe-bidens-victory/"
-    ampWebUrl: "https://timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads-11-senators-in-attempt-to-challenge-joe-bidens-victory/amp/"
-    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads-11-senators-in-attempt-to-challenge-joe-bidens-victory/amp/"
+  - title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
+    excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
+    publishedDateTime: 2021-01-03T23:21:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
     type: article
     provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 72
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 53
     images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2021/01/Ted-Cruz.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "US Election: Meet the kids who are related to Joe Biden!"
-    excerpt: "As January and Joe Biden's inauguration day gets closer we wanted to get to know a little more about the future President of the United States so Hayley spoke to some children who are related to him."
-    publishedDateTime: 2021-01-05T08:48:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/55317647"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 70
-    images:
-      - url: "http://c.files.bbci.co.uk/14DA1/production/_116090458_p091lgd7.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The Unprecedented Drama of Joe Biden’s Election Certification"
-    excerpt: "The ceremonial aspect of congressional certification gives Trump supporters chances to voice their personal objections to the presidential election. But it can’t change the outcome."
-    publishedDateTime: 2021-01-06T00:18:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/the-unprecedented-drama-of-joe-bidens-election-certification"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/the-unprecedented-drama-of-joe-bidens-election-certification?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-05/the-unprecedented-drama-of-joe-bidens-election-certification?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "'We'll hear the objections' to Electoral College results, Vice President Mike Pence promises"
-    excerpt: "Vice President Mike Pence stopped short of saying he would do anything other than allow Republican objections to Electoral College votes to be heard."
-    publishedDateTime: 2021-01-04T21:24:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/elections/2021/01/04/electoral-college-certification-mike-pence-promises-hear-objections/4130687001/"
-    ampWebUrl: "https://amp.statesman.com/amp/4130687001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4130687001"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/eb8d47e8-dbef-4300-b47d-0eea8dc13aee-AP20343703704788.jpg?auto=webp&crop=5999,3374,x0,y508&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
-    excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."
-    publishedDateTime: 2021-01-01T02:42:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-josh-hawley-certification-20201230-6q77jnxukfghhgqitdlzrk657u-story.html?outputType=amp"
+  - title: "Which Texas Republicans in Congress plan to object to certifying Joe Biden’s Electoral College victory?"
+    excerpt: "More than a third of the 25 Texas Republicans in Congress plan to object to the certification of Democrat Joe Biden’s White House victory"
+    publishedDateTime: 2021-01-05T17:18:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/05/which-texas-republicans-in-congress-plan-to-object-to-certifying-joe-bidens-electoral-college-victory/"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 62
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 39
     images:
-      - url: "https://www.courant.com/resizer/85Xf4PTOdf76QQecBE6bXOrleHs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7MEZB6KZLEGBLDVQGQMT47SUSY.jpg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LbXccO3V0HDUT3mrZSSCSusJXHc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2G57R5URCEHUMWCRYIGQMRW56A.jpg"
         width: 1200
-        height: 741
-        isCached: true
-  - title: "Ted Cruz says he’ll object to certification of Electoral College votes that will make Joe Biden’s victory official"
-    excerpt: "Joining several other U.S. senators, Cruz is calling for an emergency audit of election results in “disputed states,” despite no evidence of widespread election fraud."
-    publishedDateTime: 2021-01-02T18:28:00Z
-    webUrl: "https://www.texastribune.org/2021/01/02/ted-cruz-joe-biden/"
-    ampWebUrl: "https://www.texastribune.org/2021/01/02/ted-cruz-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/02/ted-cruz-joe-biden/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 53
-    images:
-      - url: "https://thumbnails.texastribune.org/ftxVKbEhRfpVXKBn_MDYBTUKqkw=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/3fd88bc2ff428be827eb86ec08cff34c/Ted%20Cruz%20REUTERS%202020%20TT.jpg"
-        width: 1200
-        height: 804
-        isCached: true
-  - title: "John Cornyn says he won't join growing number of Texas Republicans planning to object to certification of Joe Biden's win"
-    excerpt: "The state's senior senator said Tuesday he will not object to certifying President Donald Trump's reelection defeat \"based on unproven allegations.\""
-    publishedDateTime: 2021-01-05T18:43:00Z
-    webUrl: "https://www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/"
-    ampWebUrl: "https://www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 50
-    images:
-      - url: "https://thumbnails.texastribune.org/Z9D2ut_rQy0arSv7iRJw9d2_hBo=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/58eb5d0589c44f8099a945abbe74087d/John%20Cornyn%20REUTERS%202020%20TT%20.jpg"
-        width: 1200
-        height: 804
+        height: 630
         isCached: true
 
 secured: "+8J6oCwaAvWPiLtXwp18rurvnFXqpYgpOGfVLuanZMKfwLIFsj1etCGP3qCCc+zj/hcCL6sZOdOxT5/WVsgGI1fIDZM0AwSzROdfcYQMnC4uN0TXlXMg1aCnnvWiS+zgxzjhbgexdnptfupGqn9XMy4k1lzFUkJQwcWwvu+Oqdh7ww/2TMSCqWj43T9cnAoOK7QjdmEcSljYTxVTTuoE4dA36wHp3/75Q3jerjnLRVNEvTEiuYJPBJrU2rRUtxuBX+LoV5ZnscqUtzmdVOQcPz8P2NlzTdEM6UFKhYd25KY+/Bi7cdMNBL0hjimSDkdHr4Q9135Z1ffnnYobH/X78G/RUY/Mn+ymRgRQO3p0YqNNnU2ggxKIOetpia7PxcxP4wvHkMPb0/1PXy9kkfR0nRYPA3X+UQJ+B8eR5uVu8Va3LtBDqNIm42ZU9xv+973l+Ryy2on2XOsltDBs7n4UVW+Id9T4TdNBGIB1+r4b9LKHCPG5aPE2MDzPXAkgyFV+fnKl/hfpuSma64LKdjovHA==;DOOKRBtDjItEgwlfRusTYw=="

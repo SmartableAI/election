@@ -47,6 +47,54 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "'The big one': Trump intervenes in Paxton election challenge"
+    excerpt: "President Donald Trump called Texas Attorney General Ken Paxton's lawsuit seeking to overturn the results of four battleground states \"the big one.\""
+    publishedDateTime: 2020-12-09T23:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/state/2020/12/09/trump-says-he-intervene-ken-paxton-election-challenge/3863232001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3863232001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3863232001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/10/16/PNJM/ab735998-58db-4bb3-a4ee-d45b37fde15d-AP18289755961109.jpg?auto=webp&crop=5403,3025,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Wisconsin Supreme Court tosses Trump election lawsuit"
+    excerpt: "The Wisconsin Supreme Court has rejected President Donald Trump’s lawsuit attempting to overturn his loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-15T00:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-supreme-court-tosses-trump-election-lawsuit-74717684"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-tosses-trump-election-lawsuit-74717684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-tosses-trump-election-lawsuit-74717684"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ffc49f2217ed4fb08c48607068ebc598_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "President Trump seeks to join Supreme Court lawsuit challenging election results in 4 key states"
+    excerpt: "The president did not present evidence of fraud. To back up his request, he cited partisan polls purporting to show Americans distrust the election."
+    publishedDateTime: 2020-12-09T22:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/donald-trump-seeks-join-supreme-court-lawsuit-challenging-election/3870238001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3870238001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3870238001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Wisconsin governor certifies Biden as winner of state"
     excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
     publishedDateTime: 2020-12-01T06:03:00Z
@@ -127,36 +175,28 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Ivanka Trump Deposed In Inauguration Fund Lawsuit"
-    excerpt: "President Trump's eldest daughter gave a deposition this week in connection with the suit, being heard in a Washington, D.C. court. She condemned the investigation on Twitter."
-    publishedDateTime: 2020-12-03T15:26:00Z
-    webUrl: "https://www.npr.org/2020/12/03/942054569/ivanka-trump-deposed-in-inauguration-fund-lawsuit"
+  - title: "Trump Looks Past Supreme Court Loss to New Election Lawsuit"
+    excerpt: "President Donald Trump says his campaign will join an improbable case before the Supreme Court challenging election results in Pennsylvania and other states that he lost."
+    publishedDateTime: 2020-12-09T15:14:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit?context=amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20301833488219_wide-7c4d6471270d895c2cdd40e0ba918e8e36ce43d9.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
-    excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
-    publishedDateTime: 2020-12-01T08:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Wisconsin Courts to Consider Trump's Election Lawsuits"
+    excerpt: "President Donald Trump’s extraordinary effort to overturn Joe Biden’s win in Wisconsin is returning to the courtroom."
+    publishedDateTime: 2020-12-10T05:01:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits?context=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 96
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKGJIERTLMI6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "h/plvrEu5NnGAkUnZMsOMCxCUJ/y8uYVPE2ITv9jMwQ0hWUr8t3iVtbkpd01bEm7ZvQWuzP2kJ1cG1JvlAtm6pcm6s5t+RE9QdqkD2FduaZ3zNf0tsSJstA4dZt4UEIWYomOd5R66/j9UVLt7b62+bsFrI5yGZs97iUXptWtBUVbWV5Cp/qdd2HuaT7prjjM6PitcXzoW5cLt9JznLRmHovTRAB9EFvwetYqy/PKhK1kQ9amOSbOSjsPxUTzxhhyCMBK0bAjcsVMmwsRP5TpUs0BeroufwvQQTPWYQdf0msE2tuUYZdRApoYxgQjJZQoq9/LlVXE4qFT5n4NlLoIpuVwh8+UzjcChTF8E8GYCvAAUHw9mU2iTB7MZrFtLuJLJNe07c1PT6jrTaxB1OAcRBujdqDXeMUvuWsQXGje8amhncX9vl6ZDsRy2we1EzxDRucVDacVNy0eHw6NUo6wG1hUCs3EFXSimrWXsuLZFGwZmlboowv3DhXkYChTMkbdkiZ1NJSuJJ7Y1380TdLWdQ==;tIPl+dt+HIa4+V1cnAArYQ=="
 ---

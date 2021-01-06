@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/local/public-safety/legal-immunity-re
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 152
+published: true
 
 provider:
   name: Washington Post
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration cuts $200M in health care funds to California over abortion regulations"
-    excerpt: "The office of California Gov. Gavin Newsom criticized the Department of Health and Human Services' move as an ploy “to score cheap political points.\""
-    publishedDateTime: 2020-12-17T04:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3936091001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001"
+  - title: "Trump administration rushes to roll out a $250 million public education effort to encourage Americans to get vaccinated"
+    excerpt: "A large-scale public education campaign, delayed by false starts and investigations, will get off the ground just as the coronavirus vaccine becomes available to high-risk Americans."
+    publishedDateTime: 2020-12-14T17:15:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-coronavirus-vaccine-education-campaign-20201214-3ec6b2uhbrculh453ywiz3x7ju-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/c0d4457f-287a-47de-8e20-c14e47642a61-AP19180773998983.jpg?auto=webp&crop=2819,1586,x0,y412&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/vhYxJnm77JRG0ft5QUfsg3oZUCk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VK557JGXCB74AHEZ4WDSK7AYNU.jpg"
         width: 1200
-        height: 675
+        height: 801
+        isCached: true
+  - title: "The Trump administration is mulling immunity for Saudi Crown Prince Mohammed, who is accused of sending a hit squad to kill an exiled spy chief"
+    excerpt: "Jabri, a former Saudi intel official, filed a complaint in a US federal court accusing Crown Prince Mohammed of ordering a hit squad on him."
+    publishedDateTime: 2020-12-22T11:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-considering-immunity-saudi-mbs-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fe1bb31d366e60018099876?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "kNYypUkPyqbrK0JzBKEUEv4mZOBNtYu8r40COcsqjh6nQTa8vuJLPWIAYeprrMNdAbMoAwtF2NMG6V6eQhuZ0yaDcSCw3/e895jw+C/kq7z9yAu9VWGylw//T6pKTJEjDxa19uNhhIXImwlW0payEW0enH72Fy3G40LeLyVJlhe5kYCpyXRLBfT0D+YNw/oN4T5UD1byKqx0IUWbxaDborYnBnm2vQU78ldT3jMvGBvyirwuPJb8ze6abgD1a9jrtQQE7BLh0ogKNYXu5QXIfkvesd8rY1etrpHJjRQXcjZPSvoytqCPEBNSnbL2DTwCTYF7/heLO1PRlqecfTdawvS0qG4tMVzHYrevZ0qLgVg=;hc2Qaov9EfIj25iGbxoAww=="

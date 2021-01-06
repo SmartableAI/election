@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump expands his cable diet to Newsmax and OAN. They benefit and so does he."
-    excerpt: "Presidential praise has boosted ratings, and more viewers can then increase pressure on Republicans to back Trump’s false claims of election fraud."
-    publishedDateTime: 2020-12-14T02:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cable-news-newsmax-oan/2020/12/10/041d2958-3969-11eb-bc68-96af0daae728_story.html?outputType=amp"
+  - title: "Saturday Night Live Mocks Trump's New Favorite Network Newsmax"
+    excerpt: "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the"
+    publishedDateTime: 2020-12-13T10:41:00Z
+    webUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381"
+    ampWebUrl: "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3ZFN5BLPAI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1685494/snl.png"
+        width: 890
+        height: 593
         isCached: true
-  - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
-    excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
-    publishedDateTime: 2020-12-08T09:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
+  - title: "Coronavirus live news: Trump 'to be offered vaccine on Monday'; London borough to close all schools"
+    excerpt: "Greenwich ‘in a period of exponential growth that demands immediate action’; Spain’s health minister says vaccine could bring herd immunity by summer"
+    publishedDateTime: 2020-12-13T22:29:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day?page=with:block-5fd68aab8f08b0a99da950e2"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/13/coronavirus-live-news-germany-to-tighten-restrictions-as-us-nears-300000-deaths-after-another-record-day"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/aa43b0326b5deb79f2e3c35acff29d03650abc3a/0_197_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e40d3e6031803dbbb1e1b649f700a6f"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "vMnfwxHG7840bUnxvRTHsBEsNqqX25pZ1XVe3/f0HO4bLYdPY1Ud1mb4Y0T5NQa79m5xCjGkxfrOpZyLOPkfPEA9msAOlFskSYvTBH0oTUsTxtSqU134zK0UA8DNU+maYnMFTfoSJhv5dvxKJm0P3470p/xE3AGa+FHiPs3YYvPJUyBlII1wcAT9EzC4wdNYCfGnK11LYwvpcHfuZSULRVfduoJWEEmi3mK2/w4v59ZDcRZoUq5ZjF1sd311n2FJXxVp0+I0DBeDZEgQr0YlIPvtcgPG4cEHqiDfVfL5YU8MfPzBPSgyhzA3GfFTVGtM82FTGXg8xU5AUlobggnhT7XxfdPXcAPztrdJU8d6g1Q=;aBowJEZ+CodwG5d8LTwR5Q=="

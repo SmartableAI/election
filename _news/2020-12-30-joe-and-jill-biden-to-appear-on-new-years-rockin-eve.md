@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis
 webUrl: "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis-capaldi-dick-clark-582a11fe48bccec094633ca0e4e9521c"
 type: article
 quality: 105
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/9381609336417/2020/upi/35ba2dea73fadc3b6f0429ce1e19ecdd/v1.5/Joe-Biden-Jill-Biden-to-give-interview-on-New-Years-Rockin-Eve.jpg?lg=2"
         width: 800
         height: 532
-        isCached: true
-  - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
-    excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
-    publishedDateTime: 2021-01-03T03:37:00Z
-    webUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
-    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/joe-jill-biden.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Joe and Jill Biden to appear on 'Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2021'"
     excerpt: "President-elect Joe Biden and soon-to-be First Lady Jill Biden will appear on “Dick Clark’s New Year’s Rockin’ Eve\" for their final interview of 2020."

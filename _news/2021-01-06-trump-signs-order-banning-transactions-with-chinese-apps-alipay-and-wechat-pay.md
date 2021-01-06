@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp"
 type: article
 quality: 121
-heat: 141
+heat: 181
 published: true
 
 provider:
@@ -31,6 +31,33 @@ images:
     isCached: true
 
 related:
+  - title: "Trump signs order banning transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
+    publishedDateTime: 2021-01-06T00:44:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-china-tech-exclusive-idUKKBN29A2PG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29A2PG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29A2PG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546717743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
+        width: 815
+        height: 545
+        isCached: true
+  - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
+    publishedDateTime: 2021-01-06T02:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-tech-idUSL1N2JG2FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms"
     excerpt: "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms."
     publishedDateTime: 2021-01-02T14:45:00Z
@@ -48,6 +75,6 @@ related:
         height: 600
         isCached: true
 
-secured: "R9j+W8jUfaYghbF2kzicVafGNq3dAWxa0ozkE3ew8iUFRS+4WIHXJprnDcL/5lkFBG2n3F/0xpJykYjXcMVu2Z7cu6YDLHZXaQ2iww8lL7wMclmJy6StVgyUVHRiUj5qeZ9tOs0ijM107+pDCq48za+bMnIN/r/H3si+aNqc0ERSvT+HY5bu/kTjSlVnGrzsCKHs4fbFjhGPMOyN4KYFG411Qqqxsrjy2vJfbnTujjUOk6lBbTJOtxWDXKVyR4jeI5fj5xED75mZfzj5nYn7OcA3ig+wx+xo81DzaoJV19pKuGlaDOKmXc5acVqIO/LFMmcUVza+78NNKUDiP0S5u5DPt0zYHEEznIY+mqQ9QuU=;v26IaEqI9YRAMEOGLdrVPA=="
+secured: "WuxgOtMPhvpeW2EkfLzds0e4OiNPl5gYgSfo05IXWv79RgmfZZx4i34c0DesVUCu6Ov6S1J4wlswtul9Vso/EC9YqbePZAQATZSW6qjIJ1BZ87purjZujAZHEpMBqP/cz7K+eE57gE2q70w7y5QqaCI25+Fvo9r/l3pbPYPMCRj6crwjASVOcwqikrAM4NuTrjbZjHKnj4BH/wejzdFOorSqPtubdLh35wXhR7UewBG/4x5T2BG8MpAy0bwpn+jnTI6aIVpHXBLCUbJ0DNkaeEyObpOCRYeMnHmodK3KyOr8xmglIukZUARTohD2q9hiKlJeGGPSOMyoApbF9i7S6iZk8Q6IaMzq5NjQUywbH8k=;QKTs5bE36WVLbpLdJKnQnQ=="
 ---
 

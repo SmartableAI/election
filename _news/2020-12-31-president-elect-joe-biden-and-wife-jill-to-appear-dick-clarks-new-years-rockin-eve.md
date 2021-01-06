@@ -47,38 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Fact check: False news report indicates Biden plans to step down as president-elect"
-    excerpt: "Viral posts posing as a news report falsely claim that Joe Biden is resigning as president-elect due to health issues. This is unfounded."
-    publishedDateTime: 2021-01-05T21:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/05/false-claim-biden-plans-step-down-president-elect/4113914001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4113914001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4113914001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
-    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
-    publishedDateTime: 2020-12-29T11:00:00Z
-    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
-    images:
-      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "+HCS5/5w7dUvC7Qdi3YBcdba/JQt7gsGd7cJgFTRDon9+24EXMscS8YPi6xDayXUHuH9PEwSQ4r+oTS8L2ujl5PpTeYyKSN0ebAMHjLblmmM2eNvVReR+atCEPZDjCT96jcwe3rEbUim45UNQJPfK83oMXpcC7rr/x1xmn8ZZL7v9GsC8wQSRdKyBPC7778EKbKlOgUMo2MkH02trRqJWDHShkU3PdF6RIhqotfsuL5LLDi0z1Lwn2uIyUBnNvrhAq/yZHE+BPthUi2T9vsyGThdV5U68Cvl93aA/lLarkm38Izj+g97cvV5j2UN2/9AX0/gJRbVz0Q+lKfkspa14oLg6GivyuCv11zQZSaJcYZAN4wh99PxjUgpCZfBqPubF8el+PV4pXhgkoTPDPivZj/Z/rgu7NgSWb2kcd3eVbxZVSdmxD1efq5IEoq+BMqFpduIUfrTbRdz48dKHIcCMMmuOqhFA0I/GNsUacRxk5KrAnt2j3QTN6bZVFrk4ZTna10AEjBUjg7UYUD9+KDKJA==;6ksv9wOyKlj6wNJ96vGyHQ=="
 ---

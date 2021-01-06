@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump injects politics into the vaccine — again — at a most inopportune time"
-    excerpt: "In an early-morning tweetstorm, Trump suggested the FDA and its head, Stephen Hahn, weren’t moving fast enough."
-    publishedDateTime: 2020-12-11T16:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7F6WHEEEFYI6VANDS2IMTCARCE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Coronavirus vaccine, pro-Trump DC rally, Army-Navy game: 5 things to know this weekend"
     excerpt: "CDC advisors meet to review data on Pfizer and BioNTech's COVID vaccine, Trump supporters plan for DC rally and more things to start your weekend."
     publishedDateTime: 2020-12-12T10:38:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/31dda42b-429a-49d4-9149-e586d64a933f-USATSI_15294432.jpg?auto=webp&crop=3499,1969,x0,y145&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Four People Stabbed and At Least 23 Arrested at Pro-Trump Rally in D.C."
-    excerpt: "Trump demonstrators after sundown Saturday. WRC-TV reported that four people were taken to a hospital with stab wounds, and the Metropolitan Police Department told the station that 23 people were arrested."
-    publishedDateTime: 2020-12-14T02:14:00Z
-    webUrl: "https://time.com/5921156/stabbing-trump-rally-washington/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/12/D.C..jpg"
-        width: 4841
-        height: 3227
         isCached: true
 
 secured: "urkzI5V4ge+PTS58/NhQAgrfQN8mFwYZ4lhj7pwwCo96MyjDtTxZU3C8inRkPh1kIJz9cczhyYxMIregyqrQYmqr3Z1oksJRf0rCxlKEljjBuQCDmXx8K1NKfgbvhySs7fpmHGb9PFovDK79UIxMhAOAqmoXkwnTDqOBPn6KHOFpYLOmkRpp8ej1+CYoEJpOFMIxJ4s89sfBMIYN25V9UuzJ7csRtV63EbMbvCwrYMVTQbL9L8XgfaZJVkGa8k/3Hg58ILEVRtEwYoQrRc+jwi3X0mc3WxSumaxcezg7ENfJtosktlnrqfLt9jRnFCNQ7NMoAbHdxx1qrxK2Qn/HAV+DqWQ8iZfqDQ8IBHHn/u/xtBtxbWSmo5Z8tH2lwwTMjFQnFlI1/gcr3NI5FUIZJ8jxX/7C+E6r416s6VPUth2lVXM+0AOj/m1qsvnhWMkEOX02x9zuk//GhsMQruEx35nRYrJ9rodyx1sZqE12BkYFlWClP3H0Y/loPL1Cl2rSTzgCGlvZUIgUSX9OhqV+RA==;qhVPtqA1SQT/eHXnjwbnPQ=="

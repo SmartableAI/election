@@ -25,6 +25,166 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Trump vows to intervene in Texas election case before Supreme Court"
+    excerpt: "President Donald Trump on Wednesday vowed to intervene in a long-shot lawsuit by the state of Texas filed at the U.S. Supreme Court trying to throw out the voting results in four states he lost to President-elect Joe Biden as he seeks to undo the outcome of the election."
+    publishedDateTime: 2020-12-09T14:44:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J1VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Michigan’s top court spikes election lawsuit by Trump allies"
+    excerpt: "The Michigan Supreme Court has rejected an unprecedented request to take control of ballots and ballot boxes from the Nov. 3 election and appoint someone to investigate claims of vote-counting fraud i"
+    publishedDateTime: 2020-12-09T21:39:00Z
+    webUrl: "https://www.washingtonpost.com/national/michigans-top-court-spikes-election-lawsuit-by-trump-allies/2020/12/09/29487b4e-3a66-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/michigans-top-court-spikes-election-lawsuit-by-trump-allies/2020/12/09/29487b4e-3a66-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michigans-top-court-spikes-election-lawsuit-by-trump-allies/2020/12/09/29487b4e-3a66-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump looks past Supreme Court loss to new election lawsuit"
+    excerpt: "President Donald Trump says his campaign will join an improbable case before the Supreme Court challenging election results in Pennsylvania and other states that he lost"
+    publishedDateTime: 2020-12-10T10:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-past-supreme-court-loss-election-lawsuit-74624527"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-past-supreme-court-loss-election-lawsuit-74624527"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-past-supreme-court-loss-election-lawsuit-74624527"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_03b66442def44970a3cbd37ffc2e4338_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump tries to revive stalled election-eve drug discounts"
+    excerpt: "The Trump administration is trying to revive the president’s stalled election-eve plan to send millions of Medicare recipients a $200 prescription discount card"
+    publishedDateTime: 2020-12-09T16:32:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-revive-stalled-election-eve-drug-discounts-74625958"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-revive-stalled-election-eve-drug-discounts-74625958"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-revive-stalled-election-eve-drug-discounts-74625958"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62187347b7524ff094589a0517a2d56e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump's election fight puts embattled Texas AG in spotlight"
+    excerpt: "A longshot lawsuit that President Donald Trump is now calling “the big one” in his effort to overturn the outcome of the presidential election is helmed by an embattled Texas ally who is likewise tryi"
+    publishedDateTime: 2020-12-10T16:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-election-fight-puts-embattled-texas-ag-spotlight-74639043"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-election-fight-puts-embattled-texas-ag-spotlight-74639043"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-election-fight-puts-embattled-texas-ag-spotlight-74639043"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "As he rails on election, Trump largely mum on toll of virus"
+    excerpt: "President Donald Trump has been highlighting lots of really big numbers this week: New highs for the stock market. The 100-plus House members backing a lawsuit challenging his election loss. The nearly 75 million people who voted for him."
+    publishedDateTime: 2020-12-12T09:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/f044daa0-3c30-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/f044daa0-3c30-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/f044daa0-3c30-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "EXPLAINER: Baseless claims fill Trump-backed election case"
+    excerpt: "The latest lawsuit seeking to subvert President Donald Trump’s loss makes a barrage of claims that don’t hold up under basic scrutiny, no matter how relentlessly Trump promotes the case and pushes law"
+    publishedDateTime: 2020-12-12T01:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Pro-Trump groups to march and pray to protest president's election loss"
+    excerpt: "Conservative groups that allege without evidence that President-elect Joe Biden stole the U.S. election from Donald Trump plan protests nationwide on Saturday, including a Washington rally headlined by Trump’s recently pardoned former national security adviser."
+    publishedDateTime: 2020-12-12T11:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-groups-to-march-and-pray-to-protest-presidents-election-loss-idUSKBN28M0E5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544333067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB064"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Analysis: The election is over; Trump's attacks will linger"
+    excerpt: "The Supreme Court's rejection of a lawsuit seeking to invalidate election results has once again confirmed Democrat Joe Biden's victory in the 2020 election"
+    publishedDateTime: 2020-12-13T00:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-election-trumps-attacks-linger-74685931"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-election-trumps-attacks-linger-74685931"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-election-trumps-attacks-linger-74685931"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_128395a5a3fa4f5fa8955dd591bc5d74_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pro-Trump groups march and pray to protest president's election loss"
+    excerpt: "Conservative groups alleging without evidence that President-elect Joe Biden stole the U.S. election gathered for protests across the country on Saturday, including one in Washington featuring President Donald Trump's recently pardoned former national security adviser."
+    publishedDateTime: 2020-12-13T00:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-groups-to-march-and-pray-to-protest-presidents-election-loss-idUSKBN28M0E5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544371148&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0KJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss"
     excerpt: "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to"
     publishedDateTime: 2020-12-12T04:40:00Z
@@ -41,99 +201,211 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump orders most U.S. troops out of Somalia, continuing post-election drawdown"
-    excerpt: "The Pentagon said Friday it is pulling most U.S. troops out of Somalia on President Donald Trump’s orders, continuing a post-election shrink."
-    publishedDateTime: 2020-12-05T07:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/12/04/donald-trump-pulls-most-700-u-s-troops-out-somalia/3831229001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3831229001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3831229001"
+  - title: "Wisconsin Supreme Court in rare Saturday session for Trump election case"
+    excerpt: "The Wisconsin Supreme Court is set to meet in a rare weekend session Saturday to consider President Donald Trump’s lawsuit seeking to overturn his loss."
+    publishedDateTime: 2020-12-12T15:50:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-trump-election-lawsuit-20201212-6bfzlkpt7vamnkrwjagiovkflu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-trump-election-lawsuit-20201212-6bfzlkpt7vamnkrwjagiovkflu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-wisconsin-trump-election-lawsuit-20201212-6bfzlkpt7vamnkrwjagiovkflu-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 139
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/27/NLED/ae1f5043-44da-4f76-a9e9-36285e5cc516-somalia.jpg?auto=webp&crop=5310,2987,x0,y251&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/BewfMCXLKrziB3j4fYM87l2PZtA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IEXZTJSZSXBN2B2QQJWSC3ZQKI.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Federal court judge dismisses 'extraordinary' Trump lawsuit seeking to overturn Wisconsin election"
-    excerpt: "U.S. District Judge Brett Ludwig — a Trump nominee — concluded Wisconsin officials had followed state laws when they conducted the Nov. 3 election."
-    publishedDateTime: 2020-12-13T00:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3894689001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3894689001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PMJS/ee1680b4-5450-40a4-afa7-1023a5c58f66-Brett_Ludwig.jpg?auto=webp&crop=533,300,x0,y205&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nissan joins GM in exiting auto group backing Trump"
-    excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
-    publishedDateTime: 2020-12-04T21:59:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
+  - title: "U.S. Attorney General Barr steps down as Trump election defeat confirmed"
+    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
+    publishedDateTime: 2020-12-15T06:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-barr-idAFKBN28O34R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28O34R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28O34R"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 139
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
-        width: 747
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544576070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE035"
+        width: 817
         height: 545
         isCached: true
-  - title: "Trump has a long history of responding to loss with anything but grace"
-    excerpt: "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent."
-    publishedDateTime: 2020-12-07T14:14:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
+  - title: "Trump and 17 states back Texas bid to undo his election loss at Supreme Court"
+    excerpt: "President Donald Trump and 17 U.S. states on Wednesday threw their support behind a long-shot lawsuit by Texas seeking to overturn his election loss by asking the U.S. Supreme Court to throw out the voting results in four states."
+    publishedDateTime: 2020-12-10T04:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 137
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump expected to attend Army-Navy game at West Point"
-    excerpt: "The game, which Trump has attended the past two years and in 2016, will be played at Army's campus instead of a neutral-site stadium because of the coronavirus pandemic."
-    publishedDateTime: 2020-12-08T04:45:00Z
-    webUrl: "https://www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/"
-    ampWebUrl: "https://www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/?outputType=amp"
+  - title: "U.S. Supreme Court rejects Texas lawsuit and Trump bid to undo election loss"
+    excerpt: "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to"
+    publishedDateTime: 2020-12-12T04:54:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28L2YY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 137
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MNBQM2YB35E5RBSETSEBGZZZKA.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump thought courts were key to winning. Judges disagreed."
-    excerpt: "President Donald Trump and his allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated if only judges were allowed to hear the cases"
-    publishedDateTime: 2020-12-08T14:23:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+  - title: "Trump lashes out at Supreme Court, Barr as efforts to overturn election fizzle"
+    excerpt: "President Donald Trump lambasted the Supreme Court on Saturday for declining to take a case he hoped would overturn President-elect Joe Biden's election victory and called Attorney General William Barr a \"disappointment."
+    publishedDateTime: 2020-12-12T18:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN28M0T7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0T7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0T7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544354970&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0F1"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. Supreme Court swiftly ends Trump-backed Texas bid to upend election results"
+    excerpt: "The U.S. Supreme Court on Friday rejected a long-shot lawsuit by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a likely fatal blow in his quest to undo his election loss to President-elect Joe Biden."
+    publishedDateTime: 2020-12-12T07:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/us-supreme-court-rejects-texas-lawsuit-and-trump-bid-to-undo-election-loss-idUSKBN28L2YY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Georgia recertifies presidential election results after recount requested by Trump affirms Biden’s win in the state"
+    excerpt: "Georgia’s top elections official on Monday recertified the state’s election results after a recount requested by President Donald Trump confirmed once again that Democrat Joe Biden won the state, his office said."
+    publishedDateTime: 2020-12-07T19:40:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
+    images:
+      - url: "https://www.chicagotribune.com/resizer/modDM5yZFO4SAyqKhpBEiQpzdhQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/M4ATQO5KE3KZ5LEK2KRYAKWIW4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump campaign files lawsuit over New Mexico election, objecting to ballot drop boxes"
+    excerpt: "The Trump campaign filed a federal lawsuit seeking an investigation of absentee ballots left in drop boxes at voting locations statewide."
+    publishedDateTime: 2020-12-15T01:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/14/trump-campaign-lawsuit-new-mexico-absentee-ballot-drop-boxes/3898278001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3898278001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3898278001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PNM2/4849b059-a4e0-47ab-ba5d-942386296e3f-Trump_.JPG?auto=webp&crop=5759,3239,x0,y395&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump's Re-Election Hopes Rest With Unprecedented 2024 Run After Failed Lawsuits"
+    excerpt: "President Donald Trump's path back to the White House will now almost certainly depend on an unprecedented run in the 2024 election, as a bevy of lawsuits challenging the 2020 results have failed to deliver."
+    publishedDateTime: 2020-12-09T10:26:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-re-election-hopes-rest-unprecedented-2024-run-after-failed-lawsuits-1553446"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-re-election-hopes-rest-unprecedented-2024-run-after-failed-lawsuits-1553446?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-re-election-hopes-rest-unprecedented-2024-run-after-failed-lawsuits-1553446?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1683144/trump-operation-warp-speed-vaccine-summit.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "More than 60% of House Republicans support of pro-Trump lawsuit overturning election results"
+    excerpt: "The additional members include the highest ranking Republican in the House, Minority Leader Kevin McCarthy, R-Calif."
+    publishedDateTime: 2020-12-11T21:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/more-house-republicans-sign-on-to-lawsuit-aimed-at-overturning-election/6510763002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6510763002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6510763002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/06/USAT/9f41e1be-1135-4a59-be93-ff0f5a76570a-GTY_1253867059.jpg?auto=webp&crop=3710,2087,x605,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Georgia high court rejects latest Trump legal challenge seeking to overturn election results"
+    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia’s election results, with the state Supreme Court’s rejection late Saturday of a case from Trump’s campaign and Georgia Republican Party Chairman David Shafer."
+    publishedDateTime: 2020-12-13T18:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201213-jotx3g3wobfwdhhwbrqk6cg3bi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201213-jotx3g3wobfwdhhwbrqk6cg3bi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-georgia-election-results-20201213-jotx3g3wobfwdhhwbrqk6cg3bi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 129
+    images:
+      - url: "https://www.chicagotribune.com/resizer/v2a4F4r8Kn-877PweE_kaJ3w0ro=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/63IR3GSVI3W6OPFMKPQ2MF6BKE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden, fresh off Electoral College win, accuses Trump of \"unprecedented assault on democracy\""
+    excerpt: "President-elect Joe Biden accused President Trump of an \"unprecedented assault on democracy\" in a speech Monday night hours after the Electoral College formalized his victory. Mr. Trump has refused to concede the election and has tried repeatedly to use the courts to challenge the results without success."
+    publishedDateTime: 2020-12-15T12:32:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-president-elect-speech-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-president-elect-speech-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-president-elect-speech-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/15/cf2a5f9d-4a6a-4664-a4ea-297853bf8e72/thumbnail/1200x630/b0818684b059c2d2959006c2524eed98/biden.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'A new movement': Trump's false claims take hold in states"
+    excerpt: "President Donald Trump’s campaign to overturn the will of voters and reverse his reelection loss to Democrat Joe Biden is taking hold among state and local Republicans even as it marches toward immine"
+    publishedDateTime: 2020-12-09T02:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fa8c79d0bfc646c78d5aa07119651a40_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e6dbfda07faa4bbab67bd8ea15e86ac8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -153,6 +425,38 @@ related:
         width: 747
         height: 545
         isCached: true
+  - title: "Trump's Executions Will Be Most of Any President in Over a Century"
+    excerpt: "Federal executions are typically paused during a presidential transition period leaving the new president to decide."
+    publishedDateTime: 2020-12-11T10:30:00Z
+    webUrl: "https://www.newsweek.com/trump-execution-spree-highest-any-president-over-century-1554030"
+    ampWebUrl: "https://www.newsweek.com/trump-execution-spree-highest-any-president-over-century-1554030?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-execution-spree-highest-any-president-over-century-1554030?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1684277/trump-raises-his-fist-rally.jpg"
+        width: 2454
+        height: 1633
+        isCached: true
+  - title: "Facing Electoral College vote, Trump continues election attack, but without risks to him, experts say"
+    excerpt: "Donald Trump's relentless assault on the presidential election stirs rage and ridicule but is unlikely to carry any real consequences for him."
+    publishedDateTime: 2020-12-12T01:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/electoral-college-vote-trump-legal-attacks-little-risk/3896519001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3896519001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3896519001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/12a3f01d-8a50-4f75-9feb-46d8d3735f10-AP_US_Israel_Morocco.jpg?auto=webp&crop=4165,2343,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
     publishedDateTime: 2020-12-12T07:26:00Z
@@ -168,6 +472,38 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump administration plans 2nd execution in as many days"
+    excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."
+    publishedDateTime: 2020-12-11T23:48:00Z
+    webUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/84bt1DCWY4_ZuoPZGQVv0NyTcj0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YBKBEATKVQC45Z3WDABQXS4BAE.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Trump administration puts second man to death in two days"
+    excerpt: "Alfred Bourgeois’s IQ put him in the intellectually disabled category, which should have barred execution, lawyers say"
+    publishedDateTime: 2020-12-12T02:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/954061e895d3e4fa4f8a2e62a21313c7ef5180a6/0_321_3505_2103/master/3505.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84ea5536d356d62e70ab576b1f6c6ec5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump loses Wisconsin lawsuit in latest legal defeat"
     excerpt: "President Donald Trump has lost a Wisconsin lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state"
@@ -249,6 +585,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump attends Army-Navy game for third time in a row"
+    excerpt: "Navy game, marking the third straight year he has done so as sitting president. Trump also attended the 2016 Army-Navy game at M&T Bank Stadium in Baltimore as president-elect."
+    publishedDateTime: 2020-12-12T22:30:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tflIxn06qtbAXTME1o3lymnQCb4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SA7BRVQNB6OV5RBI2VW3UXF3LE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tempers flare as Trump supporters rally in Washington"
     excerpt: "Thousands of supporters of President Donald Trump returned to Washington for rallies Saturday to back his desperate efforts to subvert the election that he lost to Joe Biden"
     publishedDateTime: 2020-12-13T03:36:00Z
@@ -281,21 +633,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch Live: Trump does coin toss at Army-Navy Game"
-    excerpt: "Navy coin toss before the game on Saturday afternoon. The event begins at 3:00 p.m. EST. Watch the live video above."
-    publishedDateTime: 2020-12-12T20:06:00Z
-    webUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss"
-    ampWebUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
+  - title: "Trump loses one Wisconsin case while arguing another one"
+    excerpt: "As Trump loses an election lawsuit in federal court in Wisconsin, the state's high court hears another that one justice says “smacks of racism.”"
+    publishedDateTime: 2020-12-12T20:16:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald1_12052020_gettyimages.jpg"
-        width: 980
-        height: 551
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2257466/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Fa7%2F70c4aa8f40cdb15585b4f9f9570a%2Fww1thumb.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump administration pushing delay in nursing home vaccinations"
     excerpt: "HHS explicitly instructs providers that the \"earliest the program can turn on is Dec 21st\" for the Pfizer vaccine, according to Operation Warp Speed documents obtained by CBS News."
@@ -313,21 +665,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vandals hit Black churches during weekend of pro-Trump rallies in D.C."
-    excerpt: "Groups of people tore down a Black Lives Matter banner and sign from historic Black churches in downtown Washington and set one ablaze as nighttime clashes Saturday between pro-Donald Trump supporters and counterdemonstrators erupted into violence and arrests."
-    publishedDateTime: 2020-12-13T22:53:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-dc-rally-20201213-5auvq66dr5hj7d5ddkdwgdd634-story.html?outputType=amp"
+  - title: "Trump appoints flurry of allies as presidency winds down"
+    excerpt: "As he prepares to exit the White House, President Donald Trump is rewarding some supporters and like-minded allies with the perks and prestige that come with serving on federal advisory boards and com"
+    publishedDateTime: 2020-12-13T17:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-appoints-flurry-of-allies-as-presidency-winds-down/2020/12/13/909ef534-3d40-11eb-b58b-1623f6267960_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/VI8IeS9Zd9uLeA4mOSFZyqBnyqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CUFJYWIJ7VKUIAOBAFJH2ERSS4.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump raises China concerns as reason to veto defense bill"
+    excerpt: "President Donald Trump once again says he’ll veto the annual defense policy bill that covers the military’s budget and pay raises for service members, but this time he’s citing unspecified concerns ab"
+    publishedDateTime: 2020-12-13T22:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-china-concerns-as-reason-to-veto-defense-bill/2020/12/13/6701739e-3d6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Company targeted by vote fraud claims strikes back at Trump"
     excerpt: "The head of an electronic voting company being targeted by allies of President Donald Trump said baseless claims that it helped flip the 2020 election for Joe Biden threaten to undermine Americans’ fa"
@@ -361,6 +729,22 @@ related:
         width: 807
         height: 545
         isCached: true
+  - title: "Under attack from Trump, institutions bend but don't break"
+    excerpt: "America's democratic institutions are facing unprecedented strain from President Donald Trump as he fights to hold power despite losing his bid for reelection"
+    publishedDateTime: 2020-12-15T01:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/attack-trump-institutions-bend-break-74728008"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/attack-trump-institutions-bend-break-74728008"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/attack-trump-institutions-bend-break-74728008"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d2ee214e2ac8414d977239c72c5fe06c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Wisconsin Supreme Court rules against Trump lawsuit -CNN"
     excerpt: "The Wisconsin Supreme Court ruled against Republican President Donald Trump's election lawsuit on Monday and upheld Democratic President-elect Joe Biden's win in the state, according to CNN."
     publishedDateTime: 2020-12-14T23:00:00Z
@@ -377,6 +761,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "After the White House, Trump faces uncertain future and legal threats"
+    excerpt: "President Donald Trump is leaving the White House but he is not going to fade away quietly. After failing in his legal efforts to overturn his Nov. 3 election loss to Democrat Joe Biden, who on Monday won the state-by-state Electoral College vote that formally determines the U."
+    publishedDateTime: 2020-12-15T18:28:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28P19C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P19C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P19C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544627308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE0OY"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump campaign asks supporters whether he should run in 2024"
+    excerpt: "Trump has not conceded or admitted that he lost this year’s election, but his campaign emailed supporters asking whether he should run again in 2024"
+    publishedDateTime: 2020-12-16T02:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/15/trump-campaign-asks-supporters-possible-2024-presidential-run/3915868001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3915868001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3915868001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/39f65dce-c41a-4dc2-baf7-6136ca73b276-GTY_1230110683.jpg?auto=webp&crop=4457,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Wisconsin Supreme Court shows divisions as it hears Trump lawsuit seeking to overturn state's election"
     excerpt: "The three liberals on the state's high court showed extreme skepticism toward Trump's arguments. Three conservatives showed some support for at least parts of his claims."
     publishedDateTime: 2020-12-13T00:24:00Z
@@ -392,22 +808,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/12/PMJS/815c2fce-ea73-4f89-8038-d06d88e5b851-scotus.jpg?auto=webp&crop=900,506,x21,y23&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "U.S. finalizes shower head rule after Trump complaints about hair rinsing"
-    excerpt: "The U.S. Energy Department on Tuesday finalized two rules easing energy standards on consumer fixtures and appliances, including one on shower heads after President Donald Trump complained some showers don't adequately rinse his hair."
-    publishedDateTime: 2020-12-16T02:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-energy-efficiency-idUSKBN28P2XZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2XZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2XZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544679145&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1Q8"
-        width: 818
-        height: 545
         isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
@@ -441,6 +841,54 @@ related:
         width: 1440
         height: 963
         isCached: true
+  - title: "Trump revives threat to veto defense bill, teeing up battle with lawmakers"
+    excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense spending bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
+    publishedDateTime: 2020-12-13T18:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-trump-idUSKBN28N0O5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544418959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0EN"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Texas attorney general asks Supreme Court to block Biden victory in 4 states"
+    excerpt: "President Trump, his campaign and his allies have engaged in aggressive but fruitless legal challenges designed to overturn Joe Biden's victory."
+    publishedDateTime: 2020-12-08T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/08/texas-ag-ken-paxton-asks-supreme-court-block-biden-wins-4-states/6491137002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6491137002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6491137002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fox News' Judge Says Donald Trump Should Pardon Drug Offenders Before Himself"
+    excerpt: "In an op-ed published on the Fox News website on Thursday titled \"Can President Trump pardon himself?\" the former New Jersey Superior Court judge argued that the president should pardon those who were convicted for use and possession of drugs under federal law before pardoning himself or members of his family."
+    publishedDateTime: 2020-12-10T15:57:00Z
+    webUrl: "https://www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831"
+    ampWebUrl: "https://www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1683725/judge-andrew-napolitano-testifying-before-congress.jpg"
+        width: 3500
+        height: 2334
+        isCached: true
   - title: "Trump finalizes sweeping asylum restrictions in last-minute immigration push"
     excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
     publishedDateTime: 2020-12-10T21:19:00Z
@@ -456,6 +904,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544124113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91D8"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump injects politics into the vaccine — again — at a most inopportune time"
+    excerpt: "In an early-morning tweetstorm, Trump suggested the FDA and its head, Stephen Hahn, weren’t moving fast enough."
+    publishedDateTime: 2020-12-11T16:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7F6WHEEEFYI6VANDS2IMTCARCE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump-appointed judge dismisses 'extraordinary' lawsuit seeking to overturn Wisconsin election in US court"
     excerpt: "\"A sitting president who did not prevail in his bid for reelection has asked for federal court help in setting aside the popular vote,\" Ludwig wrote."
@@ -489,38 +953,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. Senate OKs stopgap funding bill to avoid gov't shutdown, sends to Trump"
-    excerpt: "The U.S. Senate approved on Friday a temporary funding bill to keep the government open through Dec. 20, sending the measure to President Donald Trump for signing into law."
-    publishedDateTime: 2020-12-19T05:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-senate-idUKKBN28T005"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28T005"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28T005"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201219&t=2&i=1545102180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBI002"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Another Trump veto possible as Congress votes on blocking $23B arms sale to UAE"
-    excerpt: "President Donald Trump is nearing one last battle with Congress over his push for massive arms sales to the Middle East -- threatening to veto lawmakers' effort to halt a $23 billion sale to the United Arab Emirates."
-    publishedDateTime: 2020-12-09T17:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/Politics/leaders-abraham-accords-gty-ps-201209_1607527065488_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "After Supreme Court dismisses Texas case, Trump says his efforts to challenge election results are ‘not over’"
     excerpt: "In an interview that aired Sunday, the president repeated his false claims of election fraud and said his legal team will keep pursuing challenges — even as the electoral college meets Monday."
     publishedDateTime: 2020-12-13T22:21:00Z
@@ -537,32 +969,90 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "EXPLAINER: Trump's failing, monthlong fight against election"
-    excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."
-    publishedDateTime: 2020-12-05T03:55:00Z
-    webUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+  - title: "Supreme Court Shuts Door On Trump Election Prospects"
+    excerpt: "Texas Attorney General Ken Paxton sued four states that Joe Biden won, claiming their changes to election procedures during the pandemic violated federal law."
+    publishedDateTime: 2020-12-11T23:38:00Z
+    webUrl: "https://www.npr.org/2020/12/11/945617913/supreme-court-shuts-door-on-trump-election-prospects"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/11/gettyimages-1219321528_wide-71667206678449b71ee3b4e9637e3163df10ddf5.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Thousands gather in D.C. for pro-Trump demonstrations as city braces for clashes"
+    excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
+    publishedDateTime: 2020-12-12T22:23:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TF5BIQB4UAI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Georgia high court rejects latest Trump election appeal"
+    excerpt: "President Donald Trump has lost his latest legal challenge seeking to overturn Georgia's election results, with the state Supreme Court's rejection late Saturday of a case from Trump's campaign and Georgia Republican Party Chairman David Shafer."
+    publishedDateTime: 2020-12-14T08:44:00Z
+    webUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-high-court-rejects-latest-trump-election-appeal-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "U.S. Treasury Department seeks to water down Trump's Chinese securities ban - FT"
-    excerpt: "The United States Treasury Department is seeking to water down an executive order from U.S. President Donald Trump that bars Americans from investing in Chinese companies with suspected ties to Beijing's military,"
-    publishedDateTime: 2020-12-17T22:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-treasury-securities-idUSKBN28R3B9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R3B9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R3B9"
+  - title: "Trump has been blasting Georgia’s election system. Many Republicans plan to vote in the Senate runoffs anyway."
+    excerpt: "Some GOP officials have worried that the president’s baseless claims of fraud would prompt voters to skip the crucial Jan. 5 elections."
+    publishedDateTime: 2020-12-14T06:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-runoffs-republican-voters/2020/12/11/1d32d96c-3a2f-11eb-bc68-96af0daae728_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 120
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544961022&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG1WJ"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RVQ767R3JQI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 929
+        isCached: true
+  - title: "Idaho’s 4 electors cast votes for Trump and Pence"
+    excerpt: "All four of Idaho’s Republican electors on Monday cast their ballots for President Donald Trump and Vice President Mike Pence. The formal but brief ceremony at the"
+    publishedDateTime: 2020-12-14T19:55:00Z
+    webUrl: "https://apnews.com/e76e060937cfd23b9de1e70f19e7042c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Republican attorneys general back Trump legal fight to overturn election"
+    excerpt: "President Trump has met with Republican state attorneys general who are backing a lawsuit in the Supreme Court to invalidate presidential election votes in Georgia, Wisconsin, Michigan and Pennsylvania."
+    publishedDateTime: 2020-12-11T04:59:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-attorneys-general-back-trump-legal-fight-to-overturn-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/10/b9135117-2baa-4258-ba1b-46879a23445a/thumbnail/1200x630/9bc6eaeeeb19836b327f76d023c96b20/1210-en-jiang-605917-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Donald Trump stood no chance in front of a conservative Supreme Court. Here's why."
     excerpt: "No one should be surprised that the justices, like the Trump-appointed lower court judges in all these elected cases, followed the law.\""
@@ -580,37 +1070,51 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Irritated by loss, Trump hunkers down at the White House and avoids talk of future"
-    excerpt: "Hunkered down in what one former White House official called the \"presidential man cave\" of the Oval Office, President Donald Trump does not want to talk about what lies ahead once he leaves office next month."
-    publishedDateTime: 2020-12-18T06:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump/irritated-by-loss-trump-hunkers-down-at-the-white-house-and-avoids-talk-of-future-idUSKBN28S0JE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28S0JE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S0JE"
+  - title: "Trump continues to dispute election results ahead Electoral College vote"
+    excerpt: "On Monday, the Electoral College will cast their votes to elect Joe Biden to the presidency, but President Trump is still insisting that he's not done fighting to stay in power. Chip Reid reports."
+    publishedDateTime: 2020-12-13T23:59:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-continues-to-dispute-election-results-ahead-electoral-college-vote/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/eccebe73-3f20-4764-a64d-0446d0dffbeb/thumbnail/1200x630/c9f44f148db5d1e0e3b935cd146a2f23/1213-en-reid-608686-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "UPDATE 1-Trump revives threat to veto defense bill, teeing up battle with lawmakers"
+    excerpt: "U.S. President Donald Trump on Sunday repeated his threat to veto a massive defense policy bill, setting the stage for a major battle with U.S. lawmakers at a time when they are racing to hammer out a compromise on more coronavirus relief."
+    publishedDateTime: 2020-12-13T22:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-trump-idUSL1N2IT0MS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28N0O5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28N0O5"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 119
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545001576&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH0AQ"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201213&t=2&i=1544418959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBC0EN"
         width: 817
         height: 545
         isCached: true
-  - title: "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits"
-    excerpt: "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\""
-    publishedDateTime: 2020-12-12T14:18:00Z
-    webUrl: "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp"
+  - title: "U.S. House overwhelmingly passes $740 billion defense bill, defying Trump veto threat"
+    excerpt: "The U.S. House of Representatives on Tuesday overwhelmingly backed a $740 billion defense policy bill that President Donald Trump has pledged to veto, heading toward a confrontation with the Republican president weeks before he is to leave office."
+    publishedDateTime: 2020-12-09T09:28:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress/u-s-house-overwhelmingly-passes-740-billion-defense-bill-defying-trump-veto-threat-idUSKBN28I38M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I38M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I38M"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 118
     images:
-      - url: "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543880703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71V8"
+        width: 816
+        height: 545
         isCached: true
   - title: "Trump and his GOP allies vow to ‘fight on’ after Supreme Court rejects legal challenge to overturn election results"
     excerpt: "The Supreme Court’s final blow to legal efforts to overturn the presidential election only amplified the rhetoric and false claims that the election was stolen from Trump."
@@ -644,6 +1148,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Electoral college meets as Trump rejects early White House vaccinations - live updates"
+    excerpt: "Electors will gather in state capitols to confirm Biden’s victory even as president Trump continues, without evidence, to dispute result"
+    publishedDateTime: 2020-12-14T14:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates?page=with:block-5fd76ce18f08b0a99da95ac1"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/14/electoral-college-joe-biden-us-election-donald-trump-coronavirus-covid-19-pfizer-vaccine-russia-hackers-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/5d713e5a577118d1d7de4aeeec2a69a94b4cdb0b/0_104_5287_3174/master/5287.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc79256f35e24e2d64ce8ae43e4159c3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "After Electoral College vote, White House says Trump still involved in legal challenge"
+    excerpt: "President Donald Trump is still involved in legal challenges to the 2020 election, White House spokeswoman Kayleigh McEnany said on Tuesday when asked how the president responded to the Electoral College vote confirming Democrat Joe Biden as the U."
+    publishedDateTime: 2020-12-15T23:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/after-electoral-college-vote-white-house-says-trump-still-involved-in-legal-challenge-idUSKBN28P2IW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2IW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2IW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544661888&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1KL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "With Texas AG facing federal probe, lawsuit to help Trump comes amid whispers of pardons"
     excerpt: "The Texas politician challenging the 2020 election is the subject of an FBI investigation -- a thorny problem President Trump could eliminate with a presidential pardon."
     publishedDateTime: 2020-12-11T02:48:00Z
@@ -660,51 +1196,49 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Black family in Texas says cars set on fire, house vandalized with 'Trump 20' over BLM sign"
-    excerpt: "Jayla Gipson and Charles Crawford said the incident was brought on by a Black Lives Matter sign they put in their yard around Thanksgiving."
-    publishedDateTime: 2020-12-18T18:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/18/black-texas-family-says-cars-set-fire-over-blm-sign/3956433001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3956433001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3956433001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/ef4e297a-1c31-4810-91de-6c9105534f82-GettyImages-1182076012.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Congress approves 2-day funding measure to avoid shutdown, sending bill to President Trump"
-    excerpt: "WASHINGTON — Congress approves 2-day funding measure to avoid shutdown, sending bill to President Trump. Copyright 2020 The. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
-    publishedDateTime: 2020-12-19T00:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/congress-approves-2-day-funding-measure-to-avoid-shutdown-sending-bill-to-president-trump/2020/12/18/de5f2ba8-418d-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/congress-approves-2-day-funding-measure-to-avoid-shutdown-sending-bill-to-president-trump/2020/12/18/de5f2ba8-418d-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-approves-2-day-funding-measure-to-avoid-shutdown-sending-bill-to-president-trump/2020/12/18/de5f2ba8-418d-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
-    excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
-    publishedDateTime: 2020-12-04T20:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/donald-trumps-medicaid-work-requirements-get-supreme-court-review/6341457002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6341457002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341457002"
+  - title: "Texas AG asks Supreme Court to overturn Trump's losses in key states. Don't hold your breath."
+    excerpt: "Five weeks after Election Day and with states locking down electoral votes, Texas attorney general Ken Paxton has asked the high court to step in."
+    publishedDateTime: 2020-12-09T06:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6492261002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6492261002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/3dbe008c-2f39-4c44-8dfe-841a5dc08ac6-XXX_Supreme_Court_Upholds_Obama_s_Affordable_Care_Act_70385449_.JPG?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/9934042c-4b60-4f57-8f4d-73c34d7cdf59-AFP_AFP_8WQ4GQ.jpg?auto=webp&crop=3420,1924,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Thousands of Trump supporters rally in Washington, D.C. to protest election results"
+    excerpt: "This Saturday, thousands of Trump supporters gathered at the nation's capital to protest the election results. Crowds chanted \"four more years\" and carried signs reading \"stop the steal\" in a refusal to accept President-elect Biden's victory."
+    publishedDateTime: 2020-12-13T00:12:00Z
+    webUrl: "https://www.cbsnews.com/video/thousands-of-trump-supporters-rally-in-washington-dc-to-protest-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/a939ef09-573f-4c04-ba43-c43cafa47386/thumbnail/1200x630/f1faedc5ff362dff3181789123871e42/cbsn-fusion-thousands-of-trump-supporters-rally-in-washington-dc-to-protest-election-results-thumbnail-607729-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump administration cuts $200M in health care funds to California over abortion regulations"
+    excerpt: "The office of California Gov. Gavin Newsom criticized the Department of Health and Human Services' move as an ploy “to score cheap political points.\""
+    publishedDateTime: 2020-12-17T04:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/16/trump-hhs-california-abortions-health-care-funds/3936091001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3936091001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3936091001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/c0d4457f-287a-47de-8e20-c14e47642a61-AP19180773998983.jpg?auto=webp&crop=2819,1586,x0,y412&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -724,37 +1258,53 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "With punt, Supreme Court largely ends Trump census plan to exclude immigrants lacking documentation"
-    excerpt: "The census ruling could leave the issue to Biden. Not counting people in the U.S. illegally would hurt California, costing it power and federal funds."
-    publishedDateTime: 2020-12-18T23:56:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-18/supreme-court-trumps-plan-to-exclude-undocumented-immigrants-from-census?_amp=true"
+  - title: "'No Wisdom, No Courage!': Trump lashes out at the Supreme Court after it rejected a Texas bid to overturn the election results"
+    excerpt: "\"The Supreme Court really let us down,\" Trump said in a tweet on Friday. \"A Rigged Election, fight on!\""
+    publishedDateTime: 2020-12-12T06:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-criticizes-supreme-court-for-rejection-of-texas-election-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-criticizes-supreme-court-for-rejection-of-texas-election-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-criticizes-supreme-court-for-rejection-of-texas-election-lawsuit-2020-12?amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 111
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d0e40/2147483647/strip/true/crop/3202x2091+221+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F3e%2F35667abb4e6df2caaf6d4482eb07%2F2b96aba14e2f46d8a6b672916ae376fc"
-        width: 320
-        height: 209
+      - url: "https://i.insider.com/5fc12a4250e71a0011557ada?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
-    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
-    publishedDateTime: 2020-12-04T22:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+  - title: "Supreme Court rejects Texas lawsuit — backed by Trump and most House GOP members — to overturn the presidential election result"
+    excerpt: "The Supreme Court on Friday rejected a lawsuit backed by President Donald Trump to overturn Joe Biden’s election victory, ending a desperate attempt to get legal issues rejected by state and federal judges before the nation’s highest court."
+    publishedDateTime: 2020-12-12T03:39:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-republicans-texas-supreme-court-election-lawsuit-20201211-gnoqqkepqbfwxiuoc3b5oqnjvy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republicans-texas-supreme-court-election-lawsuit-20201211-gnoqqkepqbfwxiuoc3b5oqnjvy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republicans-texas-supreme-court-election-lawsuit-20201211-gnoqqkepqbfwxiuoc3b5oqnjvy-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 956
+      - url: "https://www.chicagotribune.com/resizer/kOCkbMA6Rk-XoLnJFq47FAh4JCc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RJBL2ZVHOTJAKCV3JDRIBUVHTA.jpg"
+        width: 1200
+        height: 773
+        isCached: true
+  - title: "Trump supporters rally to overturn the 2020 election, even as the courts continue striking down lawsuits contesting the results"
+    excerpt: "Trump supporters gathered in droves on Saturday to defend the president's failed legal push to overturn the presidential election."
+    publishedDateTime: 2020-12-13T00:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-supporters-rally-at-supreme-court-against-election-results-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-supporters-rally-at-supreme-court-against-election-results-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-rally-at-supreme-court-against-election-results-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fd530ad9cf1420018d2f0c2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Senate sends Trump defense bill he has vowed to veto unless lawmakers impose limits on social media companies"
     excerpt: "The Senate on Friday approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto the bill because it does not clamp down on big tech companies he claims were biased during the election."
@@ -772,21 +1322,19 @@ related:
         width: 1200
         height: 689
         isCached: true
-  - title: "Trump lawsuit in Wisconsin is thrown out in a fifth adverse ruling for the president in a little over a week"
-    excerpt: "A state judge concluded Wisconsin's election was conducted properly Friday, dealing President Donald Trump and his allies their fifth legal defeat in a little over a week."
-    publishedDateTime: 2020-12-11T23:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/wisconsin-judge-hears-trump-election-case/6514932002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6514932002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6514932002"
+  - title: "Trump won't say whether he has confidence in Barr"
+    excerpt: "President Donald Trump refused to say whether he still has confidence in his Attorney General Bill Barr after Barr told The Associated Press this week he has not seen any evidence of voter fraud that would have overturned the election results."
+    publishedDateTime: 2020-12-03T19:25:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-wont-say-whether-he-has-confidence-barr/3812418001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 106
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/PMJS/1e595890-d4a4-4b12-b37d-c33e3a825f67-MJS-ElectionWisconsin_1.jpg?auto=webp&crop=3224,1814,x46,y170&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0855d35a-7ddd-4bba-8f00-253c0e15a27d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Analysis: Short work by high court of Trump's `big one'"
     excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his"
@@ -816,81 +1364,65 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Neighbors say Trump can't live at Mar-a-Lago"
-    excerpt: "Reports of a demand letter sent by Palm Beach residents attempting to bar President Donald Trump from living at his Mar-a-Lago resort."
-    publishedDateTime: 2020-12-18T15:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/18/neighbors-say-trump-cant-live-mar-lago/3926957001/"
+  - title: "Trump says U.S. Attorney General Barr resigns"
+    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
+    publishedDateTime: 2020-12-15T09:00:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPMHv?now=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/21e5eaf0-61d2-41d0-b1bd-742c198fc9ef_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd8312ae4b04d44576323f2-1608003884993?location=LANDSCAPE"
+        width: 2241
+        height: 1495
         isCached: true
-  - title: "Supreme Court won’t decide yet if Trump can exclude undocumented immigrants when allocating congressional seats"
-    excerpt: "The justices said in an unsigned opinion they are not deciding the merits in a case “riddled with contingencies and speculation.”"
-    publishedDateTime: 2020-12-18T18:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-census-undocumented-immigrants/2020/12/18/45223a82-413f-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2FJ4TLXLSBJQI6XDNYHFO63KVAGY%252Ejpg&w=1440"
-        width: 1440
-        height: 917
-        isCached: true
-  - title: "Spotted owls could go extinct without more federal protection. But they’re not going to get it, Trump officials say."
-    excerpt: "The northern spotted owl has lost 70 percent of its habitat to development and timber harvesting and could go extinct without added federal protection, the Trump administration announced Monday. But the owls won’t get it."
-    publishedDateTime: 2020-12-15T06:18:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2020/12/14/spotted-owls-could-go-extinct-without-more-federal-protection-theyre-not-going-get-it-trump-officials-say/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/12/14/spotted-owls-could-go-extinct-without-more-federal-protection-theyre-not-going-get-it-trump-officials-say/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/12/14/spotted-owls-could-go-extinct-without-more-federal-protection-theyre-not-going-get-it-trump-officials-say/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XK3E4OGTOUI6VATLZQ4U3ASOGU.jpg&w=1440"
-        width: 1440
-        height: 1014
-        isCached: true
-  - title: "Supreme Court rules it's too early to review Trump census plan to exclude undocumented immigrants from House redistricting"
-    excerpt: "The U.S. has always counted citizens and non-citizens for the purposes of redrawing congressional districts every 10 years."
-    publishedDateTime: 2020-12-18T19:00:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/"
+  - title: "Texas attorney general sues to block Biden's victory in four other states"
+    excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
+    publishedDateTime: 2020-12-08T23:40:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 99
+    quality: 104
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/18/598123c6-e9fc-4e7d-8df1-d6e7d1cf4237/thumbnail/1200x630g8/e12aa40557dbc7b3525ba6258ddd5da2/gettyimages-1230073815.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/85fff2ad-4248-40d9-83cb-b4456bb8a942/thumbnail/1200x630/6f43ea027be4327c917d24dba92e60f2/cbsn-fusion-texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan-thumbnail-604234-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
-    excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
-    publishedDateTime: 2020-12-11T10:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/electoral-college-meeting-monday-hand-trump-loss-he-wont-accept/3807305001/"
+  - title: "Idaho's attorney general joins at least 4 other high-profile GOP lawmakers in opposing Trump's long-shot Texas lawsuit to overturn 2020 election"
+    excerpt: "More than 100 House Republicans and 18 states have thrown support behind President Donald Trump's final charade, but a vocal minority is dissenting."
+    publishedDateTime: 2020-12-11T17:52:00Z
+    webUrl: "https://www.businessinsider.com/idaho-ag-and-other-gop-legislators-disagree-with-texas-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/idaho-ag-and-other-gop-legislators-disagree-with-texas-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/idaho-ag-and-other-gop-legislators-disagree-with-texas-lawsuit-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 92
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/3aff1be8-cc45-4ab8-9b34-bcb8535b15bb-six_certificates_.JPG?crop=5075,2855,x0,y0&width=3200&height=1680&fit=bounds"
-        width: 2986
-        height: 1680
+      - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Oklahoma's electors award 7 electoral votes to Trump, Pence"
+    excerpt: "Oklahoma’s seven presidential electors officially awarded the state’s electoral votes to President Donald Trump and Vice President Mike Pence on Monday during a meeting at the"
+    publishedDateTime: 2020-12-14T20:26:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.html"
+    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/oklahomas-electors-award-7-electoral-votes-to-trump-pence/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/oklahomas-electors-award-7-electoral-votes-to-trump-pence/article_b3ee7c51-606e-59d0-8b92-2112afcc3516.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/c7/6c732ea5-ab37-510a-8865-3e068a8dc4a9/5fd7c47872b71.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Tennessee's 11 electors cast ballot for Trump, Pence"
     excerpt: "Tennessee’s 11 representatives to the Electoral College on Monday cast their vote for President Donald Trump and Vice President Mike Pence."
@@ -908,17 +1440,113 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
-    excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."
-    publishedDateTime: 2020-12-10T00:06:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+  - title: "Indiana presidential electors set to award state's 11 votes to Trump, Pence"
+    excerpt: "A Schererville woman will make history today when she joins 537 other Americans in all 50 states and Washington, D.C. to officially elect the next president of the United States."
+    publishedDateTime: 2020-12-14T13:30:00Z
+    webUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-presidential-electors-set-to-award-states-11-votes-to-trump-pence/article_6a37eceb-e668-52cd-b9df-e1bbbdc1fc3f.html"
+    ampWebUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-presidential-electors-set-to-award-states-11-votes-to-trump-pence/article_6a37eceb-e668-52cd-b9df-e1bbbdc1fc3f.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/indiana-presidential-electors-set-to-award-states-11-votes-to-trump-pence/article_6a37eceb-e668-52cd-b9df-e1bbbdc1fc3f.amp.html"
+    type: article
+    provider:
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 88
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/21/121d0ff1-bfb4-5fcf-9b0d-f4a74e7bed19/5fbd5efff1d2a.image.jpg?resize=1024%2C602"
+        width: 1024
+        height: 602
+        isCached: true
+  - title: "Trump Allies Eye Long-Shot Election Reversal in Congress, Testing Pence"
+    excerpt: "President Donald Trump lost key swing states by clear margins. His barrage of lawsuits claiming widespread voting fraud has been almost universally dismissed, most recently by the Supreme Court. And Monday,"
+    publishedDateTime: 2020-12-13T20:57:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/trump-allies-eye-long-shot-election-reversal-in-congress-testing-pence/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 85
+  - title: "Will Texas And Other States Secede Over Donald Trump?"
+    excerpt: "After the Supreme Court threw out a lawsuit against the swing states which voted for Joe Biden in the 2020 Election, the Texas GOP threatened to secede from the United States."
+    publishedDateTime: 2020-12-12T14:41:00Z
+    webUrl: "https://www.ibtimes.com/will-texas-other-states-secede-over-donald-trump-3100731"
+    ampWebUrl: "https://www.ibtimes.com/will-texas-other-states-secede-over-donald-trump-3100731?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-texas-other-states-secede-over-donald-trump-3100731?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/06/24/texas-flag-stadium-41.JPG"
+        width: 810
+        height: 540
+        isCached: true
+  - title: "Trump Hurries Execution Of 5 Death Row Inmates Weeks Before Leaving White House"
+    excerpt: "The Trump administration ordered the execution 40-year-old Brandon Bernard and 56-year-old Alfred Bourgeois this week."
+    publishedDateTime: 2020-12-10T03:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984"
+    ampWebUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/09/five-weeks-after-the-presidential-election-president-donald.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Analysis: the Election Is Over; Trump's Attacks Will Linger"
+    excerpt: "The Supreme Court's rejection of a lawsuit seeking to invalidate election results has once again confirmed Democrat Joe Biden's victory in the 2020 election."
+    publishedDateTime: 2020-12-12T06:17:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
+    quality: 70
+  - title: "Florida’s electoral college casts votes for Donald Trump, Mike Pence"
+    excerpt: "Florida’s Electoral College cast their 29 votes on Monday for President Donald Trump and Vice President Mike Pence during a ceremony inside the Capitol Senate Chamber. Trump won Florida with more than 371,"
+    publishedDateTime: 2020-12-15T00:02:00Z
+    webUrl: "https://floridapolitics.com/archives/388818-floridas-electoral-college-casts-votes-for-donald-trump-mike-pence"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/12/IMG_6098-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "WV electors cast all five votes for Trump-Pence ticket"
+    excerpt: "General Election ended in West Virginia Monday afternoon when the state’s five electors cast their votes for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T22:32:00Z
+    webUrl: "https://www.wvgazettemail.com/news/politics/wv-electors-cast-all-five-votes-for-trump-pence-ticket/article_c121c6db-07e8-54f4-a09c-61f7c2e48a88.html"
+    type: article
+    provider:
+      name: Charleston Gazette-Mail
+      domain: wvgazettemail.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/c/12/c121c6db-07e8-54f4-a09c-61f7c2e48a88/5fd7e6b60c7d5.preview.jpg?resize=927%2C630"
+        width: 927
+        height: 630
+        isCached: true
+  - title: "Indiana Presidential Electors Award Trump, Pence 11 Votes"
+    excerpt: "Indiana’s 11 representatives to the Electoral College unanimously cast their votes Monday for President Donald Trump."
+    publishedDateTime: 2020-12-14T16:37:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-12-14/indiana-presidential-electors-award-trump-pence-11-votes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Wisconsin Supreme Court to Hear Trump Lawsuit Appeal"
     excerpt: "The conservative-controlled Wisconsin Supreme Court has agreed to hear arguments over the weekend on President Donald Trump’s state lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state."
     publishedDateTime: 2020-12-12T05:17:00Z
@@ -945,6 +1573,33 @@ related:
     excerpt: "President Donald Trump's campaign was handed a unanimous defeat Friday at the Michigan Supreme Court, which declined to hear an appeal about how absentee ballots were handled in Detroit as well as other issues."
     publishedDateTime: 2020-12-11T22:05:00Z
     webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2020-12-11/michigans-top-court-rejects-appeal-by-trump-campaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Alabama Electors Cast Their 9 Votes for President Trump"
+    excerpt: "(AP) — With patriotic music and an face mask-wearing Uncle Sam, Alabama ’s members of the Electoral College cast their nine votes for Republican President Donald Trump at the state Capitol on Monday."
+    publishedDateTime: 2020-12-14T19:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/alabama/articles/2020-12-14/alabama-electors-cast-their-9-votes-for-president-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Florida Casts 29 Electoral College Votes for Trump"
+    excerpt: "Florida’s  29 Electoral College voters were cast for President Donald during a ceremony in the Senate chamber."
+    publishedDateTime: 2020-12-14T20:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-12-14/florida-casts-29-electoral-college-votes-for-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "South Carolina Electors Cast All 9 Votes for President Trump"
+    excerpt: "South Carolina’s nine presidential electors have officially voted for President Donald Trump and Vice President Mike Pence."
+    publishedDateTime: 2020-12-14T16:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2020-12-14/south-carolina-electors-cast-all-9-votes-for-president-trump"
     type: article
     provider:
       name: U.S. News & World Report

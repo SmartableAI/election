@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump retweeted a call to have him jailed but Georgia Gov. Brian Kemp still won't concede that Trump lost the election"
-    excerpt: "In a new interview, Kemp declined to say that the election was over, while Trump retweeted a call for Kemp to be jailed."
-    publishedDateTime: 2020-12-16T05:41:00Z
-    webUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/after-being-taunted-by-president-georgia-gov-kemp-backs-trump-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fd9795a6524f10019792432?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Perdue seeks payoff from Trump loyalty in Georgia runoff"
     excerpt: "In 2014, David Perdue introduced himself to Georgia voters as a corporate executive capable of bringing pragmatism to a Congress depicted in his first TV ad as a bunch of diaper-clad, crying babies."
     publishedDateTime: 2020-12-22T21:57:00Z

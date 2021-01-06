@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
-    excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
-    publishedDateTime: 2020-12-26T12:35:00Z
-    webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
-    ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays"
     excerpt: "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters."
     publishedDateTime: 2020-12-23T02:30:00Z
@@ -78,6 +62,38 @@ related:
       - url: "https://i.insider.com/5fdddc03c910a400192e8870?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Trump, Melania Trump don matching tuxedos in final Christmas portrait: See the photo"
+    excerpt: "President Donald Trump and first lady Melania Trump donned matching looks and smiles for their final White House Christmas portrait."
+    publishedDateTime: 2020-12-19T04:26:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/18/president-trump-melania-don-matching-tuxedos-final-christmas-photo/3969324001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3969324001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3969324001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/06/USAT/ae8ce7ee-93a3-4011-9aa0-3a5f6632cb8f-AP_Trump.JPG?auto=webp&crop=4130,2324,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Gets Mad At Mar-A-Lago Staff Over Renovations Made By Melania: Report"
+    excerpt: "First Lady Melania Trump worked with interior designer Tham Kannalikham to renovate and update President Trump's 3,000-square-foot private residence at the members-only golf club in Florida."
+    publishedDateTime: 2020-12-30T01:42:00Z
+    webUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435"
+    ampWebUrl: "https://www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-gets-mad-mar-lago-staff-over-renovations-made-melania-report-3111435?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "28eYKaB+x4I0drGAQwYFjXoSWfRYg2maTIUs+Aq+PBRBqha53/ubfV6CjlqypFgVlHDZ6QuXlI4jXtNYJ+ClL6iGWLK9S72qH6Ow6cFdYtBXxY/Q2FGJxIGSQbI9sp/x+yRkbg5IpMn2CBV5oJP8UoWE8K7MtW+BoDsgFlA2CGRhfnK5p0D/UytV1XsrZiFAwjr39niOEjAk9E9PROc/8C5MyfuCzu0+v2DxYvEj5sc7RBLCfcEusLpnjauRGiy9IvcjWr9CPz9Zrs0/9AnqhNahrjLKyY4loOLuJvGRK1IWqcN7/Ma1Yb8mOmNj8bWstBBnel/hjoLA7JlK2LJUem3AGVaa1ZGGvX0vQ6ylKRls81KZ+PO7DQn0eX5XoVSS99Mg/WKqOH4esWrXjdAkcc1OgT2DwXRAQHRVNRUBH7dzGdCQzNogXLIKc1fyBuQmpK+wYCFDr49WXz1HCDgF0jpv0SRnTwxKg4Rc5aEzmBc/VfzOmQ2CWz7pZTQDIn1f91PwjlFTfoJ+hkyFB9cxQA==;jx5QkAjlFoPthHQ41tG/aA=="

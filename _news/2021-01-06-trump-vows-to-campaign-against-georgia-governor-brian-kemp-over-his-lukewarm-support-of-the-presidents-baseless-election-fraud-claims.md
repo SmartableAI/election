@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia election guardian Raffensperger faces heat as Trump contests defeat"
+    excerpt: "Georgia's Republican secretary of state, Brad Raffensperger, cemented his status as an unlikely hero for U.S. Democrats following a fresh clash in which he rejected President Donald Trump's claims that his election defeat was the result of widespread fraud."
+    publishedDateTime: 2021-01-04T04:22:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-raffensperger-idUKKBN2980QZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2980QZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2980QZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Harris calls Trump's plea to Georgia election officials an 'abuse of power'"
     excerpt: "While at a campaign rally in Georgia, Vice President-elect Kamala D. Harris on Jan. 3 slammed President Trump's call with Georgia election officials, in which he urged fellow Republican Brad Raffensperger to “find” enough votes to overturn his defeat."
     publishedDateTime: 2021-01-04T00:13:00Z
@@ -45,37 +61,69 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Kamala Harris to campaign in Georgia next week"
-    excerpt: "Vice President-elect Kamala Harris will be traveling to Georgia Monday to campaign with Democratic Senate candidates Jon Ossoff and Reverend Raphael Warnock. Both men are engaged in highly competitive and high-profile runoff races that will decide which party controls the U."
-    publishedDateTime: 2020-12-18T17:57:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-georgia-senate-runoff/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-georgia-senate-runoff/"
+  - title: "In recorded call, Trump pressures Georgia official to change election results - media"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call released by U."
+    publishedDateTime: 2021-01-03T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2980MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980MG"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 133
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/17/5e18729d-7069-40ea-9bf1-1597ddfc9cf7/thumbnail/1200x630/80a7cccaf3029fd99ea448c02d502fcd/gettyimages-1230034648.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Trump calls for Georgia Gov. Brian Kemp, a fellow Republican, to resign"
-    excerpt: "The president’s demand stems from the governor’s refusal to embrace Trump’s baseless claims of widespread election fraud."
-    publishedDateTime: 2020-12-30T14:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+  - title: "In recorded call, Trump pressures Georgia official to 'find' votes to overturn election"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the southern state, according to a recording of the hour-long call published by U."
+    publishedDateTime: 2021-01-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN2990B7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2990B7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2990B7"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 132
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4GRMSKVUI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 1149
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Explainer: Did Trump break the law by pressuring a Georgia election official to 'find' votes?"
+    excerpt: "President Donald Trump may have broken a U.S. federal law and a Georgia law against election tampering by pressuring the state's top election official to \"find\" enough votes to overturn his loss to President-elect Joe Biden in the state,"
+    publishedDateTime: 2021-01-04T20:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-legal-explainer-idUSKBN2992C9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2992C9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992C9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 129
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546585909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0314V"
+        width: 763
+        height: 545
+        isCached: true
+  - title: "In recorded call, Trump pressures Georgia election official to change results - Washington Post"
+    excerpt: "U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state, according to audio of a Saturday phone call obtained by the Washington Post,"
+    publishedDateTime: 2021-01-03T20:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/in-recorded-call-trump-pressures-georgia-election-official-to-change-results-washington-post-idUSKBN2980MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 128
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546476944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020BG"
+        width: 818
+        height: 545
         isCached: true
   - title: "Trump calls on Republican governor of Georgia to resign: ‘Fools!’"
     excerpt: "Gov. Brian Kemp on Wednesday called a tweet by President Donald Trump demanding his resignation a “distraction.”"
@@ -93,12 +141,12 @@ related:
         width: 1200
         height: 957
         isCached: true
-  - title: "Trump, on tape, presses Ga. official to ‘find’ him votes"
-    excerpt: "WASHINGTON — President Donald Trump pressured Georgia’s Republican secretary of state to “find” enough votes to overturn Joe Biden’s win in the state’s presidential election, repeatedly citing disproven claims of fraud and raising the prospect ..."
-    publishedDateTime: 2021-01-04T10:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-on-tape-presses-ga-official-to-find-him-votes/2021/01/04/ca2f37ce-4e51-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+  - title: "The Latest: Trump says Georgia stakes ‘could not be higher’"
+    excerpt: "President Donald Trump is urging Republican voters in north Georgia to turn out and vote in Tuesday’s special election that will determine which party controls the U.S. Senate"
+    publishedDateTime: 2021-01-05T02:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-says-georgia-stakes-could-not-be-higher/2021/01/04/c8cb7c5e-4eff-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-says-georgia-stakes-could-not-be-higher/2021/01/04/c8cb7c5e-4eff-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-says-georgia-stakes-could-not-be-higher/2021/01/04/c8cb7c5e-4eff-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -109,12 +157,44 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Analysis: With call, Trump shows no limit to his power grab"
-    excerpt: "President Donald Trump’s ongoing efforts to overturn the 2020 election results — laid out in stark detail in an hourlong weekend phone call with a Georgia election official — are demonstrating his det"
-    publishedDateTime: 2021-01-05T04:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-with-call-trump-shows-no-limit-to-his-power-grab/2021/01/04/47ae43ca-4ee8-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+  - title: "Trump-appointed US attorney resigns in Georgia"
+    excerpt: "BJay” Pak, who was appointed by Trump, announced his resignation as U.S. attorney for the Northern District of Georgia in a news release. The statement did not say why Pak was leaving or what he plans to do next."
+    publishedDateTime: 2021-01-05T04:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-appointed-us-attorney-resigns-georgia-75045394"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-appointed-us-attorney-resigns-georgia-75045394"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-appointed-us-attorney-resigns-georgia-75045394"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1c4b624c5b80489998dc2a81c6c026fa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "'Truth matters,' says Georgia official resisting Trump pressure"
+    excerpt: "Georgia's secretary of state, Brad Raffensperger, says he was just following the law when he rejected claims by Donald Trump, his fellow Republican, that the president's election defeat was the result of widespread fraud."
+    publishedDateTime: 2021-01-04T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-raffensperger-idUSKBN2980R5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2980R5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980R5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Big Questions: Georgia tests battleground status, Trump era"
+    excerpt: "The two Georgia runoffs that will determine control of the Senate have kept President Donald Trump and President-elect Joe Biden in campaign mode and run up a half-billion-dollar tab in the process"
+    publishedDateTime: 2021-01-05T16:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/big-questions-georgia-tests-battleground-status-trump-era/2021/01/05/123c9248-4f72-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/big-questions-georgia-tests-battleground-status-trump-era/2021/01/05/123c9248-4f72-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/big-questions-georgia-tests-battleground-status-trump-era/2021/01/05/123c9248-4f72-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -124,6 +204,38 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Newsmax, OAN vie for Trump loyalists as Georgia counts votes"
+    excerpt: "As Georgia officials began tallying votes on Tuesday that will determine control of the U.S. Senate, upstart cable news networks promoted by President Donald Trump competed for new audiences."
+    publishedDateTime: 2021-01-06T02:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-conservative-med-idUKKBN29B056"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29B056"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29B056"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546649664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH040K6"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Newsmax, OAN vie for Trump loyalists as Georgia votes"
+    excerpt: "As candidates face off in Georgia on Tuesday in contests that will determine the balance of power in the U.S. Senate, another race is underway between cable news networks catering to conservative audiences."
+    publishedDateTime: 2021-01-05T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-conservative-med-idUSKBN29A147"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A147"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A147"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546649664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH040K6"
+        width: 817
+        height: 545
         isCached: true
   - title: "Schwarzenegger: Trump call to Georgia official 'un-American'"
     excerpt: "Arnold Schwarzenegger is blasting President Trump for his call to Georgia Secretary of State Brad Raffensperger, dubbing the commander in chief's pressure campaign to \"recaluculate\" the election results there \"un-American bullshit."
@@ -140,6 +252,54 @@ related:
       - url: "https://thehill.com/sites/default/files/schwarzeneggerarnold_032619gn7_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Law enforcement braces for protests as Trump supporters gather in capital"
+    excerpt: "Law enforcement was bracing for protests as Trump supporters gather in the nation's capital to demonstrate against Congress ratifying Joe Biden as president-elect."
+    publishedDateTime: 2021-01-06T00:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/law-enforcement-braces-protests-trump-supporters-gather-capital/story?id=75057898"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/law-enforcement-braces-protests-trump-supporters-gather-capital/story?id=75057898"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/law-enforcement-braces-protests-trump-supporters-gather-capital/story?id=75057898"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/US/washington-dc-election-protest-preparations-donald-trump-03-gty-llr-210105_1609879931269_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Georgia's Brad Raffensperger Doesn't Rule Out Voting for Donald Trump Again"
+    excerpt: "Georgia's Brad Raffensperger didn't rule out voting for President Donald Trump again if he ever appeared on a future Republican ticket, despite their ongoing dispute about the election results in Georgia."
+    publishedDateTime: 2021-01-04T16:18:00Z
+    webUrl: "https://www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722"
+    ampWebUrl: "https://www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffesperger-doesnt-rule-out-voting-trump-1558722?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1697248/georgia-sos-brad-raffensperger.jpg"
+        width: 1024
+        height: 624
+        isCached: true
+  - title: "Jan. 6 protests multiply as Trump continues to call supporters to Washington"
+    excerpt: "Protests planned in support of President Trump on Jan. 6 are multiplying by the week. Four seemingly competing rallies to demand that Congress overturn the results of the presidential election, which their participants falsely view as illegitimate,"
+    publishedDateTime: 2020-12-31T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-january6-dc-protest/2020/12/30/1773b19c-4acc-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMSD6R4UMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 934
         isCached: true
   - title: "Georgia Democratic lawmaker to seek censure of Trump over Raffensperger call"
     excerpt: "A Democratic lawmaker from Georgia said Sunday that he would introduce a motion to censure President Trump in the House on Monday over audio of him pressuring Georgia's secretary of state to overturn"
@@ -189,6 +349,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Durbin: Trump Georgia call 'merits nothing less than a criminal investigation'"
+    excerpt: "Senate Minority Whip Dick Durbin (D-Ill.) said Sunday that President Trump’s call with Georgia Secretary of State Brad Raffensperger (R) “merits nothing less than a criminal investigation.”"
+    publishedDateTime: 2021-01-03T22:23:00Z
+    webUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation"
+    ampWebUrl: "https://thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/532450-durbin-trump-georgia-call-merits-nothing-less-than-a-criminal-investigation?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_062420bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "‘Find’ winning votes for him, Trump demands in taped call with Georgia official"
+    excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused."
+    publishedDateTime: 2021-01-03T20:20:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/102580c/2147483647/strip/true/crop/4159x2716+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F9d%2F7a97face49cf8ef215d0731921e6%2Fap20309660647036.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump pressured Georgia's secretary of state to 'find' votes - US politics live"
     excerpt: "Probably with the bombshell revelation that Donald Trump pressured Georgia’s secretary of state to overturn Joe Biden’s victory, leading to accus"
     publishedDateTime: 2021-01-04T11:15:00Z
@@ -205,61 +397,102 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris on Trump GA call before Senate runoff"
-    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
-    publishedDateTime: 2021-01-04T02:55:00Z
-    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
+  - title: "Why Is Donald Trump Mad at Mike Lee? President Scolds Senator at Georgia Rally"
+    excerpt: "Lee helped to lead the president's defense in his impeachment trial but has refused to oppose ratifying Biden's win."
+    publishedDateTime: 2021-01-05T08:42:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-lee-president-scolds-senator-georgia-rally-1558901?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
-        width: 960
-        height: 540
+      - url: "https://d.newsweek.com/en/full/1698318/president-trump-jokes-senator-mike-lee.jpg"
+        width: 3772
+        height: 2573
         isCached: true
-  - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
-    excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."
-    publishedDateTime: 2021-01-04T13:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/04/kamala-harris-trump-call-to-georgia-secretary-of-state-abuse-of-power-video"
+  - title: "Trump 'just plain wrong' on fraud claims: Georgia Secretary of State Raffensberger"
+    excerpt: "Secretary of State Raffensperger joined \"Good Morning America\" for an exclusive interview after President Trump demanded he \"find\" more votes so he could win Georgia."
+    publishedDateTime: 2021-01-04T12:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plain-wrong-fraud-claims-georgia-secretary-state/story?id=75032595"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/absentee-voting-01-gty-llr-201223_1608756959214_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Georgia Senate runoffs, pro-Trump protests, Heisman Award: 5 things to know Tuesday"
+    excerpt: "The Georgia Senate runoffs will determine control the chamber, pro-Trump protests are expected to begin and more news to start your Tuesday."
+    publishedDateTime: 2021-01-05T10:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/05/georgia-senate-runoffs-pro-trump-protests-5-things-know-tuesday/4123581001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4123581001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4123581001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/1487aa78-0f7f-4983-8662-927f39a6f6de-GTY_1294496725.jpg?auto=webp&crop=4840,2723,x0,y350&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Impeachable Offence': AOC Wants to Sanction Trump Over Phone Call With Raffensperger"
+    excerpt: "\"If it was up to me, there would be articles on the floor quite quickly,\" Congresswoman Alexandria Ocasio-Cortez said."
+    publishedDateTime: 2021-01-04T04:08:00Z
+    webUrl: "https://www.newsweek.com/impeachable-offence-aoc-wants-sanction-trump-over-phone-call-raffensperger-1558619"
+    ampWebUrl: "https://www.newsweek.com/impeachable-offence-aoc-wants-sanction-trump-over-phone-call-raffensperger-1558619?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/impeachable-offence-aoc-wants-sanction-trump-over-phone-call-raffensperger-1558619?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
     quality: 118
     images:
-      - url: "https://i.guim.co.uk/img/media/121221546319d71ceab74c8609f6eaeaf396fb3c/0_247_4254_2553/master/4254.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3a4e9fc63f7fa23de3227e629c8e2a1"
+      - url: "https://d.newsweek.com/en/full/1697045/alexandria-ocaso-cortez-washington-dc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump pushes baseless voter fraud claims at Georgia rally on eve of crucial Senate runoffs"
+    excerpt: "The president said he hopes Vice President Mike Pence \"comes through for us\" when Congress meets this week to count the Electoral College vote."
+    publishedDateTime: 2021-01-05T04:10:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-dalton-georgia-watch-live-stream-today-2021-01-04/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-dalton-georgia-watch-live-stream-today-2021-01-04/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-dalton-georgia-watch-live-stream-today-2021-01-04/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/05/525d4a2b-5e55-42c2-bd10-bbd93d23392a/thumbnail/1200x630/c27e4f4be894b136ae9ef5938d2d607a/2021-01-05t025529z-1043258129-rc2e1l9ik335-rtrmadp-3-usa-election-georgia-trump.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Georgia Republicans rebut Trump lawsuit that seeks to disenfranchise millions of voters"
-    excerpt: "Lawyers for Republican Gov. Brian Kemp and Secretary of State Brad Raffensperger said Trump \"seeks to disenfranchise millions of Georgia voters.\""
-    publishedDateTime: 2021-01-05T06:39:00Z
-    webUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
+  - title: "Trump pressured Georgia official on vote tally as allies seek to overturn results in Congress"
+    excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused Trump's demands."
+    publishedDateTime: 2021-01-03T20:20:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-03/trump-pressured-georgia-official-on-vote-tally-as-allies-seek-to-overturn-results-in-congress?_amp=true"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5fb302601c741f0019aca267?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Foley & Lardner 'concerned' by partner's role in Trump call to GA election official"
-    excerpt: "Foley & Lardner said in a statement Monday that it is \"concerned by\" partner Cleta Mitchell's involvement in a conference call in which U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state,"
-    publishedDateTime: 2021-01-05T00:29:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-election-foley-idUSL1N2JF1SC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JF1SC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF1SC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 114
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/102580c/2147483647/strip/true/crop/4159x2716+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F9d%2F7a97face49cf8ef215d0731921e6%2Fap20309660647036.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Former Mueller prosecutor says the call of Trump asking a Georgia official to change the election results shows 'criminal intent'"
     excerpt: "Andrew Weissmann said President Donald Trump's call contained evidence of crimes, though legal experts are split on whether Trump will face charges."
     publishedDateTime: 2021-01-04T03:19:00Z
@@ -276,33 +509,35 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kamala Harris receives COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris received her first dose of the COVID-19 vaccine Tuesday in Washington, D.C. She got the shot on camera in hopes of encouraging Americans to get vaccinated when it's their turn."
-    publishedDateTime: 2020-12-29T17:09:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-receives-covid-19-vaccine/"
+  - title: "Trump pushes Georgia secretary of state to 'find' votes during phone call, Washington Post reports"
+    excerpt: "The Washington Post released audio excerpts of a call in which Trump pressures Raffensperger to \"find\" enough votes to reverse his election loss."
+    publishedDateTime: 2021-01-03T20:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/03/trump-pressured-georgia-election-official-call-washington-post-report-says/4119948001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4119948001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4119948001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/8d2d59a1-292e-493e-a149-97eb72904e36-AP_Trump_Legacy_By_The_Numbers.jpg?auto=webp&crop=4766,2681,x0,y242&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump pressured Georgia's secretary of state to 'find' votes – live"
+    excerpt: "Trump and Biden campaign in Georgia ahead of Senate runoff races after the president pressured Brad Raffensperger to ‘find’ ballots to allow him to win"
+    publishedDateTime: 2021-01-04T14:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/04/donald-trump-georgia-votes-joe-biden-brad-raffensperger-senate-covid-coronavirus-us-politics-live?page=with:block-5ff328948f08d0452b08bda0"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/229b2034-c8f3-46bf-aae1-ce6af52f38dc/thumbnail/1200x630/46f208de17f32695d3cbcebe5deb5628/cbsn-fusion-kamala-harris-receives-covid-19-vaccine-thumbnail-617698-640x360.jpg"
+      - url: "https://i.guim.co.uk/img/media/de284ff3b3814c63a1fecf64564347c249b5431d/0_422_5693_3417/master/5693.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ba9bc68dcf79f00a3da99445ad329b37"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Kamala Harris Receives First Dose of Covid-19 Vaccine"
-    excerpt: "Vice President-elect Kamala Harris receives her first dose of Moderna's Covid-19 vaccine at United Medical Center in Southeast Washington, D.C. (Source: Bloomberg)"
-    publishedDateTime: 2020-12-29T16:39:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-12-29/kamala-harris-receives-first-dose-of-covid-19-vaccine-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioeIXMANEEsk/v5/-1x-1.jpg"
-        width: 950
-        height: 534
         isCached: true
   - title: "Trump's phone call to Brad Raffensperger: six key points"
     excerpt: "Conversation between president and Georgia’s secretary of state laid bare Trump’s determination to cling on to power"
@@ -315,21 +550,86 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 105
-  - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
-    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
-    publishedDateTime: 2021-01-04T12:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
+  - title: "'Fight like hell': grievance and denialism rule at Trump Georgia rally"
+    excerpt: "Unrepentant president urges voters to support Republicans in the Senate runoffs on Tuesday and veers off script with bogus claims of a stolen election"
+    publishedDateTime: 2021-01-05T06:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/fight-like-hell-grievance-and-denialism-rule-at-trump-georgia-rally/"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/fight-like-hell-grievance-and-denialism-rule-at-trump-georgia-rally"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/fight-like-hell-grievance-and-denialism-rule-at-trump-georgia-rally"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+  - title: "Raffensperger addresses Trump phone call"
+    excerpt: "Watch \"Georgia Secretary of State Raffensperger addresses controversial phone call with President Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-05T10:27:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210105004615-georgia-secretary-of-state-raffensperger-addresses-controversial-phone-call-with-president-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/04/e09437c2-308a-40a1-8eba-40c4d5169b6a/thumbnail/1200x630/434bef8a9a2f24dab9a984d47bb7cc16/0104-en-raffenspe-odonnell-620090-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What Trump's call means for Georgia Senate races: Politics Weekly Extra"
+    excerpt: "Jonathan Freedland and David Smith discuss a call made by the outgoing president to a state legislator in Georgia that could spell more trouble for Donald Trump."
+    publishedDateTime: 2021-01-04T20:16:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/jan/04/what-trumps-call-means-for-georgia-senate-races-politics-weekly-extra"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/f8ba9e020fb671148e20cf46a34433c8435b52cf/0_95_4938_2963/master/4938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c2003b9e69769fc076c5cafb98176a"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Audio: Trump berates Ga. secretary of state Brad Raffensperger, urges him to ‘find’ votes"
+    excerpt: "Listen to excerpts from a one-hour call on Saturday between the president and Georgia election officials."
+    publishedDateTime: 2021-01-03T20:55:25Z
+    webUrl: "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 96
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "GOP seeks to roll back mail-in voting in states like Georgia and Pennsylvania that Trump lost"
+    excerpt: "Americans cast 101 million mail-in ballots in the 2020 election, accounting for 63% of the vote, with Biden leading in mail-in voting by 2 to 1."
+    publishedDateTime: 2020-12-30T10:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/30/gop-seeks-roll-back-mail-voting-states-trump-lost-2020/3958391001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 101
+    quality: 94
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/f13dc297-7c60-4ff3-8b4a-82540b8a0f43-AP_APTOPIX_Election_2020_Pennsylvania_Voting.jpg?crop=5999,3375,x0,y305&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
+        isCached: true
+  - title: "Here’s the full transcript and audio of the call between President Trump and Brad Raffensperger"
+    excerpt: "The call transcript was edited to remove a name about whom Trump makes unsubstantiated claims."
+    publishedDateTime: 2021-01-04T00:36:11Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raffensperger-call-transcript-georgia-vote/2021/01/03/2768e0cc-4ddd-11eb-83e3-322644d82356_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 93
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DIWJRGCOA4I6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump pleaded with Georgia's secretary of state to 'find' additional votes to win the state in an hour-long phone call, according to new audio"
     excerpt: "\"I just want to find 11,780 votes,\" the president said on the hour-long call. \"There's nothing wrong with saying, you know, um, that you've recalculated.\""
@@ -347,53 +647,67 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
-    publishedDateTime: 2020-12-29T16:29:00Z
-    webUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
+  - title: "Trump lawyer Cleta Mitchell quit her law firm after being part of the president's controversial Georgia phone call"
+    excerpt: "One of President Trump's lawyers quit her law firm after participating in a phone call attempting to overturn the election results in Georgia, Insider has learned."
+    publishedDateTime: 2021-01-05T21:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyer-cleta-mitchell-quits-law-firm-2021-1"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230345925.jpg?itok=9kpTgTT4"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Kamala Harris receives COVID-19 vaccine shot"
-    excerpt: "Vice President-elect Kamala D. Harris received the first dose of Moderna’s COVID-19 vaccine Tuesday in Washington."
-    publishedDateTime: 2020-12-29T16:57:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/29/Virus_Outbreak_Harris_11714.jpg-7528b_c0-192-4014-2533_s1200x700.jpg?2599c9a0d34520e2d6e2d09a62f00f5522b82bbe"
+      - url: "https://i.insider.com/5ff4d724d184b30018aad2c6?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "Kamala Harris’s groundbreaking path to the White House"
-    excerpt: "How Harris got where she is, and where she’s likely headed, is the subject of Dan Morain’s “Kamala’s Way.” From the start, he explains, it’s been a complicated path, mixing principles and pragmatism,"
-    publishedDateTime: 2021-01-01T14:30:00Z
-    webUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/entertainment/ny-kamala-harris-book-20210101-tcniibv45bfideu2qrchuu4vu4-story.html?outputType=amp"
+  - title: "Georgia Secretary of State to Trump: ‘What you’re saying is not true’"
+    excerpt: "Trump pressured Georgia’s Republican secretary of state to “find” enough votes to overturn Joe Biden’s win in the state’s presidential election."
+    publishedDateTime: 2021-01-05T00:02:00Z
+    webUrl: "https://www.al.com/news/2021/01/georgia-secretary-of-state-to-trump-what-youre-saying-is-not-true.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/georgia-secretary-of-state-to-trump-what-youre-saying-is-not-true.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/georgia-secretary-of-state-to-trump-what-youre-saying-is-not-true.html?outputType=amp"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: al.com
+      domain: al.com
     quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/rcGgsBKubkAqaZioP9K6GjrB36I=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6POFLXWAZB7LM373XXSTZVNLI.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZKPFGRKXLBAGRFARB3562ZG6Q4.jpg"
+        width: 1024
+        height: 867
+        isCached: true
+  - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
+    excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
+    publishedDateTime: 2021-01-03T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4107424001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4107424001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
         width: 1200
-        height: 891
+        height: 675
+        isCached: true
+  - title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
+    excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
+    publishedDateTime: 2021-01-04T00:53:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4107424001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4107424001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/73138a3f-a8d5-404e-8e0f-cbaa906b1b59-AP20356733818257.jpg?auto=webp&crop=1999,1124,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "A legal tsunami looms over Donald Trump when he leaves the White House. The lame duck president's Georgia phone call just made it worse."
     excerpt: "Trump's latest gambit to overturn the results of a presidential election he lost will almost certainly add to his many post-presidency legal problems."
@@ -409,37 +723,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
-    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
-    publishedDateTime: 2021-01-03T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4119965001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4119965001"
+  - title: "Herschel Walker Under Fire After Siding With Trump About Voter Fraud In Georgia"
+    excerpt: "The University of Georgia alumni announced his opinions on Twitter on what he believes happened in Georgia during the 2020 presidential election."
+    publishedDateTime: 2021-01-02T16:51:00Z
+    webUrl: "https://www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274"
+    ampWebUrl: "https://www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/herschel-walker-under-fire-after-siding-trump-about-voter-fraud-georgia-3113274?amp=1"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/3ea90e02-f23e-434a-a69b-42465296e1f5-Kamala5.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/29/voter-fraud.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
-    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
-    publishedDateTime: 2021-01-03T21:34:00Z
-    webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-    ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
-    cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
-    type: article
-    provider:
-      name: Savannah Morning News
-      domain: savannahnow.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Trump's Call With Georgia Officials To 'Find' Votes Could Be Illegal, Criminal"
     excerpt: "Trump pressured Georgia election officials to “find” 11,780 votes The president threatened the officials with “a criminal offense” The call could violate laws that prevent election fraud Donald Trump pressured Georgia’s secretary of state to “find” him enough votes to overturn the results of the 2020 election,"
@@ -457,69 +755,32 @@ related:
         width: 1024
         height: 657
         isCached: true
-  - title: "Kamala Harris attempts to unite worried Georgia voters amid a strongly divided political cycle"
-    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
-    publishedDateTime: 2021-01-03T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/2021/01/03/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4122933001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4122933001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4122933001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 63
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
-    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
-    publishedDateTime: 2020-12-29T22:29:00Z
-    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 60
-  - title: "Kamala Harris to Receive Coronavirus Vaccine"
-    excerpt: "Kamala Harris’ vaccination comes a little over a week after President-elect Joe Biden received his first dose live on television."
-    publishedDateTime: 2020-12-29T13:46:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
+  - title: "Georgia Election Officials Slap Down Trump Tweet About Voting Machines"
+    excerpt: "Georgia officials overseeing the state's Senate runoffs on Tuesday hit back at a tweet from President Donald Trump stoking fears about voting machines, saying that despite an early problem in one county,"
+    publishedDateTime: 2021-01-05T22:31:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-05/georgia-election-officials-slap-down-trump-tweet-about-voting-machines"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-05/georgia-election-officials-slap-down-trump-tweet-about-voting-machines?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-05/georgia-election-officials-slap-down-trump-tweet-about-voting-machines?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "Kamala Harris goes to Black community in D.C. for vaccine"
-    excerpt: "Harris said she deliberately chose the city’s only public hospital, United Medical Center, because it serves neighborhoods in the city’s Southeast quadrant that are predominantly Black. WASHINGTON — Vice President-elect Kamala Harris said she “barely felt” the COVID-19 vaccine shot in her left arm on Tuesday after she was inoculated with the first of two Moderna doses at a Washington hospital in the heart of the city’s Black community."
-    publishedDateTime: 2020-12-30T05:26:00Z
-    webUrl: "https://www.pressherald.com/2020/12/29/kamala-harris-goes-to-a-black-community-in-dc-for-her-covid-19-vaccine/"
+    quality: 70
+  - title: "‘Trump Tapes:' Listen To Recordings Of President Urging Georgia Official To 'Find Votes'"
+    excerpt: "The Washington Post released a phone call recorded Saturday of President Donald Trump attempting to persuade Georgia’s Secretary of State Brad Raffensperger to overturn state election results. While there has been no evidence of voter fraud in Georgia,"
+    publishedDateTime: 2021-01-03T22:56:00Z
+    webUrl: "https://www.ibtimes.com/trump-tapes-listen-recordings-president-urging-georgia-official-find-votes-3113654"
+    ampWebUrl: "https://www.ibtimes.com/trump-tapes-listen-recordings-president-urging-georgia-official-find-votes-3113654?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-tapes-listen-recordings-president-urging-georgia-official-find-votes-3113654?amp=1"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/12/APTOPIX_Virus_Outbreak_Harris_11063.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "VP-elect Kamala Harris receives coronavirus vaccine"
-    excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
-    publishedDateTime: 2020-12-29T18:36:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/vp-elect-kamala-harris-receives-coronavirus-vaccine/IMNYPWEP4VDMZOB3COK62KHSMQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 55
-    images:
-      - url: "https://www.ajc.com/resizer/HHv1BPHsIICavj07Z2odFiTQndA=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-20-2020/t_74fafcf1b29243b9a5def943e485f92b_name_t_d1a80fe1206e4f32b22e917a53a03f39_name_DNC_Harris__scaled.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
         isCached: true
   - title: "Trump Request To 'Find' Votes For Him Sparks Political Uproar"
     excerpt: "The release on Sunday by US media of a stunning audio tape in which President Donald Trump pressured Georgia's secretary of state to \"find\" enough votes to overturn his election defeat there to Democrat Joe Biden sent shockwaves across Washington."
@@ -535,45 +796,17 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
-    excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
-    publishedDateTime: 2021-01-05T04:15:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-03/last-days-in-georgia-runoffs-that-will-decide-senate-control?context=amp"
+  - title: "GEORGIA TAKEAWAYS: Trump's Long Shadow Not Fading Yet"
+    excerpt: "Ballots are still being counted in the Georgia runoffs that will determine control of the U.S. Senate and the scope of President-elect Joe Biden’s agenda."
+    publishedDateTime: 2021-01-06T02:56:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/georgia-takeaways-trumps-long-shadow-not-fading-yet"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/georgia-takeaways-trumps-long-shadow-not-fading-yet?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-05/georgia-takeaways-trumps-long-shadow-not-fading-yet?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
-    excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
-    publishedDateTime: 2020-12-29T16:22:00Z
-    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6819818-Kamala-Harris-to-receive-shot-in-bid-to-boost-U.S.-confidence-in-vaccines"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 54
-    images:
-      - url: "https://www.fccnn.com/incoming/6819834-78kn7o-U.S.-President-elect-Joe-Biden-announces-his-nominee-for-secretary-of-education/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20announces%20his%20nominee%20for%20secretary%20of%20education"
-        width: 1140
-        height: 712
-        isCached: true
-  - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
-    excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."
-    publishedDateTime: 2021-01-03T23:32:00Z
-    webUrl: "https://www.11alive.com/video/news/politics/elections/kamala-harris-savannah-georgia/85-0ed6ae43-d781-4f5b-a472-44afe8e1884c"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 54
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "Ym/bU2mt4Z3v+gNfudsj3JFN5I1HTwlhSXTecDpGOn1gzafWXPUKvvhFgDVOuAtbZIHql2lVgHHwpcqCDZfg2QiH5Wez+LkQmCbult5FeO3RJ3uw+S5942GFE2T3itOm/t8wDpO5L8bgXVvekA853QepI5KrLkSDs4vwgQDDhcU+AD24AK6ODNE78JRa5p2bq3u/vHhvEZqbPX+wsrGBwKomdIg/BQxWU6Oaps4byFGUbdnZK8j7+rkUJC1Q4Hk1zsddYRq6smlmM4RlrZVcwXuaJCGfrV6rvGwffpQhfjy0qkGb2bhj6QiSCw22+Fd+Na0JWoJmiAQ5Hgzs/5pkK50cQhOrwEre60H1QSfS6TY=;IcARkRxYTKRFlEFX/AuI9w=="
 ---

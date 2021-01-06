@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-rea
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/28/NPPP/3104438f-af30-44e1-ace2-4d387d7f4c75-18.jpg?auto=webp&crop=2255,1268,x0,y103&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'We have to be remembered for what's been done,' Trump says on early return to Washington"
+    excerpt: "U.S. President Donald Trump returned to Washington early from his Florida resort on Thursday, keeping up his fight with Congress over a defense bill and coronavirus aid checks while chronicling the \"historic victories\" of his outgoing administration on Twitter."
+    publishedDateTime: 2020-12-31T20:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/trump-to-forgo-new-years-eve-in-florida-for-early-return-to-washington-idUKKBN2951BB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2951BB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2951BB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201231&t=2&i=1546297277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBU0TV"
+        width: 813
+        height: 545
         isCached: true
 
 secured: "lKGEkBz+Tkl10wZYnlWMItEwo+52c5Jz2sVXpvqNiDd/srIdlIEJcECUNpgk2HmpPs0eL6GkvHpBcdCliRZmRZt2gow2qh7XG2bFdg4XlvPQw3wVPIQ6XNC7TCSuFLZWuB/glJXL6fR0giQGbW/tF2SeREomXi+cr5+wrvjXgiSAXPoiQfIV+EZCD6nhhAPKEXQUnNe/L5+XgUskfObySJuwN4qOg2yL/+XSDZQxvaimyHi0VyDyqOH0TcNf+DtHlSBy7e5xYX8J8KpjINPUYs85vSgUZLR9rV4rW8L/ms3Jp766EFNGZVH+F7nxURUzMlGRxsF4f0XDxpTKyd0AKWaHtEsWc25Xsy6cWn36a0E=;PcfBqOfvSYl4ZDb4CqtscA=="

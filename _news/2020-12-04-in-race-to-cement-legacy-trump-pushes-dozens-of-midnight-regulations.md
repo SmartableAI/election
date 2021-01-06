@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Judge: Trump administration must take new DACA applications"
-    excerpt: "The Trump administration must accept new applications for the Deferred Action for Childhood Arrivals program that protects some young immigrants from deportation"
-    publishedDateTime: 2020-12-05T05:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/daca-protesters_hpMain_20201204-202430_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump announces Israel-Morocco to normalize relations"
     excerpt: "President Donald Trump has announced that Israel and Morocco will normalize relations in the latest achievement of his administration’s press to push Arab-Israeli peace"
     publishedDateTime: 2020-12-10T16:25:00Z
@@ -63,21 +47,37 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump administration must accept new DACA applications, federal judge rules"
-    excerpt: "DACA allows certain young immigrants who were brought to the country as children to legally work and shields them from deportation."
-    publishedDateTime: 2020-12-05T01:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/04/daca-trump-administration-must-accept-new-applications-judge-says/3833797001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3833797001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3833797001"
+  - title: "North Korea wasted chance to improve relations under Trump, U.S. envoy says"
+    excerpt: "Pyongyang squandered an opportunity to fundamentally reinvent its relationship with the United States during Donald Trump's presidency, Washington's top North Korea envoy said on Thursday, adding he will urge his successors to continue engagement."
+    publishedDateTime: 2020-12-10T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-southkorea-biegun-idUSKBN28K0FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K0FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K0FN"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/02/USAT/d0dd52bc-6a8d-4345-8975-6be2340c5160-XXX__JG_138371_DACA_SCOTUS_11_12_201_jmg_3259.JPG?auto=webp&crop=5546,3120,x0,y276&format=pjpg&width=1200"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544057147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90AK"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "House passes defense legislation with veto-proof margin as Trump threatens veto"
+    excerpt: "President Trump has threatened to veto the legislation due to his frustrations over social media company protections."
+    publishedDateTime: 2020-12-09T12:39:00Z
+    webUrl: "https://www.cbsnews.com/news/defense-bill-passes-house-veto-proof-margin-trump-threat-section-230/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/defense-bill-passes-house-veto-proof-margin-trump-threat-section-230/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/defense-bill-passes-house-veto-proof-margin-trump-threat-section-230/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/22d29beb-171c-44f2-b45b-116746ad9948/thumbnail/1200x630g2/a2f76a465e94fff640d335f1343e3d74/gettyimages-1229999067.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Trump administration rushes sale of California oil leases despite certain legal battle"
     excerpt: "The Bureau of Land Management is continuing with plans to sell oil leases in California despite opposition from the incoming Biden administration."
@@ -94,20 +94,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/5810645/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F88%2F91bd10ea6d51ae816b1f388ec194%2Fa247689e42154871b07009bde790748f"
         width: 320
         height: 209
-        isCached: true
-  - title: "Talk Of 'Preemptive' Pardons By Trump Raises Questions: What Can He Do?"
-    excerpt: "Presidents have awarded clemency in this way before, but it's certainly not the usual course of action. And there are unresolved questions about what might be to come."
-    publishedDateTime: 2020-12-02T17:27:00Z
-    webUrl: "https://www.npr.org/2020/12/02/941290291/talk-of-preemptive-pardons-by-trump-raises-questions-what-can-he-do"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/02/ap_20325834765888_wide-0bc21641905e5666d3b0f2d85c96e0bb938fd1fa.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
 
 secured: "gKRkft5aHbkpJsqSQxMa32PosIqNh1KRNKGHo/CahoEeQn8jJbpBiiYdGSgVBTMrLU81gfgXsuxf/rgqidYT5DhF5M+alnvYqLWyJ5fbxWqhPPIbcBJSdcTWMXBa2/t4jGfuub73TxJ9io9FT2TRpEIB6vW15MyhP7MmCcdfwgSOPl851eg6sqtEU/mKC4kuaOTTw1NKd02cq4hiuEjm1Vsrijkp9Vd8haYlmTswgZsrG9tYaiq7ck3RX8Teyv3+xr0fG3e7y40iUcf8as1i/6IJcko6IVEY5/1gpuyIh4ARZl208QO8Fn2Bpb6a6STX/SI5QsCkZi9hazxITSO/m/K8vTuuv+G9tXUoDDJfbCubPU/9vHsoxX7FMF1uUivqK0rTaOxNDxdcLqCRSdwM1g2rctSta56ZHW+PMwwnrdDt3470MVHzNbkkSxHXRlDgXuppQSLSdDUTBsKtWoU8MrJ1BEsgi1srBgsMhrcx9E5+pP7NAw+kiZ8j5lCsxw3H5Yibl01LEBjFcdihAFjEpw==;8f0iGl5wXtTX4xxNJR3ECA=="

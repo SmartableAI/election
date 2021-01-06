@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Judge dismisses Flynn case following pardon from Trump"
-    excerpt: "A federal judge has dismissed the criminal case against former Trump administration national security adviser Michael Flynn"
-    publishedDateTime: 2020-12-09T06:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/judge-dismisses-flynn-case-following-pardon-from-trump/2020/12/08/0b4827ee-39c0-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/judge-dismisses-flynn-case-following-pardon-from-trump/2020/12/08/0b4827ee-39c0-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/judge-dismisses-flynn-case-following-pardon-from-trump/2020/12/08/0b4827ee-39c0-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Senate sends defense bill to Trump's desk with veto-proof majority"
+    excerpt: "The Senate sent a $740.5 billion defense bill to President Donald Trump's desk with a veto-proof majority Friday afternoon, but the fight over the bill may just be getting started. Both the House and the Senate have signed off on the proposal which,"
+    publishedDateTime: 2020-12-11T21:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/senate-sends-defense-bill-trumps-desk-veto-proof/story?id=74673934"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-sends-defense-bill-trumps-desk-veto-proof/story?id=74673934"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-sends-defense-bill-trumps-desk-veto-proof/story?id=74673934"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/us-capitol-building-washington-gty-jc-201211_1607713272646_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "aAn3lUBbkXMrjUp5Jiari/7GRIWKgky5TIUTo3WsXwpe4L0+N7LihpYjKCfw7f0n6EDfYZn6tbFadY9cXY1sz7JAaD6kykTwjtmZ6vfFe/Tue3XQdMNTUC0A+IzVBd3RzR2nN/zsg+tgxc5RklsdTy8qla5Q8Z2J6mf92Ydwi0eIvvSu4DbS7uOZzkpPjEAM8puT/IE1hm7GIesqrzyV4XHJwN+iEU9ePGPK7s6/vn/Q0XeKWyuhDt3VmcHiBESJKmh/gCEGfXyE9GZrOFXuhhOxxoxB6Ek23S3+s15J3D5WtfCH4MHKjz8Ie1KUBkItrkrbdG3dyr536XfECT5qHfqk0ol3V+P8Dcb/tJTtudU=;ociGGfVeemkbA8wz2UIyxw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3782498001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001"
 type: article
 quality: 125
-heat: 225
+heat: 185
 published: true
 
 provider:
@@ -62,36 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/02/05/USAT/aa5942fd-7582-4a29-9088-a4ed6825cfd4-AP_California_v_Trump.JPG?auto=webp&crop=4069,2303,x0,y158&format=pjpg&width=1200"
         width: 1200
         height: 679
-        isCached: true
-  - title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
-    excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
-    publishedDateTime: 2020-12-04T21:22:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden pledges help for workers hit hard by COVID"
-    excerpt: "President-elect Joe Biden met virtually with Americans who have been hard-hit economically by the coronavirus pandemic, promising help is on the way. He also urged Congress to pass a stimulus bill now as a \"down payment\" before he takes office."
-    publishedDateTime: 2020-12-03T00:26:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/biden-pledges-help-workers-hit-hard-covid/3803349001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/eeaaf938-b5ac-4ab2-906e-68396cf80859_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Live politics updates: Kamala Harris names 3 top staffers, Pence to talk COVID vaccine in Tennessee"
     excerpt: "Pence visits Memphis on Thursday to hold a roundtable discussion on distributing a COVID-19 vaccine as case numbers in the U.S. reach new highs."

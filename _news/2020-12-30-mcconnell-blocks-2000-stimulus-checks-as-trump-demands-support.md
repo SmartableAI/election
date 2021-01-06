@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad"
-    excerpt: "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election."
-    publishedDateTime: 2021-01-02T12:46:00Z
-    webUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 126
-    images:
-      - url: "https://i.insider.com/5ff059d5a18a450018cb6824?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
   - title: "McConnell thanks Trump for signing coronavirus relief bill"
     excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) late on Sunday thanked President Trump for signing an omnibus bill that funds the government and provides an additional round of coronavirus relief after earlier suggesting he would veto it."
     publishedDateTime: 2020-12-28T12:49:00Z
@@ -76,6 +60,22 @@ related:
       - url: "https://thehill.com/sites/default/files/mcconnellmitch_122120gn3_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "James Comey: Donald Trump should not be prosecuted after leaving office"
+    excerpt: "Trump has insulted the FBI director he fired and threatened jail, but in new book Comey says next attorney general ‘must foster trust’"
+    publishedDateTime: 2021-01-06T01:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/james-comey-donald-trump-prosecuted-saving-justice-new-book"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/james-comey-donald-trump-prosecuted-saving-justice-new-book"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/james-comey-donald-trump-prosecuted-saving-justice-new-book"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a3222a0066a6f84cac68afa6b01f1c60f2d17a0b/816_1821_6587_3952/master/6587.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0eb9e7f0a74d5248f19ab21782a6b6e3"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
@@ -93,22 +93,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
-    excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
-    publishedDateTime: 2020-12-30T22:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
-        width: 790
-        height: 545
-        isCached: true
   - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
     excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
     publishedDateTime: 2020-12-31T03:11:00Z
@@ -123,22 +107,6 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
         width: 790
-        height: 545
-        isCached: true
-  - title: "McConnell urges Senate to override Trump defense veto, vague on stimulus checks"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday urged the Senate to override President Donald Trump's veto of a $740 billion defense policy bill, saying the funding plan for the U.S. military could not be allowed to fail."
-    publishedDateTime: 2020-12-29T19:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN2930ST"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930ST"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930ST"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
         height: 545
         isCached: true
   - title: "Fate of $2,000 stimulus checks proposal, backed by Trump, is in McConnell’s hands"
@@ -300,20 +268,6 @@ related:
       - url: "https://i.insider.com/5fd0cb59240ebd00126bdde9?width=750&format=jpeg&auto=webp"
         width: 750
         height: 500
-        isCached: true
-  - title: "Trump lawyer Cleta Mitchell quit her law firm after being part of the president's controversial Georgia phone call"
-    excerpt: "One of President Trump's lawyers quit her law firm after participating in a phone call attempting to overturn the election results in Georgia, Insider has learned."
-    publishedDateTime: 2021-01-05T21:38:00Z
-    webUrl: "https://www.businessinsider.com/trump-lawyer-cleta-mitchell-quits-law-firm-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5ff4d724d184b30018aad2c6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "SORV/NlKUVzuFF4N8S2zfQ1TJlIPDupt4nSqVmBl0l2uHZVadpUD1+XTmDM9xx8VF7+pyPYfGe3gl+SRdFXBo1K3/0j4FfMxiAAMu250bXOiqfRKLh3lncI1arQaP7auIzowCveNnO/AtSC8ItXdwGNEdBMImredBQg6/mjKQ+T/9Rr8iDa4x2bghGiIfZSTQpeXY7OEMFrIz1gW6rER5QBzn5uO/zt6PozffDXQfPllOHghm3JqMDN75Fw5KXjVW+UpT4PGZ6VOFTyLJIJUa0jzG2QkVgYMOOYM2aO8qwF+g+myxLKZN6DJOx12+8f8GrDNEiCR8QNL9Yu3K0bI7zSGvKkA5DBqKBnv3DJCamQ=;ganNdLcWdgj5phckvoOTPA=="

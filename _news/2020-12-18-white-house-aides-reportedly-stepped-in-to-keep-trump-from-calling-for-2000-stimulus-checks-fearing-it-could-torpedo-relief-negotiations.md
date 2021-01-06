@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Several people are stabbed and nearly 30 arrested in clashes after Trump supporters rally"
-    excerpt: "Trump demonstrators over the weekend in Washington, leading to dozens of arrests, several stabbings and injuries to police officers."
-    publishedDateTime: 2020-12-13T22:58:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-13/nearly-30-arrested-after-clashes-at-trump-supporters-rally?_amp=true"
+  - title: "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans"
+    excerpt: "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each."
+    publishedDateTime: 2020-12-18T23:46:00Z
+    webUrl: "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long"
+    ampWebUrl: "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 116
+      name: The Hill
+      domain: thehill.com
+    quality: 100
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/128424f/2147483647/strip/true/crop/5546x3622+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2Fc2%2F70455de34c4e9d519e464222fd1f%2Fbiden-41790.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "EXCLUSIVE: Lawmakers ask FBI and Federal Election Commission to investigate Jared Kushner-backed Trump campaign company after Insider's reporting"
-    excerpt: "In a letter obtained by Insider, two lawmakers told the FBI and the FEC that the only way to know if the Trump campaign violated federal laws is for the agencies to open an investigation."
-    publishedDateTime: 2020-12-19T11:29:00Z
-    webUrl: "https://www.businessinsider.com/jared-kushner-trump-campaign-fbi-fec-investigation-shell-company-lara-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5fdd4eb3c910a400192e883e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "F7XHkj8LMsot/TNm3VRtb+JbNOZAayt9KsJ+Ya5mYL4TgYDbchjMojNqDyjCIT68Y5FdX6gnZ/hbmyqpHtkhoEgJOfRJCwDJIL9gsrXCwhNHHUSSx/x9Y6J+WK8Vx6+irR4nc7dvxz8gKeM78NYtZSDTbhgMIYw3PE5quYj7ckNvgEIGA0qNytyTGL6njZZQplFoN033eSeiCWPuzJdW5BU8GKTt7QHSdJWC5t8Q8NGgX/k3i/tHVv6nEy5BLSTBva9rSHZptD7QSeZeotj67a7WyHpso4zdKogEejDJv5uf9faLAE2zmfR/O+6JcLrR4gHEE2NBppjWtdxspZYoh0HFwn8+oIafhL6oVZfT5Wxo3n8U5p1/9BCBfWNQsanwIkiJuPFBwuVm24/p5X/u0KURNGERGM+4w+yA/GACb0NE8ikAMDPcnO/QsTpByrl4poeDOtJdQe79zUoac3t8C9MajEGUYCmAfUOxJI8lLSd9raO4AzZ0C4JE8RQJoFj47w1MBLQifwB0H9RVkYONEg==;0Z6lM9/YC3baveQgn/mlaw=="

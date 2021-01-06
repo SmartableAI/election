@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump says U.S. Attorney General Barr resigns"
-    excerpt: "U.S. Attorney General William Barr will step down next week, he said on Monday, shortly after the Electoral College confirmed President Donald Trump's loss to Democratic President-elect Joe Biden."
-    publishedDateTime: 2020-12-15T09:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMHv?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd8312ae4b04d44576323f2-1608003884993?location=LANDSCAPE"
-        width: 2241
-        height: 1495
-        isCached: true
 
 secured: "Si5tIrTlD0sIgizCjntPe367rNHZvo1kHLOYcCCwEgfUxzFnIyBhkk2nHUFF62E4cZte38YiTpfB1aC86I46pTbyEBp/Er8B2xIgJ4ehwvbAVY9FPb09tk5v5ahtdXKOgcTmC57CdnJi19TqpvlHhRvO5FSpEgXTXuEoqdddfewsD9jZE2ACUMjJYwgQY8YmkDmywlTkSeWL15Skur8b8G3egg7uX6h5bcdmMHlmw6oCxdg0QbgcrnqJns1RYuwpsOU3Ga7rfbXCCSLlsgVb3stCDMCrt8Bc+gA0oVVsqq8qGqOLwfdEa8oSnVHmQRKR7V7pMzZX2PrpHE6gQv1QGh02VSKpwM3r8nZiwLZjLrE=;mnI8xPATQDkEY/RITw0agA=="
 ---

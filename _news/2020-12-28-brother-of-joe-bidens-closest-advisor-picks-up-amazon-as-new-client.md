@@ -127,6 +127,20 @@ related:
         width: 1440
         height: 895
         isCached: true
+  - title: "Biden's plans on further COVID19 relief aid?"
+    excerpt: "Watch \"What are President-elect Joe Biden's plans on further COVID-19 relief aid?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-23T00:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201223002205-what-are-president-elect-joe-bidens-plans-on-further-covid-19-relief-aid/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08232198_1608683644.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden picks U.S. Representative Deb Haaland to be Interior Secretary: Washington Post"
     excerpt: "Elect Joe Biden will nominate Representative Deb Haaland to serve as his Interior Secretary, the Washington Post reported Thursday."
     publishedDateTime: 2020-12-17T20:05:00Z
@@ -138,6 +152,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
+  - title: "Joe Biden cometh, and he's bringing his czars to rule"
+    excerpt: "Make way for the czars. A Joe Biden White House, as media report is in the works, will bring more czars, more issuance of regulation, more Barack Obama-like pen and phone governance than any kind of duly passed laws and order."
+    publishedDateTime: 2020-12-28T14:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/joe-biden-cometh-and-hes-bringing-his-czars-rule/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/south_carolina_end_of_year_33909_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "Sv7vVz1RVI+lR34YFUiq/evNV46GjIwd8dLkXflmj1nt35uQ/FBgB9qf6yqh3bjqg0i363zwhYe4fBc7ufHlrduFo3ZX4Ez7iF0/8C2fZ5CdbKv4HnK4gSbiaH9EhTFYc17QoXLOpJ5CCY7IeWtEsO4lDLH6nzwgffYFF098Sp0wIMytbSYaaELBufbV3539qdWkl1muHdyIoqCauYyEpwVACRq64wx58/6q98t0a5PGUdc9eeAS7QVz0/Y1zyZ9HMAqWEvFGHbq2Wp1xE7pHiytWsyKjNey1eXSrLWC00tJv4CH60d/Ll51yded9EKakIQt8VaFc/rMlt8eNPTsu+tdrq6fEMi25PGzyi6OJPVj/AI4zMcc8rMoWYFtnA4BHgFPkVwLiiCGerAKKYdc0MfZ4BNMLkhBJV4+x8awf6qX0+zm7baRSawf/1AYZfJMFtY0GiE0D///ZbrYlAO9OhABxTrh/iqX4v0MmEmBujZoxQPaD/52rVu8XMvc5/vFw9Sx3+5aysGIaXNO+vrlpg==;Xxc8TDof0cRTtXciUWJvHQ=="
 ---

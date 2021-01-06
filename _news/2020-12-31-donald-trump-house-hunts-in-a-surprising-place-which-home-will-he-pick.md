@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump house hunts in a surprising place — which home will he pick?"
-    excerpt: "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential."
-    publishedDateTime: 2021-01-04T18:30:00Z
-    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-liststory-rdc-donald-trump-palm-beach-house-hunting-20210104-zhzyjuta6jh27dv47xvoeebebi-list.html"
+  - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
+    excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
+    publishedDateTime: 2020-12-26T16:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 104
+    quality: 120
     images:
-      - url: "https://www.chicagotribune.com/resizer/j78sicOE8zZ2qxbXI1iTabt-WMo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YFZRIGJ2L5CLZKHDQVX2SCVOSU.jpg"
+      - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
         width: 1200
-        height: 799
+        height: 832
         isCached: true
 
 secured: "UyMlD3XL1uELuVOUujcRvG/I+2qRg+RMA0tgxOphbL2oRipWahAKBgQRL5Je0TZ+gWEz5Dg58j2CyRuMLxACRINJBYcQJjSrlZXimKk9wbbp8e0cDF0C8fIo9SRmtXtB1bCKPK19RN7DIPyCSRfBaaAO3GD5J7F7OaDST5HoUXBxXOKbzOj8v0nhSnSEdF6W7y0KtKKhu6w44JqVHxVWpWTjEW6BQmgNiIwKwjsc8jGsBBCFOKDbuZXyhBWf3zHJ87phHS5aPnFY/9tkXZdBSYKBQzORSuYiRXKeBxK0Qy/bB6ZLDp91SzDesPVub5bTBpv5rfBX2KNUvjUugTg+lucnTCe+rMib3CgLBmjvJsB6PhIW97jzEyeUJXJHoH5lLjstBbTcdi02U/is0s3zIJdRHPbw5gO6zPfErnEVUDlGW07clEhMCKen/5LC5qM2Nmw2oudQZbSTV3XhOnSAYPPzjITcVCqhbRPABMTvl3vMTgLXjkmO9AZv4GOo9cfOeMqz4YQR4Pekz9HY0HHnnQ==;eO2xzoV3/OH9+nFb/HYY0g=="

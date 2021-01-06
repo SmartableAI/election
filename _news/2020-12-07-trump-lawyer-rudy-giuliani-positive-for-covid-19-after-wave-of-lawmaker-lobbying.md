@@ -31,70 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
-    excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
-    publishedDateTime: 2020-12-02T06:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B685"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 139
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543106880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03GT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live"
-    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
-    publishedDateTime: 2020-12-02T14:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc7a3a68f08c1b9f135871e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 134
-    images:
-      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump ally banned from Justice Department after seeking sensitive election intel: report"
-    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,"
-    publishedDateTime: 2020-12-03T20:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3814426001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3814426001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T10:11:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28B5UK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
-        height: 545
-        isCached: true
   - title: "Giuliani discussed ‘pre-emptive pardon' with Trump, report says – live"
     excerpt: "New York Times reports lawyer has discussed possibility with president, but not yet clear what Giuliani would need pardon for – follow all the latest news"
     publishedDateTime: 2020-12-01T18:35:00Z
@@ -126,22 +62,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
         width: 823
         height: 545
-        isCached: true
-  - title: "Rudy Giuliani has coronavirus, Donald Trump says"
-    excerpt: "Multiple US media reports say the lawyer is in hospital, as Arizona closes state legislature for a week in wake of 76-year-old’s recent visit"
-    publishedDateTime: 2020-12-07T13:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/05104e2dd6a5c6b0a064253f13e0fbee813cad21/0_0_5803_3482/master/5803.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=94540471a7a442b35c34f8c041c413e7"
-        width: 600
-        height: 360
         isCached: true
   - title: "Rudy Giuliani has tested positive for COVID-19, Trump says"
     excerpt: "President Donald Trump tweeted on Sunday. \"@RudyGiuliani, by far the greatest mayor in the history of NYC, and who has been working tirelessly exposing the most corrupt election (by far!) in the history of the USA,"
@@ -191,22 +111,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump lawyer Rudy Giuliani tested positive for coronavirus, Trump says"
-    excerpt: "U.S. President Donald Trump's personal lawyer, Rudy Giuliani, has tested positive for the novel coronavirus, Trump said on Twitter on Sunday."
-    publishedDateTime: 2020-12-06T21:19:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28G0T2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
-        width: 823
-        height: 545
-        isCached: true
   - title: "Trump lawyer Rudy Giuliani tests positive for COVID"
     excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
     publishedDateTime: 2020-12-06T20:44:00Z
@@ -255,101 +159,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Barr may leave Trump administration before Inauguration Day"
-    excerpt: "The attorney general, long criticized by the left and newly criticized by some on the right, has mulled not staying until the last day of the Trump administration."
-    publishedDateTime: 2020-12-07T16:25:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UUI77ZBYFMI6XETWVYGKOJZJXY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump says his attorney Giuliani is doing well, does not have fever"
-    excerpt: "U.S. President Donald Trump's hospitalized personal attorney Rudy Giuliani is doing well and does not have a temperature, the president said on Monday at the White House."
-    publishedDateTime: 2020-12-07T20:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-says-his-lawyer-giuliani-hospitalized-with-covid-19-does-not-have-fever-idUSKBN28H2FU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2FU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543737032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61IP"
-        width: 811
-        height: 545
-        isCached: true
-  - title: "Ivanka Trump deposed in ongoing lawsuit alleging misused inaugural funds"
-    excerpt: "Ivanka Trump was deposed on Tuesday as a part of an ongoing lawsuit from the Washington, D.C., attorney general, which alleges the misuse of funds from President Donald Trump's inauguration in 2017, new court documents show."
-    publishedDateTime: 2020-12-03T19:14:00Z
-    webUrl: "https://www.cbsnews.com/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/?intcid=CNI-00-10aaa3b"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/06/06/1dba942d-f379-41fc-b360-e972ee6cc393/thumbnail/1200x630g2/fb8b25b0ad4b3c20f46af57ae8c0e7ae/gettyimages-1225668427.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
-    excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
-    publishedDateTime: 2020-12-02T19:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
+  - title: "Trump reportedly limited US purchases of Pfizer vaccine when offered - live"
+    excerpt: "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June"
+    publishedDateTime: 2020-12-08T00:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/5f714bef23eb0c30aed9288b3df899803d5f06df/8_37_1139_683/master/1139.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5d5e99a8f793124bb185d42d2ea3217d"
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
         width: 600
         height: 360
-        isCached: true
-  - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T01:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idAFKBN28B5UH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Attorney General Bill Barr may leave office before the end of Trump's term: NYT"
-    excerpt: "The report comes after Barr broke from Trump last week, saying the Justice Department and the FBI had not found evidence of widespread voter fraud."
-    publishedDateTime: 2020-12-07T05:14:00Z
-    webUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/5fcdb5c0eadd8400183df683?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump lawyer Giuliani, suffering from COVID-19, to attend virtual hearing -source"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani, who was recently hospitalized with COVID-19, will attend a virtual hearing this week with Georgia lawmakers over Trump's flagging effort to overturn his U."
@@ -367,127 +191,22 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump is said to be livid at Barr, with one official suggesting termination possible"
-    excerpt: "President Trump remained livid Wednesday at Attorney General William P. Barr, with one senior administration official indicating there was a chance Barr could be fired — not just for his public comments undercutting Trump’s unfounded claims of election-shifting fraud,"
-    publishedDateTime: 2020-12-03T00:22:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+  - title: "Trump has the power to issue pre-emptive pardons. Here’s how past presidents used it."
+    excerpt: "George Washington, Gerald Ford and Jimmy Carter have used the pre-emptive pardon to seek national unity, not to protect family members as Trump is reported to be considering."
+    publishedDateTime: 2020-12-11T14:10:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLF2BSRU7MI6XDJYNLVBVWZYHE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LNJ6UXI3UI6VP2EBUY4QWBYUU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "President Trump not happy with Attorney General William Barr's election comments"
-    excerpt: "President Trump is \"not happy\" with Attorney General William Barr after Barr says the Justice Department has not yet seen any evidence of widespread voter fraud that would change the outcome of the 2020 election."
-    publishedDateTime: 2020-12-05T16:52:00Z
-    webUrl: "https://www.cbsnews.com/video/president-trump-not-happy-with-attorney-general-william-barrs-election-comments/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/04/abf5d912-ddd7-4970-ba76-9c08be507777/thumbnail/1200x630/a35d5b801ed7abb3b435a12c879c3a6b/cbsn-fusion-president-trump-not-happy-with-attorney-general-william-barrs-election-comments-thumbnail-601085-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job"
-    excerpt: "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York."
-    publishedDateTime: 2020-12-01T16:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "President Donald Trump’s personal lawyer Rudy Giuliani in the hospital after positive coronavirus test"
-    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump’s inner circle to contract the disease that is now surging across the U."
-    publishedDateTime: 2020-12-08T03:00:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
-    images:
-      - url: "https://www.chicagotribune.com/resizer/LlzBH-hBfshFlq7B1JJx1CRUxOE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S4TSHQ3SQRE4VIWHJKBXHPDH74.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump suggests Rudy Giuliani's crusade to overturn the election results is 'more important' than when he led New York's 9/11 response"
-    excerpt: "Giuliani was lauded for his 9/11 response, but his public image has cratered in recent years as he spins a web of increasingly incoherent conspiracies."
-    publishedDateTime: 2020-12-07T19:48:00Z
-    webUrl: "https://www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5fce7fa0eadd8400183df929?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Get better soon Rudy, we will carry on!!!': Trump tweets that Rudy Giuliani tested positive for coronavirus"
-    excerpt: "Giuliani, who spent the week traveling the country challenging the election results, is the latest close associate of the president to test positive."
-    publishedDateTime: 2020-12-06T21:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/06/trump-attorney-rudy-giuliani-tests-positive-coronavirus/3850967001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3850967001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3850967001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
-    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
-    publishedDateTime: 2020-12-01T15:49:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Rudy Giuliani tested positive for coronavirus, Trump says"
-    excerpt: "U.S. President Donald Trump's personal lawyer Rudy Giuliani has tested positive for the novel coronavirus, Trump said on Twitter on Sunday. (Reporting by Jan Wolfe; Editing by Daniel Wallis)"
-    publishedDateTime: 2020-12-06T20:49:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani-idUSL1N2IM0FU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IM0FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IM0FU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Trump's lawyer Rudy Giuliani asks witness to remove her face mask"
     excerpt: "At a hearing before the Michigan legislature about alleged voter fraud, Donald Trump's lawyer, Rudy Giuliani asked a witness seated next to him to remove her mask, because he said he couldn’t hear her."
     publishedDateTime: 2020-12-07T12:00:00Z
@@ -501,6 +220,22 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p090q08t.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Sean Hannity says Trump should pardon himself and his family to avoid a ‘witch hunt.’ Experts say it’s not that simple."
+    excerpt: "Five days after President Trump pardoned his former national security adviser Michael Flynn, Fox News host and Trump ally Sean Hannity offered a suggestion on Monday about who the president should pardon next: himself and his family."
+    publishedDateTime: 2020-12-01T16:13:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDK2IJVBFMI6VPQGV5KRJ3QDQU.jpg&w=1440"
+        width: 1440
+        height: 942
         isCached: true
   - title: "Trump attorney Rudy Giuliani coming to Michigan to give testimony on 2020 election"
     excerpt: "Rudy Giuliani, attorney for President Donald Trump, is coming to Michigan Wednesday to address a legislative committee probing Michigan’s 2020 election process."

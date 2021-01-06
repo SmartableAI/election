@@ -31,76 +31,170 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber-attack is brutal reminder of the Russia problem facing Joe Biden"
-    excerpt: "Analysis: new president must find a way to contain such hyper-aggressive behaviour from Moscow"
-    publishedDateTime: 2020-12-18T19:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/18/cyber-attack-brutal-reminder-russia-problem-facing-joe-biden"
+  - title: "Trump grants full pardon to Russia probe figure George Papadopoulos"
+    excerpt: "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election."
+    publishedDateTime: 2020-12-23T11:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28X00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/82d7591e13d4ea38cfee97a656251541e36d2a3f/0_313_6254_3752/master/6254.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffb77ff25ea0bc984ac90dd5576d762e"
-        width: 600
-        height: 360
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545498490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM009"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden mulls punishments for Russia over suspected role in government hack"
-    excerpt: "President-elect will consider options for unprecedented hacking of US government agencies"
-    publishedDateTime: 2020-12-20T14:19:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment"
+  - title: "Trump pardons former campaign chairman Manafort, associate Roger Stone"
+    excerpt: "U.S. President Donald Trump on Wednesday granted pardons to former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions under the long-running Russia election probe."
+    publishedDateTime: 2020-12-24T07:07:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-pardons-idUSKBN28Y087"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y087"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y087"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/2f95f60c5bec962f79f95030cfc8730e32dcac1f/0_235_3925_2355/master/3925.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fdfc5a1c6bcc8beb176560c6f747a577"
-        width: 600
-        height: 360
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545625287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN03O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Barr says Russia likely behind hack, won't name special counsel in Hunter Biden probe"
-    excerpt: "Outgoing Attorney General William Barr said Monday he does not see a reason to appoint a special counsel to lead the investigation into Hunter Biden, and split with President Trump over who is likely behind the massive cyberattack targeting several federal agencies,"
-    publishedDateTime: 2020-12-22T00:16:00Z
-    webUrl: "https://www.cbsnews.com/news/barr-russia-hack-hunter-biden-election-special-counsel/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/barr-russia-hack-hunter-biden-election-special-counsel/"
+  - title: "Trump pardons Paul Manafort, Roger Stone and Charles Kushner"
+    excerpt: "US President Donald Trump has pardoned hi Mr Trump's son-in-law. Mr Manafort was convicted in 2018 in an investigation into alleged Russian meddling in the 2016 US election. Mr Trump had previously commuted the prison sentence of Mr Stone,"
+    publishedDateTime: 2020-12-24T10:16:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55433522"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55433522"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55433522"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
+      name: BBC
+      domain: bbc.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/21/eb038982-0b90-4344-b964-18786880b5e8/thumbnail/1200x630/f4a166ec88a22235f15565c5b36488b7/gettyimages-1230248436.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/DA91/production/_116235955_manafortstonereuters.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Explainer: Can anything stop Trump from pardoning his family or even himself?"
+    excerpt: "President Donald Trump on Wednesday granted pardons to his former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions from U.S. Special Counsel Robert Mueller’s investigation into Russian meddling in the 2016"
+    publishedDateTime: 2020-12-25T01:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28Y1XK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y1XK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545733467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN13O"
+        width: 871
+        height: 545
+        isCached: true
+  - title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
+    excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
+    publishedDateTime: 2020-12-24T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 1036
+        isCached: true
+  - title: "Trump pardons former campaign chairman Paul Manafort along with Charles Kushner, other allies"
+    excerpt: "Trump's pardon of Paul Manafort once again highlighted the long shadow cast on the White House by the investigation into Russia's interference in the 2016 election."
+    publishedDateTime: 2020-12-24T00:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/23/trump-pardons-former-campaign-chairman-paul-manafort-and-other-allies/6468531002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6468531002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6468531002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/05/USAT/362a9b9e-796d-46a5-bd6d-c9b34761283b-AFP_AFP_1RI3FJ.JPG?auto=webp&crop=2583,1453,x1,y65&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Biden says he sees no evidence cyber attack is under control"
-    excerpt: "WILMINGTON, Del. (Reuters) -President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T03:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-he-sees-no-evidence-cyber-attack-is-under-control-2020-12?amp"
+  - title: "Trump pardons former Prince George’s officer whose conviction was ‘watershed’ moment for police reform in county"
+    excerpt: "President Trump granted a pardon this week to a former Prince George’s County canine police officer who was convicted of a federal civil rights violation and eventually served 10 years in federal prison for releasing her police dog on an unarmed homeless man in 1995."
+    publishedDateTime: 2020-12-25T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYSHF4CGCQI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 768
+        height: 648
+        isCached: true
+  - title: "Trump Grants Slew Of Pardons, Including George Papadopoulos And Duncan Hunter"
+    excerpt: "Clemency advocates have pressed President Trump to intervene in the cases of people hit with mandatory minimum sentences for drug offenses who have filled prisons in the past few decades."
+    publishedDateTime: 2020-12-23T00:34:00Z
+    webUrl: "https://www.npr.org/2020/12/22/947972044/trump-grants-slew-of-pardons-including-george-papadopoulos-and-duncan-hunter"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/18/ap_20351771171034_wide-a1d0787ca4b6ff4d60a877fc34a43008e8f5a91a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Trump issues wave of pardons and commutations to Russia probe defendants, former GOP lawmakers, Blackwater guards, and Border Patrol agents"
+    excerpt: "Trump issued pardons and commutations to 20 people including multiple close associates ensnared in the Russia probe and former GOP congressmen."
+    publishedDateTime: 2020-12-23T10:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-former-campaign-associates-ex-gop-congressmen-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Attorney General Barr breaks with President Trump, says Russia likely behind cyberattack"
-    excerpt: "Attorney General William Barr on Monday said Russia is likely behind a recent cyberattack, breaking with President Trump, who claimed China could have been responsible. Paula Reid reports on the latest developments and expert cyber threat intelligence analyst Charity Wright joins CBSN to discuss."
-    publishedDateTime: 2020-12-22T04:30:00Z
-    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-breaks-with-president-trump-says-russia-likely-behind-cyberattack/"
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5fd0bd5ecee0cf00114fa55e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump downplays hack as Pompeo blames Russia"
+    excerpt: "Watch \"President Trump downplays U.S. government hack as Pompeo blames Russia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-21T12:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201221123118-president-trump-downplays-u-s-government-hack-as-pompeo-blames-russia/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 96
+    quality: 85
+  - title: "Trump Won’t Denounce Russia’s Hack Because He’s Still Subservient to Putin"
+    excerpt: "Ahh, we’ll talk about that at another time,” Trump demurred. The other time has not come. Three months later, that remains Trump’s last word on the matter. In the wake of news of Russia’s massive cyber-intrusion into a swath of private and public networks,"
+    publishedDateTime: 2020-12-19T02:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-russian-hack-solar-winds-cyber-putin.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 73
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/782986b1-4d15-4b37-ad77-34afa9b725ab/thumbnail/1200x630/7e6f32e8eaf28ebce0bf00a1d7e3bac1/1221-cbsn-atx-aty-614122-640x360.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/6af/d6c/26cd6125882e55475038280280ed424f15-trump-putin.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
         isCached: true

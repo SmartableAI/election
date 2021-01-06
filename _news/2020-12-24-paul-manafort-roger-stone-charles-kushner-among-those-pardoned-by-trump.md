@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump pardons former campaign chairman Manafort, associate Roger Stone"
-    excerpt: "U.S. President Donald Trump on Wednesday granted pardons to former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions under the long-running Russia election probe."
-    publishedDateTime: 2020-12-24T07:07:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-pardons-idUSKBN28Y087"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y087"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y087"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545625287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN03O"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump pardons former campaign chairman Paul Manafort"
     excerpt: "President Donald Trump has issued pardons and sentence commutations for 29 people, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law"
     publishedDateTime: 2020-12-24T00:33:00Z
@@ -60,22 +44,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Trump pardons Paul Manafort, Roger Stone and Charles Kushner"
-    excerpt: "US President Donald Trump has pardoned hi Mr Trump's son-in-law. Mr Manafort was convicted in 2018 in an investigation into alleged Russian meddling in the 2016 US election. Mr Trump had previously commuted the prison sentence of Mr Stone,"
-    publishedDateTime: 2020-12-24T10:16:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55433522"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55433522"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55433522"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/DA91/production/_116235955_manafortstonereuters.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "U.S. SEC says Trump has designated Roisman acting chairman"
     excerpt: "President Donald Trump has designated Elad Roisman as the acting chairman of the Securities and Exchange Commission, the top U.S. securities regulator said on Monday."
@@ -93,70 +61,6 @@ related:
         width: 819
         height: 545
         isCached: true
-  - title: "Trump pardon of Blackwater Iraq contractors violates international law - UN"
-    excerpt: "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday."
-    publishedDateTime: 2020-12-30T15:54:00Z
-    webUrl: "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN294108"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294108"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546149005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0KQ"
-        width: 662
-        height: 545
-        isCached: true
-  - title: "Explainer: Can anything stop Trump from pardoning his family or even himself?"
-    excerpt: "President Donald Trump on Wednesday granted pardons to his former campaign chairman Paul Manafort and former adviser Roger Stone, sweeping away the most important convictions from U.S. Special Counsel Robert Mueller’s investigation into Russian meddling in the 2016"
-    publishedDateTime: 2020-12-25T01:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28Y1XK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Y1XK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y1XK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545733467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN13O"
-        width: 871
-        height: 545
-        isCached: true
-  - title: "Trump pardon of Blackwater Iraq contractors violates international law - U.N."
-    excerpt: "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday."
-    publishedDateTime: 2020-12-30T20:21:00Z
-    webUrl: "https://www.reuters.com/article/us-iraq-blackwater-un-idUSKBN294108"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN294108"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294108"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546149665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0KS"
-        width: 662
-        height: 545
-        isCached: true
-  - title: "Trump pardons Blackwater contractors convicted in deaths of 14 Iraqi civilians"
-    excerpt: "President Trump on Tuesday pardoned four U.S. security contractors convicted in the 2007 killing of 14 unarmed Iraqi civilians in Baghdad, abruptly ending a long legal saga and right-wing cause celebre."
-    publishedDateTime: 2020-12-23T10:41:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-pardon-blackwater-contractors-iraq/2020/12/22/603da1f4-44b8-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-pardon-blackwater-contractors-iraq/2020/12/22/603da1f4-44b8-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-pardon-blackwater-contractors-iraq/2020/12/22/603da1f4-44b8-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H2DWCXSE3II6XMHEB4MCSI5AEU.jpg&w=1440"
-        width: 1440
-        height: 954
-        isCached: true
   - title: "Trump grants more pardons, including for Paul Manafort, Roger Stone and Charles Kushner"
     excerpt: "With days left in office, President Trump isn't holding back on controversial pardons of white-collar criminals and allies."
     publishedDateTime: 2020-12-24T12:39:00Z
@@ -172,38 +76,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/15/d50063fd-1a97-4d11-bede-67d30aeb4d9e/thumbnail/1200x630/265b89e83a02e6650ab917ade9590248/ap-19319631440573.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump pardons Charles Kushner, Paul Manafort, Roger Stone in latest wave of clemency grants"
-    excerpt: "The president once again used his executive power to benefit his allies and undermine an investigation that dogged his presidency."
-    publishedDateTime: 2020-12-24T02:11:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/charles-kushner-paul-manafort-roger-stone-trump-pardons/2020/12/23/05cf013a-456d-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XE7GXWSFOEI6XF242F5YQFNGNU.jpg&w=1440"
-        width: 1440
-        height: 1036
-        isCached: true
-  - title: "Trump pardons former campaign chairman Paul Manafort along with Charles Kushner, other allies"
-    excerpt: "Trump's pardon of Paul Manafort once again highlighted the long shadow cast on the White House by the investigation into Russia's interference in the 2016 election."
-    publishedDateTime: 2020-12-24T00:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/23/trump-pardons-former-campaign-chairman-paul-manafort-and-other-allies/6468531002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6468531002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6468531002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/05/USAT/362a9b9e-796d-46a5-bd6d-c9b34761283b-AFP_AFP_1RI3FJ.JPG?auto=webp&crop=2583,1453,x1,y65&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "President Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
     excerpt: "Trump granted more pardons Wednesday to 26 people, including some people who are close to him. On Monday Trump granted full pardons to 15 individuals and commuted part or all of the sentences of five."
@@ -235,22 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump pardons former Prince George’s officer whose conviction was ‘watershed’ moment for police reform in county"
-    excerpt: "President Trump granted a pardon this week to a former Prince George’s County canine police officer who was convicted of a federal civil rights violation and eventually served 10 years in federal prison for releasing her police dog on an unarmed homeless man in 1995."
-    publishedDateTime: 2020-12-25T20:24:00Z
-    webUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/trump-pardons-former-prince-georges-police-officer/2020/12/23/041eb13e-4589-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYSHF4CGCQI6XF242F5YQFNGNU.jpg&w=1440"
-        width: 768
-        height: 648
-        isCached: true
   - title: "Trump Pardons Roger Stone, Paul Manafort And Charles Kushner"
     excerpt: "President Trump issued several more pardons on Wednesday evening, including to former campaign chairman Paul Manafort, Republican operative Roger Stone and Charles Kushner, the father-in-law of Ivanka Trump."
     publishedDateTime: 2020-12-24T00:38:00Z
@@ -276,6 +132,17 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "New Round of Trump Clemency Benefits Manafort, Other Allies"
+    excerpt: "President Donald Trump pardoned more than two dozen people Wednesday, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law."
+    publishedDateTime: 2020-12-26T17:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-23/trump-pardons-15-commutes-5-sentences-including-gop-allies?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "7QJ55Gw44an/gslXLeUqGjCUY9QlNVK8fu9vGhkBfnhjSo5Rj39KY5aHhMPiOYyB/x61WMJNv1Y7BG2v8ryMXMLcGO/Oz65VlpQ4w7oLWMQ1pT2Kwv8VcW4SJVp9tLdO0e+/MabhyNcfyFqGcAlcCBqwMd6nRH4TAN9zJLvQLDQfziIaWm/Ya2ZMZqH49wO81awQz6NxPTMtszK+oL8v7jtgeJHPijXWgdLXCIXQkOuXo66AFejeiBhEksJP7Q/9+E03Ui+OCAjDCuQ80B4GMzx9h/2uU9twB+VIVDfO8xCLs7VoB5brc7bmsoGVcmcuNNokv6YanYDcf2azBnP9uP6Fp0HlOk6Nz6KSi+5p7kZyW1MbgamCneQ6qEXvuX6iHbICsefIFnwTbwAP3wB9hB7bKzWKMXlx0B+O14R4H6zfiOCLOURjKY6VIQMTiVsYR6/DgzBTPJzieg++H0UsLpz3xq0L5oa995uqQ6ELRNngx8RyyWNuIerEp5rfVEEu0yv4izhjfyKRkvZRkF1sAQ==;GQ1cK+QI/3spT46WdAMrYQ=="
 ---

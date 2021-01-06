@@ -36,6 +36,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Pence has ‘power’ to block certification, Trump says"
+    excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday. "
+    publishedDateTime: 2021-01-06T06:20:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3EvdH0YArUU/live-updates-pence-has-power-to-block-certification-trump-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116244fa-ac1e-4faf-85c9-04dd356cfc3f/deb67d8c-a0f5-486c-a3be-a3e50f207b20/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he, Pence in ‘total agreement’ VP has ‘power’ to block certification of ‘illegal’ election"
     excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday.  "
     publishedDateTime: 2021-01-06T03:59:24Z
@@ -179,6 +195,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump renews pressure on Pence, says if VP 'comes through' and decertifies, he will 'win the presidency'"
+    excerpt: "President Trump early Wednesday put the pressure on Vice President Pence, saying that if he “comes through for us” and decertifies the Electoral College, he will “win the presidency.”"
+    publishedDateTime: 2021-01-06T06:14:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4ZeJL5EJM/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
     excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."

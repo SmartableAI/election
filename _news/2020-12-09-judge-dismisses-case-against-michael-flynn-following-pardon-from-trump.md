@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisse
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true"
 type: article
 quality: 125
-heat: 225
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he’s nixing plan for early vaccine at White House"
+    excerpt: "President Donald Trump says he’s reversing an administration directive to vaccinate top government officials against COVID-19 while public distribution of the shot is limited to front-line health work"
+    publishedDateTime: 2020-12-14T09:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-says-hes-nixing-plan-for-early-vaccine-at-white-house/2020/12/13/657b7986-3dc2-11eb-b58b-1623f6267960_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-says-hes-nixing-plan-for-early-vaccine-at-white-house/2020/12/13/657b7986-3dc2-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-says-hes-nixing-plan-for-early-vaccine-at-white-house/2020/12/13/657b7986-3dc2-11eb-b58b-1623f6267960_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Judge dismisses Michael Flynn case but notes Trump's pardon implies guilt, not innocence"
     excerpt: "U.S. District Judge Emmet Sullivan dismissed the case following a full and unconditional pardon that President Donald Trump issued for Flynn. But in a 43-page memorandum, Sullivan also said: \"A pardon does not necessarily render 'innocent' a defendant of any alleged violation of the law."
     publishedDateTime: 2020-12-08T20:47:00Z
@@ -47,61 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Michael Anton’s ‘Flight 93 Election’ Essay Defined the Trump Era"
-    excerpt: "Michael Anton wrote an essay for the right-wing Claremont Institute, “The Flight 93 Election,” making the case for Donald Trump’s election as a necessary gamble to stave off the destruction of conservatism."
-    publishedDateTime: 2020-12-11T17:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/michael-antons-flight-93-election-trump-coup.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/3c6/501/df5878ea62a8f09750b4ca9449461be279-GettyImages-1229998656.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NY AG predicts President Trump will step down so VP Pence can pardon him"
-    excerpt: "New York Attorney General Letitia James is predicting President Donald Trump will step down from office so Vice President Mike Pence can pardon him. “He can preemptively pardon individuals, and the ,” James said on ABC’s “The View” Tuesday."
-    publishedDateTime: 2020-12-09T14:58:00Z
-    webUrl: "https://www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 89
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OY6RNKUKINHUPPC7TCV4CNBDBI.jpg"
-        width: 3549
-        height: 2366
-        isCached: true
-  - title: "Florida’s electoral college casts votes for Donald Trump, Mike Pence"
-    excerpt: "Florida’s Electoral College cast their 29 votes on Monday for President Donald Trump and Vice President Mike Pence during a ceremony inside the Capitol Senate Chamber. Trump won Florida with more than 371,"
-    publishedDateTime: 2020-12-15T00:02:00Z
-    webUrl: "https://floridapolitics.com/archives/388818-floridas-electoral-college-casts-votes-for-donald-trump-mike-pence"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 70
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/12/IMG_6098-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Florida Casts 29 Electoral College Votes for Trump"
-    excerpt: "Florida’s  29 Electoral College voters were cast for President Donald during a ceremony in the Senate chamber."
-    publishedDateTime: 2020-12-14T20:10:00Z
-    webUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-12-14/florida-casts-29-electoral-college-votes-for-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "Ls58FzDcn0XHvUxcG2qcbdggNb9Em7etW/cZtbK37AyztB/RT0++GOEJxjp44U17tF4zuHHBeFaYrnn/P5krKxpXnJdCdmO9U152/Ccn7Dw1NXSH8a+Pr43kmhmF4ngMYYW7FMSCQDypdM7JXCO0T7AHQiP3xW56owelRRn0PX7DGNWVrzCvFjEQYlxeaYcRC7nO/n3tpRpFrr2DxyEPddfO8h0rXOBzvG+MuFqvul0f7+zXgWdWZpoK+ayeWZALBpQypy61Tom48vYuAGZwOx03indgt5t/rCmWq+ZieX9MN23iGmYHyy7vWUxMCQ0zIVOYJsTk33OE3kL5/R0gQWzzRF+6BzlRjYMYg67wsI95Yf2n0gRO1fx2h0Iq33Sz1/u/HsPSqCCYoxGt6d8Rl40g2/9G5SiE0FhGZPonTiidT+pftXwdhKq9inHNDFrau2hq6RTAS6rTOHuiExaJe7Bom0fSFuGcmNLVQbiy5jVk6wBZUyJvOpWLJz0iNap5m0ivTBRh2AB4QzcZdC/v+w==;83tP2MFUvkgjbdfLFqUfdA=="
 ---

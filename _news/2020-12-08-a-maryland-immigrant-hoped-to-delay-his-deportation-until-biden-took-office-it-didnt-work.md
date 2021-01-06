@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
-    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
-    publishedDateTime: 2020-12-05T00:00:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "aI5pEsNtoHtEmPxRGfRBevxkG4PEocU2GMmcCcERSlHVSoXkcQkDdK2SnSHgBK3boTfLyWU5s2Er5vzHHQiJ7KywHRqXaTqawjAKzmd6+CMIsz8leQY331OeRYQXp0DkztdikMNhvjmXqgcR7BlTYwsS8QTGeMmP//suYCaBUATTB+Q7CzWJCmFHVMtKpX4mZxKxpnv38nH+L52YthymnghMElrazhpOqIeQXKvtjqPecxTsuqFzYpemDWMSm8GWckIOTUWvc+1uwKszhAs2Jtk4BwlULQIxx+ABu2YrjJfjPhvHKR4II8DKN7xR2JPhp3b5ZFc8BvJIzKSkE012aHAc2OVPvpr1r9cS7PFwiiJ2nPhAjjX5S0zuIGupUFYhMK67RRAur5L3umDUYafsLto8UQTdN6TPTFDVwNt2RPTp5nD2kQJy6ZD6vl6qpx1KHlFyOgGRyfgr++F1UoUvFj1mrRcWT62qK+v7hsJvbIbv7k7Cf48tpQD7K/+mRNirC5t9RXBOdQ+gVayR5ltkCw==;HQsnTmDS2nrcq+hkO6/Y+g=="
 ---

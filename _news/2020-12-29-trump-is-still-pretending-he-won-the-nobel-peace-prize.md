@@ -59,22 +59,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "US STOCKS-Wall St at record levels after Trump signs fiscal aid bill"
-    excerpt: "Dec 28 (Reuters) - Wall Street’s main indexes were trading at record levels on Monday as President Donald Trump’s signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery."
-    publishedDateTime: 2020-12-28T22:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-at-record-levels-after-trump-signs-fiscal-aid-bill-idUSL4N2J81ZR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
-        width: 817
-        height: 545
-        isCached: true
   - title: "‘Like a hand grasping’: Trump appointees describe the crushing of the CDC"
     excerpt: "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, were installed in 2018 as two of the youngest political appointees in the history of the world’s premier public health agency,"
     publishedDateTime: 2020-12-16T17:28:00Z
@@ -91,44 +75,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "METALS-Shanghai metals rise as Trump signs stimulus bill"
-    excerpt: "Prices of most industrial metals rose on Monday, after U.S. President Donald Trump signed a stimulus package that would support the world's biggest economy and boost demand for metals."
-    publishedDateTime: 2020-12-28T03:19:00Z
-    webUrl: "https://www.reuters.com/article/global-metals-idUSL1N2J802I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J802I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J802I"
+  - title: "Eye Opener: Trump pardons former advisers convicted in Russia probe"
+    excerpt: "President Trump announced another round of pardons and commutations on Wednesday, with former advisers Paul Manafort and Roger Stone both on the list. Also, American airports are buzzing with travelers despite warnings from health officials."
+    publishedDateTime: 2020-12-24T12:49:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
-  - title: "Florida’s Electoral College votes officially go to Trump and Pence"
-    excerpt: "Florida’s 29 Electoral College votes officially were cast for President Donald Trump and Vice President Mike Pence on Monday during a brief ceremony in the Senate chambers of the Capitol."
-    publishedDateTime: 2020-12-15T01:33:00Z
-    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/os-ne-florida-senate-president-covid-20201214-mizjrtvgjvaobf7sbfgvdagxj4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 90
     images:
-      - url: "https://www.sun-sentinel.com/resizer/i9kUSPHXjws601q_x2SvnMb1Tlw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IXB2MNHUR5TZX5IUO53ZBUGBM.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/24/2ba3d634-673e-4d57-b175-5c4538502b19/thumbnail/1200x630/a41c34924ee8c14dfc7664f7bb1b5694/cbsn-fusion-eye-opener-trump-pardons-former-advisers-convicted-in-russia-probe-thumbnail-615578-640x360.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "US Stocks Hit Records After Trump Signs $900B Aid Package"
-    excerpt: "Stocks were moderately higher Monday, Dec. 28 in the final week of 2020 after President Donald Trump signed a $900 billion economic aid package that helps reduce uncertainty amid the re-imposition of travel and business curbs in response to a new coronavirus variant."
-    publishedDateTime: 2020-12-29T02:02:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "t4F6AB/lqCCUp5SNXL9h+cy0/dDbqDP6fQYZVs+5+hCWBt8LEFnEktTZz5HQEP1wejpi6Te5Nq6//BJ/2giIN8s655Kzc33g7LxQXvxttQMuZlsP1WCZCBjhDnuHaQh08dWl8PXqX9i1QvRagx9X2yGubmt7f6+/Afk/S/LklPq5AVhGJKDSQgbDhBQOXpupX/3x/qztdL+9V1YmfxVpGL2BGAPSuy75UOCP0NdTFQi2/qYFxo0IDWgnKMxbHkJa0CrSO+CvziBiEph0g8KP5IBrIk/6xKLlOwCECFFxj5Kia9sBujjZjiIPAambGTdjKEW/engl/Umlv65/9wnJhwvDWPdosfiIztrcPeB0RNg=;bbnOEMqxw0hvK5o8Kzwtfw=="
 ---

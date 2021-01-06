@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
+    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
+    publishedDateTime: 2020-12-30T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "CGMqZd6QIEUZsCvwcFyXxEK1GPD/xLNADw9qbCHR+PvSTd8zubgN5q5UmFuBzV37FxSX0x+3TSdtnrxt5nzKbum8mscq6DNKQdJQLWtlppKQOGq8JUfBsPmAjE5J5FkdrfPbom3COnTOWDUrL9ui5whwpSQZwuTMdt84UKc38/5LMGK8OY9QjPhsUvMqHj/DJFDBNH7eGfrngAxMREjVtdHhsgM3J2TIoPM/TE3mgmhmT8C7Sjlt2YyzpbBCY62NaaKBRc/OaO5j+O912qu4HXkq3J7e/MRqGChANayTw1DkRXTmU0YzphE6OTlxZYhf05HwrnFd6UHWRnlzISkwON35wwF9hQFP/F5cEnaConKTHhSLeHdKbVDLq7XPOCdu+UsDcm1TWS2gyIiAV9AiPaJt2rWokMAN+DAS3NdVdNz6pq7RmGJh2cy4rxZd6QObwdLikh3UDtK1JxPsrslIrIJXiicpfoxkPIfvBayHkJzSdNt5ON9eL/lPkux1SxG6F8FmuRCfqXWJ3Gd+lnGiWw==;3IUJCpuluE9Bci3PCF0z9w=="
 ---

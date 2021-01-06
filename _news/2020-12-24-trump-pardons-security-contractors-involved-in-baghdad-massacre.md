@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "With threat, Trump plunges COVID talks, GOP into tumult"
+    excerpt: "Facing his final four weeks in office, President Donald Trump has plunged Washington into chaos once more, mounting another desperate attempt to cling to power while leaving lawmakers scrambling to re"
+    publishedDateTime: 2020-12-24T00:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-threat-trump-plunges-covid-talks-gop-into-tumult/2020/12/23/70f9ac98-4555-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump spoke with Saudi Arabia's King Salman about regional security -White House statement"
     excerpt: "President Donald Trump spoke with King Salman bin Abdulaziz Al Saud of Saudi Arabia on Thursday, discussing regional security issues, according to a statement from the White House."
     publishedDateTime: 2020-12-18T01:35:00Z

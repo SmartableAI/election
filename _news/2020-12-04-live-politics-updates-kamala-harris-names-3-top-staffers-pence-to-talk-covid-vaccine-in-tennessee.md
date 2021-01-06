@@ -76,36 +76,6 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
-    excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
-    publishedDateTime: 2020-12-04T21:22:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden pledges help for workers hit hard by COVID"
-    excerpt: "President-elect Joe Biden met virtually with Americans who have been hard-hit economically by the coronavirus pandemic, promising help is on the way. He also urged Congress to pass a stimulus bill now as a \"down payment\" before he takes office."
-    publishedDateTime: 2020-12-03T00:26:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/biden-pledges-help-workers-hit-hard-covid/3803349001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/eeaaf938-b5ac-4ab2-906e-68396cf80859_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "9sLLDY4PnJLsJR5IEH8aLdxz6URlRnRd1glFfCY5u+m7Ka6Lz/3JnfwKOsNRhpO/ZS+BEhrd7ukHPaIK5LTcJV0hHoOvr3Tg/8qIo58psanoYvkEclrS7ybKWx8v71pDck6I6P2fffBj5TGIXBDKNpCxgg+MovHCaViTBsBN38F2RTeTx8hkQIamv8aHan19NlLEd6fJ9DXO8WR8YtlmixBAFc/bK4mFFMMTR9l6yzt6jMU3yaWpK5iKtu3XEKvHkchoazLrCNLfjOCbcQUVpszAT3TCHRp6+/x/BAFB0CDhYA9jzXoe/vov8xTI7rebW4d2yEYdQC6pFrJrhzRy8tsyY4WCi53FM9+8uHGwmFA=;sn78CelUia/MWB7yYhEV6w=="
 ---

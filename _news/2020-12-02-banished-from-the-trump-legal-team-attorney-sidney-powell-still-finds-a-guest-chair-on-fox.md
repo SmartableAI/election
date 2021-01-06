@@ -31,85 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
-    excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""
-    publishedDateTime: 2020-12-07T15:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3856164001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001"
+  - title: "Sidney Powell’s secret intelligence contractor witness is a pro-Trump podcaster"
+    excerpt: "Lindeman, whose credentials were questioned in a recent civil fraud case, confirmed that she wrote the affidavit and said she viewed it as her contribution to a fight against the theft of the election."
+    publishedDateTime: 2020-12-25T02:21:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASCOY2SFLQI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 766
         isCached: true
-  - title: "'This ship has sailed': Judges reject 2 more cases from pro-Trump lawyer Sidney Powell"
-    excerpt: "Attorney Sidney Powell saw swift defeat in two cases Monday morning, with judges in Michigan and Georgia dismissing her efforts to overturn the 2020 presidential contest."
-    publishedDateTime: 2020-12-07T21:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
+  - title: "Fired attorney Sidney Powell is back, advising Trump to chart a scorched-earth course"
+    excerpt: "After cutting Sidney Powell from his legal team, President Trump has welcomed her back into the White House to plot out further efforts to revive his presidency."
+    publishedDateTime: 2020-12-20T06:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fired-attorney-sidney-powell-back-advising-trump-chart/story?id=74823842"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 117
+    quality: 118
     images:
-      - url: "https://s.abcnews.com/images/Politics/sidney-powell-01-ap-iwb-201207_1607362601991_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/georgia-election-sidney-powell-02-rt-llr-201204_1607108804976_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Sidney Powell's Trump lawsuit is the stuff of 'mythos' and has no basis in reality, said Georgia officials in bid for dismissal"
-    excerpt: "Trump's claims of fraud and malfeasance \"would be extraordinary if true, but they are not,\" the joint filing stated."
-    publishedDateTime: 2020-12-06T16:20:00Z
-    webUrl: "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp"
+  - title: "Trump wanted conspiracy theorist Sidney Powell as special counsel on voter fraud – report"
+    excerpt: "Rudy Giuliani and other advisers opposed president’s suggestion, according to New York Times"
+    publishedDateTime: 2020-12-19T20:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/sidney-powell-trump-special-counsel-election-fraud-claims"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
     images:
-      - url: "https://i.insider.com/5fccf3b5eadd8400183df640?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A witness in Trump ally Sidney Powell's lawsuits says the voting results in 'Edison County' indicate fraud. No such place exists."
-    excerpt: "The lawsuit is being pushed by allies of President Donald Trump in an effort to fight voters and declare him the winner of Michigan's electoral votes."
-    publishedDateTime: 2020-12-01T17:23:00Z
-    webUrl: "https://businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5fc6705d037cbd00186131db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Explosive thrown through Michigan man’s window, victim thinks he was targeted over Trump support"
-    excerpt: "A homeowner believes his personal politics led someone to throw an explosive through his window Saturday morning, causing extensive damage to his house. According to WDIV Detroit, the homeowner -- who has not been identified for safety reasons -- was upstairs in his home shortly after midnight when he and his girlfriend heard a pair of explosions."
-    publishedDateTime: 2020-12-08T04:59:00Z
-    webUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html"
-    ampWebUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 62
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DEQV7NJM5CEVE6NFWCPVNPERI.jpg"
-        width: 665
-        height: 334
+      - url: "https://i.guim.co.uk/img/media/ab36745ae4c618ac2c20aff19ed98c3b8be2b06c/0_110_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f7a1dba5230ac83bcadc1ec8563ec996"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "IDvXmvopoFXwBeRTiVmExOF5kAekXF62S+VmOjJVbFP+hzw3rZibf0x1wFI5gXrdzLvxAPWgVCqpQH6g4SsOmxp35IomE9KzWwMdiyDmlUnn8uXEi5vp5ufJ6ujsYlY0tpGpeirVzEph8A12OszBEmErszDk4wjGJEoVPLL1yctu31Yvu+WULUaJv5JJMrmO5GXT1Bj+F3uoVcrOUy/CP9YgoUr5jBqxZdjOkn9FLtIP9KIMQO0KrxHM7Y7VpY25uXbYMbqmoupkHtX8DhcoYaGqcnifMBie89HdHk78bbQFlZZ1IP4PXgjSQOhQ79ed8qADpEDVUhDus4f+fCKeKOJUeDIuzPvuluMHqkkNxF0r7leQl9+kiu5SWzxrZRvjqJzeCQphC+rGn5aGBCVOkMeADC5vvHpeQK5/PL0goQ7orZ1K+9TQWQH2Ol00Kz0Xlx2xqKbEWayH0a4ODOULJHo3om9j2iXJXIYokk0pnJZ9UJJsX9e4/mq78M7IBpcqMHGvvDHpUKi6pliKEBhxyQ==;aPY8G1/ANfgxtagod2C1hQ=="
