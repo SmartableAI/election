@@ -89,6 +89,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Corporate America urges officials to consider quick removal of Trump"
+    excerpt: "The head of a major U.S. business group urged senior U.S. officials to consider removing President Donald Trump from office after supporters of the outgoing president stormed the U.S. Capitol."
+    publishedDateTime: 2021-01-06T22:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-elections-companies/corporate-group-urges-officials-to-consider-quick-removal-of-trump-idUSKBN29B2WR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2WR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2WR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546863662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051JP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump to forego New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
     publishedDateTime: 2020-12-31T14:56:00Z

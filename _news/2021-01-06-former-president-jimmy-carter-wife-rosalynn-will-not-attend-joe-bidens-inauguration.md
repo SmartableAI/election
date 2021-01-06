@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
+    excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious."
+    publishedDateTime: 2021-01-06T22:49:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden, Nancy Pelosi to Draw on Their History in Bid to Unite Fractious Democrats"
     excerpt: "The president-elect and House speaker share the job of steering a divided Democratic coalition amid a pandemic and an economy recovering from a deep slump."
     publishedDateTime: 2021-01-01T13:07:00Z

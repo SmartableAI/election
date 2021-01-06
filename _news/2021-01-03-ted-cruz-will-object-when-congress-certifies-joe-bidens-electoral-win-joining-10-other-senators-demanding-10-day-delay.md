@@ -27,33 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election"
-    excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."
-    publishedDateTime: 2021-01-06T04:25:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp"
+  - title: "Biden has selected Judge Merrick Garland to serve as attorney general - Politico"
+    excerpt: "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision."
+    publishedDateTime: 2021-01-06T22:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S"
+        width: 765
+        height: 545
+        isCached: true
+  - title: "Joe Biden to name judge Merrick Garland, blocked by GOP from High Court, as attorney general"
+    excerpt: "President-elect Joe Biden has selected Merrick Garland, a federal appeals court judge who in 2016 was snubbed by Republicans for a seat on the Supreme Court, as his attorney general."
+    publishedDateTime: 2021-01-06T18:04:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-merrick-garland-attorney-general-20210106-j2kzvuozrjgjjcugt2txqk6lv4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-merrick-garland-attorney-general-20210106-j2kzvuozrjgjjcugt2txqk6lv4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-merrick-garland-attorney-general-20210106-j2kzvuozrjgjjcugt2txqk6lv4-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
     quality: 114
     images:
-      - url: "https://www.chicagotribune.com/resizer/MVX3V3Xx8vQH_4keIQqEc6uYqe0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HZALOYUTVCGNEB5TIWZCFNDFY.JPG"
+      - url: "https://www.chicagotribune.com/resizer/yxxYbGO2pXt6AZ4ct4quidm6E-A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5ETQCPA7SFUB4JCAQYH6ESB57I.jpg"
         width: 1200
-        height: 751
+        height: 800
         isCached: true
-  - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
-    excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
-    publishedDateTime: 2021-01-05T04:58:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-election-petition/it-is-time-new-york-law-firm-leaders-urge-congress-to-certify-biden-win-idUSL1N2JF2LY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JF2LY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF2LY"
+  - title: "Former Iran hostage urges Biden to prioritize detained Americans"
+    excerpt: "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan."
+    publishedDateTime: 2021-01-02T13:24:00Z
+    webUrl: "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8rsA4HChLjcC6Hso3zk6jnV+8n/kZXfWC0pwOrB48g6NC9XOb+85eieiA7OTMmP1qziL/9eDppSfLmdOc+e9k6zPxi9JWcq8x2DqozAnjgj6vqd0lbR/xNqpmoZqPCn/ne/uTxI+N5ow2vEiX8t+AJIbyEnqAT3lPOtRQMTURX/pfIYAfy3HVC8pvDjW1M+mZcKeGy/gKWsEprukjwfvSnVrL/yn8ykU2/6jUwi4vGkBhde3mJMYDUpoF9RN3gQ+7s7v8KgfsdM+rLaN0t0obfEVN1Am1NVHXjgBt3IaV444znmAhrt9IikwLA1XQyEoX7X1OvcLnisAfk0O7lvY0dd8Xs1LRNskmN5o9wW2USCY9xok5pbYlYcfmPYdZyIKpVsizoneNeL/6DW+oyarg/4d8VuUfWE8G3V/70DrXuzfDoEXjRlGNV2fmyRGdcjk9eQx16qZZ620E4wcQZWGNofyo8wwVdnYwiksKU39etub12KuivNmxKpNfeAAU9Na8GSfcq6y4lcKyKuGCvb3YA==;gdPCLXKdmMinsXUZlDbCMA=="
 ---

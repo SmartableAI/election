@@ -745,6 +745,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump pressures powerless Pence on electoral count"
+    excerpt: "President Donald Trump is trying to pressure Vice President Mike Pence to use powers he doesn't have to overturn the will of voters in a desperate and futile bid to undo President-elect Joe Biden’s vi"
+    publishedDateTime: 2021-01-06T15:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-pressures-powerless-pence-electoral-count-75080012"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-pressures-powerless-pence-electoral-count-75080012"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-pressures-powerless-pence-electoral-count-75080012"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9fffd4be4c1644ca9f2c7b3da5fac994_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump puts Pence in a vise between loyalty to him or the Constitution"
     excerpt: "President Trump falsely says Vice President Mike Pence could reverse the election result when he presides in Congress on Wednesday, setting Pence up for Trump's wrath."
     publishedDateTime: 2021-01-05T23:58:00Z
@@ -1172,6 +1188,22 @@ related:
       - url: "https://www.gannett-cdn.com/media/2015/01/17/USATODAY/USATODAY/635570813184368521-146794638.jpeg?auto=webp&crop=3867,2185,x0,y197&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Trump attacks Pence for not having the 'courage' to overturn the election as the president's supporters storm the Capitol"
+    excerpt: "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump said."
+    publishedDateTime: 2021-01-06T20:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-attacks-pence-for-not-having-courage-to-overturn-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-attacks-pence-for-not-having-courage-to-overturn-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-attacks-pence-for-not-having-courage-to-overturn-election-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/5ff614c16d61c10019ccdffc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump allies launch desperate final efforts ahead of congressional confirmation of Biden win"
     excerpt: "President Trump and his allies are growing increasingly desperate as Congress prepares to formally receive the votes that will confirm his election loss next week, filing lawsuits against nonexistent entities and even Trump’s own vice president as they try to come up with new ways to overturn the vote."
@@ -1746,6 +1778,38 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_342eb8f9799141098635b68b309984d1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pro-Trump protesters overrun Capitol, forcing evacuation"
+    excerpt: "A chaotic and violent scene unfolded at the Capitol on Wednesday as supporters of President Trump swarmed the building to protest the Electoral College vote"
+    publishedDateTime: 2021-01-06T21:07:00Z
+    webUrl: "https://thehill.com/homenews/house/532951-pro-trump-protestors-overrun-capitol-forcing-evacuation"
+    ampWebUrl: "https://thehill.com/homenews/house/532951-pro-trump-protestors-overrun-capitol-forcing-evacuation?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/532951-pro-trump-protestors-overrun-capitol-forcing-evacuation?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/capitolriot_010621getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump doesn't ask backers to disperse after storming Capitol"
+    excerpt: "President Donald Trump is encouraging supporters who've stormed the Capitol in protest of his reelection defeat to “remain peaceful.”"
+    publishedDateTime: 2021-01-06T22:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-backers-disperse-storming-capitol-75093278"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-backers-disperse-storming-capitol-75093278"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-backers-disperse-storming-capitol-75093278"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_04b256687cf34eab819e79c9fb875c9b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -2336,6 +2400,20 @@ related:
         width: 1024
         height: 791
         isCached: true
+  - title: "Incited by the President, Trump Supporters Violently Storm the Capitol"
+    excerpt: "Seething with anger, mostly unmasked, Donald Trump’s supporters stormed and breached the U.S. Capitol on Wednesday"
+    publishedDateTime: 2021-01-06T21:30:00Z
+    webUrl: "https://time.com/5926883/trump-supporters-storm-capitol/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump_US_Capitol_Protest_002.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -2420,6 +2498,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "A Surreal Scene Unfolds in Washington as Donald Trump Tries to Undo the Election"
+    excerpt: "Trump addressed a rally here in Washington for those who believe — against all fact — that Trump actually won his re-election in November."
+    publishedDateTime: 2021-01-06T20:32:00Z
+    webUrl: "https://time.com/5926818/washington-surreal-trump-rally/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 95
   - title: "Live politics updates: Donald Trump to cut short Florida holiday, return to Washington; Fate of $2,000 stimulus checks remains uncertain"
     excerpt: "A proposal from Senate Majority Leader Mitch McConnell to raise stimulus checks to $2,000 includes demands that Democrats are not likely to support."
     publishedDateTime: 2020-12-31T04:54:00Z
@@ -2621,17 +2708,6 @@ related:
       name: Time
       domain: time.com
     quality: 83
-  - title: "Trump Pressures Powerless Pence on Electoral Count"
-    excerpt: "President Donald Trump is trying to pressure Vice President Mike Pence to use powers he doesn't have to overturn the will of voters in a desperate and futile bid to undo President-elect Joe Biden’s victory in the November election."
-    publishedDateTime: 2021-01-06T14:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-06/trump-pressures-powerless-pence-on-electoral-count"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-06/trump-pressures-powerless-pence-on-electoral-count?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-06/trump-pressures-powerless-pence-on-electoral-count?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 80
   - title: "Congress Is Set to Confirm Joe Biden's Win Over Trump Despite GOP Pushback. Here's What to Know"
     excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden’s win over Trump."
     publishedDateTime: 2021-01-05T20:27:00Z
@@ -2680,6 +2756,22 @@ related:
         width: 1200
         height: 906
         isCached: true
+  - title: "Watch live: President-elect Joe Biden to speak on Capitol protests"
+    excerpt: "President-elect Joe Biden will speak Wednesday in Delaware in reaction to rioters breaching the U.S. Capitol and forcing lawmakers to be evacuated during a joint session to certify election results. Watch here."
+    publishedDateTime: 2021-01-06T21:06:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/06/Watch-live-President-elect-Joe-Biden-to-speak-on-Capitol-protests/6511609966489/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/06/Watch-live-President-elect-Joe-Biden-to-speak-on-Capitol-protests/6511609966489/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/06/Watch-live-President-elect-Joe-Biden-to-speak-on-Capitol-protests/6511609966489/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6511609966489/2021/1/bbc52a2dd07fbfe62bc4a2721f2f8394/v1.5/Joe-Biden-calls-on-Donald-Trump-to-step-up-end-siege-on-Capitol.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-03T19:54:00Z
@@ -2727,6 +2819,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/FyNJXGzYNFQkR-P-ud24j2R52Nc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T6BPAPOYRCBKEUJBBPNY4CSE2U.aspx"
         width: 1200
         height: 724
+        isCached: true
+  - title: "Joe Biden tells mob to ‘pull back,’ urges restoring decency, calls on Trump to ‘demand an end to this siege’"
+    excerpt: "President-elect Joe Biden called Wednesday for the restoration of “just simple decency” as a mob incited by his predecessor stormed the U.S. Capitol."
+    publishedDateTime: 2021-01-06T22:47:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 71
+    images:
+      - url: "https://www.courant.com/resizer/C2Vgf6QziokqyhKe5rE4eGODHzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VTAN5OLFBYSA4KIMXWSWY6QFQI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden Says Trump Vaccine Plan Falling 'Far Behind'"
     excerpt: "US President-elect Joe Biden on Tuesday vowed a relentless effort to fight Covid-19 the moment he takes office, as he warned that Donald Trump's vaccination drive was falling dangerously short. Speaking after a briefing by experts,"
@@ -2828,6 +2936,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Joe Biden calls on Trump to 'end this siege'"
+    excerpt: "Trump rioters storming the Capitol while Congress was meeting to finalize his election victory. Trump issued on Twitter a restrained call for peace well after the melee was underway. Biden also called for an end to the violent protest."
+    publishedDateTime: 2021-01-06T22:32:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/joe-biden-calls-on-trump-to-end-this-siege/html_8917f864-24a0-5527-b5cb-852793381d48.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/91/8917f864-24a0-5527-b5cb-852793381d48/5ff631301a024.preview.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
     publishedDateTime: 2021-01-06T18:26:00Z
@@ -2860,17 +2982,17 @@ related:
         isCached: true
   - title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
     excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
-    publishedDateTime: 2021-01-06T12:33:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    publishedDateTime: 2021-01-06T12:36:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 56
     images:
-      - url: "https://www.dailypress.com/resizer/DcvK5aSHKrOXTH-Q1Tzf8JRhfEc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XR57XIL6B3AAQ67N5EEAP5TNDM.jpg"
+      - url: "https://www.courant.com/resizer/DcvK5aSHKrOXTH-Q1Tzf8JRhfEc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XR57XIL6B3AAQ67N5EEAP5TNDM.jpg"
         width: 1200
         height: 800
         isCached: true

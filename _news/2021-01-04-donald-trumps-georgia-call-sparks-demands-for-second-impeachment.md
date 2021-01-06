@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump supporters storm Capitol during electoral college count"
+    excerpt: "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House."
+    publishedDateTime: 2021-01-06T22:55:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4K2DZJCQNUI6XOLOBZKEI6ZDUE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
     publishedDateTime: 2020-12-30T22:38:00Z
@@ -318,6 +334,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1696729/thune-trump.jpg"
         width: 3000
         height: 2460
+        isCached: true
+  - title: "Guns and teargas in U.S. Capitol as Trump supporters attempt to overturn his loss"
+    excerpt: "Police in the U.S. Capitol on Wednesday responded with drawn guns and tear gas on Wednesday as swarms of protesters stormed in and sought to force Congress to undo President Donald Trump's election loss shortly after some of Trump's fellow Republicans launched a"
+    publishedDateTime: 2021-01-06T22:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN29B2PS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29B2PS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29B2PS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546855438&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051HV"
+        width: 817
+        height: 545
         isCached: true
   - title: "Congressional Dems move forward on $2,000 checks after Trump signs COVID relief bill"
     excerpt: "Trump caved his on demands and signed the COVID relief bill, but it's unclear if efforts by Democrats to approve increased relief payments will make it out of the Senate."

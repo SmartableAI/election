@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fir
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
 type: article
 quality: 171
-heat: 211
+heat: 251
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
+    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
+    publishedDateTime: 2021-01-06T22:45:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pro-Trump protesters storm Pelosi's office, take over Senate chamber at US Capitol"
+    excerpt: "Thousands of pro-Trump protesters stormed the U.S. Capitol on Wednesday, vandalizing House Speaker Nancy Pelosi’s office and both congressional chambers."
+    publishedDateTime: 2021-01-06T22:42:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTxiRdEaxDc/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
     excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
     publishedDateTime: 2021-01-06T20:49:15Z
@@ -62,6 +94,6 @@ related:
         height: 562
         isCached: true
 
-secured: "DfRSs9YxzJUGIB318AQaXqI522s9NqR4lWtnBtZ8lQmWlRIEkQ2XTSlCPi/TGD/N72b5gcfak24ryO4Q04rwcIP7M9zVza2148pT9ALIFXFG29P3bDFMvGI3eMwP7/jxch+F8eQn3ylpyVU2pBejV4N88nRnKOqI4yFr14dRs3ocz6Qb1v7JXoT50bbZIuTyZSYpLLk73w8z7K0tk4JLeW14cXeb5AsOJo9sq0SHvCTn4aUzcxNylx0U6I6vNnjprq113xCBGlbEodVCpSzncI+1M6zBNj2CCEhiFaS5ecANzBT7rPZKQ78N1qDSI1MVEVpRg2R907K2PH7s2BOefYbEsop25SpjoV489yUq0jo=;C2nQ5s0acthJKySdc48JtA=="
+secured: "/T55NaI5OZrOwev+dfqP86NQNK0Ydx28H4cIvgTqrdOO4H4MOh4VRlOxlsExFGXVyYqHievownZ5eDe5Om1VFrhRJpB1i9DeGuiBeoGzAo8PXOdAjTodteDQLWMBe20PkDUSyMldH0n41EM/NbQX6yvD9MLzm+qFGLSSYUiHelpKrYODxhGB/IJp5pS3IoOdx3U++n+B8odTc1SiOpT1y6/lrQU3CU3iTVE/yIQIQdbMYlvh4UhVIDXAtEHucDt4oLPYDnIwTK42y4ZG3632Xxjp1X3aUs0WdzXm9oODhenK0SGGvuveg2qtW8+GYMgRFDD8QUiavm6nDVLJ4c+sYTQM2T5f5UmEQThxuSdYR+8=;zKfqr+Aoi8PazKuIKA2B5Q=="
 ---
 

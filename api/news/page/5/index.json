@@ -2,6 +2,323 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-01-trump-blasts-covid-relief-bill-just-passed-by-congress-demands-changes.md",
+      "title": "Trump blasts Covid relief bill just passed by Congress, demands changes",
+      "excerpt": "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251966",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966",
+      "publishedDateTime": "2021-01-01T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-from-covfefe-to-the-mooch-10-funny-moments-from-the-trump-presidency.md",
+      "title": "From covfefe to the Mooch: 10 funny moments from the Trump presidency",
+      "excerpt": "Amid four years of corruption, caging children and trashing democracy there were some light-hearted moments – no really",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/76465e089e54707c797f297b9ad6992732765620/0_0_3465_2080/master/3465.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=989b841aea1fe87f1b98431a116acc58",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "publishedDateTime": "2020-12-31T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-trump-reportedly-lashed-out-at-kushner-over-increased-covid-19-testing-im-going-to-lose-and-its-going-to-be-your-fault.md",
+      "title": "Trump reportedly lashed out at Kushner over increased COVID-19 testing: 'I'm going to lose, and it's going to be your fault'",
+      "excerpt": "Trump reportedly told Kushner, \"I want to do what Mexico does. They don't give you a test till you get to the emergency room and you're vomiting.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fee7be9a18a450018cb67d6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp",
+      "publishedDateTime": "2020-12-31T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-trump-extends-visa-ban-health-coverage-policy-advances.md",
+      "title": "Trump extends visa ban, health coverage policy advances",
+      "excerpt": "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-31T17:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-amid-election-turmoil-caused-by-trump-chief-justice-roberts-lauds-judiciary-for-pandemic-response.md",
+      "title": "Amid election turmoil caused by Trump, Chief Justice Roberts lauds judiciary for pandemic response",
+      "excerpt": "Roberts notably avoided any mention of the judiciary's other historic challenges caused in large part by President Donald Trump, his frequent nemesis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/chief-justice-john-roberts-lauds-judiciary-pandemic-response/4101264001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/chief-justice-john-roberts-lauds-judiciary-pandemic-response/4101264001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/30/USAT/52bdfce1-7f86-4e20-94db-c96643c1f59c-1197623486.JPG?auto=webp&crop=2085,1173,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4101264001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001",
+      "publishedDateTime": "2020-12-31T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-in-scathing-facebook-post-gop-senator-calls-colleagues-arsonists-over-plot-to-challenge-election-accuses-trump-of-bilking-supporters.md",
+      "title": "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters",
+      "excerpt": "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-31T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-one-of-trumps-biggest-services-to-america-was-exposing-liberal-media-jeffrey-lord.md",
       "title": "One of Trump's 'biggest services to America' was exposing liberal media: Jeffrey Lord",
       "excerpt": "One of President Trump's top accomplishments came not on the domestic policy or foreign policy front, but in simply exposing left-wing media figures for their biases, columnist and political analyst Jeffrey Lord said Wednesday on \"The Ingraham Angle.\"",
@@ -66,7 +383,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -288,7 +605,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1016,335 +1333,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
       "publishedDateTime": "2020-12-29T16:56:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-heres-how-mitch-mcconnell-is-planning-to-kill-trumps-2000-checks.md",
-      "title": "Here's how Mitch McConnell is planning to kill Trump's $2,000 checks",
-      "excerpt": "Less than 48 hours after President Donald Trump claimed that \"the Senate will start the process for a vote that increases checks to $2,000, repeals Section 230, and starts an investigation into voter fraud,\" the actual boss of the Senate had his say.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4U1Pttbp4fo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4U1Pttbp4fo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208224009-mitch-mcconnell-ctn-open-1208-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html",
-      "publishedDateTime": "2020-12-29T16:48:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-nikki-haley-says-americans-should-be-worried-about-woke-left-when-biden-is-president.md",
-      "title": "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "publishedDateTime": "2020-12-29T15:28:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-donald-trump-and-michelle-obama-named-most-admired-in-gallup-poll-as-dems-split-2020-field.md",
-      "title": "Donald Trump and Michelle Obama named ‘most admired’ in Gallup poll as Dems split 2020 field",
-      "excerpt": "He lost the popular vote and the US election, but Donald Trump was named “most admired” man of 2020 in a new Gallup poll that left Democrats divvying up mentions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/LpJ5Y_JyD1CaXaXYL2KK0Ijz2CE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/R2OV2LCS6FBGFEK7SKQWW36M5M.jpg",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-29T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-trump-lashes-out-at-weak-and-tired-republican-leaders-after-house-votes-to-override-his-veto-a-disgraceful-act-of-cowardice.md",
-      "title": "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto: ‘A disgraceful act of cowardice’",
-      "excerpt": "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-29T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-how-richard-jewells-lawyer-became-a-pro-trump-conspiracy-theorist.md",
-      "title": "How Richard Jewell’s Lawyer Became a Pro-Trump Conspiracy Theorist",
-      "excerpt": "The defamation lawyer L. Lin Wood has transformed into a fierce advocate for President Trump whose error-riddled lawsuits have promoted falsehoods about election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/24/us/politics/00linwood/merlin_180740733_49d0afaf-b8b3-49bf-b2f8-8b3fa28413ca-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.amp.html",
-      "publishedDateTime": "2020-12-29T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-trump-joins-michelle-obama-at-top-of-gallups-most-admired-lists.md",
-      "title": "Trump joins Michelle Obama at top of Gallup's 'Most Admired' lists",
-      "excerpt": "President Trump dethroned former President Barack Obama as the most admired man in 2020, while Obama's wife, Michelle Obama, was named most admired woman for the third year in a row.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j82DsfKToNY/trump-michelle-obama-most-admired-man-and-woman-2020-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j82DsfKToNY/trump-michelle-obama-most-admired-man-and-woman-2020-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-michelle-obama-most-admired-man-and-woman-2020-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-michelle-obama-most-admired-man-and-woman-2020-poll.amp",
-      "publishedDateTime": "2020-12-29T10:48:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

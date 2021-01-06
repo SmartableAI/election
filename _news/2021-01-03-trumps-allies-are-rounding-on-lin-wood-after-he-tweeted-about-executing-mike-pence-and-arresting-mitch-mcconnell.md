@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
 type: article
 quality: 129
-heat: 469
+heat: 489
 published: true
 
 provider:
@@ -157,6 +157,22 @@ related:
     quality: 117
     images:
       - url: "https://i.insider.com/5feb414cedf8920018093ffc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's biggest allies — including Ted Cruz, and Kellyanne Conway, and Mike Pence — are condemning the Capitol riots"
+    excerpt: "Senators Josh Hawley and Ted Cruz, who planned to object to the Electoral College's certification, both condemned the violence."
+    publishedDateTime: 2021-01-06T22:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5ff6312ed184b30018aad65b?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

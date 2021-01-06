@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
+    excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious."
+    publishedDateTime: 2021-01-06T22:49:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
     excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
     publishedDateTime: 2021-01-06T00:09:00Z

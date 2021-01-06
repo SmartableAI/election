@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-biden-says-democracy-is-under-unprecedented-assault-as-pro-trump-rioters-storm-us-capitol.md",
+      "title": "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol ",
+      "excerpt": "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rJ9idYlsOyk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rJ9idYlsOyk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html",
+      "publishedDateTime": "2021-01-06T14:50:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-how-josh-hawley-learned-to-stop-worrying-and-love-donald-trump.md",
       "title": "How Josh Hawley Learned to Stop Worrying and Love Donald Trump",
       "excerpt": "Until recently, the senator leading the charge to discredit Biden’s victory was a creature of the ultraconservative establishment. Then he discovered Trump’s faux populism.",
@@ -174,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1775,
+      "heat": 1835,
       "tags": null,
       "images": [
         {
@@ -1627,63 +1683,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-trump-opens-up-federal-dollars-for-private-school-vouchers-amid-pandemic.md",
-      "title": "Trump opens up federal dollars for private school vouchers amid pandemic",
-      "excerpt": "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
-      "originalUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
-      "publishedDateTime": "2020-12-28T17:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

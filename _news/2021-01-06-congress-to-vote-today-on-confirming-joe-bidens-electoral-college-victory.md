@@ -153,6 +153,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Merrick Garland Is To Be Joe Biden's Nominee For Attorney General"
+    excerpt: "The federal appeals judge was spurned when Democrats supported him as a Supreme Court justice. Now the incoming Biden administration wants him to lead what it calls reform at the Justice Department."
+    publishedDateTime: 2021-01-06T17:51:00Z
+    webUrl: "https://www.npr.org/2021/01/06/937191314/merrick-garland-is-to-be-joe-bidens-nominee-for-attorney-general"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/20/ap_16288549076807_wide-09bab672eca71221401ca23e081d7688dc1c3f4f.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
     excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
     publishedDateTime: 2021-01-04T18:16:00Z

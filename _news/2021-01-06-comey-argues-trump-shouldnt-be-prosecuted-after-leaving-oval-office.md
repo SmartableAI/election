@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's biggest allies — including Ted Cruz, and Kellyanne Conway, and Mike Pence — are condemning the Capitol riots"
+    excerpt: "Senators Josh Hawley and Ted Cruz, who planned to object to the Electoral College's certification, both condemned the violence."
+    publishedDateTime: 2021-01-06T22:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5ff6312ed184b30018aad65b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
     publishedDateTime: 2020-12-30T04:50:00Z

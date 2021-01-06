@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump tells rioters to 'go home' while repeating election lies"
+    excerpt: "Hours after a mob of his supporters breached the US Capitol at his own prompting, President Donald Trump urged them in a video to \"go home\" while fanning their misplaced grievances about a stolen election.\n    \n"
+    publishedDateTime: 2021-01-06T22:06:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aewsafjQwEU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/donald-trump-capitol-mob/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/donald-trump-capitol-mob/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106162543-01-trump-statement-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's false election fraud claims face a dead end in Congress"
     excerpt: "President Donald Trump's desperate effort to subvert democracy and steal the election will hit a brick wall of truth and America's constitutional defenses when Congress meets Wednesday to finalize President-elect Joe Biden's victory.\n    \n"
     publishedDateTime: 2021-01-06T05:03:12Z
@@ -848,6 +864,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "In pictures: Pro-Trump rioters breach the US Capitol on historic day in Congress"
+    excerpt: "Supporters of President Donald Trump breached the US Capitol on Wednesday while Congress was meeting to certify the Electoral College's votes for president and vice president.\n    \n"
+    publishedDateTime: 2021-01-06T22:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K6XkO0ypCh0/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106144734-04-electoral-college-vote-protests-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Pressures Pence to Reject Electoral Votes"
     excerpt: "The vice president plays a crucial but largely ceremonial role in certifying the election results in Congress. Here’s how Congress’s election tally actually works."
     publishedDateTime: 2021-01-05T17:28:00Z
@@ -1191,6 +1221,20 @@ related:
       - url: "https://static.politico.com/cf/f8/25ea870e4e9fbb63982dfb56b0ff/gettyimages-1293915838.jpg"
         width: 2642
         height: 1761
+        isCached: true
+  - title: "Pence breaks with Trump on Electoral College role"
+    excerpt: "Vice President Mike Pence on Wednesday publicly broke with President Donald Trump, the boss he's served obsequiously for four years, saying he cannot submit to demands he overthrow the results of the election."
+    publishedDateTime: 2021-01-06T13:46:00Z
+    webUrl: "https://www.cnn.com/2021/01/06/politics/mike-pence-trump-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025043134-mike-pence-october-24-2019-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud."

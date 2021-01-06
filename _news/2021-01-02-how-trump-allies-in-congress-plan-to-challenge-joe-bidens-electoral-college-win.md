@@ -369,6 +369,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pro-Trump protester shot at Capitol, reportedly in critical condition"
+    excerpt: "Amid chaos at the U.S. Capitol, one woman was shot in the neck and reportedly remains in critical condition. "
+    publishedDateTime: 2021-01-06T22:22:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6bKA2yN16o/pro-trump-protester-shot-at-capitol-reportedly-in-critical-condition"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-protester-shot-at-capitol-reportedly-in-critical-condition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-protester-shot-at-capitol-reportedly-in-critical-condition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2736c1b-7d5f-407c-b68f-cbce7761f647/8a9d2adb-db18-46a0-ae22-3b82148ee564/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump directs National Guard to Capitol Building"
     excerpt: "President Trump has directed the National Guard, as well as “other federal protective services” to the Capitol Building during a breach and violent protests amid a joint session of Congress to certify the results of the 2020 presidential election."
     publishedDateTime: 2021-01-06T20:47:32Z
@@ -768,6 +784,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pence, under pressure from Trump, says he does not have 'unilateral authority' to reject electoral votes"
+    excerpt: "Vice President Mike Pence on Wednesday told Congress that he does not believe he has the ability to \"unilaterally\" accept or reject electoral votes, breaking with President Trump, who has mounted pressure on him to send the results of the presidential election back to the states."
+    publishedDateTime: 2021-01-06T19:22:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-congress-electoral-college-count-no-unilateral-power"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-congress-electoral-college-count-no-unilateral-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-congress-electoral-college-count-no-unilateral-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Gohmert's Pence lawsuit seeks to declare Electoral Counting Act unconstitutional in bid to overturn Biden win"
     excerpt: "Rep. Louie Gohmert, R-Texas, is making a last-ditch effort to change the result of the 2020 presidential election by suing Vice President Mike Pence with the aim of having him declare President Trump the victor when he announces the winner of the electoral college vote on Jan."

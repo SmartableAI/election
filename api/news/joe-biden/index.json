@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-has-selected-judge-merrick-garland-to-serve-as-attorney-general-politico.md",
+      "title": "Biden has selected Judge Merrick Garland to serve as attorney general - Politico",
+      "excerpt": "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S",
+          "width": 765,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29B2C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8",
+      "publishedDateTime": "2021-01-06T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-chicago-business-leaders-at-united-west-monroe-partners-sidley-and-edelman-urge-congress-to-certify-joe-bidens-election.md",
       "title": "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election",
       "excerpt": "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -86,6 +138,49 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-explainer-bidens-iran-problem-is-getting-worse-by-the-day.md",
+      "title": "EXPLAINER: Biden's Iran problem is getting worse by the day",
+      "excerpt": "Joe Biden has an Iran problem. And, it’s getting more complicated by the day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1",
+      "originalUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp",
+      "publishedDateTime": "2021-01-05T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -542,58 +637,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-02-former-iran-hostage-urges-biden-to-prioritize-detained-americans.md",
-      "title": "Former Iran hostage urges Biden to prioritize detained Americans",
-      "excerpt": "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/",
-      "originalUrl": "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory.md",
       "title": "GOP senator rebukes 'dangerous ploy' to fight Biden victory",
       "excerpt": "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions.",
@@ -645,7 +688,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -1517,58 +1560,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
       "publishedDateTime": "2020-12-22T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-biden-to-push-for-more-coronavirus-relief-setting-up-a-clash-with-gop.md",
-      "title": "Biden to push for more coronavirus relief, setting up a clash with GOP",
-      "excerpt": "Many Democrats backing the coronavirus relief bill are counting on Biden to push for another aid package shortly after taking office. But Republicans oppose another deal, setting up an early clash of wills between Biden and Senate Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX46U2CDZQI6XLBKHLAPFOGO5M.jpg&w=1440",
-          "width": 1440,
-          "height": 965,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-21T17:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

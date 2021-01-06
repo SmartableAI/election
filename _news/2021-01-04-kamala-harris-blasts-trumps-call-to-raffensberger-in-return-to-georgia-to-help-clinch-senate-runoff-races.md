@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
 excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
-publishedDateTime: 2021-01-04T00:50:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-ampWebUrl: "https://amp.freep.com/amp/4107424001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4107424001"
+publishedDateTime: 2021-01-04T00:53:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+ampWebUrl: "https://amp.azcentral.com/amp/4107424001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4107424001"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -804,6 +804,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "h5JrMOzYF25Ap8N9l4BnlGzSZgs4GvuCk6MZ4pGpRwb4Yf6LbD2bG7p/XjovoDsiEcsUo8tnfEyKlAll6oCB/o2zpvT9BgRbOubr0LSF61qs9akbX994ilZfCqPmECDygbTdxdDVocJj2mmXwFjj23I+1tt5Zuh5aRpceLlM20rDW4NdhIhB0S+F9piXJdGPGORgZh/ny3jZXA+tYJsDIU4uPBC9rC2udMs0UWxex44+EuImRyo6YZU7gxd7Vy0gAQwvQenoDHoYWx0V49msS/usrPF+04AYb5IoT3CLlhiXKKrky/jHJP67yzqPLTP7H0cjP50fM0cGXHWoslW5mZ15Bixs8C315qTKM5KEwk0=;bTOR1TQkpLAOCI+XlUM9Uw=="
+secured: "lcRPpsP+oeVQL+8QhsA8o0XAoaxhmlyAGaX0w8Y6P2ofGBtOnOL4TPl+2FSQT3HyagyriFNzeg2pzPwKS8TVZOdG9qAWv5n9sbW74AAB/7wgpq+jxV37JmRVwMInb0JZr4vNDhyTfPEg8wVaLfgByw0gCMGpmDZePCj0/9VrS5TCQK6jaZpEGI3QRzx8WxL6AbM23wvy0Ad1emvouv46QZiEcKtTA8aNCEdsZdtdcDLvTtL1Z1StwmTKDXKWFQ+LhoUzEFtBeWj1xViT28+U3LcapIAFfhC6ROo0q4XCiXpAVE2+QKNy/Uzn29jN2JUyv6ayl0agE0nTvv0NgC4jMoEGroXp3Wdf/dflVeBIVMk=;Q1yDTIoaQd0qO7M6Wcpz/w=="
 ---
 
