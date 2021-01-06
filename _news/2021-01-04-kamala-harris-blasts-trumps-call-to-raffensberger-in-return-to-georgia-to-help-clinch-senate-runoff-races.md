@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris blasts Trump's call to Raffensberger in return to Georgia to help clinch Senate runoff races"
 excerpt: "Vice President-elect Kamala Harris called out President Donald Trump's controversial phone call to Georgia's top election official."
-publishedDateTime: 2021-01-04T00:53:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
-ampWebUrl: "https://amp.azcentral.com/amp/4107424001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4107424001"
+publishedDateTime: 2021-01-04T00:50:00Z
+originalUrl: "https://www.freep.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/03/kamala-harris-returns-georgia-help-clinch-senate-runoff-races/4107424001/"
+ampWebUrl: "https://amp.freep.com/amp/4107424001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4107424001"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -804,6 +804,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "/RKcY3Owj5YfG34sF0ZnGZiYX6EtblvDfWr4uWqlm/Ghm78sWAV003cM+olVr2IiwHCRCNECwHkXpoKGH4dZU24LixLIn+UQ+3aFdw0+eZxfy2uRjhzP4I3TF81VdW0KyQ8uqHm9Dw2NOSqqfSbbUvGXum+tzJPBQ7bf9fxqOyVSTgrRUVx9VJcI3nlW+0pkYPJ46JVYplzZMnSdRccxthK0KQrDH+TPa+bcD+LFYx82jSNeEgX/Pf83wvl5bn0KKuYB52DynE3dMLf7eohMMvnH9vPuq7O2ZgKCA5G5hhAd7Fz3R+xIZkQwGoH7QTtqXQLc5Szy3rQQNLt/TzLZSvTt1vYPvKaPrXKat8Aj4d3AfD9VRhljLnYhC56BZ7lrr0jj27Qwz/5RopdKx6BqyisOmSXdPiDNFsz+t9JYyEajMczXuO4+zkHv5lzKScjH4CZDlLvusqVQ77QAX0NYExNjZpkljPq96ROeGMFRA7cVOKUkrwHosCgCcUUPCcDiqa9Ro2rhfS4xBUAwafycsQ==;+1YYQ4lu9RYh6W5tBgX4/w=="
+secured: "h5JrMOzYF25Ap8N9l4BnlGzSZgs4GvuCk6MZ4pGpRwb4Yf6LbD2bG7p/XjovoDsiEcsUo8tnfEyKlAll6oCB/o2zpvT9BgRbOubr0LSF61qs9akbX994ilZfCqPmECDygbTdxdDVocJj2mmXwFjj23I+1tt5Zuh5aRpceLlM20rDW4NdhIhB0S+F9piXJdGPGORgZh/ny3jZXA+tYJsDIU4uPBC9rC2udMs0UWxex44+EuImRyo6YZU7gxd7Vy0gAQwvQenoDHoYWx0V49msS/usrPF+04AYb5IoT3CLlhiXKKrky/jHJP67yzqPLTP7H0cjP50fM0cGXHWoslW5mZ15Bixs8C315qTKM5KEwk0=;bTOR1TQkpLAOCI+XlUM9Uw=="
 ---
 

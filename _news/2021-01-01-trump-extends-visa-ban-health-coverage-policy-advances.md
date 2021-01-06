@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-extends-vis
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "VIDEO: Trump Supporters Attempt To Storm Capitol Building, Clash With Police"
+    excerpt: "Two buildings were evacuated near the Capitol due to \"police activity.\" Thousands of President Trump’s supporters had planned to gather in Washington for a “Stop The Steal”"
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032"
+    ampWebUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/gettyimages-1230451801.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KVns20Rva438wmH36ktTGsmiTp7dpQCOE44A+tg/GBWIvrgROZB+xQXCTOSHm5790m2fYQVeVGJe45P49WKG8OrIHLP/irF/tx9J+LTnK+dpruNWs9gpm7NkSUxY5o9MtSTLiE/7NG/oQl1U5tQfkBtRTBVyU8ls0X3sC8X/1EU15gGZRWAA7ddHCgrR1ekuKBbs5mGeVHkKnH9IFZ13GT9w4I+dxpH9JXEYvSOqR7+6Tgsm3jKPGIJ1JxG2O+MZ3wkNnYhEfeWi7Je3sD52ynxD5WPLKTRBtW8icnwGPrSuEDGY2AYlNmoJWjPvtRAkPwGKp58aCjKYf/DQnufVQlx3dl7a7YlZVL+aVAf0XvM=;trnxFjcspgu1fgyX2xuHhg=="
 ---

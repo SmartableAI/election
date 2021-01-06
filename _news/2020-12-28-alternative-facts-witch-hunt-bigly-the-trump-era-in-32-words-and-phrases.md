@@ -106,6 +106,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "VIDEO: Trump Supporters Attempt To Storm Capitol Building, Clash With Police"
+    excerpt: "Two buildings were evacuated near the Capitol due to \"police activity.\" Thousands of President Trump’s supporters had planned to gather in Washington for a “Stop The Steal”"
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032"
+    ampWebUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/gettyimages-1230451801.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OevgqxcpvUyUg2sIcPBYCRPf56iSi6XvXLtCjXvWVodHBU4nKtWUUY1rjHzEknLqCES0izGaleUmfWuz7GZTxbIZBUTv2IBIwgAjytpkQNDxVvlacaBcN8pKXkxbL5rLolXL+iyj5agUb74O7zXSwwVoCZKLhKc8Fmxgg5Tl9I51K6OgNEf5CEng1WBIv408mtobC0f0q8rsCWytD4JAS1UX85nGgeY5ivlBKraYnQT5M6zfCre2FAMejV0kgmDO7D/ndxSz9pU91ZIFfE509LryMDpuLBnBYnZI2YeuLwQc7D+EK7P96BLdjgcJjtjR+yEcPQAIcD0zzKwm+o9OX1eR257iwvnrcyisM3DTGBK8N4bWgja0iBSs+InDlqhC+3Z4UpFtZBSQ6HRFeIkW5j9aJ+mj0WrQfLVUzI3ORIH+gMZOTtmjQuStZKgeCMNrqBe53tPKcMTi0NqnKRdBYU1LzM5qu9xAnai8lf/w+fkt2Nqu16ELnX3geHptVgKb69D1M6IvBwe0rj3CurU/uQ==;2Os99E3oF+48psA2yqwNVA=="
 ---

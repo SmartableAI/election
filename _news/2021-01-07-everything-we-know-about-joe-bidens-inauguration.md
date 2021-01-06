@@ -201,6 +201,22 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Here’s What Joe Biden Can Get Done With a Democratic Senate"
+    excerpt: "In the two months since Election Night, Joe Biden has been staring at the likelihood of a stillborn presidency, his fate dependent on the mercies of Mitch McConnell, whose incentive is for Biden to fail."
+    publishedDateTime: 2021-01-06T20:30:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/what-can-joe-biden-pass-democratic-senate-gerogia-runoffs-warnock-ossoff.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/what-can-joe-biden-pass-democratic-senate-georgia-runoffs-warnock-ossoff.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/what-can-joe-biden-pass-democratic-senate-georgia-runoffs-warnock-ossoff.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c38/81c/cec3f6c098cc67c9c6789546d565a2f352-GettyImages-1294499682.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Congress to vote today on confirming Joe Biden’s Electoral College victory"
     excerpt: "The typically routine proceeding Wednesday will be anything but, a political confrontation unseen since the aftermath of the Civil War as Donald Trump mounts a desperate effort stay in office."
     publishedDateTime: 2021-01-06T10:14:00Z
@@ -280,6 +296,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uV6LilD/3Lq+6ZdrEWuBPSejggwMkJg/7XMceGz98B1g+4+FxYVr/p/dmRo4Dl8YVpJmyj68KseN1zzww0vfbFQqc0Y+IrbTJ+eJX2fcARqcl0ItXWV9KEQRvZXlCjwwEtNJHgbtzZA//hNZ2q8PVghs0e8ronEXUqvDmKRhNL4C/rQ0lf4qfsfM1UAQA1KR88Ng9Vx6Me1PGduLXMaTUfA6l0avzP+XfDmNaYfr+rNjMpU86xKzCykjfL+6hSI+KIOgHVGM9naT6HLa5d2TtCgU8HVYEvWob8rYSIvjPbiLg2NbIQbO20hf1DxXAyBuWVpxInIpU+7A0pUcl9a+PmnpW49JP4mSBB9D6x1mRb4=;Z9gMsDrf/n8szVrhrg0ICg=="
+secured: "UijBSoiCe+kKMHR+sTi20p6PBADKTwUBgiEuSAhKCMUsd5jQuvAWN+56NE/CbxZmezXtqKwOyTBHCXn2GXaJJhkhTANu4ur5fK8vEBvvJQJjgeJGjVjaUATjQxsWhLVCFPGarj21JvMNfoqwdMYB4VqjZ4hL7qXoect6VqqneBEhWIuDnuLZ/exczVyfg7VRywsnLXqICO6pekF4o9DhiJNnr3tPdBlYRDLzj7+ltLk18k5fRYKN9CI7zpqxtVGdH/Cskkzgm35pJ2KNpr/X9zFy8pgfTuII2v6dXcEbj6NxPKSYnwFd/8wuzhydv8uYFtCM5iTKD0lDjUP0kucRBc4YGQ+c0DJqdD9i/ZveEH3yAKP0Z1VEavgesTy81jviFNJPxDNRI87TTmRQqoB/PhzCATwYG+oZiyQqOOw41QfyXiXLN5ubv1NifG1WusYfYdY8/ODPFAb/xTO+TyLc9wkQ7O6E99JCyuaNpEl80YQaHwWulM2nT2GESYq+P4aKTDpR0r5fTz6NdpRTooNIYg==;3T5cuOrRpEjBhWj3qTjIoA=="
 ---
 

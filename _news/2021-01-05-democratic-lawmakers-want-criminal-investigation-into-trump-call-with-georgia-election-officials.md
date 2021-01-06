@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump slams his VP, says Pence ‘didn’t have the courage' to decertify results of presidential election"
+    excerpt: "President Trump on Wednesday slammed Vice President Mike Pence, saying he “didn’t have the courage” to decertify and return the results of the presidential election back to the states."
+    publishedDateTime: 2021-01-06T19:44:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LuqDm2EoTkE/trump-slams-pence-says-he-didnt-have-the-courage-to-decertify-results-of-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-pence-says-he-didnt-have-the-courage-to-decertify-results-of-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-pence-says-he-didnt-have-the-courage-to-decertify-results-of-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to issue executive order halting any Trump 'midnight regulations'"
     excerpt: "President-elect Joe Biden will issue an executive order halting \"midnight regulations\" on day one of his presidency, incoming White House press secretary Jen Psaki said Wednesday. "
     publishedDateTime: 2020-12-31T02:40:54Z
@@ -176,6 +192,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell: Trump election claims include 'sweeping conspiracy theories'"
+    excerpt: "Noting that the presidential election was “not unusually close,” Sen. Majority Leader Mitch McConnell urged his colleagues not to object to the electoral vote count. "
+    publishedDateTime: 2021-01-06T20:08:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pbq9m4xXOkc/mcconnell-trump-election-claims-sweeping-conspiracy-theories"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-election-claims-sweeping-conspiracy-theories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-election-claims-sweeping-conspiracy-theories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47671fdb-4528-4f4a-8bca-d3fff055c6aa/b7293348-956e-4ce7-b030-46c944e496bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lara Trump: Election objections are about counting 'every legitimate vote'"
     excerpt: "Trump 2020 campaign adviser Lara Trump said Tuesday that the planned GOP objections to key state elector slates in Congress' Wednesday joint session are not intended to overturn the election result."
     publishedDateTime: 2021-01-06T01:57:03Z
@@ -237,6 +269,22 @@ related:
     quality: 183
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump lashes out at 'weak Republicans' for not backing his push to overturn election"
+    excerpt: "In some of his sharpest language to date, President Trump attacked fellow Republicans for failing to support his push to reverse his defeat to President-elect Joe Biden in November’s election."
+    publishedDateTime: 2021-01-06T20:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DiOdJCN2LHM/trump-lashes-out-at-weak-republicans-for-not-backing-his-push-to-overturn-the-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-lashes-out-at-weak-republicans-for-not-backing-his-push-to-overturn-the-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lashes-out-at-weak-republicans-for-not-backing-his-push-to-overturn-the-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -320,6 +368,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump directs National Guard to Capitol Building"
+    excerpt: "President Trump has directed the National Guard, as well as “other federal protective services” to the Capitol Building during a breach and violent protests amid a joint session of Congress to certify the results of the 2020 presidential election."
+    publishedDateTime: 2021-01-06T20:47:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EBvZR8RZdro/trump-directs-national-guard-to-capitol-building"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-directs-national-guard-to-capitol-building.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-directs-national-guard-to-capitol-building.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump. "
     publishedDateTime: 2020-12-31T18:32:08Z
@@ -335,6 +399,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72a43f23-ee3e-41e0-9f05-479513300976/dba3373d-3d9d-43da-89c1-ee81d2e9fdcc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Georgia election official blames Loeffler's runoff loss on Trump, says 'no evidence of any irregularities'"
+    excerpt: "Georgia election official Gabriel Sterling blamed Sen. Kelly Loeffler's runoff loss on President Trump’s battle to overturn the presidential election during a Wednesday press conference."
+    publishedDateTime: 2021-01-06T20:02:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iEAzLwaUSTQ/georgia-election-official-sterling-blames-trump-loeffler-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-official-sterling-blames-trump-loeffler-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-official-sterling-blames-trump-loeffler-loss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/gabriel-sterling-getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump, House Republicans held call to discuss Electoral College rejection: Brooks"
     excerpt: "House Republicans held a rare Saturday night conference call to address their goal of overturning the Electoral College results on Wednesday, U.S. Rep. Mo Brooks, R-Ala., told Fox News."
@@ -544,6 +624,38 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Trump slams his VP, says Pence ‘didn’t have the courage' to decertify results of presidential election"
+    excerpt: "President Trump on Wednesday slammed Vice President Mike Pence, saying he “didn’t have the courage” to decertify and return the results of the presidential election back to the states."
+    publishedDateTime: 2021-01-06T19:59:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-pence-says-he-didnt-have-the-courage-to-decertify-results-of-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-pence-says-he-didnt-have-the-courage-to-decertify-results-of-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-pence-says-he-didnt-have-the-courage-to-decertify-results-of-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Chris Wallace: Mike Pence chose Constitution over Trump by not rejecting electors"
+    excerpt: "Fox News Sunday host Chris Wallace said Vice President Mike Pence had correctly chosen the Constitution over the whims of President Trump Wednesday in announcing he could not unilaterally reject electors,"
+    publishedDateTime: 2021-01-06T20:00:00Z
+    webUrl: "https://www.foxnews.com/politics/mike-pence-election-chose-constitution-trump-chris-wallace"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pence-election-chose-constitution-trump-chris-wallace.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-election-chose-constitution-trump-chris-wallace.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676700e9-2160-4bb3-a8ea-16fc47cd468a/849f19f1-aae0-4ebc-bd24-78bdb1acd69c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
     excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."
     publishedDateTime: 2020-12-31T21:36:00Z
@@ -607,6 +719,22 @@ related:
       - url: "https://images.wsj.net/im-280293/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump supporters storm Capitol Building grounds as fateful vote looms"
+    excerpt: "Hundreds of supporters of President Trump breached the perimeter of the US Capitol on Wednesday, attempting to force their way into the building as Congress prepared to certify President-elect Joe"
+    publishedDateTime: 2021-01-06T18:45:00Z
+    webUrl: "https://nypost.com/2021/01/06/trump-supporters-storm-capitol-building-as-fateful-vote-looms/"
+    ampWebUrl: "https://nypost.com/2021/01/06/trump-supporters-storm-capitol-building-as-fateful-vote-looms/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/06/trump-supporters-storm-capitol-building-as-fateful-vote-looms/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/capitol-protestors-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump."
@@ -719,6 +847,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d78c92c1-08ad-417f-bfc3-25357c016962/92363098-cd4b-4fff-8359-e5dcf1bd17f3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Thousands Cheer Trump at Rally Protesting Election Results"
+    excerpt: "Several thousand protesters cheered President Donald Trump and his baseless claims of election fraud at a rally near the White House"
+    publishedDateTime: 2021-01-06T20:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/06/thousands_cheer_trump_at_rally_protesting_election_results_144981.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/06/thousands_cheer_trump_at_rally_protesting_election_results_144981.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/06/thousands_cheer_trump_at_rally_protesting_election_results_144981.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/53/531565_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Kamala Harris: Trump Election Challenge A \"Bold Abuse Of Power\""
     excerpt: "Vice President-elect Kamala Harris blasted President Trump at an event Sunday in Georgia, calling his election challenge a \"bald-faced, bold abuse of power\" and saying his call \"Have y'all heard about that recorded conversation?"

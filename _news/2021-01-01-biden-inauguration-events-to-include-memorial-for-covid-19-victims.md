@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/ebc/1f6/0d1698f01cd1e44f16c5c83aeb15c7ffae-biden-inauguration.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Here’s What Joe Biden Can Get Done With a Democratic Senate"
+    excerpt: "In the two months since Election Night, Joe Biden has been staring at the likelihood of a stillborn presidency, his fate dependent on the mercies of Mitch McConnell, whose incentive is for Biden to fail."
+    publishedDateTime: 2021-01-06T20:30:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/what-can-joe-biden-pass-democratic-senate-gerogia-runoffs-warnock-ossoff.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/what-can-joe-biden-pass-democratic-senate-georgia-runoffs-warnock-ossoff.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/what-can-joe-biden-pass-democratic-senate-georgia-runoffs-warnock-ossoff.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c38/81c/cec3f6c098cc67c9c6789546d565a2f352-GettyImages-1294499682.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Congress to vote today on confirming Joe Biden’s Electoral College victory"
     excerpt: "The typically routine proceeding Wednesday will be anything but, a political confrontation unseen since the aftermath of the Civil War as Donald Trump mounts a desperate effort stay in office."

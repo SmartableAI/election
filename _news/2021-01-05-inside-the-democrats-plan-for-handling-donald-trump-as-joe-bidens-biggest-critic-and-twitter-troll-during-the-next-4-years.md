@@ -398,6 +398,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Photos show Trump and his supporters pack DC streets as they rail against Biden's election victory"
+    excerpt: "Trump spoke to thousands of supporters in Washington, DC, Wednesday who came to protest Congress' certification of Biden's win."
+    publishedDateTime: 2021-01-06T19:55:00Z
+    webUrl: "https://www.businessinsider.com/photos-trump-and-supporters-rally-against-certification-of-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/photos-trump-and-supporters-rally-against-certification-of-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-trump-and-supporters-rally-against-certification-of-election-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 141
+    images:
+      - url: "https://i.insider.com/5ff5f41a6d61c10019ccdf4c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Twitter to wipe Trump's followers before Biden handover"
     excerpt: "Twitter agreed to Donald Trump's request in 2016 to inherit Barack Obama's millions of followers. “In 2016, the Trump administration absorbed all of President Obama's Twitter followers on @POTUS and @WhiteHouse - at Team 44's urging,"
     publishedDateTime: 2020-12-23T14:10:00Z
@@ -734,6 +750,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump puts Pence in a vise between loyalty to him or the Constitution"
+    excerpt: "President Trump falsely says Vice President Mike Pence could reverse the election result when he presides in Congress on Wednesday, setting Pence up for Trump's wrath."
+    publishedDateTime: 2021-01-05T23:58:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-05/trump-puts-pence-in-a-vise-between-loyalty-to-the-constitution-or-to-him"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-05/trump-puts-pence-in-a-vise-between-loyalty-to-the-constitution-or-to-him?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-05/trump-puts-pence-in-a-vise-between-loyalty-to-the-constitution-or-to-him?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ee41b09/2147483647/strip/true/crop/3953x2582+0+86/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fa8%2F341ea1044378bf5cef7efad2198d%2Fbiden-98319.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump to speak at DC rally as Congress meets on election"
     excerpt: "President Donald Trump will personally address a gathering of his supporters in Washington Wednesday as he seeks to rally populist support for his last-ditch efforts to overturn his loss to President-"
     publishedDateTime: 2021-01-05T20:40:00Z
@@ -765,6 +797,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/8dc540bec1a7d9c55084a25600358e55896ed6d5/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f39a4b7b0d2576d3eff26f15ceada36"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump allies to challenge his election loss in showdown in U.S. Congress"
+    excerpt: "Donald Trump's flailing effort to overturn President-elect Joe Biden's victory comes down to the U.S. Congress on Wednesday in a showdown led by a band of Republican lawmakers that could stretch proceedings past midnight but is almost certain to fail."
+    publishedDateTime: 2021-01-06T20:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-congress/trump-allies-to-challenge-his-election-loss-in-showdown-in-u-s-congress-idUSKBN29B1A8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B1A8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B1A8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546842748&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051CY"
+        width: 883
+        height: 545
         isCached: true
   - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
@@ -2277,6 +2325,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Analysis: No, Mike Pence can’t steal the election for Trump"
+    excerpt: "Trump appears to be saying that during this ceremony Pence can unilaterally reject a state’s electoral votes. But just because Trump tweets it does not make it so."
+    publishedDateTime: 2021-01-06T20:08:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/06/analysis-no-mike-pence-cant-steal-the-election-for-trump/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/06/analysis-no-mike-pence-cant-steal-the-election-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/06/analysis-no-mike-pence-cant-steal-the-election-for-trump/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 105
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_d8f67fc42f7b3f7e0aa8f92098de847e-h_87d14fd2b4dd2f0354723d802dfd8f9b.jpg?w=1024&h=791"
+        width: 1024
+        height: 791
+        isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -2539,6 +2603,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Live Updates: Congressional Confirmation of Biden's Vote Turns Violent as Trump Supporters Storm Capitol"
+    excerpt: "More than 100 Republicans turn what is usually a Constitutionally-mandated ceremony into a pitched partisan loyalty test"
+    publishedDateTime: 2021-01-06T19:59:00Z
+    webUrl: "https://time.com/5926772/live-updates-congress-elector-certification/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 83
   - title: "Trump Pressures Powerless Pence on Electoral Count"
     excerpt: "President Donald Trump is trying to pressure Vice President Mike Pence to use powers he doesn't have to overturn the will of voters in a desperate and futile bid to undo President-elect Joe Biden’s victory in the November election."
     publishedDateTime: 2021-01-06T14:51:00Z
@@ -2746,6 +2819,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
+    excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
+    publishedDateTime: 2021-01-06T18:26:00Z
+    webUrl: "https://www.ibtimes.com/trump-makes-last-ditch-bid-block-biden-win-congress-goes-democratic-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "President Donald Trump, in call with Georgia secretary of state, makes another failed attempt to overturn loss to Joe Biden"
     excerpt: "Republicans seeking to disenfranchise millions of voters and overturn the election. But now, Trump wants more votes to be counted. Or, at least, he wants the Georgia count “recalculated.” During an hour-long call obtained by The Washington Post,"
     publishedDateTime: 2021-01-03T20:58:00Z
@@ -2764,19 +2851,19 @@ related:
         isCached: true
   - title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
     excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
-    publishedDateTime: 2021-01-06T12:36:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    publishedDateTime: 2021-01-06T12:33:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 56
     images:
-      - url: "https://www.courant.com/resizer/lm1Un_uus5l4A35JzI5Wi1TBDus=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GC53U2I2QFG2VBFDHI3MEQPSCQ.jpg"
+      - url: "https://www.dailypress.com/resizer/DcvK5aSHKrOXTH-Q1Tzf8JRhfEc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XR57XIL6B3AAQ67N5EEAP5TNDM.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Trump Leaves Mark on Immigration Policy, Some of It Lasting"
     excerpt: "When President Donald Trump was running for reelection, foreign-born U.S. residents were rushing to get their American citizenship before it might be too late. “I didn’t know what would happen if Trump got a second term,"

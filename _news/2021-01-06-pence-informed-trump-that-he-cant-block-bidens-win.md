@@ -640,6 +640,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Pro-Trump mob storms US Capitol as armed standoff takes place outside House chamber"
+    excerpt: "The US Capitol is on lockdown amid a tense situation with demonstrators outside the building, according to Capitol police officers, as President Donald Trump's supporters attempt to break into the building while lawmakers count the Electoral College votes certifying President-elect Joe Biden's win.\n"
+    publishedDateTime: 2021-01-06T20:38:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xk64p4RRaqc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/us-capitol-lockdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/us-capitol-lockdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106140413-06-trump-rallies-0106-washington-dc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
     excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
     publishedDateTime: 2020-12-29T18:48:27Z
@@ -879,6 +895,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-explainer/05dc-explainer-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Pence rebuffs Trump, telling lawmakers he has no authority to throw out election results"
+    excerpt: "The assessment from the vice president came in a letter delivered ahead of a joint session of Congress on Wednesday afternoon."
+    publishedDateTime: 2021-01-06T19:35:00Z
+    webUrl: "https://www.politico.com/news/2021/01/06/pence-congress-electoral-college-results-455452"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 146
+    images:
+      - url: "https://static.politico.com/fa/21/adc36e564110a77c43ef0db93cfb/ap21006652583844.jpg"
+        width: 4478
+        height: 2984
         isCached: true
   - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
     excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."

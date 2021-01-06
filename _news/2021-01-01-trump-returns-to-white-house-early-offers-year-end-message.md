@@ -105,6 +105,22 @@ related:
         width: 1440
         height: 1119
         isCached: true
+  - title: "VIDEO: Trump Supporters Attempt To Storm Capitol Building, Clash With Police"
+    excerpt: "Two buildings were evacuated near the Capitol due to \"police activity.\" Thousands of President Trump’s supporters had planned to gather in Washington for a “Stop The Steal”"
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032"
+    ampWebUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/gettyimages-1230451801.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JMaqHJGxNIcoDdE72JhdpfVOvWzSTxJ3G/SigWHmBBJBUnJSqvh+Ca4LurthA/Ak2HL0SZnEeQFCFuapWRuSMIr8//iIQrTz/UINETyPXHh0BESaoZkMq+GiouQ5sqgOwPUQJpWyAnnc3DYWxEXaHfgjJtlFHuB3VnKVQgzxrzREOLaqB59GzlP4VO8oZJOkk7lOGBf/fFueGZuQhUOtUVtozIg9oY1VmqkzuQtZgKMIyFFHAqjhhiNrRM3EfbpI9c+ZlzDTWAm2flDNwg16nXcH1Mz+NQhmZQ5MQbHTIRpVJmTuhdjx4FzPueOxoXyp8BgdKDz5rYi8xAdEO1CvOC0rXUJX07i+/GHFOGWFhc8=;jhdqGrXpXMEWItbywNsVhA=="
 ---

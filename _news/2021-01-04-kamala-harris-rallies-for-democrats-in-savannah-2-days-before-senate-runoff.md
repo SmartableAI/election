@@ -245,14 +245,14 @@ related:
         isCached: true
   - title: "Kamala Harris’ husband becomes first second gentleman"
     excerpt: "Doug Emhoff, the husband of Kamala Harris will also be a part of history this January. Harris' historic victory will result in a whole new job title for her husband"
-    publishedDateTime: 2021-01-04T21:57:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    publishedDateTime: 2021-01-04T20:55:00Z
+    webUrl: "https://tulsaworld.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_fe5fedd6-ce47-5adc-a963-3b86ae3d813f.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_fe5fedd6-ce47-5adc-a963-3b86ae3d813f.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_fe5fedd6-ce47-5adc-a963-3b86ae3d813f.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 55
 
 secured: "OUHPk9IWcf59vfurwdDnR8zq61G2ktGzTNF4pcaCgSHeeUs+I+0qBKOV1NM0Na+jwNCEqZUvXADAl+bC0RZL+mjtqdks4mxCvCkOhYRZubOKx+Qx2jO31e4G1fHjKF4yM+RLX+IpRdt4JDK3+4t/QveqBjRoxNnKQoIkb4sAvN2u4+lNSQo7kdyF8FW8mb4rZ8GClDAFOgNGKa94L0f2S0AZkNZPKDvaDsnMxaRl69bdf9eI/GVRtH+p2t2I5yP2NrMrTukSx1wCP7W4I4w9u7JMmJgn+k34m4+F++oyc9+jSBWVIEq1OJI6U42U4SIPZosudSEcyrmRj/SafocqnzuanySTh+fjqeh8bfvsV7c=;fluUeuteqOXOfXAgL22IKg=="
