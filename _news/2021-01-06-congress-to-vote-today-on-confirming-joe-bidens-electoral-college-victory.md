@@ -201,6 +201,22 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Everything We Know About Joe Biden’s Inauguration"
+    excerpt: "Biden’s swearing-in will take place in person, but much of the inauguration will be virtual due to COVID. It’s unclear if Trump will attend any of it."
+    publishedDateTime: 2021-01-06T18:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/joe-biden-inauguration-everything-we-know.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/joe-biden-inauguration-everything-we-know.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/joe-biden-inauguration-everything-we-know.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/ebc/1f6/0d1698f01cd1e44f16c5c83aeb15c7ffae-biden-inauguration.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
     excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."
     publishedDateTime: 2021-01-04T19:47:00Z

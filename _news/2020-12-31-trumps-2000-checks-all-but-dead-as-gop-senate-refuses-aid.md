@@ -477,6 +477,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Donald Trump fires shot that begins the Republican civil war | Opinion"
+    excerpt: "Trump's plot to challenge the electors in battleground states pits the GOP against itself. This civil war won't just be painful for Republicans."
+    publishedDateTime: 2021-01-06T18:29:00Z
+    webUrl: "https://www.freep.com/story/opinion/contributors/2021/01/06/trump-republican-civil-war-party/6565381002/"
+    ampWebUrl: "https://amp.freep.com/amp/6565381002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6565381002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump's $2,000 Checks Stall in Senate as GOP Blocks Vote"
     excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks stalled out Tuesday in the Republican-led Senate."
     publishedDateTime: 2020-12-31T04:07:00Z

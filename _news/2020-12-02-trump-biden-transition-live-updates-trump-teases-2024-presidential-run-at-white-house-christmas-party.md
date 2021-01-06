@@ -1691,6 +1691,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump's false claims on a day of reckoning"
+    excerpt: "President Donald Trump is pressing his case for overturning the election results as Congress prepares to tally the electoral votes affirming President-elect Joe Biden’s victory"
+    publishedDateTime: 2021-01-06T18:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_342eb8f9799141098635b68b309984d1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-04T20:16:00Z

@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he will 'never concede,' pressures Pence to send election 'back to the states'"
+    excerpt: "President Trump on Wednesday said he will \"never give up\" and \"never concede\" in the 2020 presidential election, vowing to \"stop the steal\" and renewing pressure on Vice President Pence to \"do the right thing\" and decertify the results of the election."
+    publishedDateTime: 2021-01-06T17:19:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QJfqu1wJ9Yw/trump-never-concede-pressures-pence-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-never-concede-pressures-pence-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-never-concede-pressures-pence-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 206
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Pence has ‘power’ to block certification, Trump says"
     excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday. "
     publishedDateTime: 2021-01-06T06:20:25Z
@@ -144,6 +160,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Comey says Biden attorney general should not investigate Trump"
+    excerpt: "Former FBI Director James Comey wrote in his upcoming book that the attorney general under President-elect Joe Biden's administration should not investigate President Trump for a possible criminal case, even if there may be evidence."
+    publishedDateTime: 2021-01-06T18:14:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bbi1nEd5WLg/comey-biden-attorney-general-should-not-investigate-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/comey-biden-attorney-general-should-not-investigate-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-biden-attorney-general-should-not-investigate-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89012e23-97fa-40ab-8ecd-c189377376e6/f147740e-1a31-4adb-b062-61e9bdfb2f9f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lara Trump: Election objections are about counting 'every legitimate vote'"
     excerpt: "Trump 2020 campaign adviser Lara Trump said Tuesday that the planned GOP objections to key state elector slates in Congress' Wednesday joint session are not intended to overturn the election result."
     publishedDateTime: 2021-01-06T01:57:03Z
@@ -191,6 +223,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Pence, under pressure from Trump, says he does not have 'unilateral authority' to reject electoral votes"
+    excerpt: "Vice President Mike Pence on Wednesday told Congress that he does not believe he has the ability to \"unilaterally\" accept or reject electoral votes, breaking with President Trump, who has mounted pressure on him to send the results of the presidential election back to the states."
+    publishedDateTime: 2021-01-06T18:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LcLgoNPVSEE/pence-congress-electoral-college-count-no-unilateral-power"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-congress-electoral-college-count-no-unilateral-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-congress-electoral-college-count-no-unilateral-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
     excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."
@@ -782,6 +830,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "ThdcdnFOGqVqn27tBJqX4h0zC/FjTcA2sWJr4Oi0ZIkqVMtbpzC4tGwIZw5y42h/D6+4sk6J54k/pKiXtzcj1dhPG8y4rrvesSUFitdhs935wRLVnT4iqlUPFxZx1xrZKNprFlz064w+tSRuMrYvUGtN4PdgDLwvLYI7tV5YxOIGXDPAan6IEwbh7Ijq9e5BeRKgL+ddnnYX9HowGPRcuTQv4QmIHgx6BTFs3TmusfXGEEROwfX33rcZToEfb128xe52U2vYYF+QlBapkMdlPA4oK1PMNO3OIxC4ln3mJKyDDbGDukR+eUqTaReCZziaiz7SK6AA1IKXW3xCLiVFo66nROZauLcmM28YU8KfGZQ=;OdorMhuQ9sE5pA3c9ftf4w=="
+secured: "aapSyt7ESS4jkrt3NKGmcWWrhKLhOW++n4C8rz5VtPFLGZyokJLn6z7NT/u/Fs8hxkqpdvKj5YYPNwgjrjBoMjv+/mv5NtkUa/hZCIPALK/fq9Qn7SodArrTTv5mIF95CCtFSGk3XTtXQCp3gJ1Or8NA98Mk37JKcO2C4SfTAk5EYp7GjjLHv8w0hpVambIVym5JDkUHIcNZj1rK1sH2yzmc8I7RnhN6gM1wJ0d9g8EEKB0p2g39u7gtNclRIZBr+bAt0+ZB6wFR3RIpASvmlISnO61ZOptBXwLdd+3T/pdKBRgp64p8BOg2kJYq7hQWQjF7kXsyBYvIVnz4up261i8COAveKCKDPXI/PB5HtTJQdEenCugpKUIeHeDeWzDwfyexupB1kbqi/dg38yoiZDBl1AVZFa91b/fple7yCJNi5s4YOZuyGSH+RkkoZ8WJRvUnYSksVaE3/vtuEebqbDWoQySzXA9pRe7nHEavnWF/7OgnlRfHoxL1/RCMVBOcKklPNF7hKjic6BVM8lTyQg==;J1Ygg2Z9DbGCQHBgyFBNLA=="
 ---
 

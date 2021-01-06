@@ -1687,6 +1687,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump's false claims on a day of reckoning"
+    excerpt: "President Donald Trump is pressing his case for overturning the election results as Congress prepares to tally the electoral votes affirming President-elect Joe Biden’s victory"
+    publishedDateTime: 2021-01-06T18:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_342eb8f9799141098635b68b309984d1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z
@@ -2791,6 +2807,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "8/f/oattGfR57MDb30PajzBiGL3L7QzvgNF79sYYeJ+/QA90HG02biJHcH2+fMZtRhPhEpcZ+fTPHV+Jf/rsiLRfigtq0L05ED1X+O4Yj7BktqcivHJimcqPlD9unCsxEkJ/lo7yfuNgAsBpfBvO8IJWRVbGf37yy8ei/GiZ2QPDnJZIHYsC6i14KGAvXR5o7r/4rjZjOEP0+nSqHnDMc3FEO+vuh5Xc0vM/2iBL6zdl/5hTwqDUy/OhA05wNh15Rb1lTFzoBkeek+QAiwfhAAk20g13QfgHm0kr5ipJpngQbukbgpnuzhGhs3jT588Q5gFwbS8H6M9nRL3Gnxk3QOwKEuC/ClMVBc0KM6WHELU=;dbIl7gXkq2pzbFZf4iEyBw=="
+secured: "FoglORv2IM+XqG7X03NJzkXZAR5uN3wTZPYERbNmRQvBcHDKbG1QMSoX6cOhwY7MhaZkSYDdOgPUojr/CNYqTym6nnWuclovarpAxbu0SoRDuf8qXV2Fl/pdl+8M2EWd6dEeBFQlqaGnS5UvLkcpI7PvxLb2O5wxCRW841ZfB4t7ibKuu3wND5y6oC1lEcmFhEzlGET2B08WkMUSpYlmguDZDtyGvYyl6Sc/l4FoAKmpz4sAi3uGXgD0N6AnLPUVHxO/v/dTuSmtEIui5e7qILBW0+1kYntBxePUePPxqun/rrqIbp9vFrQ0wnnZQXY7dVDigHa95OirwYgYU9BH7JNlhNQufJ3545Iuou0LH6je9W2iBtWsIcGqquMupWvVHcSDuQ4WOlh4khw1/lQblae/M/q0wYa9ESyJefXoDDwO3NrZjhluM8WZxxrtIYv9eAJj/5kwHkS3t1/KRtRqHCWt46hQwcVaGqlgUVmgJygf9b4MdnChlkK/lzzrS3GEb00Kvm6VD92jORFtzcvBCg==;VuM8KniKal3A625MUtBk9w=="
 ---
 

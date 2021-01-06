@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'People Are Just Trying to Land the Airplane.' White House Staff Packs Up as Trump Rages On"
+    excerpt: "As President Donald Trump pushes to overturn the election, many White House officials have accepted the reality that he is leaving."
+    publishedDateTime: 2021-01-06T18:15:00Z
+    webUrl: "https://time.com/5926697/white-house-staff-trump-rage/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 95
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump_Washington_DC_Protest_010621_003.jpg"
+        width: 2400
+        height: 1601
+        isCached: true
   - title: "New York Post editorial board tells Trump it's time to accept his loss and secure his legacy by helping Republicans maintain control of the Senate"
     excerpt: "Stop the Insanity,' said the Post headline. It had been among the president's most supportive media outlets."
     publishedDateTime: 2020-12-28T10:31:00Z

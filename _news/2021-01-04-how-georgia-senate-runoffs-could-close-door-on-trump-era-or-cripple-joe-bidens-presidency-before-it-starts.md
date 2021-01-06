@@ -1687,6 +1687,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump's false claims on a day of reckoning"
+    excerpt: "President Donald Trump is pressing his case for overturning the election results as Congress prepares to tally the electoral votes affirming President-elect Joe Biden’s victory"
+    publishedDateTime: 2021-01-06T18:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-false-claims-day-reckoning-75084016"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_342eb8f9799141098635b68b309984d1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z

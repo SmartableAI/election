@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden vows to ‘get big things done’ after Georgia Senate runoffs"
+    excerpt: "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”"
+    publishedDateTime: 2021-01-06T17:49:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden was ‘legitimately’ elected, majority of Georgia voters say"
     excerpt: "Joe Biden \"legitimately\" defeated President Trump in November's election, 61 percent of Georgia voters say, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 voters in the state."
     publishedDateTime: 2021-01-06T04:26:00Z

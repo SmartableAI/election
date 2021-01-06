@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.insider.com/5fee20ee9ff41f001883f9bc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "'People Are Just Trying to Land the Airplane.' White House Staff Packs Up as Trump Rages On"
+    excerpt: "As President Donald Trump pushes to overturn the election, many White House officials have accepted the reality that he is leaving."
+    publishedDateTime: 2021-01-06T18:15:00Z
+    webUrl: "https://time.com/5926697/white-house-staff-trump-rage/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 95
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump_Washington_DC_Protest_010621_003.jpg"
+        width: 2400
+        height: 1601
         isCached: true
   - title: "New York Post editorial board tells Trump it's time to accept his loss and secure his legacy by helping Republicans maintain control of the Senate"
     excerpt: "Stop the Insanity,' said the Post headline. It had been among the president's most supportive media outlets."

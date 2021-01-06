@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-11-trump-and-his-allies-have-won-zero-out-of-at-least-38-lawsuits-theyve-filed-since-election-day.md",
+      "title": "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day",
+      "excerpt": "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 528,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd0dc06240ebd00126bde01?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp",
+      "publishedDateTime": "2020-12-10T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost.md",
       "title": "'It Is Roiling Him': NYT's Maggie Haberman Unpacks Trump's Refusal To Admit He Lost",
       "excerpt": "\"[Trump] can't handle the concept of the label 'loser,' \" Haberman says. \"He has never before encountered a problem that he couldn't sue away through the court system or spin away.\"",
@@ -1549,58 +1601,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-administration-appoints-loyalists-corey-lewandowski-and-david-bossie-to-defense-business-board.md",
-      "title": "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board",
-      "excerpt": "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
-      "originalUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
-      "publishedDateTime": "2020-12-04T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-04-thats-real-fauci-rejects-trump-claim-that-us-coronavirus-deaths-overcounted.md",
+      "title": "'That's real:' Fauci rejects Trump claim that U.S. coronavirus deaths overcounted",
+      "excerpt": "Two top U.S. health officials on Sunday disputed a claim by President Donald Trump that federal data on COVID-19 cases and deaths in the United States is overblown, and both expressed optimism that the pace of vaccinations is picking up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-data-idUSKBN2980GC",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-data-idUSKBN2980GC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546466107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0208C",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2980GC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980GC",
+      "publishedDateTime": "2021-01-03T20:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-georgia-election-guardian-raffensperger-faces-heat-as-trump-contests-defeat.md",
       "title": "Georgia election guardian Raffensperger faces heat as Trump contests defeat",
       "excerpt": "Georgia's Republican secretary of state, Brad Raffensperger, cemented his status as an unlikely hero for U.S. Democrats following a fresh clash in which he rejected President Donald Trump's claims that his election defeat was the result of widespread fraud.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 820,
+      "heat": 840,
       "tags": null,
       "images": [
         {
@@ -623,7 +675,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1521,58 +1573,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-nashville-mayor-says-trump-still-hasnt-reached-out-to-him-about-bombing.md",
-      "title": "Nashville mayor says Trump still hasn't reached out to him about bombing",
-      "excerpt": "Trump has made no public remarks on the bombing while spending the holidays at his Mar-a-Lago resort in Florida, where he's done a lot of golfing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12",
-      "originalUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5feb6af1edf89200180940e2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp",
-      "publishedDateTime": "2020-12-29T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

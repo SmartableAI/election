@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
+      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
+      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
+      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
+          "width": 868,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "publishedDateTime": "2020-12-16T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-coronavirus-live-news-london-enters-tier-3-restrictions-trump-will-absolutely-encourage-vaccine-use.md",
+      "title": "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use",
+      "excerpt": "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "publishedDateTime": "2020-12-15T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
       "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
       "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
@@ -1253,114 +1357,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
-      "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
-      "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "publishedDateTime": "2020-12-14T06:44:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-the-note-electoral-college-voting-brings-crossroads-for-trump-and-his-gop.md",
-      "title": "The Note: Electoral College voting brings crossroads for Trump and his GOP",
-      "excerpt": "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
-      "originalUrl": "https://abcnews.go.com/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Trump_rally_201_hpMain_20201213-185828_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
-      "publishedDateTime": "2020-12-14T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

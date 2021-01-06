@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to nominate Merrick Garland as attorney general "
+    excerpt: "President-elect Joe Biden has decided to nominate Judge Merrick Garland as attorney general, people familiar with the matter tell CNN, a long-awaited decision that was moved toward completion Wednesday as it became apparent that Democrats were on the brink of winning control of the Senate.\n    \n"
+    publishedDateTime: 2021-01-06T18:13:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qDlgEHIq3RI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/merrick-garland-biden-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/merrick-garland-biden-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918231232-judge-merrick-garland-file-photo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says electing Georgia's Ossoff and Warnock would lead to $2,000 stimulus checks"
     excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
     publishedDateTime: 2021-01-05T01:53:06Z
@@ -284,6 +300,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211132924-jones-garland-yates-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP challenges Arizona electoral votes, the first of several expected objections to Biden's 2020 win"
+    excerpt: "Congressional Republicans are preparing a futile attempt Wednesday on President Donald Trump's behalf to overturn the results of the November election by objecting to Electoral College votes cast by at least three states for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2021-01-06T18:22:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YxFp-LjLP_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/2020-election-congress-electoral-college-vote-count/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/2020-election-congress-electoral-college-vote-count/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105031546-us-capitol-0104-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

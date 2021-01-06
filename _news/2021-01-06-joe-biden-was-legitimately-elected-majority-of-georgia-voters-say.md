@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden vows to ‘get big things done’ after Georgia Senate runoffs"
+    excerpt: "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”"
+    publishedDateTime: 2021-01-06T17:49:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "WSJ Opinion: Joe Biden’s Georgia Test"
     excerpt: "Can the president-elect carry Democrats other than himself to victory? Image: Edward M Pio Roda/Shutterstock"
     publishedDateTime: 2021-01-05T20:23:00Z

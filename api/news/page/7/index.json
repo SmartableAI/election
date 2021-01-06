@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-28-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election.md",
+      "title": "Geraldo Rivera: Trump acting like 'entitled frat boy' since losing election",
+      "excerpt": "Fox News pundit Geraldo Rivera slammed President Trump, saying he has been acting like an \"entitled frat boy\" since losing a \"bitterly contested el",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
+      "originalUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/blogs/geraldotrump_081016getty.jpg",
+          "width": 645,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
+      "publishedDateTime": "2020-12-27T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-i-think-i-had-some-effect-cindy-mccain-pleased-with-joe-bidens-election-victory-looks-ahead.md",
+      "title": "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead",
+      "excerpt": "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/3feaa328-d9d2-4409-8443-7cf3424528d6-Cindy_McCain_2.jpg?auto=webp&crop=3399,1912,x1,y524&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4052794001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001",
+      "publishedDateTime": "2020-12-27T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-health-care-policing-and-same-sex-marriage-joe-bidens-domestic-policy-answers.md",
       "title": "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers",
       "excerpt": "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\"",
@@ -1253,114 +1357,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-democratic-rep-elect-kai-kahele-combat-veteran-says-trump-supporters-are-a-force-to-be-reckoned-with.md",
-      "title": "Democratic Rep.-elect Kai Kahele, combat veteran, says Trump supporters are 'a force to be reckoned with'",
-      "excerpt": "As a progressive Democrat who supports the Green New Deal and \"Medicare-for-all,\" Rep.-elect Kai Kahele, D-Hawaii, has had to temper his aspirations for the new Congress. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk5H_nPt1QU/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk5H_nPt1QU/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/kai.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with.amp",
-      "publishedDateTime": "2020-12-24T03:23:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-iran-foreign-minister-dismisses-trumps-tweet-that-tehran-behind-attack-on-us-embassy-in-baghdad.md",
-      "title": "Iran foreign minister dismisses Trump's tweet that Tehran behind attack on U.S. Embassy in Baghdad",
-      "excerpt": "Iran’s foreign minister on Thursday dismissed U.S. President Donald Trump’s allegations that Iran was behind the recent rocket attack on the U.S. Embassy in Baghdad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
-      "originalUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545642257&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN0A1",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Y0JA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y0JA",
-      "publishedDateTime": "2020-12-24T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

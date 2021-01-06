@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Everything We Know About Joe Biden’s Inauguration"
+    excerpt: "Biden’s swearing-in will take place in person, but much of the inauguration will be virtual due to COVID. It’s unclear if Trump will attend any of it."
+    publishedDateTime: 2021-01-06T18:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/joe-biden-inauguration-everything-we-know.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/joe-biden-inauguration-everything-we-know.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/joe-biden-inauguration-everything-we-know.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/ebc/1f6/0d1698f01cd1e44f16c5c83aeb15c7ffae-biden-inauguration.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Congress to vote today on confirming Joe Biden’s Electoral College victory"
     excerpt: "The typically routine proceeding Wednesday will be anything but, a political confrontation unseen since the aftermath of the Civil War as Donald Trump mounts a desperate effort stay in office."
     publishedDateTime: 2021-01-06T10:14:00Z

@@ -2,63 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-06-joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.md",
-      "title": "Joe Biden was ‘legitimately’ elected, majority of Georgia voters say",
-      "excerpt": "Joe Biden \"legitimately\" defeated President Trump in November's election, 61 percent of Georgia voters say, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 voters in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
-      "originalUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
-      "publishedDateTime": "2021-01-05T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-06-arnold-schwarzenegger-calls-efforts-to-overturn-bidens-win-crazy-and-evil.md",
       "title": "Arnold Schwarzenegger Calls Efforts to Overturn Biden's Win 'Crazy and Evil'",
       "excerpt": "The former GOP California governor said lawmakers objecting to Biden's win will be remembered as \"villains\" by their grandchildren.",
@@ -650,7 +593,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1598,6 +1541,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-biden-transition-highlights-congress-reaches-a-deal-on-stimulus-package.md",
+      "title": "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package",
+      "excerpt": "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-21T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

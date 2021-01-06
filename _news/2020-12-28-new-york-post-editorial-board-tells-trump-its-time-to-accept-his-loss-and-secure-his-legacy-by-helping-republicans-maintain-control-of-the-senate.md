@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'People Are Just Trying to Land the Airplane.' White House Staff Packs Up as Trump Rages On"
+    excerpt: "As President Donald Trump pushes to overturn the election, many White House officials have accepted the reality that he is leaving."
+    publishedDateTime: 2021-01-06T18:15:00Z
+    webUrl: "https://time.com/5926697/white-house-staff-trump-rage/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 95
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump_Washington_DC_Protest_010621_003.jpg"
+        width: 2400
+        height: 1601
+        isCached: true
   - title: "Barron Trump Made Headlines 5 Times In 2020 And Not Just For His Height"
     excerpt: "His height surprised many during recent public appearances, but he's been in the news more than you might think."
     publishedDateTime: 2021-01-01T14:00:00Z
