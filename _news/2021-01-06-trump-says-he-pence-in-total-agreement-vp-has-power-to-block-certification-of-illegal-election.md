@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump says he, Pence in ‘total agreement’ VP has ‘power’ to block certification of ‘illegal’ election"
-excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday.  "
-publishedDateTime: 2021-01-06T03:59:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UwVeEWGsKb4/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UwVeEWGsKb4/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election"
+excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday."
+publishedDateTime: 2021-01-06T04:04:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election"
+webUrl: "https://www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election"
 ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
 type: article
-quality: 200
+quality: 150
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
+    width: 1280
+    height: 719
     isCached: true
 
 related:
@@ -367,6 +367,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Allies in Congress Challenge Biden’s Election Win"
+    excerpt: "In a joint session, some GOP lawmakers will make a last-ditch attempt to throw out some states’ results to secure a second term for President Trump."
+    publishedDateTime: 2021-01-06T10:44:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-281227/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump puts pressure on Pence ahead of election showdown in Congress"
     excerpt: "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump."
@@ -750,6 +766,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "gcoNPSTp4PVDfZ0bg0ZglYsp9f7Hk34h2heBtoguNyhligVOMCmvi5ayXQvZvup1TelIr0FbX9AtMjbQ2A+JgVUjTkYbypJOrqvh003g9cBqvXl3o0ME/g9UuY3q7HGQS/y6sW50PaPyvCnHmhiD6Jc4i74W8kLwgzGCB1UwDtJTi8vr2x6NINGXVlA3j7QKgG9RNgUFOfirtCnd6xO2WAlnDYbPAip1CjKtW169ql1XE9AI2e4/882ZOJfgpkGaMIjJMV9IX0zMle3voquvN/xpnrppb+Y5KEuQlF1J6fn17V+VuWu4p74bk+q5KkvZIBGXJDnCNCiISG2pdxYghrxvS9B2TZ4n6ftLIbiDlis=;eNIN4k7JqB3iZmZdb2eObQ=="
+secured: "/wZyx5pjliRVbddtXTM26BMt03xw/J1PxBM33MbYxtYkgOZQjHh4xVKFo5XNYpuqDUPbEjOQ1HW3cUyzIRZ39Vk5VMEBBgrRT4g+leeW5ngUfpn3SQ7z1LjBleP0HgLqy6uRxMjrw6jIzbvuUatZCx9bsghNTQvTHuTwk043qx2Wlx8ZUGlL1A9x+4OUKnBlws/of2gA/k8JSJaqbNLivDrnVCGDhHHmqZ+Zl/2UOM3SFFQSVt+1qSbHJngNNGlLwxYkcd+vvTC2Q8+T7H1yP12psnI9qxkqgLrXU2bkzdgE/oUF7E0Pv81vV4UctR8CHXZLuUPBSsxS/iu3ZHLgKXyDHkPJMml98z8MTxpJeHQ=;99tiY7U7JbTbr5iQfwPCXg=="
 ---
 

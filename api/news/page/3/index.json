@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-04-with-kamala-harris-as-vice-president-expect-indian-americans-to-get-more-involved-in-politics.md",
+      "title": "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics",
+      "excerpt": "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PHZCOXCJIMI6XF5WJ247OL7UNM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp",
+      "publishedDateTime": "2021-01-04T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.md",
       "title": "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’",
       "excerpt": "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U.",
@@ -690,7 +742,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 449,
       "tags": null,
       "images": [
         {
@@ -1260,63 +1312,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
-      "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
-      "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121005656-louie-gohmert-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
-      "publishedDateTime": "2021-01-01T18:30:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

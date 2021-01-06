@@ -972,6 +972,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Congress set to certify Biden's win as Trump fuels unrest"
+    excerpt: "The joint session of the House and Senate could be the last attempt by the president and his GOP allies to overturn the election results."
+    publishedDateTime: 2021-01-06T10:23:00Z
+    webUrl: "https://www.politico.com/news/2021/01/06/congress-confirms-bidens-win-trump-455253"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/a3/2c/fbd235e445b4a96e0373e3060e3c/gettyimages-1294351903-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
     excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect,"
     publishedDateTime: 2020-12-16T19:44:00Z

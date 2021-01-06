@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-03-gov-michelle-lujan-grisham-turned-down-biden-administration-post-sources-say.md",
+      "title": "Gov. Michelle Lujan Grisham turned down Biden administration post, sources say",
+      "excerpt": "The Democratic governor of New Mexico is rumored to be a contender for a separate position in the administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
+      "publishedDateTime": "2020-12-02T16:39:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-to-vote-in-senate-runoffs-without-changes.md",
       "title": "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes",
       "excerpt": "Powell and Wood are not working for the Trump campaign in an official capacity.",
@@ -1321,58 +1377,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-while-cuban-americans-in-florida-came-out-big-for-trump-cubans-stuck-in-mexico-pinned-their-hopes-on-biden.md",
-      "title": "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden",
-      "excerpt": "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
-      "originalUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc6cfb5037cbd00186133de?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
-      "publishedDateTime": "2020-12-02T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

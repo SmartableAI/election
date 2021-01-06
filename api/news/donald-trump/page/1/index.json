@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-how-josh-hawley-learned-to-stop-worrying-and-love-donald-trump.md",
+      "title": "How Josh Hawley Learned to Stop Worrying and Love Donald Trump",
+      "excerpt": "Until recently, the senator leading the charge to discredit Biden’s victory was a creature of the ultraconservative establishment. Then he discovered Trump’s faux populism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/politics/hawley-cruz-trump/",
+      "originalUrl": "https://www.thenation.com/article/politics/hawley-cruz-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2021/01/Hawley-pic-scaled-e1609894623844.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/politics/hawley-cruz-trump/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/hawley-cruz-trump/tnamp/",
+      "publishedDateTime": "2021-01-06T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-trump-biden-transition-live-updates-pence-told-trump-he-doesnt-have-power-to-reverse-election.md",
       "title": "Trump-Biden transition live updates: Pence told Trump he doesn't have power to reverse election",
       "excerpt": "During their weekly lunch Tuesday, Vice President Mike Pence told President Donald Trump he does not have the power to reverse the outcome of the November election when he preside",
@@ -224,7 +272,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -1478,58 +1526,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2980GC",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980GC",
       "publishedDateTime": "2021-01-03T20:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-georgia-election-guardian-raffensperger-faces-heat-as-trump-contests-defeat.md",
-      "title": "Georgia election guardian Raffensperger faces heat as Trump contests defeat",
-      "excerpt": "Georgia's Republican secretary of state, Brad Raffensperger, cemented his status as an unlikely hero for U.S. Democrats following a fresh clash in which he rejected President Donald Trump's claims that his election defeat was the result of widespread fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-georgia-raffensperger-idUKKBN2980QZ",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-georgia-raffensperger-idUKKBN2980QZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2980QZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2980QZ",
-      "publishedDateTime": "2021-01-03T20:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

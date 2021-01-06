@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
+    excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
+    publishedDateTime: 2021-01-06T09:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3957706001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3957706001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
     excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
     publishedDateTime: 2020-12-31T03:11:00Z

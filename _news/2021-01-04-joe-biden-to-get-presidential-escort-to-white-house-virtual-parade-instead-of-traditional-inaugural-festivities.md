@@ -201,6 +201,22 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Congress to vote today on confirming Joe Biden’s Electoral College victory"
+    excerpt: "The typically routine proceeding Wednesday will be anything but, a political confrontation unseen since the aftermath of the Civil War as Donald Trump mounts a desperate effort stay in office."
+    publishedDateTime: 2021-01-06T10:14:00Z
+    webUrl: "https://www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3KDRVGKSW5BANJ6GTXIVUZAMWU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
     excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."
     publishedDateTime: 2021-01-04T19:47:00Z

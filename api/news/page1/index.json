@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-how-josh-hawley-learned-to-stop-worrying-and-love-donald-trump.md",
+      "title": "How Josh Hawley Learned to Stop Worrying and Love Donald Trump",
+      "excerpt": "Until recently, the senator leading the charge to discredit Biden’s victory was a creature of the ultraconservative establishment. Then he discovered Trump’s faux populism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/politics/hawley-cruz-trump/",
+      "originalUrl": "https://www.thenation.com/article/politics/hawley-cruz-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2021/01/Hawley-pic-scaled-e1609894623844.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/politics/hawley-cruz-trump/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/hawley-cruz-trump/tnamp/",
+      "publishedDateTime": "2021-01-06T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-trump-biden-transition-live-updates-pence-told-trump-he-doesnt-have-power-to-reverse-election.md",
       "title": "Trump-Biden transition live updates: Pence told Trump he doesn't have power to reverse election",
       "excerpt": "During their weekly lunch Tuesday, Vice President Mike Pence told President Donald Trump he does not have the power to reverse the outcome of the November election when he preside",
@@ -228,7 +276,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -281,7 +329,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -377,62 +425,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-06-george-w-bush-will-attend-biden-inauguration-to-witness-peaceful-transfer-of-power.md",
-      "title": "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'",
-      "excerpt": "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp",
-      "publishedDateTime": "2021-01-05T19:25:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-06-biden-to-focus-on-covid-relief-for-small-businesses-in-wednesday-speech.md",
       "title": "Biden to focus on Covid relief for small businesses in Wednesday speech",
       "excerpt": "President-elect Joe Biden will make remarks Wednesday focusing on delivering relief to small businesses amid the coronavirus pandemic with a focus on helping minority-owned businesses, a transition spokesperson tells CNN.\n    \n",
@@ -486,6 +478,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-former-president-jimmy-carter-wife-rosalynn-will-not-attend-joe-bidens-inauguration.md",
+      "title": "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration",
+      "excerpt": "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
+      "publishedDateTime": "2021-01-05T15:55:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -1030,7 +1078,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1135,
+      "heat": 1155,
       "tags": null,
       "images": [
         {
@@ -1135,7 +1183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1655,
+      "heat": 1695,
       "tags": null,
       "images": [
         {
@@ -1286,58 +1334,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-reject-joe-biden-policies-and-misguided-calls-for-free-college-betsy-devos-urges-in-farewell-letter.md",
-      "title": "Reject Joe Biden policies and 'misguided calls' for free college, Betsy DeVos urges in farewell letter",
-      "excerpt": "In a letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject Biden's agenda, and shield Trump administration policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2021/01/05/reject-biden-education-policies-betsy-devos-tells-congress-letter/4138351001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2021/01/05/reject-biden-education-policies-betsy-devos-tells-congress-letter/4138351001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/05/USAT/4dd7473f-a1d3-453f-8f6c-a60a6c29799a-AFP_AFP_1V27EY.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4138351001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4138351001",
-      "publishedDateTime": "2021-01-05T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

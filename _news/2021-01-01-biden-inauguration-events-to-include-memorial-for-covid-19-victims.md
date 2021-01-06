@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://thumbnails.texastribune.org/lizlcxbguJPX5REvUaO4EjQslQI=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d73f7ca54a1e8d5ef4ee5cb17ce7d8cc/White%20House%20REUTERS%20TT.jpg"
         width: 1200
         height: 804
+        isCached: true
+  - title: "Congress to vote today on confirming Joe Biden’s Electoral College victory"
+    excerpt: "The typically routine proceeding Wednesday will be anything but, a political confrontation unseen since the aftermath of the Civil War as Donald Trump mounts a desperate effort stay in office."
+    publishedDateTime: 2021-01-06T10:14:00Z
+    webUrl: "https://www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3KDRVGKSW5BANJ6GTXIVUZAMWU.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
     excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Despite pressure from Trump, Pence won't interfere in election count Wednesday: advisers"
+    excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties when presiding in Congress on Wednesday, advisers said."
+    publishedDateTime: 2021-01-06T02:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence-idUSKBN29A2J0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2J0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2J0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 156
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden election: Mike Pence 'welcomes' senators' bid to derail result"
     excerpt: "President Mike Pence has welcomed an effort by a group of senators to refuse to certify Joe Biden's presidential election win. The 11 Republican senators and senators-elect, led by Ted Cruz, want a 10-day delay to audit unsubstantiated allegations of election fraud."
     publishedDateTime: 2021-01-03T16:54:00Z
@@ -286,22 +302,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EE1/production/_116337604_mediaitem116337599.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Despite pressure from Trump, Pence won't interfere in election count Wednesday: advisers"
-    excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties when presiding in Congress on Wednesday, advisers said."
-    publishedDateTime: 2021-01-06T02:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pence-idUSKBN29A2J0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2J0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2J0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 146
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
-        width: 817
-        height: 545
         isCached: true
   - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
     excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."

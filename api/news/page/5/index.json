@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-31-biden-transition-chief-blasts-obstruction-by-political-appointees-at-omb-pentagon.md",
+      "title": "Biden transition chief blasts ‘obstruction’ by political appointees at OMB, Pentagon",
+      "excerpt": "Yohannes Abraham said a lack of cooperation was limiting the president-elect’s ability to mount an effective economic response to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "originalUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/10/f9/7727e4b44563a4b410842415eb81/20201230-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "publishedDateTime": "2020-12-30T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-census-bureau-to-miss-deadline-threatening-trumps-attempt-to-exclude-illegal-migrants-from-census.md",
       "title": "Census Bureau to miss deadline, threatening Trump's attempt to exclude illegal migrants from census",
       "excerpt": "For the first time in four decades the Census Bureau will miss their deadline on reporting apportionment figures used to divvy up congressional seats.",
@@ -500,7 +557,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 201,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1312,49 +1369,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-trump-finally-gave-qanon-what-it-always-wanted-respect.md",
-      "title": "Trump Finally Gave QAnon What It Always Wanted: Respect",
-      "excerpt": "QAnon may have started in 2017 as a small community of imageboard users who delusionally believed they were receiving messages from the Trump White House and the military through an anonymous entity known as “Q,",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2020/12/trump-gave-qanon-what-it-always-wanted-respect.html",
-      "originalUrl": "https://nymag.com/intelligencer/2020/12/trump-gave-qanon-what-it-always-wanted-respect.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/dd4/060/c09f3cfa7749f9551e092acebfafebf928-q-anon.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/12/trump-gave-qanon-what-it-always-wanted-respect.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/trump-gave-qanon-what-it-always-wanted-respect.html",
-      "publishedDateTime": "2020-12-29T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

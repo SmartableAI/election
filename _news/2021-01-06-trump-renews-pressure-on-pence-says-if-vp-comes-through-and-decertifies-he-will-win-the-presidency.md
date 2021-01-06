@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says he, Pence in ‘total agreement’ VP has ‘power’ to block certification of ‘illegal’ election"
-    excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday.  "
-    publishedDateTime: 2021-01-06T03:59:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UwVeEWGsKb4/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 200
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden to campaign in Georgia on same day as Trump ahead of pivotal Senate elections"
     excerpt: "President-elect Joe Biden will campaign in Georgia the day before the Jan. 5 Senate runoff races there, the same day President Trump is scheduled to hold a rally for Sens. David Perdue and Kelly Loeffler."
     publishedDateTime: 2020-12-30T12:29:58Z
@@ -368,6 +352,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Allies in Congress Challenge Biden’s Election Win"
+    excerpt: "In a joint session, some GOP lawmakers will make a last-ditch attempt to throw out some states’ results to secure a second term for President Trump."
+    publishedDateTime: 2021-01-06T10:44:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-281227/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump puts pressure on Pence ahead of election showdown in Congress"
     excerpt: "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump."
     publishedDateTime: 2021-01-05T18:54:00Z
@@ -463,6 +463,22 @@ related:
       - url: "https://images.wsj.net/im-280090/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump says he, Pence in ‘total agreement’ VP has ‘power’ to block certification of ‘illegal’ election"
+    excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday."
+    publishedDateTime: 2021-01-06T04:04:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Biden pick for top Pentagon position hyped Steele dossier, Trump-Russia collusion claims"
     excerpt: "President-elect Joe Biden's pick for a high-level Pentagon position hyped the since-discredited Steele dossier and Trump-Russian collusion narrative."
@@ -750,6 +766,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "qMDcQl9Gf+/J8mu00+DYYqeqK1/bWU4qp6itm6cN4/c/aPPJX2qIqPIyOZhpd96qjHOVQewa5ONWPS9G3u8m/MHyiV7xFKRk5mgzNFQv6MiVOpw4gHQoqUQKk5XsLCUAhk8VrdkXJwOYvJ7HMBUqgiQ2dyRC/p4WhJC/uXwPIHaxd4OPVqLxeQU3L+lOXauOcSt7MnKQg32iXBBXN5HFcogNLxWVT/fOjklu0wabSbVsWcc+thmh3XKsmed1nz95v9Lfj4gB6aiNHfSV7IzRj+04nHjyHJsr4qPyzsXPk2+FjCoBRMKTNDv2gZgsBrEovbFBfTAz7bJUd/EXQzHpZ+JIj7Qd+UqTD4lFJC2oC+k=;G04SZiKmU1vN10aulca//w=="
+secured: "bqoyu69boMYTr+Lzcxlv9u3twWG+ACJUq+/nV8tvWhEIOyeIaUeuzWlUy0EYtlaXzEvKVg45B7arvdDplPBzEpbKsqPhu6Eu19IwIAGdcRJ0ZRZ7OU60sBPJQ0a1Fvm7LTHnLDz/LmzSsnQGEQJYmIIqBGOMKBECds8rGr4HUwrMy4GD6FivdCmxxTQ/iX/XNunmv6Ow2/+3ZinxIuCuO190w3iJAwdFZLSvMzZPRL+rhT/LxBgtS7VJwOmhiOI6fhzxbJ68T1M4PBikzBKp0xLiuMyvn4A566up94GJq7Lm1K3lcyCbtWqzbkgiG1UUBFkWY4Jk3CMdvXH7MxZDfGw+GnXnU8hwJUgl4SejkY0=;Qp7WmXjl0EslrYiJEPr8Cg=="
 ---
 

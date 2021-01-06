@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "George W. Bush will attend Biden's inauguration; Jimmy Carter will not travel to ceremony"
+    excerpt: "Former President Jimmy Carter and former first lady Rosalynn Carter will not attend President-elect Joe Biden's inauguration, a spokeswoman said Tuesday.\n    \n"
+    publishedDateTime: 2021-01-06T01:01:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbGkE2HX4dg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/jimmy-carter-inauguration-biden-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/jimmy-carter-inauguration-biden-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190322153536-48-jimmy-carter-unfurled-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to attack Trump admin for slow pace of Covid vaccinations"
     excerpt: "President-elect Joe Biden plans to hit the Trump administration on Tuesday for \"falling short\" on the pace of vaccinating Americans against Covid-19,a transition official said, previewing the remarks."
     publishedDateTime: 2020-12-29T21:14:00Z
@@ -387,6 +403,20 @@ related:
     excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
     publishedDateTime: 2021-01-05T15:00:00Z
     webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/01/05/bidens-health-agenda-runs-through-georgia-792581"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Why Biden is quiet about the Electoral College challenge"
+    excerpt: "When Senate Republicans spent weeks refusing to acknowledge JOE BIDEN’s victory, Biden’s response was: chill out and give it time. Biden is following the same playbook now as dozens of congressional Republicans plan to challenge his Electoral College ..."
+    publishedDateTime: 2021-01-05T22:48:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/05/why-biden-is-quiet-about-the-electoral-college-challenge-792586"
     type: article
     provider:
       name: Politico

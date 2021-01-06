@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-23-trumps-main-banker-at-deutsche-bank-announces-her-resignation.md",
+      "title": "Trump's main banker at Deutsche Bank announces her resignation",
+      "excerpt": "The president's longstanding contact at the bank, Rosemary Vrablic, will step down on Dec. 31, though the reasons for her departure are unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe265fda644880018193053?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12?amp",
+      "publishedDateTime": "2020-12-22T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-even-as-he-urges-caution-on-covid-19-pence-flies-to-florida-to-speak-at-large-event.md",
       "title": "Even as he urges caution on COVID-19, Pence flies to Florida to speak at large event",
       "excerpt": "Vice President Mike Pence has urged Americans to step up precautions, but he flew to Florida to speak to thousands at an indoor summit held by a conservative youth group.",
@@ -794,7 +846,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1628,
+      "heat": 1648,
       "tags": null,
       "images": [
         {
@@ -1334,58 +1386,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-fierce-pushback-fear-of-new-and-onerous-regulations-from-small-farmers-on-joe-bidens-choice-of-tom-vilsack-for-usda.md",
-      "title": "Fierce pushback, fear of new and onerous regulations from small farmers on Joe Biden’s choice of Tom Vilsack for USDA",
-      "excerpt": "Tom Vilsack faces a steep challenge, with progressive and environmental groups warning that he is too friendly with big industrial agriculture businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/xLvqWsH5LQofg-buDy_LLC5xpC4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSJOTAXPZZSPKG6PXYDA3FJP4A.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-21T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

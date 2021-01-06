@@ -8,7 +8,7 @@ webUrl: "https://www.reuters.com/article/us-usa-election-pence-idUSKBN29A2J0"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2J0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2J0"
 type: article
-quality: 146
+quality: 156
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"

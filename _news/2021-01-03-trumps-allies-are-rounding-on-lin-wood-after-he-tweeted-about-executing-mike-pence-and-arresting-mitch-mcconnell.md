@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
 type: article
 quality: 129
-heat: 429
+heat: 449
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a3222a0066a6f84cac68afa6b01f1c60f2d17a0b/816_1821_6587_3952/master/6587.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0eb9e7f0a74d5248f19ab21782a6b6e3"
         width: 600
         height: 360
+        isCached: true
+  - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
+    excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
+    publishedDateTime: 2021-01-06T09:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3957706001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3957706001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."

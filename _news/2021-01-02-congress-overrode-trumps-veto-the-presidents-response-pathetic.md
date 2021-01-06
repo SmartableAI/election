@@ -111,6 +111,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Protesters to Gather in NYC as Congress Set to Confirm Joe Biden as President"
+    excerpt: "As Congress prepares to affirm President-elect Joe Biden’s victory, protesters are expected to gather in New York City to call for an investigation into President Donald Trump who has repeated baseless claims of election fraud."
+    publishedDateTime: 2021-01-06T09:16:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/protesters-to-gather-in-nyc-as-congress-set-to-confirm-joe-biden-as-president/2814374/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/protesters-to-gather-in-nyc-as-congress-set-to-confirm-joe-biden-as-president/2814374/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/protesters-to-gather-in-nyc-as-congress-set-to-confirm-joe-biden-as-president/2814374/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1271246684.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Analysis: As Ted Cruz argues for the president, Donald Trump’s supporters are the real prize"
+    excerpt: "The senator from Texas is among legislators questioning the validity of President-elect Joe Biden's victory over Donald Trump. What's at stake? The hearts of the Republican voters who strongly back the incumbent president."
+    publishedDateTime: 2021-01-06T10:04:00Z
+    webUrl: "https://www.texastribune.org/2021/01/06/ted-cruz-election-certification/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/06/ted-cruz-election-certification/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/06/ted-cruz-election-certification/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 64
+    images:
+      - url: "https://thumbnails.texastribune.org/y8aIZkwc8LF-ZOnROWRDdjazpTg=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/deb211c35a380fc21d7189c4e3d8038b/Cruz%20and%20Trump%20REUTERS%202016%20TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
     excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-05T04:15:00Z

@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-04-biden-on-nominating-diverse-cabinet-im-going-to-keep-my-commitment.md",
+      "title": "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'",
+      "excerpt": "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
+      "publishedDateTime": "2020-12-03T18:37:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-biden-taps-deese-to-head-climate-focused-white-house-economic-council.md",
       "title": "Biden taps Deese to head climate-focused White House economic council",
       "excerpt": "U.S. President-elect Joe Biden said on Thursday he had selected Brian Deese, who helped lead President Barack Obama's efforts to bail out the automotive industry during the 2009 financial crisis and was a key player in helping secure the Paris climate agreement,",
@@ -1313,62 +1369,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-gov-michelle-lujan-grisham-turned-down-biden-administration-post-sources-say.md",
-      "title": "Gov. Michelle Lujan Grisham turned down Biden administration post, sources say",
-      "excerpt": "The Democratic governor of New Mexico is rumored to be a contender for a separate position in the administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
-      "publishedDateTime": "2020-12-02T16:39:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

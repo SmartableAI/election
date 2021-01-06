@@ -2,15 +2,15 @@
 category: news
 title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
 excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
-publishedDateTime: 2021-01-06T03:25:35Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
+publishedDateTime: 2021-01-06T03:40:00Z
+originalUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
+webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
 ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
 type: article
-quality: 168
-heat: 248
-published: true
+quality: 128
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -44,6 +45,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "China says Biden represents 'new window of hope' for relations with US"
+    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
+    publishedDateTime: 2021-01-05T13:43:00Z
+    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
+    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -79,21 +96,7 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "WSJ Opinion: Joe Biden’s Georgia Test"
-    excerpt: "Can the president-elect carry Democrats other than himself to victory? Image: Edward M Pio Roda/Shutterstock"
-    publishedDateTime: 2021-01-05T20:23:00Z
-    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "http://m.wsj.net/video/20210104/010421opvidmainstreet/010421opvidmainstreet_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "FW39kdoIR+jQlhQwU3zrkALYTgutxRye6fAQ6dZY0oHEowupEkO6Vyn54SwTYY8J50QnaVuMt0F/PMUBcH66meyCH4y7rAX3chxiHJgW9j3RtO9qkbUOr834uEOb0yqIBWF1HA3BXdllYkgXerq70ikUyaELKbA4JC+aQuDiTeNhGB0LPzJ+Bofv+6Z0S5mZXeID55hBNePEEYneF9/Fnmt/y42+w5KIM+/f7RsxA2YVqV2uNHhvrRwucWyPG8PddKLltKKi163lwyN/wBMuGKqSdyWXCHvUvOYA6nTefPVOp3pFM3gVEUNFCTp75ksvgD86DJhu3UQLXN7qgXUXeo+LHHUwJSNysl8fUj0n3YY=;bdcjmc0K3/gDqARgz2mL3g=="
+secured: "pLfISturhkHVUm5PbYKHsxi7jrIvOCJMouEzd5YewMAlIzuNE6ha0m4b02Kp47lDKGK/+kO/+IcV7Qx+gWAdeAxiU6ljkgCaSHc55vdNBLnr7YY6PpTzJ9/yKOetXhiAxmBO75QDiHXU2JZgCNa2IQBpLXfxcT14VhNDCfi/+Z61kivCFVtiLlTki875wg0T9gMr0zkzdehQK2Lr5J+M0lPDRKGLf+FiS7Dvjx/i4oChZ4lYpqjHgDwTk8r7ALD6lCgvbPEII59jGxrUHmYjCE2BRvgybPQmp17LeonE+GFA7JReiOLc4okQtw18LLTA/1saXYy5qnGRgDv5eI4qAhnz2zGXo9n3+WfgrZ409tY=;cIU+CYIo4Q4bEDCmrCbo6A=="
 ---
 

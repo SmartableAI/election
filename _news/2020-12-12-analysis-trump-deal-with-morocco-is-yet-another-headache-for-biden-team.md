@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's false election fraud claims face a dead end in Congress"
+    excerpt: "President Donald Trump's desperate effort to subvert democracy and steal the election will hit a brick wall of truth and America's constitutional defenses when Congress meets Wednesday to finalize President-elect Joe Biden's victory.\n    \n"
+    publishedDateTime: 2021-01-06T05:03:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PEq5uWAVLfQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/donald-trump-mike-pence-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/donald-trump-mike-pence-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105143554-01-trump-pence-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia election official shoots down Trump's election conspiracy theories"
     excerpt: "A top Georgia election official said Monday that \"everybody's vote did count\" in the state's November elections as he shot down a list of voter fraud conspiracy theories President Donald Trump aired in a call with Georgia Secretary of State Brad Raffensperger this weekend.\n    \n"
     publishedDateTime: 2021-01-05T00:44:16Z
@@ -188,6 +204,22 @@ related:
     quality: 188
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104163050-gabriel-sterling-georgia-elections-0104---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Authorities on high alert as pro-Trump supporters flood DC to protest election "
+    excerpt: "Hundreds of law enforcement officers have mobilized across Washington as thousands of supporters who refuse to accept President Donald Trump's election loss have flocked to the nation's capital to protest when Congress gathers Wednesday afternoon to put the final stamp on President-elect Joe Biden's"
+    publishedDateTime: 2021-01-06T10:01:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_TGLQRJOtso/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/pro-trump-supporters-dc-protest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/pro-trump-supporters-dc-protest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105222805-dc-police-sign-0105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

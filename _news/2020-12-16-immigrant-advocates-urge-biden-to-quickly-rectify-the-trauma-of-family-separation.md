@@ -957,6 +957,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Congress set to certify Biden's win as Trump fuels unrest"
+    excerpt: "The joint session of the House and Senate could be the last attempt by the president and his GOP allies to overturn the election results."
+    publishedDateTime: 2021-01-06T10:23:00Z
+    webUrl: "https://www.politico.com/news/2021/01/06/congress-confirms-bidens-win-trump-455253"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/a3/2c/fbd235e445b4a96e0373e3060e3c/gettyimages-1294351903-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden Calls Trump Administration’s Blocking the Transition Irresponsible"
     excerpt: "President-elect Joseph R. Biden Jr. said on Monday that his transition team faced “obstruction” from the political leadership at the Defense Department, after participating in a briefing with national security experts."
     publishedDateTime: 2020-12-29T00:55:00Z
