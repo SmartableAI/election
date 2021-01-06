@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 956
         isCached: true
+  - title: "Joe Biden selects three Texans for White House staff"
+    excerpt: "Three Texans are. President-elect Joe Biden and Vice President-elect Kamala Harris announced the appointments Tuesday of three Democratic operatives with"
+    publishedDateTime: 2021-01-06T02:24:00Z
+    webUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 75
+    images:
+      - url: "https://thumbnails.texastribune.org/lizlcxbguJPX5REvUaO4EjQslQI=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d73f7ca54a1e8d5ef4ee5cb17ce7d8cc/White%20House%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
 
 secured: "2GIpS8OrdguzSZT3ZcQ/V6ia3U9B1IHQ72BujSW7oQC+t5jWRxVcx8cVmzoQMz+jZGFgXaj03tvuY+MmHMG9Hq+6Y5/cCarWXTQqffWPCG7bulBvXlxjskdoqYRKQNoGQREJ6ZEDByUyMMfsAbdIWczML+8vYVYGnxzM6d2TViV/rb9lZHGzicFn8TYOAO/d7uBRm8jozFyMecD5fCbz03ZfP8waFiEZ0NY/9Tfr0oz1ebI2+otp47EOMGkk1fZBWSrf6lId9dBtY8mYqrzw5/skgVBil0YOoVgPi5VIbUSH7Dh2NrYXktTE6P2VcLS9IKF9xeVnCV0E2ZW/sYSjp3NpQnj43e4n7k5cWv07O19t05YWl6YCjtHMvUkZmeNaPKLKI/wBPPZSDyyvPP2E4y0FN1z/ZFcJRGXSJ4+0+rqv0p4RlccJCbSmP997ovEZjez8HbI9WeUBhIjD/j1U9Sh8EbQwAe0IjyGJM59TDI82Wie8UxalCL1AaicBud2+7Cya50XbH07+761DMjB1Bw==;r7dc6JjTUyRhXUHSNj73xg=="
 ---

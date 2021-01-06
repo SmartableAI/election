@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lara Trump: Election objections are about counting 'every legitimate vote'"
+    excerpt: "Trump 2020 campaign adviser Lara Trump said Tuesday that the planned GOP objections to key state elector slates in Congress' Wednesday joint session are not intended to overturn the election result."
+    publishedDateTime: 2021-01-06T01:57:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F7RIAqs1z7o/lara-trump-election-objections-are-about-counting-every-legitimate-vote-and-probing-affidavits"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-election-objections-are-about-counting-every-legitimate-vote-and-probing-affidavits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-election-objections-are-about-counting-every-legitimate-vote-and-probing-affidavits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548d4a6b-146f-4d2d-a5ed-7fd044b1f288/1f38e083-cc1d-4f47-aa0e-aa223ce8a88c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden trails Trump, Obama and Bush in dragging feet to name attorney general pick"
     excerpt: "President-elect Joe Biden has parted ways with years of presidential precedent by not yet having picked an attorney general as the election year comes to a close."
     publishedDateTime: 2020-12-31T00:42:30Z
@@ -252,6 +268,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pro-Trump attorney Cleta Mitchell resigns from firm following explosive phone call"
+    excerpt: "A GOP lawyer affiliated with President Trump, Cleta Mitchell, resigned Tuesday from her law firm following the Jan. 2 call where Trump asked Georgia officials to \"find\" him votes to beat President-elect Joe Biden."
+    publishedDateTime: 2021-01-06T02:05:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CMatfArTC4I/trump-attorney-cleta-mitchell-resigns-phone"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-attorney-cleta-mitchell-resigns-phone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-attorney-cleta-mitchell-resigns-phone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd6d50f1-3621-492f-bc68-81e70496213d/3379f4c4-a1e1-49f1-a670-2194df04623e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -64,6 +64,22 @@ related:
         width: 783
         height: 545
         isCached: true
+  - title: "VP Mike Pence said to have told Trump he lacks power to change election result"
+    excerpt: "Vice President Mike Pence told President Donald Trump on Tuesday that he did not believe he had the power to block congressional certification of Joe Biden’s victory in the presidential election despite Trump’s baseless insistence that he did,"
+    publishedDateTime: 2021-01-06T01:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pence-election-results-20210106-36waujzejrh5rb5jmiwyjugn2q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pence-election-results-20210106-36waujzejrh5rb5jmiwyjugn2q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pence-election-results-20210106-36waujzejrh5rb5jmiwyjugn2q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 151
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bXb8f7jRLtZVQNEmXaX5Z5SmeQw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X5FPICJBHVB7TGHYQRATV7SCPA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Judge Denies Donald Trump's Request to Decertify Joe Biden's Win in Georgia"
     excerpt: "Governor Brian Kemp and Secretary of State Brad Raffensperger said in a court filing that Trump's requests were \"absurd\" and that his lawsuit was the result of a \"manufactured crisis.\""
     publishedDateTime: 2021-01-05T18:51:00Z
@@ -604,6 +620,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
+    excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."
+    publishedDateTime: 2021-01-06T01:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5CL3QSODQI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 969
+        isCached: true
   - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
     excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
     publishedDateTime: 2020-12-30T14:52:00Z
@@ -683,22 +715,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Congress is set to confirm Joe Biden's win over Trump despite GOP pushback. Here's what to know"
-    excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden's win over Trump."
-    publishedDateTime: 2021-01-06T00:54:00Z
-    webUrl: "https://www.cnbc.com/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/05/what-to-expect-congress-confirm-biden-win-over-trump.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 128
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106789979-16050180472020-11-10t140746z_1683144574_rc2e0k96i6do_rtrmadp_0_usa-court-obamacare.jpeg?v=1605018077"
-        width: 2908
-        height: 1743
         isCached: true
   - title: "Biden calls Trump pandemic effort a ‘travesty’ and vows extensive federal response to coronavirus"
     excerpt: "As officials warn of a post-holiday increase in covid-19 cases, Vice President-elect Kamala Harris became the latest high-profile politician to be vaccinated."
@@ -1363,6 +1379,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "In Georgia Senate runoff, most GOP voters say Biden stole election from Trump"
+    excerpt: "The poll of voters measured how deeply President Donald Trump’s false claims of fraud and misconduct have resonated with Republicans in the state."
+    publishedDateTime: 2021-01-06T02:20:00Z
+    webUrl: "https://www.al.com/news/2021/01/in-georgia-senate-runoff-most-gop-voters-say-biden-stole-election-from-trump.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/in-georgia-senate-runoff-most-gop-voters-say-biden-stole-election-from-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/in-georgia-senate-runoff-most-gop-voters-say-biden-stole-election-from-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 102
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N7P2TTXLGNBSPNBETRTAED2P5A.jpg"
+        width: 2722
+        height: 1810
+        isCached: true
   - title: "Joe Biden on his 100-day COVID response plan and speeding up vaccine distribution"
     excerpt: "President-elect Joe Biden spoke Tuesday about his 100-day plan to turn the tide against the coronavirus pandemic. He said he would focus federal resources on speeding up vaccine distribution, which is falling behind the Trump administration's promised schedule."
     publishedDateTime: 2020-12-29T21:26:00Z
@@ -1548,6 +1580,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Congress Is Set to Confirm Joe Biden's Win Over Trump Despite GOP Pushback. Here's What to Know"
+    excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden’s win over Trump."
+    publishedDateTime: 2021-01-05T20:27:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 78
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/106789979-16050180472020-11-10t140746z_1683144574_rc2e0k96i6do_rtrmadp_0_usa-court-obamacare.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-03T19:54:00Z
@@ -1675,6 +1723,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/us-president-donald-trump-is-to-campaign-in.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Melania Trump Will Divorce Donald Before Summer And Date Business Figure, Psychics Predict"
+    excerpt: "Melania Trump will divorce her husband Donald Trump and date a prominent business figure, according to a panel of psychics."
+    publishedDateTime: 2021-01-06T01:00:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-will-divorce-donald-summer-date-business-figure-psychics-predict-3115166?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "President Donald Trump, in call with Georgia secretary of state, makes another failed attempt to overturn loss to Joe Biden"
     excerpt: "Republicans seeking to disenfranchise millions of voters and overturn the election. But now, Trump wants more votes to be counted. Or, at least, he wants the Georgia count “recalculated.” During an hour-long call obtained by The Washington Post,"

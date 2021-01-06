@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fis
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-vetoes-calif-fishing-bill-seafood-trade-deficit-75008402"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
+    publishedDateTime: 2021-01-06T02:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-tech-idUSL1N2JG2FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
 
 secured: "yr00/a8eTAudwG3qw/MuaW8onbiXWdLkkh/AMBCFxg5RjgPL6NJwYk8B2hCClkEs7L5AUdbHAF1XPBkQ8YuvBffztrl4NcuhOASdEuNJ9GdrCoUG5WzZ6oTlrrVA9SfNRy1YTOii2epU56HsVsjK+6f8zIvckCNnS7VDS0oKEryZcdMBhIHz3s/AotjFZryoPzYfXlLMHpq1HN/nofZxLKYABiPQwzvOfsWigl9Mu9o5P9vdwQGg9NODbfTNl/tER3Qnu2AQX0UAce87RVKiEaXnHzub56vLSC3vB1B+0+7DRt51ZkmfgU+qyv6XyTiWc+6F9n96g6bqp89X+nzD2DZ+vjNP8kGwr3F2c4s76hFZwltvcwb0oX73mPmnU8Z6o1q3CVNUx5elhbp5Yb4h0cTNBnCbf2feZlRYGUUdqNuf+8hAHDyGi7LRaBeqilmsv3+Ukf1Q1wSKtf7GWogCBZts6XMRM5fYWTRXn7naReroCWXu2V/FZvnRUOsAamTHkI9ZCZB5LV4S3K2Nsqjbow==;TWWs3gQgSq93aQKj5Kz9Cg=="
 ---

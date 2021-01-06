@@ -173,6 +173,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Newsmax, OAN vie for Trump loyalists as Georgia counts votes"
+    excerpt: "As Georgia officials began tallying votes on Tuesday that will determine control of the U.S. Senate, upstart cable news networks promoted by President Donald Trump competed for new audiences."
+    publishedDateTime: 2021-01-06T02:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-conservative-med-idUKKBN29B056"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29B056"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29B056"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546649664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH040K6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Newsmax, OAN vie for Trump loyalists as Georgia votes"
     excerpt: "As candidates face off in Georgia on Tuesday in contests that will determine the balance of power in the U.S. Senate, another race is underway between cable news networks catering to conservative audiences."
     publishedDateTime: 2021-01-05T16:13:00Z
@@ -477,6 +493,17 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "GEORGIA TAKEAWAYS: Trump's Long Shadow Not Fading Yet"
+    excerpt: "Ballots are still being counted in the Georgia runoffs that will determine control of the U.S. Senate and the scope of President-elect Joe Biden’s agenda."
+    publishedDateTime: 2021-01-06T02:56:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/georgia-takeaways-trumps-long-shadow-not-fading-yet"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/georgia-takeaways-trumps-long-shadow-not-fading-yet?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-05/georgia-takeaways-trumps-long-shadow-not-fading-yet?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "74OJis3qCq+KFMcaAZLyZTvuKizMRdWwxnyTUmM6RGi9oNvT8yZe+LGvGqjxukzVBcAY7D9rS441wU8rslN5lbI2lbTdCLBntqLKNJftw0SUlh5v728GWo4Cw9MqbK++1UEX9fx8EdYexbBEg1lM+sIYDA5cGsx37spHaj9tHs20pO0TXdq8YZqZTRqmy5aV9uhYAm79XrBqTuzduQ+zrOFCflBSL4jQ0MniNwUA4uJguRsdzqrOp8OrdSQbm+w05insnfrhI8mVTlZiJs13b3FqnnT0Q3YWG6WHCE7fY/324yUp4hB6Eix0lJALvCLeTgxUrs4r1ek6bv4JLAOwhRxBbesXe88CK1TO6KyYWkVLq4+aGuaaZEZVdnFyX0C+NsqWDNoD3mjjN7kT+OdJ4IYw/MKLZfEk0D089rPy2klMhZ7Bzfiv4hexz02oIe9NtPdzx1EXPtHlTfqaolyRvBKJRtpyl+gG3xmUP597+uUufoX/a2ZIzaF4BHo7VJO0HDFoS8MosDBzhKEIgRx+2w==;VSEbd8JoVAOJWjHIARz/Tw=="
 ---

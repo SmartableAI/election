@@ -79,6 +79,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
+    publishedDateTime: 2021-01-06T02:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-tech-idUSL1N2JG2FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
 
 secured: "hywnEWsl9Nb74bbCMwwNB6PNsHMq2X2qSXtMeo/fs/reM0VUEB5/rvx4EMhu13va92ZHz2+oyW5keQKgChVlINa6xUfT0s659B6f3JUUbEpWOyc6uUYLs1jvp8et3o1MwJO62mk2tOg7+kWtGHJGlvdfluicI1AyEM8BqY7IP39feobiUBfjTuBz4qW/iUtcuYnxuXtNX93adGcqAtexGTYmivTwKHReGiSasKm1LaYCNmKQttLMULmooV+sGD+YswBdaYHELiy59IK3p57lzommnX8EI4jEi8TAL0u29QMZyKlIzQN5n3kYU4FtQEzQy/ODYR3IUIS7I2v/lRUW7QKyAEqsSzU/MTpEIX0Zkkk=;TJ+m1G4g5j9/q8Ic+a7pjg=="
 ---

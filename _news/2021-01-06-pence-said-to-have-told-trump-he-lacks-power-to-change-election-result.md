@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence informed Trump that he can't block Biden's win"
+    excerpt: "Vice President Mike Pence on Tuesday told President Donald Trump that he does not have the authority to block certification of President-elect Joe Biden's win when Congress meets to count electoral votes, sources told CNN.\n    \n"
+    publishedDateTime: 2021-01-06T02:56:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FsCtMr--pds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/mike-pence-donald-trump-congress-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/mike-pence-donald-trump-congress-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 215
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105143554-01-trump-pence-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence faces pressure from Trump to thwart Electoral College vote"
     excerpt: "Vice President Mike Pence's four years of faithful service to his boss, President Donald Trump, will culminate this week in a ceremonial act he's under increasing pressure to thwart.\n    \n"
     publishedDateTime: 2021-01-05T16:26:26Z
@@ -640,6 +656,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Attorneys for woman on death row head to Supreme Court, pleading with Trump to read clemency petition"
+    excerpt: "Attorneys for Lisa Montgomery, the only woman on federal death row, said on Tuesday that they plan to go to the Supreme Court after losing their latest legal attempt to stop next week's execution.\n    \n"
+    publishedDateTime: 2021-01-06T00:44:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mC_WoWopl6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/lisa-montgomery-clemency-scotus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/lisa-montgomery-clemency-scotus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130511221512-lisa-montgomery-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud.\n    \n"
     publishedDateTime: 2021-01-03T20:13:04Z
@@ -944,10 +976,10 @@ related:
         isCached: true
   - title: "Pro-Trump Protesters Gather Amid Warnings of Violence"
     excerpt: "With a grand stage, video monitors and a planned presidential appearance, pro-Trump demonstrators will condemn Joseph R. Biden Jr.’s victory with a planned show of force."
-    publishedDateTime: 2021-01-06T00:11:00Z
-    webUrl: "https://www.nytimes.com/2021/01/05/us/politics/pro-trump-protests-washington.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/05/us/politics/pro-trump-protests-washington.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/05/us/politics/pro-trump-protests-washington.amp.html"
+    publishedDateTime: 2021-01-06T02:31:00Z
+    webUrl: "https://www.nytimes.com/2021/01/05/us/politics/dc-protests.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/05/us/politics/dc-protests.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/05/us/politics/dc-protests.amp.html"
     type: article
     provider:
       name: New York Times
@@ -957,6 +989,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-protests-1/05dc-protests-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump privately admits it’s over, but wants to brawl for attention"
+    excerpt: "To one person, Trump even confided he was “just disappointed we lost.” But he still maintains he would have won a fair election."
+    publishedDateTime: 2021-01-06T02:05:00Z
+    webUrl: "https://www.politico.com/news/2021/01/05/donald-trump-election-challenge-455233"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/05/donald-trump-election-challenge-455233"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/05/donald-trump-election-challenge-455233"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/77/b2/b1cc7a1b46e58de123a857286be7/20210105-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
@@ -1123,6 +1171,6 @@ related:
         height: 773
         isCached: true
 
-secured: "GrwR7bcL86BH3maS/AEd9fS/uj3hLCbWvjiaVmvvNkaHsvY4Mv9sc3+U0F+egMVr/BfV3F0CJSQTBfvsjl29bEerpNejmncHQ6nkVrWzVyA4x4vz9lFQSqW6PuvOZXmXMy6kNEZ1qwmz54CakGPzjuD751dFarKmM0MvAsxOBuKvNSq1zcsdeO50/1ENmzU+ipdS+Bm7lHDWXWf5VfP80tVjYoo2hRWdoRXYr3fEp2mg4XUvxR3Pmu0ye6W8wpX/UtMU0i50EnzZEIIiLLkU+LJD4o1k/nLDIdNIi61g5p2Nfgf8DqRFWxm9XF4k3NnvUAGSTX4Dc+jAIbPKn3zDKZmMM/niLeCsIHIABxIVgNI=;ldIFlKrwZCjTUmRD2ROEiA=="
+secured: "m94/dXEFz0+fY/L7DuAMnICysngWdVSK8NzolofPtNETLveTfialj0KTu1qgOuzSoE5GZfqf4ksG6IFILUtUjsIUXczVOrSbtvMpu8xopeXaXVR0IEkTDAlia10iLcaqGlsKaJoDC26U+K0s47UoGY5pYqTnrVOWo8tewxrSIFPOZz+j+jUKMHaMItSPqrPthW3650Icauo8qhePkKJ+0WA4dEUbwkW0NStPf+BmngUYgNCmHctuhnd9ssfEuQEZJeHxkCMVvq/0M79DFKnh0sRS2EJUZpe6fQK3jxbladXAye9YTWZl5W6/0rneggUyhBu/AAR9JO7k0nliVj6SaTvIiaQ2J4Mmu0EhEEj4qR6RK0jL5i9p8HQ+vvTfSbznxYkodhoY8wf2hGBGdMHQTwuZFKQTavLpGG7I+TDUO6HWKsQELkw6rGxeggb98AGEUeIOvcvDI16LPpkRJVKIKJ8tlCGOkIDr0ehwniTPtOkV+iz++f93dQsWglV80gnHW/UEQEt/6MijbAXyTqYM+A==;y3NnG262OvxymnMT0fe81A=="
 ---
 

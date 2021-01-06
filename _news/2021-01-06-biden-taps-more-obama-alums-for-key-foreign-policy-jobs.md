@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/biden-state-departm
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden selects three Texans for White House staff"
+    excerpt: "Three Texans are. President-elect Joe Biden and Vice President-elect Kamala Harris announced the appointments Tuesday of three Democratic operatives with"
+    publishedDateTime: 2021-01-06T02:24:00Z
+    webUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 75
+    images:
+      - url: "https://thumbnails.texastribune.org/lizlcxbguJPX5REvUaO4EjQslQI=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d73f7ca54a1e8d5ef4ee5cb17ce7d8cc/White%20House%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
 
-secured: "A7hxps8zpG8n4uq4w1P8EwLzUTtLFKJ8fCPQc9YQSO2hX4v1I/dxgtdjQck2MTLKEJGpO1sBCiwkFYTl8SictZfZvlJvf5k6Jz5wMQPp9s2yjS9yowxrNEcWCz8CyplstEew1hS00+cNtCaBdoagcqhW63UYfSl4HwaxtVTBzlEvS5F1f6e0WLyGvVitGhoPKhSmvr61YwCcSmPMMTn15xecO+SZGRl2Ws8E/svtU0Qf+rXpNQqprQeLBjNmgEHvHEdWWTMrtuI6V+EG96Kou6UJDVU5or1pdhYqE9dGfjme3d1HvEgawlPufndcVmMB7Jr7W37I4VTpvjBHBtAsPEdbG9k0xgh8eQdL5shemJs=;cBdUylyFwUJV/PrZpJU6aw=="
+secured: "6IsM7WxQSRCBn+ahqHg9je4WWA1yqyoNl8bA7m3aDae6cBzX2Of/rdQeZ66L4UX0wTZXNEEvtyTJMGY4CzbLIJg9PljzO+mMm63d3O5Kh5RszLvQv4URs4F7hVMTAhOVmPD4HPqdp8d4ZhmAuhEBR+GHO2uB6RdOINzV2griCmyO53O34rYBMIi6c+euOfBO3J1fyvaTLFM7xxlA95g/nkkRGOGeQ7/8SGuE4B1qCBaD370gfaD1A7Iuyd9IxcN46OgSIPiN9LwaUtHkkI5ShN0cYYPXKGXSJ7+Xb/1XMK5c9N+TDDnNElVPCMGv3Wn9fbJyXyiDlyuEJvjFWIR+R7k5e1BAiZEE2CYIbigdwdh8g5svwOpFJXA3Og80vti/dmo74WGmI++grf/JezG3pLeBQacIphRH8IvakPLgvgmNPD+3Ccumb5SqJybxXdrFSHcIb8AU8OvGVKhs4lPvTiEtG399zVoHhxMdWx9hxHUSNWcxs+PZ+4gMbYagMNCDe6nwehciFVTsxJF60kWDqw==;buH4OswlqNfrPEru3ePczw=="
 ---
 
