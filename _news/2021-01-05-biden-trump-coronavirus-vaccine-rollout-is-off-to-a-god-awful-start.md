@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
 type: article
 quality: 190
-heat: 550
+heat: 530
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9956953f-65b9-4db8-8dc7-32efd1a32d43/ae7c741c-dcaf-4465-80b1-fde64c9eb4d4/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
-    excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in November's presidential election."
-    publishedDateTime: 2021-01-06T05:40:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ve3gXlncsFo/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden says Trump administration’s plan to distribute vaccines falling ‘far behind’"
     excerpt: "President-elect Joe Biden is warning that the Trump administration’s effort to vaccinate Americans against the coronavirus “is falling behind, far behind.”"

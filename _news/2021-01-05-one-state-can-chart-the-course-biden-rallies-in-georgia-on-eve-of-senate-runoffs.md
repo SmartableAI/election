@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runof
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
 type: article
 quality: 119
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-04-2021/t_9a6b425de37e4e7ca9a643b4e00cfd85_name_ba017554_4eda_11eb_a1f5_fdaf28cfca90.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 988
+        isCached: true
+  - title: "Jon Ossoff, who just won a key Senate seat in Georgia, is the youngest Democratic senator elected since Joe Biden in 1973"
+    excerpt: "Joe Biden was 30 when he was elected to the Senate in 1973. And on Wednesday, Jon Ossoff of Georgia, 33, became the first millennial senator-elect."
+    publishedDateTime: 2021-01-06T00:17:00Z
+    webUrl: "https://www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5ff585cc6d61c10019ccddd2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."

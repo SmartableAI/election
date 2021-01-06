@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
+    excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in ..."
+    publishedDateTime: 2021-01-06T05:54:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0151998b-fe68-4078-8ab2-1e166a4c094a/fbdd86f6-3449-4cc4-b51d-25e1da7f2389/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "China says Biden represents 'new window of hope' for relations with US"
     excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
     publishedDateTime: 2021-01-05T13:43:00Z

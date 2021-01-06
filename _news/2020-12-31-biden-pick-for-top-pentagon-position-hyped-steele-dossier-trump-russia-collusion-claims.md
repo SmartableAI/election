@@ -191,22 +191,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump renews pressure on Pence, says if VP 'comes through' and decertifies, he will 'win the presidency'"
-    excerpt: "President Trump early Wednesday put the pressure on Vice President Pence, saying that if he “comes through for us” and decertifies the Electoral College, he will “win the presidency.”"
-    publishedDateTime: 2021-01-06T06:14:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4ZeJL5EJM/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Democratic lawmakers want criminal investigation into Trump call with Georgia election officials"
     excerpt: "The FBI has confirmed to Fox News that it has received a letter from Reps. Ted Lieu, D-Calif., and Kathleen Rice, D-N.Y., which calls on Director Christopher Wray to open a criminal investigation into President Trump's Jan. 2 phone call with Georgia Secretary of State Brad Raffensperger."
     publishedDateTime: 2021-01-04T20:29:21Z
@@ -380,6 +364,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/trump-in-georgia.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump posts letter from Pennsylvania Senate encouraging Electoral College certification delay"
+    excerpt: "President Trump on Wednesday shared a letter from Republican members of the Pennsylvania Senate asking U.S. Senate leaders to delay certification of the Electoral College's 2020 election results."
+    publishedDateTime: 2021-01-06T12:52:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rk-LohdDjiQ/trump-letter-pennsylvania-electoral-college-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-letter-pennsylvania-electoral-college-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-letter-pennsylvania-electoral-college-certification.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/13877d8a-AP20365749407878-e1609436276614.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -572,6 +572,22 @@ related:
     quality: 133
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72a43f23-ee3e-41e0-9f05-479513300976/dba3373d-3d9d-43da-89c1-ee81d2e9fdcc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump renews pressure on Pence, says if VP 'comes through' and decertifies, he will 'win the presidency'"
+    excerpt: "President Trump early Wednesday put the pressure on Vice President Pence, saying that if he “comes through for us” and decertifies the Electoral College, he will “win the presidency.”"
+    publishedDateTime: 2021-01-06T06:30:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

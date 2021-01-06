@@ -57,6 +57,22 @@ related:
         width: 1484
         height: 988
         isCached: true
+  - title: "Jon Ossoff, who just won a key Senate seat in Georgia, is the youngest Democratic senator elected since Joe Biden in 1973"
+    excerpt: "Joe Biden was 30 when he was elected to the Senate in 1973. And on Wednesday, Jon Ossoff of Georgia, 33, became the first millennial senator-elect."
+    publishedDateTime: 2021-01-06T00:17:00Z
+    webUrl: "https://www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5ff585cc6d61c10019ccddd2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "RUiKXMTrwGQH31i6p5yflmhvDGq4zM6HG1Suh4qHUrMq8PChJZz4NyouPrqiT7ILNKCFwY2uSaKydGa+Ievu975u9+sY6k42jQjxxf/TOW2d0kH87bXkFZ+THlv0jRTDe/SDmazpozl/AgVZh2y3yfRuaTMwE49tTA9ste1vB4ZyJ+uXEkp980Bcdc3P4oFZL40lIlFp8BLvOdS4mMiJGimAqpNRPsXcWu/kw2721wN5p5hnzR9PHCV6TNCjRaPVpYw/ZeGmvOS9Lj6Eef2kZCfcDLt9lwgBLNWnmO4Cb+b65tb5GbvGEPkgdxqEeN29xanieE3sraCuQ6cpVpIasKiyDMRBPVNP4h+6Jj/cONBsPx/BqdwiDPPjj72Qw2s/aPcuT6T2bHF8aEoemFD6AFcaohJBLbmReohr6CSWcuJbjqFjvFxX1mSAuX7l3GCs47HtdEjIoVrRwTKIt9l+y/EN65qhkOUPWQTeYlvOPDQapdyWvUWmEqo3UmVwuzEoITvh/wEVvYtcYUreg/8Txw==;ScVLQjwmvGc7Z9tGOqEgkw=="
 ---

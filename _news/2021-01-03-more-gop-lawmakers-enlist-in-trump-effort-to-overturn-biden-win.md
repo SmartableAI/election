@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump claims he and Pence agree on VP's election authority"
+    excerpt: "The president is decrying reports that the vice president told him he lacks the authority to alter the election results."
+    publishedDateTime: 2021-01-06T12:25:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-pence-vp-authority-electoral-college-vote-count/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pence-vp-authority-electoral-college-vote-count/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pence-vp-authority-electoral-college-vote-count/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 165
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/09/1f80376f-ad4c-468b-b0cc-b5c73eb0c739/thumbnail/1200x630/4b82938d8a13f6858208a5114bcab7ea/pence.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump keeps pressure on Pence to reject Biden's win before Congress Wednesday"
     excerpt: "President Trump is keeping pressure on Vice President Mike Pence to reject Joe Biden's win, but those close to Pence say he's expected to stick to his scripted role."
     publishedDateTime: 2021-01-05T20:49:00Z
@@ -2133,6 +2149,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/01/pentagon.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
+    excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
+    publishedDateTime: 2021-01-06T12:34:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lm1Un_uus5l4A35JzI5Wi1TBDus=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GC53U2I2QFG2VBFDHI3MEQPSCQ.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
     excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."

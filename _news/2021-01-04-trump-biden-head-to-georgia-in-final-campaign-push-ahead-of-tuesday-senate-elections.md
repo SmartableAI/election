@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP Georgia election official: Blame Trump if Perdue or Loeffler loses"
+    excerpt: "If Republicans lose in Georgia's Senate runoffs, one of the state's most vocal Republican election officials said, the blame will rest squarely with President Donald Trump. Speaking with CNN's Amara Walker on Tuesday evening,"
+    publishedDateTime: 2021-01-06T12:23:00Z
+    webUrl: "https://www.politico.com/news/2021/01/05/gabriel-sterling-blames-trump-455279"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/05/gabriel-sterling-blames-trump-455279"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/05/gabriel-sterling-blames-trump-455279"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/49/08/27f76bad48c5b6ca3dde087de7f7/210105-gabriel-sterling-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
     excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."
     publishedDateTime: 2020-12-28T15:53:00Z

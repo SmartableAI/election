@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Comey argues Trump shouldn't be prosecuted after leaving Oval Office"
+    excerpt: "James Comey, the former FBI director who has emerged as a critic of President Trump since his firing, writes in his new book that the commander in chief should not be prosecuted after leaving the Whit"
+    publishedDateTime: 2021-01-06T12:45:00Z
+    webUrl: "https://thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office"
+    ampWebUrl: "https://thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/comeyjames_trumpdonald_041618gn4_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
     excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
     publishedDateTime: 2021-01-06T09:15:00Z

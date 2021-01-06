@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-geor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-georgia/index.html"
 type: article
 quality: 198
-heat: 698
+heat: 718
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439325/210104-georgia-runoff-mc-1137_78e072abc3712a94b802e35383c543ba.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "GOP Georgia election official: Blame Trump if Perdue or Loeffler loses"
+    excerpt: "If Republicans lose in Georgia's Senate runoffs, one of the state's most vocal Republican election officials said, the blame will rest squarely with President Donald Trump. Speaking with CNN's Amara Walker on Tuesday evening,"
+    publishedDateTime: 2021-01-06T12:23:00Z
+    webUrl: "https://www.politico.com/news/2021/01/05/gabriel-sterling-blames-trump-455279"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/05/gabriel-sterling-blames-trump-455279"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/05/gabriel-sterling-blames-trump-455279"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/49/08/27f76bad48c5b6ca3dde087de7f7/210105-gabriel-sterling-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Georgia returns to spotlight after Trump ends coronavirus standoff"
     excerpt: "The president will hold a rally for the state’s Republican senators one day before the Jan. 5 runoff elections."

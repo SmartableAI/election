@@ -2,13 +2,13 @@
 category: news
 title: "Trump renews pressure on Pence, says if VP 'comes through' and decertifies, he will 'win the presidency'"
 excerpt: "President Trump early Wednesday put the pressure on Vice President Pence, saying that if he “comes through for us” and decertifies the Electoral College, he will “win the presidency.”"
-publishedDateTime: 2021-01-06T06:14:28Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4ZeJL5EJM/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4ZeJL5EJM/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
+publishedDateTime: 2021-01-06T06:30:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
+webUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
 ampWebUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
 type: article
-quality: 183
+quality: 133
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -381,6 +381,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/trump-in-georgia.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump posts letter from Pennsylvania Senate encouraging Electoral College certification delay"
+    excerpt: "President Trump on Wednesday shared a letter from Republican members of the Pennsylvania Senate asking U.S. Senate leaders to delay certification of the Electoral College's 2020 election results."
+    publishedDateTime: 2021-01-06T12:52:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rk-LohdDjiQ/trump-letter-pennsylvania-electoral-college-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-letter-pennsylvania-electoral-college-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-letter-pennsylvania-electoral-college-certification.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/13877d8a-AP20365749407878-e1609436276614.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -766,6 +782,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "bqoyu69boMYTr+Lzcxlv9u3twWG+ACJUq+/nV8tvWhEIOyeIaUeuzWlUy0EYtlaXzEvKVg45B7arvdDplPBzEpbKsqPhu6Eu19IwIAGdcRJ0ZRZ7OU60sBPJQ0a1Fvm7LTHnLDz/LmzSsnQGEQJYmIIqBGOMKBECds8rGr4HUwrMy4GD6FivdCmxxTQ/iX/XNunmv6Ow2/+3ZinxIuCuO190w3iJAwdFZLSvMzZPRL+rhT/LxBgtS7VJwOmhiOI6fhzxbJ68T1M4PBikzBKp0xLiuMyvn4A566up94GJq7Lm1K3lcyCbtWqzbkgiG1UUBFkWY4Jk3CMdvXH7MxZDfGw+GnXnU8hwJUgl4SejkY0=;Qp7WmXjl0EslrYiJEPr8Cg=="
+secured: "ThdcdnFOGqVqn27tBJqX4h0zC/FjTcA2sWJr4Oi0ZIkqVMtbpzC4tGwIZw5y42h/D6+4sk6J54k/pKiXtzcj1dhPG8y4rrvesSUFitdhs935wRLVnT4iqlUPFxZx1xrZKNprFlz064w+tSRuMrYvUGtN4PdgDLwvLYI7tV5YxOIGXDPAan6IEwbh7Ijq9e5BeRKgL+ddnnYX9HowGPRcuTQv4QmIHgx6BTFs3TmusfXGEEROwfX33rcZToEfb128xe52U2vYYF+QlBapkMdlPA4oK1PMNO3OIxC4ln3mJKyDDbGDukR+eUqTaReCZziaiz7SK6AA1IKXW3xCLiVFo66nROZauLcmM28YU8KfGZQ=;OdorMhuQ9sE5pA3c9ftf4w=="
 ---
 

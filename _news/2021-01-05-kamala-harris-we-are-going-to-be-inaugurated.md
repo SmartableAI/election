@@ -2,17 +2,17 @@
 category: news
 title: "Kamala Harris: 'We are going to be inaugurated'"
 excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
-publishedDateTime: 2021-01-05T10:39:00Z
-originalUrl: "https://www.freep.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
-webUrl: "https://www.freep.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+publishedDateTime: 2021-01-05T10:34:00Z
+originalUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+webUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -51,6 +51,6 @@ related:
       domain: c-span.org
     quality: 60
 
-secured: "Sf7VarA5W05BZcSDXxzQ1xCH/fvB/U5W18d+dWMpSSaxK/taFo8kzUgjJ+wqkJYudkb5En9Oatrzrg71ExkFuTGDesiZL0E7beOTqXFA1Y753xYjUOpYPNcBGLjHlbyOdk6JeoSwd7wUBfzaLTSxea2QVJrs2Z2BmQZBn6gUd2IwjxapHw8i9xV7VvDUCu0ntuxISB62LFB56YS+CaKuIfwkSqJPmdcL8UOPDZqjeZN55CxN4Q6TSfUTCeOB2okFdl3PLkQG4Nc7GFAWXjsziAD+hHRwEiKuKQrKv+BHqE2siW2GsMynGCJeD3doub+exzNrtXs4a/lYiFUsMETxuhNOb2D2UbSZu0MZD+3yvus=;bX6pLtWlyDElgcaaikLyYA=="
+secured: "DNmu9LwiVn51nknCDu1JbXiI+6RHONneKtdyVfviOdkUTIcTG7NUkL+dT1gAavo+yEiELmHJq7uPvEM0AZDimST9UPaQyFaZ9eVbY1HO1MeVLLWbQPIhz9G+KP5S7GB4fGzvmXjLxKn9Dwelxe+C/wFH5+Y/DmT2a/34Mw7Zh55VdHf88Equ9TSOv9ymiRWmQ25O3ZhR3S19GNff0AWlHbbTJ0gf+1zJ9jv5a8uFFSWUU/qCkWZtFuIcT0E0TP6c2GjcSR2e2INx/N03PmgRBMXBop4scjTvZylrAc1ufNzl1vpcUBqIJOFTXTrZvAAOG//ZOT33OsfjZhh1NkA4hIWXgKBZxTUnRIeVSJ1rONE=;vwVwpFxouHKLmnY9AbXriw=="
 ---
 

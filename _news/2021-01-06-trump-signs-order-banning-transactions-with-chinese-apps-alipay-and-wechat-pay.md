@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp"
 type: article
 quality: 121
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump bars U.S. transactions with eight Chinese apps including Alipay"
+    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay mobile payment app, the White House said, escalating tensions with Beijing two weeks before President-elect Joe"
+    publishedDateTime: 2021-01-06T12:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A2PA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546737122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
+        width: 815
+        height: 545
+        isCached: true
   - title: "Trump signs order banning transactions with eight Chinese apps including Alipay"
     excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
     publishedDateTime: 2021-01-06T00:44:00Z

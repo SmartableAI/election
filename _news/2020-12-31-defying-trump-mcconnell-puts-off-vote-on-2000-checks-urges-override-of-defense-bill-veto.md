@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Comey argues Trump shouldn't be prosecuted after leaving Oval Office"
+    excerpt: "James Comey, the former FBI director who has emerged as a critic of President Trump since his firing, writes in his new book that the commander in chief should not be prosecuted after leaving the Whit"
+    publishedDateTime: 2021-01-06T12:45:00Z
+    webUrl: "https://thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office"
+    ampWebUrl: "https://thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/comeyjames_trumpdonald_041618gn4_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "James Comey: Donald Trump should not be prosecuted after leaving office"
     excerpt: "Trump has insulted the FBI director he fired and threatened jail, but in new book Comey says next attorney general ‘must foster trust’"
     publishedDateTime: 2021-01-06T01:00:00Z
