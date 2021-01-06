@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-ina
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
 type: article
 quality: 167
-heat: 227
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
+  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
+    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
+    publishedDateTime: 2021-01-06T03:25:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
+    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
     excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
@@ -80,6 +80,6 @@ related:
         height: 320
         isCached: true
 
-secured: "1MrPE/ePjHpImOdZVB05yaAn+u22nmRadsG81hHKEQFND5KMNw0Majvm2OtSGCzYp++k3WjmzO+ghZ5CYo8GO1ryPCnpVqe4jL5gvKSm9VDLb6DBRoEhqKclavZlcdzHrX3emVT0D/LZDJIP1m8gTnklydkJw0HGPH25y6BhYmU2eFXOXpMTo1WYNnIiaQxuCwS6+n6REfwpcsWbUcTQQtgZoMJL/ICPFjSwNb9OF6V3YYIc0Uja5nnvjEI6v6LSPkae0S3GixxP6d1rZc7fXRtNsknS/o6UbpipCgk/T1LB03Rt9AfnDFJ35WJrG0EZ4qH5Wj+lf72W8/lvF8iTYOCCXvv/JAqhADKxA+r8cKw=;KasYqoHsrjSg2d2b+zmlPg=="
+secured: "/fiH2b1kVtiS3RWo2dB+JrwrV56shJJHN9zXcbV2KKJKkaibht35h5A/cjXuvLpTQJuogLy02BBMhTGSBkjcWA7kzVl94R/ruKl5/G1f8Zb5p41t0LhIQbdEZV6nDNw7YIHD8VAjd4rlGupgWE3MnEdk4lHPpAsnVpieSuCND4xzJ2NbUi7wXsYpqBMC96JnZ+v/bMMU0TlvbisA7xzdm2mVk7JaIaVk6Xw0NV/M9a1jhxAwNxTlV0ywrkatL0h9zbx8Sz2QxjQ4R8WXDZXFBuIGVFyVvyY2m0LtHLbvyP0FLMVhavbMxKpeI5KP/FIzV3qVByzBvhimB15GtfDIeHVJ/ksdoQ96IAIg0dnF15U=;NJVZsoqpIY+F1HtkCwMWPw=="
 ---
 

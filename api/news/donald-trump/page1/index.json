@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-signs-order-banning-transactions-with-chinese-apps-alipay-and-wechat-pay.md",
+      "title": "Trump signs order banning transactions with Chinese apps Alipay and WeChat Pay",
+      "excerpt": "Taking his campaign against Chinese technology down to the wire, President Trump on Tuesday signed an executive order banning transactions with a number of Chinese mobile apps, including Alipay and WeChat Pay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKURI7SPWYI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp",
+      "publishedDateTime": "2021-01-05T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-signs-order-banning-alipay-and-other-chinese-apps.md",
+      "title": "Trump Signs Order Banning Alipay and Other Chinese Apps",
+      "excerpt": "WASHINGTON—President Trump signed an executive order banning transactions with Chinese payment platform Alipay and other Chinese apps. Write to Andrew Restuccia at Andrew.Restuccia@wsj.com and John D. McKinnon at john.mckinnon@wsj.com",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
+      "originalUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281098/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "publishedDateTime": "2021-01-05T20:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-white-house-denies-reports-trump-will-be-in-scotland-during-inauguration-after-scottish-leader-warns-golf-is-not-essential-travel.md",
       "title": "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel",
       "excerpt": "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,",
@@ -10,7 +119,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -218,7 +327,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2462,
+      "heat": 2522,
       "tags": null,
       "images": [
         {
@@ -845,7 +954,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/532595-biden-during-georgia-rally-blasts-trumps-whining-and-complaining",
       "featuredContent": null,
       "highlight": null,
-      "heat": 760,
+      "heat": 780,
       "tags": null,
       "images": [
         {
@@ -1443,106 +1552,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
-      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
-      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "publishedDateTime": "2021-01-02T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-on-the-anniversary-eve-of-the-drone-strike-ordered-by-trump-that-killed-its-top-general-iran-reveals-its-plan-to-enrich-uranium-to-20-purity.md",
-      "title": "On the anniversary eve of the drone strike ordered by Trump that killed its top general, Iran reveals its plan to enrich uranium to 20% purity",
-      "excerpt": "\"We are like soldiers and our fingers are on the triggers,\" the head of Iran's civilian atomic energy organization said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
-      "originalUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff09eeea18a450018cb684d?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
-      "publishedDateTime": "2021-01-02T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

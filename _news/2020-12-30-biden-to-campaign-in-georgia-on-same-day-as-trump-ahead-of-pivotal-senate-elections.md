@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he, Pence in ‘total agreement’ VP has ‘power’ to block certification of ‘illegal’ election"
+    excerpt: "President Trump on Tuesday said he and Vice President Mike Pence are \"in total agreement\" that the vice president \"has the power to act\" and block the certification of the 2020 presidential election results on Wednesday.  "
+    publishedDateTime: 2021-01-06T03:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UwVeEWGsKb4/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-pence-in-total-agreement-vp-has-power-to-block-certification-of-illegal-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to issue executive order halting any Trump 'midnight regulations'"
     excerpt: "President-elect Joe Biden will issue an executive order halting \"midnight regulations\" on day one of his presidency, incoming White House press secretary Jen Psaki said Wednesday. "
     publishedDateTime: 2020-12-31T02:40:54Z

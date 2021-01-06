@@ -2,23 +2,80 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-05-former-president-jimmy-carter-wife-rosalynn-will-not-attend-joe-bidens-inauguration.md",
-      "title": "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration",
-      "excerpt": "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977.",
+      "path": "_news/2021-01-06-trump-signs-order-banning-alipay-and-other-chinese-apps.md",
+      "title": "Trump Signs Order Banning Alipay and Other Chinese Apps",
+      "excerpt": "WASHINGTON—President Trump signed an executive order banning transactions with Chinese payment platform Alipay and other Chinese apps. Write to Andrew Restuccia at Andrew.Restuccia@wsj.com and John D. McKinnon at john.mckinnon@wsj.com",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
+      "webUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
+      "originalUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 227,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1",
+          "url": "https://images.wsj.net/im-281098/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "publishedDateTime": "2021-01-05T20:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.md",
+      "title": "Joe Biden was ‘legitimately’ elected, majority of Georgia voters say",
+      "excerpt": "Sixty one percent of Georgians say that Biden was \"legitimately\" elected president, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 Georgia voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden1.jpg?ve=1&tl=1",
           "width": 640,
           "height": 320,
           "title": null,
@@ -28,9 +85,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
-      "publishedDateTime": "2021-01-05T15:55:01-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
+      "publishedDateTime": "2021-01-05T20:12:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-george-w-bush-will-attend-biden-inauguration-to-witness-peaceful-transfer-of-power.md",
+      "title": "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'",
+      "excerpt": "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp",
+      "publishedDateTime": "2021-01-05T19:25:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -162,63 +275,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-06-wsj-opinion-joe-bidens-georgia-test.md",
-      "title": "WSJ Opinion: Joe Biden’s Georgia Test",
-      "excerpt": "Can the president-elect carry Democrats other than himself to victory? Image: Edward M Pio Roda/Shutterstock",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210104/010421opvidmainstreet/010421opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-06-gary-cohn-former-trump-adviser-joins-ibm.md",
       "title": "Gary Cohn, Former Trump Adviser, Joins IBM",
       "excerpt": "Mr. Cohn will serve as vice chairman and member of company’s executive leadership team.",
@@ -288,7 +344,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1055,
+      "heat": 1075,
       "tags": null,
       "images": [
         {
@@ -1553,7 +1609,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1570,62 +1626,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp",
       "publishedDateTime": "2020-12-29T18:31:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-trump-campaign-asks-supreme-court-to-review-wisconsin-voter-fraud-case.md",
-      "title": "Trump campaign asks Supreme Court to review Wisconsin voter fraud case",
-      "excerpt": "The Trump campaign asked for a review before Congress meets to certify the Electoral College's vote on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBOvhoqDy5g/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e914d2fa-637f-4dcf-97ef-13291a923fdf/0bd28bcb-b691-4ace-9b8b-7284f1c04ac1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-supreme-court-review-wisconsin-voter-fraud-case.amp",
-      "publishedDateTime": "2020-12-29T16:56:52-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

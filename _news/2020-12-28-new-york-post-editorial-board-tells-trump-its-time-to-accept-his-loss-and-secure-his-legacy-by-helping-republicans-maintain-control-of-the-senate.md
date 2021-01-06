@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/new-york-post-editorial-board-tells-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-editorial-board-tells-trump-to-accept-loss-2020-12?amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Business Insider
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms"
-    excerpt: "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms."
-    publishedDateTime: 2021-01-02T14:45:00Z
-    webUrl: "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5ff06619a18a450018cb6826?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Z4WmR5LuF8KNTbP8mMS6PfZs+eSS99nKIdATAR2YSAlat0e8ZKLr4iZTGwWnF1bvdNKtI5bT9bh5hSwnNC0skh1xyZxhDF46kX9Y1UaWKltmOqveKumSLwcFj19r2ZG3Le3Ldeha1iNuXcMZY+jwy4WmL+WQ7HtPJ+27822tdrIIJ2TV+T2LWz7fVPJTtW8dNbMx+l5ZWIGsXWIZmbgKVBwulJFu6+p2VLy8hPujbO0bpUAIF46OX7jJoPjrgaeMidV+bbfYE5v/bUhSt7BhVt7/bmW0Ied/BYE/Cf46WlMDdSd7WujUxGAX7e4LStsaCYKASo2Uh1/RwM9IVk4zFjGfHimLseuPBKOBdXSDk/o=;ALbhVqlTXTWKgpFOvYVU+w=="
 ---

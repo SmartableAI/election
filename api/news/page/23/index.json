@@ -2,6 +2,115 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-02-us-supreme-court-asked-to-block-biden-win-in-pennsylvania.md",
+      "title": "US Supreme Court asked to block Biden win in Pennsylvania",
+      "excerpt": "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "publishedDateTime": "2020-12-02T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-as-trump-rages-voters-in-a-key-county-move-on-im-not-sweating-it.md",
+      "title": "As Trump Rages, Voters in a Key County Move On: ‘I’m Not Sweating It’",
+      "excerpt": "Pre-election tensions ran high in Bucks County, Pa. But Biden supporters there are increasingly comfortable tuning President Trump out and moving on, with an eye toward January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02biden-doylestown1/02biden-doylestown1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
+      "publishedDateTime": "2020-12-02T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-william-barr-breaks-with-trumps-election-fantasy.md",
       "title": "William Barr breaks with Trump's election fantasy",
       "excerpt": "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n",
@@ -1258,101 +1367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue.md",
-      "title": "Mike Pence will visit Savannah Friday to rally for Loeffler, Perdue",
-      "excerpt": "Vice President Mike Pence will be in Georgia for the second time in two weeks on Friday, and this time, he’ll be in Savannah. Pence will return to",
-      "sourceUrl": null,
-      "webUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
-      "originalUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20201130&Category=NEWS&ArtNo=201139931&Ref=AR",
-          "width": 2331,
-          "height": 1556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
-      "cdnAmpWebUrl": "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
-      "publishedDateTime": "2020-11-30T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Savannah Morning News",
-        "domain": "savannahnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-pence-says-covid-vaccine-distribution-could-begin-mid-december.md",
-      "title": "Pence Says Covid Vaccine Distribution Could Begin Mid-December",
-      "excerpt": "Vice President Mike Pence told governors on Monday that distribution of a coronavirus vaccine could begin by the third week of December, signaling that U.S. regulators will swiftly approve an emergency authorization for the first shots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN4Wcn.T9FtA/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "publishedDateTime": "2020-11-30T17:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

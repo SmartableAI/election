@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Politics/wireStory/loyal-soldier-pence-torn-trum
 ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loyal-soldier-pence-torn-trump-constitution-75050078"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://s.abcnews.com/images/Politics/WireAP_c73f2e2a9d7b46deb1ee0331c8cdd5fa_16x9_992.jpg"
@@ -62,6 +63,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/mike-pence-01-gty-jc-210104_1609778952307_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Despite pressure from Trump, Pence will not interfere in election count Wednesday - advisers"
+    excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties and not interfere with the election certification when presiding in Congress on Wednesday,"
+    publishedDateTime: 2021-01-06T04:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-pence-idINKBN29B08C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29B08C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29B08C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 154
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
+        width: 817
+        height: 545
         isCached: true
   - title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
     excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
@@ -174,6 +191,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EE1/production/_116337604_mediaitem116337599.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Despite pressure from Trump, Pence won't interfere in election count Wednesday: advisers"
+    excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties when presiding in Congress on Wednesday, advisers said."
+    publishedDateTime: 2021-01-06T02:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence-idUSKBN29A2J0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2J0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2J0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 146
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
+        width: 817
+        height: 545
         isCached: true
   - title: "A dozen Republican senators plan to object to certification of Biden's election win over Trump"
     excerpt: "Sen. Ted Cruz and 10 other Republican senators will join Sen. Josh Hawley in objecting to the election results during Wednesday's joint session."
@@ -650,6 +683,22 @@ related:
       - url: "https://i.insider.com/5fec7314b7ab82001943e8ed?width=1200&format=jpeg"
         width: 1200
         height: 599
+        isCached: true
+  - title: "'Trump is my president': Protesters gather in DC a day before Congress certifies election"
+    excerpt: "Crowds gathered in Washington on Tuesday, a day before larger rallies and a congressional vote to certify the election are planned."
+    publishedDateTime: 2021-01-06T04:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4141044001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/fb64f38a-fa86-4187-9fcc-00a05d2b22c4-MicrosoftTeams-image_3.png?auto=webp&crop=2775,1561,x1,y439&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden warns Trump administration's vaccine distribution plans are \"falling far behind\""
     excerpt: "Washington — President-elect Joe Biden warned Americans on Tuesday that they need to brace for a \"very tough period for our nation\" with soaring coronavirus case counts and deaths expected in the coming weeks and said the Trump administration's plans for distributing coronavirus vaccines are lagging."
@@ -1802,6 +1851,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XPfsQDkG4ur2LiuCrzmYyLuslZGJxMUAXsshoM9ki3/ez1uTn0no7ulJ+1CSaNIeY9LQonTDdXeYzT67I5feeEqFL+cKI4mhYmQrxJd6wIRy0FnUq7HrK3+enLPdai1Xa85MMas4SMvQQX1KYV77tt8AKjs7z/UulSdomZg8UKp7L6ygJY2NJap8EPgJ7APfH3rjoIAyIl4ZALNGYz/Jx8chchIRMRGw+WbArn4jTqfoxxbR9UcvZok+jVgraXPwj/vW0dH1hdtqCjzPLCr0t5PFrP5du8HobrFNEbGs1EbV76+waDyVSvCqFDinL3aE8tqrKWO200yvCArWMIiEki81k1kAY3PXaK6fKPtiYDw=;faHn42dj2moS80l2D6EC8w=="
+secured: "KGnlw9KtGeqAkN+LtSHsr41Fh1o0QEPF7AQM6CIHJYtmwX1bLTGQAY8Zciu2B/2qb6KGsFqfACrDnlvwNrHFWmvBPDcXH3fQ5ZYhdJtyeGP07mwQLprdtzG8rV7R/afDh7y63DSUFzcKtzF8fn0SfHlAcgVfmz9EPsRpk1OWs3h+f3kPui9ygo5l6OrzfbPhpcvnFC+NXCviMTv8lJ2nlWF/8eNtXIfgcq8iQ+3fO8Rxogghy39DkZpt+Y9tnzR1B1wXzs4oPHpFKgVxtCNPEWXJajvFezp7ctKt52Y7cjeS5xZS8oKCUKaDnFgJ8C3tIDVYpiGXa1GNd8NQoiGHSa8iZpxJXQCBi/5cJ2A779XNc9FALC/PW9pRMAUcB7uLhcarhhGValWl36Rh6/8OaliBrcNyI/Nhdv60V5E5znVBaCpj0jJo0QHBPLfi7rntzSwjKDZEWpK27K8G6F9flBUlDchqRLpNvAobp4qT5kPOPMUbnLawlvhsJnIcAp5hbTcpK45XE8d1Jhg4Bf9ubg==;9XxzVb2EfbEaXfp9h/9WEw=="
 ---
 

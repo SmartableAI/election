@@ -106,63 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-06-wsj-opinion-joe-bidens-georgia-test.md",
-      "title": "WSJ Opinion: Joe Biden’s Georgia Test",
-      "excerpt": "Can the president-elect carry Democrats other than himself to victory? Image: Edward M Pio Roda/Shutterstock",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210104/010421opvidmainstreet/010421opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-reject-joe-biden-policies-and-misguided-calls-for-free-college-betsy-devos-urges-in-farewell-letter.md",
       "title": "Reject Joe Biden policies and 'misguided calls' for free college, Betsy DeVos urges in farewell letter",
       "excerpt": "In a letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject Biden's agenda, and shield Trump administration policies.",
@@ -1606,6 +1549,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-biden-transition-highlights-congress-reaches-a-deal-on-stimulus-package.md",
+      "title": "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package",
+      "excerpt": "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-21T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

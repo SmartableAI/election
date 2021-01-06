@@ -2,6 +2,227 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-signs-order-banning-transactions-with-chinese-apps-alipay-and-wechat-pay.md",
+      "title": "Trump signs order banning transactions with Chinese apps Alipay and WeChat Pay",
+      "excerpt": "Taking his campaign against Chinese technology down to the wire, President Trump on Tuesday signed an executive order banning transactions with a number of Chinese mobile apps, including Alipay and WeChat Pay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKURI7SPWYI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp",
+      "publishedDateTime": "2021-01-05T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-signs-order-banning-alipay-and-other-chinese-apps.md",
+      "title": "Trump Signs Order Banning Alipay and Other Chinese Apps",
+      "excerpt": "WASHINGTON—President Trump signed an executive order banning transactions with Chinese payment platform Alipay and other Chinese apps. Write to Andrew Restuccia at Andrew.Restuccia@wsj.com and John D. McKinnon at john.mckinnon@wsj.com",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
+      "originalUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281098/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "publishedDateTime": "2021-01-05T20:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.md",
+      "title": "Joe Biden was ‘legitimately’ elected, majority of Georgia voters say",
+      "excerpt": "Sixty one percent of Georgians say that Biden was \"legitimately\" elected president, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 Georgia voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
+      "publishedDateTime": "2021-01-05T20:12:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-george-w-bush-will-attend-biden-inauguration-to-witness-peaceful-transfer-of-power.md",
+      "title": "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'",
+      "excerpt": "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wqxu7nANlRA/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp",
+      "publishedDateTime": "2021-01-05T19:25:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-biden-to-focus-on-covid-relief-for-small-businesses-in-wednesday-speech.md",
       "title": "Biden to focus on Covid relief for small businesses in Wednesday speech",
       "excerpt": "President-elect Joe Biden will make remarks Wednesday focusing on delivering relief to small businesses amid the coronavirus pandemic with a focus on helping minority-owned businesses, a transition spokesperson tells CNN.\n    \n",
@@ -55,62 +276,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-former-president-jimmy-carter-wife-rosalynn-will-not-attend-joe-bidens-inauguration.md",
-      "title": "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration",
-      "excerpt": "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp",
-      "publishedDateTime": "2021-01-05T15:55:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -230,7 +395,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -490,7 +655,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pressure-pence-reject-bidens-win-congress-wednesday/story?id=75057551",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2462,
+      "heat": 2522,
       "tags": null,
       "images": [
         {
@@ -635,63 +800,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-06-wsj-opinion-joe-bidens-georgia-test.md",
-      "title": "WSJ Opinion: Joe Biden’s Georgia Test",
-      "excerpt": "Can the president-elect carry Democrats other than himself to victory? Image: Edward M Pio Roda/Shutterstock",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210104/010421opvidmainstreet/010421opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-06-gary-cohn-former-trump-adviser-joins-ibm.md",
       "title": "Gary Cohn, Former Trump Adviser, Joins IBM",
       "excerpt": "Mr. Cohn will serve as vice chairman and member of company’s executive leadership team.",
@@ -817,7 +925,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1055,
+      "heat": 1075,
       "tags": null,
       "images": [
         {
@@ -1234,110 +1342,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-shared-the-wrong-number-for-a-michigan-lawmaker-a-28-year-old-has-gotten-thousands-of-angry-calls.md",
-      "title": "Trump shared the wrong number for a Michigan lawmaker. A 28-year-old has gotten thousands of angry calls.",
-      "excerpt": "The number the Trump campaign posted belonged to a 28-year-old Michigan native who has received now thousands of angry calls and texts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZGRPOTU3VQI6VLLZ5334242GIE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
-      "publishedDateTime": "2021-01-05T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trumps-epa-finalizes-last-minute-limits-on-science-used-in-rulemaking.md",
-      "title": "Trump's EPA finalizes last minute limits on science used in rulemaking",
-      "excerpt": "The U.S. Environmental Protection Agency (EPA) chief said on Monday he has finalized a rule to limit what scientific research the agency can use to formulate regulations, in a concession to big business weeks before President Donald Trump leaves office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-science-idUSKBN29A0BY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-science-idUSKBN29A0BY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546614096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0405C",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29A0BY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A0BY",
-      "publishedDateTime": "2021-01-05T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
