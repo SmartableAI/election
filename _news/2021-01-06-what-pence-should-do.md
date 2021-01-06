@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Late Night Wonders if Mike Pence Will Stand by His Man"
+    excerpt: "Seth Meyers joked that the vice president had to “choose between the Constitution and a sleazy mafia don cold-calling election officials illegally, begging for votes like a telemarketer.”"
+    publishedDateTime: 2021-01-06T08:08:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/arts/television/late-night-mike-pence-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/arts/television/late-night-mike-pence-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/arts/television/late-night-mike-pence-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/arts/06latenight/06latenight-facebookJumbo.png"
+        width: 860
+        height: 450
+        isCached: true
 
 secured: "t6rRyWqvaUomTRF3r4CgfVrw/pa7y99ykPidpZXO8H3bZ5QD7ufiniX9ipgji1IcahocStMfPXamCMmmw36bSiXWqjqEA3i+X1vDCayp9zDjyc6iBxasptPuWANnH8bw4UJTAFxASHubdJlpS6Hff1Og9xd1IKaNssmz9Dsgsrctyo3PFywzgLFG6tLSYW/Q0d87krGK7c1sZxsG7bS9Yi3K7IwVbol0FfvsyT3djmoG3vQn0mU+Y07C3fbPlATDfILHBsm+zRnN/Xkx/g1r6fwbu6bHU6zeBjQS4l7iE2jc9dsxHU/Hs4Aaf8PnhKW2JuUrid8VTtS6t/KADKlbJTwvHy44uefJRGaP6JMfoqQ=;KcN9kkrp8UVkoCnmTxYOvQ=="
 ---

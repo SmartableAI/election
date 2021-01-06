@@ -61,17 +61,17 @@
     {
       "path": "_news/2021-01-06-joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.md",
       "title": "Joe Biden was ‘legitimately’ elected, majority of Georgia voters say",
-      "excerpt": "Sixty-one percent of Georgians say that Biden was \"legitimately\" elected president, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 Georgia voters.",
+      "excerpt": "Joe Biden \"legitimately\" defeated President Trump in November's election, 61 percent of Georgia voters say, according to preliminary data from the Fox News Voter Analysis, a survey of more than 4,000 voters in the state.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U11eQNQwMsw/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
+      "webUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
+      "originalUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -87,7 +87,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-was-legitimately-elected-majority-of-georgia-voters-say.amp",
-      "publishedDateTime": "2021-01-05T20:12:37-08:00",
+      "publishedDateTime": "2021-01-05T20:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -111,6 +111,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -127,7 +128,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 228,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -344,7 +345,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1115,
+      "heat": 1135,
       "tags": null,
       "images": [
         {
@@ -996,7 +997,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {

@@ -8,7 +8,7 @@ webUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-pre
 ampWebUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
 type: article
-quality: 134
+quality: 144
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5CL3QSODQI6XIPV7WXSRT6KSA.jpg&w=1440"
@@ -188,6 +189,22 @@ related:
     quality: 150
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump urges Georgia voters to preserve GOP control of Senate; pressures Pence over election protests"
+    excerpt: "Some Trump supporters falsely believe Pence can throw out electoral votes from Biden states after GOP lawmakers protest."
+    publishedDateTime: 2021-01-05T03:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/donald-trump-stumps-georgia-republicans-senate-runoff/4124475001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124475001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124475001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 150
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/82ce36ca-0da7-4d0c-a46c-5201dc8f1ebe-AP20358775512344.jpg?auto=webp&crop=4271,2402,x1,y144&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -638,22 +655,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546530199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH030IH"
         width: 769
         height: 545
-        isCached: true
-  - title: "Trump urges Georgia voters to preserve GOP control of Senate; pressures Pence over election protests"
-    excerpt: "Some Trump supporters falsely believe Pence can throw out electoral votes from Biden states after GOP lawmakers protest."
-    publishedDateTime: 2021-01-05T03:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/donald-trump-stumps-georgia-republicans-senate-runoff/4124475001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4124475001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124475001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/82ce36ca-0da7-4d0c-a46c-5201dc8f1ebe-AP20358775512344.jpg?auto=webp&crop=4271,2402,x1,y144&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Congress set to confirm Biden’s electoral win over Trump"
     excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
@@ -2720,6 +2721,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4ur34Oxw3Hf5rrCrA6/XV/wwBA95baapjMHYyJJzM85T10vDb1ORTGRWlSc4xeda96uRyTw8cadol20lD2Epo14JbTDot5CwJI20rRIo0LMLmp/0hSYxLLUrO94D5vCdGGIwcVpXViPFjtS1yi1Pp7GOK3HKZzaZrsME3hEOOAOn0pjztZOx/amdTW0UvW5z8Ike5NiDLklhSV3joPwaUw09q6LGetDjlJsUdjb6Qe4fJ8EhMcnWFEF64cJ+4LVKiwFjS1Ad5o4J10bUWU/zFLQb8uUP2E/FlrQa4qVe+IjfEdtmKinDtFiPNFzavJGjLiPcWRCQ2A/aaIBH6xSoLL1EzO8k2O+Mc0kl2VA9JmY=;38Fj0fN5moM//mShuEc3Fw=="
+secured: "fq8/1Z4vZEK1Ew7itbZevBdVprOTzCagdth0jsUtedCtc7ywPPpLZN5D/H15CfII3lzzubw7OJoB5G/2MhTLKdT7JCNzJwFvXd7cEGowp990zpcYsRpa/hHzwySFI3OhhAgyf1N/NGD0EFODiYcH4ef+nrdTvYzM8f/20QI1DAaD++mvUrPN6T5onX6u6pOLUQWXx+iORpWtzWWVImlnSA5FxTYxyYZ4XkKG8u1MFC8V+x7fK6WwxmOn5H1IMJjmPVlvITpUCa9XEfcXJd0e1fnRpV0nle81W3Dqxw4yZ35RKqHN9MgYAg5ZZYENBiBuTCyUCZdDTQXNOfhl5SaQ7nDPRHihfuwDaHegjPiyD4RV2HB2I4tu0IYDFi8wuFc0mXPwZMeFcLpbAZZhxJVShkN2TW7w4bGYDTzeMtD64d9h4YMUFAYnjDJeo9PHYN2YJtleaClSGbZpLyjuJ599DuFQaoZExdYULxEf1umSZKPYI/rhVZ0XX/NbY9rE8fOjRdTmDo8Zsk1DyMl4WC+zLg==;8vUmT7o7pht6+COS9rHR6Q=="
 ---
 

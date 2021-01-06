@@ -189,6 +189,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump urges Georgia voters to preserve GOP control of Senate; pressures Pence over election protests"
+    excerpt: "Some Trump supporters falsely believe Pence can throw out electoral votes from Biden states after GOP lawmakers protest."
+    publishedDateTime: 2021-01-05T03:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/donald-trump-stumps-georgia-republicans-senate-runoff/4124475001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124475001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124475001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 150
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/82ce36ca-0da7-4d0c-a46c-5201dc8f1ebe-AP20358775512344.jpg?auto=webp&crop=4271,2402,x1,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Loyal soldier Pence torn between Trump, Constitution"
     excerpt: "Now Vice President Mike Pence finds himself in the most precarious position of his tenure as he prepares to preside over Wednesday's congressional tally of Electoral College votes, the last front ..."
     publishedDateTime: 2021-01-05T19:49:00Z
@@ -300,6 +316,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
         width: 817
         height: 545
+        isCached: true
+  - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
+    excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."
+    publishedDateTime: 2021-01-06T01:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 144
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5CL3QSODQI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 969
         isCached: true
   - title: "A dozen Republican senators plan to object to certification of Biden's election win over Trump"
     excerpt: "Sen. Ted Cruz and 10 other Republican senators will join Sen. Josh Hawley in objecting to the election results during Wednesday's joint session."
@@ -636,22 +668,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546530199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH030IH"
         width: 769
         height: 545
-        isCached: true
-  - title: "Trump urges Georgia voters to preserve GOP control of Senate; pressures Pence over election protests"
-    excerpt: "Some Trump supporters falsely believe Pence can throw out electoral votes from Biden states after GOP lawmakers protest."
-    publishedDateTime: 2021-01-05T03:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/04/donald-trump-stumps-georgia-republicans-senate-runoff/4124475001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4124475001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124475001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/82ce36ca-0da7-4d0c-a46c-5201dc8f1ebe-AP20358775512344.jpg?auto=webp&crop=4271,2402,x1,y144&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Congress set to confirm Biden’s electoral win over Trump"
     excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
@@ -1000,22 +1016,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/nancy-pelosi-01-gty-jc-201228_1609197270590_hpMain_16x9_1600.jpg"
         width: 1600
         height: 901
-        isCached: true
-  - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
-    excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."
-    publishedDateTime: 2021-01-06T01:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-years-of-fealty-pence-prepares-for-a-final-performance-likely-to-anger-trump/2021/01/05/23b1394e-4f71-11eb-83e3-322644d82356_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 134
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5CL3QSODQI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 969
         isCached: true
   - title: "Trump-Biden transition live updates: Georgia to recertify vote over Trump objections"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 44 days. A Trump campaign lawsuit was rejected by a Georgia state court Monday because the Trump legal team failed to pay the filing fee and neglected to fill out the proper forms."

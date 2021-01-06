@@ -80,6 +80,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "WSJ Opinion: Joe Biden’s Georgia Test"
+    excerpt: "Can the president-elect carry Democrats other than himself to victory? Image: Edward M Pio Roda/Shutterstock"
+    publishedDateTime: 2021-01-05T20:23:00Z
+    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210104/010421opvidmainstreet/010421opvidmainstreet_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "9hAhBb276aTIBYTusgld4+aBdSvdWs0FbY0fSxtzlz/2TYH8c/Iplkcy1U4E1fLpxda69Np+tay5O/H2v3ZV/QMkCnObhYstLsxY/4GXBj6TvGHwiHnNrpopdtOoUswimi7q64MHsmmrszdOkZALlcjhYARoTUulIwBL31c55yAtqTlPmVHI6O7sYPcJ0HSY+EWzWNUrTm5BXclpFBP9Xyypxi4mBevPPInGCLlzQZdJAJIpy0s+JuMp1J+MK5O2fOxMIcTcQ1YwhKF9DbtHHVgAMBiZU6al1x/lx/Vdsd6E9HZEumEzpESXnZ4A2Kj7HspFnWRKECWNlrgyZ3rItO5Kzmia8ZHfp3Vkr35Kw/w=;oyMzoO5ZrJE6Jo7+3tQtTw=="
 ---

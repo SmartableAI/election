@@ -624,6 +624,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams McConnell, Cornyn, Thune as 'weak and ineffective' RINOs ahead of Electoral College certification"
+    excerpt: "President Trump slammed Senate Majority Leader Mitch McConnell and GOP Sens. John Cornyn and John Thune as “weak and ineffective” RINOs ahead of the Jan. 6 certification of the presidential election."
+    publishedDateTime: 2021-01-06T08:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d78c92c1-08ad-417f-bfc3-25357c016962/92363098-cd4b-4fff-8359-e5dcf1bd17f3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris: Trump Election Challenge A \"Bold Abuse Of Power\""
     excerpt: "Vice President-elect Kamala Harris blasted President Trump at an event Sunday in Georgia, calling his election challenge a \"bald-faced, bold abuse of power\" and saying his call \"Have y'all heard about that recorded conversation?"
     publishedDateTime: 2021-01-03T00:00:00Z
@@ -734,6 +750,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "u5p3zFlIf7cnAi1amgnbXQETTu+PsMg8zTr+3tW+lKiWK77n2t+S00LLSKSFopCQforCZHNRR1sNoyK/FXmMpzY5yHAsC2jBzSpDDPlmyUFR6sojlUpqVCo+4W9dppcuLf3byXUtkooZWo7+nFwDWA3nYxIUVVNzErYNkxnRxmWyCHcKPsT46l8QdXO8FU1ENPJpphRp8Mp9dm6mXjmBvOScVxKRp0LMvGfR18xYMHR73VYk1toHWCYrWyf88qOdtpykLZ4rrfWKVglKCMGI01VMyLShVQdaTa4HIdkuTZZLIA7GxSZjXku8r1xpTqGRFROAqaonvhJm5hdMBIItAx6Ve/KiGJf0fWxwj3QvX0Y=;jphUGYhJ9qogayOoWsBbvA=="
+secured: "qMDcQl9Gf+/J8mu00+DYYqeqK1/bWU4qp6itm6cN4/c/aPPJX2qIqPIyOZhpd96qjHOVQewa5ONWPS9G3u8m/MHyiV7xFKRk5mgzNFQv6MiVOpw4gHQoqUQKk5XsLCUAhk8VrdkXJwOYvJ7HMBUqgiQ2dyRC/p4WhJC/uXwPIHaxd4OPVqLxeQU3L+lOXauOcSt7MnKQg32iXBBXN5HFcogNLxWVT/fOjklu0wabSbVsWcc+thmh3XKsmed1nz95v9Lfj4gB6aiNHfSV7IzRj+04nHjyHJsr4qPyzsXPk2+FjCoBRMKTNDv2gZgsBrEovbFBfTAz7bJUd/EXQzHpZ+JIj7Qd+UqTD4lFJC2oC+k=;G04SZiKmU1vN10aulca//w=="
 ---
 

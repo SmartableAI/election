@@ -624,6 +624,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams McConnell, Cornyn, Thune as 'weak and ineffective' RINOs ahead of Electoral College certification"
+    excerpt: "President Trump slammed Senate Majority Leader Mitch McConnell and GOP Sens. John Cornyn and John Thune as “weak and ineffective” RINOs ahead of the Jan. 6 certification of the presidential election."
+    publishedDateTime: 2021-01-06T08:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d78c92c1-08ad-417f-bfc3-25357c016962/92363098-cd4b-4fff-8359-e5dcf1bd17f3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris: Trump Election Challenge A \"Bold Abuse Of Power\""
     excerpt: "Vice President-elect Kamala Harris blasted President Trump at an event Sunday in Georgia, calling his election challenge a \"bald-faced, bold abuse of power\" and saying his call \"Have y'all heard about that recorded conversation?"
     publishedDateTime: 2021-01-03T00:00:00Z

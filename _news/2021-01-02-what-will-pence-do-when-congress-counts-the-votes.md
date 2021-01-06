@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Late Night Wonders if Mike Pence Will Stand by His Man"
+    excerpt: "Seth Meyers joked that the vice president had to “choose between the Constitution and a sleazy mafia don cold-calling election officials illegally, begging for votes like a telemarketer.”"
+    publishedDateTime: 2021-01-06T08:08:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/arts/television/late-night-mike-pence-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/arts/television/late-night-mike-pence-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/arts/television/late-night-mike-pence-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/arts/06latenight/06latenight-facebookJumbo.png"
+        width: 860
+        height: 450
+        isCached: true
   - title: "What Pence Should Do"
     excerpt: "A lawyer writes that the vice president has a “purely ministerial” role at the vote certification. Also: Presidential medals; Joe Biden and the Bork hearings; term limits; the gift of reading."
     publishedDateTime: 2021-01-05T20:14:00Z

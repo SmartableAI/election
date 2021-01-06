@@ -634,6 +634,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams McConnell, Cornyn, Thune as 'weak and ineffective' RINOs ahead of Electoral College certification"
+    excerpt: "President Trump slammed Senate Majority Leader Mitch McConnell and GOP Sens. John Cornyn and John Thune as “weak and ineffective” RINOs ahead of the Jan. 6 certification of the presidential election."
+    publishedDateTime: 2021-01-06T08:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d78c92c1-08ad-417f-bfc3-25357c016962/92363098-cd4b-4fff-8359-e5dcf1bd17f3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Republicans Splitting Apart From President Trump"
     excerpt: "Nev., talking about President Donald Trump's call for Congress to increase COVID-19 relief checks for individuals from $600 to $2,000. \"I'm the guy who campaigned for the president, contributed to the president and voted for the president,"
     publishedDateTime: 2021-01-04T12:47:00Z

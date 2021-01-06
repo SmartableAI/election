@@ -44,6 +44,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Is Trump remaking the Republican Party or purging those who cross him?"
+    excerpt: "President Trump’s escalating attacks on the Electoral College results are tearing the Republican Party apart."
+    publishedDateTime: 2021-01-06T08:06:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/psaLUmpTqgo/is-trump-remaking-the-republican-party-or-purging-those-who-cross-him"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/6af765dc-8c93-4b04-a293-e3926146ea35/7be20330-7cf3-4052-8b8f-964806a5c392/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "C1XgmXiBMPMqB8CiIckyl6ZRZM5Zswdnt0cjZClHV979rdarq0CwclFtFCuJO29s66cysW2xojYh8tjUFyGceQQgDpMAmXFbgXB/i1UAtTX+OrnJE+xCXbeR3UuNy9zfyavk7zI3Ho3DBvAMq7Ot3ONyE8YxN/IXSKsF4mqh9X9mWUfOmSkSCEM/OLRZfSsQI1FKN8vCFbKDtOfBEPKVa8riSc6NvWXoMqQexT0+04W9FJbd7bc+4Hdqp97zPr/jYqVusBRRhYKBwus2zlkLdCz3+A4fGhUwmZI/kPUveE7sRYcSwc2dqjl9aH8LCHBz5QKVQJ2SUt/QtoD3nzaXpwCjgmMVelC9LHdpne64A4A=;iDVgfyh8oSfBCmmTqJ2OhA=="
 ---

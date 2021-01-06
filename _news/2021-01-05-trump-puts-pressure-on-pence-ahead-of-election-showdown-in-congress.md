@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 1115
+heat: 1135
 published: true
 
 provider:
@@ -621,6 +621,22 @@ related:
     quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb5e7ef-c511-4f9e-8b7f-01b5b52267da/5c3f2a9d-56e0-4a81-b6dc-dc0d26de28c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump slams McConnell, Cornyn, Thune as 'weak and ineffective' RINOs ahead of Electoral College certification"
+    excerpt: "President Trump slammed Senate Majority Leader Mitch McConnell and GOP Sens. John Cornyn and John Thune as “weak and ineffective” RINOs ahead of the Jan. 6 certification of the presidential election."
+    publishedDateTime: 2021-01-06T08:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mcconnell-cornyn-thune-weak-ineffective-rinos-electoral-college.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d78c92c1-08ad-417f-bfc3-25357c016962/92363098-cd4b-4fff-8359-e5dcf1bd17f3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

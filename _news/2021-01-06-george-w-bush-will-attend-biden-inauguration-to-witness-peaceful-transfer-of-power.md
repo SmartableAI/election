@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inaugura
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
 type: article
 quality: 168
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "WSJ Opinion: Joe Biden’s Georgia Test"
+    excerpt: "Can the president-elect carry Democrats other than himself to victory? Image: Edward M Pio Roda/Shutterstock"
+    publishedDateTime: 2021-01-05T20:23:00Z
+    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-joe-bidens-georgia-test/23B9036A-2E6C-49DF-96E4-E35E11E11798"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210104/010421opvidmainstreet/010421opvidmainstreet_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "FW39kdoIR+jQlhQwU3zrkALYTgutxRye6fAQ6dZY0oHEowupEkO6Vyn54SwTYY8J50QnaVuMt0F/PMUBcH66meyCH4y7rAX3chxiHJgW9j3RtO9qkbUOr834uEOb0yqIBWF1HA3BXdllYkgXerq70ikUyaELKbA4JC+aQuDiTeNhGB0LPzJ+Bofv+6Z0S5mZXeID55hBNePEEYneF9/Fnmt/y42+w5KIM+/f7RsxA2YVqV2uNHhvrRwucWyPG8PddKLltKKi163lwyN/wBMuGKqSdyWXCHvUvOYA6nTefPVOp3pFM3gVEUNFCTp75ksvgD86DJhu3UQLXN7qgXUXeo+LHHUwJSNysl8fUj0n3YY=;bdcjmc0K3/gDqARgz2mL3g=="
