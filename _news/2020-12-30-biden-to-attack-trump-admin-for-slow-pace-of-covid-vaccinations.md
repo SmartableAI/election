@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to make final decision on attorney general, with new arguments for Yates and Garland"
+    excerpt: "President-elect Joe Biden is poised to make a final decision in the coming days on his pick for attorney general, a choice that suddenly comes amid a growing sense of optimism from Democrats that their party will control the Senate and will be able to easily confirm the incoming president's Cabinet nominations.\n"
+    publishedDateTime: 2021-01-06T14:54:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_hXWIuHRxKw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/biden-attorney-general-yates-garland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/biden-attorney-general-yates-garland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211132924-jones-garland-yates-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump hotel looks to cash in on Biden inauguration"
     excerpt: "As Trump allies plot a last-ditch effort on Jan. 6 to try to prevent Joe Biden from being formally selected as the next president, at least one part of Trump-world is tacitly acknowledging that there won’t be a second Trump term,"
     publishedDateTime: 2020-12-31T22:05:00Z

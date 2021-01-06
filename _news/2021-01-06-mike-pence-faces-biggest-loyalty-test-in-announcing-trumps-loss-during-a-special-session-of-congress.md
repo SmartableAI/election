@@ -2,23 +2,19 @@
 category: news
 title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
 excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
-publishedDateTime: 2021-01-06T09:15:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3957706001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3957706001"
+publishedDateTime: 2021-01-06T14:29:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+ampWebUrl: "https://amp.indystar.com/amp/3957706001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3957706001"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -302,6 +298,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7M+7Wo8xqW1mVwmhEfdwoWHu1557c6fMz3RwSxouYWMdeemC7xNcQ82i6kXzWbgZ0syDq6LkxsUQAlcUPpuZcs19mV3PiWhG9dRG6swqB6cPKLsUk+blRcuxeCAiSFkAzzl0l1qJ+i8JWKQeDks35eBmzTgCgW5k1SS/z4Xhe2MaxLLVjOmPWmsD+o96nHcugMKgnXF42/z6y+ersH/n3qhCvDwbpUnSZVobHwyyDLwoIOVnixsMAx0kG4zjCJnYJgk48LbHirzloSiJ6v/lSbKlRvG4it7T3qfhOT9KNrIK+28m5LJ0zDMro+4sRX0r5I6Ic5i3xCTlu6QGHU82Nc36s3FDreGlFXhj3CGy+qk=;kONfbMsfWSljdZaKhvofIw=="
+secured: "EjXKcrLPgfFIxUPefFw4acPyh6aeXI7jGVtwE5r9wKEPC08rTShgablj76iiAqIMbqDdPgUZS/lIfAmTbT1TJgBqZNimSRmrP4mIe11rmY9SOM3ow5lzCZQYNDSNFtsX51kz+XOJ+hioEt1W9ejvFR8kq7uzEDqVI0Rz0dj4/YyaA8UJq++NsFi+5VgpUqq/WIIzRPBFnVhj0e0hGY+o9U0Y7kZHkDTg+cBWEUSZoBP1vumbPziTrl2GEl3tzLFAHvM8iJif2X3WeRLfVKA6Sm326PagILXeNjS0HSP9KurY6KyhM555F0HiFje0MeeMp5vq5+7lhmRKx8wLHHYHFKt0N824ggNAxfMVbyNrMBc=;q7LD8FbXpC55WGkEMPlLJw=="
 ---
 

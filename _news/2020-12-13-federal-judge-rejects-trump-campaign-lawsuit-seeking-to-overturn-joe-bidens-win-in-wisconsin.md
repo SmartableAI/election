@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Latest: Trump pressures Pence to overturn Biden's win"
+    excerpt: "President Donald Trump is turning up the pressure on his vice president in a futile effort to overturn the results of the Nov. 3 presidential election in Congress"
+    publishedDateTime: 2021-01-06T14:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 165
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d30a691086d645aebe3b4c8ca3df701a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
     excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
     publishedDateTime: 2020-12-15T16:19:00Z

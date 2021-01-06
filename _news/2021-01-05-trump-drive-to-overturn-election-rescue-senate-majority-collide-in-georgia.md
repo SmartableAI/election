@@ -848,6 +848,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump Says Pence Can Overturn His Loss in Congress. That’s Not How It Works."
+    excerpt: "The vice president plays a crucial but largely ceremonial role in formalizing the election results in Congress. Here’s how the election tally actually works."
+    publishedDateTime: 2021-01-05T17:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/05/us/politics/pence-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/05/us/politics/pence-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/05/us/politics/pence-trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-explainer/05dc-explainer-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
     excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."
     publishedDateTime: 2021-01-05T05:27:00Z

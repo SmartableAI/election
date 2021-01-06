@@ -2313,6 +2313,22 @@ related:
         width: 2722
         height: 1810
         isCached: true
+  - title: "Congress set to confirm Joe Biden's electoral win over Donald Trump"
+    excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
+    publishedDateTime: 2021-01-06T12:56:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_6674dd6a-501d-11eb-949a-d35d11b23b3b.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_6674dd6a-501d-11eb-949a-d35d11b23b3b.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_6674dd6a-501d-11eb-949a-d35d11b23b3b.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 100
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/25/a25152fe-501e-11eb-9d14-4febd4af4fa8/5ff5b421ac568.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
     excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
     publishedDateTime: 2021-01-04T08:44:00Z
@@ -2516,10 +2532,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Pressures Powerless Pence on Electoral Count"
+    excerpt: "President Donald Trump is trying to pressure Vice President Mike Pence to use powers he doesn't have to overturn the will of voters in a desperate and futile bid to undo President-elect Joe Biden’s victory in the November election."
+    publishedDateTime: 2021-01-06T14:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-06/trump-pressures-powerless-pence-on-electoral-count"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-06/trump-pressures-powerless-pence-on-electoral-count?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-06/trump-pressures-powerless-pence-on-electoral-count?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 80
   - title: "Congress Is Set to Confirm Joe Biden's Win Over Trump Despite GOP Pushback. Here's What to Know"
     excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden’s win over Trump."
     publishedDateTime: 2021-01-05T20:27:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/congress-is-set-to-confirm-joe-bidens-win-over-trump-despite-gop-pushback-heres-what-to-know/2813281/?amp"
     type: article

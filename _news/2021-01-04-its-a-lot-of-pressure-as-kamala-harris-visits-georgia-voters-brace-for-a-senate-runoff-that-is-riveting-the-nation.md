@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
 type: article
 quality: 101
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
+    excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
+    publishedDateTime: 2021-01-06T14:57:00Z
+    webUrl: "https://bangordailynews.com/2021/01/05/national-politics/democrats-win-1st-of-2-georgia-runoffs-but-need-a-sweep-for-senate-control/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/Biden-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "mzvTi5vd+q5F9dlro+q0TDKbNVoJ1BDZnaGmREZcTdg4477e5SmNAXsJFU4J6cJvJ74dU2bHg6SXe6Zf2Foa43FC+GJ/hJBeXZ+tW85qaWa/RyuZ+qJXm3e+0Wx8YtmeJ5wp0uDNKvwDtvPxv3iNtVEBhwIbA2G2uwiKzCsyV1s8MJg27uKYTDh8AxKhx01kdtl/UWJnb0ZSm+Ip8PXZdw9IDZaZOvZBkn7Bn70oegXF2n++FMHAmXSmf8YAu/VENDS5OaokwmmCb9YBiWu4BG2TOMtcpOn4L0worki1zQVABQY1oEUdXKJEfdgZ7PDEFaan0sANgd7jJbzd8MhG0WZ3wol1lfCUevg/AzFQCHY=;ZQl9qcFTI2kUyLnVMUB+Pg=="

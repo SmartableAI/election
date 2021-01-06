@@ -79,22 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
-    excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
-    publishedDateTime: 2021-01-06T09:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3957706001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3957706001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z
@@ -301,7 +285,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
+    excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
+    publishedDateTime: 2021-01-06T14:29:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3957706001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3957706001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "KJhIQ9sT1znPpstOT9C5Hrf55j+8Al3BlpbOKEwLpElD+Xj4s2qgzfKI7/i3YrJOQq/QErfHVvmrxRameI1m3dM2uxe708vuPDzbSIYqcQHVNSrC6eCxfcuZPlGFhtdNEEuMpcf77qq+EkE0i+sCGNvsxxQbkwsL4H4aDKFDUUoVkuLF0wriRdMqCT+QvzyhcLZULdGL4JemIHxqfe6paSxKcqqdS9gdo48E/4Yy/ffC/uD2Rd7Fi3WuUAbN+7zSRA6Nc/1PZHalCfrwDWkfdKDJ8b5dZJa9DGjDYs5l1tGYn9okuC+KX1f6bseLWTUjqbFyapiHUZOn2OYjvAcg43v09cJHaMP1LGL4QfmxIJ8=;czPY9Df3Jwqw37iXoT2iRA=="
+secured: "g/ihITksavLdGXK+mU4eNVZrrQ3yv+hjPKUjPxEAmUog3UXX0gXXK0UrLN6gZJ7TkAexzVKXtcVpa7Wnc84nWKWo1OYDQqAQc5xMPHvhrL09qCuQ5+aXseqeydHTdgdn0mNGvLSSMBkVve9DlGzdVlL5IT8oS0rU7g32RjZrz7xazDAgtL4v0dxtEQrHmBTasnbfwUrXV2NuI32MBhaII5MnmyqyE+URrAG4FB3Q85B+aCE70SoxeEV+uNbqhz5xeHMf8hw0+KqqWA0d1xEm7qbx681xo5iK/mI/qwRuTtwm7cLX4Feb/H6QsmK5c37JTgNNDuKBSBOYIHLqGJkawJVOpu0lMAWXjQtcmpCDzNMJA8fvB8GrUlpjsTjB3s62H/lvthyVk0CxYgdn3G4v3O4HucoaVuMWP0Vu6Zo4ZPHUZpZVbnhEXldzhdEc0Nxgd/Zc9Aml6o6GtSuGolNHUEQWPZxvH3qpg0+z2w+gfTTYHkKpXU4q1nkUt+735t5YgOjpklxUIx4pe1JxCySfaA==;c22Yvz/8VILLyWUq3tbiaw=="
 ---
 

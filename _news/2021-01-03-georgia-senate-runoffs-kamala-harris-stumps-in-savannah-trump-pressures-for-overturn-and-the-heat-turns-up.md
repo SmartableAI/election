@@ -73,6 +73,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
+    excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
+    publishedDateTime: 2021-01-06T14:57:00Z
+    webUrl: "https://bangordailynews.com/2021/01/05/national-politics/democrats-win-1st-of-2-georgia-runoffs-but-need-a-sweep-for-senate-control/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/Biden-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "nVoYp39aOAFn4mu3ELUCi/RTtx+o5TJzzWcbbZyIdjS7aS28zuhiDyjAvN5gshl5D3PK9Q2xkNYfiSet1JWegtkUUkQh0PqFbwkv01mzuj0lXJHCJ/FAvytPQmQ1RNUPrC0sDYGEIRlFKRs4g1c0UiLX0fNYVYxf5GPBwDPMcAIVWF3ajda/wVsFEVfCc+lhttyqkFqzdCLtmHZ1Uet3bU8J4dGf2NvS7itSWHRBzGWn70rHK5TDSx26FlgtctdF+ba2Wfl3Sq2wVLzTWo+34A9SxsEZo+1iJmEWjiapdvaIrL5Ya+uYcd+QBRaThmi6xeThOaFYy4q/af4GigUNZ7N0MquZ1YcFAWFZsY58uSY=;vQlllH8qDhrheQmFcr4tOg=="
 ---

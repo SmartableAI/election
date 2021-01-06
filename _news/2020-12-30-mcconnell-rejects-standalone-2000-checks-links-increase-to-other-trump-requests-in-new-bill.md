@@ -95,22 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
-    excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
-    publishedDateTime: 2021-01-06T09:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3957706001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3957706001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
     publishedDateTime: 2020-12-28T08:47:00Z
@@ -300,6 +284,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
+    excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
+    publishedDateTime: 2021-01-06T14:29:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3957706001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3957706001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "4joYNsNy3tsEU4ft8GcyUSJJKp+eRC9PZN1H3pwJ2NfWmzzBnFfO3fKCTg20Qlx2hxTcjWLyZP9nbRLRTB7DobN2V+7XkCCHulQYPOZFwEmSvVyIZxupKEFG5VIRTda208DIhwriaCUFn0qWZqN7YhF53WO6hqBizjIzryDty5+yOewbD9bhhFV4O4W/LfY1qyQVPZoy81t/MJ9YmkzjCMhV0UOiZ7Di5V+cMzUKjMkBosf3tdbFrloYs0ciuGq6eeWgWhdyzI/Y2tPqwoJryykYioC4GRTMdvHJYTpz4T4HwWBoaP4NDHalfmXUH2GbXzyvvv/w2+DACqXbSd4NOFxJQHWLdnzIBIVt5xU+s77jcBotfWcS2oVFGyxTXeFMEHQNyX6zjh+9Y7SDJwVlEk6E93eCQ23KH0tLNhbphwmkjkIjy2j+Wwgl6oTLjxEWkNYahOxPz4Wq9KoyrtgIJ0IHK9PGcns4A5TXxZtNLozV7i9LKKlE5Hz+v5I5q6y9PWGoAFS+0gpxcjndy5TtMw==;Zj1YX9KX+m6IXmVENA0b6g=="
