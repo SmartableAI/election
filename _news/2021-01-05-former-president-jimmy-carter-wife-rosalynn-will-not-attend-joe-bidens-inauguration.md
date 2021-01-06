@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-ina
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
 type: article
 quality: 167
-heat: 267
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Huckabee says 'cloud' will be over Biden presidency if election fraud isn't fully investigated"
+    excerpt: "Former Arkansas Gov. Mike Huckabee told \"Fox & Friends\" on Wednesday that he wishes that all the elected officials, including Democrats, \"would demand a full accounting for how the ballots were tabulated\" in the 2020 election, saying that \"Democrats have the most to gain.\""
+    publishedDateTime: 2021-01-06T14:58:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
     excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in ..."
     publishedDateTime: 2021-01-06T05:54:00Z
@@ -47,53 +63,53 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
-    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
-    publishedDateTime: 2021-01-04T19:28:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+  - title: "GOP Senator Josh Hawley Says He Will Force Votes on Joe Biden’s Win"
+    excerpt: "Republican Sen. Josh Hawley of Missouri cited election-integrity concerns around the November presidential vote. No significant evidence has emerged that would challenge the result."
+    publishedDateTime: 2020-12-31T02:11:00Z
+    webUrl: "https://www.wsj.com/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
+    ampWebUrl: "https://www.wsj.com/amp/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 129
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-280273/social"
+      - url: "https://images.wsj.net/im-279281/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
-    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
-    publishedDateTime: 2021-01-06T03:40:00Z
-    webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
+  - title: "How Joe Biden Should Handle White House Infighting"
+    excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
+    publishedDateTime: 2021-01-02T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-279262/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden, Nancy Pelosi to Draw on Their History in Bid to Unite Fractious Democrats"
+    excerpt: "The president-elect and House speaker share the job of steering a divided Democratic coalition amid a pandemic and an economy recovering from a deep slump."
+    publishedDateTime: 2021-01-01T13:07:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-278184/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
   - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
     excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
@@ -110,6 +126,48 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Hawley's Delusional Objection to Biden's Victory"
+    excerpt: "Election's expert Joshua Douglas writes, don't be too nervous about Republican Senator Josh Hawley's announcement that he will object to the certification of Joe Biden as president when Congress meets Jan."
+    publishedDateTime: 2020-12-31T13:10:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531150_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Hunter Biden's Guilty Laptop"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-03T13:05:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/48/482082_5_.jpg"
+        width: 464
+        height: 600
+        isCached: true
+  - title: "Joe Biden's First 100 Days Are Critical"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-04T12:22:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/04/joe_bidens_first_100_days_are_critical_532619.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531068_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "/fiH2b1kVtiS3RWo2dB+JrwrV56shJJHN9zXcbV2KKJKkaibht35h5A/cjXuvLpTQJuogLy02BBMhTGSBkjcWA7kzVl94R/ruKl5/G1f8Zb5p41t0LhIQbdEZV6nDNw7YIHD8VAjd4rlGupgWE3MnEdk4lHPpAsnVpieSuCND4xzJ2NbUi7wXsYpqBMC96JnZ+v/bMMU0TlvbisA7xzdm2mVk7JaIaVk6Xw0NV/M9a1jhxAwNxTlV0ywrkatL0h9zbx8Sz2QxjQ4R8WXDZXFBuIGVFyVvyY2m0LtHLbvyP0FLMVhavbMxKpeI5KP/FIzV3qVByzBvhimB15GtfDIeHVJ/ksdoQ96IAIg0dnF15U=;NJVZsoqpIY+F1HtkCwMWPw=="

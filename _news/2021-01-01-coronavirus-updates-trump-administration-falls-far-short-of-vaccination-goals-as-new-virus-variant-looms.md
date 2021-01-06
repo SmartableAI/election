@@ -2092,6 +2092,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump pushes Pence to overturn election: ‘This is a time for extreme courage!’"
+    excerpt: "Pence finds himself in the most precarious position of his tenure as he prepares to preside over Wednesday’s congressional tally of Electoral College votes, bearing witness to the formality of the Trump-Pence team’s defeat."
+    publishedDateTime: 2021-01-06T15:29:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-pushes-pence-to-overturn-election-this-is-a-time-for-extreme-courage.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-pushes-pence-to-overturn-election-this-is-a-time-for-extreme-courage.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-pushes-pence-to-overturn-election-this-is-a-time-for-extreme-courage.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 111
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EOZVLGBJLJDKPIDKTALZXNYV7A.jpg"
+        width: 4356
+        height: 2904
+        isCached: true
   - title: "54% of Americans disapprove of how Trump has handled his presidential transition, a new Insider poll shows"
     excerpt: "Even 14% of respondents who voted for outgoing President Donald Trump said they disapproved of his presidential transition."
     publishedDateTime: 2020-12-29T15:59:00Z
@@ -2137,22 +2153,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/01/pentagon.jpg"
         width: 2121
         height: 1414
-        isCached: true
-  - title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
-    excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
-    publishedDateTime: 2021-01-06T12:34:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/lm1Un_uus5l4A35JzI5Wi1TBDus=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GC53U2I2QFG2VBFDHI3MEQPSCQ.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Census Bureau to miss deadline, jeopardizing Trump plan"
     excerpt: "The Census Bureau plans to announce it will miss a year-end deadline for handing in numbers used for divvying up congressional seats. That delay could undermine President Donald Trump’s efforts to exclude people in the country illegally from the count if the figures aren’t turned in before President-elect Joe Biden takes office."
@@ -2744,6 +2744,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WMESNELVLJCGBIYTR4ZUTLLMWM.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
+    excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
+    publishedDateTime: 2021-01-06T12:36:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 56
+    images:
+      - url: "https://www.courant.com/resizer/lm1Un_uus5l4A35JzI5Wi1TBDus=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GC53U2I2QFG2VBFDHI3MEQPSCQ.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Leaves Mark on Immigration Policy, Some of It Lasting"
     excerpt: "When President Donald Trump was running for reelection, foreign-born U.S. residents were rushing to get their American citizenship before it might be too late. “I didn’t know what would happen if Trump got a second term,"

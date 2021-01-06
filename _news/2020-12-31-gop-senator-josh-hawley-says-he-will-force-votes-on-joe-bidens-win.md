@@ -32,85 +32,143 @@ images:
     isCached: true
 
 related:
-  - title: "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals."
-    publishedDateTime: 2020-12-29T23:28:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
+  - title: "Huckabee says 'cloud' will be over Biden presidency if election fraud isn't fully investigated"
+    excerpt: "Former Arkansas Gov. Mike Huckabee told \"Fox & Friends\" on Wednesday that he wishes that all the elected officials, including Democrats, \"would demand a full accounting for how the ballots were tabulated\" in the 2020 election, saying that \"Democrats have the most to gain.\""
+    publishedDateTime: 2021-01-06T14:58:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 178
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hawley says he'll object to Electoral College certification of Biden victory on Jan. 6"
-    excerpt: "Sen. Josh Hawley, R-Mo., on Wednesday became the first Republican senator to publicly say he will object to the certification of the presidential election results when a joint session of Congress meets in one week to formally certify President-elect Joe Biden's 306-232 Electoral College victory over"
-    publishedDateTime: 2020-12-30T17:06:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2s_Uq2On-m4/josh-hawley-to-object-electoral-college-certification-jan-6"
-    ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-to-object-electoral-college-certification-jan-6.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-to-object-electoral-college-certification-jan-6.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Biden's inauguration to include presidential escort, 'virtual parade across America'"
-    excerpt: "Instead of the in-person parade, Biden will receive a traditional presidential escort"
-    publishedDateTime: 2021-01-04T05:04:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACNMe3CSRaY/live-updates-biden-transition-1-4-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
+  - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
+    excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
+    publishedDateTime: 2021-01-05T23:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcbe096-dc86-4cc3-bb37-dfb266995ac2/b7e07a9e-48e6-4e51-96af-35e853cfbcd7/1280x720/match/image.jpg"
-        width: 1279
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden national security adviser criticizes Obama's foreign policy for not focusing on middle-class Americans"
-    excerpt: "Incoming national security adviser Jake Sullivan, former staffer in the Obama administration, admitted that the previous president’s foreign policy did not “elevate and center middle-class concerns.” "
-    publishedDateTime: 2020-12-30T18:53:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BUVxUYSrW3w/biden-national-security-adviser-criticizes-obamas-foreign-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
+  - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
+    excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in ..."
+    publishedDateTime: 2021-01-06T05:54:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 146
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0151998b-fe68-4078-8ab2-1e166a4c094a/fbdd86f6-3449-4cc4-b51d-25e1da7f2389/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals."
-    publishedDateTime: 2020-12-29T23:33:00Z
-    webUrl: "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
+  - title: "How Joe Biden Should Handle White House Infighting"
+    excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
+    publishedDateTime: 2021-01-02T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-279262/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden, Nancy Pelosi to Draw on Their History in Bid to Unite Fractious Democrats"
+    excerpt: "The president-elect and House speaker share the job of steering a divided Democratic coalition amid a pandemic and an economy recovering from a deep slump."
+    publishedDateTime: 2021-01-01T13:07:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-278184/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
+    excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
+    publishedDateTime: 2021-01-06T00:09:00Z
+    webUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 127
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hawley's Delusional Objection to Biden's Victory"
+    excerpt: "Election's expert Joshua Douglas writes, don't be too nervous about Republican Senator Josh Hawley's announcement that he will object to the certification of Joe Biden as president when Congress meets Jan."
+    publishedDateTime: 2020-12-31T13:10:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531150_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Hunter Biden's Guilty Laptop"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-03T13:05:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/48/482082_5_.jpg"
+        width: 464
+        height: 600
+        isCached: true
+  - title: "Joe Biden's First 100 Days Are Critical"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-04T12:22:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/04/joe_bidens_first_100_days_are_critical_532619.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531068_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "JXOQ27LW14P6hQ2NiFiGo0JEYO7JDKXZswT7Tg9/QT/fHu/yQw4Qi5wYAheWEBohnK1ZNV/2gxOjy7vlBPYDqrUnGH6YoS6LwVZp0ZUH3X1rkaDcxBjtUaqDefzFc7j5TSt5dGnXYt4mLtLhcOfMW3lrna4cnnT1YIn367k3GC/k+cwk50Vj/Z8+YYcXh6YFu1pDFKHpL4dGc74e3J4HAZ7JdWeN+DAwv3aBJkLXQiCA5wTqMCopG0mdECApmgOiaKVIdiphdasjs4JAdRj9MvE+f135AXU39siISQ06nHiILaaLQZOMj4NQ0MOx3l1ksK43OWpP4dXmUeHWiq49VaK0820nJUTYs1dV9/pfjlueGFezMdsg16YjWYvn8NX9m6ezNcm6S7ELvSataUBLHL772egZGH5CdcTUAcnRe2g7H8VqAERH4KazMbB3o/s7oKNdUHsAV6JM/RLGty3CTnFs/ae4mkss1PfIaEZOspONxYTHZm4OuO3ZdHfeU8vcoNy5JXQ9dYik2NI6XPWljg==;q91iDgGEN489kgkxkogjlA=="

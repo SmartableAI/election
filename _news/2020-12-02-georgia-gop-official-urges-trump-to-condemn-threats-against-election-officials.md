@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Domenech: Republican establishment 'eager' to blame Trump for disappointing Georgia runoffs"
+    excerpt: "The Federalist publisher Ben Domenech told \"America's Newsroom\" Wednesday that Republican establishment leaders would miss the point if they solely blamed President Trump for their disappointments in Tuesday's Georgia Senate runoffs."
+    publishedDateTime: 2021-01-06T16:21:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ysnU02TXID8/domenech-republican-establishment-georgia-senate-runoffs-eager-blame-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/domenech-republican-establishment-georgia-senate-runoffs-eager-blame-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/domenech-republican-establishment-georgia-senate-runoffs-eager-blame-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a958d419-2adf-4749-9176-4729d9a68295/25c2dfca-36ea-4c5a-afe4-293c31e9ba4d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump lawyer slams Georgia Secretary of State Raffensperger for 'secretly' recording 'confidential' call"
     excerpt: "President Trump tried to contact Georgia Secretary of State Brad Raffensperger 18 times before their heated phone call on Saturday in which the president urged him to “find” enough votes to reverse the state’s election results."
     publishedDateTime: 2021-01-04T20:19:07Z

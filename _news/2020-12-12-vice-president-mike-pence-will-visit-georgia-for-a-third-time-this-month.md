@@ -1356,6 +1356,22 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Georgia’s Gift to Joe Biden"
+    excerpt: "The Democratic success in the South is poised to change the balance of power in Washington and strengthen the Biden presidency."
+    publishedDateTime: 2021-01-06T15:23:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/democrats-take-senate-majority/617562/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617562/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617562/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/ywyPsleYtkcOrv1ybTW7W8XIX7Y=/0x0:5086x2860/570x321/media/img/mt/2021/01/GettyImages_1294499682_toned/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "US election: Mitch McConnell congratulates Joe Biden after electoral college vote"
     excerpt: "Top Republican Mitch McConnell has acknowledge Joe Biden as US president-elect for the first time since the 3 November election. The Senate majority leader also congratulated Kamala Harris: \"Beyond our differences all Americans can take pride that our nation has a female vice-president-elect for the very first time."
     publishedDateTime: 2020-12-15T16:50:00Z

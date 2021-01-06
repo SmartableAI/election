@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-pence-to
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1975
+heat: 1995
 published: true
 
 provider:
@@ -1343,6 +1343,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/01/e01386db-c88a-5b35-87eb-0d685cc9b61f/5fdf831779249.image.jpg"
         width: 700
         height: 466
+        isCached: true
+  - title: "Georgia’s Gift to Joe Biden"
+    excerpt: "The Democratic success in the South is poised to change the balance of power in Washington and strengthen the Biden presidency."
+    publishedDateTime: 2021-01-06T15:23:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/democrats-take-senate-majority/617562/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617562/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617562/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/ywyPsleYtkcOrv1ybTW7W8XIX7Y=/0x0:5086x2860/570x321/media/img/mt/2021/01/GettyImages_1294499682_toned/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "Vice President Mike Pence will visit Georgia for a third time this month"
     excerpt: "One of the nation's top Republicans will be back in Georgia for a third time this month. Vice President Mike Pence's weekly December appearances have included stops to rally support for Georgia's Republican U."

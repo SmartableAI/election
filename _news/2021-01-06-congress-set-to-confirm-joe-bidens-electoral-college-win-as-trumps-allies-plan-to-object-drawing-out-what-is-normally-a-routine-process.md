@@ -2,30 +2,26 @@
 category: news
 title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
 excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
-publishedDateTime: 2021-01-06T12:34:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+publishedDateTime: 2021-01-06T12:36:00Z
+originalUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
+webUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
+ampWebUrl: "https://www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
 type: article
-quality: 106
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/lm1Un_uus5l4A35JzI5Wi1TBDus=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GC53U2I2QFG2VBFDHI3MEQPSCQ.jpg"
+  - url: "https://www.courant.com/resizer/lm1Un_uus5l4A35JzI5Wi1TBDus=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GC53U2I2QFG2VBFDHI3MEQPSCQ.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -2092,6 +2088,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump pushes Pence to overturn election: ‘This is a time for extreme courage!’"
+    excerpt: "Pence finds himself in the most precarious position of his tenure as he prepares to preside over Wednesday’s congressional tally of Electoral College votes, bearing witness to the formality of the Trump-Pence team’s defeat."
+    publishedDateTime: 2021-01-06T15:29:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-pushes-pence-to-overturn-election-this-is-a-time-for-extreme-courage.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-pushes-pence-to-overturn-election-this-is-a-time-for-extreme-courage.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-pushes-pence-to-overturn-election-this-is-a-time-for-extreme-courage.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 111
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EOZVLGBJLJDKPIDKTALZXNYV7A.jpg"
+        width: 4356
+        height: 2904
+        isCached: true
   - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
     excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
     publishedDateTime: 2020-12-31T18:51:00Z
@@ -2779,6 +2791,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "0uEtKe4FVoDSbnxGw8gTtOb17JpKzgNgBS/7XVDzMBxNWsQSBvtG1D3XYF3vz+KX7wBalpVAC0sNG/eI66Vf7Nn426+1l8OTG6EIgv571J+Kc3dYtwXaFOpQ8jLCtxDQndAp9ihoW9Zvo4NyUwkfrZU7NVfwWuFPy50kyeuYoJcpO9WAN8+CamTZKxgMQa3eBG/VEvjWx3MLlEDi1cue2B0oeAwSLxhX8l67+H95K/rgeeYSHrrWmDkbCnk6ZA+DJM/5NLR/9tfqi27/nSiFCURfaTrIvdBhMHtxp5w1kF7APAsQ52Eky/Pmb+c3hy3WZZj+PLFFJRq9D2UMH1Dccwv2lfvhqDRVDmF9qUOUT3zzYgM4hiyxHM3UseUUzei5rdW9Q2nsTGqF1qnDi3Zgdi9wktc8xA+JYPVFHeub7+/gteNH8cI5VrcM5EKLq9B9g++tPQwn8AyZah9nPRNwK0MsPwFC9ce0zxXK3RWZW5YLamRIQQuUTT6zekiZKxjIUeTaB7TFQPdJwzIzOSnPFQ==;QuDfA7g2J16DOlPmhyIZUA=="
+secured: "8/f/oattGfR57MDb30PajzBiGL3L7QzvgNF79sYYeJ+/QA90HG02biJHcH2+fMZtRhPhEpcZ+fTPHV+Jf/rsiLRfigtq0L05ED1X+O4Yj7BktqcivHJimcqPlD9unCsxEkJ/lo7yfuNgAsBpfBvO8IJWRVbGf37yy8ei/GiZ2QPDnJZIHYsC6i14KGAvXR5o7r/4rjZjOEP0+nSqHnDMc3FEO+vuh5Xc0vM/2iBL6zdl/5hTwqDUy/OhA05wNh15Rb1lTFzoBkeek+QAiwfhAAk20g13QfgHm0kr5ipJpngQbukbgpnuzhGhs3jT588Q5gFwbS8H6M9nRL3Gnxk3QOwKEuC/ClMVBc0KM6WHELU=;dbIl7gXkq2pzbFZf4iEyBw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runof
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
 type: article
 quality: 119
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Power Up: Possible twin Democratic wins in Georgia put Washington control in Biden's grasp"
+    excerpt: "Democrats came within striking distance of total control of Washington with possible twin victories in the Georgia Senate runoffs determining which party holds the Senate majority. If they prevail, President-elect Joe Biden would have an easier time pushing through his agenda and getting his nominations confirmed."
+    publishedDateTime: 2021-01-06T16:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M2OR4HSPPEI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden tells Georgia voters the ‘power is literally in your hands’"
     excerpt: "President-elect Joe Biden on Jan. 4 told Georgia voters their state can “chart the course not just for the next four years, but the next generation.”"
     publishedDateTime: 2021-01-04T22:30:00Z

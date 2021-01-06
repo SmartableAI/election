@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Powerless to change result, Pence braces for Trump's fury "
+    excerpt: "Vice President Mike Pence enters the US Capitol on Wednesday for a date with history.\n    \n"
+    publishedDateTime: 2021-01-06T15:49:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o45NUdGBJcY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/mike-pence-trump-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/mike-pence-trump-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025043134-mike-pence-october-24-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump says he hopes Pence 'comes through' while he rallies for Georgia senators"
     excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
     publishedDateTime: 2021-01-05T04:50:04Z

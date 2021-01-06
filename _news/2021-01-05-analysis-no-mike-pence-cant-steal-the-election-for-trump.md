@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 1715
+heat: 1735
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 200
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Powerless to change result, Pence braces for Trump's fury "
+    excerpt: "Vice President Mike Pence enters the US Capitol on Wednesday for a date with history.\n    \n"
+    publishedDateTime: 2021-01-06T15:49:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o45NUdGBJcY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/mike-pence-trump-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/mike-pence-trump-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025043134-mike-pence-october-24-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
+    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
+    publishedDateTime: 2021-01-06T13:26:00Z
+    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
+        width: 819
+        height: 461
+        isCached: true
 
 secured: "+HCS5/5w7dUvC7Qdi3YBcdba/JQt7gsGd7cJgFTRDon9+24EXMscS8YPi6xDayXUHuH9PEwSQ4r+oTS8L2ujl5PpTeYyKSN0ebAMHjLblmmM2eNvVReR+atCEPZDjCT96jcwe3rEbUim45UNQJPfK83oMXpcC7rr/x1xmn8ZZL7v9GsC8wQSRdKyBPC7778EKbKlOgUMo2MkH02trRqJWDHShkU3PdF6RIhqotfsuL5LLDi0z1Lwn2uIyUBnNvrhAq/yZHE+BPthUi2T9vsyGThdV5U68Cvl93aA/lLarkm38Izj+g97cvV5j2UN2/9AX0/gJRbVz0Q+lKfkspa14oLg6GivyuCv11zQZSaJcYZAN4wh99PxjUgpCZfBqPubF8el+PV4pXhgkoTPDPivZj/Z/rgu7NgSWb2kcd3eVbxZVSdmxD1efq5IEoq+BMqFpduIUfrTbRdz48dKHIcCMMmuOqhFA0I/GNsUacRxk5KrAnt2j3QTN6bZVFrk4ZTna10AEjBUjg7UYUD9+KDKJA==;6ksv9wOyKlj6wNJ96vGyHQ=="
 ---

@@ -1354,6 +1354,22 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Georgia’s Gift to Joe Biden"
+    excerpt: "The Democratic success in the South is poised to change the balance of power in Washington and strengthen the Biden presidency."
+    publishedDateTime: 2021-01-06T15:23:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/democrats-take-senate-majority/617562/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617562/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617562/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/ywyPsleYtkcOrv1ybTW7W8XIX7Y=/0x0:5086x2860/570x321/media/img/mt/2021/01/GettyImages_1294499682_toned/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Vice President Mike Pence will visit Georgia for a third time this month"
     excerpt: "One of the nation's top Republicans will be back in Georgia for a third time this month. Vice President Mike Pence's weekly December appearances have included stops to rally support for Georgia's Republican U."
     publishedDateTime: 2020-12-12T02:37:00Z
