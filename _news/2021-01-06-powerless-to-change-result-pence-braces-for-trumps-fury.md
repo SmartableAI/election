@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence took lead as Trump initially resisted sending National Guard to Capitol"
+    excerpt: "Vice President Mike Pence, not President Donald Trump, helped facilitate the decision to mobilize members of the DC National Guard Wednesday when violence at the US Capitol building started to escalate, according to a source familiar with the move and public comments from top officials.\n    \n"
+    publishedDateTime: 2021-01-07T03:26:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ABPRxlYN5A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/pence-national-guard/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/pence-national-guard/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 197
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106210828-35-electoral-college-vote-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump says he hopes Pence 'comes through' while he rallies for Georgia senators"
     excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
     publishedDateTime: 2021-01-05T04:50:04Z
@@ -560,6 +576,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Will Trump pay for the damage he caused?"
+    excerpt: "The Capitol building hasn't been breached since the War of 1812, when British soldiers burned Washington.\n    \n"
+    publishedDateTime: 2021-01-07T02:34:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zIUdca5zbSc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/what-matters-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/what-matters-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106194056-33-electoral-college-vote-protests-010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z
@@ -751,6 +783,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-trump-pence/05dc-trump-pence-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The Point: It took a violent insurrection for Republicans to realize Donald Trump was dangerous?"
+    excerpt: "Wednesday started with a rump group of House and Senate Republicans preparing to object to the Electoral College results to demonstrate their utter fealty. It ended with many of those same Republicans retreating from their deeply held beliefs about election fraud, tails between their legs.\n    \n"
+    publishedDateTime: 2021-01-07T04:02:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UHcR5AxhnlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/donald-trump-electoral-college-riot-us-capitol/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/donald-trump-electoral-college-riot-us-capitol/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106171753-04-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump attacks No. 2 Senate Republican as the President turns on allies in his final days in office"
     excerpt: "President Donald Trump is spending his final days in office attacking leadership within his own party, this time the second-highest ranking Republican in the Senate, offering a possible preview of his broader post-presidential strategy to use his influence in the 2022 midterm elections and beyond.\n "

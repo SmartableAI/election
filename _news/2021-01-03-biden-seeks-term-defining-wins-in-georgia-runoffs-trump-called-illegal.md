@@ -831,6 +831,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump-Biden transition live updates: Pro-Trump mob storms Capitol"
+    excerpt: "Kicking off up to two hours of debate on the Senate floor after some GOP lawmakers objected to the electoral vote count in Arizona, Senate Majority Leader Mitch McConnell made an extraordinary speech rebuking his fellow Republicans for their actions."
+    publishedDateTime: 2021-01-07T04:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dc16-rt-ml-210106_1609959619616_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump allies to challenge his election loss in showdown in U.S. Congress"
     excerpt: "Donald Trump's flailing effort to overturn President-elect Joe Biden's victory comes down to the U.S. Congress on Wednesday in a showdown led by a band of Republican lawmakers that could stretch proceedings past midnight but is almost certain to fail."
     publishedDateTime: 2021-01-06T20:45:00Z

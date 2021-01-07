@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
 type: article
 quality: 190
-heat: 790
+heat: 810
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://static.politico.com/9a/38/51b48e8d46c6bf9d50410002adce/0104georgia1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden condemns chaos at the Capitol as 'insurrection'"
+    excerpt: "President-elect Joe Biden condemned the protesters who stormed the U.S. Capitol saying \"it’s not protest, it’s insurrection.\" He called on President Trump to go on television and deliver a message to calm the chaos unfolding."
+    publishedDateTime: 2021-01-06T22:05:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-condemns-chaos-at-the-capitol-as-insurrection-98957381507"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98957381507"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98957381507"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_biden_full_210106_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"

@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-james-mattis-denounces-trump-says-he-will-be-left-a-man-without-a-country.md",
+      "title": "James Mattis denounces Trump, says he will be 'left a man without a country'",
+      "excerpt": "Former Defense Secretary James Mattis rebuked President Trump on Wednesday, accusing him of fomenting violence at the U.S. Capitol and poisoning Americans' respect for fellow citizens.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HSaidF_xl18/james-mattis-statement-trump-capitol-protests",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HSaidF_xl18/james-mattis-statement-trump-capitol-protests",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/james-mattis-statement-trump-capitol-protests.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-mattis-statement-trump-capitol-protests.amp",
+      "publishedDateTime": "2021-01-06T20:32:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-us-lawmaker-says-she-is-drawing-up-impeachment-papers-on-trump-after-mobs-storm-capitol.md",
+      "title": "U.S. lawmaker says she is drawing up impeachment papers on Trump after mobs storm Capitol",
+      "excerpt": "A Democratic congresswoman on Wednesday said she was drawing up articles of impeachment against President Donald Trump after mobs broke into the U.S. Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-impeachment-idUSKBN29B310",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-impeachment-idUSKBN29B310",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546907676&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AS",
+          "width": 766,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29B310",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B310",
+      "publishedDateTime": "2021-01-06T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
       "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
       "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
@@ -66,7 +174,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1180,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4328,
+      "heat": 4348,
       "tags": null,
       "images": [
         {
@@ -1223,110 +1331,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-is-my-president-protesters-gather-in-dc-a-day-before-congress-certifies-election.md",
-      "title": "'Trump is my president': Protesters gather in DC a day before Congress certifies election",
-      "excerpt": "Crowds gathered in Washington on Tuesday, a day before larger rallies and a congressional vote to certify the election are planned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/05/USAT/fb64f38a-fa86-4187-9fcc-00a05d2b22c4-MicrosoftTeams-image_3.png?auto=webp&crop=2775,1561,x1,y439&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4141044001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001",
-      "publishedDateTime": "2021-01-05T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-impeachment-again-ocasio-cortez-wants-it-but-democrats-say-no.md",
-      "title": "Trump Impeachment Again? Ocasio-Cortez Wants It, But Democrats Say 'No'",
-      "excerpt": "Cortez calls for Trump's impeachment following the leaked audio recording Omar also believes Trump's actions warranted impeachment Other progressives believe there is no time for an impeachment hearing Democratic Rep.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
-      "originalUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
-      "publishedDateTime": "2021-01-05T19:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

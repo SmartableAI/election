@@ -823,6 +823,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump-Biden transition live updates: Pro-Trump mob storms Capitol"
+    excerpt: "Kicking off up to two hours of debate on the Senate floor after some GOP lawmakers objected to the electoral vote count in Arizona, Senate Majority Leader Mitch McConnell made an extraordinary speech rebuking his fellow Republicans for their actions."
+    publishedDateTime: 2021-01-07T04:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dc16-rt-ml-210106_1609959619616_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -3236,6 +3252,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "ajieVyIGefj9XM4P2lA2x50J/PrMFTE5J4FmMnYAoWQRsl78Ka02Z0Mi5jeTSUiO5slthNJcQR12EuNOjZTOhMtr9xTs4rzRN6nNnFg6s67/X1TIvXrDUJnLFgFBnIWZ4VLecrstG0LuInMR2Zpzyq39wwhLpHMU3CGItPcZLi0rhBLjqRwKclKAW50AX6kXEcrpw4utvw5GadIItNZEhZIs9emg0uwwl/BNBL2GvfHtL4R82mVw3kqK6Mc9exfWygVdWs1GWbaB485CVk6M1b1C/n3ChQwLeTUhzGLPjoc8OgrAQ7qOgij7tFAlcmWSxDurAF3Vu1COGry2t74727s2yHoj++tRH0xQumBNm6E=;HDBMA5hZVNor80Nn0aq7lQ=="
+secured: "lDYtvKx4WFkD0IHnw84yhO89FAq7+s3OY8QbFGk3Xba4//wdKWDAhuDoxq4WOTAMbrv56IgHagn/9L9tgEdqkUsfSnXqJwUmZz4si9KyLbb8/Uj82dRs08sT3KEg5QS24cyDNOG+746EONGDtTb03M7QLYTsgI5sTZ8cyFMMuuaWipmRQmcEydDXVQtdjwBlhRWxPzP7Rlc+/fIAm/gU9tyk7eb9jtnPOGcz4WHBtWclPmVhTQB9y+4wXeQHH/kyzwyrawMsDZM5WYs2DR/iU3JNuWqXnv9Ym9Bsg8JwJXeMq+E+YBw/5P341Ave684X1jB7GZShqsMRushGV6wAggXvWsol427FDz9J8sb4FjJzNLkr6zZSFXAeGQcouZ1DXVhus11hmUrASnJVUmd4LoIcwjtJh/p9EHPwUilPJXwYqh5G5bIbz6I6ahUT6rPHSCmeJr3qHTpAlrS4Ru8/KiSKbN0MgzumBH9zsTJsV74uPbhuX9vY9pL8t4sxFvkIQ8BX63rMadQfz/b1Hr0rhA==;YylWecfb34BiBT9wN+WVxw=="
 ---
 

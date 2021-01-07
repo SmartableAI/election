@@ -464,6 +464,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden condemns chaos at the Capitol as 'insurrection'"
+    excerpt: "President-elect Joe Biden condemned the protesters who stormed the U.S. Capitol saying \"it’s not protest, it’s insurrection.\" He called on President Trump to go on television and deliver a message to calm the chaos unfolding."
+    publishedDateTime: 2021-01-06T22:05:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-condemns-chaos-at-the-capitol-as-insurrection-98957381507"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98957381507"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98957381507"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_biden_full_210106_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
     excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."
     publishedDateTime: 2021-01-05T01:02:00Z

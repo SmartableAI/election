@@ -433,6 +433,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama says Trump incited raid on US Capitol"
+    excerpt: "Former President Barack Obama attributed violence in the U.S. Capitol on Wednesday to President Trump, who has refused to accept the results of the 2020 presidential election."
+    publishedDateTime: 2021-01-07T03:07:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wer0F_HwF6k/obama-republicans-america-protesters-capitol-hill"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-republicans-america-protesters-capitol-hill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-republicans-america-protesters-capitol-hill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2aaa170-fd24-4bdd-bf2c-e82b55fa699d/bae0f20c-d0b7-4e6c-b952-52149816d1f2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Tom Cotton calls on Trump to 'quit misleading' supporters"
     excerpt: "Sen. Tom Cotton, R-Ark., said Wednesday night it was \"past time\" for President Trump to accept the results of the presidential election and called on him to \"quit misleading the American people.\" "
     publishedDateTime: 2021-01-07T01:51:30Z
@@ -782,6 +798,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-280293/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Pro-Trump Rioters Pour Into Capitol; Electoral College Debate Halted"
+    excerpt: "Some GOP lawmakers will make a last-ditch attempt to secure a second term for President Trump."
+    publishedDateTime: 2021-01-07T04:48:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001?mod=hp_lead_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-in-congress-challenge-bidens-election-win-11609929001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-281573/social"
         width: 1280
         height: 640
         isCached: true

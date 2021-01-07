@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -78,6 +78,34 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/4dd7473f-a1d3-453f-8f6c-a60a6c29799a-AFP_AFP_1V27EY.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden: ‘Our democracy is under unprecedented assault’"
+    excerpt: "Our democracy is under unprecedented assault’ President-elect Joe Biden called the violent protests on the U.S. Capitol “an assault on the most sacred of American un"
+    publishedDateTime: 2021-01-06T23:45:00Z
+    webUrl: "https://www.latimes.com/world-nation/sr4emgg8lps-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/858d7a9/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2F83%2F619bfaec459da2302398d46af236%2Fbiden-condemns-dc-riot-la-thmb.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden: Scenes at Capitol do not reflect America"
+    excerpt: "President-elect Joe Biden has called the violent protests on the U.S. Capitol “an assault on the most sacred of American undertakings: the doing of the people’s business.” (Jan. 6)"
+    publishedDateTime: 2021-01-06T23:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/06/biden-scenes-capitol-do-not-reflect-america/6573241002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6efba65c-1c98-495f-812e-b3e592f09ef5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
