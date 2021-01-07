@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-05-foley-lardner-concerned-by-partners-role-in-trump-call-to-ga-election-official.md",
+      "title": "Foley & Lardner 'concerned' by partner's role in Trump call to GA election official",
+      "excerpt": "Foley & Lardner said in a statement Monday that it is \"concerned by\" partner Cleta Mitchell's involvement in a conference call in which U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/lawyer-election-foley-idUSL1N2JF1SC",
+      "originalUrl": "https://www.reuters.com/article/lawyer-election-foley-idUSL1N2JF1SC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2JF1SC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF1SC",
+      "publishedDateTime": "2021-01-04T16:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official.md",
       "title": "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official",
       "excerpt": "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said.",
@@ -1490,58 +1533,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un.md",
-      "title": "Trump pardon of Blackwater Iraq contractors violates international law - UN",
-      "excerpt": "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108",
-      "originalUrl": "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546149005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0KQ",
-          "width": 662,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN294108",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294108",
-      "publishedDateTime": "2020-12-30T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "McCarthy condemns 'un-American' breach of US Capitol by pro-Trump demonstrators"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., condemned pro-Trump protesters who broke into the U.S. Capitol building Wednesday as Congress began to formally count the Electoral College votes in the 2020 presidential election."
-    publishedDateTime: 2021-01-06T20:50:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y-37_IupDEc/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
+  - title: "Facebook blocks Trump indefinitely after Capitol riot response"
+    excerpt: "Facebook CEO Mark Zuckerberg on Thursday said that President Trump’s Facebook and Instagram accounts will be blocked \"indefinitely,\" and for at least the next two weeks before Inauguration Day."
+    publishedDateTime: 2021-01-07T16:12:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcohqZayj0g/facebook-blocks-trump-indefinitely-capitol-riot-response"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d136cee0-68c8-481c-8476-30f8eea6f773/da014ad4-0a09-4d71-b370-39a8d93b99c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pro-Trump protesters storm Pelosi's office, take over Senate chamber at US Capitol"
-    excerpt: "Thousands of pro-Trump protesters stormed the U.S. Capitol on Wednesday, vandalizing House Speaker Nancy Pelosi’s office and both congressional chambers."
-    publishedDateTime: 2021-01-06T22:42:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTxiRdEaxDc/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
     excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
@@ -79,19 +63,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Watch Live: President Donald Trump Hosts \"Save America\" March At WH Ellipse"
-    excerpt: "Right Side Broadcasting Network will be live from Washington D.C. where President Trump is hosting a \"Save America\" March to protest what he says are election irregularities that Congress refuses to investigate."
-    publishedDateTime: 2021-01-06T14:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/06/watch_live_president_donald_trump_hosts_save_america_rally_at_wh_ellipse.html"
+  - title: "Trump to regain Facebook access Thursday night after account locked over response to Capitol violence"
+    excerpt: "President Trump will regain access to his Facebook account Thursday night after the social media giant locked him out of his account for the first time for violating its policies."
+    publishedDateTime: 2021-01-07T13:00:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wxxswMWaoLc/trump-facebook-access-account-locked-policy-violation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-facebook-access-account-locked-policy-violation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-access-account-locked-policy-violation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "The Triumph of Stacey Abrams Over Donald Trump"
+    excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
+    publishedDateTime: 2021-01-07T12:14:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/07/the_triumph_of_stacey_abrams_over_donald_trump_532874.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 63
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/531525.jpg"
+      - url: "https://assets.realclear.com/images/53/531661_5_.jpg"
         width: 750
-        height: 562
+        height: 500
         isCached: true
 
 secured: "/KqcjSixjP5hiJ8E8vDGdw7kxF9MvDpxlSTxK1EQ2L0ALKLAPlNZPxrU6Cws/bby2nwXoMfEOY1GSblue2N5wbbyYjsL6lnVN5mIaiyZoA4gRmZ5JwmBbdV+UP4b6n1BDRjjuCn8JvwDq7nU5Kr43zRT5HX5jfMAxF0VGbwmwhD/Hh9Ff0kEZWFmgMe3iX8QtQaqBskytmdJgyIkXRkCe3GhnF3ojXEjvDiJJdYnP7Ozx/OBQcsWzcFkRfvWmW601JUkqyi4WRD2egN29pRMZC/9ORSJ/nenMTVMPogj5GPdKxpLqFFkLJh26dg8bfzA/hfnk6hiHioPWCfRPkmOZAN/K5JV8e87AKFfbIPIPhU=;wK5eIS8acxloC37nQdvdmg=="

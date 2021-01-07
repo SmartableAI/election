@@ -940,6 +940,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook bans Trump through Biden inauguration, maybe longer"
+    excerpt: "Mark Zuckerberg says Mr. Trump's account will be locked \"for at least the next two weeks\" but could remain locked indefinitely."
+    publishedDateTime: 2021-01-07T16:34:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-bans-trump-joe-biden-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/17/04d7ed2c-d932-470e-93d8-fa681fc7bca1/thumbnail/1200x630g2/43ae5b19135a1ef9b14f853ffb0a2fed/zuckerberg-gettyimages-1178141608.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -2167,6 +2183,38 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_biden_123120getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Facebook bans President Trump through Inauguration Day, maybe longer"
+    excerpt: "Facebook will bar President Donald Trump from posting on its system at least until the inauguration of President-elect Joe Biden."
+    publishedDateTime: 2021-01-07T16:42:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-facebook-bans-trump-20210107-wgmlphmigvbx3ekt7da7r4zrmq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-facebook-bans-trump-20210107-wgmlphmigvbx3ekt7da7r4zrmq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-facebook-bans-trump-20210107-wgmlphmigvbx3ekt7da7r4zrmq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/I0V4uaxzPRvEzELkF92xb_2OYL4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JAJBMB4OW6ASF2Q7LDQ7EPS6HQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump barred Pence's chief of staff from the White House after the president attacked Pence for not trying to overturn the election"
+    excerpt: "Marc Short said President Donald Trump had barred him from the White House grounds because the president was \"blaming\" him for advice he gave Pence."
+    publishedDateTime: 2021-01-07T16:18:00Z
+    webUrl: "https://www.businessinsider.com/marc-short-trump-bans-pence-chief-of-staff-white-house-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/marc-short-trump-bans-pence-chief-of-staff-white-house-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-short-trump-bans-pence-chief-of-staff-white-house-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5ff6a21cd184b30018aad732?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."

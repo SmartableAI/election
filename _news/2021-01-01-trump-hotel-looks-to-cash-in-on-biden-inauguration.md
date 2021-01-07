@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia election wins give Biden a mandate -- and mounting expectations"
+    excerpt: "The Democratic sweep of Georgia's Senate seats has ushered in a heady new reality for President-elect Joe Biden, who will take office in two weeks with a mandate to act and the numbers on Capitol Hill to deliver on some of his most ambitious promises.\n    \n"
+    publishedDateTime: 2021-01-07T16:38:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yCXKkdjNzBk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/georgia-election-wins-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/georgia-election-wins-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106045747-01-biden-ossoff-warnock-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
     excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-29T16:02:19Z
@@ -461,6 +477,22 @@ related:
     quality: 135
     images:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_biden_full_210106_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Watch live: Biden introduces Department of Justice nominees"
+    excerpt: "Watch live coverage as President-elect Joe Biden introduces key nominees to serve at the Department of Justice."
+    publishedDateTime: 2021-01-07T16:29:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-introduces-department-of-justice-nominees-99036229902"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99036229902"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99036229902"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/biden_vacc.jpg"
         width: 1920
         height: 1080
         isCached: true

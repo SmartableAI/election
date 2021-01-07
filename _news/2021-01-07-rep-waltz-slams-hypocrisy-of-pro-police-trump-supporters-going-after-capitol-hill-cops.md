@@ -47,6 +47,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
+    excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
+    publishedDateTime: 2021-01-07T16:22:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Hgzdeq7pk4/barr-trump-capitol-riot-conduct-betrayal-office-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9aed44a-db71-42b1-be80-20049f1c4835/77d72207-2029-4609-bb18-cfb4ba5bb33c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
+    excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
+    publishedDateTime: 2021-01-07T16:37:00Z
+    webUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9aed44a-db71-42b1-be80-20049f1c4835/77d72207-2029-4609-bb18-cfb4ba5bb33c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ICunBgjXSdjM2njY63TlSfBTGYjlVpALW33uvPZo34PzPO0t5JIjDfkow2WQ0c6oQ11xVkJ4jWW8TJpeei2b9gGUG2k+J2P3mO6KCwpj823MxCAlXhik5ePWu+RhbhYUieW0ramnfWhgpoFPbL6+TJBN6xRXhU1kO3a1oHqAa5pASSbV4pF1Jb3nPWhtVF2P/F6XH6ptYI8DrMPy4+nOndA0afeN3gX9CG3sN8XArNieyOWer3IGaNWUWdnmpyiUoTDGjCFmOBxWHpS6uU9ar/gVmVb9Eaz9hQ0SuPLxmWQvOg5R19RKHZTjVMyfHeAGot+/dPD9hnPXfK6oU9P4KSwKNYoRRZvhvVJ8e6uvzeI=;mf48hpsHGCMkpJZV9b4lfw=="
 ---

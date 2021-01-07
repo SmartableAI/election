@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pence's chief of staff accuses Trump of locking him out of White House"
-    excerpt: "Vice President Mike Pence’s chief of staff Marc Short on Wednesday accused President Trump of revoking his White House access as tensions between Pence and Trump continued to deteriorate."
-    publishedDateTime: 2021-01-07T11:47:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVvHGVlvp54/pence-chief-of-staff-accuses-trump-locking-him-out-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 200
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/edfe28d6-6510-4581-b97c-5666a65a2a08/c8cd4be2-6c8f-4b00-8f46-f39d8a5f9a8d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden to campaign in Georgia on same day as Trump ahead of pivotal Senate elections"
     excerpt: "President-elect Joe Biden will campaign in Georgia the day before the Jan. 5 Senate runoff races there, the same day President Trump is scheduled to hold a rally for Sens. David Perdue and Kelly Loeffler."
     publishedDateTime: 2020-12-30T12:29:58Z
@@ -479,6 +463,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tom Cotton says pro-Trump Capitol protesters were 'insurrectionists'"
+    excerpt: "Sen. Cotton said that the riots Wednesday were \"no different\" than the chaos that unfolded last year over police brutality."
+    publishedDateTime: 2021-01-07T16:39:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia election official blames Loeffler's runoff loss on Trump, says 'no evidence of any irregularities'"
     excerpt: "Georgia election official Gabriel Sterling blamed Sen. Kelly Loeffler's runoff loss on President Trump’s battle to overturn the presidential election during a Wednesday press conference."
     publishedDateTime: 2021-01-06T20:02:33Z
@@ -655,6 +655,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump deletes Capitol tweets that sent account into lockdown, will regain access after 12-hour suspension"
+    excerpt: "President Trump has deleted three tweets that sent his account into lockdown Wednesday night, a Twitter spokesman told Fox News, and he will have the ability to tweet again once the 12-hour lockout is complete."
+    publishedDateTime: 2021-01-07T15:29:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M7VX6yzREho/trump-deletes-capitol-tweets-account-suspended"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-deletes-capitol-tweets-account-suspended.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deletes-capitol-tweets-account-suspended.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "How Trump Allies in Congress Plan to Challenge Joe Biden’s Electoral College Win"
     excerpt: "In the process set to unfold Wednesday, Republicans are ready to challenge some states’ results, alleging election irregularities and possibly forcing debate and votes in both chambers of Congress."
     publishedDateTime: 2021-01-02T12:03:00Z
@@ -718,6 +734,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
         width: 1280
         height: 719
+        isCached: true
+  - title: "Pence's chief of staff accuses Trump of locking him out of White House"
+    excerpt: "Vice President Mike Pence’s chief of staff Marc Short on Wednesday accused President Trump of revoking his White House access as tensions between Pence and Trump continued to deteriorate."
+    publishedDateTime: 2021-01-07T11:59:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/edfe28d6-6510-4581-b97c-5666a65a2a08/c8cd4be2-6c8f-4b00-8f46-f39d8a5f9a8d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump slams his VP, says Pence ‘didn’t have the courage' to decertify results of presidential election"
     excerpt: "President Trump on Wednesday slammed Vice President Mike Pence, saying he “didn’t have the courage” to decertify and return the results of the presidential election back to the states."

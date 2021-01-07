@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/7a/37a9e6e5-5a50-51a6-ae61-cf84bed6c2e2/5ff625ff0cd4a.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Facebook Bans Trump 'Indefinitely' For Inciting Violence"
+    excerpt: "Facebook banned President Donald Trump from the platform \"indefinitely\" due to his efforts to incite the violence in the US capital this week, chief executive Mark Zuckerberg said Thursday. Zuckerberg said the 24-hour ban announced Wednesday was extended because of Trump's \"use of our platform to incite violent insurrection against a democratically elected government."
+    publishedDateTime: 2021-01-07T16:34:00Z
+    webUrl: "https://www.ibtimes.com/facebook-bans-trump-indefinitely-inciting-violence-3116688"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/president-donald-trump-is-facing-growing-bans-from.jpg"
+        width: 1024
+        height: 689
         isCached: true
 
 secured: "6/+V+6LEKtE4NAA3BQ1ZGVCwLez+wAayYAIQaeE5yXeyPFLIcohLsQahXCVTik7c4yaJmUJxtfTLuxIpIvnzpTVmvY7H+QVjjkz5Jm61N3a9x08pUrQ46P8htrFvcYBNsfrM99+mK1Kf36uj/QmbClL1sdhgR2wC0cocCt5OtDYyFkB9tEc3InNFLefEHmTnGpxJXbibp8UQnncm4nbTj66qBvLrQ3LW3tQAxdg9wEpsYT0kBeMnL2Wx2n5Oc3K1O6MaLR+xq9aGZZE1y2RnhN9oYTsoz7XF/axhrwj71zIOOKeSi1FwEL5Rjkmhb8Vr3AlR3TxE9uJu0bzfxEw5956cBQu0KXpHlehP6EYVXfg=;OyAeuS5omiSXBxAiRS9DRw=="

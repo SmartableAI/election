@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook Bans Trump 'Indefinitely' For Inciting Violence"
+    excerpt: "Facebook banned President Donald Trump from the platform \"indefinitely\" due to his efforts to incite the violence in the US capital this week, chief executive Mark Zuckerberg said Thursday. Zuckerberg said the 24-hour ban announced Wednesday was extended because of Trump's \"use of our platform to incite violent insurrection against a democratically elected government."
+    publishedDateTime: 2021-01-07T16:34:00Z
+    webUrl: "https://www.ibtimes.com/facebook-bans-trump-indefinitely-inciting-violence-3116688"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/president-donald-trump-is-facing-growing-bans-from.jpg"
+        width: 1024
+        height: 689
+        isCached: true
 
 secured: "obRGOOM7d6+99qqNUEz2r7coo2f0nnC13udUshpVYeTYApNpPK1sgWLv8bI43pjUmHgkjzNfRGIQkE/p2TrSkSyZKEmGYSmginHVoX9aZIfMzD5VI/tODp7r4HWep0yO4pJSsUHZk0P0T7UC+pxHl+qM7AD7SpwBmtgdL2X5yUGlecvd2rTBCzy7Cowbp/Zbs2vnavVyxDh8SIerWqtMYts9aMRfE6Dsw+3/xQjaGu1xQk9k0gewjPa4Y++EkRF3VDUQiQxDKpVxkZyLcDnVyfkscDHFeFZA9d6ywUeb2ulAeYCX+/nUrgDJq6T0B8ywI5AVEovuRJyfSYU9FFRWStk0lSCGWyk6jDZCy9Mpz2Y=;Y5tffqnh6q1QUcY6+l5DMQ=="
 ---

@@ -107,6 +107,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to nominate Judge Merrick Garland for attorney general"
+    excerpt: "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday."
+    publishedDateTime: 2021-01-07T16:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C1FY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY"
+        width: 765
+        height: 545
+        isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
     publishedDateTime: 2020-12-31T12:49:00Z

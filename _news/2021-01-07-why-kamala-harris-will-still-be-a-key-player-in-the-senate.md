@@ -2,26 +2,26 @@
 category: news
 title: "Why Kamala Harris will still be a key player in the Senate"
 excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-publishedDateTime: 2021-01-07T14:02:00Z
-originalUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+publishedDateTime: 2021-01-07T15:41:00Z
+originalUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+webUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+ampWebUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
+  - url: "https://www.ocregister.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
     width: 1024
     height: 683
     isCached: true
@@ -74,6 +74,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ejAogAvEWOkBMvrvJdlr4AYHZzsCyT2FUZcqRgxNy554/jcXo8FV1/+swZXA55uvMhmOVwO7+5Mvcqo+gWY2DOzaQQLoEP9x8KbXKaXduPdEpiWabJH2OAaqxvgon8OsWShOO8a6X8abZL+v3WMlKxcNrD9+D5r6dehL+zaKDF+ceKDVwpKKCKLnzJjrRvPC0V9/1sBSdRDyPC5d0TlhZQb3fBu9NAeOgWT0Q+5bIhvNwCo4aHoauCroSXiTuRCZGLnhNHAaARVGESkZiw6+9Nvg3t3dZVfa/hee2HAG/VxpL2sgimdTjccfW6YnNfywMCUv4qfW4iCpb5B5BR1tfeJ05ai6LuFCGjn+fuw4XrA=;OiCb1iVw9I7D+CfKGcHqWA=="
+secured: "xsJcRoRXhYIa6ly7pvW8WpNKuU6ByyPEJ8H69F2tA16RFjP7YFmkUdNx4NHeFkdWci18q9+Zd4OeYGCQlZMWcEHG3UwtC1aXJggld9E9m71/B+eS/AKBGrGIqdnOgcdO+z661NgifhGKsfw5YAaKGHvAHnlBf0FsVbYcM2zYBwYksyBq/GF6+0q1c/sYElIyU8Y/Yp4EjIwPHjfT7awDbESFCwWWtw63iiY6wvX8ajwkMoZfq2OtDkW83klndFoTbSbB4Ef9BBsXBwYFkaHYDt7ld4jjIvx8xVeN19sFJtPc9mlqB5k2AeF2iu+yM4M56zm0KJ3sbZO9v6bTMwcQFZiBmplUrxRKVchSCDaTYZc=;yXBfuiIYe3XHdcBxMgX4oA=="
 ---
 

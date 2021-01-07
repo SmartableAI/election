@@ -2,13 +2,13 @@
 category: news
 title: "Pence's chief of staff accuses Trump of locking him out of White House"
 excerpt: "Vice President Mike Pence’s chief of staff Marc Short on Wednesday accused President Trump of revoking his White House access as tensions between Pence and Trump continued to deteriorate."
-publishedDateTime: 2021-01-07T11:47:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVvHGVlvp54/pence-chief-of-staff-accuses-trump-locking-him-out-white-house"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVvHGVlvp54/pence-chief-of-staff-accuses-trump-locking-him-out-white-house"
+publishedDateTime: 2021-01-07T11:59:00Z
+originalUrl: "https://www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house"
+webUrl: "https://www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house"
 ampWebUrl: "https://www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
 type: article
-quality: 200
+quality: 150
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/edfe28d6-6510-4581-b97c-5666a65a2a08/c8cd4be2-6c8f-4b00-8f46-f39d8a5f9a8d/1280x720/match/image.jpg"
@@ -464,6 +464,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tom Cotton says pro-Trump Capitol protesters were 'insurrectionists'"
+    excerpt: "Sen. Cotton said that the riots Wednesday were \"no different\" than the chaos that unfolded last year over police brutality."
+    publishedDateTime: 2021-01-07T16:39:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump. "
     publishedDateTime: 2020-12-31T18:32:08Z
@@ -655,6 +671,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb5e7ef-c511-4f9e-8b7f-01b5b52267da/5c3f2a9d-56e0-4a81-b6dc-dc0d26de28c6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump deletes Capitol tweets that sent account into lockdown, will regain access after 12-hour suspension"
+    excerpt: "President Trump has deleted three tweets that sent his account into lockdown Wednesday night, a Twitter spokesman told Fox News, and he will have the ability to tweet again once the 12-hour lockout is complete."
+    publishedDateTime: 2021-01-07T15:29:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M7VX6yzREho/trump-deletes-capitol-tweets-account-suspended"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-deletes-capitol-tweets-account-suspended.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deletes-capitol-tweets-account-suspended.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "How Trump Allies in Congress Plan to Challenge Joe Biden’s Electoral College Win"
     excerpt: "In the process set to unfold Wednesday, Republicans are ready to challenge some states’ results, alleging election irregularities and possibly forcing debate and votes in both chambers of Congress."
@@ -1134,6 +1166,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "4H0+OMkkDzkU0UfpLep/i9I8hggv4fUTJ1cQ0VkECL4NJjHMLRMEIbv6UxTXvPlJlgdmC9bKJLnMnzEZW7T78/C/cXeLuGYjeGGUYJKAn+WmD2RHmPit1crqZuHbudH9xPxj4wo6ngyBzh4mUJYtuOG01jCgh9dFa/oHQm2M1kqcLgkZB9NXlpfjJUARrBygrT2rwUTNsHK+IQ/4/3si/VZK6E5d9nGsfXvewvXHkLmyb0/pzR+wEavr+ugkXFOU+MPgU5WF051q8Hf3bI3iilpNM/ZsxkkGPR+xKjBHvglmu+CS8M2gI/48JRlc3h4zt7Kfkel04dP7jOoUeuV0mVOjJ26fYMvn+NAZkn0SHO8=;NEhLjsKfH6Oip0/KD9igDA=="
+secured: "jOeyKm5BNIQVeZpBRXS9W6nu7wcxzEsxsPf/HmfIpSaJ3Ome+Cx0IyfBlJqURHncieH1fuVSglrYKr7zuVrFhWQemFQGD908roKnbmcM31zwVNd+QQG6ZuZhOCIcaaHAXOir7pudoohJuGim0TDsnZks0gTim73kQju+DYif43BpW4Ww3+fL+tt5Ie+VkR1Fob8ikdGPRqje1fYvyKFGl84FUrRErcEL4dA9Y1UvCe3KGuBRvOU7NF+GtfTURmdR6/BJN66v8LE8bWgffeSCSdTEsMOo9WfDsSFBgOLBlMXMzv75L0hnO7hfwxysL6wWyjXX0vBRzr6AUga3wCVL8hfN2hB48Oq20lFUVFooAGE=;Ykza/r4w5CUIVauVR1Z2Xg=="
 ---
 
