@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 1595
+heat: 1615
 published: true
 
 provider:
@@ -543,6 +543,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116244fa-ac1e-4faf-85c9-04dd356cfc3f/deb67d8c-a0f5-486c-a3be-a3e50f207b20/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump promises 'orderly transition' on Jan. 20 after Electoral College results certified"
+    excerpt: "President Trump promised an \"orderly transition\" on Jan. 20 after Congress early Thursday certified the Electoral College vote that gave Democrat Joe Biden his presidential victory."
+    publishedDateTime: 2021-01-07T13:14:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kpV8Ei-9pV4/trump-orderly-transition-jan-20-electoral-college"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-orderly-transition-jan-20-electoral-college.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-orderly-transition-jan-20-electoral-college.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/SS-13.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "President to speak at pro-Trump rally in DC on sidelines of Electoral College certification"
     excerpt: "President Trump confirmed he would speak at a pro-Trump rally on Wednesday, taking place on the sidelines of a joint session of Congress to certify the results of the 2020 presidential election."

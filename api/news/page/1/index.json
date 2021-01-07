@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-read-pence-letter-saying-he-does-not-have-unilateral-authority-to-reject-electoral-votes.md",
+      "title": "READ: Pence letter saying he does not have 'unilateral authority' to reject electoral votes",
+      "excerpt": "Pence writes a letter saying he does not have 'unilateral authority' to reject electoral votes",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Pence-bt2.jpg",
+          "width": 1280,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T05:53:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-trump-to-regain-facebook-access-thursday-night-after-account-locked-over-response-to-capitol-violence.md",
+      "title": "Trump to regain Facebook access Thursday night after account locked over response to Capitol violence",
+      "excerpt": "President Trump will regain access to his Facebook account Thursday night after the social media giant locked him out of his account for the first time for violating its policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wxxswMWaoLc/trump-facebook-access-account-locked-policy-violation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wxxswMWaoLc/trump-facebook-access-account-locked-policy-violation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-facebook-access-account-locked-policy-violation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-access-account-locked-policy-violation.amp",
+      "publishedDateTime": "2021-01-07T05:00:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
       "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
       "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
@@ -180,7 +293,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 423,
+      "heat": 443,
       "tags": null,
       "images": [
         {
@@ -495,17 +608,17 @@
     {
       "path": "_news/2021-01-07-graham-calls-biden-lawfully-elected-says-enough-is-enough-following-breach-of-capitol.md",
       "title": "Graham calls Biden 'lawfully' elected, says 'enough is enough' following breach of Capitol",
-      "excerpt": "Sen. Lindsey Graham, R-S.C., called President-elect Joe Biden \"lawfully\" elected and urged his Senate colleagues \"Enough is enough\" regarding election fraud allegations. ",
+      "excerpt": "Sen. , R-S.C., called President-elect Joe Biden \"lawfully\" elected and urged his Senate colleagues \"Enough is enough\" regarding election fraud allegations.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IcbOW8o_AMI/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IcbOW8o_AMI/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
+      "webUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
+      "originalUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -521,7 +634,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
-      "publishedDateTime": "2021-01-06T21:11:23-08:00",
+      "publishedDateTime": "2021-01-06T21:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -545,6 +658,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1237,118 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-mccarthy-condemns-un-american-breach-of-us-capitol-by-pro-trump-demonstrators.md",
-      "title": "McCarthy condemns 'un-American' breach of US Capitol by pro-Trump demonstrators",
-      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., condemned pro-Trump protesters who broke into the U.S. Capitol building Wednesday as Congress began to formally count the Electoral College votes in the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y-37_IupDEc/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y-37_IupDEc/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d136cee0-68c8-481c-8476-30f8eea6f773/da014ad4-0a09-4d71-b370-39a8d93b99c0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp",
-      "publishedDateTime": "2021-01-06T12:50:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-biden-vows-to-get-big-things-done-after-georgia-senate-runoffs.md",
-      "title": "Biden vows to ‘get big things done’ after Georgia Senate runoffs",
-      "excerpt": "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
-      "publishedDateTime": "2021-01-06T09:49:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

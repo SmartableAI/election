@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-17-exclusive-new-agreement-needed-to-revive-iran-nuclear-deal-under-biden-iaea-chief-says.md",
+      "title": "Exclusive: New agreement needed to revive Iran nuclear deal under Biden, IAEA chief says",
+      "excerpt": "Reviving Iran's nuclear deal under U.S. President-elect Joe Biden would require striking a new agreement setting out how Iran's breaches should be reversed, U.N. atomic watchdog chief Rafael Grossi said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/iran-nuclear-iaea-exclusive-int-idUSKBN28R1VH",
+      "originalUrl": "https://www.reuters.com/article/iran-nuclear-iaea-exclusive-int-idUSKBN28R1VH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544906777&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG12V",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28R1VH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R1VH",
+      "publishedDateTime": "2020-12-17T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-election-2020-today-pence-to-georgia-bidens-climate-team.md",
+      "title": "Election 2020 Today: Pence to Georgia, Biden’s climate team",
+      "excerpt": "Here’s what’s happening Thursday in Election 2020 and President-elect Joe Biden’s transition. GOP FOCUS: Vice President Mike Pence touches down in Georgia again for a pair of rallies in Columbus and Macon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1995,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-pence-to-georgia-bidens-climate-team/2020/12/17/3164dc5e-4061-11eb-b58b-1623f6267960_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-17T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-un-security-council-to-talk-western-sahara-after-trump-policy-switch.md",
       "title": "U.N. Security Council to talk Western Sahara after Trump policy switch",
       "excerpt": "The U.N. Security Council is planning to discuss Western Sahara on Monday, diplomats said, after U.S. President Donald Trump recognized Morocco's sovereignty over the disputed region in return for the kingdom normalizing ties with Israel.",
@@ -1224,105 +1328,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-pompeo-applauds-barrs-loyalty-to-trump-following-ags-resignation.md",
-      "title": "Pompeo applauds Barr's loyalty to Trump following AG's resignation",
-      "excerpt": "Secretary of State Mike Pompeo praised Attorney General William Barr and lauded his loyalty to President Trump just a day after Barr resigned from his post. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a861ef0-3d82-42aa-9033-ade01358a10c/f1e888a1-a635-407b-94bb-f9ebfb0558ba/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
-      "publishedDateTime": "2020-12-15T16:34:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-pence-lauds-vaccine-effort-during-stop-at-indiana-plant.md",
-      "title": "Pence lauds vaccine effort during stop at Indiana plant",
-      "excerpt": "Vice President Mike Pence said Tuesday that he's looking forward to getting vaccinated for COVID-19 and that he expects to receive his first dose in the next",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "originalUrl": "https://apnews.com/072d19ccb696f25ff18715b831f072a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/f754d3185f964607a8735a917ca88426/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

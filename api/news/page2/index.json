@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-mccarthy-condemns-un-american-breach-of-us-capitol-by-pro-trump-demonstrators.md",
+      "title": "McCarthy condemns 'un-American' breach of US Capitol by pro-Trump demonstrators",
+      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., condemned pro-Trump protesters who broke into the U.S. Capitol building Wednesday as Congress began to formally count the Electoral College votes in the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y-37_IupDEc/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y-37_IupDEc/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d136cee0-68c8-481c-8476-30f8eea6f773/da014ad4-0a09-4d71-b370-39a8d93b99c0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp",
+      "publishedDateTime": "2021-01-06T12:50:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-biden-vows-to-get-big-things-done-after-georgia-senate-runoffs.md",
+      "title": "Biden vows to ‘get big things done’ after Georgia Senate runoffs",
+      "excerpt": "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
+      "publishedDateTime": "2021-01-06T09:49:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-the-cybersecurity-202-the-trump-administration-formally-says-russia-is-likely-behind-solarwinds-hack-culprit-will-trump.md",
       "title": "The Cybersecurity 202: The Trump administration formally says Russia is likely behind SolarWinds hack culprit. Will Trump?",
       "excerpt": "The Trump administration formally accused Russia of “likely” being behind the most devastating hack of U.S. government agencies in years. The statement, made jointly by four agencies in charge of intelligence and cybersecurity,",
@@ -230,7 +342,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -325,7 +437,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4808,
+      "heat": 4868,
       "tags": null,
       "images": [
         {
@@ -487,7 +599,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 451,
       "tags": null,
       "images": [
         {
@@ -755,7 +867,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 222,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -1213,119 +1325,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-hand-picks-replacement-for-atlantas-us-attorney-after-surprise-resignation.md",
-      "title": "Trump hand-picks replacement for Atlanta's US attorney after surprise resignation",
-      "excerpt": "President Donald Trump on Monday ordered a US attorney from southern Georgia to take over the nearby Atlanta office in an unusual move at the same time that Georgia and the Atlanta US Attorney has become a focus of the President in his attempt to overturn the state's certified election results.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VkfUTlZM-zw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VkfUTlZM-zw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105122517-bobby-christine-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byung-pak-bobby-christine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byung-pak-bobby-christine/index.html",
-      "publishedDateTime": "2021-01-05T11:29:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.md",
-      "title": "Trump puts pressure on Pence ahead of election showdown in Congress",
-      "excerpt": "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump. But regardless of the president’s turning up the volume on his vice president, White House",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
-      "publishedDateTime": "2021-01-05T10:50:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

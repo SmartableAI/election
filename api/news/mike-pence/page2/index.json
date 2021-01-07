@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-18-covid-us-vice-president-mike-pence-to-receive-vaccine.md",
+      "title": "Covid: US Vice-President Mike Pence to receive vaccine",
+      "excerpt": "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-55362697",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-55362697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17EF3/production/_116153089_tv063637087.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-55362697",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697",
+      "publishedDateTime": "2020-12-18T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-pence-in-georgia-vows-he-and-trump-will-keep-fighting.md",
       "title": "Pence in Georgia vows he and Trump will 'keep fighting'",
       "excerpt": "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail.",

@@ -895,21 +895,21 @@ related:
         width: 1440
         height: 1166
         isCached: true
-  - title: "Pence defies Trump, says he can’t reject electoral votes"
-    excerpt: "Defying President Donald Trump, Vice President Mike Pence says he doesn’t have the power to throw out the electoral votes that will make Democrat Joe Biden the next president in two weeks"
-    publishedDateTime: 2021-01-06T19:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-pressures-powerless-pence-on-electoral-count/2021/01/06/b1c92a78-502c-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pressures-powerless-pence-on-electoral-count/2021/01/06/b1c92a78-502c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pressures-powerless-pence-on-electoral-count/2021/01/06/b1c92a78-502c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+  - title: "Pence defies Trump, says he can't reject electoral votes"
+    excerpt: "Vice President Mike Pence is defying President Donald Trump, saying he doesn't have the power to throw out the electoral votes that will make Democrat Joe Biden the next president"
+    publishedDateTime: 2021-01-07T13:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-pressures-powerless-pence-electoral-count-75080012"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-pressures-powerless-pence-electoral-count-75080012"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-pressures-powerless-pence-electoral-count-75080012"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_92fdd973d9734d6c8fb4b2347ebb5094_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump-Biden transition live updates: Pro-Trump mob storms Capitol"
     excerpt: "Kicking off up to two hours of debate on the Senate floor after some GOP lawmakers objected to the electoral vote count in Arizona, Senate Majority Leader Mitch McConnell made an extraordinary speech rebuking his fellow Republicans for their actions."
@@ -926,6 +926,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/dc16-rt-ml-210106_1609959619616_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Trump pledges \"orderly transition\" after Congress affirms Biden win"
+    excerpt: "President didn't concede but his statement was as close as he's come to conceding an election he falsely insists was stolen,"
+    publishedDateTime: 2021-01-07T12:16:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/25/4ae36525-7e22-474c-8329-5a6dc8ef6f10/thumbnail/1200x630/a76ed4b9ca5e55c18da62ee84bf08078/trump-reid-615985-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
@@ -2043,6 +2059,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Twitter ban comes to end amid calls for tougher action"
+    excerpt: "Social media companies urged to terminate accounts after he appeared to encourage mob that stormed US Capitol"
+    publishedDateTime: 2021-01-07T14:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/07/donald-trump-twitter-ban-comes-to-end-amid-calls-for-tougher-action"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/07/donald-trump-twitter-ban-comes-to-end-amid-calls-for-tougher-action"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/07/donald-trump-twitter-ban-comes-to-end-amid-calls-for-tougher-action"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a6ce50a740c2358e15b412823585fda871281e3a/0_51_5722_3434/master/5722.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a2d3ea35d6294d82f27a15d85d03d8c3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Photos show pro-Trump rioters inside the US Senate chamber"
     excerpt: "Photos of the rioters inside the chamber show people sitting in Senate members' seats, as well as scaling walls and waving flags in support of Trump."
     publishedDateTime: 2021-01-07T06:18:00Z
@@ -2154,6 +2186,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Live Updates: Congress affirms Biden's win after assault on U.S. Capitol"
+    excerpt: "Vice President Mike Pence announced just after 3:40 a.m. Thursday that President-elect Joe Biden won the presidency, after Congress completed the counting of the Electoral College votes. The affirmation came hours after an assault by rioters who stormed the U."
+    publishedDateTime: 2021-01-07T12:57:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/758ec6bd-51b9-4af6-96f7-07383c1e92bb/thumbnail/1200x630/4b7d1ec6dd5ea8b026836d60f849a4be/ap21007205147289.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nation's capital braces for violence as extremist groups converge to protest Donald Trump's election loss"
     excerpt: "The Washington Metropolitan Police Department has stepped up precautions, including erecting signs stating that open carry of guns is illegal."
@@ -3600,6 +3648,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "24ruac2bHcHZQuVai6a5ldJEmuiISwjrbTdLhu2EB1YwYkgJ5KV47RGNbBpK7NuXqPkZ3Ro8xBG+2HAwGomtlsFPLRYLymziCFGG1megCvSLP2AlbfBmhGcqU7C0MBL+CDTe3Kj4qGgjMFtHgKPt6jBrHuea6B2HXYwkORLnE0X/SuCi5eh1kmsB/m7waNWWsJu7daSYO/79Dae+JjCKq1TTibYvCsYxKq1IikTIDu0QFZuOS3DCtSaCXJzu/egFfGnYSpNRw0pKVr1X7sCdoWsqFgAnnvsZJ+/99UEMUaInoVCyJPbsXkw8qVOSgkSbXtaAYX+UWdM9KM2eH7r5yM23HRt9KHgOmCBkvlBZiAs=;vZa9UkQpOA3bjG40OJM97A=="
+secured: "AGjOgqpS3iC6HvBjY7TwPJTtBl/QFtnGE4eFP3Zzj3PYNKfS7m9nlpEThRkpZXCFKPfwLsiDJ//bLXNM+fo4iHiqIVtBEDFHRr6E4gvvSY1fQCRHFGiEU+qtnzCA2HFvziiOozpi58qX+m0MtH1SdUElljG1FPWSyGs/3zUDxMZXS1frqd5/kPHzu/xZQ5At8Jxen31gktHn4gCFvenCKZxu7ooF7HRxlkVUTJSsZeEXZOhg+RboJ1mES6TS0e7NDsbxvPXm6veiU14Lb/P/wX8dXmimAM1b43sORhmqFHRF8rhj0a7AoCK/vXG4ssmjh0KkcBpGzzDk0F2TrGRy63tnlu1RAZtdK6az3LT3OBcpf4CG5zMscIyu9XIG6hX1Tl6vuIpbCy5/2B+ecQ0yxXx/Kn/gXChMNvfRPx0uIccgOgtnxQuC1fKeBzgbluSvscrLy/Pu8DN2ZJOrag+7ReYsCQKM+zLV6zcj9HtJnKDRWtQ1XP40IxAit9Mjs53EmRloB5uSawhevWDk1K1QgQ==;p/FwvvSvu3X26ARHwL0Ziw=="
 ---
 

@@ -158,6 +158,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Mexico says it shares Biden's focus on tackling migration's root causes"
+    excerpt: "\"The vision focuses on the protection of the human rights of migrants and refugees,\" said Foreign Minister Marcelo Ebrard, \"as well as on a regional response focused on economic development.\""
+    publishedDateTime: 2021-01-07T14:57:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/mexico-says-it-shares-biden-s-focus-tackling-migration-s-n1253236"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253236"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253236"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440374/210107-marcelo_ebrard-mc-1224_58c78a29660b1bc1726968e114f05ca9.JPG"
+        width: 3324
+        height: 2216
+        isCached: true
   - title: "Biden Denounces Storming of Capitol as a ‘Dark Moment’ in Nation’s History"
     excerpt: "The president-elect said the violence “borders on sedition” and made clear he viewed President Trump as responsible for inciting his supporters with baseless claims the election was stolen."
     publishedDateTime: 2021-01-07T07:55:00Z

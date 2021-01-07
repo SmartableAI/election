@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Graham calls Biden 'lawfully' elected, says 'enough is enough' following breach of Capitol"
-excerpt: "Sen. Lindsey Graham, R-S.C., called President-elect Joe Biden \"lawfully\" elected and urged his Senate colleagues \"Enough is enough\" regarding election fraud allegations. "
-publishedDateTime: 2021-01-07T05:11:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IcbOW8o_AMI/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IcbOW8o_AMI/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough"
+excerpt: "Sen. , R-S.C., called President-elect Joe Biden \"lawfully\" elected and urged his Senate colleagues \"Enough is enough\" regarding election fraud allegations."
+publishedDateTime: 2021-01-07T05:36:00Z
+originalUrl: "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough"
+webUrl: "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough"
 ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp"
 type: article
-quality: 165
-heat: 165
+quality: 125
+heat: 125
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "cp2sC1AmdegxGy5Ddo2jkiyPt4Dut9l/uRBkXXW2LruN3FbEqWEilqPiVAIzZElikFPo8tEeYGOaCzh98xyBFvTUMj7dK/RNvymhgFuMl+EhJvZI7RpV5q7aO5YLMJK6BBFRMQ0nlmK+1RvCkwqBBqKXXZ4muzHvX+TGQiW0Pd0HnjJT4mzAmNnhNGp5DSTm7CayB6gS962ke9M0UF+fj2TOipFJaRVwWvB3R0J1VO480r6i9Sbtz7HjXm9dOe972W7xfCgjT3cXCt48Sytq9cv+Au3cFU0xt8KxzNICEmvKpVQWnhi60yBuoe2sQIV+YEft7Usdt0kr3DNEmGxlzAVAIEwmyl+seAhL1VxDhyY=;TyG+zguimg9+g6FPQnH2uA=="
+secured: "S6FS5hzqSvFiyOXgPTWy0z+ape0cXt2nndfX+iYDhXt0oY2n1aIVuxgWOtoHpNC3MZhR5uNpVhLpaBir13jLgOAtj0tCaS1rGRK4CJ2SvhZrdi7DX+psCLmrUcD+NXdRBJymNRHrnbyAOYFqBKhUojYRiK1iH4z2JGUSztqzrx7lC+BszG060yWtVJ9qd1vBKZ/Vw2RSsxejYtUO5z79n3eKQLYzCl0ScbXVUEJjiURPh+fN2RMxNFzPGJKyh9RE/f8rk9j9RIY3Llq3omJkt1vlrNUCFc7/slSHitfVf0lFfv24s3s2YGQbEKJ7XRLZgEexIaJUWSVyNSWBbl76ApZNJCliLjjyzZaxGfhgxiQ=;+eayxHVjp/MqLU5SBbBw+Q=="
 ---
 

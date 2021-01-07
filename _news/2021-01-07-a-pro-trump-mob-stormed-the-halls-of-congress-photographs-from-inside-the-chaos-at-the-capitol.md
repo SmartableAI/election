@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 689
         isCached: true
+  - title: "Congress certifies Joe Biden as president hours after storming of Capitol"
+    excerpt: "Trump loyalists objected to certification of election result before joint session interrupted when mob breaches security"
+    publishedDateTime: 2021-01-07T10:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/06/congress-certify-election-biden-republicans-object"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/06/congress-certify-election-biden-republicans-object"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/06/congress-certify-election-biden-republicans-object"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/9da8faf3d99a52adfaf8ea034a239e9d38230b75/0_193_5807_3486/master/5807.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=de2ce9f34e538a331145bd735f29821c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
     excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat. But after hours of chaos in which police battled to regain control,"
     publishedDateTime: 2021-01-07T10:54:00Z

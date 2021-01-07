@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Mexico says it shares Biden's focus on tackling migration's root causes"
+    excerpt: "\"The vision focuses on the protection of the human rights of migrants and refugees,\" said Foreign Minister Marcelo Ebrard, \"as well as on a regional response focused on economic development.\""
+    publishedDateTime: 2021-01-07T14:57:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/mexico-says-it-shares-biden-s-focus-tackling-migration-s-n1253236"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253236"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253236"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440374/210107-marcelo_ebrard-mc-1224_58c78a29660b1bc1726968e114f05ca9.JPG"
+        width: 3324
+        height: 2216
+        isCached: true
   - title: "Trump commits to 'orderly transition' in statement after mob storms Capitol"
     excerpt: "President Donald Trump finally committed to \"an orderly transition\" of power Thursday minutes after Congress confirmed President-elect Joe Biden's election win. The striking reversal came hours after a violent mob of the president's supporters stormed the U."
     publishedDateTime: 2021-01-07T10:48:00Z
@@ -223,6 +239,6 @@ related:
         height: 720
         isCached: true
 
-secured: "bcdtOhb7FZ9mugTLeMT9ODwCtPinF4gntoHuLAPkZxOgY5DmsOJsCVgjeR4fhlPimJPr8w5vjPe7IsVLxKa2nm5GIOLqGWMYiAx29s2nombcj3EQIYEGkG7zEh3LjMkB+oMGoQfn0BaLfOv4Wqujtd/boMfoN+ArgwZuzWdGSwEWuQeTfIxjoU6MvJWh+lgfbbRmU8gDRc7E1TyGHAmuj4oaIjKuYA0yKt1+Y9mFhgHWRnSdnzk7nsJyjeK55qOFFCa+k5/R/86svg4Gh1Y+YUDvYPZImjQxdmYqPYbBb9XWYTRVdagUZXV5I7RYqAPArnEodqXsxxo/5YjvvdQm2xPEsxUIqouVNwqSYcn1SC4=;zoeCetpLN4Uvxgd8R2rKbg=="
+secured: "9Kzv4SyJTl/KVIyUfmaAfkfm3JvKcA+cT2efqh7eNkqH4b65KUGiQZvPFaVaQ1CDFe8rMaDginopP4PHz1nHopLEapAkVOpno4SEAyB58wdTa2m3tpaXPt/uDLXNiMpm49wO2dZE6svwF9iqghYa8G26kz2psF0dm/bj7KDuqGu73Uf86P2i4ugTGQ9ExcjRUceJIDHmvomH56/uGIq5O9UkpiGrCGqtTHR7tha/1FnreX5+b19uDg5mG4K122CSN+caOlS07x+BHOFA2YrqqaJENjolXg78kcX4Hqqhz0gRqB5/T/DstbdLm/ElDNnquO4yA4eP6PF3fyUB+ypkbQ0dklxzme9h0NViSfZ4mxJsaCFqH/yPXaL7anfCGO2q5Ozr05rl7M8eo4atFpBgst5RterZ0EMERjU23hdsGJHEJOD9fDbAxj3ehnfL+irgMebfFpET+L5Ew98fjsI6JJ/XiyeZ+LSxYuA7361UNoFyLyq2EYBg3yEayKJpbs4eISSFUD2JaCUSw//BdBI2Dw==;wATBRpE7YAmHaBzenKfYdQ=="
 ---
 
