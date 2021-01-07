@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/?
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
 type: article
 quality: 123
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,37 +31,80 @@ images:
     isCached: true
 
 related:
-  - title: "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\""
-    excerpt: "Hosts and performers for the annual Times Square celebration, which will look different this year due to the pandemic, have also been announced."
-    publishedDateTime: 2020-12-30T17:42:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
+  - title: "Biden calls on mob to ‘pull back,’ urges restoring decency"
+    excerpt: "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect"
+    publishedDateTime: 2021-01-07T02:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/4b851fdc-667c-48de-be4e-98a99b908e10/thumbnail/1200x630/b1cd6639542992408bad69c0009ab144/gettyimages-1230199205.jpg"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election"
+    excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."
+    publishedDateTime: 2021-01-06T04:25:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/MVX3V3Xx8vQH_4keIQqEc6uYqe0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HZALOYUTVCGNEB5TIWZCFNDFY.JPG"
+        width: 1200
+        height: 751
+        isCached: true
+  - title: "Reject Joe Biden policies and 'misguided calls' for free college, Betsy DeVos urges in farewell letter"
+    excerpt: "In a letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject Biden's agenda, and shield Trump administration policies."
+    publishedDateTime: 2021-01-05T13:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2021/01/05/reject-biden-education-policies-betsy-devos-tells-congress-letter/4138351001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4138351001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4138351001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/4dd7473f-a1d3-453f-8f6c-a60a6c29799a-AFP_AFP_1V27EY.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
+    excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
+    publishedDateTime: 2021-01-05T04:58:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-election-petition/it-is-time-new-york-law-firm-leaders-urge-congress-to-certify-biden-win-idUSL1N2JF2LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JF2LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF2LY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
+    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
+    publishedDateTime: 2021-01-02T23:43:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 50
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
-    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
-    publishedDateTime: 2021-01-06T13:26:00Z
-    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
-        width: 819
-        height: 461
         isCached: true
 
 secured: "6WAOCtSnNN/ptH12rNQo6YIN0Vk9Rawv8vcIV64h61wClrMwyO4ACxw3ytoFP9jbxjQ5YHQtF7c5bh39s/3kFvUoYxCjoxZsegPtXOV6iTIdfkzWB7hzxgLxmQsTwD+l5xCUNSk3acrdJUl6Xlr2SKzv+5EI5HxFVJJsZCuW92yVkl11Qur8kfMBdQm7qXZLbJ4vydPiy8XfXn+ZneaJ527YsFJTRYXaaNd7iCuwd5W4VvXJh2jup7GQ+P2DnLptieOBpOhfzaF6NwHgIDkQSbH5nlYXyZtj8znW3CHs79+l0f6xJtJzefedPqQgfzdjRuwU1iqiXLjcUiRAZ3hK4BvApIPl70soEPdJ+hArdXpwijTr9tlMB0S/W/zVKm1MnK3T27TZ2/1jFJb4aBcjfqwpaucNNzj6v7dTKd1PACgXXTgWyawRMz4Bxv8Vt63Kr/R3NPmdeiXFBe6K3rJiHnvdgFNkXw9Iw42UUEDPG8nYsqH27pV6Xe5ZD/e8Ym+e2tojDNrqVEcR+ctt8Butiw==;fGC9ExK8597TUXBiyJCyTQ=="

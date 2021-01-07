@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 1495
+heat: 1515
 published: true
 
 provider:
@@ -413,6 +413,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2afb325-628d-4555-9f91-0f96e2a4c747/64e456b4-b4e1-4314-8170-0a961286f86f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Tom Cotton calls on Trump to 'quit misleading' supporters"
+    excerpt: "Sen. Tom Cotton, R-Ark., said Wednesday night it was \"past time\" for President Trump to accept the results of the presidential election and called on him to \"quit misleading the American people.\" "
+    publishedDateTime: 2021-01-07T01:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iru5BYmSLUw/cotton-trump-quit-misleading-withdraw-election-objections"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-trump-quit-misleading-withdraw-election-objections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-trump-quit-misleading-withdraw-election-objections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

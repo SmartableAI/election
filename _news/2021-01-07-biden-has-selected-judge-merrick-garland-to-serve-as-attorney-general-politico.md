@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
 type: article
 quality: 120
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
-    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
-    publishedDateTime: 2021-01-02T23:43:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 50
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
         width: 1200
         height: 630
         isCached: true

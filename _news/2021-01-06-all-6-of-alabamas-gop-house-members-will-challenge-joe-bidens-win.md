@@ -27,37 +27,32 @@ images:
     isCached: true
 
 related:
-  - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
-    excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
-    publishedDateTime: 2021-01-02T21:39:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
+  - title: "GOP senator rebukes 'dangerous ploy' to fight Biden victory"
+    excerpt: "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions."
+    publishedDateTime: 2021-01-01T12:23:00Z
+    webUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DHK3LPR2WYI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\""
-    excerpt: "Hosts and performers for the annual Times Square celebration, which will look different this year due to the pandemic, have also been announced."
-    publishedDateTime: 2020-12-30T17:42:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Texas’ Ted Cruz Leads 11 Senators in Attempt to Challenge Joe Biden’s Victory"
+    excerpt: "Texas Sen. Ted Cruz said he will spearhead a drive by nearly a dozen Republican senators to challenge President-elect Joe Biden’s victory in the Senate."
+    publishedDateTime: 2021-01-02T19:55:00Z
+    webUrl: "https://timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads-11-senators-in-attempt-to-challenge-joe-bidens-victory/"
+    ampWebUrl: "https://timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads-11-senators-in-attempt-to-challenge-joe-bidens-victory/amp/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/01/02/texas-ted-cruz-leads-11-senators-in-attempt-to-challenge-joe-bidens-victory/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 72
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/4b851fdc-667c-48de-be4e-98a99b908e10/thumbnail/1200x630/b1cd6639542992408bad69c0009ab144/gettyimages-1230199205.jpg"
-        width: 1200
-        height: 630
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/01/Ted-Cruz.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "5Ga71BntAkXEpghj3jqbxC3rZc3XZ8c3udFNO/XYs8uStwbBmfOEPcDWYd11N0b6mq7ysudZeHnbtGPDo6JBJtD+re2gJJG7M/abqo7ysChSe0rnNzflakOKJ0JHA13ux0OUZH40ERbssKryB61RZSkC6VBAi+/OWH1XLKxmg+UgLryTyZPMm+nHIR2vKivlfVhdsVmBF3zEFH5QNJdmfrvXzNg7LjrQsInXQSC6B6LM1G/BwcDICaltem6578OZLxM3apof3TigoiUvd2L9i4jKXHcLSbTlG+sGIUlgxgmz0zg9TzGpjH2AQA/vjvOul4xijmFG86DG0V81RYMkxyIcR8TYxrDTsu1ti+rKUjy7tAejIptmLhzDNDQhA38fQFjF0PP7SKBnzm5jS5kxMMv1Sg6BVKoUj6PB0B+5xXVOuG9+8hfj7k6W/fg24PQodefQPpaEld6NUOduybRbZp/nlNKzltSW6y6xb9rWjIMATnEYWTMZSR3JR0V6GIyLaY6EbQhvef5saIUpcLYXBw==;b/++hnxju8gj11RYol42wA=="

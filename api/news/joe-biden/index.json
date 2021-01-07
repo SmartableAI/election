@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-calls-on-mob-to-pull-back-urges-restoring-decency.md",
+      "title": "Biden calls on mob to ‘pull back,’ urges restoring decency",
+      "excerpt": "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T18:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-biden-has-selected-judge-merrick-garland-to-serve-as-attorney-general-politico.md",
       "title": "Biden has selected Judge Merrick Garland to serve as attorney general - Politico",
       "excerpt": "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -34,58 +86,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-chicago-business-leaders-at-united-west-monroe-partners-sidley-and-edelman-urge-congress-to-certify-joe-bidens-election.md",
-      "title": "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election",
-      "excerpt": "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html",
-      "originalUrl": "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/MVX3V3Xx8vQH_4keIQqEc6uYqe0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HZALOYUTVCGNEB5TIWZCFNDFY.JPG",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-05T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -181,58 +181,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-reject-joe-biden-policies-and-misguided-calls-for-free-college-betsy-devos-urges-in-farewell-letter.md",
-      "title": "Reject Joe Biden policies and 'misguided calls' for free college, Betsy DeVos urges in farewell letter",
-      "excerpt": "In a letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject Biden's agenda, and shield Trump administration policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2021/01/05/reject-biden-education-policies-betsy-devos-tells-congress-letter/4138351001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2021/01/05/reject-biden-education-policies-betsy-devos-tells-congress-letter/4138351001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/05/USAT/4dd7473f-a1d3-453f-8f6c-a60a6c29799a-AFP_AFP_1V27EY.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4138351001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4138351001",
-      "publishedDateTime": "2021-01-05T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -585,58 +533,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-03-two-biden-aides-will-recuse-on-blackrock-issues-as-past-ties-pose-questions.md",
-      "title": "Two Biden aides will recuse on BlackRock issues as past ties pose questions",
-      "excerpt": "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DHK3LPR2WYI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp",
-      "publishedDateTime": "2021-01-02T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory.md",
       "title": "GOP senator rebukes 'dangerous ploy' to fight Biden victory",
       "excerpt": "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions.",
@@ -645,7 +541,7 @@
       "originalUrl": "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -789,6 +685,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-31-president-elect-joe-biden-and-wife-jill-to-appear-dick-clarks-new-years-rockin-eve.md",
+      "title": "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\"",
+      "excerpt": "Hosts and performers for the annual Times Square celebration, which will look different this year due to the pandemic, have also been announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/4b851fdc-667c-48de-be4e-98a99b908e10/thumbnail/1200x630/b1cd6639542992408bad69c0009ab144/gettyimages-1230199205.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "publishedDateTime": "2020-12-30T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-joe-and-jill-biden-to-appear-on-ryan-seacrests-new-years-rockin-eve.md",
       "title": "Joe and Jill Biden to appear on Ryan Seacrest's 'New Year's Rockin' Eve'",
       "excerpt": "President-elect Joe Biden and his wife, Dr. Jill Biden, will join Ryan Seacrest on Thursday night's \"Dick Clark's New Year's Rockin' Eve.\"",
@@ -843,49 +791,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-joe-and-jill-biden-to-appear-on-new-years-rockin-eve.md",
-      "title": "Joe and Jill Biden to appear on ‘New Year’s Rockin’ Eve’",
-      "excerpt": "Ryan Seacrest will have a special pair of guests alongside the music stars at this year's New Year's Eve celebration on ABC — the president-elect and the future",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis-capaldi-dick-clark-582a11fe48bccec094633ca0e4e9521c",
-      "originalUrl": "https://apnews.com/article/joe-biden-new-york-julia-michaels-lewis-capaldi-dick-clark-582a11fe48bccec094633ca0e4e9521c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/dd400ca012f046a0aa2c2305203acdf5/3000.jpeg",
-          "width": 3000,
-          "height": 2056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1584,6 +1489,115 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-biden-to-push-for-more-coronavirus-relief-setting-up-a-clash-with-gop.md",
+      "title": "Biden to push for more coronavirus relief, setting up a clash with GOP",
+      "excerpt": "Many Democrats backing the coronavirus relief bill are counting on Biden to push for another aid package shortly after taking office. But Republicans oppose another deal, setting up an early clash of wills between Biden and Senate Republicans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX46U2CDZQI6XLBKHLAPFOGO5M.jpg&w=1440",
+          "width": 1440,
+          "height": 965,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-21T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-biden-transition-highlights-congress-reaches-a-deal-on-stimulus-package.md",
+      "title": "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package",
+      "excerpt": "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-12-21T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

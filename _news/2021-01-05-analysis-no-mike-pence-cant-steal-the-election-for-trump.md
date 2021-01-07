@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 1895
+heat: 1915
 published: true
 
 provider:
@@ -525,6 +525,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216040347-02-mitch-mcconnell-1215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Angry Republican leaders float removing Trump from office"
+    excerpt: "After violent pro-Trump protesters stormed the US Capitol on Wednesday, a growing number of Republican leaders told CNN that they believe Donald Trump should be removed from office before January 20. Four of them called for the 25th Amendment to be invoked, and two others said the President should be"
+    publishedDateTime: 2021-01-07T02:50:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w_IJeqSDfXs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/trump-capitol-impeachment-25-amendment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/trump-capitol-impeachment-25-amendment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

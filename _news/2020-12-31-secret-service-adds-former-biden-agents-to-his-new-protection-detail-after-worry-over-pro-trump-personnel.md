@@ -431,6 +431,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Tom Cotton calls on Trump to 'quit misleading' supporters"
+    excerpt: "Sen. Tom Cotton, R-Ark., said Wednesday night it was \"past time\" for President Trump to accept the results of the presidential election and called on him to \"quit misleading the American people.\" "
+    publishedDateTime: 2021-01-07T01:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iru5BYmSLUw/cotton-trump-quit-misleading-withdraw-election-objections"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-trump-quit-misleading-withdraw-election-objections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-trump-quit-misleading-withdraw-election-objections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Georgia election official blames Loeffler's runoff loss on Trump, says 'no evidence of any irregularities'"
     excerpt: "Georgia election official Gabriel Sterling blamed Sen. Kelly Loeffler's runoff loss on President Trump’s battle to overturn the presidential election during a Wednesday press conference."
     publishedDateTime: 2021-01-06T20:02:33Z

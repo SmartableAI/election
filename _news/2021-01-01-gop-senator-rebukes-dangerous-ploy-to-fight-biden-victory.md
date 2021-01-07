@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1?amp"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - Joe Biden
 
 related:
+  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
+    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
+    publishedDateTime: 2021-01-06T13:26:00Z
+    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
+        width: 819
+        height: 461
+        isCached: true
   - title: "Texas’ Ted Cruz Leads 11 Senators in Attempt to Challenge Joe Biden’s Victory"
     excerpt: "Texas Sen. Ted Cruz said he will spearhead a drive by nearly a dozen Republican senators to challenge President-elect Joe Biden’s victory in the Senate."
     publishedDateTime: 2021-01-02T19:55:00Z

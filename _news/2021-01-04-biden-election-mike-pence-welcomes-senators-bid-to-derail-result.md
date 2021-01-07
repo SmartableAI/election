@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mike Pence defies Donald Trump, says he won't block Congress from affirming Biden's win"
+    excerpt: "Defying his boss, Vice President Mike Pence said Wednesday that only lawmakers can decide today whether to accept the electoral college votes."
+    publishedDateTime: 2021-01-06T20:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/pence-defies-trump-says-he-cant-change-electoral-college-votes/6566014002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6566014002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6566014002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 157
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/fd31a7d3-6a81-404b-90c3-e3333347e19d-Pence_letter.jpg?auto=webp&crop=4479,2520,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Despite pressure from Trump, Pence won't interfere in election count Wednesday: advisers"
     excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties when presiding in Congress on Wednesday, advisers said."
     publishedDateTime: 2021-01-06T02:04:00Z
@@ -286,22 +302,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546458150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0201B"
         width: 817
         height: 545
-        isCached: true
-  - title: "Mike Pence defies Donald Trump, says he won't block Congress from affirming Biden's win"
-    excerpt: "Defying his boss, Vice President Mike Pence said Wednesday that only lawmakers can decide today whether to accept the electoral college votes."
-    publishedDateTime: 2021-01-06T20:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/pence-defies-trump-says-he-cant-change-electoral-college-votes/6566014002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6566014002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6566014002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 147
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/fd31a7d3-6a81-404b-90c3-e3333347e19d-Pence_letter.jpg?auto=webp&crop=4479,2520,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump"
     excerpt: "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming."
@@ -2126,6 +2126,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch live: Angry Trump supporters swarm Capitol, breaking in and ending session to certify Joe Biden’s victory"
+    excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
+    publishedDateTime: 2021-01-06T18:09:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-congress-electoral-college-20210106-22a65e6fdjgandnkhq6z46usyi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/DcvK5aSHKrOXTH-Q1Tzf8JRhfEc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XR57XIL6B3AAQ67N5EEAP5TNDM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -2657,6 +2673,38 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Mike Pence defies Donald Trump, says he can’t reject electoral votes"
+    excerpt: "Defying President Donald Trump, Vice President Mike Pence said Wednesday that he does not have the power to discard electoral votes that will make Democrat Joe Biden the next president on Jan. 20."
+    publishedDateTime: 2021-01-06T19:19:00Z
+    webUrl: "https://www.denverpost.com/2021/01/06/pence-defies-trump-electoral-votes/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/06/pence-defies-trump-electoral-votes/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/06/pence-defies-trump-electoral-votes/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21006689267706.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pro-Trump mob storms US Capitol in bid to overturn election"
+    excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
+    publishedDateTime: 2021-01-07T02:14:00Z
+    webUrl: "https://www.chron.com/news/article/Congress-set-to-confirm-Biden-s-electoral-win-15849279.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Congress-set-to-confirm-Biden-s-electoral-win-15849279.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-set-to-confirm-Biden-s-electoral-win-15849279.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/03/65/20462944/63/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
     excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
     publishedDateTime: 2021-01-02T23:38:00Z
@@ -2873,6 +2921,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
         width: 1200
         height: 906
+        isCached: true
+  - title: "Impeach and Remove Trump Now"
+    excerpt: "USA demands the truth!” Minutes later, some staffer seems to have alerted Trump to the events on Capitol Hill, or else, to his potential legal culpability in the same, and the president finally asked his supporters to “remain peaceful” and “ respect the Law and our great men and women in Blue."
+    publishedDateTime: 2021-01-07T02:59:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-supporters-capitol-hill-insurrection-impeachment.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-supporters-capitol-hill-insurrection-impeachment.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-supporters-capitol-hill-insurrection-impeachment.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/446/7a1/bb789af3e04996965c0ff4bb8ffdf4f5a0-capitol-riot.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The lies Trump told just before protesters stormed Capitol"
     excerpt: "Trump has been telling wildly false tales about the election outcome for two months in a flailing effort to upend Biden’s win. Trump didn’t pull back now, in a moment of reckoning that is sure to seal his defeat despite the chaos and moves by some of his allies in Congress to drag out the certification of the Electoral College results."

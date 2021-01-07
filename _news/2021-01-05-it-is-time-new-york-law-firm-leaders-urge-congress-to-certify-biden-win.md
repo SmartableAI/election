@@ -25,6 +25,38 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Biden calls on mob to ‘pull back,’ urges restoring decency"
+    excerpt: "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect"
+    publishedDateTime: 2021-01-07T02:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
+    excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
+    publishedDateTime: 2021-01-02T21:39:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/02/blackrock-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DHK3LPR2WYI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election"
     excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."
     publishedDateTime: 2021-01-06T04:25:00Z
@@ -40,6 +72,38 @@ related:
       - url: "https://www.chicagotribune.com/resizer/MVX3V3Xx8vQH_4keIQqEc6uYqe0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HZALOYUTVCGNEB5TIWZCFNDFY.JPG"
         width: 1200
         height: 751
+        isCached: true
+  - title: "Reject Joe Biden policies and 'misguided calls' for free college, Betsy DeVos urges in farewell letter"
+    excerpt: "In a letter to Congress on Monday, Education Secretary Betsy DeVos urged lawmakers to reject Biden's agenda, and shield Trump administration policies."
+    publishedDateTime: 2021-01-05T13:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2021/01/05/reject-biden-education-policies-betsy-devos-tells-congress-letter/4138351001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4138351001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4138351001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/4dd7473f-a1d3-453f-8f6c-a60a6c29799a-AFP_AFP_1V27EY.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
+    excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
+    publishedDateTime: 2021-01-02T23:43:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/02/cruz-will-object-when-congress-certifies-joe-bidens-electoral-win-joining-10-other-senators-demanding-10-day-delay/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 50
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/GjyjdwKgSWvrxB3WPQ4706lUBYQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/F3TFN4PDRCQW5RNNO3KVFZ6EKI.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rF/Y+8Hfsk/J69BuToj2L8t6wS+vk/Ev3D+isuFao4n6VyEozW63Rk6Sk80/Y4VEimX8HzwfIW60QZ38H1yy59gAXtkrJAmyylrDpGlTpp/svALMsswVT2toLlN2p8N/UCg8ibv6ETAX2KnqAl0dTMPflxJkgcJa1eOTplpet/yCw+LcQhwIhObTKZ9DL9yUE8hnA1cFwk9h8GWXdwuW+ez5yTykx52BsR9iU/VfuVlESs3tT+pg1wYfeon5eWEq/TlFWPlaM3x7Xmsrvj9xZaGM+AsRs+RW3L1CYhymsKOeiIPJQmp4cyJ5nYS7nmOD4++XXWTHbl4Tr43GQAUZXyLDwa0LMSW++dK6Cuey85o=;HOMBIZZWAhAHRT1tDGqtiw=="

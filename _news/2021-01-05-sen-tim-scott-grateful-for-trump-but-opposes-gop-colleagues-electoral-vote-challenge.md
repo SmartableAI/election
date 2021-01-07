@@ -431,6 +431,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Tom Cotton calls on Trump to 'quit misleading' supporters"
+    excerpt: "Sen. Tom Cotton, R-Ark., said Wednesday night it was \"past time\" for President Trump to accept the results of the presidential election and called on him to \"quit misleading the American people.\" "
+    publishedDateTime: 2021-01-07T01:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iru5BYmSLUw/cotton-trump-quit-misleading-withdraw-election-objections"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-trump-quit-misleading-withdraw-election-objections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-trump-quit-misleading-withdraw-election-objections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b64c31-87be-4161-944b-196c7070a1e7/eb1df6e5-1e93-4d6d-8834-6f90a4ef9723/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump. "
     publishedDateTime: 2020-12-31T18:32:08Z

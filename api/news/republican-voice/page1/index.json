@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
+      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
+      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTD4XUx4l64/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTD4XUx4l64/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "publishedDateTime": "2021-01-06T18:44:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-rep-liz-cheney-slams-trump-for-intolerable-conduct-says-president-incited-the-mob.md",
       "title": "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'",
       "excerpt": "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed.",
@@ -680,7 +736,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1495,
+      "heat": 1515,
       "tags": null,
       "images": [
         {
@@ -1589,63 +1645,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-alec-baldwin-should-play-himself-in-snl-sketch-about-wifes-heritage-controversy-trump-jr.md",
-      "title": "Alec Baldwin should play himself in 'SNL' sketch about wife's heritage controversy: Trump Jr.",
-      "excerpt": "Donald Trump Jr Wednesday suggested actor Alec Baldwin should play himself in a \"Saturday Night Live\" sketch about his wife Hilaria’s scandal over her heritage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
-      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/203cf16f-1115-42d3-a829-bfd0e89d9286/1fd3ba14-3347-4fe2-be90-0c1bd15856f1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
-      "publishedDateTime": "2020-12-31T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

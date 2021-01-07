@@ -543,6 +543,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Angry Republican leaders float removing Trump from office"
+    excerpt: "After violent pro-Trump protesters stormed the US Capitol on Wednesday, a growing number of Republican leaders told CNN that they believe Donald Trump should be removed from office before January 20. Four of them called for the 25th Amendment to be invoked, and two others said the President should be"
+    publishedDateTime: 2021-01-07T02:50:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w_IJeqSDfXs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/trump-capitol-impeachment-25-amendment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/trump-capitol-impeachment-25-amendment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

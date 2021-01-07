@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump tells backers to ‘go home’ after Capitol stormed"
+    excerpt: "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election"
+    publishedDateTime: 2021-01-07T02:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
     publishedDateTime: 2020-12-31T20:52:00Z
@@ -80,6 +96,6 @@ related:
         height: 682
         isCached: true
 
-secured: "uJqxNgQ/cafK38h1mgZ7f0lMZFH4rMv6Fu7CgK2LmT+26cSTc9PGS8rPxdKwDAoj0ZgNH48BQiETXNEOWg+8QO/Ly2lEVSiJFvqMwNbGhULapZXDK7kkuUaAv+O5uh6PtFdgmD9HQi0pYqn4xuy9lrzdJkbt+91ACc2/8cxm8poUis6EZZVrMoANSB+0ySl9WRqYRbidKJqo71tPmyxaYcb9/blOdSFjdSmBaewUP994OcAvneTxl9wMmlCjQWOV1wcb3W7dCcCyP1IMUrAu2ySzITALEdaIQWjNeZpqA1SaJ+VME9WQmRIQYUFs7VUjzOQSNZ0tJ5f1wg56dDPLTDJX6KYrB7aKf13/9fwMaOk=;33eyIT3eSKnQl8m6HTHNcQ=="
+secured: "6/+V+6LEKtE4NAA3BQ1ZGVCwLez+wAayYAIQaeE5yXeyPFLIcohLsQahXCVTik7c4yaJmUJxtfTLuxIpIvnzpTVmvY7H+QVjjkz5Jm61N3a9x08pUrQ46P8htrFvcYBNsfrM99+mK1Kf36uj/QmbClL1sdhgR2wC0cocCt5OtDYyFkB9tEc3InNFLefEHmTnGpxJXbibp8UQnncm4nbTj66qBvLrQ3LW3tQAxdg9wEpsYT0kBeMnL2Wx2n5Oc3K1O6MaLR+xq9aGZZE1y2RnhN9oYTsoz7XF/axhrwj71zIOOKeSi1FwEL5Rjkmhb8Vr3AlR3TxE9uJu0bzfxEw5956cBQu0KXpHlehP6EYVXfg=;OyAeuS5omiSXBxAiRS9DRw=="
 ---
 

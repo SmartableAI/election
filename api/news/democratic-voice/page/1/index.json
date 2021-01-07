@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-pro-trump-demonstrators-enter-grounds-of-washington-governors-mansion-as-protesters-gather-across-the-country.md",
+      "title": "Pro-Trump demonstrators enter grounds of Washington governor's mansion as protesters gather across the country",
+      "excerpt": "While much of the nation was transfixed on the riot at the US Capitol, supporters of Donald Trump demonstrated in cities across the country, and in Olympia, Washington, protesters pushed into the governor's mansion property.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sVVXVIeCjxI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sVVXVIeCjxI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106193957-01-trump-supporters-us-demonstrations-olympia-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html",
+      "publishedDateTime": "2021-01-06T18:10:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-biden-says-democracy-is-under-unprecedented-assault-as-pro-trump-rioters-storm-us-capitol.md",
       "title": "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol ",
       "excerpt": "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -230,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1895,
+      "heat": 1915,
       "tags": null,
       "images": [
         {
@@ -1626,63 +1682,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-how-suing-mike-pence-is-the-last-gasp-of-the-election-fraud-crowd.md",
-      "title": "How suing Mike Pence is the last gasp of the 'election fraud' crowd",
-      "excerpt": "And rather than just playing the ceremonial role of president of the Senate on January 6, Pence was empowered to choose which electors are \"legal,\" which, I suppose, would exclude the electors from states where President-elect Joe Biden won but Trump has falsely suggested there was fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "originalUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "publishedDateTime": "2020-12-29T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

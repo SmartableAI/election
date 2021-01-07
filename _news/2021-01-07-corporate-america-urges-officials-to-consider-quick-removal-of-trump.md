@@ -2,9 +2,9 @@
 category: news
 title: "Corporate America urges officials to consider quick removal of Trump"
 excerpt: "The head of a major U.S. business group urged senior U.S. officials to consider removing President Donald Trump from office after supporters of the outgoing president stormed the U.S. Capitol."
-publishedDateTime: 2021-01-06T22:51:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-elections-companies/corporate-group-urges-officials-to-consider-quick-removal-of-trump-idUSKBN29B2WR"
-webUrl: "https://www.reuters.com/article/us-usa-elections-companies/corporate-group-urges-officials-to-consider-quick-removal-of-trump-idUSKBN29B2WR"
+publishedDateTime: 2021-01-07T02:52:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-elections-companies-idUSKBN29B2WR"
+webUrl: "https://www.reuters.com/article/us-usa-elections-companies-idUSKBN29B2WR"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2WR"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2WR"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546863662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051JP"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051JP"
     width: 817
     height: 545
     isCached: true
@@ -198,6 +198,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "VIcoCs1gT8UPOoHGtcik3sKivb3rcuddSvwL9ItphIp1QrCK/Cd9X5A87UGFZhsf+Be7LdmDBUWmxsAeykiqt5EEU2r+6c7b2yJGmOpqhaW9cNm+Vxj8d/TofFngmcGOBqp5Ka9dbxcvfEquzchVw97ThDujHYNmntG9ejOmdptVcXzWov95xT/TS8UhELFMF7oxjB7YSEvVwVw7DrLi6rqaXwZ6nUrqnKn5GF7H3r/txzwt055sWKxYjPykx8naqspagk0jCqkqUgibZaBSdwcCfyUArtbHJM8G6K/Xr6G+6KnyTzzfzo0rtS20HmcFm39mHKpXmWYXUNBYjW4kebpn1al21E1r2at9XSYrGz0=;2UyjuNTZcNvmWCZtMjt4+g=="
+secured: "gXb2pZkeDC/g7+IVHrJSnFccevFm2Mr/lfrnYKXPwBK1xM5uGKTs2CT52p0Ei9Vuws+5+GnhcPD5JmvTRZKF8UDsAl866pQRTZvCEUO2yr8Swt68nEJlPCjm14RJz49EA4uMI0HN0aaFmxgTz1CEKLJjFrHIHClH93yBP55iqOanx6DguzR4wuAS87K5bNWDB3PahvYURzrcz0VUqgT6IUAULm6SI93qSO4Zxj9VVUjr2E0/W45UBZPWTX1zKbzAhQdrvNifTbFx5nS3Adj8Dbv+/jtPkT5H9DaaCUqzMcfQ02qmzNXy1AuXGFmS1jud/8fTiNHSIen0fksqYpgKVulvU3da8B1Pjh78iNn+31A=;peOEpR03H6vqEGkqENGggg=="
 ---
 

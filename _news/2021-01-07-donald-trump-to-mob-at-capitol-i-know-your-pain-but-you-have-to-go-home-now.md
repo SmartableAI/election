@@ -43,6 +43,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump tells backers to ‘go home’ after Capitol stormed"
+    excerpt: "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election"
+    publishedDateTime: 2021-01-07T02:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
     publishedDateTime: 2020-12-31T20:52:00Z
