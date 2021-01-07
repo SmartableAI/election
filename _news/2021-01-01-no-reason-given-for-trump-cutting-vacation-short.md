@@ -45,22 +45,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Trump claims he and Pence agree on VP's election authority"
-    excerpt: "The president is decrying reports that the vice president told him he lacks the authority to alter the election results."
-    publishedDateTime: 2021-01-06T12:25:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-pence-vp-authority-electoral-college-vote-count/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pence-vp-authority-electoral-college-vote-count/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pence-vp-authority-electoral-college-vote-count/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 165
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/09/1f80376f-ad4c-468b-b0cc-b5c73eb0c739/thumbnail/1200x630/4b82938d8a13f6858208a5114bcab7ea/pence.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump keeps pressure on Pence to reject Biden's win before Congress Wednesday"
     excerpt: "President Trump is keeping pressure on Vice President Mike Pence to reject Joe Biden's win, but those close to Pence say he's expected to stick to his scripted role."
     publishedDateTime: 2021-01-05T20:49:00Z
@@ -156,6 +140,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZW6AADCPQ4I6XPNEMFNK57IFKU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump claims he and Pence agree on VP's election authority"
+    excerpt: "The president is decrying reports that the vice president told him he lacks the authority to alter the election results."
+    publishedDateTime: 2021-01-06T04:09:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-claims-he-and-pence-agree-on-vps-election-authority/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-claims-he-and-pence-agree-on-vps-election-authority/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-claims-he-and-pence-agree-on-vps-election-authority/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 155
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/09/1f80376f-ad4c-468b-b0cc-b5c73eb0c739/thumbnail/1200x630/4b82938d8a13f6858208a5114bcab7ea/pence.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Despite pressure from Trump, Pence will not interfere in election count Wednesday - advisers"
     excerpt: "Despite growing pressure from President Donald Trump to help overturn his election loss, Vice President Mike Pence plans to stick to his ceremonial duties and not interfere with the election certification when presiding in Congress on Wednesday,"
@@ -300,6 +300,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546458150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0201B"
         width: 817
         height: 545
+        isCached: true
+  - title: "Mike Pence defies Donald Trump, says he won't block Congress from affirming Biden's win"
+    excerpt: "Defying his boss, Vice President Mike Pence said Wednesday that only lawmakers can decide today whether to accept the electoral college votes."
+    publishedDateTime: 2021-01-06T20:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/pence-defies-trump-says-he-cant-change-electoral-college-votes/6566014002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6566014002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6566014002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 147
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/fd31a7d3-6a81-404b-90c3-e3333347e19d-Pence_letter.jpg?auto=webp&crop=4479,2520,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump"
     excerpt: "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming."
@@ -797,6 +813,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pence defies Trump, says he can’t reject electoral votes"
+    excerpt: "Defying President Donald Trump, Vice President Mike Pence says he doesn’t have the power to throw out the electoral votes that will make Democrat Joe Biden the next president in two weeks"
+    publishedDateTime: 2021-01-06T19:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pressures-powerless-pence-on-electoral-count/2021/01/06/b1c92a78-502c-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pressures-powerless-pence-on-electoral-count/2021/01/06/b1c92a78-502c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pressures-powerless-pence-on-electoral-count/2021/01/06/b1c92a78-502c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -1129,6 +1161,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Democratic lawmakers call for Pence to invoke 25th Amendment, remove Trump from office"
+    excerpt: "Democratic lawmakers called on Vice President Pence to invoke the 25th Amendment on Wednesday and remove President Trump from office, blaming the president for inciting the rioters that violently breached the Capitol building."
+    publishedDateTime: 2021-01-06T22:01:00Z
+    webUrl: "https://thehill.com/homenews/administration/532988-democratic-lawmakers-call-for-pence-to-invoke-25th-amendment-remove"
+    ampWebUrl: "https://thehill.com/homenews/administration/532988-democratic-lawmakers-call-for-pence-to-invoke-25th-amendment-remove?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532988-democratic-lawmakers-call-for-pence-to-invoke-25th-amendment-remove?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 132
+    images:
+      - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
     excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
     publishedDateTime: 2020-12-30T14:52:00Z
@@ -1160,6 +1208,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald2_11052020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Biden Pleaded With Trump To Stop His Supporters' \"Unprecedented Assault\" On Democracy"
+    excerpt: "By Ryan Brooks and Katherine Miller Reporting From Wilmington, Delaware Reporting From Wilmington, Delaware Last updated on January 6, 2021, at 4:51 p.m. ET Posted on January 6, 2021, at 4:27 p.m. ET President-elect Joe Biden demanded President Donald Trump call for an end to the coup his supporters are attempting at the US Capitol."
+    publishedDateTime: 2021-01-07T00:18:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/joe-biden-trump-riots-dc-election"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-trump-riots-dc-election"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-trump-riots-dc-election"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 131
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/3/13/enhanced/buzzfeed-prod-web-04/dateline-30055-1535995608-9.png"
+        width: 275
+        height: 275
         isCached: true
   - title: "Joe Biden warns Trump administration's vaccine distribution plans are \"falling far behind\""
     excerpt: "Washington — President-elect Joe Biden warned Americans on Tuesday that they need to brace for a \"very tough period for our nation\" with soaring coronavirus case counts and deaths expected in the coming weeks and said the Trump administration's plans for distributing coronavirus vaccines are lagging."
@@ -1273,6 +1337,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'We will not take it any more,' Trump says as anti-Biden protesters storm U.S. Capitol grounds"
+    excerpt: "Outgoing U.S. President Donald Trump addressed thousands of supporters, including members of far-right groups, at a rally in Washington protesting Wednesday's meeting of Congress to confirm Joe Biden's victory in November's presidential election."
+    publishedDateTime: 2021-01-07T00:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN29B24S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B24S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B24S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 128
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546830708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517X"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden calls Trump pandemic effort a ‘travesty’ and vows extensive federal response to coronavirus"
     excerpt: "As officials warn of a post-holiday increase in covid-19 cases, Vice President-elect Kamala Harris became the latest high-profile politician to be vaccinated."
     publishedDateTime: 2020-12-29T22:26:00Z
@@ -1382,6 +1462,22 @@ related:
     quality: 126
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e32b4ab9-06b5-4ab2-b19e-5136a14ac54b-AP_Senate_Georgia.jpg?auto=webp&crop=5601,3151,x1,y584&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence should consider invoking 25th Amendment to remove Trump, business ally of the president says"
+    excerpt: "The National Association of Manufacturers, a Trump ally, wants Vice President Pence to consider invoking the 25th Amendment to remove the president."
+    publishedDateTime: 2021-01-06T23:49:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/06/25th-amendment-mike-pence-donald-trump-capitol-hill/6571535002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6571535002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6571535002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/b3fca778-2182-4984-b08a-8dc8f568ba5d-Jay_Timmons_and_Mike_Pence.JPG?auto=webp&crop=2399,1349,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -2545,6 +2641,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden calls on Donald Trump to 'step up,' end 'siege' on Capitol"
+    excerpt: "President-elect Joe Biden called on President Donald Trump to \"step up\" and appear on national television to put an end to violent protests at the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-06T21:06:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/06/Joe-Biden-calls-on-Donald-Trump-to-step-up-end-siege-on-Capitol/6511609966489/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/06/Joe-Biden-calls-on-Donald-Trump-to-step-up-end-siege-on-Capitol/6511609966489/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/06/Joe-Biden-calls-on-Donald-Trump-to-step-up-end-siege-on-Capitol/6511609966489/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6511609966489/2021/1/bbc52a2dd07fbfe62bc4a2721f2f8394/v1.5/Joe-Biden-calls-on-Donald-Trump-to-step-up-end-siege-on-Capitol.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
     excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
     publishedDateTime: 2021-01-02T23:38:00Z
@@ -2698,6 +2810,22 @@ related:
       name: Time
       domain: time.com
     quality: 83
+  - title: "VIDEO: Biden Calls On Trump To Stop Violence In TV Briefing As Washington Descends Into Chaos"
+    excerpt: "After a mob descended upon the Capitol on Wednesday during a joint session of Congress, President-elect Joe Biden addressed the country and urged calm. Speaking from his home in Delaware, Biden called on President Donald Trump “to go on national television now to fulfill his oath and defend the Constitution and demand an end to this siege."
+    publishedDateTime: 2021-01-06T22:16:00Z
+    webUrl: "https://www.ibtimes.com/video-biden-calls-trump-stop-violence-tv-briefing-washington-descends-chaos-3115983"
+    ampWebUrl: "https://www.ibtimes.com/video-biden-calls-trump-stop-violence-tv-briefing-washington-descends-chaos-3115983?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-biden-calls-trump-stop-violence-tv-briefing-washington-descends-chaos-3115983?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 79
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-elect-joe-biden-defeated-trump-by-around.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Congress Is Set to Confirm Joe Biden's Win Over Trump Despite GOP Pushback. Here's What to Know"
     excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden’s win over Trump."
     publishedDateTime: 2021-01-05T20:27:00Z
@@ -2745,6 +2873,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
         width: 1200
         height: 906
+        isCached: true
+  - title: "The lies Trump told just before protesters stormed Capitol"
+    excerpt: "Trump has been telling wildly false tales about the election outcome for two months in a flailing effort to upend Biden’s win. Trump didn’t pull back now, in a moment of reckoning that is sure to seal his defeat despite the chaos and moves by some of his allies in Congress to drag out the certification of the Electoral College results."
+    publishedDateTime: 2021-01-06T19:51:00Z
+    webUrl: "https://www.al.com/news/2021/01/the-lies-trump-told-just-before-protesters-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/the-lies-trump-told-just-before-protesters-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/the-lies-trump-told-just-before-protesters-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2G32ZKKSVVDXFC3YPWF77BU4H4.jpg"
+        width: 3335
+        height: 2223
         isCached: true
   - title: "Watch live: President-elect Joe Biden to speak on Capitol protests"
     excerpt: "President-elect Joe Biden will speak Wednesday in Delaware in reaction to rioters breaching the U.S. Capitol and forcing lawmakers to be evacuated during a joint session to certify election results. Watch here."
@@ -2812,17 +2956,17 @@ related:
         isCached: true
   - title: "Joe Biden tells mob to ‘pull back,’ urges restoring decency, calls on Trump to ‘demand an end to this siege’"
     excerpt: "President-elect Joe Biden called Wednesday for the restoration of “just simple decency” as a mob incited by his predecessor stormed the U.S. Capitol."
-    publishedDateTime: 2021-01-06T22:47:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html?outputType=amp"
+    publishedDateTime: 2021-01-07T00:42:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-us-capitol-mob-joe-biden-20210106-pwcievbicvdffd2h2o6xwzlavu-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 71
     images:
-      - url: "https://www.courant.com/resizer/C2Vgf6QziokqyhKe5rE4eGODHzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VTAN5OLFBYSA4KIMXWSWY6QFQI.jpg"
+      - url: "https://www.baltimoresun.com/resizer/C2Vgf6QziokqyhKe5rE4eGODHzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VTAN5OLFBYSA4KIMXWSWY6QFQI.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -3019,6 +3163,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
+    excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."
+    publishedDateTime: 2021-01-07T00:51:00Z
+    webUrl: "https://www.usnews.com/news/best-states/minnesota/articles/2021-01-06/trump-backers-rally-at-minnesota-capitol-against-biden-win"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "AxyQ7deDNilRCrO2rt5L3y3kSYDd/49HlhRySDHFzsm7g50t8w51HPoFyn6m+ydKUjXGL7EDpRGveumJQGFr4d0BLu5PAZQVTkDKrF5u8zy+oOohU3+FnHzCAmdz+dofZ10q+HuBbrNk0j664QoZVzivV3i5HMCghgBAfdbF9gszLNoU8E3omSwixjcdyqP8vApsOJ/o1fscXy+lc7euwTGEhe5gJT2DwLe3mQGGybECaiM7RnsjIT6kgHLoBX6qSt6J1Sm30bEi+Mkj+0Y+kG707mlhi3ybBk7XRPKTvCUbTfBGb4oWY0W5FglL5usXwARS/dXsG4CwragS9KRfT8Wm+xbNXftJMd40OY75tqY=;FE3E7Wqbk5sftwPiKo+Alw=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump to mob at Capitol: 'I know your pain... but you have to go home now'"
-    excerpt: "President Donald Trump issued a brief video statement on Twitter late Wednesday urging the unruly mob of his supporters at the US Capitol to go home, even as he continued"
-    publishedDateTime: 2021-01-06T21:23:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.html"
-    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/7a/37a9e6e5-5a50-51a6-ae61-cf84bed6c2e2/5ff625ff0cd4a.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "7bPQHBgEsCPHvRwzgg6U5Y/dR6ghTtKXDnK4fvVRf4N33+WaoBI5yZAL+Fop6ULYx3ksDU/GuXEj7k42SnXVZLN8ozmhH+Jz646bzXkvjm2hrF6fqjLJWkWDn+APblG+hdDIOnb/IvcMSy5U/2M0zo0VmtrRzrp6nPlMFydeK3n6w5SKG3GGHZlSMK97httyghNGzT2GKd/400VPQnMGQ+ZLJLCGmKQLAeCgPNWSGBjsbMozmv6ub3uI1nE2QAYnNjjxsudLk0Cc2JH2KKSJr2RQTMApvamv6JnjtjkuOyVAEKxQX1GMFBNzdnNisRkh6Le0RwBT8z7Gbl26NMR1NuGXlo9PWGQCnXdO4hkYLBg=;LTmZG8SNqMATJ+t732TSqw=="
 ---

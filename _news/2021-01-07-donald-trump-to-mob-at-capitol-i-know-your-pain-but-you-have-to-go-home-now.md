@@ -27,37 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'"
-    excerpt: "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters."
-    publishedDateTime: 2021-01-06T22:30:00Z
-    webUrl: "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp"
+  - title: "Amid Capitol violence, Facebook, YouTube remove Trump video"
+    excerpt: "Facebook has removed a short video of President Donald Trump where he is urging supporters who stormed the U.S. Capitol to “go home” while at the same time keeping up false attacks about the president"
+    publishedDateTime: 2021-01-07T00:53:00Z
+    webUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5ff62860d184b30018aad62d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Ivanka Trump Deletes Tweet That Hailed Rioters As 'American Patriots'"
-    excerpt: "Ivanka Trump deleted a tweet after the Twitterati took her to task for describing her father's supporters who stormed the Capitol as \"American Patriots.\" Trump called on the armed protesters to stand down about a half-hour after President Trump first asked the crowd to respect the Capitol police."
-    publishedDateTime: 2021-01-06T21:57:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
+  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
+    excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
+    publishedDateTime: 2020-12-31T20:52:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 107
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters"
+    excerpt: "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa"
+    publishedDateTime: 2020-12-31T18:57:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "obRGOOM7d6+99qqNUEz2r7coo2f0nnC13udUshpVYeTYApNpPK1sgWLv8bI43pjUmHgkjzNfRGIQkE/p2TrSkSyZKEmGYSmginHVoX9aZIfMzD5VI/tODp7r4HWep0yO4pJSsUHZk0P0T7UC+pxHl+qM7AD7SpwBmtgdL2X5yUGlecvd2rTBCzy7Cowbp/Zbs2vnavVyxDh8SIerWqtMYts9aMRfE6Dsw+3/xQjaGu1xQk9k0gewjPa4Y++EkRF3VDUQiQxDKpVxkZyLcDnVyfkscDHFeFZA9d6ywUeb2ulAeYCX+/nUrgDJq6T0B8ywI5AVEovuRJyfSYU9FFRWStk0lSCGWyk6jDZCy9Mpz2Y=;Y5tffqnh6q1QUcY6+l5DMQ=="

@@ -542,6 +542,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's presidency ends with American carnage"
+    excerpt: "Hours after a mob of his supporters breached the US Capitol at his own prompting, President Donald Trump urged them in a video to \"go home\" while fanning their misplaced grievances about a stolen election.\n    \n"
+    publishedDateTime: 2021-01-07T00:57:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aewsafjQwEU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/donald-trump-capitol-mob/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/donald-trump-capitol-mob/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106162543-01-trump-statement-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z
@@ -781,6 +797,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228130647-ga-senate-race-gop-perdue-loeffler-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "‘Do it Mike’: Trump leans on Pence to reject Biden’s Electoral College certification"
+    excerpt: "President Donald Trump applied new pressure on Vice President Mike Pence to interfere with the Congressional certification of President-elect Joe Biden’s Electoral College victory on Wednesday — despite Pence’s inability to alter the election’s outcome and the overall futility of the effort by some Republican lawmakers."
+    publishedDateTime: 2021-01-06T21:09:00Z
+    webUrl: "https://www.politico.com/news/2021/01/06/do-it-mike-trump-leans-on-pence-to-reject-bidens-electoral-college-certification-455319"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/06/do-it-mike-trump-leans-on-pence-to-reject-bidens-electoral-college-certification-455319"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/06/do-it-mike-trump-leans-on-pence-to-reject-bidens-electoral-college-certification-455319"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 158
+    images:
+      - url: "https://static.politico.com/98/8a/32a6adc84227bebd4a8f70eb1b0d/ap21005228823724-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The Trump ally in the Senate leading the President's futile effort to challenge the Electoral College votes"
     excerpt: "Republican Sen. Josh Hawley threw a political grenade into Washington last week when he announced his intentions to object when Congress counts the Electoral College votes on Wednesday -- a move that pits the youngest senator against Senate GOP leadership as well as some rank-and-file members who will"
@@ -1129,6 +1161,22 @@ related:
       - url: "https://static.politico.com/77/b2/b1cc7a1b46e58de123a857286be7/20210105-donald-trump-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Washington in Final Convulsions of Trump Era"
+    excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
+    publishedDateTime: 2021-01-06T19:20:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."

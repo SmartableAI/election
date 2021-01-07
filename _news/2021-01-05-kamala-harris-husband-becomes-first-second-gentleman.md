@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris’ husband becomes first second gentleman"
 excerpt: "Doug Emhoff, the husband of Kamala Harris will also be a part of history this January. Harris' historic victory will result in a whole new job title for her husband"
-publishedDateTime: 2021-01-04T20:55:00Z
-originalUrl: "https://tulsaworld.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_fe5fedd6-ce47-5adc-a963-3b86ae3d813f.html"
-webUrl: "https://tulsaworld.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_fe5fedd6-ce47-5adc-a963-3b86ae3d813f.html"
-ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_fe5fedd6-ce47-5adc-a963-3b86ae3d813f.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_fe5fedd6-ce47-5adc-a963-3b86ae3d813f.amp.html"
+publishedDateTime: 2021-01-04T21:57:00Z
+originalUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
+webUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
+ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
@@ -254,6 +254,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jy1MiFiRG10PauUKWw95N0HVTxoTk/w0lYSINFTCMEIAVjEOnwHnuwlLMGsCUPq+MmQh0Vl1TXHVXbCAsg9tveiUQcXXO02BgkqCPJ15OENDKdkv7Ne/0iecufmUm1g/y4nFuxrYF5EbkqTrKpUfeWmc2bFsTIFFhnxFGAadP+jfbw9MWt2VQlzxOH9WMbu+OI6P9PqLtsPm14wlmpiPS5f7/E61av2js+nIHOVR6LDmkCNHUO5df+jHvfG4RCqABoUsoIKgBhD/3hRkFpZQh9B2uK6xoBaDUP9jiEy+fyQgl3qKs8vOf1NpkDCnGLlfIqFgwoH59p2mpnlyIJzgfCL84i5cTssv8fYjFgRTa+A9R2sge56ZKfkhNu1Ms4eClryX/hj3jhlcF5uo8flaHl36eeN2Q8559h1qTrBpID9jIC5po3x20srT7WR29vSF56tMcmB/1EOg9bcztF2iRjhqP1QmfB//J30tSAiVzqjZpH49neGDD7le8SdPgB5YoJM/zb7DgVM/w0j9Qha/oA==;jOyoQMnkoLKHq78GOOmSTw=="
+secured: "1e2kyN/GsRAUrZ+JE+F5JjINnbzSAFTBNz26ZPevCnfL4aMKLMTrK902W/pF3AuzLmqfYpxypdsPKc8CJ3laTRTdYC68mhOVZjVrWTNbbO9WstGMXI2hny61VfA4ujyXxAyR7oDy+C9rTebsx1M4ZpH8Onc5vrXt4OzXf0jUkk9dfJhWGr2ycBkPmgChfR2j20hJwbSvwtsCSyfgCyd9FNKzcs9d+D7rXjM2mPZJAHkwHFAw9xDO33Oe58lMmpWlWhHrHkvtzFc6ICw3FQCmFxdc2PP4FMnaBaYqTn/2l/M49ck4RwSXLwH14ztLSn0flJz9C7+YyXDqGFCCGbRKYRb+e1MrPC5O2DQstx5JxMohd4QgBwn/PQyNxHT1fgtIGQNM8TBIg5MOZdTs0kBxLTVmf6zsmbqDlgr1hXks6stXOlymm31Aq9nm4BYiBwH1wX2XddXEnBraZ7y1z6/m22OgDYQKF5ObMYB92+PfxSoS2/qS1tOaJ7w5PHebVKumBUCN8KbROBOXFXKpsWzJ1Q==;cIaR0zdr6Zzfb1IwRqd7/w=="
 ---
 

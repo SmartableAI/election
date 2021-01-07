@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP congresswoman to no longer challenge Biden's win after US Capitol breach"
+    excerpt: "GOP Rep. Cathy McMorris-Rodgers announced Wednesday evening she will reverse her position on challenging President-elect Joe Biden's victory after rioters forced a shutdown of the House and Senate chambers of the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-07T00:42:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_PLlELj1F7Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/electoral-college-challenge-cathy-mcmorris-rodgers-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/electoral-college-challenge-cathy-mcmorris-rodgers-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106190334-cathy-mcmorris-rodgers-april-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says electing Georgia's Ossoff and Warnock would lead to $2,000 stimulus checks"
     excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
     publishedDateTime: 2021-01-05T01:53:06Z
@@ -300,6 +316,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211132924-jones-garland-yates-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US Capitol secured, woman dead after rioters stormed the halls of Congress to block Biden's win"
+    excerpt: "The US Capitol is on lockdown amid a tense situation with demonstrators outside the building, according to Capitol police officers, as President Donald Trump's supporters attempt to break into the building while lawmakers count the Electoral College votes certifying President-elect Joe Biden's win.\n"
+    publishedDateTime: 2021-01-07T00:38:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xk64p4RRaqc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/us-capitol-lockdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/us-capitol-lockdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106140413-06-trump-rallies-0106-washington-dc-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

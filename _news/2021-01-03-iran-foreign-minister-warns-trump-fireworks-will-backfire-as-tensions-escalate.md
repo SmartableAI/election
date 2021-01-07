@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Twitter locks Trump account, warns further violations will result in 'permanent suspension' from the platform"
+    excerpt: "Twitter locked President Trump’s account on Wednesday night claiming he violated Twitter rules, and warned the president that further violations of their Civic Integrity or Violent Threat policies would result in a “permanent suspension” of his account."
+    publishedDateTime: 2021-01-07T00:30:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RimxOYD-Uoo/twitter-locks-trump-account-threatens-permanent-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, others linked to Soleimani killing ‘will not be safe on Earth,’ Iran official warns"
     excerpt: "President Trump and anyone else linked to the U.S. strike one year ago that killed a notorious Iranian general \"will not be safe on Earth,\" a top official in Tehran warned Friday, according to a report."
     publishedDateTime: 2021-01-02T10:49:00Z

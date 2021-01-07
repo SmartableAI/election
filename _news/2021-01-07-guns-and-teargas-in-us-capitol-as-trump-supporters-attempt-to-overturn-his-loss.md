@@ -303,6 +303,22 @@ related:
         width: 790
         height: 545
         isCached: true
+  - title: "'Banana republic crap:' Some Republicans turn on Trump over Capitol violence"
+    excerpt: "A handful of U.S. congressional Republicans turned on President Donald Trump on Wednesday after a crowd of supporters stormed the Capitol building in a bid to help him overturn his defeat in the November election."
+    publishedDateTime: 2021-01-07T00:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-republicans/banana-republic-crap-some-republicans-turn-on-trump-over-capitol-violence-idUSKBN29B33W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B33W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B33W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546879759&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0601F"
+        width: 828
+        height: 545
+        isCached: true
   - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
     excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
     publishedDateTime: 2020-12-28T13:51:00Z

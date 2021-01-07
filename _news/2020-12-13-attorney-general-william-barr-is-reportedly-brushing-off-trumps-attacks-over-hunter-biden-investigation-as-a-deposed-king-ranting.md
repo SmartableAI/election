@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden presidency could be boosted by Georgia results"
+    excerpt: "Democrats’ apparent success in the Senate races has shifted the outlook for Biden, easing his path on bills and nominations. But the Senate margin will be razor-thin, and the new landscape could raise expectations he cannot meet."
+    publishedDateTime: 2021-01-07T00:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-georgia-agenda-senate/2021/01/06/be2f4648-5023-11eb-b96e-0e54447b23a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-georgia-agenda-senate/2021/01/06/be2f4648-5023-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-georgia-agenda-senate/2021/01/06/be2f4648-5023-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U7NDA3SO3II6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Inside the ‘nasty’ feud between Trump and the Republican governor he blames for losing Georgia"
     excerpt: "The defeated president has fixated on Brian Kemp for refusing to question the integrity of his state’s election, worsening long-simmering tensions between the two Republicans."
     publishedDateTime: 2020-12-14T11:15:00Z

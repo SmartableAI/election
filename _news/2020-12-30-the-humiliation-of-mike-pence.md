@@ -308,6 +308,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Media Buzz: Mob violence halts Capitol Hill election debate, Trump accused of inciting protesters"
+    excerpt: "When President Trump addressed a big crowd of protesters outside the White House yesterday, he was caught between two historic defeats."
+    publishedDateTime: 2021-01-06T23:03:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BZtp5Iu6DjM/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters"
+    ampWebUrl: "https://www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Senate moves toward override of Trump's NDAA veto"
     excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
     publishedDateTime: 2020-12-30T23:54:44Z
@@ -387,6 +403,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Mitt Romney accuses Trump of inciting an insurrection"
+    excerpt: "Sen. Mitt Romney, R-Utah, issued a scathing statement Wednesday, accusing President Trump of inciting an insurrection and warning other lawmakers not to continue challenging the 2020 election results."
+    publishedDateTime: 2021-01-07T00:06:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f3wY3CeCt2M/romney-trump-insurrection-gop-obejctors"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-trump-insurrection-gop-obejctors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-insurrection-gop-obejctors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2afb325-628d-4555-9f91-0f96e2a4c747/64e456b4-b4e1-4314-8170-0a961286f86f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump. "

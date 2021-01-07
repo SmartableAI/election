@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-will-mike-pence-kill-his-2024-ambitions-if-he-accepts-the-election-results.md",
+      "title": "Will Mike Pence Kill His 2024 Ambitions If He Accepts the Election Results?",
+      "excerpt": "Four years of loyalty to Donald Trump won't give Pence cover: if he ratifies the 2020 election count in his role as president of the Senate, he'll anger the president and Trump's most ardent fans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/will-mike-pence-kill-his-2024-ambitions-if-he-accepts-election-results-1559118",
+      "originalUrl": "https://www.newsweek.com/will-mike-pence-kill-his-2024-ambitions-if-he-accepts-election-results-1559118",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1698872/donald-trump-mike-pence-2020-2024-pandemic.jpg",
+          "width": 2500,
+          "height": 1642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/will-mike-pence-kill-his-2024-ambitions-if-he-accepts-election-results-1559118?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/will-mike-pence-kill-his-2024-ambitions-if-he-accepts-election-results-1559118?amp=1",
+      "publishedDateTime": "2021-01-05T15:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-schwarzenegger-calls-on-gop-to-reject-stupid-crazy-and-evil-trump-election-challenge.md",
+      "title": "Schwarzenegger calls on GOP to reject 'stupid, crazy and evil' Trump election challenge",
+      "excerpt": "Former California Gov. Arnold Schwarzenegger, R, said that after growing up in a country that “gave up on democracy and faced the consequences,” he worried for his party’s and the U.S.’ future amid President Trump’s continued election challenges. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Arnold-SCHWARZENEGGER-REUTERS.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "publishedDateTime": "2021-01-05T15:25:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-white-house-denies-reports-trump-will-be-in-scotland-during-inauguration-after-scottish-leader-warns-golf-is-not-essential-travel.md",
       "title": "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel",
       "excerpt": "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,",
@@ -487,7 +595,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1455,
+      "heat": 1495,
       "tags": null,
       "images": [
         {
@@ -592,7 +700,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1835,
+      "heat": 1895,
       "tags": null,
       "images": [
         {
@@ -1216,110 +1324,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-defense-secretaries-letter-warning-trump-was-signed-by-all-in-only-2-days.md",
-      "title": "Defense secretaries' letter warning Trump was signed by all in only 2 days",
-      "excerpt": "The letter was drafted and orchestrated in consultation with former Republican Vice President Dick Cheney, himself a former secretary of defense.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "originalUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pentagon-gty-jt-191212_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "publishedDateTime": "2021-01-04T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-to-speak-at-wednesdays-save-america-rally-protesting-election-results.md",
-      "title": "Trump To Speak At Wednesday's 'Save America' Rally Protesting Election Results",
-      "excerpt": "Thousands of MAGA supporters are expected to attend the rally in a last-ditch attempt to keep the lame duck president in the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450",
-      "originalUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg",
-          "width": 1024,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1",
-      "publishedDateTime": "2021-01-04T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-05-defense-secretaries-letter-warning-trump-was-signed-by-all-in-only-2-days.md",
+      "title": "Defense secretaries' letter warning Trump was signed by all in only 2 days",
+      "excerpt": "The letter was drafted and orchestrated in consultation with former Republican Vice President Dick Cheney, himself a former secretary of defense.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "originalUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pentagon-gty-jt-191212_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "publishedDateTime": "2021-01-04T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-trump-to-speak-at-wednesdays-save-america-rally-protesting-election-results.md",
+      "title": "Trump To Speak At Wednesday's 'Save America' Rally Protesting Election Results",
+      "excerpt": "Thousands of MAGA supporters are expected to attend the rally in a last-ditch attempt to keep the lame duck president in the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450",
+      "originalUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg",
+          "width": 1024,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1",
+      "publishedDateTime": "2021-01-04T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-trump-to-approve-land-swap-for-rio-tintos-resolution-copper-project-us-forest-service.md",
       "title": "Trump to approve land swap for Rio Tinto's Resolution Copper project: U.S. Forest Service",
       "excerpt": "U.S. President Donald Trump's outgoing administration plans to approve a controversial land swap needed for Rio Tinto Ltd and partners to build an Arizona copper project that Native American tribes say will destroy sites of cultural and religious value.",
@@ -651,7 +755,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 750,
+      "heat": 790,
       "tags": null,
       "images": [
         {
@@ -1180,7 +1284,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 880,
+      "heat": 900,
       "tags": null,
       "images": [
         {
@@ -1221,105 +1325,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-kamala-harris-fweedom-story-mirrors-mlk-account.md",
-      "title": "Kamala Harris' 'Fweedom' story mirrors MLK account",
-      "excerpt": "Vice President-elect Kamala D. Harris told a story about her participation as a little girl in a civil rights march that mirrors an account told by the Rev. Martin Luther King.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/11/24/biden_12584_c0-144-6000-3644_s1200x700.jpg?27e50771f2f943659768081f91235199f3ce7ce5",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/",
-      "publishedDateTime": "2021-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-bidens-inaugural-committee-hosting-virtual-parade-across-america-on-inauguration-day.md",
-      "title": "Biden's inaugural committee hosting 'virtual parade across America' on Inauguration Day",
-      "excerpt": "President-elect Joe Biden's inaugural committee on Sunday announced there would be a virtual parade after the swearing-in ceremony on Inauguration Day as part of efforts to keep crowds to a minimum amid the coronavirus pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pvc8Jb_IAEQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pvc8Jb_IAEQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/biden-inauguration-virtual-parade/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/biden-inauguration-virtual-parade/index.html",
-      "publishedDateTime": "2021-01-03T15:39:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

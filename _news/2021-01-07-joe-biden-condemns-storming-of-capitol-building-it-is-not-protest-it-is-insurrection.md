@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Condemns Storming Of Capitol Building: \"It Is Not Protest, It Is Insurrection\""
 excerpt: "U.S. President-elect Joe Biden delivers remarks after Trump supporters stormed and breached the U.S. Capitol. \"I call on this mob to pull back and allow the work of the democracy to go forward,\" Biden said as rioters invaded the Capitol building."
 publishedDateTime: 2021-01-06T22:10:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/01/06/joe_biden_condemns_storming_of_capitol_building_it_is_not_protest_it_is_insurrection.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/01/06/joe_biden_condemns_storming_of_capitol_building_it_is_not_protest_it_is_insurrection.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/01/06/joe_biden_condemns_storming_of_capitol_building_it_is_not_protest_it_is_insurrection.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/01/06/joe_biden_condemns_storming_of_capitol_building_it_is_not_protest_it_is_insurrection.html#!"
 type: article
 quality: 56
 heat: -1
@@ -59,6 +59,6 @@ related:
         height: 340
         isCached: true
 
-secured: "zwkI309mXudR/yK2H5/iU4v4dCYSwZuvKswBOxVNJOnJ9Du4vLjpfM0s4vstbXG9PqZIu1GqiOJwD4W+zVtLlqlvX0U7AZzrebIj7qLUApgTI1xg49A1VmlQVmh7nyU37f0UrNmonozd8+Xahwu8spa//XLLxd6l3pIlYQ5wVMcTKUaRDONqmnDweoS/CnzaZU+tEKoAxAU2dImnyVuqXQG5OVo7U4vHqv1XN92mGiZyamx7s2J414cO+Ji9BYOwtk7McAk0ziR/8iblYQrfizgUf/uFgVGVcipQYJ8i33b9pIh32Pu8pEm2+RVlbQGCvQVB7v72DgBTwQdj62NnpBWVVavfSV8f8AuPWCm5Yw0=;KL9NcYOOb7jKMG3XW8m5hg=="
+secured: "aR35AZb6wwCnp7AZE4MnuTTwSqzot4epjRcZFK8SS+Cz0PuXH0plBpNPRVtg27Kw4OIaH987kc/47ZRCk6HjxSCLYclXZgXe4yQNAmMfDIxY9ZW8kPahQcMt7IVWoSUz1eOeeU3m0t0e1YKdND3L0gFCoghj//4SeC9ZOwTNLC8TzfNUcXe7qUb19ESeK9RvHnOriD/PjNUIHEaj3ts326Y+c+RLDjIXxSDDa+xW9RlWA4waeveSk1Zfn3HV6PldWEGkRaXOz+D2OFn1EIZm2hZX5cUnVbhajkAFvRzsX8CA5yiBrfS/IgGdm8eGgrYn7DP6CfikqATcrujgezMWr1tO6IkXPYHv8iORS04gi1M=;sQhFn2BTpj0Kj9nGOj3Kpg=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden selects Judge Merrick Garland for attorney general"
+    excerpt: "President-elect Joe Biden will nominate federal appeals judge Merrick Garland to be the next U.S. attorney general, a Biden transition official said on Wednesday, a choice most Americans know as the Supreme Court nominee of President Barack Obama memorably blocked by"
+    publishedDateTime: 2021-01-06T20:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29B2C8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S"
+        width: 765
+        height: 545
+        isCached: true
   - title: "Leaders of United, West Monroe Partners, Sidley and Edelman join call for Congress to certify Joe Biden’s election"
     excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."
     publishedDateTime: 2021-01-05T14:44:00Z

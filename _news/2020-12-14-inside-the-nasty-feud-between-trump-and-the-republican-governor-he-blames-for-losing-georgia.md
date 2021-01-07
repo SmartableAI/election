@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden presidency could be boosted by Georgia results"
+    excerpt: "Democrats’ apparent success in the Senate races has shifted the outlook for Biden, easing his path on bills and nominations. But the Senate margin will be razor-thin, and the new landscape could raise expectations he cannot meet."
+    publishedDateTime: 2021-01-07T00:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-georgia-agenda-senate/2021/01/06/be2f4648-5023-11eb-b96e-0e54447b23a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-georgia-agenda-senate/2021/01/06/be2f4648-5023-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-georgia-agenda-senate/2021/01/06/be2f4648-5023-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U7NDA3SO3II6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Attorney General William Barr is reportedly brushing off Trump's attacks over Hunter Biden investigation as a 'deposed king ranting'"
     excerpt: "Attorney General William Barr is \"not intimidated\" by President Trump's threats to fire him, a source told CNN."
     publishedDateTime: 2020-12-13T10:40:00Z
