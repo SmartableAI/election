@@ -47,6 +47,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "House and Senate abruptly go into recess after Trump-supporting rioters storm the Capitol building"
+    excerpt: "Violence erupted as Trump supporters descended on the nation's capital to protest the certification of Joe Biden's election victory."
+    publishedDateTime: 2021-01-07T06:35:00Z
+    webUrl: "https://www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff6185f6d61c10019cce01a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'People Are Just Trying to Land the Airplane.' White House Staff Packs Up as Trump Rages On"
     excerpt: "As President Donald Trump pushes to overturn the election, many White House officials have accepted the reality that he is leaving."
     publishedDateTime: 2021-01-06T18:15:00Z

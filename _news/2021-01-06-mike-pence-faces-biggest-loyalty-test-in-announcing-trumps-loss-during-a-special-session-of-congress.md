@@ -2,19 +2,19 @@
 category: news
 title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
 excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
-publishedDateTime: 2021-01-06T14:29:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-ampWebUrl: "https://amp.indystar.com/amp/3957706001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3957706001"
+publishedDateTime: 2021-01-06T09:09:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3957706001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3957706001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -314,6 +314,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZFcjTkgNVtYx3XVpLl1QxVxSC13tmJ9RTv8GCAYXlbvo4rkrVx6CTW+pLu/azjZeHu0zPtxd9ExNbJwS1ROL1ka+08Z08M3RPrUKOM0r4oGIuxKAGXPSaX7F8LL3d++Z/tfFSjl+XVyLP6WbVSmHNJdEp8+W3O8c5rmMHt/21pcNRmpkXXM/6VDonTA9tKGUjn2JXwHtuAYBXYtX1WEjryyO9sBuYu+iP2/4KNqjbKDuAygWW1JO15stsGKyUj2e2cA9OH1rMD8K1KotWpjRaznKkB3U314r/tDkcooUxTxTTsVh2gXrzTa/x5rXXNPqNEMscEQX948tkGoQgch/Vexpf5JTwkx9gn9zZ5cmskuDjiW2L/+bZaSZodxltVBFgRB1uBRtKEgLKj0DgG9nDSSeVIDLNLhsLY2HJuzG2/CFiFK6WT7JU28mV5jmD0cZAU6tXDEIlnKK71dNS5Qjyz8f6zt+VN6+y4yOEcNKfyihI819YPYxDHBlWvoaM1pT1xLY4aeRva8IZFdY3G+hjQ==;6/WnD4lsnoo2sEKbwMFwRg=="
+secured: "eO4FoNCKmQdniROTPsyDMqDj1HlsLv4Lpf2vi/guFgTUaK5rofdr6Xq39NRkcwSaYeLtQW5PGnsShfJ3CTb0mT30TVTfRV1yRYb3662Z05dKisHX4ExgfVGYXwb8CTn0SYrQU6hn7hUG7ncXCMY242RxcG3jpURoDPzdpz0ULzjEvMlDFL9NJF4501NbvbnN3GH+sZov5SkrTec1WLc/WEOG9KzRzBIdS2YplVMqZJIcuBDYI5f4u8VRVGj1P/HVDpLbSmcA36Witvs1q521qZ3ejaJlJC0/2oCa6LrcFbAK83/WBqMBBePgTWbDrDgatsbM2kiUSIgs7v0Lc7Dau0o3JrJTX+NGo/tVjBuQIrk=;QA1qwBs11wfG0nEWmojM3w=="
 ---
 

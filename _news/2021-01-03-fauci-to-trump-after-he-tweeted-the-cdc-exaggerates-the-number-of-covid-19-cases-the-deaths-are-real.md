@@ -303,14 +303,14 @@ related:
         isCached: true
   - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
     excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
-    publishedDateTime: 2021-01-06T14:29:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3957706001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3957706001"
+    publishedDateTime: 2021-01-06T09:09:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3957706001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3957706001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"

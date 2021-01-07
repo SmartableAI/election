@@ -831,6 +831,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: A sample of the false claims Trump, Republicans told on the day the Capitol was stormed"
+    excerpt: "President Donald Trump made a large number of false claims in a rambling speech. His allies then made some more in Congress.\n    \n"
+    publishedDateTime: 2021-01-07T06:18:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlGbJWiYPTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/fact-check-trump-republicans-electoral-college-objections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/fact-check-trump-republicans-electoral-college-objections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106191758-trump-sot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Attorneys for woman on death row head to Supreme Court, pleading with Trump to read clemency petition"
     excerpt: "Attorneys for Lisa Montgomery, the only woman on federal death row, said on Tuesday that they plan to go to the Supreme Court after losing their latest legal attempt to stop next week's execution.\n    \n"
     publishedDateTime: 2021-01-06T00:44:08Z
@@ -1422,6 +1438,6 @@ related:
         height: 773
         isCached: true
 
-secured: "AJoVE3c+lk4oIZSLv7EpXk+1ofdQdR8qCx3iXrdrUX7ktgMrP9imi76SdIodmvvgmGLt5YuZJxEwMW/N4e5ShmPxJnCNbC8kkQ+u6yzewOkhzPZi79VmMi60fw+wbBc1jYkLjuAd6BEWnTnAAiFMPa0R9BoeovkZ7er29SO0RBbMXkvw1tkqvws+Vd4fZG2LZF9N3vneSe7fHy/LNNREswmNLMCI8c+PIGyXTu1wWxo9jKWb5PR3WKAdJLvdmHQDh4/z1wt0ULq5kcwZZX/pKE0AsqY0bNH2He4aQ+7Wbo6mpaRiaTvy8IcDg6uVUnOJ96XN980rQcePR5aFv5beUxCG3oUKYXPC4tW5a3nW8fk=;w8eitVpV2j5II56+XBcnRg=="
+secured: "g6kib2dqykp912MuPU7lqBl2mnPy0T5uHL65WHpKlUFCCjKRIi0k8bIlPkqAlg/OWXn6qQFL1BIxlYd9mffddaNhAZ+KgDcV58YuNfIOR54ZBavC0KNWjBHLpSOJqlTmGrlCZtAhs7wNQZR51Ae1zwUHPp7yEmMekP/EklWdZOjLfg4eD/rjI4Xjj5iZU26j15cR+g3E3uWM5FqXmZecyjj2+u9VHUGMRTycZg6ywQjDsFBBfQrseTDlSPWQQXW/MJV/5TlIBGhigFmS+H5s6ruh7OYykLAUxLZBP7Vd/bQpBAwLCM0QO7sHzM9XhMcB/NKv2QcuvwU5qrBuGFjgRKhyWris8iq6jO5EU7T31bIHzO/QIGy+YhzLn5gtYvKoG6vUP2tO2W5UdP90BCNsbTN6yF3fdP0KNiAAGGnaQmwBobDoB65P1I+XpqUMBmzRPfdN4H117YnYwpDHzM4PHfr2ehesdWd0edqq3NscHErU3p6uJmZB2KXQgVli3cspOQ4Pz2c9fOKzom/dvXiLEQ==;NDDZYJjcMxhqOVDfFcEk5g=="
 ---
 

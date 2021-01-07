@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
 type: article
 quality: 190
-heat: 810
+heat: 830
 published: true
 
 provider:
@@ -478,6 +478,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-biden-inaugural/03dc-biden-inaugural-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Senate rejects first GOP attempt to block Joe Biden's electors after day of chaos"
+    excerpt: "Over 150 Republicans had been expected to object to results in numerous states that voted for Joe Biden, even though they've already been certified."
+    publishedDateTime: 2021-01-07T06:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/congress-begin-electoral-vote-count-amid-protests-inside-outside-capitol-n1253013"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253013"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253013"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3440012/210106-us-capitol-protest-al-1031_66bbfc0e68da92a14420bdea5589d139.jpg"
+        width: 2500
+        height: 1681
         isCached: true
   - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
     excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."

@@ -123,6 +123,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Congress returns to work after Trump supporters storm the Capitol"
+    excerpt: "Trump protesters converged on the Capitol, where lawmakers were debating the final certification of the presidential election"
+    publishedDateTime: 2021-01-07T06:14:00Z
+    webUrl: "https://www.reuters.com/live-events/turmoil-at-the-capitol-id2949660"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://bucket-files.scribblelive.com/8/2021/1/6/7b6be19f-4be7-4b9a-ac02-d674c13b76da.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Chaos, violence, mockery as pro-Trump mob occupies Congress"
+    excerpt: "Trump mob took over the presiding officer’s chair in the Senate, the offices of the House speaker and the Senate dais, where one yelled, “Trump won that election.” They mocked its leaders, posing for photos in the office of House Speaker Nancy Pelosi,"
+    publishedDateTime: 2021-01-07T06:19:00Z
+    webUrl: "https://www.chron.com/news/article/Protesters-backing-Trump-roll-into-capital-to-15849294.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Protesters-backing-Trump-roll-into-capital-to-15849294.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Protesters-backing-Trump-roll-into-capital-to-15849294.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/04/14/20464394/4/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Analysis: As Ted Cruz argues for the president, Donald Trump’s supporters are the real prize"
     excerpt: "The senator from Texas is among legislators questioning the validity of President-elect Joe Biden's victory over Donald Trump. What's at stake? The hearts of the Republican voters who strongly back the incumbent president."
     publishedDateTime: 2021-01-06T10:04:00Z

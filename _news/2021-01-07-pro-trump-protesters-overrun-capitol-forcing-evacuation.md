@@ -1899,6 +1899,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Photos show pro-Trump rioters inside the US Senate chamber"
+    excerpt: "Photos of the rioters inside the chamber show people sitting in Senate members' seats, as well as scaling walls and waving flags in support of Trump."
+    publishedDateTime: 2021-01-07T06:18:00Z
+    webUrl: "https://www.businessinsider.com/trump-supporters-storming-capitols-senate-chamber-dais-photos-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-supporters-storming-capitols-senate-chamber-dais-photos-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-storming-capitols-senate-chamber-dais-photos-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5ff619856d61c10019cce021?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump doesn't ask backers to disperse after storming Capitol"
     excerpt: "President Donald Trump is encouraging supporters who've stormed the Capitol in protest of his reelection defeat to “remain peaceful.”"
     publishedDateTime: 2021-01-06T22:39:00Z
@@ -1914,6 +1930,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_04b256687cf34eab819e79c9fb875c9b_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Watch live: President-elect Biden to offer remarks on chaos at Capitol"
+    excerpt: "President-elect Joe Biden is expected to discuss the breach of the Capitol by pro-Trump protesters at a press conference in Wilmington, Del., on Wednesday afternoon. Watch the live video above."
+    publishedDateTime: 2021-01-06T20:32:00Z
+    webUrl: "https://thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy"
+    ampWebUrl: "https://thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_biden_123120getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
@@ -2040,6 +2072,22 @@ related:
     quality: 121
     images:
       - url: "https://i.insider.com/5ff4732c3793140019e28580?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Woman shot dead after armed Trump supporters stormed the Capitol as lawmakers gathered to certify Biden's win"
+    excerpt: "NBC News learned from law enforcement officials that the woman died of her wound. The circumstances surrounding the shooting remain unclear."
+    publishedDateTime: 2021-01-07T06:16:00Z
+    webUrl: "https://www.businessinsider.com/woman-shot-in-capitol-amid-pro-trump-protest-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/woman-shot-in-capitol-amid-pro-trump-protest-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/woman-shot-in-capitol-amid-pro-trump-protest-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5ff61e176d61c10019cce038?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -2173,6 +2221,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6OWCNCMMUI6XKPUBZTIXF3SXI.jpg&w=1440"
         width: 1440
         height: 1080
+        isCached: true
+  - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
+    excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat, battling police in the hallways and delaying the certification of Democratic President-elect Joe Biden's victory for hours."
+    publishedDateTime: 2021-01-07T06:24:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN29B2PS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29B2PS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29B2PS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880885&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0601V"
+        width: 805
+        height: 545
         isCached: true
   - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
     excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."

@@ -831,6 +831,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: A sample of the false claims Trump, Republicans told on the day the Capitol was stormed"
+    excerpt: "President Donald Trump made a large number of false claims in a rambling speech. His allies then made some more in Congress.\n    \n"
+    publishedDateTime: 2021-01-07T06:18:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlGbJWiYPTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/fact-check-trump-republicans-electoral-college-objections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/fact-check-trump-republicans-electoral-college-objections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106191758-trump-sot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud.\n    \n"
     publishedDateTime: 2021-01-03T20:13:04Z

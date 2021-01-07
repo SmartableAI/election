@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenation.com/article/politics/hawley-cruz-trump/tnamp/"
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/hawley-cruz-trump/tnamp/"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Nation
@@ -26,6 +26,24 @@ images:
     width: 1440
     height: 907
     isCached: true
+
+related:
+  - title: "Graham: Trump and I have had a hell of a journey, but enough is enough"
+    excerpt: "Republican Sen. Lindsey Graham, who has been a staunch supporter of President Trump, vigorously defended to certify the electoral college votes on the Senate floor.\n    \n"
+    publishedDateTime: 2021-01-07T03:38:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106222257-graham-senate-floor-speech-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "QtEoi4vL37O2t0i52VBNbmB1oKq2OwmLeY7sOZL92J/v7ApJocCEuP/d4rkPwPOrGZUmlUmtDQaYJ0Eqa4pjum4IJfwpOt2wfgVIpCXc6DkcZu/uY8owTJhMRes2RFGJnibMpmPiHdVO5HZhe29z5X0NhzYeMutjbrDzpeT+38ugO9MKFzyq9xUuSBjB8qbzA7ic48v626cVo0miC/beOcX2jPFrIgEmQp4qnqMh9zj2Wy89zrM2alUCzsZvaBtd0Ca61OnPQOlFCYqnOq6EYLMgd3DLrPylzkKK9+Z596ShgBMxE9RT5RmQnjXFWmt2NphznaFMnqN3GNl+zGhFmGpXxp/+7JfF85NWitc3sK0=;QWPVAQYikTBfNwbKLq6SYA=="
 ---

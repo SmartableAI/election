@@ -496,6 +496,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Senate rejects first GOP attempt to block Joe Biden's electors after day of chaos"
+    excerpt: "Over 150 Republicans had been expected to object to results in numerous states that voted for Joe Biden, even though they've already been certified."
+    publishedDateTime: 2021-01-07T06:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/congress-begin-electoral-vote-count-amid-protests-inside-outside-capitol-n1253013"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253013"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253013"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3440012/210106-us-capitol-protest-al-1031_66bbfc0e68da92a14420bdea5589d139.jpg"
+        width: 2500
+        height: 1681
+        isCached: true
   - title: "Biden's health agenda runs through Georgia"
     excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
     publishedDateTime: 2021-01-05T15:00:00Z

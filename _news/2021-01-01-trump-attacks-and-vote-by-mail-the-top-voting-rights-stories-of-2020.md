@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House and Senate abruptly go into recess after Trump-supporting rioters storm the Capitol building"
+    excerpt: "Violence erupted as Trump supporters descended on the nation's capital to protest the certification of Joe Biden's election victory."
+    publishedDateTime: 2021-01-07T06:35:00Z
+    webUrl: "https://www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff6185f6d61c10019cce01a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's kids won't lose their 5th Amendment rights and be forced to testify against him if they're pardoned, experts say"
     excerpt: "A presidential pardon isn't enough to mean that someone can't plead the Fifth Amendment and refuse to testify, according to criminal law experts."
     publishedDateTime: 2020-12-31T20:20:00Z
