@@ -768,6 +768,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Media Buzz: Mob violence halts Capitol Hill election debate, Trump accused of inciting protesters"
+    excerpt: "When President Trump addressed a big crowd of protesters outside the White House yesterday, he was caught between two historic defeats."
+    publishedDateTime: 2021-01-07T08:29:00Z
+    webUrl: "https://www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters"
+    ampWebUrl: "https://www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia Girds for Senate Runoffs in Wake of Trump Call to Overturn Vote"
     excerpt: "Georgians were bracing for Tuesday’s Senate runoff elections after President Trump urged state officials in a weekend phone call to nullify President-elect Joe Biden’s win in the November vote."
     publishedDateTime: 2021-01-05T08:37:00Z

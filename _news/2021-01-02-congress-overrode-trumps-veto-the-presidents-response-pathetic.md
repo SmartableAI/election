@@ -125,21 +125,51 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Chaos, violence, mockery as pro-Trump mob occupies Congress"
-    excerpt: "Trump mob took over the presiding officer’s chair in the Senate, the offices of the House speaker and the Senate dais, where one yelled, “Trump won that election.” They mocked its leaders, posing for photos in the office of House Speaker Nancy Pelosi,"
-    publishedDateTime: 2021-01-07T06:19:00Z
-    webUrl: "https://www.chron.com/news/article/Protesters-backing-Trump-roll-into-capital-to-15849294.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Protesters-backing-Trump-roll-into-capital-to-15849294.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Protesters-backing-Trump-roll-into-capital-to-15849294.php"
+  - title: "'Let's get back to work': A rattled Congress continues Electoral College count after pro-Trump riot at Capitol"
+    excerpt: "\"Today was a dark day in the history of the United States Capitol,\" Vice President Mike Pence, the president of the Senate, said as he resumed the session."
+    publishedDateTime: 2021-01-07T08:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/electoral-college-vote-stopped-unclear-when-resume-after-riot/6572441002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6572441002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6572441002"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://s.hdnux.com/photos/01/16/04/14/20464394/4/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/f91d013c-a1c9-4a5f-9383-06ffd82ba70d-AFP_AFP_8YA6MQ.jpg?auto=webp&crop=4956,2788,x0,y351&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "People are once again calling for Twitter to suspend President Donald Trump's account as rioters breached the US Capitol"
+    excerpt: "Actor Josh Gad is among those calling for Twitter to suspend President Trump's account as rioters storm the US Capitol."
+    publishedDateTime: 2021-01-07T07:22:00Z
+    webUrl: "https://www.businessinsider.com/people-demand-twitter-suspend-trump-account-us-capitol-siege-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/people-demand-twitter-suspend-trump-account-us-capitol-siege-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-demand-twitter-suspend-trump-account-us-capitol-siege-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5ff6296ed184b30018aad637?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A Pro-Trump Mob Stormed the Halls of Congress. Photographs From Inside the Chaos at the Capitol"
+    excerpt: "A mob incited by Trump stormed the Capitol in an attempt to block lawmakers from certifying Biden's electoral victory"
+    publishedDateTime: 2021-01-07T07:19:00Z
+    webUrl: "https://time.com/5927132/donald-trump-mob-capitol-chaos/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 93
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/washington-capitol-donald-trump-senate-14.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Protesters to Gather in NYC as Congress Set to Confirm Joe Biden as President"
     excerpt: "As Congress prepares to affirm President-elect Joe Biden’s victory, protesters are expected to gather in New York City to call for an investigation into President Donald Trump who has repeated baseless claims of election fraud."

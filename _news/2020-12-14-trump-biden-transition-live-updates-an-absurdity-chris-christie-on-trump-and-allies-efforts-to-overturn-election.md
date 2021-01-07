@@ -47,6 +47,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Pence defies Trump, affirms Biden’s win"
+    excerpt: "Vice President Mike Pence has defied President Donald Trump, affirming electoral votes that will make Democrat Joe Biden the next president"
+    publishedDateTime: 2021-01-07T08:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-defies-trump-affirms-bidens-win/2021/01/07/92572b9c-50c5-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-defies-trump-affirms-bidens-win/2021/01/07/92572b9c-50c5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-defies-trump-affirms-bidens-win/2021/01/07/92572b9c-50c5-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 165
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump keeps pressure on Pence to reject Biden's win before Congress Wednesday"
     excerpt: "President Trump is keeping pressure on Vice President Mike Pence to reject Joe Biden's win, but those close to Pence say he's expected to stick to his scripted role."
     publishedDateTime: 2021-01-05T20:49:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
         width: 817
         height: 545
+        isCached: true
+  - title: "Live updates: Congress confirms Joe Biden and Kamala Harris’ win in the general election"
+    excerpt: "Congress' formal announcement of the presidential election results is usually a quick, constitutionally mandated formality. This year, it will likely turn into an all-night session."
+    publishedDateTime: 2021-01-06T19:42:00Z
+    webUrl: "https://www.latimes.com/politics/liveblog/live-updates-congress-electoral-college-votes"
+    ampWebUrl: "https://www.latimes.com/politics/liveblog/live-updates-congress-electoral-college-votes?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/liveblog/live-updates-congress-electoral-college-votes?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 156
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5f0e873/2147483647/strip/true/crop/1920x1080+0+0/resize/768x432!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2e%2F2e%2Fe0b2f12f4b3ab70e6867219acd80%2Fthumbnail%2Fgraham.0000005.jpg"
+        width: 768
+        height: 432
         isCached: true
   - title: "US election results 2020: Joe Biden's defeat of Donald Trump"
     excerpt: "Georgia recertifies election results, confirming Biden’s victory, despite Trump’s continued refusal to formally concede"
@@ -161,10 +193,10 @@ related:
         isCached: true
   - title: "Trump claims he and Pence agree on VP's election authority"
     excerpt: "The president is decrying reports that the vice president told him he lacks the authority to alter the election results."
-    publishedDateTime: 2021-01-06T04:09:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-claims-he-and-pence-agree-on-vps-election-authority/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-claims-he-and-pence-agree-on-vps-election-authority/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-claims-he-and-pence-agree-on-vps-election-authority/"
+    publishedDateTime: 2021-01-06T12:25:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-pence-vp-authority-electoral-college-vote-count/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pence-vp-authority-electoral-college-vote-count/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pence-vp-authority-electoral-college-vote-count/"
     type: article
     provider:
       name: CBS News
@@ -190,6 +222,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546740380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CT"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden Election Certified With Few Objections as GOP Finally Defies Trump"
+    excerpt: "Joe Biden will be sworn in as the 46th president of the United States on January 20—something President Donald Trump and his most loyal allies couldn't stop, especially after pro-Trump protestors mobbed the U."
+    publishedDateTime: 2021-01-07T08:46:00Z
+    webUrl: "https://www.newsweek.com/biden-election-certified-few-objections-gop-finally-defies-trump-1559546"
+    ampWebUrl: "https://www.newsweek.com/biden-election-certified-few-objections-gop-finally-defies-trump-1559546?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-election-certified-few-objections-gop-finally-defies-trump-1559546?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 154
+    images:
+      - url: "https://d.newsweek.com/en/full/1699954/joe-biden-election-win-certified-senate.jpg"
+        width: 3600
+        height: 2401
         isCached: true
   - title: "In Georgia, Trump pressures Pence, Biden promises 'new day' with Senate runoffs"
     excerpt: "President-elect Joe Biden and outgoing President Donald Trump held dueling rallies in Georgia on Monday to persuade supporters to turn out on Tuesday for runoff U.S. Senate elections that will determine the balance of power in Washington."
@@ -1163,6 +1211,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "U.S. Senate rejects Trump allies' objection to Arizona presidential election results"
+    excerpt: "The U.S. Senate on Wednesday night overwhelmingly rejected a move by allies of President Donald Trump to object to Arizona's certification of its presidential election results that awarded Democrat Joe Biden the victory,"
+    publishedDateTime: 2021-01-07T08:29:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-congress-election-arizona-idINKBN29C0CI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29C0CI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0CI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546897694&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH06088"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Democratic lawmakers call for Pence to invoke 25th Amendment, remove Trump from office"
     excerpt: "Democratic lawmakers called on Vice President Pence to invoke the 25th Amendment on Wednesday and remove President Trump from office, blaming the president for inciting the rioters that violently breached the Capitol building."
     publishedDateTime: 2021-01-06T22:01:00Z
@@ -1883,6 +1947,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Chaos, violence, mockery as pro-Trump mob occupies Congress"
+    excerpt: "It began as a day of reckoning for President Donald Trump’s futile attempt to cling to power, as Congress took up the certification of President-elect Joe Biden’s victory"
+    publishedDateTime: 2021-01-07T08:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/chaos-violence-mockery-pro-trump-mob-occupies-congress-75105303"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/chaos-violence-mockery-pro-trump-mob-occupies-congress-75105303"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chaos-violence-mockery-pro-trump-mob-occupies-congress-75105303"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3eb463c41049414986552817b77015a8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Photos show pro-Trump rioters inside the US Senate chamber"
     excerpt: "Photos of the rioters inside the chamber show people sitting in Senate members' seats, as well as scaling walls and waving flags in support of Trump."
     publishedDateTime: 2021-01-07T06:18:00Z
@@ -1930,6 +2010,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_04b256687cf34eab819e79c9fb875c9b_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "U.S. House rejects attempt to overturn Biden victory in Arizona"
+    excerpt: "The U.S. House of Representatives on Wednesday night joined the Senate in rejecting a move by allies of President Donald Trump to overturn Democrat Joe Biden's victory in Arizona, a vote delayed by rioters earlier pushing their way into the U."
+    publishedDateTime: 2021-01-07T07:04:00Z
+    webUrl: "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29C0H3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0H3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546906712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AF"
+        width: 817
+        height: 545
         isCached: true
   - title: "Watch live: President-elect Biden to offer remarks on chaos at Capitol"
     excerpt: "President-elect Joe Biden is expected to discuss the breach of the Capitol by pro-Trump protesters at a press conference in Wilmington, Del., on Wednesday afternoon. Watch the live video above."
@@ -2026,6 +2122,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1696944/donald-trump.jpg"
         width: 1024
         height: 696
+        isCached: true
+  - title: "Trump summoned supporters to \"wild\" protest, and told them to fight. They did"
+    excerpt: "The chaos in the U.S. Capitol on Wednesday unfolded after President Donald Trump spent weeks whipping up his supporters with false allegations of fraud in the Nov. 3 election, culminating in a call to march to the building that represents U."
+    publishedDateTime: 2021-01-07T08:27:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-protests-idINKBN29B2CZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29B2CZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29B2CZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546897006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0518I"
+        width: 817
+        height: 545
         isCached: true
   - title: "McConnell urges Senate to override Trump defense veto, vague on stimulus checks"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday urged the Senate to override President Donald Trump's veto of a $740 billion defense policy bill, saying the funding plan for the U.S. military could not be allowed to fail."
@@ -2412,6 +2524,17 @@ related:
         width: 4356
         height: 2904
         isCached: true
+  - title: "Congress debates challenges to election results after pro-Trump mob invades Capitol – live"
+    excerpt: "Four dead after police shooting and ‘medical emergencies’ in day of unrest"
+    publishedDateTime: 2021-01-07T03:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/06/georgia-election-latest-news-senate-ossoff-warnock-democrats-republicans-trump-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/06/georgia-election-latest-news-senate-ossoff-warnock-democrats-republicans-trump-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/06/georgia-election-latest-news-senate-ossoff-warnock-democrats-republicans-trump-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 110
   - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
     excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
     publishedDateTime: 2020-12-31T18:51:00Z
@@ -3258,6 +3381,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "World Stunned by Trump Supporters Storming U.S. Capitol, Attempts to Overturn Election"
+    excerpt: "Supporters of U.S. President Donald Trump climb on walls at the U.S. Capitol during a protest against the certification of the 2020 U.S. presidential election results by the U.S. Congress, in Washington,"
+    publishedDateTime: 2021-01-07T08:41:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-06/factbox-world-stunned-by-violence-in-us-capitol-attempts-to-overturn-election"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-06/factbox-world-stunned-by-violence-in-us-capitol-attempts-to-overturn-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-06/factbox-world-stunned-by-violence-in-us-capitol-attempts-to-overturn-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
     excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
     publishedDateTime: 2021-01-06T12:36:00Z

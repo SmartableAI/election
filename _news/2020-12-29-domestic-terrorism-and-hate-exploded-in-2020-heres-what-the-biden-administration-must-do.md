@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "What could Democratic control of Senate mean for wages, child care, unions under Biden?"
+    excerpt: "With Democrats in control of the White House and Congress, President Joe Biden may reshape the workplace from raising wages to encouraging diversity"
+    publishedDateTime: 2021-01-07T07:45:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-wins-dem-control-how-biden-affect-workplace/6565695002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6565695002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6565695002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
     excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
     publishedDateTime: 2020-12-31T00:02:00Z

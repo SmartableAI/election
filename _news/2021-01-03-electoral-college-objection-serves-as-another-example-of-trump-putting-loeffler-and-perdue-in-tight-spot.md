@@ -863,6 +863,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Pence is said to have told Trump he lacks the power to change the election result."
+    excerpt: "Vice President Mike Pence told President Trump on Tuesday that he did not believe he had the power to block congressional certification of Joseph R. Biden Jr.’s victory in the presidential election despite Mr."
+    publishedDateTime: 2021-01-06T13:57:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/pence-is-said-to-have-told-trump-he-lacks-the-power-to-change-the-election-result.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/pence-is-said-to-have-told-trump-he-lacks-the-power-to-change-the-election-result.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/pence-is-said-to-have-told-trump-he-lacks-the-power-to-change-the-election-result.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 159
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06transition-briefing-pence/06transition-briefing-pence-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "‘Do it Mike’: Trump leans on Pence to reject Biden’s Electoral College certification"
     excerpt: "President Donald Trump applied new pressure on Vice President Mike Pence to interfere with the Congressional certification of President-elect Joe Biden’s Electoral College victory on Wednesday — despite Pence’s inability to alter the election’s outcome and the overall futility of the effort by some Republican lawmakers."
     publishedDateTime: 2021-01-06T21:09:00Z

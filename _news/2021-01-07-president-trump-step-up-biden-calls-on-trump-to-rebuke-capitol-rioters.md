@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's deputy national security adviser resigns as other top officials consider quitting over Capitol riot"
+    excerpt: "Several of President Donald Trump's top aides -- including national security adviser Robert O'Brien -- are considering resigning in the wake of his response to a pro-Trump mob breaching the US Capitol on Wednesday, according to multiple sources familiar with their thinking.\n    \n"
+    publishedDateTime: 2021-01-07T06:47:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4YEQEsjaddE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/national-security-adviser-resigns-trump-protest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/national-security-adviser-resigns-trump-protest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106212949-matthew-pottinger-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's former military leaders condemn President and others who have interfered with peaceful transfer of power"
     excerpt: "Former military officials who served under President Donald Trump are condemning the President and other leaders who have interfered with a peaceful transfer of power following Wednesday's breach of the US Capitol, when rioters attempted to stymy the ceremonial counting of the electoral votes that will"
     publishedDateTime: 2021-01-07T02:41:26Z

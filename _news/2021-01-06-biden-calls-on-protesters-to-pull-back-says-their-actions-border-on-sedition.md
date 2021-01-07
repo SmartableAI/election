@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
 type: article
 quality: 170
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hawley says he'll object to Electoral College certification of Biden victory on Jan. 6"
-    excerpt: "Sen. Josh Hawley, R-Mo., on Wednesday became the first Republican senator to publicly say he will object to the certification of the presidential election results when a joint session of Congress meets in one week to formally certify President-elect Joe Biden's 306-232 Electoral College victory over"
-    publishedDateTime: 2020-12-30T17:06:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2s_Uq2On-m4/josh-hawley-to-object-electoral-college-certification-jan-6"
-    ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-to-object-electoral-college-certification-jan-6.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-to-object-electoral-college-certification-jan-6.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Joe Biden Condemns Storming Of Capitol Building: \"It Is Not Protest, It Is Insurrection\""
     excerpt: "U.S. President-elect Joe Biden delivers remarks after Trump supporters stormed and breached the U.S. Capitol. \"I call on this mob to pull back and allow the work of the democracy to go forward,\" Biden said as rioters invaded the Capitol building."
     publishedDateTime: 2021-01-06T22:10:00Z

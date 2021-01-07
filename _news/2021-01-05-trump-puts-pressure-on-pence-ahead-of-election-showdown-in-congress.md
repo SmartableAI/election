@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 1555
+heat: 1575
 published: true
 
 provider:
@@ -751,6 +751,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0afa3ac-f065-4927-8162-6fc89b6f8c50/ac5cacdb-f5cf-4273-8d0c-0207f0b661bc/1280x720/match/image.jpg"
         width: 1280
         height: 719
+        isCached: true
+  - title: "Media Buzz: Mob violence halts Capitol Hill election debate, Trump accused of inciting protesters"
+    excerpt: "When President Trump addressed a big crowd of protesters outside the White House yesterday, he was caught between two historic defeats."
+    publishedDateTime: 2021-01-07T08:29:00Z
+    webUrl: "https://www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters"
+    ampWebUrl: "https://www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mob-violence-halts-hill-election-debate-trump-accused-of-inciting-protesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Senate moves toward override of Trump's NDAA veto"
     excerpt: "A final Senate vote on whether to override Trump’s veto is expected to take place by Saturday before Congress adjourns its current session."
