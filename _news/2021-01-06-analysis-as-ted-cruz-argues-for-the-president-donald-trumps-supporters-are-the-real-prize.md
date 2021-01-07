@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 689
         isCached: true
+  - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
+    excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat. But after hours of chaos in which police battled to regain control,"
+    publishedDateTime: 2021-01-07T10:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN29B2PU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2PU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2PU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880885&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0601V"
+        width: 805
+        height: 545
+        isCached: true
   - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
     excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
     publishedDateTime: 2021-01-03T14:00:00Z

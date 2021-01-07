@@ -32,67 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol "
-    excerpt: "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n"
-    publishedDateTime: 2021-01-06T22:50:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rJ9idYlsOyk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
+  - title: "Graham: Trump and I have had a hell of a journey, but enough is enough"
+    excerpt: "Republican Sen. Lindsey Graham, who has been a staunch supporter of President Trump, vigorously defended to certify the electoral college votes on the Senate floor.\n    \n"
+    publishedDateTime: 2021-01-07T03:38:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106222257-graham-senate-floor-speech-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's deputy national security adviser resigns as other top officials consider quitting over Capitol riot"
-    excerpt: "Several of President Donald Trump's top aides -- including national security adviser Robert O'Brien -- are considering resigning in the wake of his response to a pro-Trump mob breaching the US Capitol on Wednesday, according to multiple sources familiar with their thinking.\n    \n"
-    publishedDateTime: 2021-01-07T06:47:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4YEQEsjaddE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/national-security-adviser-resigns-trump-protest/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/national-security-adviser-resigns-trump-protest/index.html"
+  - title: "How Josh Hawley Learned to Stop Worrying and Love Donald Trump"
+    excerpt: "Until recently, the senator leading the charge to discredit Biden’s victory was a creature of the ultraconservative establishment. Then he discovered Trump’s faux populism."
+    publishedDateTime: 2021-01-06T10:34:00Z
+    webUrl: "https://www.thenation.com/article/politics/hawley-cruz-trump/"
+    ampWebUrl: "https://www.thenation.com/article/politics/hawley-cruz-trump/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/hawley-cruz-trump/tnamp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
+      name: The Nation
+      domain: thenation.com
+    quality: 85
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106212949-matthew-pottinger-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's former military leaders condemn President and others who have interfered with peaceful transfer of power"
-    excerpt: "Former military officials who served under President Donald Trump are condemning the President and other leaders who have interfered with a peaceful transfer of power following Wednesday's breach of the US Capitol, when rioters attempted to stymy the ceremonial counting of the electoral votes that will"
-    publishedDateTime: 2021-01-07T02:41:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6UHMxdvSZSM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/military-leaders-trump-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/military-leaders-trump-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106210527-jim-mattis-joseph-dunford-2018-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "‘President Trump, step up’: Biden calls on Trump to rebuke Capitol rioters"
-    excerpt: "The words of a president matter, no matter how good or bad that president is,” Joe Biden said. “At their best, the words of a president can inspire. At their worst, they can incite.”"
-    publishedDateTime: 2021-01-07T06:14:00Z
-    webUrl: "https://www.politico.com/news/2021/01/06/capitol-rioters-biden-response-trump-455595"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/369026f3-d559-4a45-bebc-16ae13994954/efc65f2e-eddc-4e3a-8537-5ac6a4eaa196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/Hawley-pic-scaled-e1609894623844.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "muTAGgzn8XcifdvEpLQOudbrb3SgOs/7X+fUMafzde9egz0TGaE6feiN2+qmw/r0NkERi0f5dM4GjfCtnF3QcAJt1BWs9eWjrupVs168BJz+kmzJABKPeKJyJV2zYYwVPpaXZS/61tmvXqfV2s19R3bxjF5eCxv/dieipIZEScYvvPr/fyQxfuOxVr9m7iB0i//7fasUI8An3KclrYzDPzRSGzvnVrL80Cu8IOoDNiKZk9rCrFoQyRjBs9XqjBS3X+3GDXG5IwrlZ5R02uSbPttG+nfcBBpcbBDDwygCbUj9c2Vl0CC9F5XvJUmtbpIXlP3sHO6ZuiLnBjR75mN7zE3UkJiHRe4XUWcNrqDNDts=;H7Ke37oieM0d0iWBnnISoQ=="

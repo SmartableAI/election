@@ -480,6 +480,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Congress affirms Biden as president after completing electoral vote count"
+    excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
+    publishedDateTime: 2021-01-07T09:24:00Z
+    webUrl: "https://www.nbcnews.com/video/congress-affirms-biden-as-president-after-completing-electoral-vote-count-99022917817"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99022917817"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99022917817"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/f_msnbc_brk_pence_210107_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Senate rejects first GOP attempt to block Joe Biden's electors after day of chaos"
     excerpt: "Over 150 Republicans had been expected to object to results in numerous states that voted for Joe Biden, even though they've already been certified."
     publishedDateTime: 2021-01-07T06:29:00Z

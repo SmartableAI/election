@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Early Biden Climate Test: Groups Demand Tougher Rules on Building"
-    excerpt: "A new push for stricter rules in flood zones could force Biden’s team to choose: Increase construction costs, or leave people exposed to climate change."
-    publishedDateTime: 2021-01-06T14:07:00Z
-    webUrl: "https://www.nytimes.com/2021/01/06/climate/flood-zone-building-restrictions.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/06/climate/flood-zone-building-restrictions.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/climate/flood-zone-building-restrictions.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/06/climate/06CLI-FEMA1/06CLI-FEMA1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "RD+ZSKzOZxJSkWUxtOEQ9TbUhH1rLXSLmt2b+7Fd2fAIACF1mr2EasqPdED57H+NaCNNqrGbn/gWKeR57aAAAMtgSGjIMQy/pYyyExBt2YyPVqglhlypLsrt7ICzhuUVX/NPIABv97VfceXdB5T9wOczBXYG2q/V1Fa0pX5dFMQi1+a/KaMieH0NOAZk3aiJumvh8wLqKyZbIcT2dNW9okOldNiNUxnHfxRBnUJW9oTehq/aQ2dzIZkW6te7AB57fCc8BSG1Rb9Y85oGF35Sa4zCe69Neg2k+YTPk7MUD+Fz5LoXpVa9Qckuv34SW4EBcY3eJzxGkf9OD3zNLEdQ3RBEYkuSuSrC00wEW0bbAb4=;0fhEKAi84KubFWaevNMsbQ=="
 ---

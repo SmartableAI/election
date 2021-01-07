@@ -334,6 +334,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congress completes electoral count, finalizing Biden's win after violent delay from pro-Trump mob"
+    excerpt: "Congressional Republicans are preparing a futile attempt Wednesday on President Donald Trump's behalf to overturn the results of the November election by objecting to Electoral College votes cast by at least three states for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2021-01-07T08:41:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YxFp-LjLP_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/2020-election-congress-electoral-college-vote-count/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/2020-election-congress-electoral-college-vote-count/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105031546-us-capitol-0104-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump made big in-roads in Hispanic areas across the nation"
     excerpt: "One of the most notable early results on Election Night came from Florida's heavily Hispanic Miami-Dade county. President Donald Trump lost it to President-elect Joe Biden by just 7 points, after losing it by 29 points in 2016.\n    \n"
     publishedDateTime: 2020-12-12T18:21:40Z
@@ -1257,6 +1273,22 @@ related:
       - url: "https://static.politico.com/77/b2/b1cc7a1b46e58de123a857286be7/20210105-donald-trump-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Donald Trump’s Last Picture Show"
+    excerpt: "The Capitol mob had reason to believe the president would be watching them. For the rest of us, it was a horror story."
+    publishedDateTime: 2021-01-07T00:36:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/arts/television/donald-trump-capitol-mob-tv.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/arts/television/donald-trump-capitol-mob-tv.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/arts/television/donald-trump-capitol-mob-tv.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/arts/06capitol-tv9/merlin_182059494_e6d7f720-2ec5-4c43-adb6-a59ee4f594e4-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Washington in Final Convulsions of Trump Era"
     excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."

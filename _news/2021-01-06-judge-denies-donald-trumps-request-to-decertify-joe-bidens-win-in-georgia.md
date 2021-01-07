@@ -320,6 +320,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "US Capitol riot, Pence confirms Biden, Trump commits to 'orderly transition': 5 things to know Thursday"
+    excerpt: "U.S. Capitol riot, Trump commits to \"orderly transition\" after Biden officially declared election winner and more news you need to know Thursday."
+    publishedDateTime: 2021-01-07T10:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/07/us-capitol-riot-donald-trump-mike-pence-coronavirus/6561248002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6561248002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6561248002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 149
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/6bc23808-ce19-46b2-bc61-8e701ac8d31e-GTY_1294949460.jpg?auto=webp&crop=4220,2374,x0,y245&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is repaying Pence's 4 years of unflinching loyalty by making him a scapegoat for his election loss"
     excerpt: "Trump's move to put all of this on Pence means that the vice president is likely to be vilified in the eyes of the president's supporters."
     publishedDateTime: 2021-01-05T18:40:00Z
@@ -1292,6 +1308,22 @@ related:
         width: 275
         height: 275
         isCached: true
+  - title: "U.S. Senate rejects Trump allies' objection to Pennsylvania presidential election results"
+    excerpt: "The U.S. Senate on Thursday morning overwhelmingly rejected a move by allies of President Donald Trump to object to Pennsylvania's certification of its presidential election results that awarded Democrat Joe Biden the victory,"
+    publishedDateTime: 2021-01-07T10:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-election-pennsylvania-idUSKBN29C0KT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0KT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0KT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546936531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060CF"
+        width: 718
+        height: 545
+        isCached: true
   - title: "Joe Biden warns Trump administration's vaccine distribution plans are \"falling far behind\""
     excerpt: "Washington — President-elect Joe Biden warned Americans on Tuesday that they need to brace for a \"very tough period for our nation\" with soaring coronavirus case counts and deaths expected in the coming weeks and said the Trump administration's plans for distributing coronavirus vaccines are lagging."
     publishedDateTime: 2020-12-29T21:28:00Z
@@ -2188,6 +2220,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Critics call for use of 25th Amendment to remove Trump. Here’s how that works."
+    excerpt: "The siege on the U.S Capitol by rioting supporters of President Donald Trump has renewed talk of an extreme remedy: removing him from office under the 25th Amendment."
+    publishedDateTime: 2021-01-07T10:32:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-25th-amendment-20210107-s6gqna3whzcsbemh6pirngrowm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-25th-amendment-20210107-s6gqna3whzcsbemh6pirngrowm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-25th-amendment-20210107-s6gqna3whzcsbemh6pirngrowm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6XRMc9msnEbazjY8lDKetcnsems=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HJ5V5YGTLZBC7OJV3IDSXCONDE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Woman shot dead after armed Trump supporters stormed the Capitol as lawmakers gathered to certify Biden's win"
     excerpt: "NBC News learned from law enforcement officials that the woman died of her wound. The circumstances surrounding the shooting remain unclear."
     publishedDateTime: 2021-01-07T06:16:00Z
@@ -2334,22 +2382,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6OWCNCMMUI6XKPUBZTIXF3SXI.jpg&w=1440"
         width: 1440
         height: 1080
-        isCached: true
-  - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
-    excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat, battling police in the hallways and delaying the certification of Democratic President-elect Joe Biden's victory for hours."
-    publishedDateTime: 2021-01-07T06:24:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN29B2PS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29B2PS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29B2PS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880885&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0601V"
-        width: 805
-        height: 545
         isCached: true
   - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
     excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."
@@ -3005,6 +3037,15 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "We Must Impeach Donald Trump Again"
+    excerpt: "\"The House and Senate should give those members who objected to the counting of the electoral votes – and who stoked the fear and paranoia of the mob – an opportunity to withdraw their baseless objections."
+    publishedDateTime: 2021-01-07T00:28:00Z
+    webUrl: "https://time.com/5927034/impeach-donald-trump-again/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Trump says he'll 'fight like hell' to hold on to presidency after loss to Joe Biden"
     excerpt: "With mounting desperation, Donald Trump declared he would “fight like hell” to hold on to the presidency and appealed to Republican lawmakers to reverse his election loss to Joe Biden when they convene this week to confirm the Electoral College vote."
     publishedDateTime: 2021-01-05T14:49:00Z
@@ -3062,6 +3103,20 @@ related:
       name: Time
       domain: time.com
     quality: 83
+  - title: "Congress, Pence formally certify Joe Biden's electoral victory"
+    excerpt: "Vice President Mike Pence, in his ceremonial role as president of the Senate, formally announced that after counting the electoral votes submitted by the states, President-elect Joe Biden is the official winner of the 2020 election."
+    publishedDateTime: 2021-01-07T10:37:00Z
+    webUrl: "https://theweek.com/5things/959395/congress-pence-formally-certify-joe-bidens-electoral-victory"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 80
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1294999099.jpg?itok=PHVjPg8W"
+        width: 840
+        height: 560
+        isCached: true
   - title: "VIDEO: Biden Calls On Trump To Stop Violence In TV Briefing As Washington Descends Into Chaos"
     excerpt: "After a mob descended upon the Capitol on Wednesday during a joint session of Congress, President-elect Joe Biden addressed the country and urged calm. Speaking from his home in Delaware, Biden called on President Donald Trump “to go on national television now to fulfill his oath and defend the Constitution and demand an end to this siege."
     publishedDateTime: 2021-01-06T22:16:00Z
@@ -3352,6 +3407,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "US Congress Certifies Biden Win Over Trump"
+    excerpt: "Congress formally certified Joe Biden as the next US president on Thursday, dealing a hammer blow to Donald Trump whose supporters stormed the Capitol hours earlier, triggering unprecedented scenes of mayhem in the seat of American democracy."
+    publishedDateTime: 2021-01-07T09:27:00Z
+    webUrl: "https://www.ibtimes.com/us-congress-certifies-biden-win-over-trump-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
     publishedDateTime: 2021-01-06T18:26:00Z
@@ -3442,6 +3511,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Julián and Joaquin Castro call on Ted Cruz to resign after he objected to Joe Biden's victory just before pro-Trump rioters breached Congress"
+    excerpt: "Ted Cruz of Texas faced calls for his resignation Wednesday as Texas Democrats said his leading role in efforts to block the certification of President-elect Joe Biden's electoral victory empowered the pro-Donald Trump rioters who breached the Capitol and disrupted the certification process."
+    publishedDateTime: 2021-01-07T10:14:00Z
+    webUrl: "https://www.texastribune.org/2021/01/06/ted-cruz-trump-capitol/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/06/ted-cruz-trump-capitol/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/06/ted-cruz-trump-capitol/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 55
+    images:
+      - url: "https://thumbnails.texastribune.org/3mJcMH6QDkc5r3WqzDsrm7S5K90=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/44658a9031baec3532e06fcd7b009490/Ted%20Cruz%20Jan%206%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
     excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."
     publishedDateTime: 2021-01-07T00:51:00Z

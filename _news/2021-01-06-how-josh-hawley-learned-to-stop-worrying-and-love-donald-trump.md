@@ -44,6 +44,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A Mob and the Breach of Democracy: The Violent End of the Trump Era"
+    excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
+    publishedDateTime: 2021-01-06T18:55:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "QtEoi4vL37O2t0i52VBNbmB1oKq2OwmLeY7sOZL92J/v7ApJocCEuP/d4rkPwPOrGZUmlUmtDQaYJ0Eqa4pjum4IJfwpOt2wfgVIpCXc6DkcZu/uY8owTJhMRes2RFGJnibMpmPiHdVO5HZhe29z5X0NhzYeMutjbrDzpeT+38ugO9MKFzyq9xUuSBjB8qbzA7ic48v626cVo0miC/beOcX2jPFrIgEmQp4qnqMh9zj2Wy89zrM2alUCzsZvaBtd0Ca61OnPQOlFCYqnOq6EYLMgd3DLrPylzkKK9+Z596ShgBMxE9RT5RmQnjXFWmt2NphznaFMnqN3GNl+zGhFmGpXxp/+7JfF85NWitc3sK0=;QWPVAQYikTBfNwbKLq6SYA=="
 ---

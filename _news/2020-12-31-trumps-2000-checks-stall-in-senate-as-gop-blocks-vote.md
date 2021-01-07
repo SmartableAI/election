@@ -541,6 +541,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump acknowledges defeat after Congress confirms electoral vote"
+    excerpt: "In a sign of the extraordinary events that had unfolded over the previous 24 hours, Trump’s statement acknowledging that he would leave office on Jan. 20 could not be posted on the president’s Twitter or Facebook feeds because both accounts have been suspended by the companies."
+    publishedDateTime: 2021-01-07T07:50:00Z
+    webUrl: "https://www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NF3FSUHZ5RB75EWJHT3CBTA5SA.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
     excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
     publishedDateTime: 2020-12-30T20:19:00Z

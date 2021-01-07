@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -530,6 +530,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Trump acknowledges defeat after Congress confirms electoral vote"
+    excerpt: "In a sign of the extraordinary events that had unfolded over the previous 24 hours, Trump’s statement acknowledging that he would leave office on Jan. 20 could not be posted on the president’s Twitter or Facebook feeds because both accounts have been suspended by the companies."
+    publishedDateTime: 2021-01-07T07:50:00Z
+    webUrl: "https://www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NF3FSUHZ5RB75EWJHT3CBTA5SA.jpeg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
     excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
