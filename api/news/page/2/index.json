@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-the-cybersecurity-202-the-trump-administration-formally-says-russia-is-likely-behind-solarwinds-hack-culprit-will-trump.md",
+      "title": "The Cybersecurity 202: The Trump administration formally says Russia is likely behind SolarWinds hack culprit. Will Trump?",
+      "excerpt": "The Trump administration formally accused Russia of “likely” being behind the most devastating hack of U.S. government agencies in years. The statement, made jointly by four agencies in charge of intelligence and cybersecurity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHRXLUCPBMI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
+      "publishedDateTime": "2021-01-06T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-biden-to-nominate-merrick-garland-for-attorney-general-sources.md",
+      "title": "Biden to nominate Merrick Garland for attorney general: sources",
+      "excerpt": "President-elect Joe Biden's pick for attorney general will be Judge Merrick Garland, three Democratic sources confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_0QaDVr7Iw/biden-to-nominate-merrick-garland-for-attorney-general-sources",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_0QaDVr7Iw/biden-to-nominate-merrick-garland-for-attorney-general-sources",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89012e23-97fa-40ab-8ecd-c189377376e6/f147740e-1a31-4adb-b062-61e9bdfb2f9f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
+      "publishedDateTime": "2021-01-06T09:34:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-huckabee-says-cloud-will-be-over-biden-presidency-if-election-fraud-isnt-fully-investigated.md",
       "title": "Huckabee says 'cloud' will be over Biden presidency if election fraud isn't fully investigated",
       "excerpt": "Former Arkansas Gov. Mike Huckabee told \"Fox & Friends\" on Wednesday that he wishes that all the elected officials, including Democrats, \"would demand a full accounting for how the ballots were tabulated\" in the 2020 election, saying that \"Democrats have the most to gain.\"",
@@ -14,7 +122,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 378,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -217,7 +325,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4728,
+      "heat": 4808,
       "tags": null,
       "images": [
         {
@@ -379,7 +487,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 411,
+      "heat": 431,
       "tags": null,
       "images": [
         {
@@ -1176,7 +1284,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1575,
+      "heat": 1595,
       "tags": null,
       "images": [
         {
@@ -1217,111 +1325,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-asks-judge-to-toss-niece-mary-trumps-conspiracy-laden-lawsuit.md",
-      "title": "Trump asks judge to toss niece Mary Trump’s ‘conspiracy’ laden lawsuit",
-      "excerpt": "President Trump says his niece’s lawsuit against the family is full of “conspiracy theories more befitting a Hollywood screenplay” — and all just part of a plan to make money off of the",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
-      "originalUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/AP20268626599228.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
-      "publishedDateTime": "2021-01-05T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-analysis-no-mike-pence-cant-steal-the-election-for-trump.md",
-      "title": "Analysis: No, Mike Pence can't steal the election for Trump",
-      "excerpt": "This is it. President Donald Trump's dogged effort to ignore the voters, state election officials, the courts and the Electoral College has come down to his latest wild idea -- that he'll just get Vice President Mike Pence to steal the thing for him.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Dk5GdcezfQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Dk5GdcezfQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 2055,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105112259-01-trump-rally-ga-0104-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html",
-      "publishedDateTime": "2021-01-05T09:33:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

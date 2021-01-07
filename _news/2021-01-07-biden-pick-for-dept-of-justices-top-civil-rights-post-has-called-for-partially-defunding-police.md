@@ -2,14 +2,14 @@
 category: news
 title: "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police"
 excerpt: "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration."
-publishedDateTime: 2021-01-07T02:44:38Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTD4XUx4l64/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTD4XUx4l64/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police"
+publishedDateTime: 2021-01-07T12:17:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police"
+webUrl: "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police"
 ampWebUrl: "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp"
 type: article
-quality: 162
-heat: 162
+quality: 122
+heat: 122
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JcM5M9990Pcm3i+w63KRvxOujfj8D3JZiLy7bGlEkhhpvOKMrDrXidfmKUhY52lVO6/cnLhI+V57UT9p5wBcK8dSk61s6ccukvCyvXnhvS4ZK/X+0YEjn8KX6Q290bK3ESBkQ5fIFTloZTtMEq6WUkMacTs5DKNdwgcy2T2L/VLd1vv6Sd6T7H2Kp/QyLn0zQfSVzoV68HUOIUeebOqYD4vNfx2jP9Hv30p2RJ/et/zZxuom6/n7uRBChYV130BiQYPs7kywD5ui2yeeP60l5hzh1Tg6sitKtPGiXlBqvuAttT3RT/Y4KihfN3wvgEUeIWjdLUlpG1WImpAZXfPJGwpkRr3xBXdqVj5Qt4BwLUY=;Peg4AqMxYmmaYXfYWJUlCA=="
+secured: "A1NAXn86/3taUmNqmRnfbfEYrPgEgHs3Qug/N3jRQyxcOOwa2oHp++5Vac202JSCCmP5/hqtC6JRL48TFsLMW6o06kug5ToNMumF989hCR0yEr63a2WN8+0o6jRKcliXzfBNl2P5IItNQwvVbRTtJhB+gb+m29bg1FZqQeAQdibLmjC4NqSu4BHJm/cqrzY5zaBcXCEnWrEuIPu/Hu68b7zkdxetqxF/LmlDORhvKLHBEFddZJo4FFCUdqGlDpPoZi9kkAoVhFYDVvRWm5vAz8S07U7Cj6jz1snl2qU62CdvppqlkpEG6eYR7H5OTCWmeUqvLgxqcEELbOGWtW+RCkkSNtf7PbpmCuC/ILVDKkI=;K29RE7imMwuq7EcztJzWfQ=="
 ---
 

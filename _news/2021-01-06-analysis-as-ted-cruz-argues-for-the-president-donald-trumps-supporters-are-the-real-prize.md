@@ -199,6 +199,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "'Assault on Democracy.' How the World Is Responding to a Pro-Trump Mob Storming the U.S. Capitol"
+    excerpt: "Images of violent rioters storming the U.S. Capitol stunned the world Wednesday, as a pro-Trump mob breached police barricades and sought to force Congress to undo President Donald Trump’s election loss."
+    publishedDateTime: 2021-01-07T09:15:00Z
+    webUrl: "https://time.com/5927060/world-reactions-capitol-breached-trump-supporters/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 92
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/GettyImages-1294959765.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Protesters to Gather in NYC as Congress Set to Confirm Joe Biden as President"
     excerpt: "As Congress prepares to affirm President-elect Joe Biden’s victory, protesters are expected to gather in New York City to call for an investigation into President Donald Trump who has repeated baseless claims of election fraud."
     publishedDateTime: 2021-01-06T09:16:00Z

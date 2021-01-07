@@ -2,6 +2,172 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
+      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
+      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "originalUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "publishedDateTime": "2021-01-07T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-iraq-issues-arrest-warrant-for-trump-over-soleimani-killing.md",
+      "title": "Iraq issues arrest warrant for Trump over Soleimani killing",
+      "excerpt": "Iraq’s judiciary says it has issued an arrest warrant for outgoing President Donald Trump in connection with the killing of an Iranian general and a powerful Iraqi militia leader last year",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_2a0966ca247441c8b59e2b6013ce7803_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-pence-pelosi-share-elbow-bump-following-biden-certification-vote.md",
+      "title": "Pence, Pelosi share 'elbow bump' following Biden certification vote",
+      "excerpt": "Vice President Mike Pence and House Speaker Nancy Pelosi concluded a trying and at times scary joint session of Congress with an elbow bump in the predawn hours of Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006674774302.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
+      "publishedDateTime": "2021-01-07T03:07:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-trump-pledges-orderly-transition-after-congress-affirms-bidens-win-and-capitol-riot.md",
       "title": "Trump pledges orderly transition after Congress affirms Biden's win and Capitol riot",
       "excerpt": "President Donald Trump publicly acknowledged that he would leave office on January 20 Thursday, pledging an orderly transfer of power after Congress affirmed President-elect Joe Biden's Electoral College win.\n    \n",
@@ -14,7 +180,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 403,
+      "heat": 423,
       "tags": null,
       "images": [
         {
@@ -60,7 +226,7 @@
     {
       "path": "_news/2021-01-07-bidens-electoral-college-victory-certified-hours-after-capitol-chaos.md",
       "title": "Biden’s Electoral College victory certified -- hours after Capitol chaos",
-      "excerpt": "",
+      "excerpt": "The U.S. Congress early Thursday certified the Electoral College vote that gave Democrat Joe Biden his presidential victory -- after a day in Washington that was marred by pro-Trump protesters storming the U.S. Capitol.",
       "sourceUrl": null,
       "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d4BhuT_UjKU/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol",
       "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d4BhuT_UjKU/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol",
@@ -70,7 +236,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -547,62 +713,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
-      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
-      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTD4XUx4l64/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTD4XUx4l64/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "publishedDateTime": "2021-01-06T18:44:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-biden-calls-on-mob-to-pull-back-urges-restoring-decency.md",
       "title": "Biden calls on mob to ‘pull back,’ urges restoring decency",
       "excerpt": "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect",
@@ -887,7 +997,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1215,114 +1325,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
       "publishedDateTime": "2021-01-06T09:49:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-the-cybersecurity-202-the-trump-administration-formally-says-russia-is-likely-behind-solarwinds-hack-culprit-will-trump.md",
-      "title": "The Cybersecurity 202: The Trump administration formally says Russia is likely behind SolarWinds hack culprit. Will Trump?",
-      "excerpt": "The Trump administration formally accused Russia of “likely” being behind the most devastating hack of U.S. government agencies in years. The statement, made jointly by four agencies in charge of intelligence and cybersecurity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHRXLUCPBMI6XIPV7WXSRT6KSA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
-      "publishedDateTime": "2021-01-06T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-biden-to-nominate-merrick-garland-for-attorney-general-sources.md",
-      "title": "Biden to nominate Merrick Garland for attorney general: sources",
-      "excerpt": "President-elect Joe Biden's pick for attorney general will be Judge Merrick Garland, three Democratic sources confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_0QaDVr7Iw/biden-to-nominate-merrick-garland-for-attorney-general-sources",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_0QaDVr7Iw/biden-to-nominate-merrick-garland-for-attorney-general-sources",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89012e23-97fa-40ab-8ecd-c189377376e6/f147740e-1a31-4adb-b062-61e9bdfb2f9f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
-      "publishedDateTime": "2021-01-06T09:34:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

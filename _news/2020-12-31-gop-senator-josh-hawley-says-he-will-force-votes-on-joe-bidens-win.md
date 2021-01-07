@@ -80,22 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Joe Biden Should Handle White House Infighting"
-    excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
-    publishedDateTime: 2021-01-02T10:01:00Z
-    webUrl: "https://www.wsj.com/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-should-handle-white-house-infighting-11609563661"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-279262/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
     excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious."
     publishedDateTime: 2021-01-06T22:49:00Z
@@ -111,22 +95,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Joe Biden, Nancy Pelosi to Draw on Their History in Bid to Unite Fractious Democrats"
-    excerpt: "The president-elect and House speaker share the job of steering a divided Democratic coalition amid a pandemic and an economy recovering from a deep slump."
-    publishedDateTime: 2021-01-01T13:07:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-nancy-pelosi-to-draw-on-their-history-in-bid-to-unite-fractious-democrats-11609506000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
-    images:
-      - url: "https://images.wsj.net/im-278184/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
     excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
@@ -155,34 +123,6 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/53/531150_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Hunter Biden's Guilty Laptop"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-01-03T13:05:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/03/hunter_bidens_guilty_laptop_532448.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/48/482082_5_.jpg"
-        width: 464
-        height: 600
-        isCached: true
-  - title: "Joe Biden's First 100 Days Are Critical"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-01-04T12:22:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/04/joe_bidens_first_100_days_are_critical_532619.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531068_5_.jpg"
         width: 750
         height: 500
         isCached: true

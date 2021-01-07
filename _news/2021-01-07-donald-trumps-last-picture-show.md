@@ -576,6 +576,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "An unchained Trump threatens more mayhem in his final dangerous days"
+    excerpt: "America faces 13 days of danger before the departure of an unhinged commander-in-chief who set his mob on the US Capitol in an act of insurrection that shattered a more than 220-year tradition of peaceful transfers of power.\n    \n"
+    publishedDateTime: 2021-01-07T11:17:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ktvLNMA847E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/donald-trump-electoral-college-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/donald-trump-electoral-college-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106180136-05-capitol-protest-security-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Angry Republican leaders float removing Trump from office"
     excerpt: "After violent pro-Trump protesters stormed the US Capitol on Wednesday, a growing number of Republican leaders told CNN that they believe Donald Trump should be removed from office before January 20. Four of them called for the 25th Amendment to be invoked, and two others said the President should be"
     publishedDateTime: 2021-01-07T02:50:54Z
@@ -1354,6 +1370,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Inside the Trump riots: How an ordinary Congress vote devolved into disarray"
+    excerpt: "The harrowing day of NBC News' Ginger Gibson, who was reporting on the Electoral College count when protesters stormed the Capitol."
+    publishedDateTime: 2021-01-07T12:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/inside-trump-riots-how-ordinary-congress-vote-devolved-disarray-n1253194"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253194"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253194"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3440288/210106-inside-capitol-protest-ew-903p_10e44cd97e3e90952f88cc9b5537658b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Raffensperger: Trump could face investigation over election call"
     excerpt: "Georgia Secretary of State Brad Raffensperger said Monday that it was unlikely his office would open an investigation into his weekend phone call with President Donald Trump, but suggested a criminal probe could still be launched by an Atlanta-area district attorney."
     publishedDateTime: 2021-01-04T13:22:00Z
@@ -1470,6 +1502,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The darkest views of Donald Trump, confirmed"
+    excerpt: "But Trump’s encouragement of the rioters followed by his failure to command them to stop, along with his pressure on legislators to nullify the vote, confirmed the darkest views of his harshest critics."
+    publishedDateTime: 2021-01-07T11:19:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/01/07/the-darkest-views-of-donald-trump-confirmed-491315"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ee/84/849b3960427f81bd1d3a808ecc96/210107-capitol-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."
     publishedDateTime: 2020-12-30T09:33:00Z
@@ -1485,6 +1531,6 @@ related:
         height: 773
         isCached: true
 
-secured: "pcDkpGJ6K8mHV4ixMBanhMIisBcic1IqyXek2vQkOVoetRDM7+KuCS+GtJ9EOUUcqt6q4O/s26Jvk1xWauz2O06vWWaKHNOF4riNlYkVN4N9msBbtK8TCQ1bYBef+r1t4v05vD/YX/GNgDTwzrjWuNbdBGOuwh7ehVqQPP2o3czX/YiDRnDOCJmWn/BaGSdyBDX0v6HqIDBj5f9VQG2VUOH2ORoQrvOJANuEfPOQqT5SAoAwAQppyvwTZMj872D/e26f4vceRs5yX4fITtKoJRYApzLDOINYa/80csfVLnLUVIsY7yanPiN2mkmntQEYYTAxMOMHEBS6kVv90cedKIokyUTvZ0QLi3wrYpX4/5k=;AzSYHh0FNsRj0sroepMa5Q=="
+secured: "A2ej+UovwYEF7ja3hPywFNfL8Vno7bVHhWBaO/pkhPRyf3CFfAHI8QeUSS58xAq380M1oeb44rqv8bVhRQxORkCYnuK8X9DaFNIUrT3b3bQmnpWADi4fQJgSKjCZ8PPwDyYUIto/DiYMD3Yl7FarcUQlSPvCB+umvWtN8cAtLnLbsJ7V7doyHTl0Giy2pnkfdLQYk34jqtBx4wAcX0mk54G8sOuiiKGZvwhekxMj0VEudjaT/+grJy4Y0Gmo1FwBo5F2Cm0NKSxQqeYLz3Pc6liI0ZkkS3v9ahaXtGcurtbF4dq4bqK3k5F09CTXKWVu2GguQlKjfqFOuIfFp79v3adBPZOkZW+z/nQ9Ddbi3UC41N4Pdk9kvE4Nf3Vq2N8rb/Yt9fLvGG+iPiIsHuA9wYACZkL2LJG8CUShM0NrWXJKtr0CO5PSwQxjhix6yvwMz8wmcHeXYXZgenEsu+kE4SzomFJMaiKBBeBbfTDKOcKEXEBj+OWx46KPWMwbMxU9kdIsmJdNUybl5vDwfhtocg==;31uhgOJbA54qrvdSmgeKyQ=="
 ---
 

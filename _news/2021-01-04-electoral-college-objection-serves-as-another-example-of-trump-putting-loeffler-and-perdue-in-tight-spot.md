@@ -576,6 +576,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "An unchained Trump threatens more mayhem in his final dangerous days"
+    excerpt: "America faces 13 days of danger before the departure of an unhinged commander-in-chief who set his mob on the US Capitol in an act of insurrection that shattered a more than 220-year tradition of peaceful transfers of power.\n    \n"
+    publishedDateTime: 2021-01-07T11:17:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ktvLNMA847E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/donald-trump-electoral-college-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/donald-trump-electoral-college-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106180136-05-capitol-protest-security-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Angry Republican leaders float removing Trump from office"
     excerpt: "After violent pro-Trump protesters stormed the US Capitol on Wednesday, a growing number of Republican leaders told CNN that they believe Donald Trump should be removed from office before January 20. Four of them called for the 25th Amendment to be invoked, and two others said the President should be"
     publishedDateTime: 2021-01-07T02:50:54Z
@@ -1370,6 +1386,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Inside the Trump riots: How an ordinary Congress vote devolved into disarray"
+    excerpt: "The harrowing day of NBC News' Ginger Gibson, who was reporting on the Electoral College count when protesters stormed the Capitol."
+    publishedDateTime: 2021-01-07T12:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/inside-trump-riots-how-ordinary-congress-vote-devolved-disarray-n1253194"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253194"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253194"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3440288/210106-inside-capitol-protest-ew-903p_10e44cd97e3e90952f88cc9b5537658b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Raffensperger: Trump could face investigation over election call"
     excerpt: "Georgia Secretary of State Brad Raffensperger said Monday that it was unlikely his office would open an investigation into his weekend phone call with President Donald Trump, but suggested a criminal probe could still be launched by an Atlanta-area district attorney."
     publishedDateTime: 2021-01-04T13:22:00Z
@@ -1467,6 +1499,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/95/51/0486340745a3a1f4cc381be29364/gettyimages-1287973462-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The darkest views of Donald Trump, confirmed"
+    excerpt: "But Trump’s encouragement of the rioters followed by his failure to command them to stop, along with his pressure on legislators to nullify the vote, confirmed the darkest views of his harshest critics."
+    publishedDateTime: 2021-01-07T11:19:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/01/07/the-darkest-views-of-donald-trump-confirmed-491315"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ee/84/849b3960427f81bd1d3a808ecc96/210107-capitol-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -515,6 +515,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Twitter Users Slam Donald Trump For Making Election Fraud Claims Amid Chaos From Supporters"
+    excerpt: "Twitter users were not happy with President Donald Trump claiming that states want to \"redo their votes\" due to alleged fraud Wednesday and accused him of making a mockery of democracy."
+    publishedDateTime: 2021-01-07T11:00:00Z
+    webUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334"
+    ampWebUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Donald Trump fires shot that begins the Republican civil war | Opinion"
     excerpt: "Trump's plot to challenge the electors in battleground states pits the GOP against itself. This civil war won't just be painful for Republicans."
     publishedDateTime: 2021-01-06T18:29:00Z

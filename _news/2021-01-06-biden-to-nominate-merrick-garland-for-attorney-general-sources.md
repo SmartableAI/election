@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-merrick-garland-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden nominates Judge Merrick Garland as attorney general, names other key DOJ picks"
+    excerpt: "President-elect Joe Biden on Thursday formally announced he will nominate Judge Merrick Garland as his attorney general, as well as other key nominations to the Justice Department."
+    publishedDateTime: 2021-01-07T11:58:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ss_Rq_iEQQM/biden-judge-merrick-garland-attorney-general-justice-department"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-judge-merrick-garland-attorney-general-justice-department.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judge-merrick-garland-attorney-general-justice-department.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "sMk3bUa48tTMvtFcSo5Yw0i36Ey1Ltd1A3Ru9jfhV6VT8858vNipIKfUwWegN8TPPxmH9SagPx4z9yS1HFCwS00ntLFKtoCFO3bmAN//KB7EvlWfIVQA777qpQLbXf/8RCItOC9H3h1AoZXg3iVMiXJ3BvoXxsjqoHEOxxeFJm6EoTCzXdW6E5AVZbRkmKwgZs7Q8GdR7Q0DJjxGzHJyL0hKWGsihwb1MWk1Vtk6Cgkxd5XIFhTaTwRv7E0dk5FlOjN470JYl994g7lfkzLK7auopxjQluuAIEkpbh2RRYnNFw1h+iLdvbTRb3y9Jgt1FnVvQN19nOw1RY7AQwW4qo2W8e72LU3kEb1fy0KQBAo=;R0oze3BmhT126n2DBznuOQ=="
 ---

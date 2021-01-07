@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-electoral-college-insurrection/index.html"
 type: article
 quality: 183
-heat: 403
+heat: 423
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/06/climate/06CLI-FEMA1/06CLI-FEMA1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Denounces Storming of Capitol as a ‘Dark Moment’ in Nation’s History"
+    excerpt: "The president-elect said the violence “borders on sedition” and made clear he viewed President Trump as responsible for inciting his supporters with baseless claims the election was stolen."
+    publishedDateTime: 2021-01-07T07:55:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/biden-capitol-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/biden-capitol-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/biden-capitol-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06transition-briefing-biden-speech/06transition-briefing-biden-speech-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

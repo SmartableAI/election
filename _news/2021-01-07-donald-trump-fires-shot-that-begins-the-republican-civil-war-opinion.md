@@ -527,6 +527,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Twitter Users Slam Donald Trump For Making Election Fraud Claims Amid Chaos From Supporters"
+    excerpt: "Twitter users were not happy with President Donald Trump claiming that states want to \"redo their votes\" due to alleged fraud Wednesday and accused him of making a mockery of democracy."
+    publishedDateTime: 2021-01-07T11:00:00Z
+    webUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334"
+    ampWebUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Trump acknowledges defeat after Congress confirms electoral vote"
     excerpt: "In a sign of the extraordinary events that had unfolded over the previous 24 hours, Trump’s statement acknowledging that he would leave office on Jan. 20 could not be posted on the president’s Twitter or Facebook feeds because both accounts have been suspended by the companies."
     publishedDateTime: 2021-01-07T07:50:00Z

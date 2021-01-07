@@ -81,6 +81,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence's chief of staff accuses Trump of locking him out of White House"
+    excerpt: "Vice President Mike Pence’s chief of staff Marc Short on Wednesday accused President Trump of revoking his White House access as tensions between Pence and Trump continued to deteriorate."
+    publishedDateTime: 2021-01-07T11:47:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVvHGVlvp54/pence-chief-of-staff-accuses-trump-locking-him-out-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-chief-of-staff-accuses-trump-locking-him-out-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/edfe28d6-6510-4581-b97c-5666a65a2a08/c8cd4be2-6c8f-4b00-8f46-f39d8a5f9a8d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to campaign in Georgia on same day as Trump ahead of pivotal Senate elections"
     excerpt: "President-elect Joe Biden will campaign in Georgia the day before the Jan. 5 Senate runoff races there, the same day President Trump is scheduled to hold a rally for Sens. David Perdue and Kelly Loeffler."
     publishedDateTime: 2020-12-30T12:29:58Z

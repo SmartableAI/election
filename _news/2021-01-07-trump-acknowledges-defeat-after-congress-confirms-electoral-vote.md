@@ -527,6 +527,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Twitter Users Slam Donald Trump For Making Election Fraud Claims Amid Chaos From Supporters"
+    excerpt: "Twitter users were not happy with President Donald Trump claiming that states want to \"redo their votes\" due to alleged fraud Wednesday and accused him of making a mockery of democracy."
+    publishedDateTime: 2021-01-07T11:00:00Z
+    webUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334"
+    ampWebUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Donald Trump fires shot that begins the Republican civil war | Opinion"
     excerpt: "Trump's plot to challenge the electors in battleground states pits the GOP against itself. This civil war won't just be painful for Republicans."
     publishedDateTime: 2021-01-06T18:29:00Z
@@ -619,6 +635,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "RKx0KJdSK6JD94WvW8QJiwutMDrah7rZ2x9v6CuVlRio9wTRCczBqis6aDpSFZLZWPCN6cEHb3LWeaxSCXSAubdQ/I9EX/Kc4ELj7Hb9MUkvxjjVejTv2Q747HLrQ1x8Cyhb2pUXKaIzBGK8KHFLKeRQD1VJe3IX9xtmPyl1UkiKHD1Tv+HzpgpluQkQCR5HAHqdAaj0Fylkr1LJyL2ZIYZP0KHhbQmTph/tBULVV0JDnaFl+MvxktDaw2mQB8rzCv9dTT6YuWApmuFFjdvbuZvZQfEOhUQYrA0yLvcQ3BOzynwiWbG3rPZ1h+mucRxTndnyyJvJ/LgXe6318hcTanYg3qEhOr3RH1/WC4IskcU=;kcN1nAQKLMVh30HP/ZoexA=="
+secured: "92sAhoku/iONoBFqj8EKrpG1QkEuKP6c4N+arms7NXWjCDAWRmgbM0pZytxxxEJ31hbUOuYUsSuDw27eZV1gkr9Qd8Yl4KwVGm6Uv56gfaZONbK5VZGV9dmX6zWXGT6hLZd8sQmnOQRh1f0Zst1piagz1AUedm+OgUpcYbnI3zxTppoGDHy8amWYLrTys1uRqopcfZ7zNRXmSaIhnHjuTrWZrY09NMofLgwSKm5+FbY2IF7z6PfZuD8EdpQx7+WQGrBy57zXKS/6A1DB3GggEwXdUcxdYVYtdh3clfi+pqzr0i1KDvdhgYUe4hyvvUDEkdQiZ2CDlPOpmPIGTNvAGwotmwPLRwPO5Dtiyj5CA5W+RUMEraZwArHF8fEV64nppG00NqU4aSoKMbrSzQ1bAPaq6fN6iWn1eruNKOtnGFPrecv4qMApzdY4pra+/Zn2Xs+kMAjwhJvIKmRzWSR2366x3u+oLgEFXxmKmwSjWeStAUUkEDloZ8q0s3ZBnEwtTKewVTDGso2WYMnSTFQP8Q==;JjXmZ926rIqR2IuvFWAwug=="
 ---
 

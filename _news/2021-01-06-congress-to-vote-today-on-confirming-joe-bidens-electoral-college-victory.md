@@ -91,6 +91,22 @@ related:
         width: 765
         height: 545
         isCached: true
+  - title: "Biden to introduce Judge Merrick Garland as attorney general"
+    excerpt: "The four lawyers are to be introduced by Biden at an event Thursday afternoon in Wilmington, Delaware. In picking Garland, Biden is turning to an experienced judge who held senior positions at the Justice Department decades ago,"
+    publishedDateTime: 2021-01-07T11:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-introduce-judge-merrick-garland-attorney-general-75106813"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-introduce-judge-merrick-garland-attorney-general-75106813"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-introduce-judge-merrick-garland-attorney-general-75106813"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_147681771c5e43029bb12b5a2c7fd475_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
     publishedDateTime: 2020-12-31T12:49:00Z

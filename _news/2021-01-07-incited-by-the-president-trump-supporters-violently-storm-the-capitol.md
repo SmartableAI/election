@@ -877,6 +877,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pence and McConnell defy Trump — after years of subservience"
+    excerpt: "The vice president and Republican Senate majority leader refused to help the president overturn the election Wednesday. But that came after four years of bowing to his wishes and on a day when the cost of his belligerence was starkly apparent."
+    publishedDateTime: 2021-01-07T08:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-mcconnell-trump/2021/01/06/b7aa5c1e-503b-11eb-bda4-615aaefd0555_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-mcconnell-trump/2021/01/06/b7aa5c1e-503b-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-mcconnell-trump/2021/01/06/b7aa5c1e-503b-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDF7J5CQKEI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 1166
+        isCached: true
   - title: "Pence defies Trump, says he can’t reject electoral votes"
     excerpt: "Defying President Donald Trump, Vice President Mike Pence says he doesn’t have the power to throw out the electoral votes that will make Democrat Joe Biden the next president in two weeks"
     publishedDateTime: 2021-01-06T19:37:00Z
@@ -925,6 +941,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Pence announces Biden's victory after Congress completes electoral count"
+    excerpt: "Washington —Vice President Mike Pence announced just after 3:40 a.m. Thursday that President-elect Joe Biden had won the presidency after Congress completed the counting of the Electoral College votes."
+    publishedDateTime: 2021-01-07T12:06:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/electoral-college-vote-count-biden-victory/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/electoral-college-vote-count-biden-victory/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/electoral-college-vote-count-biden-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/758ec6bd-51b9-4af6-96f7-07383c1e92bb/thumbnail/1200x630/4b7d1ec6dd5ea8b026836d60f849a4be/ap21007205147289.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump allies to challenge his election loss in showdown in U.S. Congress"
     excerpt: "Donald Trump's flailing effort to overturn President-elect Joe Biden's victory comes down to the U.S. Congress on Wednesday in a showdown led by a band of Republican lawmakers that could stretch proceedings past midnight but is almost certain to fail."
     publishedDateTime: 2021-01-06T20:45:00Z
@@ -940,6 +972,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546842748&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051CY"
         width: 883
         height: 545
+        isCached: true
+  - title: "Trump promises ‘orderly transition’ but continues election lies as Biden certified US president – live"
+    excerpt: "Congress certifies Joe Biden as the 46th president of the US after day and night of pro-Trump unrest"
+    publishedDateTime: 2021-01-07T11:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/07/joe-biden-donald-trump-mike-pence-capitol-congress-us-election-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/07/joe-biden-donald-trump-mike-pence-capitol-congress-us-election-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/07/joe-biden-donald-trump-mike-pence-capitol-congress-us-election-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/8c90a5e41c441f4eb9d80714f58e5e223c3c1fae/0_93_3328_1997/master/3328.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d141be6d106a9dbcdbcb74566ef2b6bf"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
@@ -3179,6 +3227,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/FKabJzihtojJw7OTj97hlSafr4A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SWAYZX6LR5HVLK4L4OEY5WYOHM.jpg"
         width: 1200
         height: 906
+        isCached: true
+  - title: "Donald Trump’s Unexceptional America"
+    excerpt: "A good thing, perhaps, because it meant that in the long term, America would be able to right its ship. Others said the opposite: Many European diplomats have already concluded that the U.S. cannot be relied upon."
+    publishedDateTime: 2021-01-07T12:03:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2021/01/donald-trump-us-capitol-europe/617584/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617584/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617584/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/_-wbFnt7a8blr1Uo_nO-zmi6psM=/570x321/filters:format(png)/media/img/mt/2021/01/0121_Prashant_Katie_Star/original.png"
+        width: 570
+        height: 321
         isCached: true
   - title: "Impeach and Remove Trump Now"
     excerpt: "USA demands the truth!” Minutes later, some staffer seems to have alerted Trump to the events on Capitol Hill, or else, to his potential legal culpability in the same, and the president finally asked his supporters to “remain peaceful” and “ respect the Law and our great men and women in Blue."

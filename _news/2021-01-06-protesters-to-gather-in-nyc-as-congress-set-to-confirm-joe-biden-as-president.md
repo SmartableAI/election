@@ -199,6 +199,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "'Assault on Democracy.' How the World Is Responding to a Pro-Trump Mob Storming the U.S. Capitol"
+    excerpt: "Images of violent rioters storming the U.S. Capitol stunned the world Wednesday, as a pro-Trump mob breached police barricades and sought to force Congress to undo President Donald Trump’s election loss."
+    publishedDateTime: 2021-01-07T09:15:00Z
+    webUrl: "https://time.com/5927060/world-reactions-capitol-breached-trump-supporters/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 92
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/GettyImages-1294959765.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Analysis: As Ted Cruz argues for the president, Donald Trump’s supporters are the real prize"
     excerpt: "The senator from Texas is among legislators questioning the validity of President-elect Joe Biden's victory over Donald Trump. What's at stake? The hearts of the Republican voters who strongly back the incumbent president."
     publishedDateTime: 2021-01-06T10:04:00Z

@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Denounces Storming of Capitol as a ‘Dark Moment’ in Nation’s History"
+    excerpt: "The president-elect said the violence “borders on sedition” and made clear he viewed President Trump as responsible for inciting his supporters with baseless claims the election was stolen."
+    publishedDateTime: 2021-01-07T07:55:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/biden-capitol-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/biden-capitol-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/biden-capitol-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06transition-briefing-biden-speech/06transition-briefing-biden-speech-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Joe Biden Is Certified as the 46th President of the United States"
     excerpt: "Congress ratified Mr. Biden’s election victory after a day in which a mob of Trump supporters stormed the Capitol. President Trump issued a statement saying there would be an “orderly transition” on Jan."
     publishedDateTime: 2021-01-07T04:18:00Z
@@ -207,6 +223,6 @@ related:
         height: 720
         isCached: true
 
-secured: "OB5Z00TCzmYlVZMsquIn72mCX4b8Z9iB7ockuJ+oRmHcpOLto7nnL37ZrAign9rEsUjf3+L8yUSt7oycyNWcut18kLxwAO0XLkYmldEl5hWIftGITatedy+W/13oq+2rP/SFdD6RxLLD6e1gZuDnEd1uYBPOXY87b8T4FXP+gjWKgDwnrwav0ZQt8WJ0IvP7btTlOab4fn+TjNHEG1gYhfYwuGh1wGMpbPOBHxi7jE/zXYlXIK/TOMfgtn//jm2xi19ZXd3sons3MT7txWHP747mrIHyjgG2F09LzGqMSPebp/x1k9iQPc9D/mv0ioeXAnCK8h4K+ul//8LpjqXRKkn8SdnsHrezKWYiUY7xzBE=;XyCJbGv02gawDLytHhKefA=="
+secured: "NgaWuT2wyvOtPNhWq/zZU2R/0PCktXhO+tpYqa4vkWpzXHZSj0+JSLpHqVmgkC7NU7dgCeI8skj182xQJqNXisoHJcsMK6LGw9T8tIII+0w3z+I8D46KHTejwjpiGYq14Kv8rygAe3yVB7Z31rClJHSHc+fwvRx3zQlUbvkXPVWkgqEePICvLXG/EYK5WGxlU5db8l1S28dCLr9GpfGEi7lrTuPu2urhrk3Hfv1AgxbRB2S9i1ZKad9ZpBVMqDEWllDgFX4f/3d3FAg3VBU0zhroHjlPgZThfHNMC4U+t0cQlM1RVmqQsS3RLPGeqeZiqE0OgvJ4Slxk83+9lqnEdQDRec520U7rX0IHdXQlwS79iK5tnTOQhJ8Rvg3AIhqLp6tr+LVie7JKSbQ7pKMuaMKWG9IWcA1AW8UeU2jIHiD42IhwwDY84RSoaAJL2ixOoICproxhY7pupUa5XPY0hQpLX+zDckiNKlcRPJowf1uPhX9Ivwx9pxveAGNPobyP8Lv1M4EoC50pfJEVdJd5Pg==;8gGAVhzvq1rObYoHpd2pgw=="
 ---
 
