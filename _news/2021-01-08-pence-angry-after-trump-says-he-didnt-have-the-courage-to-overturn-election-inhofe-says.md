@@ -464,6 +464,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi calls for 25th Amendment, impeachment to remove Trump"
+    excerpt: "House Speaker Nancy Pelosi called for President Trump's immediate removal from office by way of the 25th Amendment for inciting a violent riot at the Capitol Wednesday in an attempt to stop the certification of President-elect Joe Biden's win."
+    publishedDateTime: 2021-01-07T19:28:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CGAUsu2hnMo/pelosi-25th-amendment-impeachment-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-25th-amendment-impeachment-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-25th-amendment-impeachment-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25908ae4-b40f-4a3c-95a4-b0ab2a7587d5/6c0ef50d-8c3e-4250-ae14-88b80270e4ce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Tom Cotton calls on Trump to 'quit misleading' supporters"
     excerpt: "Sen. Tom Cotton, R-Ark., said Wednesday night it was \"past time\" for President Trump to accept the results of the presidential election and called on him to \"quit misleading the American people.\" "
     publishedDateTime: 2021-01-07T01:51:30Z
@@ -960,6 +976,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump pressures Pence ahead of Electoral College certification: ‘This is a time for extreme courage’"
+    excerpt: "President Trump early Wednesday put the pressure on Vice President Pence, saying that if he “comes through for us” and decertifies the Electoral College, he will “win the presidency.”"
+    publishedDateTime: 2021-01-07T19:09:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump."
     publishedDateTime: 2020-12-31T18:55:00Z
@@ -1214,6 +1246,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "sEH2ASVKeWmX8ALFqdeoD99hV5S12ErnH7T/t3Cl7bPdfcXx+L+wScAQhDjrrnmI6b6HgnVjuelTO9iprQP3ortQbAK+jvFiPAsXg6NPK92Aq0561f04Hp0VbS8l8X/GsZYHCyl+YoP+PN34/B/7AdFxhAcnCnySSZ2xPJFtttS9W9AFovtICIB6wTwlDiXw0V7Ds/c6Je4c6HOZWNc/zYvKHLXW4dXV/L0N/c5+PR4lX33MDCeBd3TOl7NDDXV6e9db7l1SQx1NMcN2Nopl5b6jdTWrBcJNswEtuAXI3f20Gy6ybJjV9OLVCozlBsdCpqS+ol+vEWt0AzHKIjKd1qjFprcy2qMUKdjfD6SsbqU=;2Cop1MFzmbLx0s9UFIWJhg=="
+secured: "k+D0GIs8npDWCt9/9sVX9cRNkIWYhFGf78fZ2y2ICrMJ2TVXk3EZw3KBa65MztH/+FX8caenKJcVK2DTk6xvSkx7MNSiIsBlLV/K8BDkWcXGzoWvl3pqSg9ENZIFZhNu7ILu0/e+ZuYogJzquWIBv+sd3Osj5xp9sXQ9X/S5NI6sD7gwFk0s2rIN4qB1zEooCHKE9GA3nBf0cqbKr5TViotkrHN/kADJSdYoYWdxPeaXfjJWinMIfHCyRVSTM+6AMkn/fpBClWyGcPaqMNPXowZ+Xx5AlAxfsdznBZod41r6VL+TClRg9xXPJZjgX7UCV2QyTLa6i7qB/46bUr9u2ssfUD3FiQwh4heI6sx2XNeWlsJ+IVDYw9X3k6mcKhCJEKwX3et2bYC8ZCJeEdAN5IAkdgxA11MqNWVLUhcHljwvO0w/SYW85K+2p/kRB6V8SZn1LJ/MMxIUZ6UzyKqnxtEQAWLmZpO7L6lLjJi765xkF1wSxUCWiFbfZqdYF29iTNSg1GYr25n5z6uvYDhtKQ==;vcl/TXxy1Pm578E+S7ybgQ=="
 ---
 

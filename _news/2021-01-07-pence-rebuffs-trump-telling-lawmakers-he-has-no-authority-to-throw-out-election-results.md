@@ -671,6 +671,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's years of lying led to the Capitol calamity  "
+    excerpt: "The lies have always had victims. And the liar has never much seemed to care.\n    \n"
+    publishedDateTime: 2021-01-07T19:26:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5voeSdkhs3M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-lies-capitol-mob/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-lies-capitol-mob/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106140148-donald-trump-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Will Trump pay for the damage he caused?"
     excerpt: "The Capitol building hasn't been breached since the War of 1812, when British soldiers burned Washington.\n    \n"
     publishedDateTime: 2021-01-07T02:34:21Z
@@ -1435,6 +1451,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Is Said to Have Discussed Pardoning Himself"
+    excerpt: "The discussions occurred in recent weeks, and it was not clear whether he has brought it up since he incited a mob of supporters to attack the Capitol."
+    publishedDateTime: 2021-01-07T20:03:00Z
+    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/trump-self-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/trump-self-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/trump-self-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/07/us/politics/07dc-pardon1/07dc-pardon1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
     publishedDateTime: 2020-12-30T10:07:00Z
@@ -1628,6 +1660,20 @@ related:
       - url: "https://static.politico.com/ee/84/849b3960427f81bd1d3a808ecc96/210107-capitol-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Democrats plot Trump's removal after deadly riots"
+    excerpt: "Democrats’ bid to immediately remove President Donald Trump from office is taking on growing urgency after a mob of his supporters stormed the Capitol, as key lawmakers plot ways to take action and force Congress into session next week."
+    publishedDateTime: 2021-01-07T19:10:00Z
+    webUrl: "https://www.politico.com/news/2021/01/07/lawmakers-trump-25th-amendment-455832"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/dc563795-bb10-4f46-8357-05f989ebe99d/f682ed34-657c-447f-a63a-cfec492fc55e/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
         isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."

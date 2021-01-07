@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fir
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump protesters storm Pelosi's office, take over Senate chamber at US Capitol"
-    excerpt: "Thousands of pro-Trump protesters stormed the U.S. Capitol on Wednesday, vandalizing House Speaker Nancy Pelosi’s office and both congressional chambers."
-    publishedDateTime: 2021-01-06T22:42:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTxiRdEaxDc/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Watch Live: President Donald Trump Hosts \"Save America\" March At WH Ellipse"
     excerpt: "Right Side Broadcasting Network will be live from Washington D.C. where President Trump is hosting a \"Save America\" March to protest what he says are election irregularities that Congress refuses to investigate."
     publishedDateTime: 2021-01-06T14:56:00Z

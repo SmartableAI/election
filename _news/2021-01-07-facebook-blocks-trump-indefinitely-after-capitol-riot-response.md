@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Capitol rioters could face up to 10 years in prison under Trump monument executive order"
+    excerpt: "Acting Attorney General Jeffrey Rosen vowed that pro-Trump rioters who entered the U.S. Capitol would \"face the full consequences of their actions under the law,\" and those consequences could include being charged under President Trump's executive order authorizing up to 10 years in prison for \"injury"
+    publishedDateTime: 2021-01-07T19:38:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2dI2SvjE0k/capitol-rioters-prison-trump-executive-order-federal"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

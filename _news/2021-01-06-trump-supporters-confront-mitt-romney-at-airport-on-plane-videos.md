@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-confronted-by-trump-sup
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Don't tar all Trump supporters with chaos at the Capitol: Perino"
+    excerpt: "“It’s going to be very important to try to separate those who were bad actors” during the riots at the U.S. Capitol on Wednesday from the tens of millions of people who voted for President Trump, Fox News’ Dana Perino told “America’s Newsroom” on Thursday."
+    publishedDateTime: 2021-01-07T20:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8jM7iXQ7UaY/dont-tar-all-trump-supporters-with-chaos-capitol-perino"
+    ampWebUrl: "https://www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
     excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
     publishedDateTime: 2021-01-07T16:22:38Z

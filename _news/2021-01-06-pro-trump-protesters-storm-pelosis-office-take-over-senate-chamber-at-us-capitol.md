@@ -31,35 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "McCarthy condemns 'un-American' breach of US Capitol by pro-Trump demonstrators"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., condemned pro-Trump protesters who broke into the U.S. Capitol building Wednesday as Congress began to formally count the Electoral College votes in the 2020 presidential election."
-    publishedDateTime: 2021-01-06T20:50:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y-37_IupDEc/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
+  - title: "Pelosi: Will impeach if cabinet won’t oust Trump"
+    excerpt: "This comes as top officials leave over Trump misconduct."
+    publishedDateTime: 2021-01-07T20:03:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d136cee0-68c8-481c-8476-30f8eea6f773/da014ad4-0a09-4d71-b370-39a8d93b99c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Watch Live: President Donald Trump Hosts \"Save America\" March At WH Ellipse"
-    excerpt: "Right Side Broadcasting Network will be live from Washington D.C. where President Trump is hosting a \"Save America\" March to protest what he says are election irregularities that Congress refuses to investigate."
-    publishedDateTime: 2021-01-06T14:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/06/watch_live_president_donald_trump_hosts_save_america_rally_at_wh_ellipse.html"
+  - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
+    excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
+    publishedDateTime: 2021-01-05T15:50:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 63
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/53/531525.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "5ifHPG1qWcCy3VzZyx9DpwlKX6QX4pcQseh2u0CMDzrEEQaCkRbGgTomL7aZSpk5GryTqL0sgpjCUAhj49dQz7h4KoXGngRKWN8UQwS9JSIWUtbDq9bNlRn4gsR8jYmnhjEYx5K9JNTr/sIARD4G+MjgEgOiXWH9ez+TRYxd+F9VUCXjWJZ7GTtPoWVPCe/lNW8RP6wmcQCBKlxW/wmbmzCXH4/QM8ZJHX8uA79oOmAPri+tkyhoagCrYFyiO4JZQc81QJWJDud7GVWPNazsnyogeqRGRYj/cij2t95pe4fgg6/qWig2zMfC/yNCvffqvze1wIKwDSn4+5Tajogd1cvhxLf/meoGNEqhG0MbOkM=;+dY13fFH0Hx89rtxZuHgTQ=="

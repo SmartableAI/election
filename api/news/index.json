@@ -2,6 +2,439 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.md",
+      "title": "Gov. Mike DeWine says he still supports Donald Trump, though blames him for occupation of U.S. Capitol",
+      "excerpt": "DeWine said Trump's continued denial of the election inflamed his supporters, who overran the U.S. Capitol on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html",
+      "originalUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F43BGYKSCFFH3COOSGRAHZFIHY.jpg",
+          "width": 2754,
+          "height": 1961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-capitol-rioting-overshadowed-trumps-accomplishments-pavlich.md",
+      "title": "Capitol rioting 'overshadowed' Trump's accomplishments: Pavlich",
+      "excerpt": "The Capitol Hill rioting and looting after President Trump addressed supporters Wednesday is \"overshadowing\" his accomplishments of the past four years, Fox News contributor Katie Pavlich argued Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
+      "publishedDateTime": "2021-01-07T12:21:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
+      "title": "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’",
+      "excerpt": "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "publishedDateTime": "2021-01-07T12:12:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-state-department-political-appointee-fired-by-white-house-after-tweeting-trump-was-unfit-for-office.md",
+      "title": "State Department political appointee fired by White House after tweeting Trump was unfit for office",
+      "excerpt": "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html",
+      "publishedDateTime": "2021-01-07T12:11:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment.md",
+      "title": "Top Democratic leaders speak with coordinated urgency for Pence to invoke 25th Amendment",
+      "excerpt": "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer, D-N.Y., called on Vice President Mike Pence to invoke the 25th Amendment. NBC News’ Kasie Hunt explains how far this request could move forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment-99075141732",
+      "originalUrl": "https://www.nbcnews.com/video/top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment-99075141732",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_brk_hunt_analysis_200107_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99075141732",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99075141732",
+      "publishedDateTime": "2021-01-07T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-pelosi-will-impeach-if-cabinet-wont-oust-trump.md",
+      "title": "Pelosi: Will impeach if cabinet won’t oust Trump",
+      "excerpt": "This comes as top officials leave over Trump misconduct.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
+      "publishedDateTime": "2021-01-07T12:03:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations.md",
+      "title": "Joe Biden: Black Lives Matter protesters would have been ‘treated differently’ at Capitol demonstrations",
+      "excerpt": "President-elect Joe Biden called protesters at the Capitol a “mob of thugs” and said if they were a group of Black Lives Matter demonstrators they would have been “treated very differently.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
+      "originalUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_brk_blm_biden_200107_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99068997831",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99068997831",
+      "publishedDateTime": "2021-01-07T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-biden-picks-rhode-island-gov-raimondo-as-commerce-secretary.md",
+      "title": "Biden picks Rhode Island Gov. Raimondo as commerce secretary",
+      "excerpt": "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-biden-to-tap-boston-mayor-marty-walsh-as-labor-secretary.md",
       "title": "Biden to tap Boston Mayor Marty Walsh as labor secretary",
       "excerpt": "President-elect Joe Biden is expected to tap Boston Mayor Marty Walsh as labor secretary, two sources familiar with the decision tell CNN.\n    \n",
@@ -107,62 +540,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-read-schumer-calls-for-trumps-removal-using-the-25th-amendment-says-he-should-not-hold-office-one-day-longer.md",
-      "title": "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'",
-      "excerpt": "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html",
-      "publishedDateTime": "2021-01-07T10:05:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -390,7 +767,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -821,62 +1198,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-bidens-electoral-college-victory-certified-hours-after-capitol-chaos.md",
-      "title": "Biden’s Electoral College victory certified -- hours after Capitol chaos",
-      "excerpt": "The U.S. Congress early Thursday certified the Electoral College vote that gave Democrat Joe Biden his presidential victory -- after a day in Washington that was marred by pro-Trump protesters storming the U.S. Capitol.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d4BhuT_UjKU/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d4BhuT_UjKU/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol.amp",
-      "publishedDateTime": "2021-01-07T00:41:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.md",
       "title": "House members Harris, Allred nearly come to blows during Pennsylvania certification debate: reports",
       "excerpt": "Tensions on Capitol Hill nearly resulted in fisticuffs early Thursday between a Republican and a Democrat in the U.S. House, according to reporter accounts.",
@@ -1035,330 +1356,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-hollywood-condemns-violence-of-trump-supporters-calls-them-domestic-terrorists.md",
-      "title": "Hollywood Condemns Violence Of Trump Supporters, Calls Them 'Domestic Terrorists'",
-      "excerpt": "Notable personalities such as Sacha Baron Cohen, Ava DuVernay, Michael Keaton, Selena Gomez and many more expressed their anger amid the riots that took place in Washington, D.C. where the protesters breached the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153",
-      "originalUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/trump-supporters-clash-with-police-and-security-forces.jpg",
-          "width": 1024,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153?amp=1",
-      "publishedDateTime": "2021-01-06T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-james-mattis-denounces-trump-says-he-will-be-left-a-man-without-a-country.md",
-      "title": "James Mattis denounces Trump, says he will be 'left a man without a country'",
-      "excerpt": "Former Defense Secretary James Mattis rebuked President Trump on Wednesday, accusing him of fomenting violence at the U.S. Capitol and poisoning Americans' respect for fellow citizens.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HSaidF_xl18/james-mattis-statement-trump-capitol-protests",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HSaidF_xl18/james-mattis-statement-trump-capitol-protests",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/james-mattis-statement-trump-capitol-protests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-mattis-statement-trump-capitol-protests.amp",
-      "publishedDateTime": "2021-01-06T20:32:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-graham-trump-and-i-have-had-a-hell-of-a-journey-but-enough-is-enough.md",
-      "title": "Graham: Trump and I have had a hell of a journey, but enough is enough",
-      "excerpt": "Republican Sen. Lindsey Graham, who has been a staunch supporter of President Trump, vigorously defended to certify the electoral college votes on the Senate floor.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106222257-graham-senate-floor-speech-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "publishedDateTime": "2021-01-06T19:38:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-calls-on-mob-to-pull-back-urges-restoring-decency.md",
-      "title": "Biden calls on mob to ‘pull back,’ urges restoring decency",
-      "excerpt": "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T18:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-pro-trump-demonstrators-enter-grounds-of-washington-governors-mansion-as-protesters-gather-across-the-country.md",
-      "title": "Pro-Trump demonstrators enter grounds of Washington governor's mansion as protesters gather across the country",
-      "excerpt": "While much of the nation was transfixed on the riot at the US Capitol, supporters of Donald Trump demonstrated in cities across the country, and in Olympia, Washington, protesters pushed into the governor's mansion property.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sVVXVIeCjxI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sVVXVIeCjxI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106193957-01-trump-supporters-us-demonstrations-olympia-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html",
-      "publishedDateTime": "2021-01-06T18:10:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-amid-capitol-violence-facebook-youtube-remove-trump-video.md",
-      "title": "Amid Capitol violence, Facebook, YouTube remove Trump video",
-      "excerpt": "Facebook has removed a short video of President Donald Trump where he is urging supporters who stormed the U.S. Capitol to “go home” while at the same time keeping up false attacks about the president",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T16:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

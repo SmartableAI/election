@@ -1291,6 +1291,22 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Pence affirms Biden as winner, formalizing electoral count after day of riots at Capitol; Trump prepares for exit"
+    excerpt: "Trump early Thursday for the first time acknowledged he will depart the White House Jan. 20 and said there would be an “orderly transition” of power."
+    publishedDateTime: 2021-01-07T20:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/congress-count-electoral-college-votes-biden-win/6556555002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6556555002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6556555002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/d460df1b-74bd-4b89-b2ea-29455649a38d-AP_Biden.jpg?auto=webp&crop=3418,1922,x800,y418&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump-Biden transition live updates: Georgia to recertify vote over Trump objections"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 44 days. A Trump campaign lawsuit was rejected by a Georgia state court Monday because the Trump legal team failed to pay the filing fee and neglected to fill out the proper forms."
     publishedDateTime: 2020-12-07T22:59:00Z
@@ -1355,6 +1371,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump Drops Bid to Overturn Biden's Win in Georgia, Leaving Just 3 Lawsuits Left"
+    excerpt: "Trump's failure in the courts prompted him to take a different approach to overturn the 2020 election: pressuring Republican members of Congress and Vice President Mike Pence to object to the Electoral College count."
+    publishedDateTime: 2021-01-07T20:39:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-drops-bid-overturn-bidens-win-georgia-leaving-just-3-lawsuits-left-1559817"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-drops-bid-overturn-bidens-win-georgia-leaving-just-3-lawsuits-left-1559817?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-drops-bid-overturn-bidens-win-georgia-leaving-just-3-lawsuits-left-1559817?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1700764/donald-trump-stop-steal-riot-1-6-2020.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
     excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
     publishedDateTime: 2020-12-30T14:52:00Z
@@ -1418,6 +1450,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546936531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060CF"
         width: 718
         height: 545
+        isCached: true
+  - title: "Over 230,000 Sign Petition to Remove Trump as Lawmakers Urge Pence to Use 25th Amendment"
+    excerpt: "The president is \"the leader of the violence and chaos at the Capitol.... Enough is enough,\" the petition says."
+    publishedDateTime: 2021-01-07T20:56:00Z
+    webUrl: "https://www.newsweek.com/over-230000-sign-petition-remove-trump-lawmakers-urge-pence-use-25th-amendment-1559827"
+    ampWebUrl: "https://www.newsweek.com/over-230000-sign-petition-remove-trump-lawmakers-urge-pence-use-25th-amendment-1559827?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/over-230000-sign-petition-remove-trump-lawmakers-urge-pence-use-25th-amendment-1559827?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1700771/pro-trump-riot.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden warns Trump administration's vaccine distribution plans are \"falling far behind\""
     excerpt: "Washington — President-elect Joe Biden warned Americans on Tuesday that they need to brace for a \"very tough period for our nation\" with soaring coronavirus case counts and deaths expected in the coming weeks and said the Trump administration's plans for distributing coronavirus vaccines are lagging."
@@ -2911,6 +2959,17 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Mexican president says has not received invite to Biden's inauguration"
+    excerpt: "Mexico's President Andres Manuel Lopez Obrador said on Thursday he has not received an invitation to U.S. President-elect Joe Biden's inauguration, when asked if he would travel to Washington for the Jan."
+    publishedDateTime: 2021-01-07T19:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-mexico-inauguration-idUSE1N2HU00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSE1N2HU00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSE1N2HU00R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -3099,6 +3158,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/03/65/20462944/63/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "The Pure Joy of Watching Trump Torment Mike Pence"
+    excerpt: "Throughout his term of service to Trump, Pence has followed a singular principle: Do not allow your devotion to your master to waver. If Pence has harbored even the tiniest private doubt, he has not permitted it to escape."
+    publishedDateTime: 2021-01-07T19:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/the-pure-joy-of-watching-trump-torment-mike-pence.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/the-pure-joy-of-watching-trump-torment-mike-pence.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/the-pure-joy-of-watching-trump-torment-mike-pence.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/e29/e82/f11febd59f8222d9606f4e105f912b0523-mike-pence-donald-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
     excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"

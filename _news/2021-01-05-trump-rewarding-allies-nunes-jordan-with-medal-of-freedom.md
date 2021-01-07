@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Woman shot at Capitol was Air Force veteran who backed Trump"
+    excerpt: "The woman who was fatally shot when a mob supporting President Donald Trump stormed the U.S. Capitol was identified by authorities Thursday as Ashli Babbitt, whose family described her as an Air Force veteran and avid supporter of Trump and his efforts to stay in office."
+    publishedDateTime: 2021-01-07T18:40:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/woman-shot-capitol-air-force-veteran-backed-trump-75112631"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/woman-shot-capitol-air-force-veteran-backed-trump-75112631"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/woman-shot-capitol-air-force-veteran-backed-trump-75112631"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6cee6916cfc746928f125b3c54be1714_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Alternative facts, witch-hunt, bigly: the Trump era in 32 words and phrases"
     excerpt: "His rally speeches and manic Twitter feed conjured new slogans and insults or revived incendiary words"
     publishedDateTime: 2020-12-28T13:53:00Z
@@ -126,6 +142,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ORA2GDSKMYI6XKPUBZTIXF3SXI.jpg&w=1440"
         width: 1440
         height: 1119
+        isCached: true
+  - title: "Shopify unplugs Trump campaign e-commerce site, citing store's violence policies"
+    excerpt: "Deadly protests at the U.S. Capitol Building prompted the Canadian company to remove Trump-related merchandise."
+    publishedDateTime: 2021-01-07T19:20:00Z
+    webUrl: "https://www.cbsnews.com/news/shopify-trump-store-campaign-ecommerce-violence-prohibitions/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/shopify-trump-store-campaign-ecommerce-violence-prohibitions/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/shopify-trump-store-campaign-ecommerce-violence-prohibitions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2016/07/21/9565ed41-ad8b-4305-82e4-2dc18bd70b03/thumbnail/1200x630/727128305a2cc87335cd1b9e196731a3/rtsiy0c.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump returns to White House early, offers year-end message"
     excerpt: "WASHINGTON (AP) — President Donald Trump delivered a year-end video message Thursday after returning early from vacation, highlighting his administration’s work to rapidly develop a vaccine against COVID-19 and rebuild the economy."

@@ -2,6 +2,279 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-24-biden-considers-boston-mayor-walsh-for-labor-secretary-amid-pressure-for-diverse-cabinet-sources.md",
+      "title": "Biden considers Boston Mayor Walsh for labor secretary amid pressure for diverse Cabinet: sources",
+      "excerpt": "Boston Mayor Marty Walsh is being strongly considered for labor secretary in the new Biden administration, two sources familiar with the discussions tell Fox News, but racial diversity considerations are weighing heavily on President-elect Joe Biden’s decision.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp",
+      "publishedDateTime": "2020-12-24T12:51:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-biden-teams-multibillion-dollar-school-testing-plan-takes-shape.md",
+      "title": "Biden team's multibillion-dollar school testing plan takes shape",
+      "excerpt": "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "originalUrl": "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
+      "publishedDateTime": "2020-12-24T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-prosecutors-have-mounting-amount-of-evidence-against-trump-michael-cohen-says.md",
+      "title": "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says",
+      "excerpt": "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/24/914512ec-439b-42dd-a227-685aaa671d68/thumbnail/1200x630/081f1dacbf03b1eaddf486ed306c8c8b/cbsn-fusion-michael-cohen-trump-lawyer-on-pardons-thumbnail-615721-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
+      "publishedDateTime": "2020-12-24T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-exclusive-dominion-sends-letters-threatening-defamation-lawsuits-to-sean-hannity-maria-bartiromo-lou-dobbs-and-other-pro-trump-media-figures.md",
+      "title": "EXCLUSIVE: Dominion sends letters threatening defamation lawsuits to Sean Hannity, Maria Bartiromo, Lou Dobbs, and other pro-Trump media figures",
+      "excerpt": "The company at the center of a false election conspiracy theory told right-wing media organizations and individual hosts to \"preserve all documents.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
+      "originalUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe4d115edf8920018093b21?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
+      "publishedDateTime": "2020-12-24T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
+      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
+      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "publishedDateTime": "2020-12-24T10:23:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.md",
       "title": "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock",
       "excerpt": "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday.",
@@ -1079,274 +1352,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-trump-derails-santa-rally-brexit-deal-hopes-lift-pound.md",
-      "title": "Trump derails \"Santa rally\", Brexit deal hopes lift pound",
-      "excerpt": "World stocks ticked up on Wednesday, as a last-minute intervention by President Donald Trump dampened positive sentiment over a U.S. stimulus deal, while the pound rose on the possibility of a Brexit agreement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-markets-idCAKBN28W2S3",
-      "originalUrl": "https://www.reuters.com/article/us-global-markets-idCAKBN28W2S3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545562812&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0WA",
-          "width": 923,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN28W2S3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W2S3",
-      "publishedDateTime": "2020-12-23T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-listen-to-trumps-sudden-stipulation-for-covid-19-stimulus-bill.md",
-      "title": "Listen to Trump's sudden stipulation for Covid-19 stimulus bill",
-      "excerpt": "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn",
-      "publishedDateTime": "2020-12-23T04:57:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-trump-grants-full-pardon-to-russia-probe-figure-george-papadopoulos.md",
-      "title": "Trump grants full pardon to Russia probe figure George Papadopoulos",
-      "excerpt": "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545498490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM009",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28X00R",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R",
-      "publishedDateTime": "2020-12-23T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister.md",
-      "title": "Israel hopes for rapprochement with fifth Muslim country before Trump exit - minister",
-      "excerpt": "Israel is working towards formalising relations with a fifth Muslim country during U.S. President Donald Trump's term, which ends next month, an Israeli government minister told Ynet TV on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-israel-diplomacy-usa/israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister-idUSKBN28X17H",
-      "originalUrl": "https://www.reuters.com/article/us-israel-diplomacy-usa/israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister-idUSKBN28X17H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545545711&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0OI",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28X17H",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X17H",
-      "publishedDateTime": "2020-12-23T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-cair-demands-biden-defund-counterterror-program.md",
-      "title": "CAIR demands Biden 'defund' counterterror program",
-      "excerpt": "The Council on American-Islamic Relations is urging President-elect Joe Biden to soften up on Islamic extremism in a new document on issues it hopes the new administration will address during its first 100 days.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VuXYaqQRJc/cair-demands-biden-defund-counterterror-program",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VuXYaqQRJc/cair-demands-biden-defund-counterterror-program",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20357781210201-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cair-demands-biden-defund-counterterror-program.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cair-demands-biden-defund-counterterror-program.amp",
-      "publishedDateTime": "2020-12-22T19:16:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

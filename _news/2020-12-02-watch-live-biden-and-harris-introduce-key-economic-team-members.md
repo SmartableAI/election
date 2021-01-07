@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-intr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
 type: article
 quality: 140
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -453,6 +453,20 @@ related:
       - url: "https://www.sun-sentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "LIVE: President-elect Joe Biden, Vice President-elect Kamala Harris introduce Justice Department nominees"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will introduce their nominees to the Department of Justice at 12:30 p.m. CST Thursday, Jan. 7. Watch a livestream of the event below. As a public service,"
+    publishedDateTime: 2021-01-07T19:57:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/6830811-LIVE-President-elect-Joe-Biden-Vice-President-elect-Kamala-Harris-introduce-Justice-Department-nominees"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 53
+    images:
+      - url: "https://www.fccnn.com/incoming/6831128-g76idm-U.S.-President-elect-Joe-Biden-delivers-a-speech-after-a-conference-video-call-in-Wilmington/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20delivers%20a%20speech%20after%20a%20conference%20video%20call%20in%20Wilmington"
+        width: 1140
+        height: 712
         isCached: true
   - title: "This Little-Known Indian Village Has Made Headlines Because of Kamala Harris"
     excerpt: "As CNN host John King spent days tirelessly facing the magic wall to explain what was happening, miles away in Tamil Nadu, India, a small village was rooting for vice president nominee Kamala Harris—in a very Indian way."

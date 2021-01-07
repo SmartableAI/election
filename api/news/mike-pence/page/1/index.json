@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment.md",
+      "title": "Top Democratic leaders speak with coordinated urgency for Pence to invoke 25th Amendment",
+      "excerpt": "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer, D-N.Y., called on Vice President Mike Pence to invoke the 25th Amendment. NBC News’ Kasie Hunt explains how far this request could move forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment-99075141732",
+      "originalUrl": "https://www.nbcnews.com/video/top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment-99075141732",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_brk_hunt_analysis_200107_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99075141732",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99075141732",
+      "publishedDateTime": "2021-01-07T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-read-pence-letter-saying-he-does-not-have-unilateral-authority-to-reject-electoral-votes.md",
       "title": "READ: Pence letter saying he does not have 'unilateral authority' to reject electoral votes",
       "excerpt": "Pence writes a letter saying he does not have 'unilateral authority' to reject electoral votes",
@@ -167,7 +224,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4928,
+      "heat": 5028,
       "tags": null,
       "images": [
         {
@@ -328,7 +385,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1715,
+      "heat": 1755,
       "tags": null,
       "images": [
         {
@@ -385,7 +442,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2255,
+      "heat": 2315,
       "tags": null,
       "images": [
         {
@@ -1521,63 +1578,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-pence-gets-covid-19-vaccine-to-show-its-safe-and-effective.md",
-      "title": "Pence gets COVID-19 vaccine to show it's 'safe and effective'",
-      "excerpt": "Calling it a “medical miracle,” Vice President Mike Pence on Friday morning publicly took the new coronavirus vaccine. Pence, second lady Karen Pence and Surgeon General Jerome Adams, were all administered the vaccine in front of cameras at the vice president’s office in an event that was broadcast live",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
-      "publishedDateTime": "2020-12-18T06:45:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

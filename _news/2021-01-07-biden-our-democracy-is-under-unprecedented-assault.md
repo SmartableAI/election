@@ -45,22 +45,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden taps Boston's mayor to serve as U.S. labor secretary -Politico"
-    excerpt: "U.S. President-elect Joe Biden has decided to nominate Boston Mayor and former union official Marty Walsh to serve as labor secretary, Politico reported on Thursday, citing two unnamed sources. (Writi"
-    publishedDateTime: 2021-01-07T18:58:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-labor-idUSL1N2JI28N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JI28N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JI28N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DB"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
     publishedDateTime: 2021-01-02T21:39:00Z
@@ -123,6 +107,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden Names Boston Mayor Walsh to Head Labor Department"
+    excerpt: "President-elect Joe Biden has named Boston Mayor Marty Walsh to be labor secretary, according to a person familiar with the decision."
+    publishedDateTime: 2021-01-07T20:03:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/ad559ac6-5121-11eb-a1f5-fdaf28cfca90_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JKQG3MSREAI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
     publishedDateTime: 2021-01-05T04:58:00Z
@@ -134,6 +132,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
+    excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
+    publishedDateTime: 2021-01-07T20:17:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 67
+    images:
+      - url: "https://www.baltimoresun.com/resizer/19Qh57wx2b8uSTs9j-qlcwB8rpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVKWVGAJ4XFDUTXSWAOPK4Z6EQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
     excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
     publishedDateTime: 2021-01-02T23:43:00Z

@@ -2,6 +2,279 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-29-nikki-haley-says-americans-should-be-worried-about-woke-left-when-biden-is-president.md",
+      "title": "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president",
+      "excerpt": "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
+      "publishedDateTime": "2020-12-29T15:28:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-donald-trump-and-michelle-obama-named-most-admired-in-gallup-poll-as-dems-split-2020-field.md",
+      "title": "Donald Trump and Michelle Obama named ‘most admired’ in Gallup poll as Dems split 2020 field",
+      "excerpt": "He lost the popular vote and the US election, but Donald Trump was named “most admired” man of 2020 in a new Gallup poll that left Democrats divvying up mentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/LpJ5Y_JyD1CaXaXYL2KK0Ijz2CE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/R2OV2LCS6FBGFEK7SKQWW36M5M.jpg",
+          "width": 1200,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/ny-donald-trump-and-michelle-obama-most-admired-in-gallup-poll-20201229-e6fcnulb6fefhcjacbuxisz3wm-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-29T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-trump-lashes-out-at-weak-and-tired-republican-leaders-after-house-votes-to-override-his-veto-a-disgraceful-act-of-cowardice.md",
+      "title": "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto: ‘A disgraceful act of cowardice’",
+      "excerpt": "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-29T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-how-richard-jewells-lawyer-became-a-pro-trump-conspiracy-theorist.md",
+      "title": "How Richard Jewell’s Lawyer Became a Pro-Trump Conspiracy Theorist",
+      "excerpt": "The defamation lawyer L. Lin Wood has transformed into a fierce advocate for President Trump whose error-riddled lawsuits have promoted falsehoods about election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/24/us/politics/00linwood/merlin_180740733_49d0afaf-b8b3-49bf-b2f8-8b3fa28413ca-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/us/politics/lin-wood-georgia-trump.amp.html",
+      "publishedDateTime": "2020-12-29T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-trump-joins-michelle-obama-at-top-of-gallups-most-admired-lists.md",
+      "title": "Trump joins Michelle Obama at top of Gallup's 'Most Admired' lists",
+      "excerpt": "President Trump dethroned former President Barack Obama as the most admired man in 2020, while Obama's wife, Michelle Obama, was named most admired woman for the third year in a row.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j82DsfKToNY/trump-michelle-obama-most-admired-man-and-woman-2020-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j82DsfKToNY/trump-michelle-obama-most-admired-man-and-woman-2020-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8daa921-8009-4260-80a6-e2bd33f611bc/bc19624d-2c91-4762-8a1b-d09bc9c7f7ac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-michelle-obama-most-admired-man-and-woman-2020-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-michelle-obama-most-admired-man-and-woman-2020-poll.amp",
+      "publishedDateTime": "2020-12-29T10:48:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-nashville-mayor-says-trump-still-hasnt-reached-out-to-him-about-bombing.md",
       "title": "Nashville mayor says Trump still hasn't reached out to him about bombing",
       "excerpt": "Trump has made no public remarks on the bombing while spending the holidays at his Mar-a-Lago resort in Florida, where he's done a lot of golfing.",
@@ -1041,276 +1314,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
       "publishedDateTime": "2020-12-28T10:20:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-watch-live-joe-biden-delivers-remarks-after-briefing-from-national-security-teams.md",
-      "title": "Watch Live: Joe Biden delivers remarks after briefing from national security teams",
-      "excerpt": "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "publishedDateTime": "2020-12-28T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-politics-updates-trump-advocates-for-2000-stimulus-checks-after-signing-relief-package.md",
-      "title": "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package",
-      "excerpt": "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1026,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/21/USAT/e44d7247-c30b-46ea-98e6-527cfd048984-VPC_COVID19_NEW_RELIEF_DEAL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4057942001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4057942001",
-      "publishedDateTime": "2020-12-28T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill.md",
-      "title": "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill",
-      "excerpt": "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR",
-      "originalUrl": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545959094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0GQ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN292101",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101",
-      "publishedDateTime": "2020-12-28T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-dancing-pallbearers-the-mike-pence-fly-and-pretty-best-friends-here-are-the-top-memes-of-2020.md",
-      "title": "Dancing pallbearers, the Mike Pence fly and pretty best friends: Here are the top memes of 2020",
-      "excerpt": "\"Since we can't see each other in person, using memes to kind of share feelings and connect with one another has become huge this year,\" said the editor of Know Your Meme.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/pop-culture/viral/dancing-pallbearers-mike-pence-fly-pretty-best-friends-here-are-n1252118",
-      "originalUrl": "https://www.nbcnews.com/pop-culture/viral/dancing-pallbearers-mike-pence-fly-pretty-best-friends-here-are-n1252118",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_52/3438265/201217-best-memes-2020-main-2x1-an_d063c8e0fea7afa2a7e7cb23d36ffa04.jpg",
-          "width": 2516,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252118",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252118",
-      "publishedDateTime": "2020-12-28T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.md",
-      "title": "McConnell praises Trump for signing COVID-19, government funding bills",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
-      "publishedDateTime": "2020-12-28T01:55:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

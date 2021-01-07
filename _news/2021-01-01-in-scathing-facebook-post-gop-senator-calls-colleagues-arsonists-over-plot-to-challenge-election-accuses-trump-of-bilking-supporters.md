@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Pelosi demands Trump's removal from office in wake of Capitol attack"
+    excerpt: "Pelosi said she is \"calling on the vice president to remove this president by immediately invoking the 25th Amendment.\""
+    publishedDateTime: 2021-01-07T20:32:00Z
+    webUrl: "https://www.cbsnews.com/news/nancy-pelosi-trump-removal-office-capitol-attack/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/nancy-pelosi-trump-removal-office-capitol-attack/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nancy-pelosi-trump-removal-office-capitol-attack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/07/04b36ed5-21a1-4313-b88d-4ec16ed9922a/thumbnail/1200x630/be4b63fc79ebd88f3c2c4e7df078adb6/gettyimages-1230470165.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters"
     excerpt: "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa"
     publishedDateTime: 2020-12-31T18:57:00Z

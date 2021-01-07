@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 1715
+heat: 1755
 published: true
 
 provider:
@@ -445,6 +445,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2aaa170-fd24-4bdd-bf2c-e82b55fa699d/bae0f20c-d0b7-4e6c-b952-52149816d1f2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pelosi calls for 25th Amendment, impeachment to remove Trump"
+    excerpt: "House Speaker Nancy Pelosi called for President Trump's immediate removal from office by way of the 25th Amendment for inciting a violent riot at the Capitol Wednesday in an attempt to stop the certification of President-elect Joe Biden's win."
+    publishedDateTime: 2021-01-07T19:28:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CGAUsu2hnMo/pelosi-25th-amendment-impeachment-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-25th-amendment-impeachment-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-25th-amendment-impeachment-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25908ae4-b40f-4a3c-95a4-b0ab2a7587d5/6c0ef50d-8c3e-4250-ae14-88b80270e4ce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -959,6 +975,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/capitol-protestors-02.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump pressures Pence ahead of Electoral College certification: ‘This is a time for extreme courage’"
+    excerpt: "President Trump early Wednesday put the pressure on Vice President Pence, saying that if he “comes through for us” and decertifies the Electoral College, he will “win the presidency.”"
+    publishedDateTime: 2021-01-07T19:09:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-renews-pressure-on-pence-says-if-vp-comes-through-and-decertifies-he-will-win-the-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump."

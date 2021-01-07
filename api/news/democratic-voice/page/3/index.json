@@ -2,6 +2,119 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-20-full-panel-trump-downplays-widespread-us-security-breach.md",
+      "title": "Full Panel: Trump downplays widespread U.S. security breach",
+      "excerpt": "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608475557148_mtp_full_panel_201220_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo98115141679",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98115141679",
+      "publishedDateTime": "2020-12-20T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-the-trump-survivors-six-cabinet-officials-who-stuck-it-out.md",
+      "title": "The Trump survivors: Six Cabinet officials who stuck it out",
+      "excerpt": "On Monday, Attorney General Bill Barr became the 12th of Donald Trump's Senate-confirmed Cabinet members either to resign or be fired by the President.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200320112649-01-mnuchin-0317-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
+      "publishedDateTime": "2020-12-19T08:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-betsy-devos-stalled-obamas-student-loan-relief-program-borrowers-hope-biden-will-fix-it.md",
       "title": "Betsy DeVos stalled Obama's student loan relief program. Borrowers hope Biden will fix it",
       "excerpt": "Just before President Barack Obama left office, he made it easier for students defrauded by for-profit colleges to apply for the federal debt relief they had long been entitled to.\n    \n",
@@ -1577,120 +1690,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-bidens-cabinet-picks-give-kamala-an-edge-in-2024.md",
-      "title": "Biden’s Cabinet picks give Kamala an edge in 2024",
-      "excerpt": "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "originalUrl": "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "publishedDateTime": "2020-12-11T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
-      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
-      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
-      "publishedDateTime": "2020-12-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

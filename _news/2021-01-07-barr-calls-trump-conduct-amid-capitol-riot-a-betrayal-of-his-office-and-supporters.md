@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Don't tar all Trump supporters with chaos at the Capitol: Perino"
+    excerpt: "“It’s going to be very important to try to separate those who were bad actors” during the riots at the U.S. Capitol on Wednesday from the tens of millions of people who voted for President Trump, Fox News’ Dana Perino told “America’s Newsroom” on Thursday."
+    publishedDateTime: 2021-01-07T20:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8jM7iXQ7UaY/dont-tar-all-trump-supporters-with-chaos-capitol-perino"
+    ampWebUrl: "https://www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Waltz slams hypocrisy of pro-police Trump supporters going after Capitol Hill cops"
     excerpt: "Pro-Trump rioters who breached the U.S. Capitol on Wednesday with back-the-blue flags need to “rethink the hypocrisy,” Rep. Michael Waltz, R-Fla., told “Fox & Friends” on Thursday."
     publishedDateTime: 2021-01-07T14:47:25Z

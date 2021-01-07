@@ -464,6 +464,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "LIVE: President-elect Joe Biden, Vice President-elect Kamala Harris introduce Justice Department nominees"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will introduce their nominees to the Department of Justice at 12:30 p.m. CST Thursday, Jan. 7. Watch a livestream of the event below. As a public service,"
+    publishedDateTime: 2021-01-07T19:57:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/6830811-LIVE-President-elect-Joe-Biden-Vice-President-elect-Kamala-Harris-introduce-Justice-Department-nominees"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 53
+    images:
+      - url: "https://www.fccnn.com/incoming/6831128-g76idm-U.S.-President-elect-Joe-Biden-delivers-a-speech-after-a-conference-video-call-in-Wilmington/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20delivers%20a%20speech%20after%20a%20conference%20video%20call%20in%20Wilmington"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Omaha native will be chief spokeswoman for Harris"
     excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
     publishedDateTime: 2020-11-30T18:41:00Z

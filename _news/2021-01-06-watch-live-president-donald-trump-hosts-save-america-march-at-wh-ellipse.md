@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pro-Trump protesters storm Pelosi's office, take over Senate chamber at US Capitol"
-    excerpt: "Thousands of pro-Trump protesters stormed the U.S. Capitol on Wednesday, vandalizing House Speaker Nancy Pelosi’s office and both congressional chambers."
-    publishedDateTime: 2021-01-06T22:42:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTxiRdEaxDc/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "x4ODlpM7OItyH0FH7CJIUEHPt1FuqyevWrodLzAFD04hYTXiZJd/Jid5M7H+FGNwMXZdhLk/O0aDWesEdz+dNwx8Oq92tg4GXmwkK3E5Ip/DLQ+5Ut+xz+tfshu+V4qG/r1YpCQOzdV8KX8GHR7NhR4gdqB8VqgBKKCVSfkfy66fLny4XcYY/kwt36yMfJidN/S17y3DnDOhtA4uYoy2S8e53RMRprbuzU8cDSV4G2nF5Yzat6ZufXmJ7LTf0sMj0xM/xDAjuZMHw2Dcmt0MLSL7wStDghTFqHhAASgPhq8KBLKU3Tdwrd6mfiGrPQViUgn2LXHZ6tjyZGZqDmPDK62gtQ5jl6wT9GJtme8idBI=;cswrJ4PaYMRVcC1S8RntNQ=="
 ---

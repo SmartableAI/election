@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s Electoral College victory certified -- hours after Capitol chaos"
-    excerpt: "The U.S. Congress early Thursday certified the Electoral College vote that gave Democrat Joe Biden his presidential victory -- after a day in Washington that was marred by pro-Trump protesters storming the U.S. Capitol."
-    publishedDateTime: 2021-01-07T08:41:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d4BhuT_UjKU/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol.amp"
+  - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
+    excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”"
+    publishedDateTime: 2021-01-06T22:37:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

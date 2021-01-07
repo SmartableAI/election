@@ -2,6 +2,276 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-28-watch-live-joe-biden-delivers-remarks-after-briefing-from-national-security-teams.md",
+      "title": "Watch Live: Joe Biden delivers remarks after briefing from national security teams",
+      "excerpt": "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "publishedDateTime": "2020-12-28T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-politics-updates-trump-advocates-for-2000-stimulus-checks-after-signing-relief-package.md",
+      "title": "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package",
+      "excerpt": "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1026,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/21/USAT/e44d7247-c30b-46ea-98e6-527cfd048984-VPC_COVID19_NEW_RELIEF_DEAL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4057942001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4057942001",
+      "publishedDateTime": "2020-12-28T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill.md",
+      "title": "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill",
+      "excerpt": "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR",
+      "originalUrl": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545959094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0GQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN292101",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101",
+      "publishedDateTime": "2020-12-28T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-dancing-pallbearers-the-mike-pence-fly-and-pretty-best-friends-here-are-the-top-memes-of-2020.md",
+      "title": "Dancing pallbearers, the Mike Pence fly and pretty best friends: Here are the top memes of 2020",
+      "excerpt": "\"Since we can't see each other in person, using memes to kind of share feelings and connect with one another has become huge this year,\" said the editor of Know Your Meme.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/pop-culture/viral/dancing-pallbearers-mike-pence-fly-pretty-best-friends-here-are-n1252118",
+      "originalUrl": "https://www.nbcnews.com/pop-culture/viral/dancing-pallbearers-mike-pence-fly-pretty-best-friends-here-are-n1252118",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_52/3438265/201217-best-memes-2020-main-2x1-an_d063c8e0fea7afa2a7e7cb23d36ffa04.jpg",
+          "width": 2516,
+          "height": 1258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252118",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252118",
+      "publishedDateTime": "2020-12-28T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.md",
+      "title": "McConnell praises Trump for signing COVID-19, government funding bills",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
+      "publishedDateTime": "2020-12-28T01:55:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-trump-signs-covid-19-relief-bill-after-nearly-weeklong-delay.md",
       "title": "Trump signs COVID-19 relief bill after nearly weeklong delay",
       "excerpt": "After its passage, Trump initially called for the bill to be revised to include $2,000 checks and refused to sign it until his call was answered. However, he didn't officially say he would veto it. In a Sunday night statement announcing he had signed the bill,",
@@ -1077,279 +1347,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-biden-considers-boston-mayor-walsh-for-labor-secretary-amid-pressure-for-diverse-cabinet-sources.md",
-      "title": "Biden considers Boston Mayor Walsh for labor secretary amid pressure for diverse Cabinet: sources",
-      "excerpt": "Boston Mayor Marty Walsh is being strongly considered for labor secretary in the new Biden administration, two sources familiar with the discussions tell Fox News, but racial diversity considerations are weighing heavily on President-elect Joe Biden’s decision.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rNIev554as/biden-considers-boston-mayor-walsh",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp",
-      "publishedDateTime": "2020-12-24T12:51:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-biden-teams-multibillion-dollar-school-testing-plan-takes-shape.md",
-      "title": "Biden team's multibillion-dollar school testing plan takes shape",
-      "excerpt": "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
-      "originalUrl": "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280",
-      "publishedDateTime": "2020-12-24T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-prosecutors-have-mounting-amount-of-evidence-against-trump-michael-cohen-says.md",
-      "title": "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says",
-      "excerpt": "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/24/914512ec-439b-42dd-a227-685aaa671d68/thumbnail/1200x630/081f1dacbf03b1eaddf486ed306c8c8b/cbsn-fusion-michael-cohen-trump-lawyer-on-pardons-thumbnail-615721-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
-      "publishedDateTime": "2020-12-24T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-exclusive-dominion-sends-letters-threatening-defamation-lawsuits-to-sean-hannity-maria-bartiromo-lou-dobbs-and-other-pro-trump-media-figures.md",
-      "title": "EXCLUSIVE: Dominion sends letters threatening defamation lawsuits to Sean Hannity, Maria Bartiromo, Lou Dobbs, and other pro-Trump media figures",
-      "excerpt": "The company at the center of a false election conspiracy theory told right-wing media organizations and individual hosts to \"preserve all documents.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
-      "originalUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe4d115edf8920018093b21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
-      "publishedDateTime": "2020-12-24T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
-      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
-      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "publishedDateTime": "2020-12-24T10:23:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-02-the-latest-biden-gives-dire-virus-warning-for-next-2-months.md",
+      "title": "The Latest: Biden gives dire virus warning for next 2 months",
+      "excerpt": "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-02T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-us-supreme-court-asked-to-block-biden-win-in-pennsylvania.md",
+      "title": "US Supreme Court asked to block Biden win in Pennsylvania",
+      "excerpt": "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
+      "publishedDateTime": "2020-12-02T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-live-politics-updates-biden-on-covid-stimulus-help-is-on-the-way.md",
       "title": "Live politics updates: Biden on COVID stimulus: 'Help is on the way'",
       "excerpt": "President-elect Joe Biden called on Congress to approve an economic stimulus plan. He also suggested that a package would be followed up.",
