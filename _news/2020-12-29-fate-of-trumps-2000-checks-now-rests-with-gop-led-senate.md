@@ -638,6 +638,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Calls Mount For Trump's Immediate Removal From Office"
+    excerpt: "The US Senate's top Democrat called on Thursday for President Donald Trump's immediate removal from office after his supporters stormed the Capitol in a shocking assault on the heart of American democracy."
+    publishedDateTime: 2021-01-07T17:44:00Z
+    webUrl: "https://www.ibtimes.com/calls-mount-trumps-immediate-removal-office-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "Xdr8fZONaj61TmpDI0/tW7lSiy4j1tPjhwk0Qh8Rv5k93te3T0nw/a/uxBeZTpTGuk/+hp7XQb+amOqV/vp+zogIQwZTDx7zwwFe1Cu9pCjNPquJNQOIQ/D5aaepdtAsnuTh6l2e2purN16eQt0A4FppQC0/iTz5UT8IdA+EOuHR1/zI8E0o5ka//qciy2E+hSgKVb7oTvNBDuKb2cix/SOh/1xWmoU8QuZr1+fnexGu6MDON25sB7uG0rrILUeCAMgKzxqGewOkNQssNwiHG4Bhkcx2yBpqZxlAM//0SQESaGyYrZwXhe1KhdK4i8J91G/GospagUmucGc79JtDtSmYb4MunFl+srlLe9mMreM=;OsMmq/s2wv0DM/lcDAcO+A=="
 ---

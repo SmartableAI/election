@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "California mayor says Trump should be tried for sedition"
+    excerpt: "A California mayor is calling for President Donald Trump to be tried for sedition after a mob of his supporters stormed the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-07T18:02:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4jv8vkXmwTA/california-mayor-sam-liccardo-trump-tried-sedition"
+    ampWebUrl: "https://www.foxnews.com/politics/california-mayor-sam-liccardo-trump-tried-sedition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-mayor-sam-liccardo-trump-tried-sedition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006635330712.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Georgia election official who slammed Trump's voter fraud claims says he'll vote for GOP Senate candidates"
     excerpt: "Georgia election official Gabriel Sterling, who has pushed back against President Trump’s claims of voter fraud in public and on a recorded phone call that was later leaked, announced Tuesday that he is voting for Republicans Sen. Kelly Loeffler and former Sen. David Perdue."
     publishedDateTime: 2021-01-05T14:44:27Z

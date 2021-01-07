@@ -235,6 +235,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Biden to introduce key nominees for the Department of Justice"
+    excerpt: "President-elect Joe Biden is expected to introduce key nominees for the Department of Justice and comment on the pro-Trump mobs that stormed the Capitol."
+    publishedDateTime: 2021-01-07T18:58:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/biden-to-introduce-key-nominees-for-the-department-of-justice/2021/01/07/5961b99b-ffc7-4f59-ab85-5edaa171658a_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-07-2021/t_95d063d87b3e4ba18a4b8cfaf4d3bb71_name_1___1920x1080___30p_00_02_31_12_Still018.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
     excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
     publishedDateTime: 2021-01-03T03:37:00Z

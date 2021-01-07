@@ -163,63 +163,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-graham-calls-biden-lawfully-elected-says-enough-is-enough-following-breach-of-capitol.md",
-      "title": "Graham calls Biden 'lawfully' elected, says 'enough is enough' following breach of Capitol",
-      "excerpt": "Sen. , R-S.C., called President-elect Joe Biden \"lawfully\" elected and urged his Senate colleagues \"Enough is enough\" regarding election fraud allegations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
-      "originalUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007107465579.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
-      "publishedDateTime": "2021-01-06T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-biden-calls-on-mob-to-pull-back-urges-restoring-decency.md",
       "title": "Biden calls on mob to ‘pull back,’ urges restoring decency",
       "excerpt": "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect",
@@ -228,7 +171,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -854,7 +797,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -1598,6 +1541,58 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-biden-warns-darkest-days-are-ahead-for-us.md",
+      "title": "Biden warns 'darkest days' are ahead for U.S....",
+      "excerpt": "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

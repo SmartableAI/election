@@ -2,6 +2,226 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-rep-liz-cheney-slams-trump-for-intolerable-conduct-says-president-incited-the-mob.md",
+      "title": "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'",
+      "excerpt": "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
+      "publishedDateTime": "2021-01-06T16:31:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-twitter-flags-trump-video-due-to-risk-of-violence-as-he-tells-protesters-to-go-home-claims-race-stolen.md",
+      "title": "Twitter flags Trump video due to 'risk of violence,' as he tells protesters to 'go home,' claims race 'stolen'",
+      "excerpt": "Twitter flagged President Trump’s tweeted video telling protesters to “go home,” while maintaining the 2020 presidential election was “stolen” from him and restricted engagement “due to the risk of violence,” Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
+      "publishedDateTime": "2021-01-06T14:49:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.md",
+      "title": "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'",
+      "excerpt": "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp",
+      "publishedDateTime": "2021-01-06T14:37:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-nancy-pelosi-and-chuck-schumer-call-on-trump-to-demand-protestors-to-leave-the-us-capitol-immediately.md",
+      "title": "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'",
+      "excerpt": "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
+      "originalUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff62860d184b30018aad62d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
+      "publishedDateTime": "2021-01-06T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-biden-has-selected-judge-merrick-garland-to-serve-as-attorney-general-politico.md",
       "title": "Biden has selected Judge Merrick Garland to serve as attorney general - Politico",
       "excerpt": "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision.",
@@ -1014,7 +1234,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -1107,214 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-blasts-nieces-conspiracy-theories-as-he-seeks-fraud-lawsuits-dismissal.md",
-      "title": "Trump blasts niece's 'conspiracy theories' as he seeks fraud lawsuit's dismissal",
-      "excerpt": "U.S. President Donald Trump is seeking the dismissal of a lawsuit claiming he defrauded his niece out of an inheritance worth tens of millions of dollars, accusing her of embracing \"conspiracy theories\" in her quest to consume him with lawsuits after he leaves the",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546691961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH04175",
-          "width": 793,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29A24T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A24T",
-      "publishedDateTime": "2021-01-05T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-legal-problems-campaign-reaches-settlement-in-assault-case.md",
-      "title": "Trump Legal Problems: Campaign Reaches Settlement In Assault Case",
-      "excerpt": "Rod Webber was twice attacked at Trump rallies, the second incident netting him thousands in settlements from police and the campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
-      "originalUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
-      "publishedDateTime": "2021-01-05T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-us-attorney-in-atlanta-abruptly-resigns-and-trump-bypasses-his-deputy-in-picking-temporary-successor.md",
-      "title": "U.S. attorney in Atlanta abruptly resigns, and Trump bypasses his deputy in picking temporary successor",
-      "excerpt": "The top federal prosecutor in Atlanta abruptly resigned this week and President Trump bypassed his top deputy in selecting a temporary replacement — an unusual set of moves, even in the administration’s waning days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TT53PUSPQ4I6XPNEMFNK57IFKU.jpg&w=1440",
-          "width": 1440,
-          "height": 992,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-05T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-arnold-schwarzenegger-calls-efforts-to-overturn-bidens-win-crazy-and-evil.md",
-      "title": "Arnold Schwarzenegger Calls Efforts to Overturn Biden's Win 'Crazy and Evil'",
-      "excerpt": "The former GOP California governor said lawmakers objecting to Biden's win will be remembered as \"villains\" by their grandchildren.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133",
-      "originalUrl": "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1698866/arnold-schwarzenegger.jpg",
-          "width": 1024,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1",
-      "publishedDateTime": "2021-01-05T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

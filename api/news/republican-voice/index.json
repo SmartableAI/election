@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-republicans-blame-trump-after-his-supporters-storm-capitol-enough-is-enough.md",
+      "title": "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'",
+      "excerpt": "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
+      "publishedDateTime": "2021-01-07T10:02:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-facebook-blocks-trump-indefinitely-after-capitol-riot-response.md",
       "title": "Facebook blocks Trump indefinitely after Capitol riot response",
       "excerpt": "Facebook CEO Mark Zuckerberg on Thursday said that President Trump’s Facebook and Instagram accounts will be blocked \"indefinitely,\" and for at least the next two weeks before Inauguration Day.",
@@ -395,63 +451,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-graham-calls-biden-lawfully-elected-says-enough-is-enough-following-breach-of-capitol.md",
-      "title": "Graham calls Biden 'lawfully' elected, says 'enough is enough' following breach of Capitol",
-      "excerpt": "Sen. , R-S.C., called President-elect Joe Biden \"lawfully\" elected and urged his Senate colleagues \"Enough is enough\" regarding election fraud allegations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
-      "originalUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007107465579.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
-      "publishedDateTime": "2021-01-06T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1028,7 +1027,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -1189,7 +1188,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1655,
+      "heat": 1715,
       "tags": null,
       "images": [
         {

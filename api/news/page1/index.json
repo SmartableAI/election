@@ -2,6 +2,278 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-to-tap-boston-mayor-marty-walsh-as-labor-secretary.md",
+      "title": "Biden to tap Boston Mayor Marty Walsh as labor secretary",
+      "excerpt": "President-elect Joe Biden is expected to tap Boston Mayor Marty Walsh as labor secretary, two sources familiar with the decision tell CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110213537-marty-walsh-0313-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
+      "publishedDateTime": "2021-01-07T10:43:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-capitol-riots-boris-johnson-condemns-donald-trump-for-sparking-events.md",
+      "title": "Capitol riots: Boris Johnson condemns Donald Trump for sparking events",
+      "excerpt": "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-politics-55580806",
+      "originalUrl": "https://www.bbc.com/news/uk-politics-55580806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E6/production/_116389585_johnsontrump.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806",
+      "publishedDateTime": "2021-01-07T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-read-schumer-calls-for-trumps-removal-using-the-25th-amendment-says-he-should-not-hold-office-one-day-longer.md",
+      "title": "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'",
+      "excerpt": "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html",
+      "publishedDateTime": "2021-01-07T10:05:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-republicans-blame-trump-after-his-supporters-storm-capitol-enough-is-enough.md",
+      "title": "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'",
+      "excerpt": "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
+      "publishedDateTime": "2021-01-07T10:02:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-book-of-the-moment-audience-of-one-donald-trump-television-and-the-fracturing-of-america.md",
+      "title": "Book of the moment: ‘Audience of One: Donald Trump, Television, and the Fracturing of America’",
+      "excerpt": "For a deeper understanding of this week's insurrection at the Capitol and the end of Donald Trump's presidency, read \"Audience of One: Donald Trump, Television, and the Fracturing of America\" by James Poniewozik.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/9PlWtEXNk4DY1O9DRVS8lVcYtQU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA6MQWUKONA63D6TTER66S3O4Y.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-top-ceos-may-cut-off-funding-to-republicans-who-have-supported-trumps-election-challenge-money-is-the-key-way.md",
       "title": "Top CEOs may cut off funding to Republicans who have supported Trump's election challenge: 'Money is the key way'",
       "excerpt": "Execs from Disney, Accenture, and Deloitte, as well as former White House advisors, attended a call to discuss Trump's election challenge.",
@@ -34,6 +306,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-we-are-all-joe-scarborough-msnbc-host-praised-for-f-word-rant-on-trump-rioters.md",
+      "title": "'We Are All Joe Scarborough:' MSNBC Host Praised For F-Word Rant On Trump Rioters",
+      "excerpt": "Scarborough on Thursday called for the arrest of Trump and others in a profanity-laced rant that went viral President Trump has been criticized for inciting violence and was temporarily banned from Twitter Scarborough received support on social media for his comments MSBNC host Joe Scarborough drew praise Thursday for an unfiltered commentary about the mob that raided Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660",
+      "originalUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/11/joe-scarborough-msnbc.jpg",
+          "width": 1200,
+          "height": 982,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1",
+      "publishedDateTime": "2021-01-07T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -766,63 +1090,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-graham-calls-biden-lawfully-elected-says-enough-is-enough-following-breach-of-capitol.md",
-      "title": "Graham calls Biden 'lawfully' elected, says 'enough is enough' following breach of Capitol",
-      "excerpt": "Sen. , R-S.C., called President-elect Joe Biden \"lawfully\" elected and urged his Senate colleagues \"Enough is enough\" regarding election fraud allegations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
-      "originalUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007107465579.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-biden-lawfully-elected-enough-is-enough.amp",
-      "publishedDateTime": "2021-01-06T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-james-mattis-denounces-trump-says-he-will-be-left-a-man-without-a-country.md",
       "title": "James Mattis denounces Trump, says he will be 'left a man without a country'",
       "excerpt": "Former Defense Secretary James Mattis rebuked President Trump on Wednesday, accusing him of fomenting violence at the U.S. Capitol and poisoning Americans' respect for fellow citizens.",
@@ -876,58 +1143,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-us-lawmaker-says-she-is-drawing-up-impeachment-papers-on-trump-after-mobs-storm-capitol.md",
-      "title": "U.S. lawmaker says she is drawing up impeachment papers on Trump after mobs storm Capitol",
-      "excerpt": "A Democratic congresswoman on Wednesday said she was drawing up articles of impeachment against President Donald Trump after mobs broke into the U.S. Capitol",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-impeachment-idUSKBN29B310",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-impeachment-idUSKBN29B310",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546907676&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AS",
-          "width": 766,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29B310",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B310",
-      "publishedDateTime": "2021-01-06T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -995,7 +1210,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1103,7 +1318,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1127,226 +1342,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-rep-liz-cheney-slams-trump-for-intolerable-conduct-says-president-incited-the-mob.md",
-      "title": "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'",
-      "excerpt": "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
-      "publishedDateTime": "2021-01-06T16:31:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-twitter-flags-trump-video-due-to-risk-of-violence-as-he-tells-protesters-to-go-home-claims-race-stolen.md",
-      "title": "Twitter flags Trump video due to 'risk of violence,' as he tells protesters to 'go home,' claims race 'stolen'",
-      "excerpt": "Twitter flagged President Trump’s tweeted video telling protesters to “go home,” while maintaining the 2020 presidential election was “stolen” from him and restricted engagement “due to the risk of violence,” Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
-      "publishedDateTime": "2021-01-06T14:49:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.md",
-      "title": "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'",
-      "excerpt": "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp",
-      "publishedDateTime": "2021-01-06T14:37:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-nancy-pelosi-and-chuck-schumer-call-on-trump-to-demand-protestors-to-leave-the-us-capitol-immediately.md",
-      "title": "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'",
-      "excerpt": "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "originalUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff62860d184b30018aad62d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "publishedDateTime": "2021-01-06T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

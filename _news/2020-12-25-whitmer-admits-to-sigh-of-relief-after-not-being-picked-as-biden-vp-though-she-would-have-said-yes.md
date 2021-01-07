@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden to announce Justice Department picks"
+    excerpt: "President-elect Joe Biden is to announce his nominees for the Justice Department. Biden is also expected to address the rioting on Capitol Hill on Wednesday, which he condemned in strong terms the same day."
+    publishedDateTime: 2021-01-07T18:56:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad0d288e-8d3f-4466-bf25-2a90d782871f/8d4ccfcf-53da-4208-9695-e20a725c6067/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "XaM/ERKEFX0do+wPD6nz27wueKZf/HtBEiJChHNUILzz3LJW9nm31NELh+g8nhIbYlHz4E3m7bBjMCBGeoZl9KltY9Z9jwB909TZUyk/FaRQJNnATbAROHgqiLAtOJmgDq93n2k2rOEGL7p5PpmzaIdckHQRUik4aNDW4rIudNKIevwXmGEZhsIny8CbfDLon7WK3IYEQMZ5mBody+ILpfRFFEjU88tUopah/K91xnODj6yGvXzpkGGYNIMFuuQxtcjJNC4yxHdQc/v2G9qSysy8fTjke6+8k8FPjSchg6eZeDytfhIf8XcpAwvRUOjZNH2B5uFUz7mBunJs4mBMCVqie5XUcKH+tf3sgXJ8s76uorBiEPNpFZiIJr1v8qrnspeJx5fsOR7PhC1r2mboMSBqpt1X0j00s8QqwB6lO108AyfTkrfrpXkd8FhQigUJXvAMuq5dP3vUd6hwCfr9R8PyEQkezMmVdQkwPGirSRUJSqm+ddhKX1oAG5xXTUpZPJB3sNdSjSfF/ZBzGZ6lLA==;hHBBEpJu2HU++tvXrbkoxA=="
 ---

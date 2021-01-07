@@ -416,6 +416,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Manufacturers back 25th Amendment push to remove Trump from office"
+    excerpt: "The National Association of Manufacturers on Wednesday condemned the rioting that took place in Washington, D.C., on Wednesday and called on Vice President Mike Pence to consider invoking the 25th Amendment to remove President Trump from office."
+    publishedDateTime: 2021-01-07T18:28:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dalgsBDhYG0/manufacturers-25th-amendment-remove-trump-push"
+    ampWebUrl: "https://www.foxnews.com/politics/manufacturers-25th-amendment-remove-trump-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manufacturers-25th-amendment-remove-trump-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006635330712.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Mitt Romney accuses Trump of inciting an insurrection"
     excerpt: "Sen. Mitt Romney, R-Utah, issued a scathing statement Wednesday, accusing President Trump of inciting an insurrection and warning other lawmakers not to continue challenging the 2020 election results."
     publishedDateTime: 2021-01-07T00:06:09Z
@@ -656,6 +672,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DHS chief Wolf calls on Trump to condemn 'unconscionable' violence, says he will remain in post"
+    excerpt: "Acting Homeland Security Secretary Chad Wolf called on President Trump to condemn what he called \"unconscionable\" violence at the Capitol while saying he intends to stay on in his post."
+    publishedDateTime: 2021-01-07T18:07:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dKtpwONpIME/white-house-dhs-chief-wolf-trump-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-dhs-chief-wolf-trump-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-dhs-chief-wolf-trump-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79573544-67cc-4c82-9333-8bae294d5f03/6c06ea44-ec78-41e1-a9d9-d29f34c48de2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump says South Dakota Gov. Kristi Noem should challenge 'RINO' Sen. John Thune in 2022"
     excerpt: "Thune drew Trump’s ire in recent days after he criticized the president’s bid to challenge the results of the 2020 presidential election."
     publishedDateTime: 2021-01-01T22:38:51Z
@@ -703,6 +735,22 @@ related:
       - url: "https://images.wsj.net/im-279725/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Pence 'angry' after Trump says he 'didn't have the courage' to overturn election, Inhofe says"
+    excerpt: "Okla., said he'd never seen Vice President Pence as \"angry\" as he was when President Trump pressured him to decertify and return the results of the presidential election back to the states."
+    publishedDateTime: 2021-01-07T17:30:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-angry-trump-overturn-election-jim-inhofe"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-angry-trump-overturn-election-jim-inhofe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-angry-trump-overturn-election-jim-inhofe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007323484616.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden, Trump to Campaign in Georgia Senate Runoffs"
     excerpt: "President-elect Joe Biden will travel to Georgia to campaign for the two Democrats in runoff elections that will decide the control of the Senate, as he and President Trump hold competing rallies in the state."

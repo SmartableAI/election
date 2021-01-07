@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Facebook indefinitely blocks Trump from accessing his account"
+    excerpt: "Facebook CEO Mark Zuckerberg said the platform is blocking his Facebook and Instagram accounts \"indefinitely\" and for at least the next two weeks."
+    publishedDateTime: 2021-01-07T04:58:00Z
+    webUrl: "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5ff72ec6d184b30018aad826?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump tells backers to ‘go home’ after Capitol stormed"
     excerpt: "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election"
     publishedDateTime: 2021-01-07T02:08:00Z

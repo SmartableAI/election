@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden to announce Justice Department picks"
+    excerpt: "President-elect Joe Biden is to announce his nominees for the Justice Department. Biden is also expected to address the rioting on Capitol Hill on Wednesday, which he condemned in strong terms the same day."
+    publishedDateTime: 2021-01-07T18:56:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad0d288e-8d3f-4466-bf25-2a90d782871f/8d4ccfcf-53da-4208-9695-e20a725c6067/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

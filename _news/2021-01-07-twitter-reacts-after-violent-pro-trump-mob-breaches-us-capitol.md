@@ -79,6 +79,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "This is what Trump told supporters before many stormed Capitol Hill"
+    excerpt: "Many who participated in the chaos as the U.S. Capitol building went under attack on Wednesday came straight from a rally held by President Donald Trump."
+    publishedDateTime: 2021-01-07T18:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-told-supporters-stormed-capitol-hill/story?id=75110558"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-told-supporters-stormed-capitol-hill/story?id=75110558"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-told-supporters-stormed-capitol-hill/story?id=75110558"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rallyb-01-ap-iwb-210107_1610040219665_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Alternative facts, witch-hunt, bigly: the Trump era in 32 words and phrases"
     excerpt: "His rally speeches and manic Twitter feed conjured new slogans and insults or revived incendiary words"
     publishedDateTime: 2020-12-28T13:53:00Z

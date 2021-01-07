@@ -2,6 +2,214 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-blasts-nieces-conspiracy-theories-as-he-seeks-fraud-lawsuits-dismissal.md",
+      "title": "Trump blasts niece's 'conspiracy theories' as he seeks fraud lawsuit's dismissal",
+      "excerpt": "U.S. President Donald Trump is seeking the dismissal of a lawsuit claiming he defrauded his niece out of an inheritance worth tens of millions of dollars, accusing her of embracing \"conspiracy theories\" in her quest to consume him with lawsuits after he leaves the",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546691961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH04175",
+          "width": 793,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29A24T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A24T",
+      "publishedDateTime": "2021-01-05T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-legal-problems-campaign-reaches-settlement-in-assault-case.md",
+      "title": "Trump Legal Problems: Campaign Reaches Settlement In Assault Case",
+      "excerpt": "Rod Webber was twice attacked at Trump rallies, the second incident netting him thousands in settlements from police and the campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
+      "originalUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
+      "publishedDateTime": "2021-01-05T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-us-attorney-in-atlanta-abruptly-resigns-and-trump-bypasses-his-deputy-in-picking-temporary-successor.md",
+      "title": "U.S. attorney in Atlanta abruptly resigns, and Trump bypasses his deputy in picking temporary successor",
+      "excerpt": "The top federal prosecutor in Atlanta abruptly resigned this week and President Trump bypassed his top deputy in selecting a temporary replacement — an unusual set of moves, even in the administration’s waning days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TT53PUSPQ4I6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-05T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-arnold-schwarzenegger-calls-efforts-to-overturn-bidens-win-crazy-and-evil.md",
+      "title": "Arnold Schwarzenegger Calls Efforts to Overturn Biden's Win 'Crazy and Evil'",
+      "excerpt": "The former GOP California governor said lawmakers objecting to Biden's win will be remembered as \"villains\" by their grandchildren.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133",
+      "originalUrl": "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1698866/arnold-schwarzenegger.jpg",
+          "width": 1024,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1",
+      "publishedDateTime": "2021-01-05T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-fact-check-will-mike-pence-not-preside-over-the-electoral-college-certification.md",
       "title": "Fact Check: Will Mike Pence Not Preside Over the Electoral College Certification?",
       "excerpt": "Senator Charles Grassley (R-Iowa) claimed he will preside over the joint session to certify the Electoral College results, causing confusion as to whether Vice President Mike Pence will attend.",
@@ -227,7 +435,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1655,
+      "heat": 1715,
       "tags": null,
       "images": [
         {
@@ -332,7 +540,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2135,
+      "heat": 2255,
       "tags": null,
       "images": [
         {
@@ -638,6 +846,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-05-trump-shared-the-wrong-number-for-a-michigan-lawmaker-a-28-year-old-has-gotten-thousands-of-angry-calls.md",
+      "title": "Trump shared the wrong number for a Michigan lawmaker. A 28-year-old has gotten thousands of angry calls.",
+      "excerpt": "The number the Trump campaign posted belonged to a 28-year-old Michigan native who has received now thousands of angry calls and texts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZGRPOTU3VQI6VLLZ5334242GIE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
+      "publishedDateTime": "2021-01-05T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-trumps-epa-finalizes-last-minute-limits-on-science-used-in-rulemaking.md",
       "title": "Trump's EPA finalizes last minute limits on science used in rulemaking",
       "excerpt": "The U.S. Environmental Protection Agency (EPA) chief said on Monday he has finalized a rule to limit what scientific research the agency can use to formulate regulations, in a concession to big business weeks before President Donald Trump leaves office.",
@@ -907,58 +1167,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-trump-to-speak-at-wednesdays-save-america-rally-protesting-election-results.md",
-      "title": "Trump To Speak At Wednesday's 'Save America' Rally Protesting Election Results",
-      "excerpt": "Thousands of MAGA supporters are expected to attend the rally in a last-ditch attempt to keep the lame duck president in the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450",
-      "originalUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg",
-          "width": 1024,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-speak-wednesdays-save-america-rally-protesting-election-results-3114450?amp=1",
-      "publishedDateTime": "2021-01-04T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-trump-to-approve-land-swap-for-rio-tintos-resolution-copper-project-us-forest-service.md",
       "title": "Trump to approve land swap for Rio Tinto's Resolution Copper project: U.S. Forest Service",
       "excerpt": "U.S. President Donald Trump's outgoing administration plans to approve a controversial land swap needed for Rio Tinto Ltd and partners to build an Arizona copper project that Native American tribes say will destroy sites of cultural and religious value.",
@@ -1107,222 +1315,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-biden-dni-pick-avril-haines-raises-eyebrows-with-previous-job-at-bookstore-known-for-erotica-readings.md",
-      "title": "Biden DNI pick Avril Haines raises eyebrows with previous job at bookstore known for erotica readings",
-      "excerpt": "Long before she was nominated by President-elect Joe Biden to oversee the nation’s intelligence apparatus, Avril Haines co-owned an independent bookstore that hosted “erotica nights.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Avril-Haines1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
-      "publishedDateTime": "2021-01-04T14:54:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-and-perdue-elected.md",
-      "title": "Joe Biden Says $2,000 Stimulus Checks 'Will Never Get There' if Loeffler and Perdue Elected",
-      "excerpt": "\"In America, as our opposition friends are finding out, all power flows from the people,\" President-elect Joe Biden said Monday. \"That's our history. That's our law, that's our tradition, that's our constitution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
-      "originalUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1698187/joe-biden-campaigns-georgia-dems-senate.jpg",
-          "width": 2500,
-          "height": 1720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
-      "publishedDateTime": "2021-01-04T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-pence-we-got-our-doubts-about-the-last-election.md",
-      "title": "Pence: We 'got our doubts about the last election'",
-      "excerpt": "We 'got our doubts about the last election' Posted . Stumping for two Republican candidates in races that will determine control of the U.S. Senate, U.S. Vice Pres",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVDTSO8GV",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVDTSO8GV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSO8GV&r=OVDTSO8GV&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-its-a-dark-place-trumps-call-a-window-into-a-president-consumed.md",
-      "title": "'It's a dark place': Trump's call a window into a President consumed",
-      "excerpt": "President Donald Trump had been trying for weeks to get Georgia's secretary of state on the phone.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AAxwl3_SB1A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AAxwl3_SB1A/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104115130-donald-trump-december-8-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html",
-      "publishedDateTime": "2021-01-04T13:25:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

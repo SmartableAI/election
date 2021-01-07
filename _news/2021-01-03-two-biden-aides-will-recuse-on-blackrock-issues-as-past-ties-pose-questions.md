@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden taps Boston's mayor to serve as U.S. labor secretary -Politico"
+    excerpt: "U.S. President-elect Joe Biden has decided to nominate Boston Mayor and former union official Marty Walsh to serve as labor secretary, Politico reported on Thursday, citing two unnamed sources. (Writi"
+    publishedDateTime: 2021-01-07T18:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-labor-idUSL1N2JI28N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JI28N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JI28N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DB"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election"
     excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."
     publishedDateTime: 2021-01-06T04:25:00Z

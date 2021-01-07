@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump pressured Pence to engineer a coup, then put the VP in danger, source says"
+    excerpt: "President Donald Trump and top White House officials did little to check in on Vice President Mike Pence while he and members of his family were inside the US Capitol when Trump-backed rioters stormed the halls of Congress on Wednesday, a source close to the vice president tells CNN.\n    \n"
+    publishedDateTime: 2021-01-07T18:31:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gxFu2v2gDUA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-pence-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-pence-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 195
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105143554-01-trump-pence-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Biden's already more popular than Trump's ever been"
     excerpt: "Poll of the week: A new Gallup poll finds that President-elect Joe Biden has a 55% favorable rating and a 41% unfavorable rating.\n    \n"
     publishedDateTime: 2020-12-06T16:48:47Z
@@ -316,6 +332,22 @@ related:
     quality: 181
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190411200659-omb-acting-director-vought-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lawyer for Trump campaign withdraws after saying election cases were used to commit crime"
+    excerpt: "A Pennsylvania lawyer who represented the Trump campaign in one of its early election challenges told a federal judge Thursday \"the client has used the lawyer's services to perpetrate a crime,\" one day after a mob of Trump supporters turned violent and stormed the US Capitol Building.\n    \n"
+    publishedDateTime: 2021-01-07T18:26:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YvwockLpZMM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/lawyer-trump-campaign-crime/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/lawyer-trump-campaign-crime/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142925-06-trump-rallies-0106-washington-dc-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -575,6 +607,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A day after inciting a mob, Trump attempts his version of normalcy "
+    excerpt: "President Donald Trump attempts a surreal return to normalcy a day after inciting a mob of his supporters to riot, culminating in the first breach the US Capitol in 200 years.\n    \n"
+    publishedDateTime: 2021-01-07T17:36:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kA-4YeSBnCA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/donald-trump-medal-of-freedom-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/donald-trump-medal-of-freedom-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "An unchained Trump threatens more mayhem in his final dangerous days"
     excerpt: "America faces 13 days of danger before the departure of an unhinged commander-in-chief who set his mob on the US Capitol in an act of insurrection that shattered a more than 220-year tradition of peaceful transfers of power.\n    \n"
     publishedDateTime: 2021-01-07T11:17:09Z
@@ -703,6 +751,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Some Trump administration officials resign while others stay to prevent chaos"
+    excerpt: "Former White House chief of staff Mick Mulvaney, who still had an administration job as special envoy to Northern Ireland, told CNBC in an interview Thursday morning that he called Secretary of State Mike Pompeo last night and resigned.\n    \n"
+    publishedDateTime: 2021-01-07T16:55:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_mzjRCPch0Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/resignations-trump-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/resignations-trump-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125154121-01-mick-mulvaney-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump set for Georgia rally as GOP officials brace for post-phone call fallout"
     excerpt: "President Donald Trump is scheduled to headline a 9 p.m. ET rally for a pair of Georgia Republican Senate candidates, but his election eve appearance has GOP officials in Georgia and in Washington worried in the wake of his recently publicized call pressuring an election official over the November results.\n"
     publishedDateTime: 2021-01-04T16:19:12Z
@@ -783,6 +847,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Calls grow in Congress for Trump to be removed by impeachment or the 25th Amendment"
+    excerpt: "A growing number of lawmakers -- including from Democratic leadership -- are calling for President Donald Trump to be removed from office either through impeachment or the 25th Amendment to the Constitution after a violent mob of Trump supporters stormed the US Capitol on Wednesday.\n    \n"
+    publishedDateTime: 2021-01-07T18:44:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-hcwMMg_DuY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-impeachment-25th-amendment-congress-schumer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-impeachment-25th-amendment-congress-schumer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106120930-01-chuck-schumer-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
     excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
     publishedDateTime: 2020-12-29T18:48:27Z
@@ -830,6 +910,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-trump-pence/05dc-trump-pence-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Acting Homeland Security secretary criticizes Trump's response but says he'll stay on the job"
+    excerpt: "Acting Homeland Security Secretary Chad Wolf urged President Donald Trump and all elected officials to condemn the violence on Capitol Hill in a sharply-worded statement Thursday, while vowing to stay in his position until President-Elect Joe Biden takes office.\n    \n"
+    publishedDateTime: 2021-01-07T18:28:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kH_nXv-3XfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chad-wolf-homeland-security/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chad-wolf-homeland-security/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216092620-02-chad-wolf-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump attacks No. 2 Senate Republican as the President turns on allies in his final days in office"
     excerpt: "President Donald Trump is spending his final days in office attacking leadership within his own party, this time the second-highest ranking Republican in the Senate, offering a possible preview of his broader post-presidential strategy to use his influence in the 2022 midterm elections and beyond.\n "
