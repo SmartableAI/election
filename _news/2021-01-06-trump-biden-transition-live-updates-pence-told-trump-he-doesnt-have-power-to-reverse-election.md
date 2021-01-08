@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 5308
+heat: 5328
 published: true
 
 provider:
@@ -943,6 +943,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/17/04d7ed2c-d932-470e-93d8-fa681fc7bca1/thumbnail/1200x630g2/43ae5b19135a1ef9b14f853ffb0a2fed/zuckerberg-gettyimages-1178141608.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Hurt feelings, anger linger after Pence, Trump clash"
+    excerpt: "It's part of the fallout from an extraordinary 24-hour stretch in which Pence openly defied Trump, Trump unleashed his fury on the vice president, and a mob of violent supporters incensed by Trump’s rhetoric stormed the Capitol building and tried to halt the peaceful transfer of power."
+    publishedDateTime: 2021-01-08T07:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75127167"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75127167"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75127167"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_94b0268b7e894013bd1b1d4158010211_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Pelosi vows to impeach Trump again — if Pence doesn't remove him first"
     excerpt: "Speaker Nancy Pelosi (D-Calif.) said Thursday that Washington policymakers should act immediately to remove President Trump from office just two weeks before his term ends, citing \"seditious\" acts related to the president's role in encouraging the assault on the U."
@@ -2673,15 +2689,15 @@ related:
         isCached: true
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-    publishedDateTime: 2021-01-08T04:41:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
+    publishedDateTime: 2021-01-08T09:35:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 119
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547049910&r=LYNXMPEH061DK&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
         width: 800
         height: 557
         isCached: true

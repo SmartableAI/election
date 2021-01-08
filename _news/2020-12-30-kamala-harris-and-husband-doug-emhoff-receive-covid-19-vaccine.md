@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vac
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -239,6 +239,17 @@ related:
     webUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
     ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
     cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+  - title: "Kamala Harris: 'We are going to be inaugurated'"
+    excerpt: "U.S. Vice President-elect Kamala Harris and her husband Doug Emhoff visited a restaurant in Washington, D.C. on Monday night. Harris said they were there to show support for small businesses,"
+    publishedDateTime: 2021-01-05T19:18:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

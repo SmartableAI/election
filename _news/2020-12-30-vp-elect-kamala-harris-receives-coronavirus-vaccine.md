@@ -240,6 +240,17 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
+  - title: "Kamala Harris: 'We are going to be inaugurated'"
+    excerpt: "U.S. Vice President-elect Kamala Harris and her husband Doug Emhoff visited a restaurant in Washington, D.C. on Monday night. Harris said they were there to show support for small businesses,"
+    publishedDateTime: 2021-01-05T19:18:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
   - title: "Kamala Harris rallies for Democrats in Savannah 2 days before Senate runoff"
     excerpt: "Vice President-elect Kamala Harris on Sunday urged voters on Georgia’s coast to get to the polls and elect Democrats Jon Ossoff and Raphael Warnock, kicking off a furious final stretch of campaigning ahead of Tuesday’s runoffs for control of the U."
     publishedDateTime: 2021-01-04T01:11:00Z

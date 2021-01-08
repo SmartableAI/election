@@ -124,16 +124,16 @@ related:
         height: 1080
         isCached: true
   - title: "Biden Names Boston Mayor Walsh to Head Labor Department"
-    excerpt: "President-elect Joe Biden has named Boston Mayor Marty Walsh to be labor secretary, according to a person familiar with the decision."
-    publishedDateTime: 2021-01-07T20:03:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/ad559ac6-5121-11eb-a1f5-fdaf28cfca90_story.html"
+    excerpt: "President-elect Joe Biden announced Thursday that he has named Boston Mayor Marty Walsh to be labor secretary."
+    publishedDateTime: 2021-01-08T10:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/c8a76dbc-514f-11eb-a1f5-fdaf28cfca90_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JKQG3MSREAI6XIPV7WXSRT6KSA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNRKYPCRKAI6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -148,6 +148,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
+    excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
+    publishedDateTime: 2021-01-08T10:24:00Z
+    webUrl: "https://www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 59
+    images:
+      - url: "https://thumbnails.texastribune.org/QceD9Q7o8f97xZhL2o7bt_uDgtM=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/49768b4e6fab6c42ab333783f10a8f04/Ted%20Cruz%20Capitol%20Hill%20REUTERS%20.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
     excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
     publishedDateTime: 2021-01-02T23:43:00Z

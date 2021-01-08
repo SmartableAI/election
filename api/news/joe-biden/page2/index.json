@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-28-i-think-i-had-some-effect-cindy-mccain-pleased-with-joe-bidens-election-victory-looks-ahead.md",
+      "title": "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead",
+      "excerpt": "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/3feaa328-d9d2-4409-8443-7cf3424528d6-Cindy_McCain_2.jpg?auto=webp&crop=3399,1912,x1,y524&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4052794001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001",
+      "publishedDateTime": "2020-12-27T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-26-joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.md",
       "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
       "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
@@ -1549,58 +1601,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-in-latin-america-a-biden-white-house-faces-a-rising-china.md",
-      "title": "In Latin America, a Biden White House faces a rising China",
-      "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
-      "originalUrl": "https://www.reuters.com/article/us-latam-usa-china-insight-idUSKBN28O18R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544488578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD0NX",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O18R",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R",
-      "publishedDateTime": "2020-12-14T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -2,13 +2,11 @@
 category: news
 title: "Trump faces calls for removal, possible impeachment after Capitol chaos"
 excerpt: "President Donald Trump faced the threat on Thursday of a second impeachment, a day after his supporters breached the U.S. Capitol in a stunning assault on American democracy as Congress was certifying President-elect Joe Biden's victory."
-publishedDateTime: 2021-01-08T08:33:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-idINKBN29C0ZK"
-webUrl: "https://www.reuters.com/article/usa-election-idINKBN29C0ZK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29C0ZK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0ZK"
+publishedDateTime: 2021-01-08T10:36:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election/u-s-congress-certifies-biden-win-after-trump-supporters-wreak-havoc-in-the-capitol-idUKKBN29B2PS?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/uk-usa-election/u-s-congress-certifies-biden-win-after-trump-supporters-wreak-havoc-in-the-capitol-idUKKBN29B2PS?edition-redirect=uk"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547028307&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061K9"
-    width: 858
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547042427&r=LYNXMPEH061KN&w=800"
+    width: 800
+    height: 508
     isCached: true
 
 related:
@@ -824,6 +822,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "WvUldYCuhypI9rTU9gQtyUbhjsGfrrp0gdXpvZcF1NzGEjeij7v2RwfaqpKHymQuwb+LNY6jjeTuwJcpVnUTFSd529mfVycjFJhSlbrviD7TOROb+JvHT7a+9MNqygG4gbPYL+1Fapvjh7i+/cG/qCjbDH+15nAu/0ogT0+T4yf1Y/dU13YijmHhlUMTB6LSFcKnvgCPzo4z6kAx5MXjC9e+Gl/2O6RiGjknr6H2hLn3jaWTzJdRqbgFEgmYzZLzM/Y/T/pNuLdRMjvwuL4lLKFHGp5/71G7JAHC7aFDth4o+efbe1VW8w+Y8u+fbYZY4A04F9WCtCYq094g0PExZllMB5YbgeUFxsm1FRwfXqo=;YzFsD2xKB7fqxOY9fbzQOQ=="
+secured: "w1qXMcQQUmWlsP+Y1BTGVx7V/lr3VCcfxlpSl+TeMqNH+X+Bza97pxVHPoRmnJ170zpXqdQTi88xko8U4VDXL6MWZycokxLmihTTtRdsSMWk2ylQwhKLk+dvMOYV2SpYO7bzlUnxWlUuHA2eqHtRVQAccC0k4GAwT/LuOq4h3v/hPTGbKhZD9fhLq50Wy5SZVP5haUL/roT+DcKLzabAMjOEHsPLj5LGkubziifVKxqISpA6wGUio+6nolq8XaEpeyJ2X6NyZWVqenfeOIV/m12ppusuYi9W/2vj3dkIqNxrtq3G5ACsIxnbboiWr4ICAf40YFIiry93Ulxo0Tp7F1t4M/pY3KG3G5gTPIbigaI=;6lLOurpZM27Pc2Bj8xWd2g=="
 ---
 

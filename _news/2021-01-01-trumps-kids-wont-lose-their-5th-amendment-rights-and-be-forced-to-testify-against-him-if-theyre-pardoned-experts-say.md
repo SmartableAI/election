@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Chinese bargain hunters pile into stocks blacklisted by Trump"
+    excerpt: "As U.S. investors dump shares in Chinese companies blacklisted by outgoing President Donald Trump, bargain hunters in China are taking the opposite side of that trade, wagering that a Joe Biden presidency will reverse the investment ban."
+    publishedDateTime: 2021-01-08T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-china-usa-bargainhunt/chinese-bargain-hunters-pile-into-stocks-blacklisted-by-trump-idUSKBN29D0JE?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547068874&r=LYNXMPEH0707R&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "'People Are Just Trying to Land the Airplane.' White House Staff Packs Up as Trump Rages On"
     excerpt: "As President Donald Trump pushes to overturn the election, many White House officials have accepted the reality that he is leaving."
     publishedDateTime: 2021-01-06T18:15:00Z

@@ -61,6 +61,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Twitter On Shopify Terminating Donald Trump-Affiliated Stores After Capitol Riot: ‘Too Little, Too Late’"
+    excerpt: "Twitter users have mixed opinions on Shopify’s move to terminate all the stores affiliated with Donald Trump on its website."
+    publishedDateTime: 2021-01-08T06:04:00Z
+    webUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137"
+    ampWebUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 58
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
+        width: 1024
+        height: 688
+        isCached: true
 
 secured: "HjEaYa3czUOwLcuNfqUzg4ugA+1GCq1LykwaNUjtd43JdO666RANd+X3igpqq4VxfnV9Wkn6vUgDI6i3u/EAcYfnf6PnshGovymRY67qMeOBAHdlU01OOZIl5xZCB4hieVA0o6abw6igUqrAtMiCXMNltGXPKE7/KZL788FZJ+pe+bxrc5OsdOVS8sYfYXRhUTLanxOMSspYSSsY/tlOP+2K8QNcxhBKlVHGiggEw78Ah/00GXFX92u2Kv+T6cwsWH79MllUhC2fHtmEZxyMOKRFr89XHi0XDgmhRLIIoPJc7J0baq7ilB5ogW8pF/WVl1x+DqcLCEPCKChCrfn+G5RfQwNL59LTv9VJETq1Ae/3dxw+jEqkW1ZZF42iI1Y8N14SE5GAtIXQ/uv7sWsxIX+XIpqT7o0dBlgm3JQPCxZuUsLQ/+DK9oa6eUN+NQv8timFgmdOmeJTZ9Yhrid0NUP2E/RDGOx3BFxYqTi+O66SjEEX6fMG2OLSQvFzWMsL5ZyB0Hm1JPLI2ilqGYMNYQ==;o5y81SCqhDBeXsqXXQgM2w=="
 ---

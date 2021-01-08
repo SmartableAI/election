@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-05-pence-we-got-our-doubts-about-the-last-election.md",
+      "title": "Pence: We 'got our doubts about the last election'",
+      "excerpt": "We 'got our doubts about the last election' Posted . Stumping for two Republican candidates in races that will determine control of the U.S. Senate, U.S. Vice Pres",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVDTSO8GV",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVDTSO8GV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSO8GV&r=OVDTSO8GV&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-its-a-dark-place-trumps-call-a-window-into-a-president-consumed.md",
       "title": "'It's a dark place': Trump's call a window into a President consumed",
       "excerpt": "President Donald Trump had been trying for weeks to get Georgia's secretary of state on the phone.\n    \n",
@@ -1239,58 +1291,6 @@
       "ampWebUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
       "publishedDateTime": "2021-01-02T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-on-the-anniversary-eve-of-the-drone-strike-ordered-by-trump-that-killed-its-top-general-iran-reveals-its-plan-to-enrich-uranium-to-20-purity.md",
-      "title": "On the anniversary eve of the drone strike ordered by Trump that killed its top general, Iran reveals its plan to enrich uranium to 20% purity",
-      "excerpt": "\"We are like soldiers and our fingers are on the triggers,\" the head of Iran's civilian atomic energy organization said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
-      "originalUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff09eeea18a450018cb684d?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
-      "publishedDateTime": "2021-01-02T08:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

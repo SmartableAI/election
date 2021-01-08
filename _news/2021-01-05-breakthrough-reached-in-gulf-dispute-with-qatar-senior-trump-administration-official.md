@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Twitter On Shopify Terminating Donald Trump-Affiliated Stores After Capitol Riot: ‘Too Little, Too Late’"
+    excerpt: "Twitter users have mixed opinions on Shopify’s move to terminate all the stores affiliated with Donald Trump on its website."
+    publishedDateTime: 2021-01-08T06:04:00Z
+    webUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137"
+    ampWebUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 58
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
+        width: 1024
+        height: 688
+        isCached: true
   - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
     excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
     publishedDateTime: 2021-01-06T20:30:00Z

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden picks Rhode Island governor to head Commerce, Boston mayor for Labor: sources"
+    excerpt: "President-elect Joe Biden will choose Rhode Island Governor Gina Raimondo as his Commerce Department secretary and Boston mayor and former union official Marty Walsh as his Labor secretary, people familiar with the choices told Reuters on Thursday."
+    publishedDateTime: 2021-01-08T01:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-commerce/update-1-biden-picks-rhode-island-governor-to-head-commerce-boston-mayor-for-labor-sources-idUSL1N2JI2BL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2PU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2PU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547009021&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061CX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden picks Rhode Island governor for Commerce, Boston mayor for Labor: sources"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, people familiar with the choices told Reuters on Thursday."
     publishedDateTime: 2021-01-08T05:13:00Z
@@ -74,20 +90,6 @@ related:
     quality: 101
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547021518&r=LYNXMPEH061HZ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Biden picks Rhode Island governor to head Commerce, Boston mayor for Labor: sources"
-    excerpt: "President-elect Joe Biden will choose Rhode Island Governor Gina Raimondo as his Commerce Department secretary and Boston mayor and former union official Marty Walsh as his Labor secretary, people familiar with the choices told Reuters on Thursday."
-    publishedDateTime: 2021-01-08T01:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-commerce-idUSKBN29C2PU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547009021&r=LYNXMPEH061CX&w=800"
         width: 800
         height: 533
         isCached: true
@@ -108,6 +110,6 @@ related:
         height: 478
         isCached: true
 
-secured: "3F2S0YjXhFxjMthEPK7xHNmwB4sO3mUgNabz8o81WJnwDy2bNyC8+35li5J6yRZlYkekHn2kE8n6qt7wWtwFJ+2lLD0jvPPayzV8mIIUDrtoloXHTJNHpo9zH1w0IKyMprnkMBzS6W5j2NTPp0f9CrsGUX/29XPMvtVT1TcO2VN1lB6DJ5+hI0omQ0djmg+Twn0OBu3etxuZGFftkHzBGqYJVwBlP/8DoqNLbO636j9oCBoUJVAkk1yDzWym2EGYPrrS0iV3egjNdRwX2dJeK1fAKGCfE5Dqq4N9/FvaylVYCOE6YZ2OGDoqBdYYtwAuyxPhnAaqdN2kDa4tX3VuuYZ44rr+ZRGthQoQ3BMpo5I=;+MmzWODV5+nv9YpL26h1EQ=="
+secured: "tgQISfq2vUzOCumqMElw09mwtQFgFjQjIJPe6wFfufzW17Anfz7a0gZ9TsWQyREA5avu+zhcdyqaAvAMYvhX8UakRnWegNUuiUO5kmgZW+owx30yM8a+wSIpD3qBv4KONZ22tT2J+piEJ15W1OzfH2FiaiWHEvDpbjRKS/PMHbplr3ei0H3Ng5Lx9GEVeZzbZQu1Osnyd5wdNmPJtbN5ul0IPtyK3p1wfNDF4+7dAzcLommUJ8VHDhIjMG4q4/SjVDNrhaOoT3J/ki5lozYjVLw4QzT4/5u9M3/urpL/yBpzjnr7KxdGWU+CyShve7Aa/gWB7atJww8qh5eNCAZE8zB5hkJg1DsSGl43dmv230DQiO03zcN8oZiC5TxJwb4+Vu/OoW0BsrNd74fzVJ9V7hYsVbzADAp/rrG+6qM1M2quWiFEHa1Xqlu3ZsCL7jpXviDEacfzEiqDuqK+4WY1qlX9hp2xHVVMpx/VF49a63zI3tMIjnxInZxGI9yx7owhfFD944yycrdKW+QAHgRc6g==;e1ulYnXrZ/qyisjppcT2fw=="
 ---
 

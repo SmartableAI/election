@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden Names Boston Mayor Walsh to Head Labor Department"
-excerpt: "President-elect Joe Biden has named Boston Mayor Marty Walsh to be labor secretary, according to a person familiar with the decision."
-publishedDateTime: 2021-01-07T20:03:00Z
-originalUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/ad559ac6-5121-11eb-a1f5-fdaf28cfca90_story.html"
-webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/ad559ac6-5121-11eb-a1f5-fdaf28cfca90_story.html"
+excerpt: "President-elect Joe Biden announced Thursday that he has named Boston Mayor Marty Walsh to be labor secretary."
+publishedDateTime: 2021-01-08T10:46:00Z
+originalUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/c8a76dbc-514f-11eb-a1f5-fdaf28cfca90_story.html"
+webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/c8a76dbc-514f-11eb-a1f5-fdaf28cfca90_story.html"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JKQG3MSREAI6XIPV7WXSRT6KSA.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNRKYPCRKAI6XIPV7WXSRT6KSA.jpg&w=1440"
     width: 1440
     height: 960
     isCached: true
@@ -148,6 +148,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
+    excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
+    publishedDateTime: 2021-01-08T10:24:00Z
+    webUrl: "https://www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 59
+    images:
+      - url: "https://thumbnails.texastribune.org/QceD9Q7o8f97xZhL2o7bt_uDgtM=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/49768b4e6fab6c42ab333783f10a8f04/Ted%20Cruz%20Capitol%20Hill%20REUTERS%20.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Ted Cruz will object when Congress certifies Joe Biden’s electoral win, joining 10 other senators demanding 10-day delay"
     excerpt: "Sen. Ted Cruz announced Saturday that he will oppose certification of President-elect Joe Biden’s victory when Congress meets Wednesday"
     publishedDateTime: 2021-01-02T23:43:00Z
@@ -165,6 +181,6 @@ related:
         height: 630
         isCached: true
 
-secured: "X0ZZ6y2rcM22+jPnVnLaKhjflz1b6Lk8FQOn2yna9ZtMVdJ8f0DxsPPDGYO/EFb3b6ps55Wx/iXCZmZpciKq25N40jh0fBH6UX8NbAuCOwkQbBYAtJ1dbKLMZAmU3hJ6ZBGlice7fnMowkfiGYklcgedbVHHuiL0KF+t63gawo1SbCQFD5gF2mmeEzZyFqr8F2lw+VWaQE6jIotnrexiRZI8OA5G+pYbIqJbnWM+/kcNHBFCYBvOnPxdlCypBOtawJhfStuLYCXqVrFCPz4pldtkTAghxNFjBB+tPsPIlx9sM7OoSXuGTxr58aFWvvQ04V/czjydsoTuGLwGHNqfoUNHlBLp2OB05qyRSnBeJIfpbhednX801Ondg/Yu77D4bQ1SYoaUkbzgsQGvCZJThDf2ikAxC867qDsKXs1JXuww7m8y5jxfgwefM9hAp0mWVCmzVexn57GGZOOrjmnJXoQwydbZp76Jc5JWHwjLBJMqRDMCYsJO4bHDyQDGYyHphe2YhBgfSwM4Gfq5k5bEsw==;E3IKMrpaNPib/Rp6H08IUQ=="
+secured: "p6LQZ5ARvjNlS2zwyrUr5ypsjTGtxiINpFf2AoSiN+RoZVZSLmkZ0WkdkiDBQ7rbAVmUddnyWsTG4BTvLgCIuygeJQQB3JzMGZPoTTQzMDlbjFeb3MUr3agimg+VB5p+lBXBRTesPvWX9pDSFv9vGJAe/D81wGCj50Y+GCtkfMhqWwu7ywVtiIyMl+47Fy9KcKwsn7+5bbF+rH+mo9K/zQPNjIded1d7XOwqhEZ91eCqCoi0KDVeqDFDP5l8DMjiLKrkOH7v24fFf4X/jsjWd406corkdROn9qgud2ysifWSi1Xwoh7fGoj9mKBMYSB+lM3aaeaRY9zAQeIQhLQjsctX8SdcJLB2obdoRgwceZ0=;hYVK53eXKPL24gyXgm7UQA=="
 ---
 

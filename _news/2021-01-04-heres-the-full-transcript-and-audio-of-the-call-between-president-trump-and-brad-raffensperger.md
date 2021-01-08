@@ -251,22 +251,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump faces calls for removal, possible impeachment after Capitol chaos"
-    excerpt: "President Donald Trump faced the threat on Thursday of a second impeachment, a day after his supporters breached the U.S. Capitol in a stunning assault on American democracy as Congress was certifying President-elect Joe Biden's victory."
-    publishedDateTime: 2021-01-08T08:33:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idINKBN29C0ZK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29C0ZK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0ZK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547028307&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061K9"
-        width: 858
-        height: 545
-        isCached: true
   - title: "Law enforcement braces for protests as Trump supporters gather in capital"
     excerpt: "Law enforcement was bracing for protests as Trump supporters gather in the nation's capital to demonstrate against Congress ratifying Joe Biden as president-elect."
     publishedDateTime: 2021-01-06T00:37:00Z
@@ -618,6 +602,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/f8ba9e020fb671148e20cf46a34433c8435b52cf/0_95_4938_2963/master/4938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c2003b9e69769fc076c5cafb98176a"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump faces calls for removal, possible impeachment after Capitol chaos"
+    excerpt: "President Donald Trump faced the threat on Thursday of a second impeachment, a day after his supporters breached the U.S. Capitol in a stunning assault on American democracy as Congress was certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-08T10:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/u-s-congress-certifies-biden-win-after-trump-supporters-wreak-havoc-in-the-capitol-idUKKBN29B2PS?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547042427&r=LYNXMPEH061KN&w=800"
+        width: 800
+        height: 508
         isCached: true
   - title: "Audio: Trump berates Ga. secretary of state Brad Raffensperger, urges him to ‘find’ votes"
     excerpt: "Listen to excerpts from a one-hour call on Saturday between the president and Georgia election officials."

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-to-tap-boston-mayor-marty-walsh-as-labor-secretary.md",
+      "title": "Biden to tap Boston Mayor Marty Walsh as labor secretary",
+      "excerpt": "President-elect Joe Biden is expected to tap Boston Mayor Marty Walsh as labor secretary, two sources familiar with the decision tell CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110213537-marty-walsh-0313-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
+      "publishedDateTime": "2021-01-07T10:43:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-capitol-riots-boris-johnson-condemns-donald-trump-for-sparking-events.md",
       "title": "Capitol riots: Boris Johnson condemns Donald Trump for sparking events",
       "excerpt": "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions.",
@@ -1151,7 +1207,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1276,62 +1332,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
       "publishedDateTime": "2021-01-06T16:31:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-twitter-flags-trump-video-due-to-risk-of-violence-as-he-tells-protesters-to-go-home-claims-race-stolen.md",
-      "title": "Twitter flags Trump video due to 'risk of violence,' as he tells protesters to 'go home,' claims race 'stolen'",
-      "excerpt": "Twitter flagged President Trump’s tweeted video telling protesters to “go home,” while maintaining the 2020 presidential election was “stolen” from him and restricted engagement “due to the risk of violence,” Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
-      "publishedDateTime": "2021-01-06T14:49:09-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

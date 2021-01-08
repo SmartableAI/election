@@ -80,16 +80,18 @@ related:
   - title: "Biden picks Rhode Island governor to head Commerce, Boston mayor for Labor: sources"
     excerpt: "President-elect Joe Biden will choose Rhode Island Governor Gina Raimondo as his Commerce Department secretary and Boston mayor and former union official Marty Walsh as his Labor secretary, people familiar with the choices told Reuters on Thursday."
     publishedDateTime: 2021-01-08T01:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-commerce-idUSKBN29C2PU"
+    webUrl: "https://www.reuters.com/article/usa-biden-commerce/update-1-biden-picks-rhode-island-governor-to-head-commerce-boston-mayor-for-labor-sources-idUSL1N2JI2BL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2PU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2PU"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 99
+    quality: 119
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547009021&r=LYNXMPEH061CX&w=800"
-        width: 800
-        height: 533
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547009021&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061CX"
+        width: 817
+        height: 545
         isCached: true
   - title: "Joe Biden has reportedly selected Marty Walsh for labor secretary"
     excerpt: "President-elect Joe Biden has reportedly picked Mayor Marty Walsh to be his labor secretary. The choice, which had been closely watched and speculated about as Walsh entered Biden’s shortlist in recent weeks,"

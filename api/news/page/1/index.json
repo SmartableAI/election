@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-nba-los-angeles-lakers-hope-to-meet-president-joe-biden-but-champions-lose-at-spurs.md",
+      "title": "NBA: Los Angeles Lakers hope to meet President Joe Biden but champions lose at Spurs",
+      "excerpt": "The Los Angeles Lakers hope to re-establish the tradition of NBA champions visiting the president of the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/basketball/55584721",
+      "originalUrl": "https://www.bbc.com/sport/basketball/55584721",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1313B/production/_116393187_lakers.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/amp/basketball/55584721",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/basketball/55584721",
+      "publishedDateTime": "2021-01-08T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
       "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
       "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
@@ -166,7 +218,7 @@
       "originalUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1325,62 +1377,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-to-tap-boston-mayor-marty-walsh-as-labor-secretary.md",
-      "title": "Biden to tap Boston Mayor Marty Walsh as labor secretary",
-      "excerpt": "President-elect Joe Biden is expected to tap Boston Mayor Marty Walsh as labor secretary, two sources familiar with the decision tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110213537-marty-walsh-0313-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
-      "publishedDateTime": "2021-01-07T10:43:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

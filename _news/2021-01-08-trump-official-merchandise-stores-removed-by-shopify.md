@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-store
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
         width: 818
         height: 545
+        isCached: true
+  - title: "Twitter On Shopify Terminating Donald Trump-Affiliated Stores After Capitol Riot: ‘Too Little, Too Late’"
+    excerpt: "Twitter users have mixed opinions on Shopify’s move to terminate all the stores affiliated with Donald Trump on its website."
+    publishedDateTime: 2021-01-08T06:04:00Z
+    webUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137"
+    ampWebUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 58
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
+        width: 1024
+        height: 688
         isCached: true
   - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
     excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
