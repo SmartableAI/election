@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/biden-wednesday-speech/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/biden-wednesday-speech/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730135514-trevor-reed-ex-marine-sentencing-russia-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "POLITICO-Harvard poll: Public strongly backs Biden's demand for Covid aid"
+    excerpt: "There's strong public support for Biden's vision of an expansive government effort to combat the pandemic and its economic fallout."
+    publishedDateTime: 2021-01-08T16:27:00Z
+    webUrl: "https://www.politico.com/news/2021/01/08/politico-harvard-poll-public-biden-aid-456511"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/a8/bf/dd754b0945feaec329e1698db776/ap21006771717797-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "4RfrrQCxXZGgJLaf/swekStBL3gK2hte87sB1HQVlIOE3XKC9Yg1XYDoEYQxfrFAWupHUcHslifLmhXKxzHYH/XTOAvlvQvLh08AmQdpn3DI9t8VavJZpjp+Sn5ZmQ8zmk1gR8h9rv24eIP5UDQfZlDzYq/0VmavBZ7BjyqUBj5XRrGap9HyVnDrXX+vb/6HU97EvDqx5NWxDkTZewwzNRA10FV1ilML4wyF5tXDHIcBfgDNw8ZqUCIQ5hFUPdWH3qgUZe64p/STxOQcmgV2EIpB5eqLrvWsVv726ci3peX1nZX3IYoAton5oQy5wJvEa4TELboCa2h1hHYQoM7O5DuN4CHAZVaCYgtNUOFrXnA=;6G/JwCps3PFkLZ7mt3cX4A=="

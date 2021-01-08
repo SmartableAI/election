@@ -225,6 +225,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump says he 'will not be going' to Biden's inauguration"
+    excerpt: "President Trump said Friday he \"will not be going to the Inauguration\" of President-elect Joe Biden — an extraordinary move that will make him the first to skip the inaugural ceremony of his successor since 1869. "
+    publishedDateTime: 2021-01-08T15:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fe1wukiqKnI/trump-wont-attend-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lara Trump: Election objections are about counting 'every legitimate vote'"
     excerpt: "Trump 2020 campaign adviser Lara Trump said Tuesday that the planned GOP objections to key state elector slates in Congress' Wednesday joint session are not intended to overturn the election result."
     publishedDateTime: 2021-01-06T01:57:03Z

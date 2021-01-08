@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden denounces racial inequities in blasting Capitol riot"
+    excerpt: "The president-elect, announcing his Justice Department team Thursday, said the largely White mob that attacked the Capitol was treated far better than Black protesters would have been. He also vowed to restore the department’s political neutrality and honor."
+    publishedDateTime: 2021-01-08T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E56LPYCREYI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
     excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
     publishedDateTime: 2021-01-07T22:09:00Z
@@ -153,6 +169,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Capitol siege raises security concerns for Biden inaugural"
+    excerpt: "The is intensifying scrutiny over security at an inauguration ceremony for President-elect Joe Biden already reshaped by a pandemic and the prospect that his predecessor may not attend."
+    publishedDateTime: 2021-01-08T15:56:00Z
+    webUrl: "https://www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
     publishedDateTime: 2021-01-05T04:58:00Z

@@ -111,22 +111,6 @@ related:
         width: 765
         height: 545
         isCached: true
-  - title: "Capitol siege raises security concerns for Biden inaugural"
-    excerpt: "President-elect Joe Biden’s inauguration was already going to be scaled back and slightly surreal, with the pandemic wiping out the typical large crowds and Donald Trump poised to become the first com"
-    publishedDateTime: 2021-01-08T06:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
     publishedDateTime: 2020-12-31T12:49:00Z

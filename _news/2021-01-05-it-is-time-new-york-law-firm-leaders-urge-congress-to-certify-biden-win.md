@@ -57,6 +57,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden denounces racial inequities in blasting Capitol riot"
+    excerpt: "The president-elect, announcing his Justice Department team Thursday, said the largely White mob that attacked the Capitol was treated far better than Black protesters would have been. He also vowed to restore the department’s political neutrality and honor."
+    publishedDateTime: 2021-01-08T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E56LPYCREYI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
     publishedDateTime: 2021-01-02T21:39:00Z
@@ -163,6 +179,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Capitol siege raises security concerns for Biden inaugural"
+    excerpt: "The is intensifying scrutiny over security at an inauguration ceremony for President-elect Joe Biden already reshaped by a pandemic and the prospect that his predecessor may not attend."
+    publishedDateTime: 2021-01-08T15:56:00Z
+    webUrl: "https://www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
     excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
     publishedDateTime: 2021-01-08T10:24:00Z

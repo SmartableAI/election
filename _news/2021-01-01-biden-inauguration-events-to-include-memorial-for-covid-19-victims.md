@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 665
+heat: 645
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY"
         width: 765
         height: 545
-        isCached: true
-  - title: "Capitol siege raises security concerns for Biden inaugural"
-    excerpt: "President-elect Joe Biden’s inauguration was already going to be scaled back and slightly surreal, with the pandemic wiping out the typical large crowds and Donald Trump poised to become the first com"
-    publishedDateTime: 2021-01-08T06:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."

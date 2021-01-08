@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-ina
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-inauguration/index.html"
 type: article
 quality: 195
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104155441-joe-biden-1222-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to introduce commerce and labor secretary nominees Friday "
+    excerpt: "President-elect Joe Biden on Friday will introduce his nominees for commerce and labor secretary and other members of his economic and jobs team at an event in Wilmington, Delaware, according to his transition team.\n    \n"
+    publishedDateTime: 2021-01-08T15:51:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oP3gstRGPWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-labor-commerce-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-labor-commerce-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153455-joe-biden-january-7-2021-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

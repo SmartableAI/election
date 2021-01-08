@@ -1003,6 +1003,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Trump won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
+    publishedDateTime: 2021-01-08T16:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f74c672051934e86a856ce9f89727a9a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -1831,6 +1847,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump says he will not attend President-elect Joe Biden’s inauguration on Jan. 20"
+    excerpt: "President Donald Trump says he will not attend President-elect Joe Biden’s inauguration on Jan. 20. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2021-01-08T15:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Live politics updates: Biden secures the number of electors needed to defeat Trump, become president"
     excerpt: "Biden has the electors to be president; Trump pressures Kemp to get the state legislature to flip Georgia ahead of rally – politics updates."
     publishedDateTime: 2020-12-06T02:28:00Z
@@ -2438,6 +2470,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/zLgfpuo49z4tAI8RLRh3rajqSd4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKAJALEQ6JFRBCVTRMERJKGW3M.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Dominion sues Trump lawyer Sidney Powell for defamation"
+    excerpt: "Dominion Voting Systems has filed a defamation lawsuit against lawyer Sidney Powell, seeking at least $1.3 billion for Powell’s “wild accusations” that the company rigged the presidential election for"
+    publishedDateTime: 2021-01-08T16:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8f9e5b7a45564c9fadd9937fe5e2fca2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
@@ -3228,6 +3276,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump moves to loosen mining regulations, approve projects as he exits"
+    excerpt: "Outgoing U.S. President Donald Trump's administration is moving to loosen mining regulations and green light new mineral projects before leaving office this month, with successor Joe Biden unable to reverse some of the changes."
+    publishedDateTime: 2021-01-08T16:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-trump-idINKBN29D1AD?edition-redirect=in"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547118740&r=LYNXMPEH070KP&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -3448,6 +3510,38 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/e29/e82/f11febd59f8222d9606f4e105f912b0523-mike-pence-donald-trump.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump announces he'll skip Joe Biden's inauguration"
+    excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
+    publishedDateTime: 2021-01-08T16:35:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/08/donald-trump-says-he-wont-attend-joe-bidens-inauguration/6594812002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6594812002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6594812002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics live updates: Trump says he won't attend Joe Biden's inauguration"
+    excerpt: "I wish he would just do what Nixon did and that's step down,” former Secretary of State Colin Powell said in an interview on NBC."
+    publishedDateTime: 2021-01-08T15:58:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/01/08/politics-live-updates-donald-trump-joe-biden-capitol/6590781002/"
+    ampWebUrl: "https://amp.statesman.com/amp/6590781002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/6590781002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 88
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/09/USAT/d2432fc4-9009-4676-b780-979d07707a56-AP_Trump_Impeachment_6.JPG?auto=webp&crop=2504,1408,x806,y198&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Official Makes False Claim That Joe Biden's Inauguration Can Be Postponed"
     excerpt: "White House trade advisor Peter Navarro has claimed that Vice President Mike Pence can change the date of Inauguration Day."
@@ -4065,6 +4159,17 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "The Latest: Trump Tweets That He Won't Attend Inauguration"
+    excerpt: "President Donald Trump is casting himself as the defender of those who voted for him as he begins his day on Twitter."
+    publishedDateTime: 2021-01-08T16:40:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/the-latest-house-dems-mulling-fast-track-trump-impeachment"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/the-latest-house-dems-mulling-fast-track-trump-impeachment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-08/the-latest-house-dems-mulling-fast-track-trump-impeachment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
     excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."
     publishedDateTime: 2021-01-07T00:51:00Z

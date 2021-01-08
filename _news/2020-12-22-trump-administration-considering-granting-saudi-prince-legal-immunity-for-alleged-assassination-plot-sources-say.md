@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Exclusive: Biden will release all available vaccine doses in break from Trump administration policy of holding back stock for second dose"
+    excerpt: "President-elect Joe Biden will aim to release every available dose of the coronavirus vaccine when he takes office, a break with the Trump administration's strategy of holding back half of US vaccine production to ensure second doses are available.\n    \n"
+    publishedDateTime: 2021-01-08T16:42:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I14tRZ7tZk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108095821-covid-vaccine-0105-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration speeds up 'midnight rule-making,' creating hurdles for Biden"
     excerpt: "The administration's last-minute rules include contentious proposals that President-elect Joe Biden is likely to oppose."
     publishedDateTime: 2020-12-30T19:36:00Z

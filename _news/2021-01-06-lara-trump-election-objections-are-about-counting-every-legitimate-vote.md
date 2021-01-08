@@ -239,6 +239,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump says he 'will not be going' to Biden's inauguration"
+    excerpt: "President Trump said Friday he \"will not be going to the Inauguration\" of President-elect Joe Biden — an extraordinary move that will make him the first to skip the inaugural ceremony of his successor since 1869. "
+    publishedDateTime: 2021-01-08T15:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fe1wukiqKnI/trump-wont-attend-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden trails Trump, Obama and Bush in dragging feet to name attorney general pick"
     excerpt: "President-elect Joe Biden has parted ways with years of presidential precedent by not yet having picked an attorney general as the election year comes to a close."
     publishedDateTime: 2020-12-31T00:42:30Z

@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to introduce commerce and labor secretary nominees Friday "
+    excerpt: "President-elect Joe Biden on Friday will introduce his nominees for commerce and labor secretary and other members of his economic and jobs team at an event in Wilmington, Delaware, according to his transition team.\n    \n"
+    publishedDateTime: 2021-01-08T15:51:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oP3gstRGPWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-labor-commerce-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-labor-commerce-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153455-joe-biden-january-7-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
     excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
     publishedDateTime: 2020-12-31T16:16:47Z
