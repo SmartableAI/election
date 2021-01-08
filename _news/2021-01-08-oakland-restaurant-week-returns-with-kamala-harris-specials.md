@@ -2,26 +2,26 @@
 category: news
 title: "Oakland Restaurant Week returns — with Kamala Harris specials"
 excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
-publishedDateTime: 2021-01-07T21:45:00Z
-originalUrl: "https://www.eastbaytimes.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-webUrl: "https://www.eastbaytimes.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-ampWebUrl: "https://www.eastbaytimes.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
+publishedDateTime: 2021-01-08T03:45:00Z
+originalUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials"
+webUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials"
+ampWebUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476-2.jpg?w=1024&h=781"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
     width: 1024
     height: 781
     isCached: true
@@ -122,6 +122,6 @@ related:
         height: 480
         isCached: true
 
-secured: "IIydioP+RUKWZA3EJICZ+dZZMNmt9FMyApj3fYlxMn/813Kiz9kFck+Gx2UdQpQREM+kPokqt/dZA6tQRfXUTpHjol657wJn5jgy777VJyGb5ch/nLGodQiNQHs80mJNfaMtl9wEhMNb/8MshQ1UW2koIlObOuYVAJDG0LearfIPAWg2j7esAIZKJyGRIosF82+GmD/tJuMldqQSSVyref3h1kSv0OHVwqfnit/QNzncrbMMgPMWxpOi4NGLHCZ7Sn8EF7IhNW7G+5mhqDlhpuEVbvOJsVHqiRoFRRlZ/08rUPcudiihs8+yt2mQSs1CmqLXBMIOc09B2K9msiqBjHJNSXWFEJmdjKppySq6s8Mz38SQbZY3z43VIfX/ITucEtkWRkrFKCMRVNDjwCXk3BUAPu4DIWpi/ci5YXEq75xeZ+NJ1Krjm0H/5A2KeM6bT4MLzJBAOG6iHAUHY0u9JO3nC3qhvxJ3tXDjXUFt4O8fkAtKokUY2LWUx+Q9rJTZ/U7U6iEDYom9Iatuvbxpww==;HGdkLPVQuYd2QVxvlwgWeA=="
+secured: "dLgcp4aBsSG3m8XTuwOyiSK00Cxn0DCB/0OyrL2r+Zkv738OSnPbS9wSIhqLJSCHBRjl++kVHwwsc2mdoc1YIsm5pQda5Qt2z1EKEDbU9Yj+o+T8lgunyKvxtktElD8lVGeDzbqJM/slN5YqoiWvGpp656Q5w6SbnBovSQrdPIsIfSyBJWcoWc/blN7VqAjV6Bv+lEQAu7Ie7UH8NKmgvCa6tp9JoN1/kDi0I7tS2kgjGsqVAJFX1lvEeje9XKbnRBaeZ4SrLPyeB2sLIM7kYE6g+DEjkcXd/ZlevddgFSsDIpS8yx2mmh/PTptrdBvfjDrSjElKCg+WgtiTMsOJ0FYPCS0IB6IziePdtnmeWvk=;h1OsMIEohdR5+vbB/m7W6Q=="
 ---
 

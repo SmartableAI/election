@@ -30,7 +30,7 @@ related:
   - title: "Capitol riots: Boris Johnson condemns Donald Trump for sparking events"
     excerpt: "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions."
     publishedDateTime: 2021-01-07T18:12:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-55580806"
+    webUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
     ampWebUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806"
     type: article
@@ -60,6 +60,6 @@ related:
         height: 545
         isCached: true
 
-secured: "RMpPhPAQQYQA+KPM+HV7BF/cr0pHZMbwL8ipg6Li4UZbOhiny3lWspaEED3AYRZ0tZrhBkOBOnS0/CAIMDsnAsg6RNrWRkC2N2oFhUlD3OnouPGzq1euTheZi8Ija6CvuOn5QGdCR3yvFhNvsKGr+DzECDdVhwd9IN3JphQkmXIklFmfj2+opohWDnjoXbT1BJgXOjGaP53TsccDon9G7H9DlYrcBO1LQfsnfVZKtCil5KD8lrfrwFM1ZU82mtgGkSYLC/8mwp2m2t0IVym0J4+oeTn5ndNDTawSZNhFtuQV7vFIHPu7SgKobQz2N2HqZwTPgZyXiAEg3mxIQA4vL+DDwhS6gV4DJeUQwn78RL4=;W8EWGUa31MzlxMbgg32+qQ=="
+secured: "TZR2keCzgpO36kuwX0nhNI0fhBBCqomA7SD0xhTES5wAdocqtHMZc4gYlOy1NLIte9AtuAoiL7vMrdYaxrvcF710zUisow+RL4T93NxTQ0cQ5mXwE9M8YoaqAw/00pwuqzxMwAofkkTv/sAc4+oYeAwpzD2HGm5K67/1iKwaQA/xg5vrtNblLDnO8vnfZCsdWqr4tNO6IfHJ0IxYuzaJzBX1bDPo6b6NHlN8XbKGUDzznpLhc3ZS5PEyE0Hn8DUtsskB4zlKhsq8cJQr0jswR43M0FTKAVHkdeN+ltdkBPDknLX8bTWF4VOlNS8PwF/edKYAosH87gdvGXQFfGIZ3SBlkxlZKxhSye1+astHeWajoivCUxZW/DNDW9sKcD51VBMkwWZUMImNGY1InNk38OIofCJlV413/EAxL8XeQlhRN9XnQ+VelD8mtw/x8PSRo9rUB3MFCXIKjvnwUQJW5kqQDgAC0EWVkMUOzVOxsXW/J4yshLrkCmH5KrvxDbaJn3dvIVYU7ONIfL7rVBkvag==;eQvjtTTZN1WLBJwegkbSnQ=="
 ---
 

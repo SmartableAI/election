@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden has selected Judge Merrick Garland to serve as attorney general - Politico"
-    excerpt: "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision."
-    publishedDateTime: 2021-01-06T22:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S"
-        width: 765
-        height: 545
-        isCached: true
   - title: "Joe Biden to name judge Merrick Garland, blocked by GOP from High Court, as attorney general"
     excerpt: "President-elect Joe Biden has selected Merrick Garland, a federal appeals court judge who in 2016 was snubbed by Republicans for a seat on the Supreme Court, as his attorney general."
     publishedDateTime: 2021-01-06T18:04:00Z
@@ -60,6 +44,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/yxxYbGO2pXt6AZ4ct4quidm6E-A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5ETQCPA7SFUB4JCAQYH6ESB57I.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
+    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
+    publishedDateTime: 2021-01-06T13:26:00Z
+    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
+        width: 819
+        height: 461
         isCached: true
 
 secured: "ACrsjyJvQt305r3u9UP/JwZi6Z8WlYDwDuOqu32+Bp2CanIEIf9Ckdqpsmqx27TgYw98cILWnQrBNYkMfvWXvVHvBOTP15auMr7NqZEddoJ/KjVZx15T965x3jFz+Opdo+sSfJOAtxZsDh3K9M4UvDzJSy2i76B6y1neg21bT8U3wIe8jIcddF2Qap8fWFHh0DFTb5XR/DX8bedYDDe/h+tM1dapRZoG9CGcyKX9WsHUT9EW48kBGAzPmfcDmqeVcpVjxZRNUZW8AVaga8DfFRwC+oxynVaTCDWqtN/NV5I28ItuDJMRYbXVlKSxzNFaKdrq+JvLQEgSR7mBLBh3MqeMEFasfqhDinG6hhxKSj2Qgm6Gjz0O7ZwpXI+36XdDna7R5v2vKoAbNuwFInEsRE6NCnTmk872Ia5MewuY83THDukhEXh+Rkql97RPcYLahjX0voYfci+VMrCahz3zFSUYtoYFt4DLT9PHj33VlLiqnPconApj3qlOgfasicqsSDvp9Z2JfgeR2kI1laB6sw==;O6WmCE+LJ2luEhlym+oD+w=="

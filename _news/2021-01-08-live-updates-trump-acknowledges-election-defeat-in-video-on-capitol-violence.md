@@ -1103,22 +1103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
-    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-    publishedDateTime: 2021-01-07T21:28:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUKKBN29C2RE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C2RE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C2RE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 138
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DF"
-        width: 781
-        height: 545
-        isCached: true
   - title: "Trump-Biden transition live updates: House to vote on $2,000 stimulus checks"
     excerpt: "House Speaker Nancy Pelosi on Monday is bringing a vote on a stand-alone bill to increase economic impact payments to $2,000 to the House floor, and while it’s expected to pass the House, it’s unclear whether Senate Majority Leader Mitch McConnell will take up the measure in the Senate."
     publishedDateTime: 2020-12-28T15:58:00Z
@@ -2700,6 +2684,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
+    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
+    publishedDateTime: 2021-01-08T01:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29C2R6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547001987&r=LYNXMPEH061DF&w=800"
+        width: 800
+        height: 557
+        isCached: true
   - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
     excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."
     publishedDateTime: 2020-12-30T19:44:00Z
@@ -2885,6 +2883,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 110
+  - title: "Vice President Pence opposes using 25th amendment to remove Trump: Business Insider, NY Times"
+    excerpt: "Vice President Mike Pence opposes using the 25th amendment to remove President Donald Trump from power, according to reports from Business Insider and the New York Times."
+    publishedDateTime: 2021-01-08T04:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence-remove/vice-president-pence-opposes-using-25th-amendment-to-remove-trump-business-insider-ny-times-idUSKBN29C36W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 109
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547026918&r=LYNXMPEH061JY&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
     excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
     publishedDateTime: 2020-12-31T18:51:00Z
@@ -3941,6 +3953,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "PTYdJUFmubrSnMVxYzdlNYwhvbiUo+afCK9hlmUsgGjiIF/6riLqogoDrX3zwnGW96UmxPLhUkEjxN9ewzTFeB9uWtgjMx9RaD0SZBnaEHZpZBAhWWRvGfk/ShvxC5V66UxRl9w6sXQFSN46RJpOaq1PkJtRZTf3wmjAgIstGPCmgELL6yuTvFH5zmqgfR/zqkWU6AZP4HunAXflcfOzPfQhY192rVpvtd/ypMhg1W7C3xNXd5G8eOAeNDnWHZBWTZ6Uj2VlcyV+maJfWVCXm+X6aZqzleJjNZ/pq9WmgvJ1E7u+7A1SJLvqSDIot6sS/rag5gd7DqHiJU0VxjndhumxMf4s1+oUU9z+CORijTo=;lcgj1Tldt20qrzB91UYdZw=="
+secured: "ogveBodKrlZh/wCZNAtCJD16wTc08e0kFVn+BckxU5hCnCzz0BlrfT6XD2/ub1Mpf7wEMPfQWAbWWGLJHq1TqCsyUGYqLuFwA654fiMmt8T3+m2LOhc+k6m+e/xJZh7ZAXLH50RjANCLcLVlLBzWIKzFUYPk6z4kN+v1qKMjuOemDOxSVdiG9357l3u3uCPgaGWIKg+YE1b0iq9oGpGjGlQpUeAOrXSp2v4Ud2g3B1LakNIz+YZT5U/+mMeQCXtMEQshSF0teYlBvrecu+G11pY8+dl7ewyZcdY6TY2nLqYPjeJDm4Zs0FRMHIgj9YAF//5nZO7RPsryayEqgPJoatBGkNj7m3gYsU6eePp7N667vN7BNhAGV7ACvP5Bd3esyVVMAwstw3GJBN4hhqjUlzXLBhcJYF7CzZT80/o1jkv8ijPwJmcO9lSTf6YX5Ik6buftvYkOgl0UCDX0tkHb3qSZqrbzGaGXEJblIhqy+TyLx1m1c1jAnmZd2GufYsZ149gbji8LjsbyBpZocTmaJA==;tOaHx9fTehEhq7NgOoqCpQ=="
 ---
 

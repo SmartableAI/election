@@ -265,6 +265,22 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Michelle Obama Calls Donald Trump 'Infantile And Unpatriotic President' After Capitol Protest"
+    excerpt: "Michelle Obama released a statement after the Capitol protest and said the incident was a fulfillment of the wishes of an infantile and unpatriotic president."
+    publishedDateTime: 2021-01-08T01:12:00Z
+    webUrl: "https://www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894"
+    ampWebUrl: "https://www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/18/former-first-lady-michelle-obama-said-donald-trump.jpg"
+        width: 1024
+        height: 629
+        isCached: true
   - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
     excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-05T04:15:00Z
@@ -293,6 +309,6 @@ related:
         height: 336
         isCached: true
 
-secured: "BOtZWPKubaMoB4kzsO3fYUoC9s0gvR9EVyiLCUiaeAXwxr/eVx8NCi174C/NEh5/W1MWW/FKla+JfUVWXBhys82LgrZb+o/b9wqwJl+CDwQQUH8gqAMa/cEJM0qI15s3zRGq7Wp0p0VzUi+8sZ2MEMOe7jUvYiwHHweF7CBjl66qs110kB3xako28RMAm2h5TrPdjP6cytqwEBtuEaTlIS8TeyoKCvnbXGQg4PGtmsRy3CLAbEQu5kDPvTqFnbx9HCdYXnClo5EJWFh7ODiRM9ACPV5TfxymM484khfdsJ9y/HsftuUBkXxo1UCHOj9NY/1Y6arxOinekA7/EzCfYKmOrN6DoMycazWkYgNrHes=;YRrBUpAVQ6RhTiOpfnfzBg=="
+secured: "a+2ROU7vLFEjoqAPVhCw20r6siLZtXzM875TNMl328x5ZgwGLtR9oOTPfOQnKEB1aYPkBaHv0nvZsIewwBA2DWbSNXl6ydFhk+td6J1LSw7JzqLb1l49C95t6FZUGviDD8qTKlC674DDo/vwfS/JJwtKMeDvBWe8o+7xKjVS/GU6lHEPF22Zl8NXxJW9N27C2Om1QZU25L6HIfzAyIZmmf/hcRr4PFgcuoa6bSSfN/Lt/8vBlniApeeSbbX+EFG5ND4cjqQWlbN/04BXmJKJVfQ6qHVgmQqrTlK9uqT+aerp2cwwExs8fRVMd1uRhO21krzS737ZCHcLYoJA1TZY9AsnSO9h+0tapYY4Fkylewqv5sYSXK/dw1GDsl7Q7j5uc2c+oe+zeCAOi90OtAo0M1HIJMEZFzQJN2060hJJNIdsQq581I/2L69xADdnBVBRN+I6uggm8xJOWI3fPTQo8i51j+44KGjA4w0UCHrdspKdI7sHEL9WblKzhyQizjkVPJtTClLYW+lgkLbi8zeT9g==;j40U9aFCq8FYRl7jUVzisQ=="
 ---
 

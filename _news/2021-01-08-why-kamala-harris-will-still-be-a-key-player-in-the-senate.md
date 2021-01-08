@@ -61,17 +61,17 @@ related:
         isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
-    publishedDateTime: 2021-01-07T21:45:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
+    publishedDateTime: 2021-01-08T03:45:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 75
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476-2.jpg?w=1024&h=781"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
         width: 1024
         height: 781
         isCached: true
@@ -122,6 +122,6 @@ related:
         height: 480
         isCached: true
 
-secured: "8Xpv4RJuHF7y/qpUuYVcSnMkD3AE5hYKJbOtoBwvUS0C2TKAoPe6TKno+zqc2YSKVIZQMEoyC9zYCPhEDTE4dqvWQCrtD3RBY2+OwIQ60/f7MNK6aKTvVIWSci8Orlxo/bUhu/Tg9Io37Msw5oKEIVK/mcABUiUtzTH+I2ATb2xXNIqSm1wn2a/yjvzuq9Icc4sKojSz8WJ8LIGxjo3Ixy9SoGJnn2KC0tLa58+yzvpsX9Cf63Hd1hYwOnZtYXjWN6pjT5NwZuBXZUDAfLaWiQX2Ds1jwOTyPndqTzMaoDJY6u5+GZGwCpngOb/bJeoiW7s0K6twgbvqPE+lcqKkiAM33TX2pXhHWvXtsFU1K7E=;iOcZTUQLr5vbiMPfWg7pPQ=="
+secured: "Uyr+QSCmTHd+/vhspljUE6K+SpHnGEOOisb0ZqqcQdFU68sXTuAmpIQBB3KP0IkaGQZcqnNhZcJfI79Umt9yuK+MxUstDhZox9Pl2qQ55srBAlIKNlp/iZlDv7Aqq/N7yoe9+Ukv/Z0YGjHcssyncegiXsd5iuDy84MlyNUf4ENaGr+Dh3Q6aZc1OqwTjJrq7GSu/u5N0/wKcsIYwPMvk8se/9eecIhlpUCO2arTBkd8MirZ6ax9uaYz3UIwcvVhwsKn8dz5k5AcWGgWVPZYE8Nn7CHvDLU65Sqw6w0EhChEwzbj1p2+XJjGfdqEzaL6a+t6RDs1HYAOYbNm2UYKBXp/7qaFQ4xWGFiiBdvcqhaBjTCMMYAjGr3eU/f3TU9DyHMmtsGpRqWDpF+JJh66+ok8ZOVENLGLZyR9f8y8ddkMpW3ZEwt765veYwBczmHn45odURAR3Caj6GWbEnMQOIcGm92+Exe8ujq8Ulb1vQWp2iICseb2mUeS+tGq+mMMpp+jvT45Ex8TmvSifAgeag==;EoHveXr3I7qWwiGLJmxTLQ=="
 ---
 

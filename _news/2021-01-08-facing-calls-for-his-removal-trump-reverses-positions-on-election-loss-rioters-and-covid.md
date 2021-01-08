@@ -896,6 +896,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Capitol Police officer on life support after pro-Trump riot, union official says"
+    excerpt: "A Capitol Police officer is on life support Thursday night after a mob of President Donald Trump's supporters stormed the US Capitol a day before, according to Capitol Police union chair Gus Papathanasiou.\n    \n"
+    publishedDateTime: 2021-01-08T03:28:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qDC7yCGLQ9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/capitol-police-officer-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/capitol-police-officer-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106162409-01-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pro-Trump mob storms US Capitol as armed standoff takes place outside House chamber"
     excerpt: "The US Capitol is on lockdown amid a tense situation with demonstrators outside the building, according to Capitol police officers, as President Donald Trump's supporters attempt to break into the building while lawmakers count the Electoral College votes certifying President-elect Joe Biden's win.\n"
     publishedDateTime: 2021-01-06T20:38:38Z
@@ -1229,6 +1245,38 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/05/us/politics/05dc-explainer/05dc-explainer-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Protesters in New York Urge Ouster of Trump and Pence"
+    excerpt: "We have to be out and not hope that this is going to resolve itself because yesterday actually showed where that leads,’ an organizer said."
+    publishedDateTime: 2021-01-08T03:20:00Z
+    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/new-york-protests-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/new-york-protests-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/new-york-protests-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/07/us/politics/07dc-protests-blog-nyc-protests5/07dc-protests-blog-nyc-protests5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump, facing removal threats, concedes election"
+    excerpt: "In a video statement, the president called for unity after Wednesday’s violence at the Capitol, but some say it came too late."
+    publishedDateTime: 2021-01-08T03:11:00Z
+    webUrl: "https://www.politico.com/news/2021/01/07/trump-condemns-capitol-riot-456207"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/07/trump-condemns-capitol-riot-456207"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/07/trump-condemns-capitol-riot-456207"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/6b/ea/4b828fd9467a821bad7553c6abfa/gettyimages-1294907289-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
     excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
@@ -1785,6 +1833,6 @@ related:
         height: 773
         isCached: true
 
-secured: "AGCsbaK09/4RnPzwBiGriafNQCA7kIxQhzGGqFL9rUv8JzC/JMR9yyfnfvuh3UD3yClwJZzngBBTuaAjJuKeaqO5hE5LxDm37x/8CnM797JSaAFUJ88r7EmLF0DWGPuqbQOiGO78m6HaUfuF509nrHr8dUk3ZD9jyM1US3DV1Ywc4z3vdzoqAg6qd78qeKkWl8N4wDMKoY6U51oLiB3OA5Z0H/Qb+GLt9gTMklRcBhHqdsYhzdBTHtc+NmdhEbJukOyACAG91njoPuuwS0Rx4LAJi4MidESr3vCeA5MVd6BYe2H6d/0VdHIohvb+4Z0KxaYZn4IUpyuGcnBkSHusZ5dob3wlwZKLBIsYP6Wo6hU=;xhGNDgT1MA347NX5jFj5Vg=="
+secured: "oR8ricfzIQHTNaNF+2Qam6PjHhQu17Fv5o7taJ3BoFySM7AoLwDw7g0bEfCWZ/7qfhYYkkeRupd68WKdkftcew0aB09j7YXbu3o93uXxTTQNEEGKK5f7ULD0Z38ZNzTcvbo5xLAvO0JPNvyzocLbc3p4rm9Ty20jEtIwJ3rPWe4EzdBtnTN44oOyh0AFcPN9shWnOmsy4RzqiEaXDeJT4I6UzNnu5G1DR+DpUir5HVistUTjeQPqtWYmDxMR3V2woovWV0NdVQ24KBTyXQaDlelMZG+5+RykoTfa6cUc4V5DA7PonBL+7qhJu3CGwfqHqDEl3BSSevxITMyWCHAZI6owMWsp6uGInsg2uuN2x7GWbipSWG+IAIiSZMrzSKPtkEQyAjaSy1OYOg9s9xp6WujPVUeZc8Iaw5w/4QjfdWifv+W/8qDkoyHLqm9lREtH4fZZjgU6DIlmrSNb77+2lDUp3Clzse6AO2vN4g3Z8VlntHCRk/aHgs8e0cMBZmNGxupwqdyWxrmSdUGRx5+bIA==;kgLb/C3jfsK0NiRi53vb+A=="
 ---
 

@@ -2,13 +2,11 @@
 category: news
 title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
 excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-publishedDateTime: 2021-01-07T21:28:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUKKBN29C2RE"
-webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUKKBN29C2RE"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C2RE"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C2RE"
+publishedDateTime: 2021-01-08T01:37:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29C2R6"
+webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29C2R6"
 type: article
-quality: 138
+quality: 118
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DF"
-    width: 781
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547001987&r=LYNXMPEH061DF&w=800"
+    width: 800
+    height: 557
     isCached: true
 
 related:
@@ -2885,6 +2883,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 110
+  - title: "Vice President Pence opposes using 25th amendment to remove Trump: Business Insider, NY Times"
+    excerpt: "Vice President Mike Pence opposes using the 25th amendment to remove President Donald Trump from power, according to reports from Business Insider and the New York Times."
+    publishedDateTime: 2021-01-08T04:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence-remove/vice-president-pence-opposes-using-25th-amendment-to-remove-trump-business-insider-ny-times-idUSKBN29C36W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 109
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547026918&r=LYNXMPEH061JY&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
     excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
     publishedDateTime: 2020-12-31T18:51:00Z
@@ -3941,6 +3953,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "W4PfL0J1woWTGLocGxtBjpP+8x9Jv5Vv+siThwTuJVkbZ99mH/pihl2MUQ/KyxjBCKWp+NKs7ZwdiqytyevG9fSLctqHTgmoR8Ibp7Al8VU/8pDHwS+2vQP2MeceIS9Yviv+17iKC8sv3f9dMEAIIBVfZzPGBryOCA1cO7YjtTOrnuLMZJyT6ya1rIZtmAxOeNIKQdTMB4N7jbJuy4Mh76fJho5xX7vWLMulW5w7leLe3wN3wcXIftfEdTKPurF8QjKqZY9RauRa3cxdSiA9wJICkD6CeNGLk7X3uiTvP9iLUWQU0wnKFEJOfpluUnPu5Am7jC10SFvhjSL0Vfi6kkN4DNJmmVD2mSyPlS/qV9w=;9XV/rmYzybppFwLOplNHYQ=="
+secured: "GxRriu9vrmoAeXjJrNM4FaeNNo7d1cEJOxvxbs2E274sPFBTe6k6hosJB64gpTdB+JJYXVTquH95kxmgAhk7EF4TD+9MXgT487HfQuHE0YJFf+qk5dFIZWv5z/3wTRbNftyTbnR9YAANwkiEQt3Lr7N3D1KNM0M1aJcZSpB0gcJ6ezFrDUPUxXlaz5P0KAekmAjlg8z90aCb+artaCwmIVLyh2aK509pVpNrji10zsAcuVBcnaRnPQAEe+S5WsaQqEDKjIkQa4ObQbUGdCAD+9/wxmF6NCXy2ra6k7/2HuuZcHk/h3QkM3yFkc+C7/ntbUihHHumoXyIOGxxpnRxXcWT03Q655wJOw+mV/Q+vs8=;eqwjMEgLC7szYPchZJAcRw=="
 ---
 

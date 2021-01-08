@@ -261,6 +261,22 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Michelle Obama Calls Donald Trump 'Infantile And Unpatriotic President' After Capitol Protest"
+    excerpt: "Michelle Obama released a statement after the Capitol protest and said the incident was a fulfillment of the wishes of an infantile and unpatriotic president."
+    publishedDateTime: 2021-01-08T01:12:00Z
+    webUrl: "https://www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894"
+    ampWebUrl: "https://www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/18/former-first-lady-michelle-obama-said-donald-trump.jpg"
+        width: 1024
+        height: 629
+        isCached: true
   - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
     excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-05T04:15:00Z

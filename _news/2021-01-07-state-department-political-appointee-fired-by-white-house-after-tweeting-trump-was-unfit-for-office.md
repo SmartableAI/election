@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Dept. Open to Pursuing Charges Against Trump in Inciting Riot"
+    excerpt: "The top federal prosecutor in Washington said investigators were examining anyone involved, “not only the people who went into” the Capitol."
+    publishedDateTime: 2021-01-08T01:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/07/lens/07dc-investigate-trump/07dc-investigate-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "jwb5pLne+0azmhH2j39t5hhlbftJgbeAMUqr/FyRjWBYGnDVInfO4jRpqe6W0yAIHeYgAxvoXn/yOh7nbcYDR7fK8k3I/o6jPtCoLGndPTnoD4v09wMhb+YMhYvaKoiocTraCaXZPGjTG3hWlYNZe3+Q4x/Odv8mYRWDhb83Lx+ds9gzy9ZR8VMarx4VgBEtIAqUTMF9d6ukgIvDUJNtgGmCiBp1a+N0Zn4P1Pfd4hnMShUG2LArooE5Az9czYOgBPw4NvdmjRiopRHcmV4nQE/M9CvZlU6TniYMxbWvI4Ub+d/Y166R7bal/JWvat3wUselMn2H8wINb8Xw0IAgyCoyw7thSYEn8i5nHIjAUiI=;VvqYeCLz8Y2aG4E3PdqvUg=="
 ---

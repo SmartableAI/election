@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still
 cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gov. Mike DeWine distances himself from Ohio Arts Council appointee who posted pro-Trump rant that called VP-elect Kamala Harris a ‘whore’"
+    excerpt: "Gov. Mike DeWine on Thursday distanced himself from one of his appointees, Susan Allan Block, after Block posted incendiary comments on social media supporting President Donald Trump’s false narrative about election fraud and calling Vice President-elect Kamala Harris a “whore."
+    publishedDateTime: 2021-01-08T03:32:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PYHAGOCZFFBC3ONEEVBATNEZXM.jfif"
+        width: 423
+        height: 300
+        isCached: true
   - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
     excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
     publishedDateTime: 2021-01-06T20:30:00Z

@@ -34,7 +34,7 @@ related:
   - title: "Capitol riots: Boris Johnson condemns Donald Trump for sparking events"
     excerpt: "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions."
     publishedDateTime: 2021-01-07T18:12:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-55580806"
+    webUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
     ampWebUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806"
     type: article
