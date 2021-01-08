@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Merrick Garland pick, Biden signals stark contrast with Trump on Justice Department"
+    excerpt: "President Donald Trump declared nearly a year ago, \"I am actually, I guess, the chief law enforcement officer,\" as he tried to assert control over Department of Justice decisions.\n    \n"
+    publishedDateTime: 2021-01-08T12:04:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wx7gj9P4Zdo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107142027-03-biden-announcement-0107-garland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol "
     excerpt: "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n"
     publishedDateTime: 2021-01-06T22:50:29Z
@@ -268,6 +284,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/369026f3-d559-4a45-bebc-16ae13994954/efc65f2e-eddc-4e3a-8537-5ac6a4eaa196/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "BIDEN taps WALSH for LABOR — MAYORAL RACE WIDE OPEN — Mass. man ARRESTED in CAPITOL CHAOS"
+    excerpt: "It's the equivalent of an earthquake in Boston politics. Boston Mayor Marty Walsh is headed to Washington as President-elect Joe Biden's nominee for secretary of Labor. And for more than a dozen ambitious pols in the city,"
+    publishedDateTime: 2021-01-08T12:46:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/08/biden-taps-walsh-for-labor-post-race-for-mayor-is-wide-open-mass-man-arrested-in-capitol-chaos-491329"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 106
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "mJKbTrjaluXeRMxYJX8xUf9LmgQxuVFPWfvdpOHZ5MAxjFM3n4QGH5jrTPDvupLdvOL7Yq4/5arR0fVgaYQhJEQsJIGXSG7C0KEXz8MDxedMSv0yZA2eT+vRSZVG3Ap5/RgDie8eaRcn/JnIcVXfvily2tuJAsRHHFq/Ktb3c6cf8rFvBxKS6N1G9WDk9zE68nNLdHvwVg8yGAomLqYKrZMBjurEY2VNtZh2NHi2+KN4lsEA/1BGkyBFQUaonjHeri0ZAfq9VrMOkwC00X9AD0y5Qie0cwWrnM3wKR0Rd1mJWKCMHGjJ+D6qaSNkXQmRYH6f9lIz35MZ1bWumipfzDOEbNhmnUJp/3FUuBOsUZA=;nHoghL/6War/IcLqHumFjQ=="

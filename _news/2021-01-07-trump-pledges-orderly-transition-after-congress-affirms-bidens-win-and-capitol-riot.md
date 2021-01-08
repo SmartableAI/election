@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-electoral-college-insurrection/index.html"
 type: article
 quality: 183
-heat: 483
+heat: 523
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "With Merrick Garland pick, Biden signals stark contrast with Trump on Justice Department"
+    excerpt: "President Donald Trump declared nearly a year ago, \"I am actually, I guess, the chief law enforcement officer,\" as he tried to assert control over Department of Justice decisions.\n    \n"
+    publishedDateTime: 2021-01-08T12:04:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wx7gj9P4Zdo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107142027-03-biden-announcement-0107-garland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol "
     excerpt: "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n"
     publishedDateTime: 2021-01-06T22:50:29Z
@@ -268,6 +284,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/369026f3-d559-4a45-bebc-16ae13994954/efc65f2e-eddc-4e3a-8537-5ac6a4eaa196/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "BIDEN taps WALSH for LABOR — MAYORAL RACE WIDE OPEN — Mass. man ARRESTED in CAPITOL CHAOS"
+    excerpt: "It's the equivalent of an earthquake in Boston politics. Boston Mayor Marty Walsh is headed to Washington as President-elect Joe Biden's nominee for secretary of Labor. And for more than a dozen ambitious pols in the city,"
+    publishedDateTime: 2021-01-08T12:46:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/08/biden-taps-walsh-for-labor-post-race-for-mayor-is-wide-open-mass-man-arrested-in-capitol-chaos-491329"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 106
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "XzIflV0TEQst/3xDevX6dWLx9GwnVmpsdbNVP7Qu+jyKjhUlXTM498fRjqdqfHIeS01TM8sHcLqwVyGqR/4c6a/lxLnJNiJEbVXaKMLV8c83dTSfne+uyqkTwzsaMCFv/RqqqVV7tJ2nWcOP6CgpskdtAeEyzJwTcIK5AvopdWcwpmRYMVFNNp7EvyCkdriDCKUIPKSr7Pi7VXwrMz4t1pKivXfXpgnPSY0uUk+8nTapV7utOGou00C7RjrnT7dUrcFSGq6V1+0orhe+GTLpet1Rq7pcPHelY2jUZzfdMxT9fbqQuSiuo6utTPt1lDpx49v2R1TIpoz7VfR7kj3EQpQX5JV0eIIln4s/3Jz8j/w=;R914BqV8EreXJ1RAhbM7VQ=="

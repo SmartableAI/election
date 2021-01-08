@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-ina
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-inauguration/index.html"
 type: article
 quality: 195
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -383,6 +383,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06transition-briefing-biden-speech/06transition-briefing-biden-speech-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden could send a message to Black Americans with this reparations bill"
+    excerpt: "Experts say the H.R. 40 reparations bill could be an early test for President-elect Joe Biden and Vice President-elect Kamala Harris."
+    publishedDateTime: 2021-01-08T11:03:00Z
+    webUrl: "https://www.nbcnews.com/news/nbcblk/joe-biden-could-send-message-black-americans-reparations-bill-n1252916"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252916"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252916"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_46/3427070/201109-joe-biden-ew-139p_be07a2029461a408bea883f0462b0907.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Why Biden is quiet about the Electoral College challenge"
     excerpt: "When Senate Republicans spent weeks refusing to acknowledge JOE BIDEN’s victory, Biden’s response was: chill out and give it time. Biden is following the same playbook now as dozens of congressional Republicans plan to challenge his Electoral College ..."

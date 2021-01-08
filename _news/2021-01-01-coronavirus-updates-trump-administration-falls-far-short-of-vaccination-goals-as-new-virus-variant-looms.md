@@ -991,6 +991,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump acknowledges election defeat in video on Capitol violence"
+    excerpt: "The video comes after lawmakers called for invoking the 25th amendment​ and removing him from office, following the assault Wednesday​."
+    publishedDateTime: 2021-01-08T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-acknowledges-election-defeat-capitol-violence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-acknowledges-election-defeat-capitol-violence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-acknowledges-election-defeat-capitol-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/4a55273d-8260-4e58-80d4-18c011386c23/thumbnail/1200x630/09e6db90e966b9c7fc9e40a1b095f36c/gettyimages-1294908903.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -2715,6 +2731,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
         width: 800
         height: 557
+        isCached: true
+  - title: "Trump U-turns to condemn Capitol violence as calls for removal grow – live updates"
+    excerpt: "Cabinet resignations as low-key video address accepts there will be a ‘orderly’ transition"
+    publishedDateTime: 2021-01-08T09:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/340c13c38f319c3454f1b5e41e255336715bf0bd/1388_0_2112_1268/master/2112.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3e2693067a08a6669316fee9b778076"
+        width: 600
+        height: 360
         isCached: true
   - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
     excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."

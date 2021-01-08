@@ -769,6 +769,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's desperate attempt to save his imploding presidency"
+    excerpt: "It was too little, too late, and may fail to save a presidency imploding at staggering speed under the weight of Donald Trump's tragic flaws.\n    \n"
+    publishedDateTime: 2021-01-08T12:52:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C67oxlnPdTw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107233827-diario-eeuu-renuncia-trump-conclusiones-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z
@@ -1834,6 +1850,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/ee/84/849b3960427f81bd1d3a808ecc96/210107-capitol-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "A fitting end to the Trump presidency"
+    excerpt: "We all knew President DONALD TRUMP’s term would end badly. It had to. There were just too many lies. Too many conspiracy theories. Too many times where journalists searched their syllabuses for new ways to say “unprecedented” and where Americans across the country sat aghast learning just how low we could go in our own eyes and in the eyes of the world."
+    publishedDateTime: 2021-01-08T11:35:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/01/08/a-fitting-end-to-the-trump-presidency-491332"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3c/25/4d6cfdf2493a93ab95effc903bf9/210108-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

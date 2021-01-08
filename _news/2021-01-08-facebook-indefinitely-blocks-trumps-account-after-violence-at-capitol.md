@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Pelosi demands Trump's removal from office in wake of Capitol attack"
     excerpt: "Pelosi said she is \"calling on the vice president to remove this president by immediately invoking the 25th Amendment.\""
-    publishedDateTime: 2021-01-07T20:32:00Z
-    webUrl: "https://www.cbsnews.com/news/nancy-pelosi-trump-removal-office-capitol-attack/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/nancy-pelosi-trump-removal-office-capitol-attack/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nancy-pelosi-trump-removal-office-capitol-attack/"
+    publishedDateTime: 2021-01-08T12:15:00Z
+    webUrl: "https://www.cbsnews.com/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
     type: article
     provider:
       name: CBS News

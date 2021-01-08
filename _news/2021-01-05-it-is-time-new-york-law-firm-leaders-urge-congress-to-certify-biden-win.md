@@ -41,6 +41,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Capitol siege raises security concerns over Biden inauguration"
+    excerpt: "President-elect Joe Biden’s inauguration was already going to be scaled back, but the Capitol siege raises further security concerns."
+    publishedDateTime: 2021-01-08T12:08:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-08/dc-riot-raises-security-concerns-biden-inauguration"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-08/dc-riot-raises-security-concerns-biden-inauguration?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-08/dc-riot-raises-security-concerns-biden-inauguration?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ca42007/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6a%2F3f%2Fa1eede6944c8bb8d6946b1b5ab19%2Fla-photos-1staff-682883-na-pol-certification-protest-kkn-0217.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
     publishedDateTime: 2021-01-02T21:39:00Z
