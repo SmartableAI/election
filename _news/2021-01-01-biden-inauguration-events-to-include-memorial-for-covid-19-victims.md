@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -312,6 +312,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/c38/81c/cec3f6c098cc67c9c6789546d565a2f352-GettyImages-1294499682.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Coloradans in Congress voted on certifying Joe Biden’s victory"
+    excerpt: "With two exceptions, Coloradans in Congress voted Wednesday night and into the overnight hours Thursday to certify the 2020 presidential election."
+    publishedDateTime: 2021-01-07T21:42:00Z
+    webUrl: "https://www.denverpost.com/2021/01/07/colorado-congress-us-capitol-election-2020/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/07/colorado-congress-us-capitol-election-2020/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/07/colorado-congress-us-capitol-election-2020/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/GettyImages-1230452070.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Congress to vote today on confirming Joe Biden’s Electoral College victory"
     excerpt: "The typically routine proceeding Wednesday will be anything but, a political confrontation unseen since the aftermath of the Civil War as Donald Trump mounts a desperate effort stay in office."

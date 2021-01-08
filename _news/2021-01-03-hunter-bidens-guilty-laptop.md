@@ -42,6 +42,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Chuck Schumer claims he and Pelosi were denied request to speak with Pence about 25th Amendment"
+    excerpt: "Senate Minority Leader Chuck Schumer, D-N.Y., said on Thursday that he and House Speaker Nancy Pelosi, D-Calif., tried but were unsuccessful in reaching Vice President Pence to discuss exercising the Constitutional provision for removing the president from office."
+    publishedDateTime: 2021-01-07T23:50:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iEey8wvM8kw/schumer-pelosi-call-pence"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-pelosi-call-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pelosi-call-pence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676700e9-2160-4bb3-a8ea-16fc47cd468a/849f19f1-aae0-4ebc-bd24-78bdb1acd69c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Joe Biden Should Handle White House Infighting"
     excerpt: "History suggests that the president-elect should insist on strong decision-making processes and deal firmly with staff misbehavior."
     publishedDateTime: 2021-01-02T10:01:00Z
@@ -85,6 +101,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/53/531068_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "With Senate Control, Biden's Presidency Stands a Chance"
+    excerpt: "Joe Biden will begin his presidency with a Democratic majority in both chambers of Congress and a freer hand to install his government and pursue—if not necessarily enact—an expansive legislative agenda."
+    publishedDateTime: 2021-01-07T21:30:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/07/with_senate_control_bidens_presidency_stands_a_chance_532865.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531404_5_.jpg"
         width: 750
         height: 500
         isCached: true

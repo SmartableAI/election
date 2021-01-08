@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's ex-White House chief of staff John Kelly supports using 25th Amendment to remove the President"
+    excerpt: "Former White House chief of staff John Kelly said Thursday that if he were a member of President Donald Trump's Cabinet he would support using the 25th Amendment to the Constitution to remove the President from office following a deadly riot at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-07T22:22:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jIpl28U4fWE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/john-kelly-trump-25th-amendment-capitol-riot-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/john-kelly-trump-25th-amendment-capitol-riot-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "btTQhJxoWYtUItfkjIdK40/Yj2+qT1dcDNDeiMCQJFRfeVTBfQlJx2HDDOD7R4C6yOYZSKxojIE8kw+7JalOP0BeVo+JzyDRSudJbg5OAH2/vGrSRU6YOm+s1mt05U2teR54oFLO3j5xPCvvMXmV2HtBvrkD+P8yEePLXkVYBgsM+AVo9DVAC+vYjLDlnP553kJeA4O6p2Tp8EMRqUOTl2yKmjis2Vc3HzpslQkfzQrKdYwf9aZLU5iYfPYT7UtWyZ7o8kyY5WKG4OWMDa8icI5Ik8uezo8DxFw5MGixIqXLy3DQqrrn/FNfp4d7/AETuz6VUNCwLaO1szY8nuqF7//glv6H5Kmrod5X3aHKEzY=;GyXkHnBJdzHvmvMqh4Rt2A=="
 ---

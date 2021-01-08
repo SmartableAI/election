@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
 type: article
 quality: 101
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Alveda King slams Kamala Harris for plagiarizing her uncle, Martin Luther King Jr."
+    excerpt: "The niece of late civil rights leader Dr. Martin Luther King, Jr. slammed Vice President-elect Kamala Harris for invoking the name of her late uncle, arguing that her position on abortion proves that the two have diametrically opposed worldviews."
+    publishedDateTime: 2021-01-07T21:45:00Z
+    webUrl: "https://www.christianpost.com/news/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    ampWebUrl: "https://www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 69
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/13/97/139770_w_450_301.jpg"
+        width: 450
+        height: 301
         isCached: true
   - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
     excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."

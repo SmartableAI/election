@@ -2,26 +2,30 @@
 category: news
 title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
 excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
-publishedDateTime: 2021-01-07T20:17:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
+publishedDateTime: 2021-01-07T22:09:00Z
+originalUrl: "https://www.chicagotribune.com/election-2020/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html"
+webUrl: "https://www.chicagotribune.com/election-2020/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html"
+ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
 type: article
-quality: 67
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/19Qh57wx2b8uSTs9j-qlcwB8rpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVKWVGAJ4XFDUTXSWAOPK4Z6EQ.aspx"
+  - url: "https://www.chicagotribune.com/resizer/19Qh57wx2b8uSTs9j-qlcwB8rpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVKWVGAJ4XFDUTXSWAOPK4Z6EQ.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -161,6 +165,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8Joycx0o/N6/9nZK0LwjL0GhgVojQJz3ViPTgl9d1cnVUfwEHMeXX8j215dEUdoTiNuLn7aQ4VSwShl4xq75BPGTMug2FB2evXdQ63AsryBz1Y9LcN3e1RZCHI1GO8+zoRx0uLJuOLECqUdcphS0INLAi8Wv5WzjHBSDoZ0s0AcgPJdFlEPUwB/Dw6ygXPM42OYSIfUDrHkirGLSZiIJUNl1JqRUvcIyfLxz4uXDypBCWX7FTYl3T27mMXNY3zkS/EK/l1oPtgptehI6rC5nsq2XR3f0NQdmo2r0SmsOEEV8ZxTXKFsoV4DQJ98rw0e6Yo1xTOReOTTeXE9jRqfW2jvnAQHrICG0qSQAJs3lElY=;XrsfTG4EEXXN6vmRvFp6Jg=="
+secured: "ach3x5AJPdaqM1iJxpKAqTACZTliakagUS8Z/YbDL4rfOtQT/7v3cPvrF1nkdGJdINhsYXiQUU1GFFzAuaQfEeixC446GDPaR4LDRb3dQF+vPjwqYVbtW1aAJ8ZnvTsSupxUDD8aO8kAVtGeStJ4h+wu+wZP8EdzbtPTe6iMMDVQasR6rYffseOKI4Ii+SLjXxJ9Pi1D0aRjEGDCXMuSHq+Gbpz9avJGSdr2gygI8cdGt69CaGIPZWTvV3SeHb1PlOjaAKeQtBsANoF/FrQBJg2wQI7WVerXVKZf48vVyKlexV5nnz6a+olhYoesQCGuq8RIsW8qFrPNZwvQJdcbTWSXerjh4aAutH3wfHw5RYE=;WWfgei0MBnGLhUve9zgKdA=="
 ---
 

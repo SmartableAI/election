@@ -47,6 +47,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Trump awards Medals of Freedom to three golfers on morning after riot at Capitol"
+    excerpt: "Annika Sorenstam, Gary Player and the late Babe Zaharias were awarded Presidential Medals of Freedom Thursday, continuing the president's penchant for awarding athletes."
+    publishedDateTime: 2021-01-08T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXZKUKSMVII6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "House and Senate abruptly go into recess after Trump-supporting rioters storm the Capitol building"
     excerpt: "Violence erupted as Trump supporters descended on the nation's capital to protest the certification of Joe Biden's election victory."
     publishedDateTime: 2021-01-07T06:35:00Z

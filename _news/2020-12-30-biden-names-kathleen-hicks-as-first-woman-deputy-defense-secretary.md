@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
 type: article
 quality: 175
-heat: 215
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,243 @@ images:
     isCached: true
 
 related:
-  - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
-    excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-30T20:51:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/89ijxeeOE5w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
+  - title: "The Point: Joe Biden is betting his presidency on this"
+    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
+    publishedDateTime: 2020-12-28T23:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Families of US hostages and detainees look to Biden to keep up efforts to free loved ones"
-    excerpt: "As President-elect Joe Biden prepares to take over from the outgoing Trump administration, the goal for the families of Americans unlawfully detained and held hostage abroad remains the same: to see their loved ones returned home.\n    \n"
-    publishedDateTime: 2021-01-01T14:00:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html"
+  - title: "A congressional waiver is the biggest hurdle for Biden's defense pick"
+    excerpt: "The biggest obstacle to retired Army Gen. Lloyd Austin's nomination for secretary of defense is his retirement date from the military just four years ago -- too recent under American law and for the tastes of several members of Congress.\n    \n"
+    publishedDateTime: 2020-12-30T14:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730135514-trevor-reed-ex-marine-sentencing-russia-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Secret Service adding former Biden agents to new presidential detail "
+    excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T04:42:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "From pivotal endorsement to Cabinet advice, Jim Clyburn is here for Joe Biden"
+    excerpt: "Don't call Rep. Jim Clyburn a member of President-elect Joe Biden's inner circle.\n    \n"
+    publishedDateTime: 2020-12-22T12:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M99b9d1VBNk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201220222040-02-joe-biden-jim-clyburn-0226-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Republican efforts to undermine Biden victory expose growing anti-democratic streak"
+    excerpt: "The scattershot efforts to overturn President-elect Joe Biden's election victory are coalescing into a movement led by top Republicans determined to exploit a manufactured crisis for broader political gains.\n    \n"
+    publishedDateTime: 2021-01-03T16:27:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uWpq480Wgh0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200721204618-trump-cruz-split-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Delayed AG pick raises pressure on Biden to field a diverse leadership team at Justice Department"
+    excerpt: "The longer that President-elect Joe Biden takes to select his pick for US attorney general, the more pressure builds on him to staff his Justice Department with a diverse leadership team.\n    \n"
+    publishedDateTime: 2021-01-02T17:45:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden, Calling Stimulus Bill a ‘Down Payment,’ Urges More Relief"
+    excerpt: "The president-elect said he would ask Congress soon after his inauguration to pass an additional coronavirus aid package with more money for firefighters, police officers and nurses."
+    publishedDateTime: 2020-12-22T23:55:00Z
+    webUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/22/us/politics/biden-coronavirus-stimulus-bill.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden team's multibillion-dollar school testing plan takes shape"
+    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
+    publishedDateTime: 2020-12-24T20:32:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden rallies crowd ahead of Georgia Senate race"
+    excerpt: "President-elect Joe Biden encouraged the crowd to get out and vote for Jon Ossoff and Rev. Raphael Warnock and questioned why Trump still wants to be president at a campaign rally in Atlanta, Georgia."
+    publishedDateTime: 2021-01-05T01:35:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-rallies-crowd-ahead-of-georgia-senate-race-98785861671"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98785861671"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98785861671"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/BidenRally.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package"
+    excerpt: "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud."
+    publishedDateTime: 2020-12-22T00:11:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "On Working With Congress, Biden Predicts Success Where Predecessors Failed"
+    excerpt: "The president-elect insisted that his skills and his history would enable him to secure bipartisan support for bold initiatives."
+    publishedDateTime: 2020-12-24T21:58:00Z
+    webUrl: "https://www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/24/us/politics/24dc-biden/24dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers"
+    excerpt: "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\""
+    publishedDateTime: 2020-12-27T12:56:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/health-care-policing-and-same-sex-marriage-joe-biden-s-domestic-policy-answers-98420293932"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98420293932"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98420293932"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidendomestic_20122700__738195.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Russia, Afghanistan, Iraq: Joe Biden's foreign policy answers, through the years"
+    excerpt: "As a senator and vice president, Joe Biden spent his career developing relationships with foreign leaders. Meet the Press looks back at his answers to foreign policy questions over his decades-long career."
+    publishedDateTime: 2020-12-29T01:27:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/russia-afghanistan-iraq-joe-biden-s-foreign-policy-answers-through-the-years-98421829808"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98421829808"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98421829808"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
+    excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."
+    publishedDateTime: 2021-01-05T01:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/black-women-in-georgia-overwhelmingly-voted-for-biden-four-of-them-explain-their-vote-98777157949"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98777157949"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98777157949"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_blackgeorgiavoters_pt_200104_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Transition 2020: Biden allies push back on sweeping plan to promote fair housing"
+    excerpt: "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is."
+    publishedDateTime: 2020-12-24T22:44:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "rzCsMTdxItoPZ6ICpw0gr4Gbn8XivnQFVOwcRu3/+csdEzjzE6e+p2gHYZkqUw/7EB7kzLd4eP6pHXuROrKik6RqF4/owMCSHIoP8/ymuGRUBpK3EiuWkyCZ5WwI159vZYKO6k9cV4q4/g5B0xNaju2sGJWhPEI/Vxa4QlT+5ipXgye79x6nzMzrSopR4AgdxnFNu2Rc0yLXr72ARBTljUmhwCXBzOLuwUyjYleyE47lKT0eI1el7o3q4xTLNFGfIsVxb2fYQvFQwRMRxrfg0xAgYP16TNTfAaq3i3q9oiy8MEDWxXCub013Wed2mSMS6f+TDNvNL3Plsf4wrKtLeTpotUMxAUj6Ku5TgEbMqaE=;qu/IrXjZAB+Z/LC+Nz3n3Q=="

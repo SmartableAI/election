@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says electing Georgia's Ossoff and Warnock would lead to $2,000 stimulus checks"
+    excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
+    publishedDateTime: 2021-01-05T01:53:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104165652-02-biden-georgia-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "SMDRIRXfjvfPLzNQSbyOFgTyLJI/mPi+LCt6xX400a3NyqZYRL7JYK7532AGdXc65BJcxcPvgyMJWD9OiXZVF6Ky6j1WO+teQbysOrr4wHId3+RpiY+hrxZcb8XPMHBc36gVoRy2hCyFW12+XS+8/AsGt8vsqFbx23LRFESt3a63W7pX9eApUF0K5xctFldFnvJw5gS1YgWn4426/k+4UsTLcyhVmJcL4NZlkCd2/f77BucNhz8X0gCM+9PI38N4VSSN4Yi4SZaEIEzgT0gqPaTI25yD5kP+6kdeLyBcrSEdSkua4CcyGkXSg3Q3vh711GsjMEtLeGPNr3eGoi7lk1GP+K1ePN3XmCEazyCD5/k=;SZ1/6Y0t9k9VEaTGZtT4/A=="
 ---

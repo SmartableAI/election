@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tw
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's ex-White House chief of staff John Kelly supports using 25th Amendment to remove the President"
+    excerpt: "Former White House chief of staff John Kelly said Thursday that if he were a member of President Donald Trump's Cabinet he would support using the 25th Amendment to the Constitution to remove the President from office following a deadly riot at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-07T22:22:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jIpl28U4fWE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/john-kelly-trump-25th-amendment-capitol-riot-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/john-kelly-trump-25th-amendment-capitol-riot-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
     excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
     publishedDateTime: 2021-01-07T18:05:11Z

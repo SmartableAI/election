@@ -32,243 +32,275 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to campaign in Georgia ahead of runoff elections"
-    excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
-    publishedDateTime: 2021-01-04T16:27:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia election wins give Biden a mandate -- and mounting expectations"
-    excerpt: "The Democratic sweep of Georgia's Senate seats has ushered in a heady new reality for President-elect Joe Biden, who will take office in two weeks with a mandate to act and the numbers on Capitol Hill to deliver on some of his most ambitious promises.\n    \n"
-    publishedDateTime: 2021-01-07T16:38:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yCXKkdjNzBk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/georgia-election-wins-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/georgia-election-wins-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106045747-01-biden-ossoff-warnock-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
-    excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
-    publishedDateTime: 2020-12-29T16:02:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
+  - title: "Trump pressured Georgia governor in call to help overturn Biden's win in state"
+    excerpt: "President Donald Trump on Saturday called Georgia Gov. Brian Kemp, pushing him to convince state legislators to overturn President-elect Joe Biden's win in the state.\n    \n"
+    publishedDateTime: 2020-12-05T20:02:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kTlNa0VxvoE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-georgia-brian-kemp-phone-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-georgia-brian-kemp-phone-call/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 186
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200422123738-trump-kemp-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to deliver remarks on foreign policy and national security Monday"
-    excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
-    publishedDateTime: 2020-12-28T17:04:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+  - title: "Biden on Trump administration distributing vaccine: 'There is no detailed plan' "
+    excerpt: "President-elect Joe Biden said Friday that the Trump administration had shared information with his transition team about distributing a vaccine to various states, but Biden said his team had not seen a \"detailed plan.\"\n    \n"
+    publishedDateTime: 2020-12-04T20:44:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOVMIb1D9Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump rants about his election grievances in Georgia, even though it may hurt the GOP"
+    excerpt: "President Donald Trump expanded his extraordinary efforts to overturn the election Saturday, attempting to pressure Georgia's governor to force a special session of the legislature to change the result, while using an evening rally for two GOP Senate candidates to rant about his own grievances and thrash"
+    publishedDateTime: 2020-12-06T14:38:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O4hvebnkQvk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeffler-david-perdue-coronavirus-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeffler-david-perdue-coronavirus-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden team weighs North Korea policy as the era of Trump's 'love' letters with Kim ends"
+    excerpt: "President-elect Joe Biden's foreign policy team will soon have access to the letters President Donald Trump exchanged with North Korean Leader Kim Jong Un, correspondence that belongs to the US government -- not Trump -- and could provide insight into one of the world's most enigmatic leaders.\n    \n"
+    publishedDateTime: 2020-12-03T11:04:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6kTc0KXVq-8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-north-korea-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-north-korea-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023015900-trump-kim-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP senators ready to acknowledge Biden won but struggle with Trump's refusal to concede  "
+    excerpt: "A growing number of Senate Republicans are ready to publicly acknowledge what's been widely known for weeks but what they've refused to say: Joe Biden won the presidency and will be sworn in on January 20.\n    \n"
+    publishedDateTime: 2020-12-10T02:32:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GQuPNFqMAoc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/republican-reaction-trump-refusal-to-concede/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181005192042-republican-senators-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republicans brace for Trump rally in Georgia ahead of January runoffs"
+    excerpt: "Georgia Republicans are increasingly worried about President Donald Trump's rally on Saturday for the two Senate runoff races, as some brace for a tirade to overturn his loss that could hurt the party's effort to keep control of the chamber.\n    \n"
+    publishedDateTime: 2020-12-03T12:21:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H7EM0rwGCYc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Joe Biden is betting his presidency on this"
-    excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
-    publishedDateTime: 2020-12-28T23:30:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VcMFSY7wCLE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/joe-biden-gop-normalcy-politics/index.html"
+  - title: "All eyes are on Georgia ahead of Trump's rally and Senate debate"
+    excerpt: "The eyes of the political universe will turn to Georgia this weekend, as the voter registration deadline for January's Senate runoffs approaches.\n    \n"
+    publishedDateTime: 2020-12-05T16:00:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJKKQCLU4DE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202101313-warnock-ossoff-perdue-loefler-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "A congressional waiver is the biggest hurdle for Biden's defense pick"
-    excerpt: "The biggest obstacle to retired Army Gen. Lloyd Austin's nomination for secretary of defense is his retirement date from the military just four years ago -- too recent under American law and for the tastes of several members of Congress.\n    \n"
-    publishedDateTime: 2020-12-30T14:46:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+  - title: "Biden weighs ambassador picks amid pressure to diversify "
+    excerpt: "President-elect Joe Biden's team is in the early stages of considering who to appoint as ambassadors around the world, with a handful of selections for high profile posts expected to come sometime in January, according to three sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-12-05T14:22:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERyYyEOqh18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden legal team asks senators for judicial nomination recommendations "
-    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-31T00:39:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+  - title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
+    excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
+    publishedDateTime: 2020-12-05T14:23:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Secret Service adding former Biden agents to new presidential detail "
-    excerpt: "The US Secret Service has been planning to bring back to the White House a group of agents that previously worked with President-elect Joe Biden when he was vice president to fill out his security detail, a law enforcement source confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-31T04:42:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLs7Ofd25Yo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/joe-biden-secret-service/index.html"
+  - title: "Biden's desire to stop the border wall could be costly and arduous "
+    excerpt: "President-elect Joe Biden pledged to end construction of his predecessor's signature border wall, but halting the ongoing, multibillion-dollar project will be an arduous, complex and potentially costly process.\n    \n"
+    publishedDateTime: 2020-12-05T22:56:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How Biden defied history at every turn to win"
-    excerpt: "President-elect Joe Biden proved a lot of detractors wrong by winning the 2020 presidential election. It wasn't easy for Biden, as he took an unusual path to the White House.\n    \n"
-    publishedDateTime: 2021-01-01T13:00:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdbbsv-HZGo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
+  - title: "Democrats' push to investigate Trump won't stop when he leaves office"
+    excerpt: "Democrats in Congress are still intent on investigating President Donald Trump and his administration after he leaves office, including a pursuit of Trump's tax returns, a drive that threatens to complicate President-elect Joe Biden's pledges of bipartisan unity since he won the election.\n    \n"
+    publishedDateTime: 2020-12-07T11:01:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQahw-CxCEI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228144044-01-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204145825-02-trump-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Jimmy Carter will not attend Biden's inauguration"
-    excerpt: "Former President Jimmy Carter and former first lady Rosalynn Carter will not attend President-elect Joe Biden's inauguration, a spokeswoman said Tuesday.\n    \n"
-    publishedDateTime: 2021-01-05T22:34:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbGkE2HX4dg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/jimmy-carter-inauguration-biden-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/jimmy-carter-inauguration-biden-harris/index.html"
+  - title: "What you need to know about Biden's nominees"
+    excerpt: "President-elect Joe Biden has moved swiftly to build out his administration since his election last month, and has named several people to top roles in his Cabinet and other key posts.\n    \n"
+    publishedDateTime: 2020-12-09T18:03:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdB85qBLaj0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190322153536-48-jimmy-carter-unfurled-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209105126-biden-cabinet-announcement-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to nominate Merrick Garland as attorney general "
-    excerpt: "President-elect Joe Biden has decided to nominate Judge Merrick Garland as attorney general, people familiar with the matter tell CNN, a long-awaited decision that was moved toward completion Wednesday as it became apparent that Democrats were on the brink of winning control of the Senate.\n    \n"
-    publishedDateTime: 2021-01-06T18:13:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qDlgEHIq3RI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/merrick-garland-biden-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/merrick-garland-biden-attorney-general/index.html"
+  - title: "Expect a White House deep clean when Biden moves in "
+    excerpt: "When the White House welcomes a new first family it gets a thorough cleaning in the five hours allotted for the turnover. But with a global pandemic raging -- and an outgoing President whose orbit is rife with people shunning public health guidelines and coming down with Covid-19, this January 20 is"
+    publishedDateTime: 2020-12-10T18:17:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qpeAGoO10hU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918231232-judge-merrick-garland-file-photo-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210125211-restricted-white-house-cleaning-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden inaugural festivities to feature national day of service on MLK Day"
-    excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
-    publishedDateTime: 2021-01-04T16:55:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzS5c87aZ7A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-inauguration-day-of-service/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-inauguration-day-of-service/index.html"
+  - title: "Democratic concerns over Morell and torture scramble Biden's CIA decision"
+    excerpt: "One of President-elect Joe Biden's initial frontrunners to be CIA director, Mike Morell, is facing increasingly complicated prospects as his potential nomination faces growing opposition, according to multiple sources familiar with transition discussions.\n    \n"
+    publishedDateTime: 2020-12-03T21:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v3CIJoZ4AlU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-cia-director-morell-concerns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-cia-director-morell-concerns/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170111193408-michael-morell-trump-amanpour-00013223-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP congresswoman to no longer challenge Biden's win after US Capitol breach"
-    excerpt: "GOP Rep. Cathy McMorris-Rodgers announced Wednesday evening she will reverse her position on challenging President-elect Joe Biden's victory after rioters forced a shutdown of the House and Senate chambers of the US Capitol.\n    \n"
-    publishedDateTime: 2021-01-07T00:42:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_PLlELj1F7Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/electoral-college-challenge-cathy-mcmorris-rodgers-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/electoral-college-challenge-cathy-mcmorris-rodgers-biden/index.html"
+  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
+    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-09T22:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106190334-cathy-mcmorris-rodgers-april-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says electing Georgia's Ossoff and Warnock would lead to $2,000 stimulus checks"
-    excerpt: "President-elect Joe Biden is expected to travel to Atlanta on Monday to campaign on behalf of two Democrats looking to flip control of the US Senate in Tuesday's runoff elections.\n    \n"
-    publishedDateTime: 2021-01-05T01:53:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGWgq6NebFo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/biden-campaigning-georgia-runoffs/index.html"
+  - title: "'Push me': Biden welcomes diversity push as he faces criticism over Cabinet picks"
+    excerpt: "President-elect Joe Biden got a lot of help from a lot of different people to beat President Donald Trump. Now he's already facing some frustration from constituencies that got him elected that he's not giving them enough room at the governing table.\n    \n"
+    publishedDateTime: 2020-12-04T05:10:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9WgPfyMM9Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104165652-02-biden-georgia-0104-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
-    excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
-    publishedDateTime: 2020-12-31T16:16:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oYjPBrVurOw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+  - title: "Biden faces Democratic pushback over waiver to allow retired general to lead Pentagon "
+    excerpt: "Senate Democrats are uneasy about granting a rarely invoked waiver that would allow President-elect Joe Biden's pick of retired Gen. Lloyd Austin to head the Defense Department, the first nominee to encounter resistance from senators in the incoming President's own party.\n    \n"
+    publishedDateTime: 2020-12-08T19:57:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUaJV1l4cV8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -288,282 +320,378 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
-    excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
-    publishedDateTime: 2021-01-02T13:31:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1yBaiADLWPA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/biden-administration-sunrise-movement-climate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231110950-02-sunrise-movement-1105-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kelly Loeffler says she will object to the certification of Biden's Electoral College win"
-    excerpt: "Republican Sen. Kelly Loeffler of Georgia will oppose the certification of the Electoral College results on Wednesday, she said in a statement released Monday evening.\n    \n"
-    publishedDateTime: 2021-01-05T00:17:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2qf_UerM4CU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124125657-sen-kelly-loeffler-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "George W. Bush will attend Biden's inauguration; Jimmy Carter will not travel to ceremony"
-    excerpt: "Former President Jimmy Carter and former first lady Rosalynn Carter will not attend President-elect Joe Biden's inauguration, a spokeswoman said Tuesday.\n    \n"
-    publishedDateTime: 2021-01-06T01:01:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbGkE2HX4dg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/jimmy-carter-inauguration-biden-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/jimmy-carter-inauguration-biden-harris/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190322153536-48-jimmy-carter-unfurled-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to make final decision on attorney general, with new arguments for Yates and Garland"
-    excerpt: "President-elect Joe Biden is poised to make a final decision in the coming days on his pick for attorney general, a choice that suddenly comes amid a growing sense of optimism from Democrats that their party will control the Senate and will be able to easily confirm the incoming president's Cabinet nominations.\n"
-    publishedDateTime: 2021-01-06T14:54:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_hXWIuHRxKw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/biden-attorney-general-yates-garland/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/biden-attorney-general-yates-garland/index.html"
+  - title: "Some Trump supporters in this Georgia county say the election system is 'rigged.' That could hurt Republicans in January"
+    excerpt: "Sixty miles west of Atlanta, Haralson County sits a world away from Georgia's largest and booming metro area. Here, in the small towns that sit in the foothills of the Appalachian mountains, Republican roots run generations deep. In November, the county voted for Donald Trump over Joe Biden, 87% to 13%"
+    publishedDateTime: 2020-12-05T00:16:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OAAGX4WN7ys/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211132924-jones-garland-yates-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204183258-trump-supporter-georgia-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
-  - title: "US Capitol secured, woman dead after rioters stormed the halls of Congress to block Biden's win"
-    excerpt: "The US Capitol is on lockdown amid a tense situation with demonstrators outside the building, according to Capitol police officers, as President Donald Trump's supporters attempt to break into the building while lawmakers count the Electoral College votes certifying President-elect Joe Biden's win.\n"
-    publishedDateTime: 2021-01-07T00:38:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xk64p4RRaqc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/us-capitol-lockdown/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/us-capitol-lockdown/index.html"
+  - title: "Federal criminal investigation into Hunter Biden focuses on his business dealings in China"
+    excerpt: "President-elect Joe Biden's son, Hunter Biden, said Wednesday in a statement that he learned his tax affairs are being investigated by the US Attorney's Office in Delaware.\n    \n"
+    publishedDateTime: 2020-12-09T21:58:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QOnWTtL1W08/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/hunter-biden-tax-investigtation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/hunter-biden-tax-investigtation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106140413-06-trump-rallies-0106-washington-dc-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209123824-02-hunter-joe-biden-2016-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP challenges Arizona electoral votes, the first of several expected objections to Biden's 2020 win"
-    excerpt: "Congressional Republicans are preparing a futile attempt Wednesday on President Donald Trump's behalf to overturn the results of the November election by objecting to Electoral College votes cast by at least three states for President-elect Joe Biden.\n    \n"
-    publishedDateTime: 2021-01-06T18:22:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YxFp-LjLP_Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/2020-election-congress-electoral-college-vote-count/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/2020-election-congress-electoral-college-vote-count/index.html"
+  - title: "Georgia's lieutenant governor joins state GOP officials in rejecting Trump's 'misinformation'"
+    excerpt: "Georgia's Republican lieutenant governor on Tuesday joined a growing list of GOP officials in the state who are publicly rejecting President Donald Trump's baseless claims of voter fraud, saying the misinformation spread by the President and his allies is \"alarming\" and could jeopardize the party in"
+    publishedDateTime: 2020-12-01T16:21:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d22YeEYC3r0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/geoff-duncan-election-misinformation-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/geoff-duncan-election-misinformation-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105031546-us-capitol-0104-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201081905-geoff-duncan-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to attack Trump admin for slow pace of Covid vaccinations"
-    excerpt: "President-elect Joe Biden plans to hit the Trump administration on Tuesday for \"falling short\" on the pace of vaccinating Americans against Covid-19,a transition official said, previewing the remarks."
-    publishedDateTime: 2020-12-29T21:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-talk-covid-harris-gets-vaccine-n1252464"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252464"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252464"
+  - title: "Georgia set to reaffirm Biden's victory for 3rd time after recount, dealing major blow to Trump's attempt to overturn the results"
+    excerpt: "Georgia is set to recertify its presidential election results on Monday, which will again find Joe Biden as the winner following three counts of ballots, Secretary of State Brad Raffensperger said.\n    \n"
+    publishedDateTime: 2020-12-07T16:41:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5DJXjs9ySBI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/georgia-recount-recertification-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/georgia-recount-recertification-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202123706-raffensperger-1130-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "‘It Has All Gone Too Far’: Georgia Election Official Lashes Trump"
+    excerpt: "Gabriel Sterling, a voting system official in Georgia, harshly criticized the president for failing to condemn threats of violence against people overseeing the voting system in his state."
+    publishedDateTime: 2020-12-02T00:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01georgia-vote/01georgia-vote-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
+    excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
+    publishedDateTime: 2020-12-02T01:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/arizona-governor-becomes-latest-trump-target-after-certifying-biden-s-n1249549"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249549"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249549"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 149
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438481/201229-joe-biden-kamala-harris-jm-0714_27a62254dfa9e7114e055c1b65c53e0e.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3432215/201201-doug-ducey-jm-1315_ccc9214d85bd81690c88ec066db05fb6.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump hotel looks to cash in on Biden inauguration"
-    excerpt: "As Trump allies plot a last-ditch effort on Jan. 6 to try to prevent Joe Biden from being formally selected as the next president, at least one part of Trump-world is tacitly acknowledging that there won’t be a second Trump term,"
-    publishedDateTime: 2020-12-31T22:05:00Z
-    webUrl: "https://www.politico.com/news/2020/12/31/trump-hotel-biden-inauguration-453168"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/31/trump-hotel-biden-inauguration-453168"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/31/trump-hotel-biden-inauguration-453168"
+  - title: "Trump's 'mountains of misinformation' at rally not helping Republican Senate chances, Georgia's GOP lieutenant governor says"
+    excerpt: "Georgia Republican Lt. Gov. Geoff Duncan said Sunday that the \"mountains of misinformation\" about the election that President Donald Trump is spreading, most recently in his remarks at a rally in the state Saturday night, could hurt GOP chances in upcoming Senate runoff races.\n    \n"
+    publishedDateTime: 2020-12-06T16:47:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HmiFDymoTZk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/geoff-duncan-trump-georgia-rally-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/geoff-duncan-trump-georgia-rally-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206095615-lt-gov-geoff-duncan-sotu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden’s electors prepare to seal his victory, as Trump and coronavirus rage"
+    excerpt: "In interviews, more than two dozen swing-state electors detailed plans for Monday’s vote — and a hint of anxiety about Trump."
+    publishedDateTime: 2020-12-11T09:34:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/biden-electoral-college-vote-444487"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-electoral-college-vote-444487"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-electoral-college-vote-444487"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 150
+    quality: 148
     images:
-      - url: "https://static.politico.com/fd/ae/ad27dd274fedbf0fc6d0e48dc1a4/180912-trump-international-hotel-getty-773.jpg"
-        width: 5282
-        height: 3523
-        isCached: true
-  - title: "Nationwide Covid memorial announced as part of Biden inauguration"
-    excerpt: "Cities and towns around the country will light up their buildings and ring church bells in honor of those who have died."
-    publishedDateTime: 2020-12-31T12:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/nationwide-covid-memorial-announced-part-biden-inauguration-n1252591"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252591"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252591"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438901/201231-biden-covid-mc-1226_a43e7aacf97da08b35550aea5f0a6e59.JPG"
-        width: 2500
-        height: 1591
-        isCached: true
-  - title: "Biden rallies crowd ahead of Georgia Senate race"
-    excerpt: "President-elect Joe Biden encouraged the crowd to get out and vote for Jon Ossoff and Rev. Raphael Warnock and questioned why Trump still wants to be president at a campaign rally in Atlanta, Georgia."
-    publishedDateTime: 2021-01-05T01:35:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-rallies-crowd-ahead-of-georgia-senate-race-98785861671"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98785861671"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98785861671"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/BidenRally.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden transition hoping for victory but bracing for defeat in Georgia"
-    excerpt: "The president-elect’s team won’t change their legislative priorities. But the runoff results could force them to scale back significantly."
-    publishedDateTime: 2021-01-05T09:30:00Z
-    webUrl: "https://www.politico.com/news/2021/01/05/biden-transition-georgia-senate-454928"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/05/biden-transition-georgia-senate-454928"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/05/biden-transition-georgia-senate-454928"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/9a/38/51b48e8d46c6bf9d50410002adce/0104georgia1.jpg"
+      - url: "https://static.politico.com/39/62/1793a0994b6a8899368da2f129ba/201210-biden-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden condemns chaos at the Capitol as 'insurrection'"
-    excerpt: "President-elect Joe Biden condemned the protesters who stormed the U.S. Capitol saying \"it’s not protest, it’s insurrection.\" He called on President Trump to go on television and deliver a message to calm the chaos unfolding."
-    publishedDateTime: 2021-01-06T22:05:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-condemns-chaos-at-the-capitol-as-insurrection-98957381507"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98957381507"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98957381507"
+  - title: "Trump Castigates Barr for Not Publicly Disclosing Hunter Biden Investigation"
+    excerpt: "President Trump on Saturday excoriated Attorney General William P. Barr, castigating him on Twitter for not violating Justice Department policy to publicly reveal an investigation into President-Elect Joseph R."
+    publishedDateTime: 2020-12-12T20:40:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/12dc-trump/merlin_181147668_6fd8fd9b-f17f-4be1-9ffb-8d29242e5ac6-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump calls Georgia governor for help to overturn Biden's victory in the state"
+    excerpt: "With no clear pathway to re-election, President Donald Trump called Georgia Gov. Brian Kemp on Saturday in an attempt to pressure him to call a special session of the state Legislature in an effort to overturn President-elect Joe Biden's narrow victory in the state."
+    publishedDateTime: 2020-12-05T23:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-calls-georgia-governor-help-overturn-biden-s-victory-state-n1250123"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250123"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250123"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 146
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_biden_full_210106_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415440/200928-donald-trump-mn-0821_d1fac2e4c777a6994293a94f4c45c6d2.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Watch live: Biden introduces Department of Justice nominees"
-    excerpt: "Watch live coverage as President-elect Joe Biden introduces key nominees to serve at the Department of Justice."
-    publishedDateTime: 2021-01-07T16:29:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-introduces-department-of-justice-nominees-99036229902"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99036229902"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99036229902"
+  - title: "The Conspiracy Theory That Could Hand Joe Biden the Senate"
+    excerpt: "There is no evidence that Lin Wood and Sidney Powell are secretly working for the Democratic National Committee, but no one has definitively disproved it, either."
+    publishedDateTime: 2020-12-03T00:40:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/biden_vacc.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/d4/b5/350ecf5f4e6fabd263f51e3804d2/gettyimages-1229684243-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Congress affirms Biden as president after completing electoral vote count"
-    excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
-    publishedDateTime: 2021-01-07T09:24:00Z
-    webUrl: "https://www.nbcnews.com/video/congress-affirms-biden-as-president-after-completing-electoral-vote-count-99022917817"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99022917817"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99022917817"
+  - title: "Biden Says He Wants to Stand Up for Democracy. Here’s Where to Start."
+    excerpt: "President-elect Joe Biden has pledged to put democracy back on the agenda after four years of  Trump’s unapologetic coddling of dictators. Mr. Biden has promised to hos"
+    publishedDateTime: 2020-12-07T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/07/opinion/07hanna-01/07hanna-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Biden Clashes With the Left"
+    excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
+    publishedDateTime: 2020-12-11T12:01:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/01/10/multimedia/onpolitics-biden/onpolitics-barber-still-facebookJumbo-v2.png"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
+    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
+    publishedDateTime: 2020-12-12T16:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
+    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
+    publishedDateTime: 2020-12-02T23:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 134
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/f_msnbc_brk_pence_210107_1920x1080.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Full Panel: Trump continues false voter fraud claims during Georgia rally"
+    excerpt: "Steve Kornacki, Kimberly Atkins, Jeff Mason and Danielle Pletka join the Meet the Press roundtable to discuss President Trump's campaign rally in Georgia."
+    publishedDateTime: 2020-12-06T14:53:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-continues-false-voter-fraud-claims-during-georgia-rally-97212485768"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97212485768"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212485768"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607265795480_mtp_full_panel_201206_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
-    excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
-    publishedDateTime: 2021-01-04T03:07:00Z
-    webUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/03/us/politics/biden-inauguration-day-plans.amp.html"
+  - title: "Progressive Groups Urge Biden to Move Quickly on Diverse Slate of Judges"
+    excerpt: "The president-elect faces pressure to install a diverse group of progressives in the courts, but the prospect of a Republican-controlled Senate looms as an obstacle."
+    publishedDateTime: 2020-12-11T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/progressive-groups-biden-judges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11DC-JUDGES/11DC-JUDGES-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
+    excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
+    publishedDateTime: 2020-12-09T10:55:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2021/01/03/us/politics/03dc-biden-inaugural/03dc-biden-inaugural-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
-  - title: "Senate rejects first GOP attempt to block Joe Biden's electors after day of chaos"
-    excerpt: "Over 150 Republicans had been expected to object to results in numerous states that voted for Joe Biden, even though they've already been certified."
-    publishedDateTime: 2021-01-07T06:29:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/congress-begin-electoral-vote-count-amid-protests-inside-outside-capitol-n1253013"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253013"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253013"
+  - title: "5 big problems with Texas' bid to overturn Biden's win at the Supreme Court"
+    excerpt: "Texas' bid to overturn Biden's win at the Supreme Court \"This case is hopeless,\" said SCOTUSblog publisher Tom Goldstein, who argues frequently before the court. President Donald Trump calls it \"the big one,"
+    publishedDateTime: 2020-12-10T00:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/5-glaring-problems-texas-bid-overturn-biden-s-win-u-n1250606"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250606"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250606"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 130
+    quality: 133
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3440012/210106-us-capitol-protest-al-1031_66bbfc0e68da92a14420bdea5589d139.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434566/201209-donald-trump-jm-1603_f57dd82fbced153aa6bcd2fbae9f2b3a.jpg"
         width: 2500
-        height: 1681
+        height: 1607
         isCached: true
-  - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
-    excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."
-    publishedDateTime: 2021-01-05T01:02:00Z
-    webUrl: "https://www.nbcnews.com/now/video/black-women-in-georgia-overwhelmingly-voted-for-biden-four-of-them-explain-their-vote-98777157949"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98777157949"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98777157949"
+  - title: "President-elect Joe Biden's cabinet picks draw criticism for lack of diversity"
+    excerpt: "Steve Kornacki tells Chuck Todd that Democrats are betting on \"growing non-white population and an assumption that they're going to continue to rack up gigantic margins\" in the vote."
+    publishedDateTime: 2020-12-06T16:17:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/president-elect-joe-biden-s-cabinet-picks-draw-criticism-for-lack-of-diversity-97212997650"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97212997650"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212997650"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607266802197_mtp_clip_kornackidemos_201206_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Experts, advocates pressure Biden administration to reunite separated migrant families"
+    excerpt: "NBC News’ Julia Ainsley reports on how advocates and mental health experts are urging the Biden administration to commit to reuniting the migrant families separated at the border during the Trump administration."
+    publishedDateTime: 2020-12-11T00:51:00Z
+    webUrl: "https://www.nbcnews.com/now/video/experts-advocates-pressure-biden-administration-to-reunite-separated-migrant-families-97507909806"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97507909806"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97507909806"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 127
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_blackgeorgiavoters_pt_200104_1920x1080.jpg"
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_migrant_201210_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden's health agenda runs through Georgia"
-    excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
-    publishedDateTime: 2021-01-05T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/01/05/bidens-health-agenda-runs-through-georgia-792581"
+  - title: "In Trying for a Diverse Administration, Biden Finds One Group’s Gain is Another’s Loss"
+    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
+    publishedDateTime: 2020-12-12T16:31:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump tells supporters to vote in Georgia runoffs, refuses to accept reality of his loss"
+    excerpt: "\"I've probably worked harder in the last three weeks than I ever have in my life,\" Trump said of his efforts to overturn election results. \"Doing this.\""
+    publishedDateTime: 2020-12-06T03:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-tells-supporters-vote-georgia-runoffs-refuses-accept-reality-his-n1250128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3433631/201205-donald-trump-rally-cs-749p_246d6139e50fc8dc90585101a6d0abd3.jpg"
+        width: 2500
+        height: 1554
+        isCached: true
+  - title: "Industry privately urges Biden team to retain National Space Council"
+    excerpt: "The Commercial Spaceflight Federation’s new leader outlines her priorities — Companies back new initiative to recruit minorities into space industry"
+    publishedDateTime: 2020-12-04T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-space/2020/12/04/industry-privately-urges-biden-team-to-retain-national-space-council-491052"
     type: article
     provider:
       name: Politico
@@ -574,19 +702,19 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Why Biden is quiet about the Electoral College challenge"
-    excerpt: "When Senate Republicans spent weeks refusing to acknowledge JOE BIDEN’s victory, Biden’s response was: chill out and give it time. Biden is following the same playbook now as dozens of congressional Republicans plan to challenge his Electoral College ..."
-    publishedDateTime: 2021-01-05T22:48:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/05/why-biden-is-quiet-about-the-electoral-college-challenge-792586"
+  - title: "Biden to campaign in Atlanta"
+    excerpt: "And, yeah, I just think that’s something that we’re looking to see is, it’s something that I hope will be pushed.” BIDEN will travel to Atlanta on Tuesday for JON OSSOFF and RAPHAEL WARNOCK. VP MIKE PENCE will be in Georgia for a rally today."
+    publishedDateTime: 2020-12-10T11:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/10/biden-to-campaign-in-atlanta-491110"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/f5/13/5df7571442f1ae4d5fb0b76da76f/201210-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "uS+PuYvMT8Qe19dmbJoO6baUs3tM5XjQoYBOcVxTsWSZghpxD4V8ePcb0aIBhZIWK+/ARGBGnQs0LnS1FThTpSo98umQBrK+CpjWb4L1cIO10kMihVr533FVicTBRxYpSDnVYAP7O0CJshERYjTEcOOLcwzuKaqZt6ud/P4Shn/D0mhGyZAQFer7m84tC/FXtl+1322GFg0nVGdohstZzku4uAyWDihGCsiBSpkZTB3tPpe/8ilCKvswTTnB3jo0OsJTe94MswUjvEZHFX2MII8kxxeDSRgcnkVSUYvV8I5eznRrtXz86iWPgsJXc2/lJYowqpPj0YCD7f0RYT8PztZuCldiAtoNzgAKk5n17jYFAm9zi0E/v6GMw5W8U9RsNayEghtMAdDeAHxdv2jP1f+1ZHMkWypKQy8KpwlwUvCiCbq60dDdXcB6ABks2e+lfCHlHQTwjxCGhuUw+DOUNWwEE6gJQ2fNl6O4frmWfnj/t6YaH2VhmIO9K14NOq+s0Uf4xZv2M5h2adrI/qn4sQ==;Ys+IWGt1U18C20eboPKKDQ=="

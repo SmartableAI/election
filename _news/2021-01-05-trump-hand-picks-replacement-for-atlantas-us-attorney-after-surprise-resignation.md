@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byun
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byung-pak-bobby-christine/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump was briefed that China sought to pay non-state actors to attack US forces in Afghanistan"
-    excerpt: "President Donald Trump received information earlier this month that China sought to pay non-state actors to attack American forces in Afghanistan, a senior administration official said.\n    \n"
-    publishedDateTime: 2020-12-31T00:17:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jY9JDWPrjcs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "7z69U3oohg6vaLwD4KsEJgw1ItJ3+Z7OURojBBSPiIAnwwCgRLVMF1aoxY2kSijAdMAaDTwies9LTQPzdbnkpunAEWeTveweLx486osQaRXFo70hTLUDyNBvF5FJEZ0q7IoHzWGM48I/vEIroIeuy9BFx3EAbfvDEIBnTCG+w6Ncjtldvvdn1UHadj4IK5KLNhOeM23RDE1JQ2CR4oL9fh6yxBq6+8zw2qrrpDIU8pLsBSklFR4DJDq4/ML5rc5He8AqCurHOcKb5C3fHLYa5D0aL5KCmPUX6vxaK3U+0MEuORh7w8yKUf8LNJmDihVoDNEag1VIZ1yH15jO2pmvS/eE3CjqYJVem37j5PbhX9A=;29NQoSZTOps2saPjZY4Rfw=="
 ---

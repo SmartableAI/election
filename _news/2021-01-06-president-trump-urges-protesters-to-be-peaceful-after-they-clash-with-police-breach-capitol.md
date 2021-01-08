@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook blocks Trump indefinitely after Capitol riot response"
-    excerpt: "Facebook CEO Mark Zuckerberg on Thursday said that President Trump’s Facebook and Instagram accounts will be blocked \"indefinitely,\" and for at least the next two weeks before Inauguration Day."
-    publishedDateTime: 2021-01-07T16:12:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcohqZayj0g/facebook-blocks-trump-indefinitely-capitol-riot-response"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
+  - title: "De Blasio accuses Trump of ‘treason,’ says he should be removed"
+    excerpt: "New York City Mayor Bill de Blasio on Thursday said President Trump should be removed from office -- and accused him of committing \"treason\" with his remarks to supporters who went on to storm the Capitol building."
+    publishedDateTime: 2021-01-07T21:47:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNmwqyqwGbo/capitol-rioting-de-blasio-trump-treason"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49ec057a-e6ee-477e-8053-5e7977e20493/3f278e79-1c49-4c6a-9ccb-d72b8a89ca6b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "James Mattis denounces Trump, says he will be 'left a man without a country'"
+    excerpt: "Former Defense Secretary James Mattis rebuked President Trump on Wednesday, accusing him of fomenting violence at the U.S. Capitol and poisoning Americans' respect for fellow citizens."
+    publishedDateTime: 2021-01-07T04:32:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HSaidF_xl18/james-mattis-statement-trump-capitol-protests"
+    ampWebUrl: "https://www.foxnews.com/politics/james-mattis-statement-trump-capitol-protests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-mattis-statement-trump-capitol-protests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
     excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
@@ -62,52 +78,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Capitol rioters could face up to 10 years in prison under Trump monument executive order"
-    excerpt: "Acting Attorney General Jeffrey Rosen vowed that pro-Trump rioters who entered the U.S. Capitol would \"face the full consequences of their actions under the law,\" and those consequences could include being charged under President Trump's executive order authorizing up to 10 years in prison for \"injury"
-    publishedDateTime: 2021-01-07T19:38:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2dI2SvjE0k/capitol-rioters-prison-trump-executive-order-federal"
-    ampWebUrl: "https://www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump to regain Facebook access Thursday night after account locked over response to Capitol violence"
-    excerpt: "President Trump will regain access to his Facebook account Thursday night after the social media giant locked him out of his account for the first time for violating its policies."
-    publishedDateTime: 2021-01-07T13:00:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wxxswMWaoLc/trump-facebook-access-account-locked-policy-violation"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-facebook-access-account-locked-policy-violation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-access-account-locked-policy-violation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The Triumph of Stacey Abrams Over Donald Trump"
-    excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
-    publishedDateTime: 2021-01-07T12:14:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/07/the_triumph_of_stacey_abrams_over_donald_trump_532874.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531661_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "EZyxq5CzDNPZh3QhJPfhVlwAE2Sg3i5hsMUHPaQUVYTZybxQMgPnSXx2MUQA7SZqpDpXDyx2u2kQPuCzNEWYGtJBFcQCdFttzjxQe0biGqw8+kd1V3JYNLlcGJpOy/bU0KH6ueB0UkYy00pDM8qe5EFtDekRFez0XrD3BYqoSBQ3jX9HEOzm2g1TQlSESwJq99ho+JPnpiGzEANr3/2d449A3bjGGkDStOWC+do0NJAzlvq5qTT0RrCFP8PMklEQhbCYW9sU3mgOf7zOdP/0UZ6B2jjOpy8XPL82P2ApBGU7vFM4Y3iw6YFZF44SBIhotp2A8+ug2AsntyG9xv9Q6yD19bAjiY97swqHsWYEfQs=;ORfRj1MUKV2PCS6b71J4oQ=="

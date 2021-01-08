@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-fl
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: Politico
@@ -30,24 +30,6 @@ images:
     width: 1160
     height: 773
     isCached: true
-
-related:
-  - title: "Four key ways Barr broke with Trump at the attorney general's news conference"
-    excerpt: "Two days before he leaves the Justice Department, Attorney General William Barr offered his sharpest rebuke to date of President Donald Trump's baseless allegations surrounding the election result, rejecting Trump's efforts to act on the conspiracy theories the President has embraced to explain his loss"
-    publishedDateTime: 2020-12-21T22:13:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5F0DS3L1D0g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221144127-bill-barr-presser-1221-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "RWRwRUmo9nzOeLa87Erow6KLHjGaICb3NsQEWpnWJ1byQDQsFb5FLIRwXuC/biENhjyqIbVti4DeU2jx8cIEJOmCE4hpJJBULipvXxaKbLoVOUwxRiAi0qwigm2p17qxa9U0JP/lUhMfN1Ft36w2tqdAkrihp1CZ3SQ6yzCXl6ys/PKJQlA/z5WBUbC7UlPpFvNXy26+Zv1kHaU0FBfsa4gYuZgVEy5D01spKMe1sAY34lha0MOggdvf6BLf+fdGq2PTAySfPKIMaZq3zVFEy7KG3bErUa10Dcmd4wPp0UsUFJC8bT2DeofdsHBcN7VuS03z8P2RLMx+vbwzB9qG0RcaUM4g28rozRyHryFKaQ8=;eANZEUn+sZ2M6vSpuF1Drw=="
 ---

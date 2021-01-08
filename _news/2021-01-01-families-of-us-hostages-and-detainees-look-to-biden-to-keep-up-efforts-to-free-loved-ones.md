@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden names Kathleen Hicks as first woman deputy defense secretary"
-    excerpt: "Joe Biden's transition team announced Wednesday that former Obama Pentagon official Kathleen Hicks is the President-elect's pick to serve as deputy secretary of defense, and she would be the first woman to serve in the role if confirmed by the Senate.\n    \n"
-    publishedDateTime: 2020-12-30T16:14:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WSyk20utpn4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
+  - title: "Biden to focus on Covid relief for small businesses in Wednesday speech"
+    excerpt: "President-elect Joe Biden will make remarks Wednesday focusing on delivering relief to small businesses amid the coronavirus pandemic with a focus on helping minority-owned businesses, a transition spokesperson tells CNN.\n    \n"
+    publishedDateTime: 2021-01-06T00:27:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0dZpg5DLygM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/biden-wednesday-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/biden-wednesday-speech/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230105634-kathleen-hicks-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
-    excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-30T20:51:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/89ijxeeOE5w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104155740-01-joe-biden-1222-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

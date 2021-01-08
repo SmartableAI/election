@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
+    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
+    publishedDateTime: 2020-12-18T15:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Gingrich among Trump loyalists named to Pentagon advisory board"
     excerpt: "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,"
     publishedDateTime: 2020-12-14T18:58:00Z

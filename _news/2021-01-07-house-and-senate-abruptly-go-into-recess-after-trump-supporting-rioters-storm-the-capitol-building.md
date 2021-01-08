@@ -47,6 +47,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Trump awards Medals of Freedom to three golfers on morning after riot at Capitol"
+    excerpt: "Annika Sorenstam, Gary Player and the late Babe Zaharias were awarded Presidential Medals of Freedom Thursday, continuing the president's penchant for awarding athletes."
+    publishedDateTime: 2021-01-08T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXZKUKSMVII6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Trump's kids won't lose their 5th Amendment rights and be forced to testify against him if they're pardoned, experts say"
     excerpt: "A presidential pardon isn't enough to mean that someone can't plead the Fifth Amendment and refuse to testify, according to criminal law experts."
     publishedDateTime: 2020-12-31T20:20:00Z

@@ -286,6 +286,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats eye quick impeachment vote if Pence rebuffs attempt to remove Trump from office"
+    excerpt: "Speaker Nancy Pelosi and her leadership team are considering a lightning-quick impeachment process if Vice President Mike Pence and the Cabinet refuse to take unprecedented steps to remove President Donald Trump from office in less than two weeks' time, according to multiple Democratic sources.\n    \n"
+    publishedDateTime: 2021-01-08T00:34:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UBk9J-3241w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/house-democrats-impeachment-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/house-democrats-impeachment-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217041844-pelosi-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Authorities on high alert as pro-Trump supporters flood DC to protest election "
     excerpt: "Hundreds of law enforcement officers have mobilized across Washington as thousands of supporters who refuse to accept President Donald Trump's election loss have flocked to the nation's capital to protest when Congress gathers Wednesday afternoon to put the final stamp on President-elect Joe Biden's"
     publishedDateTime: 2021-01-06T10:01:19Z
@@ -699,6 +715,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106194056-33-electoral-college-vote-protests-010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump asking aides and lawyers about self-pardon power "
+    excerpt: "President Donald Trump has been asking aides and lawyers, including White House counsel Pat Cipollone, about his self-pardon power, multiple sources told CNN.\n    \n"
+    publishedDateTime: 2021-01-08T00:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYzTmrxqjJ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/donald-trump-self-pardon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/donald-trump-self-pardon/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107094726-donald-trump-0104-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1228,6 +1260,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pence is said to oppose invoking 25th Amendment to strip Trump of his duties."
+    excerpt: "Vice President Mike Pence is opposed to a call by Democrats in Congress and some Republicans to invoke the 25th Amendment to remove President Trump before his term ends, a person close to the vice president said."
+    publishedDateTime: 2021-01-07T18:08:00Z
+    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/pence-opposes-invoking-25th-amendment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/pence-opposes-invoking-25th-amendment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/pence-opposes-invoking-25th-amendment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/07/us/politics/07transition-brief-pence-25th/07transition-brief-pence-25th-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Pence rebuffs Trump, telling lawmakers he has no authority to throw out election results"
     excerpt: "The assessment from the vice president came in a letter delivered ahead of a joint session of Congress on Wednesday afternoon."
     publishedDateTime: 2021-01-06T19:35:00Z
@@ -1464,22 +1512,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Is Said to Have Discussed Pardoning Himself"
-    excerpt: "The discussions occurred in recent weeks, and it was not clear whether he has brought it up since he incited a mob of supporters to attack the Capitol."
-    publishedDateTime: 2021-01-07T20:03:00Z
-    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/trump-self-pardon.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/trump-self-pardon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/trump-self-pardon.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/07/us/politics/07dc-pardon1/07dc-pardon1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
     publishedDateTime: 2020-12-30T10:07:00Z
@@ -1689,6 +1721,6 @@ related:
         height: 773
         isCached: true
 
-secured: "C8cnL07Hzr1Mgs9V1Ls5iF90osi7Tf7IXQGunUfZ/dZA/JhrQW26Q2AVj8ysU2cpHGii8pGFczwRehW2X/fZodTc3eTth8C+2xzKxRJPP/ob8UzNTH2czo4t7s4frsS7eSVDUnyvC+gRzY6og6C/5nX2FbIOcp13+UxXdWKocYw2XHzoDgdbhA/8+a70PMBfifSjUERbEbrnRnczs+yjdwLUZ0T3nrw3qQByaRbvu6J/jfnm8QZHrnvIT3v4mZiMzx7fLvoekhjogF2ZIMMR6bWs2TLLDq4pRGGZDDHn0Bgvhaqq0Dl/zFZ25igi/OYhE8rTVxk+gknSixf+be0Sx+ANxoMYhy5ozvmr8FRbJ/4=;9Bm5C/iLRndznIxlM9hXTQ=="
+secured: "iI6pVIFaVViu77mO8ZhwCqwmmRNjS1B2hRLnZsgC/sY5QncJjKRk2eEikA9bWuDVbv4SMN0M2k2IaTeuOV2kMs9JEBv6WbaOPwxr/cc/B/zGATeRbBtZXsA6Xm9EV8HlPIvOnqY3/ifP+egy1cymlNQT8FszzjISggCFOidoUUj35gzUdE7jK0tbj/mWmOkK5vFDGD4HREuzWf/vylvWmWFX9XHNL10qibK1pKGyN8R3ANrKwn+KqG5b9cvfnXbzQQhiF2DZ4jtI493nd059reGWtNccpt2UQTCtUcIS+IOqV5mFvPgf4n1V6D9A8eF36xe8vl8jradRYj99QfXdl2IPzkuuGsqHb42qJ1Yt8zzMd+DkV6YMnpLAuTRtGkmnkxzQehmIkIdc7EFykodd3SKhrCUzF/OdRGWw5NZn4foNN6MPkHEcpxB9fWiQW2UuhzBXqnTEuVnjgISmzBNul3c5dU8bmo8ye+v0V0lX1NtjV9s7nIq+lq7HYYwXht08flohgjvuTgD2XrNQoYYNVQ==;9cMYdcqBzO7UHZmpCLbHuA=="
 ---
 

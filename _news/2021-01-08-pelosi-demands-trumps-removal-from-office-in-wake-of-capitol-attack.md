@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
+    excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
+    publishedDateTime: 2021-01-07T21:18:00Z
+    webUrl: "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-rt-rc-210106_1609954638505_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
     publishedDateTime: 2020-12-31T20:52:00Z
@@ -142,6 +158,6 @@ related:
         height: 689
         isCached: true
 
-secured: "+uzbb2oTL1bo6sgKBrL0gGh1gbM4mgX/M2FoiaV5+x6dJJYUBU2XxV3EpPX+mP83MHqrR1T0LcB2tSj7ElQ9ay5wxejiok9VCU5o+xrrS7kuGeipu3qLe++GLLZisupLvrErZreZZ04gRD0Bu6DNhL8vf/cqbOq8R9aPMrp3F6iEvwiTfdTcy/JGkgMexqINCiACCz/EnLNEowP2ev6yluhxi1w9zbbSv7wCNf4t9es+RARV3P9qdxzLiFNGyrkAEdnvIMoV44AkGuAuW04d/PydJErQVisSVK7Y4w+NraZFILVIZ5JmEQQSnG5JI7p5bmjT1TTcuIi2TO76Y60a70xIqbwpQaverJrwr7aBdSM=;URylhoymKwFYsaEoOoBAoA=="
+secured: "dUmRLGEy5Anc5Wm5WgOlEQkX7iHnfVxJ1dI6gI0IikuCaFlVlf5eJK1jUQqQZyZJGmgm/FyQDPaoljsPD6C6EWCwrJgeZT15F7qHk8PzXwnUeBy1Ai3agN6kPtb7NXelFRCmRXigFbo7KQtMQXVzu863XG0ohjxJblwumusvx7m5OcnTFtio8O7zPcoJZZ4R9xoZvnbSPy5WMgZGdUZD8wBwOvFMZ7vJw5Cmg9ct2dN1WM6wM+CAbR2fKyeFKhrLFCe8AheDgwtzv9MUVFOSwF8PYNk8ZlQ7+JqSKIw3SmJQeGbWGhuR3jP9wdRwQLPDY3VGvttup3aMNTvZ3GPqkbZUte69NlyhtsnPIRkdIGhIlwoDQBTvjcq/5E+qU4ydBKTuOphDzMXpP3Nd/AhYQMwhX6NebNf0N6bRyj4AkgL0DAFC5a590nGQqSCL6k+4nV88x/5M/qNqDKaOioDshM6PSYSZD8yGbisEfRjxKh0HBPrdy4gTVM4GEwfq/fzdG1WkehrrJ0sVPpGaLvQaMQ==;JjRRZLSJ6tP7H1EvSLvIVA=="
 ---
 

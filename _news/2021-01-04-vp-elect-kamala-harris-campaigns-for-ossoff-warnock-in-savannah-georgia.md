@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Alveda King slams Kamala Harris for plagiarizing her uncle, Martin Luther King Jr."
+    excerpt: "The niece of late civil rights leader Dr. Martin Luther King, Jr. slammed Vice President-elect Kamala Harris for invoking the name of her late uncle, arguing that her position on abortion proves that the two have diametrically opposed worldviews."
+    publishedDateTime: 2021-01-07T21:45:00Z
+    webUrl: "https://www.christianpost.com/news/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    ampWebUrl: "https://www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 69
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/13/97/139770_w_450_301.jpg"
+        width: 450
+        height: 301
+        isCached: true
   - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
     excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
     publishedDateTime: 2021-01-06T14:57:00Z

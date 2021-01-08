@@ -33,21 +33,35 @@ images:
 related:
   - title: "Biden picks Rhode Island Gov. Raimondo as commerce secretary"
     excerpt: "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove"
-    publishedDateTime: 2021-01-07T19:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    publishedDateTime: 2021-01-07T23:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1a265eaa6b3e4e8b846a8ca36f069096_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden picks Rhode Island governor to head Commerce, Boston mayor for Labor: sources"
+    excerpt: "President-elect Joe Biden will choose Rhode Island Governor Gina Raimondo as his Commerce Department secretary and Boston mayor and former union official Marty Walsh as his Labor secretary, people familiar with the choices told Reuters on Thursday."
+    publishedDateTime: 2021-01-07T21:23:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN29C2PU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547009021&r=LYNXMPEH061CX&w=800"
+        width: 800
+        height: 533
         isCached: true
 
-secured: "uwtjAp6SHKZrCaq0xNx1JgLfUkElvlJSp7Op67x5u7nrvkVURRNpbm+Qbl84lEL0gVX9k3upc0YrklQISbvDql6LjXG7m7EuxuLpRqzukQkN4eL760AMtCJh0aQrv+E5Mt4A9gOwDYUQHrE/SfuOrW/eTWjo8wSnxgxmZkKNDo4jjg6/AgIPZ1QUI7/X1jIh8CMrQM8zkR93fYkvPyvIroasSrdhjShZ5lso9hAJ69i4LH5+SU1Uj4oHzSJSw97Qm82SIfOcksJTKanKe6mORFpwBFmkNMTuyn+QGPE9sjVwF5d1X7bLikgUcpQ2trdf0C7pKg9L1ThVoPNx2TNjxXZzbYrK9ddMB+6Cm3W1hw8=;6OapeaCZAJTz8XxyQvFvoA=="
+secured: "oAnYQ7P54LhlbVCzMmtCPS/r6SoEOqSjE7TZ8jDw3YY/IUQhSj6OexJENqAiBYRVSo7WmZW38hknDfxLvW1JwfjmSpM444CR5blhI4TYcBo+AlRu8DaovWm8nCE9cLVaGtk1wvD5HFkyNgXLGriPqmWQJpJyB/U85MopF79BAIpIx820EVZ55lA5XrpWeGC+gwrPsae00H4NdKtGI8Pu7vplIeayXT6NmWFjY0fuXHXlvw+t+HnEhyhjv08yaEuZNAwyG0EwUJk07x0xeotD2fcFxPSEOI5pjDWofCHkxUhv89Fc5rhjl24qOvIAWMCks1H/afqukE2IgWBLyk3er7TUv/k8FAIe7tH80UWLMdxVGmc0BzIaL4J0BVeHlQTV1KnYrycSmP2c4vn1PS8FB71jaKSnclSlc1KDyK53DslTMxbEIB4Fp9GVvMOeYiZ1ikVzUU8LAtiL8iGhOjQbQZb1Jpsbw3vu3O3C9hF3qSVgcpyKjN6vcz88a1JlOMo2skAZj5REVIk0Hjav9xADew==;h1qusspnEX2MVYQVQCLZpw=="
 ---
 

@@ -1071,6 +1071,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
+    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
+    publishedDateTime: 2021-01-07T21:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUKKBN29C2RE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C2RE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C2RE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DF"
+        width: 781
+        height: 545
+        isCached: true
   - title: "Trump-Biden transition live updates: House to vote on $2,000 stimulus checks"
     excerpt: "House Speaker Nancy Pelosi on Monday is bringing a vote on a stand-alone bill to increase economic impact payments to $2,000 to the House floor, and while it’s expected to pass the House, it’s unclear whether Senate Majority Leader Mitch McConnell will take up the measure in the Senate."
     publishedDateTime: 2020-12-28T15:58:00Z
@@ -1132,6 +1148,22 @@ related:
     quality: 137
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546680592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0411K"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Republican Maryland governor calls for Trump's removal and Pence to take over"
+    excerpt: "Maryland Governor Larry Hogan on Thursday called for President Donald Trump to resign the White House or be removed from office, saying Vice President Mike Pence should take over to ensure a peaceful transfer of power to Democratic President-elect Joe Biden."
+    publishedDateTime: 2021-01-07T23:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-maryland-idUSKBN29C2QC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2QC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2QC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061D4"
         width: 817
         height: 545
         isCached: true
@@ -1435,6 +1467,22 @@ related:
         width: 718
         height: 545
         isCached: true
+  - title: "Biden accuses Trump of 'inciting' Capitol attack, nominates Garland for attorney general"
+    excerpt: "President-elect Joe Biden on Thursday nominated Judge Merrick Garland for attorney general and accused President Trump of \"inciting\" the Capitol attack."
+    publishedDateTime: 2021-01-08T00:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-accuses-trump-inciting-capitol-attack-nominates-garland/story?id=75112065"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-accuses-trump-inciting-capitol-attack-nominates-garland/story?id=75112065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-accuses-trump-inciting-capitol-attack-nominates-garland/story?id=75112065"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 131
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-garland-01-gty-jc-210107_1610063133584_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Over 230,000 Sign Petition to Remove Trump as Lawmakers Urge Pence to Use 25th Amendment"
     excerpt: "The president is \"the leader of the violence and chaos at the Capitol.... Enough is enough,\" the petition says."
     publishedDateTime: 2021-01-07T20:56:00Z
@@ -1578,6 +1626,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546830708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517X"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden slams pro-Trump mob as 'domestic terrorists' one day after violent siege on U.S. Capitol"
+    excerpt: "Trump mob as 'domestic terrorists' one day after violent siege on U.S. Capitol."
+    publishedDateTime: 2021-01-07T22:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-slams-pro-trump-mob-domestic-terrorists-day-75113533"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-slams-pro-trump-mob-domestic-terrorists-day-75113533"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-slams-pro-trump-mob-domestic-terrorists-day-75113533"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 128
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Biden calls Trump pandemic effort a ‘travesty’ and vows extensive federal response to coronavirus"
     excerpt: "As officials warn of a post-holiday increase in covid-19 cases, Vice President-elect Kamala Harris became the latest high-profile politician to be vaccinated."
@@ -2251,6 +2315,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump is said to have discussed pardoning himself"
+    excerpt: "President Trump has suggested to aides he wants to pardon himself in the final days of his presidency, according to two people with knowledge of the discussions."
+    publishedDateTime: 2021-01-08T00:46:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-self-pardon-20210108-hhe7qrvjgvc3dkkwwsrxatknqu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-self-pardon-20210108-hhe7qrvjgvc3dkkwwsrxatknqu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-self-pardon-20210108-hhe7qrvjgvc3dkkwwsrxatknqu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/zLgfpuo49z4tAI8RLRh3rajqSd4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKAJALEQ6JFRBCVTRMERJKGW3M.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z
@@ -2748,6 +2828,20 @@ related:
         width: 4356
         height: 2904
         isCached: true
+  - title: "SCOOP: Pence opposes 25th Amendment efforts to remove Trump following Capitol riot, VP advisors tell Insider"
+    excerpt: "Vice President Mike Pence opposes removing President Donald Trump via the 25th Amendment after Wednesday's attack on the Capitol, advisors told Insider."
+    publishedDateTime: 2021-01-07T22:48:00Z
+    webUrl: "https://www.businessinsider.com/pence-opposes-25th-amendment-effort-to-remove-trump-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff77e7c6d61c10019cce419?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Congress debates challenges to election results after pro-Trump mob invades Capitol – live"
     excerpt: "Four dead after police shooting and ‘medical emergencies’ in day of unrest"
     publishedDateTime: 2021-01-07T03:43:00Z
@@ -2954,6 +3048,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "UPDATE 1-Wall Street Journal editorial board calls on Trump to resign"
+    excerpt: "The Wall Street Journal editorial board on Thursday called on U.S. President Donald Trump to resign, blaming him for inciting the storming of the U.S. Capitol building on Wednesday by a mob of his supporters."
+    publishedDateTime: 2021-01-08T00:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-wsj/update-1-wall-street-journal-editorial-board-calls-on-trump-to-resign-idUSL1N2JJ018"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -3321,6 +3429,22 @@ related:
       name: Time
       domain: time.com
     quality: 83
+  - title: "Donald Trump officially concedes to Joe Biden in statement, condemns 'attack' at Capitol"
+    excerpt: "President Donald Trump is conceding to President-elect Joe Biden and condemning the violent supporters who stormed the nation’s Capitol Wednesday."
+    publishedDateTime: 2021-01-08T00:37:00Z
+    webUrl: "https://www.nola.com/news/politics/article_af02f288-5149-11eb-bd2f-a7c5d6b58911.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_af02f288-5149-11eb-bd2f-a7c5d6b58911.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_af02f288-5149-11eb-bd2f-a7c5d6b58911.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 81
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/2c/22c61d46-5134-11eb-99e4-474672e9c4cb/5ff78520d4425.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Congress, Pence formally certify Joe Biden's electoral victory"
     excerpt: "Vice President Mike Pence, in his ceremonial role as president of the Senate, formally announced that after counting the electoral votes submitted by the states, President-elect Joe Biden is the official winner of the 2020 election."
     publishedDateTime: 2021-01-07T10:37:00Z
@@ -3645,6 +3769,20 @@ related:
     excerpt: "Congress formally certified Joe Biden as the next US president on Thursday, dealing a hammer blow to Donald Trump whose supporters stormed the Capitol hours earlier, triggering unprecedented scenes of mayhem in the seat of American democracy."
     publishedDateTime: 2021-01-07T09:27:00Z
     webUrl: "https://www.ibtimes.com/us-congress-certifies-biden-win-over-trump-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Biden Condemns Trump As Calls Mount For His Removal From Office"
+    excerpt: "Supporters of US President Donald Trump gather for a rally in Washington Photo: AFP / Brendan Smialowski. As the top two Democrats in Congress called for Trump's immediate removal"
+    publishedDateTime: 2021-01-07T20:36:00Z
+    webUrl: "https://www.ibtimes.com/biden-condemns-trump-calls-mount-his-removal-office-3115809"
     type: article
     provider:
       name: International Business Times

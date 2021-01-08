@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
-    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
-    publishedDateTime: 2021-01-06T22:45:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Capitol rioters could face up to 10 years in prison under Trump monument executive order"
     excerpt: "Acting Attorney General Jeffrey Rosen vowed that pro-Trump rioters who entered the U.S. Capitol would \"face the full consequences of their actions under the law,\" and those consequences could include being charged under President Trump's executive order authorizing up to 10 years in prison for \"injury"
     publishedDateTime: 2021-01-07T19:38:29Z
@@ -76,22 +60,6 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
-    excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
-    publishedDateTime: 2021-01-06T20:49:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXeCv6PMoZo/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1634d190-f04d-466f-9adb-4458330ac017/18a24fae-b741-48f8-b897-8bf64a80f1f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

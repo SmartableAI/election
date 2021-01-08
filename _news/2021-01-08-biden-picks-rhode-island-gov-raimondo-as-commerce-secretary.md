@@ -2,21 +2,21 @@
 category: news
 title: "Biden picks Rhode Island Gov. Raimondo as commerce secretary"
 excerpt: "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove"
-publishedDateTime: 2021-01-07T19:22:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary/2021/01/07/1837a06e-511d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+publishedDateTime: 2021-01-07T23:49:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1a265eaa6b3e4e8b846a8ca36f069096_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -47,7 +47,21 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden picks Rhode Island governor to head Commerce, Boston mayor for Labor: sources"
+    excerpt: "President-elect Joe Biden will choose Rhode Island Governor Gina Raimondo as his Commerce Department secretary and Boston mayor and former union official Marty Walsh as his Labor secretary, people familiar with the choices told Reuters on Thursday."
+    publishedDateTime: 2021-01-07T21:23:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN29C2PU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547009021&r=LYNXMPEH061CX&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "DptrU/n4tOjwfATLrDdTE1QzyU7kuDv9WmmtOOgzXmk5BRj8NZU18iJ8xQRE5EUckOqQp08GBe3R0RAMk2dcBWJGlPQBHDdRnIkq5h28x3jBX2kY0dGnV5w7ddwpzATulHV8nBHJNBab352nQbn79do1+dLP3cdNRfQ4o8l1yPgmghlMl2TsDrCTsQvsRkjzFkFK7ee894auCzLYaZ5C34i3lESIruYTcsjOpnTNO2v5ZJMoFgTncYXBKdrdqMHokBUMjsfp+92nhuAa4LzuUaKi+VMRBhE8zqzhydJP+x6nxbTowdeMrg1v4PQq2BHtcwT+ZAv96gX34A/iXXRVe18oGZHoR9mTYr9KjqtXw1w=;iqHa7debPjiSnKMMI9jMuw=="
+secured: "KcFmpNWiaGjDPUl7ngOUqVWOr1XfEBLOoGTZ8SkBwZYW5QUoGBwe4aZ+L0xkVC10YV0hXWEciDgSvoUPSwlPIkpJF5A48VN1TXg4cOJov08WMZo8G1rKxJwIv/qYtlHmfD1OSTfg26i0mKP3V1BIs+Q4w97Ts84+n+He6e9dpRHLFSvumoKBJKaV9gqgtDcTejPrULh3gG+28SdZr39vgJCFwnrpu0u5flPPSxtKzYChsHPh7Q0501zOCWf1thw7y47xJDH2R7TWmNES8ZoCni4rpC7PTMLyNhgdiqRTV+H9R1JETw7c+6vt7C/cs8na34y///RJNdEbMZq0ZKCyDdRut/JjJMYJfC23vay8QiM=;kqxMwreQI5UPwZgjQXnXXQ=="
 ---
 

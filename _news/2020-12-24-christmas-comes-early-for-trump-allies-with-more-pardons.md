@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's been playing the pardon long game his entire presidency "
-    excerpt: "More than a year and a half ago, special counsel Robert Mueller had caught on to what President Donald Trump might do with his pardon power.\n    \n"
-    publishedDateTime: 2020-12-24T14:54:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKBwIrKtzFk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/trump-mueller-pardons/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191118113014-trump-mueller-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump chooses chaos with delayed signature of Covid relief bill "
     excerpt: "President Donald Trump is driving the country through chaos from behind the wheel of his golf cart.\n    \n"
     publishedDateTime: 2020-12-28T11:13:34Z
@@ -224,6 +208,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Jobless Benefits Are Set to Expire as Trump Resists Signing Relief Bill"
     excerpt: "Millions of Americans were set to lose crucial jobless aid, as the president continued to criticize the bill that would keep the programs from lapsing."
     publishedDateTime: 2020-12-26T23:55:00Z
@@ -318,20 +318,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Snowden allies see opening amid Trump clemency blitz"
-    excerpt: "Republican members of Congress who have spoken with the president recently view him as increasingly malleable to their suggestions in his closing days."
-    publishedDateTime: 2020-12-24T21:51:00Z
-    webUrl: "https://www.politico.com/news/2020/12/24/snowden-allies-trump-pardons-450360"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/7f/b8/4df041274859972d57fd8800eaa2/ap19308706751660-1-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump squeezes Republicans with eye on 2022 primaries"
     excerpt: "The president is lashing out at Republicans he sees as disloyal — and the GOP is seeing how Trump's interests can diverge from the party's."
     publishedDateTime: 2020-12-24T21:35:00Z
@@ -357,20 +343,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/ae/19/03a2d02343e693c6b8c46efc3b1e/201227-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Members of Congress to Trump: Sign stimulus bill"
-    excerpt: "\"The danger is he’ll be remembered for chaos and misery and erratic behavior if he allows this to expire,” one Republican senator says."
-    publishedDateTime: 2020-12-27T16:18:00Z
-    webUrl: "https://www.politico.com/news/2020/12/27/stimulus-bill-congress-trump-450835"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ce/73/9bc48fe949378f87eef55cc895e7/190910-pat-toomey-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true

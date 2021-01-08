@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots"
+    excerpt: "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U."
+    publishedDateTime: 2021-01-07T23:44:00Z
+    webUrl: "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html"
+    ampWebUrl: "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 65
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RUUVL3H7NBD4LDLRK2P52HXIQI.PNG"
+        width: 718
+        height: 464
+        isCached: true
 
 secured: "UnW9pX0dZoFZHq6yXhn++cdlwChxLztBpmwSi18mzCMFmBrUDxJHYm/Nnbk5LlgO1fNVRjzxZmGZ3CSlppg0zjQJt8vWZ7TOVg1slKpbLdh6K9p0QmGQmYLQWJFa1BlNHQAjeqhV8tCXINYPCmnkTlcexsyPoUWVidP/ZD6CijDKxYG2KoEwZ/qD1Bv9RNFLEfeFb5MnXpMD1TgfOtnbNyhMtB7UN3S/2Az+F2lDR1eFE6oD5Urz2Otg4nPRQEjKhgbVWQA/qAepZaHCO0hxDL3ExCNdBHvs+2j4PTJk+5ALIt0c3fv3D8rS284ZlLpg/EjuhUExSYE+RTgHoqco4+iTwfFtd2ZJIkzT4FVsRkA=;qRsFa6Ztc1GTc1Y9Ra5suQ=="
 ---

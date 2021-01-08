@@ -325,6 +325,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Coloradans in Congress voted on certifying Joe Biden’s victory"
+    excerpt: "With two exceptions, Coloradans in Congress voted Wednesday night and into the overnight hours Thursday to certify the 2020 presidential election."
+    publishedDateTime: 2021-01-07T21:42:00Z
+    webUrl: "https://www.denverpost.com/2021/01/07/colorado-congress-us-capitol-election-2020/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/07/colorado-congress-us-capitol-election-2020/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/07/colorado-congress-us-capitol-election-2020/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/GettyImages-1230452070.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
     excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."
     publishedDateTime: 2021-01-04T19:47:00Z
