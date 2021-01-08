@@ -311,22 +311,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "President Trump won't attend Joe Biden's inauguration"
-    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
-    publishedDateTime: 2021-01-08T16:35:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f74c672051934e86a856ce9f89727a9a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "US Capitol riot, Pence confirms Biden, Trump commits to 'orderly transition': 5 things to know Thursday"
     excerpt: "U.S. Capitol riot, Trump commits to \"orderly transition\" after Biden officially declared election winner and more news you need to know Thursday."
     publishedDateTime: 2021-01-07T10:54:00Z
@@ -422,6 +406,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EE1/production/_116337604_mediaitem116337599.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump announces he'll skip inauguration, Biden said he'd be 'honored' to have Pence there"
+    excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
+    publishedDateTime: 2021-01-08T20:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/08/donald-trump-says-he-wont-attend-joe-bidens-inauguration/6594812002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6594812002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6594812002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
     excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."
@@ -969,10 +969,10 @@ related:
         isCached: true
   - title: "Hurt feelings, anger linger after Pence, Trump clash"
     excerpt: "It's part of the fallout from an extraordinary 24-hour stretch in which Pence openly defied Trump, Trump unleashed his fury on the vice president, and a mob of violent supporters incensed by Trump’s rhetoric stormed the Capitol building and tried to halt the peaceful transfer of power."
-    publishedDateTime: 2021-01-08T07:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75127167"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75127167"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75127167"
+    publishedDateTime: 2021-01-08T06:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75121737"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75121737"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75121737"
     type: article
     provider:
       name: ABC
@@ -982,6 +982,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_94b0268b7e894013bd1b1d4158010211_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Live Updates: Trump says he won't attend Biden's inauguration"
+    excerpt: "Lawmakers are considering ways to remove President Trump​ from office after a violent mob of his supporters stormed the Capitol."
+    publishedDateTime: 2021-01-08T15:59:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/64ee0df8-b49f-43e9-a58b-c45102a99889/thumbnail/1200x630/0615066b524bbd10cc9174075ba7db6f/gettyimages-1295319912.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Pelosi vows to impeach Trump again — if Pence doesn't remove him first"
     excerpt: "Speaker Nancy Pelosi (D-Calif.) said Thursday that Washington policymakers should act immediately to remove President Trump from office just two weeks before his term ends, citing \"seditious\" acts related to the president's role in encouraging the assault on the U."
@@ -3537,6 +3553,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Trump won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s Inauguration on Jan. 20. He will be the first incumbent president since Andrew Johnson to skip his successor's inauguration."
+    publishedDateTime: 2021-01-08T16:04:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/0f/c0f7197e-5126-11eb-a0dd-cb23d0dcfa5e/5ff76ece4a5b6.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump announces he won't attend Joe Biden's inauguration"
     excerpt: "President Donald Trump said Friday he will break with tradition and not attend the inauguration of President-elect Joe Biden on Jan. 20."
     publishedDateTime: 2021-01-08T17:40:00Z
@@ -3912,6 +3944,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Trump Isn't The First President To Snub His Successor's Inauguration"
+    excerpt: "Trump joins a short list of other presidents who couldn't bring themselves to accept succession, as well some that wanted to attend but couldn't."
+    publishedDateTime: 2021-01-08T18:50:00Z
+    webUrl: "https://www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624"
+    ampWebUrl: "https://www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-donald-trump-announced-he-will-not-attend.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-03T19:54:00Z
@@ -4223,6 +4271,20 @@ related:
       - url: "https://thumbnails.texastribune.org/3mJcMH6QDkc5r3WqzDsrm7S5K90=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/44658a9031baec3532e06fcd7b009490/Ted%20Cruz%20Jan%206%20REUTERS%20TT.jpg"
         width: 1200
         height: 804
+        isCached: true
+  - title: "Major US Labor Federation Calls For Trump's Immediate Removal"
+    excerpt: "The largest trade union federation in the United States on Friday joined a growing chorus of business and political organizations calling for President Donald Trump's immediate removal from office following Wednesday's violent riot that he instigated."
+    publishedDateTime: 2021-01-08T19:54:00Z
+    webUrl: "https://www.ibtimes.com/major-us-labor-federation-calls-trumps-immediate-removal-3117665"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/trump-supporters-clashed-with-police-and-security-forces.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "The Latest: Trump Tweets That He Won't Attend Inauguration"
     excerpt: "President Donald Trump is casting himself as the defender of those who voted for him as he begins his day on Twitter."

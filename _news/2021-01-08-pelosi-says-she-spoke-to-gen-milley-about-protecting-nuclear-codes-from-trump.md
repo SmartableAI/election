@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
+    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
+    publishedDateTime: 2021-01-08T19:44:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
+    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pro-Trump protesters storm Pelosi's office, take over Senate chamber at US Capitol"
     excerpt: "Thousands of pro-Trump protesters stormed the U.S. Capitol on Wednesday, vandalizing House Speaker Nancy Pelosi’s office and both congressional chambers."
     publishedDateTime: 2021-01-06T22:42:30Z

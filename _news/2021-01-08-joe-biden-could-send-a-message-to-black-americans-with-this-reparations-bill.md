@@ -416,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pompeo meeting with Biden's secretary of state pick for first time"
+    excerpt: "Secretary of State Mike Pompeo is meeting with Antony Blinken, President-elect Joe Biden's nominee to be his successor, for the first time on Friday."
+    publishedDateTime: 2021-01-08T18:35:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214110719-pompeo-sudan-1021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z

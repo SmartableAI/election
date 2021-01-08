@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden coronavirus vaccine plan won't fix 'bottleneck' on administering shots: Saphier"
+    excerpt: "Fox News contributor Dr. Nicole Saphier said the incoming Biden administration's plan to release nearly all coronavirus vaccines was wrongheaded when the focus should be on administering the ones already sent out."
+    publishedDateTime: 2021-01-08T19:43:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6-VuSRFLYcQ/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b02dd24-c059-4e8d-9f7d-a3c2832cf816/dbdb6cfd-324f-468d-98e0-38171c3cb2a5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House to vote on $2,000 stimulus checks after Trump signs coronavirus, spending package"
     excerpt: "The House of Representatives on Monday will vote on a bill to send $2,000 stimulus checks to Americans in lieu of the $600 checks included in the coronavirus stimulus and government funding package President Trump signed Sunday night. "
     publishedDateTime: 2020-12-28T12:26:10Z

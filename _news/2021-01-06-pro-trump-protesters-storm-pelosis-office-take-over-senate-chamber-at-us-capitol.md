@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
+    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
+    publishedDateTime: 2021-01-08T19:44:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
+    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” "
     publishedDateTime: 2021-01-08T18:13:55Z

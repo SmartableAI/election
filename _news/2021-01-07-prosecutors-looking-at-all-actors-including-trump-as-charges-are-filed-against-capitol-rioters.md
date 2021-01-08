@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-riot/index.html"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Justice Dept. Open to Pursuing Charges Against Trump in Inciting Riot"
-    excerpt: "The top federal prosecutor in Washington said investigators were examining anyone involved, “not only the people who went into” the Capitol."
-    publishedDateTime: 2021-01-08T01:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
+  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
+    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
+    publishedDateTime: 2021-01-07T20:11:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 161
     images:
-      - url: "https://static01.nyt.com/images/2021/01/07/lens/07dc-investigate-trump/07dc-investigate-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pro-Trump demonstrators enter grounds of Washington governor's mansion as protesters gather across the country"
+    excerpt: "While much of the nation was transfixed on the riot at the US Capitol, supporters of Donald Trump demonstrated in cities across the country, and in Olympia, Washington, protesters pushed into the governor's mansion property.\n    \n"
+    publishedDateTime: 2021-01-07T02:10:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sVVXVIeCjxI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106193957-01-trump-supporters-us-demonstrations-olympia-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "wckw1/GF/g0a9Hfs70sXlMffps98o1TdQQjqf1ZB9teR72NLe/TE9FoPXgUp+ZRVBm4vpXFp847F9lzEIgQr14mCQBrGfoOpy2ihpps+nj0HwbQqMcsEFX+c+KjuKO+zZSkkswzUh/HFF9WxXi1I7m3m42dpfPdebzicbsVeVdtxGFFXHABwz2smqMbPfSNiD6bvuXw0JHTsOvAtwoKGziMnK4157yhtW6fNTxhoUxpjcM56urKqL5FvniXkIwmVT9bn5UNB9yNgm7lzc0IgMO/mBs8V+FF9C32/NOG9PQF2zXOXigDjmp3HrOLIVSoxm2C4PmFe/sHBHwcm7sa16pg7k/3KFDo5MaqIkiCBPm8=;iG4zEUvqVVSFiySjruNlZg=="

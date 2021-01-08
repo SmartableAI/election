@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump and adult Trump children avoid the spotlight after one of nation's darkest days "
-    excerpt: "As thousands of pro-Trump supporters streamed into Washington, DC, Wednesday headed first to the Ellipse to hear President Donald Trump speak, and then to the United States Capitol to lay siege to the epicenter of American democracy, first lady Melania Trump was doing a photo shoot at the White House.\n"
-    publishedDateTime: 2021-01-08T14:07:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CZZKHCGzFf0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-house-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-house-capitol-riot/index.html"
+  - title: "Prosecutors 'looking at all actors,' including Trump, as charges are filed against Capitol rioters"
+    excerpt: "Federal investigators are looking at everyone involved in the unrest at the US Capitol on Wednesday, including the role President Donald Trump played in inciting the crowd, the acting US attorney in Washington, DC, said Thursday.\n    \n"
+    publishedDateTime: 2021-01-07T23:41:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCXP5VbFXRQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-riot/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107071624-43-electoral-college-vote-protest-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -60,38 +60,6 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: Pelosi's letter on speaking with the chairman of the Joint Chiefs about Trump and the nuclear codes"
-    excerpt: "House Speaker Nancy Pelosi told her members in a letter Friday that she spoke to Joint Chiefs of Staff Chairman Gen. Mark Milley about President Donald Trump and the nuclear codes. Milley said in a statement that Pelosi initiated the call and he \"answered her questions regarding the process of nuclear"
-    publishedDateTime: 2021-01-08T18:12:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sji0cXxsg7g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103154127-pelosi-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
-    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
-    publishedDateTime: 2021-01-07T18:05:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

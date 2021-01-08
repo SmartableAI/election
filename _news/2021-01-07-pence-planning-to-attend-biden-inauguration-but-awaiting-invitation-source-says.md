@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-ina
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-inauguration/index.html"
 type: article
 quality: 195
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -397,6 +397,22 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104155441-joe-biden-1222-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pompeo meeting with Biden's secretary of state pick for first time"
+    excerpt: "Secretary of State Mike Pompeo is meeting with Antony Blinken, President-elect Joe Biden's nominee to be his successor, for the first time on Friday."
+    publishedDateTime: 2021-01-08T18:35:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214110719-pompeo-sudan-1021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

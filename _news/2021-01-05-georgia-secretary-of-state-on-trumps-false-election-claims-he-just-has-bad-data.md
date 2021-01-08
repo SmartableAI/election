@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says Trump skipping inauguration is 'a good thing'"
+    excerpt: "President-elect Joe Biden said President Donald Trump's decision to skip his inauguration is \"one of the few things he and I have ever agreed on.\"\n    \n"
+    publishedDateTime: 2021-01-08T20:35:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uWIrVC2_cQ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-trump-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-trump-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108143211-01-biden-0108-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump deal with Morocco is yet another headache for Biden team"
     excerpt: "On Thursday, Morocco became the fourth Arab state this year to announce it would establish relations with Israel. It was another diplomatic win for the Trump administration, with US President Donald Trump tweeting that it was \"a massive breakthrough for peace in the Middle East!\"\n    \n"
     publishedDateTime: 2020-12-12T17:34:56Z
@@ -796,6 +812,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107233827-diario-eeuu-renuncia-trump-conclusiones-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US diplomats draft memo calling on Pompeo to denounce Trump"
+    excerpt: "US diplomats are calling on Secretary of State Mike Pompeo to denounce President Donald Trump's role in the violent insurrection attempt on the US Capitol on Wednesday.\n    \n"
+    publishedDateTime: 2021-01-08T19:03:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ssdRkxiRmGQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/state-department-dissent-memo-trump-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/state-department-dissent-memo-trump-insurrection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190624161907-trump-contradicts-pompeo-strait-of-hormuz-lead-vpx-00000000-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

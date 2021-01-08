@@ -208,6 +208,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden Demands Trillions of Dollars in Aid After Drop in Payrolls"
+    excerpt: "President-elect Joe Biden called for trillions of dollars in immediate further economic support, including increased direct payments, in the wake of the worst monthly jobs report since April."
+    publishedDateTime: 2021-01-08T20:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-demands-trillions-of-dollars-in-aid-after-drop-in-payrolls/2021/01/08/735348dc-51e9-11eb-a1f5-fdaf28cfca90_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5NWFHSR5EI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 954
+        isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
     publishedDateTime: 2021-01-05T04:58:00Z

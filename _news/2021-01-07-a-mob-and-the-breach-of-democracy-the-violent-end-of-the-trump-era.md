@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Josh Hawley Learned to Stop Worrying and Love Donald Trump"
-    excerpt: "Until recently, the senator leading the charge to discredit Biden’s victory was a creature of the ultraconservative establishment. Then he discovered Trump’s faux populism."
-    publishedDateTime: 2021-01-06T10:34:00Z
-    webUrl: "https://www.thenation.com/article/politics/hawley-cruz-trump/"
-    ampWebUrl: "https://www.thenation.com/article/politics/hawley-cruz-trump/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/hawley-cruz-trump/tnamp/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 85
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2021/01/Hawley-pic-scaled-e1609894623844.jpg"
-        width: 1440
-        height: 907
-        isCached: true
 
 secured: "muTAGgzn8XcifdvEpLQOudbrb3SgOs/7X+fUMafzde9egz0TGaE6feiN2+qmw/r0NkERi0f5dM4GjfCtnF3QcAJt1BWs9eWjrupVs168BJz+kmzJABKPeKJyJV2zYYwVPpaXZS/61tmvXqfV2s19R3bxjF5eCxv/dieipIZEScYvvPr/fyQxfuOxVr9m7iB0i//7fasUI8An3KclrYzDPzRSGzvnVrL80Cu8IOoDNiKZk9rCrFoQyRjBs9XqjBS3X+3GDXG5IwrlZ5R02uSbPttG+nfcBBpcbBDDwygCbUj9c2Vl0CC9F5XvJUmtbpIXlP3sHO6ZuiLnBjR75mN7zE3UkJiHRe4XUWcNrqDNDts=;H7Ke37oieM0d0iWBnnISoQ=="
 ---
