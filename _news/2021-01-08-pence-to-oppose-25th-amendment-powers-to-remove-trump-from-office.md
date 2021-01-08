@@ -2,13 +2,13 @@
 category: news
 title: "Pence to oppose 25th Amendment powers to remove Trump from office"
 excerpt: "Vice President Mike Pence intends to oppose calls from both Democrats and Republicans in Congress to invoke the 25th Amendment and remove President Trump from office after the U.S. Capitol breach."
-publishedDateTime: 2021-01-08T03:36:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tadZM5WPMdU/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tadZM5WPMdU/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment"
+publishedDateTime: 2021-01-08T03:58:00Z
+originalUrl: "https://www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment"
+webUrl: "https://www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment"
 ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment.amp"
 type: article
-quality: 200
+quality: 150
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1983e09-3cb7-4c5b-9df2-9194e77caca0/b2982378-fec2-4b3a-8528-b14e4db9cf92/1280x720/match/image.jpg"
@@ -605,6 +605,22 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd6d50f1-3621-492f-bc68-81e70496213d/3379f4c4-a1e1-49f1-a670-2194df04623e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrats march toward another impeachment against Trump for deadly riot at Capitol"
+    excerpt: "House Democrats are drafting new articles of impeachment against President Trump following a deadly riot at the Capitol Wednesday in a failed attempt to stop Congress from certifying Joe Biden's presidential victory."
+    publishedDateTime: 2021-01-08T18:18:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ws4BBkp3IPA/democrats-draft-new-articles-impeachment-trump-deadly-riot-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-draft-new-articles-impeachment-trump-deadly-riot-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-draft-new-articles-impeachment-trump-deadly-riot-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbba44bf-f547-4bde-9b30-dae79d953d52/ed29b924-1754-4eb3-8e13-87c70a4b7fc4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1294,6 +1310,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "aAuc7NSnmX2lPCjd9HDzfq3482juH8av+SB6DV1FBKrwIfJEVCg2NWpAb5zp3EqJjEPdts8sFaKzXx7yvRMLu/yJp7F5johhA9VuKyZm5jbEOXs8iqZjLob50z42ZD7eGoAzJjdsO3oYyV9HCDcQYnUd6fhJUubS2T/3wQzIh8/JloonyuwavQ+uyOqtzhN40Rp9CHbfSXACHs9GbJNw84I1mCQaRJzP3gqEw97b8d+lCAruwGqLH83cqIRQqnakVo7Ah91sdeznOFXTgp4I4zVa3EnakRj8Nyyjdhp7kM+VOtN+kcNpUSNkIlM05n7oj9psLobfbqHNeR0GvQtnTs5kboVUX7uOy4SJtKsnsBw=;gQbYouuBY0ezWwtJkahNJA=="
+secured: "1jVhKCu8C8/+l7glhDHqwTWGsana5lzf8VRFC/iCqdQATlOOAkBN+sdyEOYLhhHqCo0CeSm7Px9JfKjGC2Qy5LNVyArVQgMZxnZZayHdBHUw8FLKJxgawaDASYF0NC+UWC2ug1xqrY4MYzk9tWCNGa2Rk/lKaRXxaTGJ5hst+jduc0veOd/k0i60PjONBFCOrggDu/W5/dTLzBChoh9xLok6WMZR4uIFNPrLCLCdpwi2tlJ1wKv3JOpEl4lr+tk1BwLbxC8QeXI6vxsmm8FuzX4oiSU6NwqG6D+6Vk0DhNxajVSerzKr1AdPWoD7srTPbNw5hyDwp8v1jN8lghNNHQjGUcHnVqpcNc52cpPIMRk=;MKpyMCqrLkbFIx+w2yYxgQ=="
 ---
 

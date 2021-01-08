@@ -63,6 +63,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
+    excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"
+    publishedDateTime: 2021-01-08T16:58:00Z
+    webUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528"
+    ampWebUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
     excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
     publishedDateTime: 2021-01-06T20:30:00Z

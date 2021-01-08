@@ -750,6 +750,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pelosi says she spoke to Gen. Milley about Trump and the nuclear codes"
+    excerpt: "House Speaker Nancy Pelosi told House Democrats in a letter on Friday that she spoke with the Chairman of the Joint Chiefs of Staff Gen. Mark Milley to discuss President Donald Trump and the nuclear codes, as Democrats call for the President to be removed from office after a violent pro-Trump mob stormed"
+    publishedDateTime: 2021-01-08T18:13:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j6TCSg4hwQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/house-speaker-joint-chiefs-milley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/house-speaker-joint-chiefs-milley/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006130844-gen-mark-milley-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump asking aides and lawyers about self-pardon power "
     excerpt: "President Donald Trump has been asking aides and lawyers, including White House counsel Pat Cipollone, about his self-pardon power, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-01-08T00:18:45Z

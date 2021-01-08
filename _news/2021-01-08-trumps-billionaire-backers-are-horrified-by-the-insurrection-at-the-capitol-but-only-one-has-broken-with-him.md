@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack"
+    excerpt: "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them."
+    publishedDateTime: 2021-01-08T18:36:00Z
+    webUrl: "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
+    excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."
+    publishedDateTime: 2021-01-08T15:18:00Z
+    webUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482"
+    ampWebUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/us-president-donald-trump-whips-up-the-crowd.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
     excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
     publishedDateTime: 2021-01-04T05:27:00Z

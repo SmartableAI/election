@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-colin-powell-calls-for-trumps-resignation-as-quickly-as-possible-he-should-be-totally-ashamed-of-himself.md",
+      "title": "Colin Powell calls for Trump's resignation 'as quickly as possible': 'He should be totally ashamed of himself'",
+      "excerpt": "Former U.S. State Secretary Colin Powell, a Republican, called for President Trump's resignation \"as soon as possible.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/80JDMmzU6KU/colin-powell-trump-resignation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/80JDMmzU6KU/colin-powell-trump-resignation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6c7af25-2bdf-4401-92ac-4805fd8fa3f6/57155546-d175-4924-82b9-b97b67efa0c8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/colin-powell-trump-resignation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colin-powell-trump-resignation.amp",
+      "publishedDateTime": "2021-01-08T10:53:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-kurtz-no-president-has-been-able-to-dominate-the-media-social-media-culture-more-than-trump.md",
+      "title": "Kurtz: 'No president has been able to dominate the media, social media, culture more than Trump'",
+      "excerpt": "President Trump is one of the most influential presidents in United States history,” \"Media Buzz\" host Howard Kurtz said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa5v7i_D51Y/kurtz-no-president-media-social-media-culture-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa5v7i_D51Y/kurtz-no-president-media-social-media-culture-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp",
+      "publishedDateTime": "2021-01-08T10:47:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-us-labor-federation-urges-trump-removal-calling-him-danger-to-nation.md",
       "title": "U.S. labor federation urges Trump removal, calling him 'danger' to nation",
       "excerpt": "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office.",
@@ -10,7 +122,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -381,7 +493,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -641,7 +753,7 @@
       "originalUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1238,118 +1350,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-prosecutors-looking-at-all-actors-including-trump-as-charges-are-filed-against-capitol-rioters.md",
-      "title": "Prosecutors 'looking at all actors,' including Trump, as charges are filed against Capitol rioters",
-      "excerpt": "Federal investigators are looking at everyone involved in the unrest at the US Capitol on Wednesday, including the role President Donald Trump played in inciting the crowd, the acting US attorney in Washington, DC, said Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCXP5VbFXRQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCXP5VbFXRQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107071624-43-electoral-college-vote-protest-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-riot/index.html",
-      "publishedDateTime": "2021-01-07T15:41:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-his-entire-legacy-was-wiped-out-yesterday-hill-republicans-ready-to-move-on-from-trump.md",
-      "title": "'His entire legacy was wiped out yesterday': Hill Republicans ready to move on from Trump",
-      "excerpt": "Congressional Republicans are done with Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1BckjlZ0H2k/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1BckjlZ0H2k/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/trump-hill-republicans-move-on/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-hill-republicans-move-on/index.html",
-      "publishedDateTime": "2021-01-07T14:41:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

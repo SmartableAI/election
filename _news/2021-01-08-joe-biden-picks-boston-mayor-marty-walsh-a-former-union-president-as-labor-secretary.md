@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Capitol riots: Congress certifies Joe Biden's victory after chaotic scenes"
+    excerpt: "The US Congress has certified Joe Biden's victory in the presidential election, hours after supporters of Donald Trump stormed the building in an attack that saw four people die. Lawmakers resumed the session after police removed a mob that had been encouraged by President Trump as part of his attempt to overturn his defeat."
+    publishedDateTime: 2021-01-08T18:32:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55568621"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55568621"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55568621"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 123
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E7E7/production/_116376395_gettyimages-1294949419-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election"
     excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."
     publishedDateTime: 2021-01-06T04:25:00Z

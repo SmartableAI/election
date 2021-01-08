@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-store
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
         width: 818
         height: 545
+        isCached: true
+  - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
+    excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"
+    publishedDateTime: 2021-01-08T16:58:00Z
+    webUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528"
+    ampWebUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Twitter On Shopify Terminating Donald Trump-Affiliated Stores After Capitol Riot: ‘Too Little, Too Late’"
     excerpt: "Twitter users have mixed opinions on Shopify’s move to terminate all the stores affiliated with Donald Trump on its website."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/census-bureau-misses-deadline-threa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres.amp"
 type: article
 quality: 161
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "As Trump's border wall tops 450-mile goal, CBP chief says more wall is coming"
-    excerpt: "The Trump administration on Tuesday announced that the number of miles of wall at the southern border had topped 450, a key election promise set by President Trump – with a top official saying more wall construction is underway."
-    publishedDateTime: 2021-01-05T18:04:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnWntiRONo/trumps-border-wall-tops-450-mile"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "9JilYuQJBFKw9bhB6+4XenhjBHC6XdDHoycHTBuyCcu6w/z2ZzRof2MhiFaha7zJP/aFoNfz9LwlS+0qYHrLKxfdBvJ0rVJx6McyCcp9OKuhz5MejwUZn+KFeGhhZfsZE7t7iH8grwCuqEWxU3RaYrwpjBA2J5O1/cr96ZUWJ5yXc1/5uUA3RZYBqP7tpWXQwVbCr/J+zK+cKFhM7Bt0BDZ7gpv/RyUoNnIK8VypF+YcsFTYn6GVwEMI0VDPdMXkLPkAEah8JKtsHRPcTs5Qn0bdGHtA9wGYQPs7Qfzax1HxUg2Nv/kFuQ2gPFMMACA16O+V8ZIZVgXoO8PZEKFu3YAtx4CfXS63XxNdjl9lJ7Y=;7TmKGT6zRLIFeYPRT223uw=="
 ---

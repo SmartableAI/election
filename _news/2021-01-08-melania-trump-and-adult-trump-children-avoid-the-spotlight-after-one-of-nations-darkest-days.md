@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-house-capitol-riot/index.html"
 type: article
 quality: 163
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: Pelosi's letter on speaking with the chairman of the Joint Chiefs about Trump and the nuclear codes"
+    excerpt: "House Speaker Nancy Pelosi told her members in a letter Friday that she spoke to Joint Chiefs of Staff Chairman Gen. Mark Milley about President Donald Trump and the nuclear codes. Milley said in a statement that Pelosi initiated the call and he \"answered her questions regarding the process of nuclear"
+    publishedDateTime: 2021-01-08T18:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sji0cXxsg7g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103154127-pelosi-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,115 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-12-new-jersey-representative-asks-pelosi-to-refuse-to-seat-any-house-members-who-supported-trumps-election-lawsuits.md",
+      "title": "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits",
+      "excerpt": "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
+      "originalUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
+      "publishedDateTime": "2020-12-12T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-bidens-cabinet-picks-give-kamala-an-edge-in-2024.md",
+      "title": "Biden’s Cabinet picks give Kamala an edge in 2024",
+      "excerpt": "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482",
+      "originalUrl": "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482",
+      "publishedDateTime": "2020-12-11T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-fox-news-poll-most-republicans-say-president-trump-was-robbed.md",
       "title": "Fox News Poll: Most Republicans say President Trump was robbed",
       "excerpt": "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters.",
@@ -1234,114 +1343,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trump-and-his-allies-have-won-zero-out-of-at-least-38-lawsuits-theyve-filed-since-election-day.md",
-      "title": "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day",
-      "excerpt": "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 528,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd0dc06240ebd00126bde01?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp",
-      "publishedDateTime": "2020-12-10T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-in-leaked-audio-suggests-gop-beat-the-living-h-out-of-us-over-defund-the-police.md",
-      "title": "Biden, in leaked audio, suggests GOP 'beat the living h--- out of us' over 'defund the police'",
-      "excerpt": "Biden said that public calls for police reform should be avoided ahead of the Georgia Senate runoff vote.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StJsS8M-EY8/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec1a53c-f49f-4fc6-8b84-18fe1bbfadfe/8551395f-6676-4a6b-b491-ef4400e0b91f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leaked-audio-gop-beat-the-living-h-out-of-us-over-defund-the-police.amp",
-      "publishedDateTime": "2020-12-10T13:30:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

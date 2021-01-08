@@ -142,6 +142,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama and Clinton will join Bush at Biden's inauguration"
+    excerpt: "Former Presidents Barack Obama and Bill Clinton will attend President-elect Joe Biden's inauguration, officials say, joining former President George W. Bush, who also plans to be in Washington for the official transfer of power.\n    \n"
+    publishedDateTime: 2021-01-08T17:52:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z1ntrVtNoX8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/bill-clinton-barack-obama-george-w-bush-biden-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/bill-clinton-barack-obama-george-w-bush-biden-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203081514-01-obama-bush-clinton-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pompeo meeting with Biden's secretary of state pick for first time"
+    excerpt: "Secretary of State Mike Pompeo is meeting with Antony Blinken, President-elect Joe Biden's nominee to be his successor, for the first time on Friday.\n    \n"
+    publishedDateTime: 2021-01-08T18:35:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Sxcr4Fh-BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pompeo-blinken-meeting-january/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216125244-01-mike-pompeo-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden inaugural festivities to feature national day of service on MLK Day"
     excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
     publishedDateTime: 2021-01-04T16:55:45Z
@@ -267,6 +299,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to take train to Washington for inauguration, moving forward to 'not be deterred' by violence or virus"
+    excerpt: "Joe Biden will begin his new journey as the 46th President of the United States in a familiar way: riding Amtrak from Wilmington to Washington.\n    \n"
+    publishedDateTime: 2021-01-08T18:55:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N6jsrHYdl3E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-train-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-train-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110181613-biden-train-sept-30-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

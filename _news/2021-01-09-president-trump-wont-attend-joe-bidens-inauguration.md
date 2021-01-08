@@ -2,13 +2,13 @@
 category: news
 title: "President Trump won't attend Joe Biden's inauguration"
 excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
-publishedDateTime: 2021-01-08T16:10:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
-webUrl: "https://abcnews.go.com/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
+publishedDateTime: 2021-01-08T16:35:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
+webUrl: "https://abcnews.go.com/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Joe Biden
 
 images:
@@ -2782,6 +2783,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden to speed release of coronavirus vaccines, ending Trump practice of holding back shots for second dose"
+    excerpt: "President-elect Joe Biden will release most available COVID-19 vaccine doses to speed delivery to more people, a reversal of the Trump administration’s approach, his office said Friday."
+    publishedDateTime: 2021-01-08T18:10:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-nw-coronavirus-vaccine-updates-20210108-iw2krxn7vnbhfg3eyyib3xr7gy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-nw-coronavirus-vaccine-updates-20210108-iw2krxn7vnbhfg3eyyib3xr7gy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-nw-coronavirus-vaccine-updates-20210108-iw2krxn7vnbhfg3eyyib3xr7gy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/st5RvqYxxIioWMtJIQpAfFXXQos=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MSZOHPL2VPNFIINFYFRMVFZLHY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -3264,6 +3281,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'President Donald Trump is likely to pardon himself'"
+    excerpt: "\"The president can only pardon people for their offences against federal law,\" Prof Ackerman said. \"There is every reason to believe however that President Trump will be charged with a large number of criminal offences especially under the law of the state of New York,"
+    publishedDateTime: 2021-01-08T17:11:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55593517"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093h57j.jpg"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Trump moves to loosen mining regulations, approve projects as he exits"
     excerpt: "Outgoing U.S. President Donald Trump's administration is moving to loosen mining regulations and green light new mineral projects before leaving office this month, with successor Joe Biden unable to reverse some of the changes."
     publishedDateTime: 2021-01-08T16:58:00Z
@@ -3499,6 +3530,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump announces he won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he will break with tradition and not attend the inauguration of President-elect Joe Biden on Jan. 20."
+    publishedDateTime: 2021-01-08T17:40:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2831610124260/2021/1/7133f53c934ecace35e3a90557736a81/v1.5/Trump-announces-he-wont-attend-Joe-Bidens-inauguration.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Trump announces he'll skip Joe Biden's inauguration"
     excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
     publishedDateTime: 2021-01-08T16:35:00Z
@@ -3514,6 +3561,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump says he won’t attend Joe Biden’s inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
+    publishedDateTime: 2021-01-08T16:15:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LFMJ5DXQERH2DFS5NH2EFGAAH4.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Politics live updates: Trump says he won't attend Joe Biden's inauguration"
     excerpt: "I wish he would just do what Nixon did and that's step down,” former Secretary of State Colin Powell said in an interview on NBC."
@@ -4184,6 +4247,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "3ZWk2li5vG8iqP12R6EqnIy5NfkOT78SpSLPQP4wV6lj0Qpskl7McXSfTysXWW5HyZIolThvgRqUglhz0+MJGDDH2s+q+cHmTPsAfX1f4q07LpGrhQw5yUEONBOZgxvW3IecaofLoo0r8WqbBA4BXty0VxDQ8Gm9/pByJEndTGiBcA7SOCRnjmD0H8sVl6PmCP1d3OYiCdsRlrce8O2BVi/xpZ3AAfJSvjJDF9/l30qB6b1MrMGKAOByq+N1GrmjJ/BCU7JeJq7gyH5s55dSWyzCvv8BNBNyO10/S6s4GNBMpp6OSmP/H9+exC64G4ZSxcmNIP68MCVXgVjioVm5nVN8f9K3SqlkJnmzk6qV+Hs=;fB4MgPSDxdyxtQu9xvMsIg=="
+secured: "5SZUx4GmU7WV8nzY9P60KWfX9BMjJzPhDf31IVhG3eW/nMt2F4Q7Jam9PgVQaXcD9H9hkM0SiyM0lkNMBJlv7UQRfEjBNXiAaXJy/W86Lj+HovAPMqT9knAVqVwR8ha0GZMmRiImmUTPKjqAOClOUJkDM5GFoCySeF+pbD2qdJUoZ/dbUeWyeenCueyBtmxYP00h6wrhRNx1LvJdGFMElyG+bZYWnVMKz3xWExVELXyzwM71xV5CDphtcWXBJXl9bbS8tr/ahPLjbSahtcPgn/wfbUfG2cIbYy5Xo7lZKx17tT8k/IVv5vnhre06X9rStF8PwknQgOIdkmIIGBypHIKupPGWwBF5A88IlnzCLKM=;cB794VmNbb80Bx/UQ67AYA=="
 ---
 

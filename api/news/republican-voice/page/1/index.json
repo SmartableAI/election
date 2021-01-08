@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-colin-powell-calls-for-trumps-resignation-as-quickly-as-possible-he-should-be-totally-ashamed-of-himself.md",
+      "title": "Colin Powell calls for Trump's resignation 'as quickly as possible': 'He should be totally ashamed of himself'",
+      "excerpt": "Former U.S. State Secretary Colin Powell, a Republican, called for President Trump's resignation \"as soon as possible.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/80JDMmzU6KU/colin-powell-trump-resignation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/80JDMmzU6KU/colin-powell-trump-resignation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6c7af25-2bdf-4401-92ac-4805fd8fa3f6/57155546-d175-4924-82b9-b97b67efa0c8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/colin-powell-trump-resignation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colin-powell-trump-resignation.amp",
+      "publishedDateTime": "2021-01-08T10:53:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-kurtz-no-president-has-been-able-to-dominate-the-media-social-media-culture-more-than-trump.md",
+      "title": "Kurtz: 'No president has been able to dominate the media, social media, culture more than Trump'",
+      "excerpt": "President Trump is one of the most influential presidents in United States history,” \"Media Buzz\" host Howard Kurtz said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa5v7i_D51Y/kurtz-no-president-media-social-media-culture-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa5v7i_D51Y/kurtz-no-president-media-social-media-culture-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp",
+      "publishedDateTime": "2021-01-08T10:47:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-ashli-babbitt-rioter-fatally-shot-in-dc-was-bananas-over-trump-grandfather.md",
       "title": "Ashli Babbitt, rioter fatally shot in DC, was ‘bananas’ over Trump: grandfather",
       "excerpt": "The Air Force veteran who was fatally shot as she stormed the Capitol was an “excellent patriot” who was a fanatic follower of President Trump, her grandfather said. Ashli Babbitt, 35, of San",
@@ -792,7 +904,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1541,118 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
       "publishedDateTime": "2021-01-06T09:34:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-huckabee-says-cloud-will-be-over-biden-presidency-if-election-fraud-isnt-fully-investigated.md",
-      "title": "Huckabee says 'cloud' will be over Biden presidency if election fraud isn't fully investigated",
-      "excerpt": "Former Arkansas Gov. Mike Huckabee told \"Fox & Friends\" on Wednesday that he wishes that all the elected officials, including Democrats, \"would demand a full accounting for how the ballots were tabulated\" in the 2020 election, saying that \"Democrats have the most to gain.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 298,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp",
-      "publishedDateTime": "2021-01-06T06:58:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-supporters-confront-mitt-romney-at-airport-on-plane-videos.md",
-      "title": "Trump supporters confront Mitt Romney at airport, on plane: videos",
-      "excerpt": "Sen. Mitt Romney, R-Utah, was confronted by supporters of President Trump on Tuesday while waiting for a flight at an airport and during the flight, according to videos circulating on social media.   ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoTQdcMaNsU/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoTQdcMaNsU/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/romney.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp",
-      "publishedDateTime": "2021-01-06T04:25:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

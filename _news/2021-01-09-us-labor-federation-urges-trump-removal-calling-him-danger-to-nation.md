@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-fe
 webUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8"
 type: article
 quality: 104
-heat: 144
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack"
+    excerpt: "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them."
+    publishedDateTime: 2021-01-08T18:36:00Z
+    webUrl: "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him"
     excerpt: "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack."
     publishedDateTime: 2021-01-08T14:38:00Z
@@ -42,6 +56,22 @@ related:
       - url: "https://i.insider.com/5ff78426d184b30018aada7d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
+    excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."
+    publishedDateTime: 2021-01-08T15:18:00Z
+    webUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482"
+    ampWebUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/us-president-donald-trump-whips-up-the-crowd.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
     excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
@@ -60,6 +90,6 @@ related:
         height: 3769
         isCached: true
 
-secured: "Iqc1uja7f7UiUPjz5wiAEffk95w4FU/P26dkUf30RGBDva3OsRiBFc0RvIWJ15E0dy1RBAZa3kWjGXx6zX4eAoxFHv4zupL8QzivjBGe2iIOOjrPcnBpGHzZQtMHVacC6l39FTzPVOf/7T1+xuQv8ic/W2AUM+1d6nd9nQkj1asLPeKWJwJO2AZXRP4M2hm70pRHY2zZZW+JHD/aCQ/4IDUCxU/QpwErkE/+29rr4qLrRf1vCnamHuhnkbPOPARY44l0UjpEj+SGeGPZGlC0jWI72v6YGKQKc/H+KBUsj2C685gMSUBz5xA8DzS9PH24ueq7IoDXS/ZJ1ORF4UrvPtwZrlb/ISKGcYHS9MdFyN4=;je8la3H4ZFyu/K1MksuXsQ=="
+secured: "uWXzOiJx4evVfJg9epVfEjG8Q7rz75krzI4rf6WkldsqEO8WO1Qa34w53tpz+NSj8PVDPfGkBJ1iW+NoYuZDlXRZ32PUDzzFF6zEiyvS7C4KmND8xjY3SmRREny07XObrcjTX+shcah5DWxZOG3lw1h0g3pSGwkYjJLJdID/3DNQ1iqO+S0ps70sVAf+qpqSTuwgM/ZdlNmbkHo/ugMfGBkJJdK3lFTYfcLB22hb/6L61g2Dea8VlKR3XHkPONUyzc4yVDEte/qknhlmSDJA7kHSkMX+aavklMCSYHI+ndnMT4+2ifVm4GNGGhIafzOQCEaG+028yoP3/NjDLDpM6pa9yigrSJlRzLynltu6P/c=;taO9/TEJiPOmYSq8r8F/4g=="
 ---
 

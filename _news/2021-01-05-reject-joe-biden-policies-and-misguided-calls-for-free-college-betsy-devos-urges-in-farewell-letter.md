@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Capitol riots: Congress certifies Joe Biden's victory after chaotic scenes"
+    excerpt: "The US Congress has certified Joe Biden's victory in the presidential election, hours after supporters of Donald Trump stormed the building in an attack that saw four people die. Lawmakers resumed the session after police removed a mob that had been encouraged by President Trump as part of his attempt to overturn his defeat."
+    publishedDateTime: 2021-01-08T18:32:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55568621"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55568621"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55568621"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 123
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E7E7/production/_116376395_gettyimages-1294949419-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
     excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
     publishedDateTime: 2021-01-07T22:09:00Z

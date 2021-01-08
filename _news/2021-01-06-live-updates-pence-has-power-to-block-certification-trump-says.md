@@ -64,22 +64,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Pence to oppose 25th Amendment powers to remove Trump from office"
-    excerpt: "Vice President Mike Pence intends to oppose calls from both Democrats and Republicans in Congress to invoke the 25th Amendment and remove President Trump from office after the U.S. Capitol breach."
-    publishedDateTime: 2021-01-08T03:36:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tadZM5WPMdU/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 200
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1983e09-3cb7-4c5b-9df2-9194e77caca0/b2982378-fec2-4b3a-8528-b14e4db9cf92/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden to campaign in Georgia on same day as Trump ahead of pivotal Senate elections"
     excerpt: "President-elect Joe Biden will campaign in Georgia the day before the Jan. 5 Senate runoff races there, the same day President Trump is scheduled to hold a rally for Sens. David Perdue and Kelly Loeffler."
     publishedDateTime: 2020-12-30T12:29:58Z
@@ -608,6 +592,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrats march toward another impeachment against Trump for deadly riot at Capitol"
+    excerpt: "House Democrats are drafting new articles of impeachment against President Trump following a deadly riot at the Capitol Wednesday in a failed attempt to stop Congress from certifying Joe Biden's presidential victory."
+    publishedDateTime: 2021-01-08T18:18:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ws4BBkp3IPA/democrats-draft-new-articles-impeachment-trump-deadly-riot-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-draft-new-articles-impeachment-trump-deadly-riot-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-draft-new-articles-impeachment-trump-deadly-riot-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbba44bf-f547-4bde-9b30-dae79d953d52/ed29b924-1754-4eb3-8e13-87c70a4b7fc4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Tim Scott 'grateful' for Trump, but opposes GOP colleagues' electoral vote challenge"
     excerpt: "Sen. Tim Scott, R-S.C., thanked President Trump for his service and accomplishments, but came out against plans from some of his Republican colleagues to challenge electoral votes from several states when they are counted at Wednesday's joint session of Congress."
     publishedDateTime: 2021-01-05T21:46:59Z
@@ -861,6 +861,22 @@ related:
     quality: 150
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/edfe28d6-6510-4581-b97c-5666a65a2a08/c8cd4be2-6c8f-4b00-8f46-f39d8a5f9a8d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pence to oppose 25th Amendment powers to remove Trump from office"
+    excerpt: "Vice President Mike Pence intends to oppose calls from both Democrats and Republicans in Congress to invoke the 25th Amendment and remove President Trump from office after the U.S. Capitol breach."
+    publishedDateTime: 2021-01-08T03:58:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-oppose-removing-trump-from-office-with-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1983e09-3cb7-4c5b-9df2-9194e77caca0/b2982378-fec2-4b3a-8528-b14e4db9cf92/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

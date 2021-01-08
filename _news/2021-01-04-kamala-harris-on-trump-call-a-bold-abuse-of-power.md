@@ -309,6 +309,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Trump won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
+    publishedDateTime: 2021-01-08T16:35:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-finally-faces-reality-amid-talk-early-ouster-75127056"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f74c672051934e86a856ce9f89727a9a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "US Capitol riot, Pence confirms Biden, Trump commits to 'orderly transition': 5 things to know Thursday"
     excerpt: "U.S. Capitol riot, Trump commits to \"orderly transition\" after Biden officially declared election winner and more news you need to know Thursday."
     publishedDateTime: 2021-01-07T10:54:00Z
@@ -996,22 +1012,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/4a55273d-8260-4e58-80d4-18c011386c23/thumbnail/1200x630/09e6db90e966b9c7fc9e40a1b095f36c/gettyimages-1294908903.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "President Trump won't attend Joe Biden's inauguration"
-    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
-    publishedDateTime: 2021-01-08T16:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-trump-attend-joe-bidens-inauguration-75133647"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f74c672051934e86a856ce9f89727a9a_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
@@ -2788,6 +2788,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden to speed release of coronavirus vaccines, ending Trump practice of holding back shots for second dose"
+    excerpt: "President-elect Joe Biden will release most available COVID-19 vaccine doses to speed delivery to more people, a reversal of the Trump administration’s approach, his office said Friday."
+    publishedDateTime: 2021-01-08T18:10:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-nw-coronavirus-vaccine-updates-20210108-iw2krxn7vnbhfg3eyyib3xr7gy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-nw-coronavirus-vaccine-updates-20210108-iw2krxn7vnbhfg3eyyib3xr7gy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-nw-coronavirus-vaccine-updates-20210108-iw2krxn7vnbhfg3eyyib3xr7gy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/st5RvqYxxIioWMtJIQpAfFXXQos=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MSZOHPL2VPNFIINFYFRMVFZLHY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -3270,6 +3286,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'President Donald Trump is likely to pardon himself'"
+    excerpt: "\"The president can only pardon people for their offences against federal law,\" Prof Ackerman said. \"There is every reason to believe however that President Trump will be charged with a large number of criminal offences especially under the law of the state of New York,"
+    publishedDateTime: 2021-01-08T17:11:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55593517"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093h57j.jpg"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Trump moves to loosen mining regulations, approve projects as he exits"
     excerpt: "Outgoing U.S. President Donald Trump's administration is moving to loosen mining regulations and green light new mineral projects before leaving office this month, with successor Joe Biden unable to reverse some of the changes."
     publishedDateTime: 2021-01-08T16:58:00Z
@@ -3505,6 +3535,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump announces he won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he will break with tradition and not attend the inauguration of President-elect Joe Biden on Jan. 20."
+    publishedDateTime: 2021-01-08T17:40:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2831610124260/2021/1/7133f53c934ecace35e3a90557736a81/v1.5/Trump-announces-he-wont-attend-Joe-Bidens-inauguration.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Trump announces he'll skip Joe Biden's inauguration"
     excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
     publishedDateTime: 2021-01-08T16:35:00Z
@@ -3520,6 +3566,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump says he won’t attend Joe Biden’s inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
+    publishedDateTime: 2021-01-08T16:15:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LFMJ5DXQERH2DFS5NH2EFGAAH4.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Politics live updates: Trump says he won't attend Joe Biden's inauguration"
     excerpt: "I wish he would just do what Nixon did and that's step down,” former Secretary of State Colin Powell said in an interview on NBC."

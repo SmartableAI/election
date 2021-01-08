@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read: Pelosi's letter on speaking with the chairman of the Joint Chiefs about Trump and the nuclear codes"
+    excerpt: "House Speaker Nancy Pelosi told her members in a letter Friday that she spoke to Joint Chiefs of Staff Chairman Gen. Mark Milley about President Donald Trump and the nuclear codes. Milley said in a statement that Pelosi initiated the call and he \"answered her questions regarding the process of nuclear"
+    publishedDateTime: 2021-01-08T18:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sji0cXxsg7g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103154127-pelosi-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
     excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
     publishedDateTime: 2021-01-07T18:05:11Z

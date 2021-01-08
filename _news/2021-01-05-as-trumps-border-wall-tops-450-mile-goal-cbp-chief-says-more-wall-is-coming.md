@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Census Bureau to miss deadline, threatening Trump's attempt to exclude illegal migrants from census"
-    excerpt: "For the first time in four decades the Census Bureau will miss their deadline on reporting apportionment figures used to divvy up congressional seats."
-    publishedDateTime: 2020-12-31T01:48:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LByAen0K4J8/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres"
-    ampWebUrl: "https://www.foxnews.com/politics/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres.amp"
+  - title: "Kurtz: 'No president has been able to dominate the media, social media, culture more than Trump'"
+    excerpt: "President Trump is one of the most influential presidents in United States history,” \"Media Buzz\" host Howard Kurtz said Friday."
+    publishedDateTime: 2021-01-08T18:47:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa5v7i_D51Y/kurtz-no-president-media-social-media-culture-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2846be92-1dbc-461f-b9d1-c0cad93bc68c/6d8aecbe-dd96-4dbd-bcfd-32bc43bbd6b6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "glxX/qVBuzX8uhilwYZf2jI6K23xc03BbH0QP+mPs9r2Tg6BjYxibMW9SaKOHNsHSEwIH8dqyOPr3nbRfzgvjfGzX/WmYIAo6qWHJo2bvQ9XZIL4tBazuR3sQE4qrouebdC0XFDYlt3JhKCMF9vvEH8fvPpG0hrlzLnuZimY/V9qaOgOOvp7YG0ZZC8MAgueTWEhe1kxo6Y4UGLORrD8SYTwFfJBvzJnBuhiKW8Hg4Jwjfe9tdKtFlY+H1uW7zYZCwnswhhAM4QTK57eWHCSwOKwoKdGXKcJpHqDSp6s6lqzkS4XdxyLq5obcMsRwS2pBkZOIWXC5E0g5C5qrKSP3f6X+2J8DsxumloGng9CeWk=;JA6PWH1qrDtOVC53dbKgSA=="
