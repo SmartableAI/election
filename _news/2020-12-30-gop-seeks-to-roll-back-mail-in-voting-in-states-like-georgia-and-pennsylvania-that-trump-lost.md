@@ -251,6 +251,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump faces calls for removal, possible impeachment after Capitol chaos"
+    excerpt: "President Donald Trump faced the threat on Thursday of a second impeachment, a day after his supporters breached the U.S. Capitol in a stunning assault on American democracy as Congress was certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-08T08:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN29C0ZK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29C0ZK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0ZK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547028307&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061K9"
+        width: 858
+        height: 545
+        isCached: true
   - title: "Law enforcement braces for protests as Trump supporters gather in capital"
     excerpt: "Law enforcement was bracing for protests as Trump supporters gather in the nation's capital to demonstrate against Congress ratifying Joe Biden as president-elect."
     publishedDateTime: 2021-01-06T00:37:00Z

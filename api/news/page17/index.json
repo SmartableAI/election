@@ -2,114 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-12-13-trump-tells-fox-friends-election-challenges-not-over-ahead-of-electoral-college-vote.md",
-      "title": "Trump tells 'Fox & Friends' election challenges 'not over' ahead of Electoral College vote",
-      "excerpt": "President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results, despite the Electoral College getting set to cast their votes on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cd_49uR8pnc/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cd_49uR8pnc/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-and-friends-election-challenges-not-over-electoral-college-vote.amp",
-      "publishedDateTime": "2020-12-13T04:48:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-saturday-night-live-mocks-trumps-new-favorite-network-newsmax.md",
-      "title": "Saturday Night Live Mocks Trump's New Favorite Network Newsmax",
-      "excerpt": "Trump network Newsmax's coverage with a sketch introducing its latest television offering—a sports network that refuses to acknowledge the New York Jets ever lose. The sketch opens with a voiceover that claims \"millions of real Americans are switching from Fox News to Newsmax because Newsmax tells them the",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
-      "originalUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1685494/snl.png",
-          "width": 890,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/snl-mocks-newsmax-pro-trump-coverage-1554381?amp=1",
-      "publishedDateTime": "2020-12-13T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-13-pro-trump-protests-decry-presidents-election-loss-opposing-groups-clash-in-washington.md",
       "title": "Pro-Trump protests decry president's election loss, opposing groups clash in Washington",
       "excerpt": "Conservative groups claiming without evidence that the Nov. 3 election was stolen from President Donald Trump staged protests across the country on Saturday, with one in Washington turning violent at times as police broke up sporadic clashes after dark.",
@@ -1330,6 +1222,115 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-us-senate-backs-massive-defense-bill-defying-trump-veto-threat.md",
+      "title": "U.S. Senate backs massive defense bill, defying Trump veto threat",
+      "excerpt": "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act (NDAA), a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P",
+      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28L24P",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P",
+      "publishedDateTime": "2020-12-11T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
+      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
+      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
+      "publishedDateTime": "2020-12-11T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
       ]
     }
   ],

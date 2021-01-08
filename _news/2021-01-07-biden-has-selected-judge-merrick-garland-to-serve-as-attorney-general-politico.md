@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
 type: article
 quality: 120
-heat: -1
-published: false
+heat: 160
+published: true
 
 provider:
   name: Reuters
@@ -31,92 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden taps Boston's mayor to serve as U.S. labor secretary: Politico"
-    excerpt: "U.S. President-elect Joe Biden has decided to nominate Boston Mayor and former union official Marty Walsh to serve as labor secretary, Politico reported on Thursday, citing two unnamed sources."
-    publishedDateTime: 2021-01-07T19:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-picks-boston-mayor-and-former-union-leader-walsh-as-labor-secretary-source-idUSKBN29C2R2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2R2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2R2"
+  - title: "Joe Biden to name judge Merrick Garland, blocked by GOP from High Court, as attorney general"
+    excerpt: "President-elect Joe Biden has selected Merrick Garland, a federal appeals court judge who in 2016 was snubbed by Republicans for a seat on the Supreme Court, as his attorney general."
+    publishedDateTime: 2021-01-06T18:04:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-merrick-garland-attorney-general-20210106-j2kzvuozrjgjjcugt2txqk6lv4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-merrick-garland-attorney-general-20210106-j2kzvuozrjgjjcugt2txqk6lv4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-merrick-garland-attorney-general-20210106-j2kzvuozrjgjjcugt2txqk6lv4-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547006159&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061EQ"
-        width: 817
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/yxxYbGO2pXt6AZ4ct4quidm6E-A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5ETQCPA7SFUB4JCAQYH6ESB57I.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden to nominate Rhode Island Governor Gina Raimondo to be commerce secretary"
-    excerpt: "President-elect Joe Biden intends to nominate Rhode Island Governor Gina Raimondo to serve as commerce secretary and Boston Mayor Marty Walsh to lead the Labor Department, CBS News confirmed Thursday,"
-    publishedDateTime: 2021-01-08T02:46:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-labor-secretary-gina-raimondo-marty-walsh-labor-department/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-labor-secretary-gina-raimondo-marty-walsh-labor-department/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-labor-secretary-gina-raimondo-marty-walsh-labor-department/"
+  - title: "Former Iran hostage urges Biden to prioritize detained Americans"
+    excerpt: "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan."
+    publishedDateTime: 2021-01-02T13:24:00Z
+    webUrl: "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 121
+    quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/16/7147b883-a60d-4d3f-b2f1-8c7fb2dce870/thumbnail/1200x630/4a26f52e831b4c8ddbf56b431f38d426/ap-18017056434431.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden picks Rhode Island Gov. Raimondo as commerce secretary"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and overseas."
-    publishedDateTime: 2021-01-08T03:56:00Z
-    webUrl: "https://www.businessinsider.com/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden picks Rhode Island governor for Commerce, Boston mayor for Labor: sources"
-    excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, people familiar with the choices told Reuters on Thursday."
-    publishedDateTime: 2021-01-08T05:13:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-cabinet/wrapup-2-biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idUSL1N2JI30Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547021518&r=LYNXMPEH061HZ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Biden picks Rhode Island governor to head Commerce, Boston mayor for Labor: sources"
-    excerpt: "President-elect Joe Biden will choose Rhode Island Governor Gina Raimondo as his Commerce Department secretary and Boston mayor and former union official Marty Walsh as his Labor secretary, people familiar with the choices told Reuters on Thursday."
-    publishedDateTime: 2021-01-08T01:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-commerce-idUSKBN29C2PU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547009021&r=LYNXMPEH061CX&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Joe Biden has reportedly selected Marty Walsh for labor secretary"
-    excerpt: "President-elect Joe Biden has reportedly picked Mayor Marty Walsh to be his labor secretary. The choice, which had been closely watched and speculated about as Walsh entered Biden’s shortlist in recent weeks,"
-    publishedDateTime: 2021-01-07T20:32:00Z
-    webUrl: "https://www.boston.com/news/politics/2021/01/07/joe-biden-marty-walsh-labor-secretary"
-    ampWebUrl: "https://www.boston.com/news/politics/2021/01/07/joe-biden-marty-walsh-labor-secretary/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/01/07/joe-biden-marty-walsh-labor-secretary/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 75
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2020/12/DDUTX4EPDIMCOI3NJNADDPLJUE-5fecc8f92cb63-850x478.jpg"
-        width: 850
-        height: 478
         isCached: true
 
 secured: "zZjubtKmgW8Uri/29XWCTA/ZQNp/5D1reKWUZ4lPhJA0sq1RQYSmbzIgaPu1znu7nSPWhdEGGnVjin18zvEjxkdANDApvKjwsO/NXnPCGHydnRlPTCLRAAYQhwGAtMJyYuCEp4Q/5pbu7tmLfYsfqhwR9ZyjoerIIBrCbEacWglPyx89a9tzsuVZyV6u/ZfOgy4hE60mPNer6uiIO2GBipHcdvcTk9fZr2hPo52wBhxuniIRe7vVrAqecLlWhjPjyn09szGW3GyV85AoBLJmAKU9OksQ9Lf8608JBg1bt9KR2Q9X/RClnuKyZYd8NHbUOaLTNOmjkKmv1CqZNlwaOPk66lKS2O0tOmfY5qfeKkM=;C+yiN6Zr2Rr2dxgA7djOTQ=="

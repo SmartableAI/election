@@ -2,115 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-12-29-donald-melania-trump-looking-at-palm-beach-properties-report-says.md",
-      "title": "Donald, Melania Trump Looking At Palm Beach Properties, Report Says",
-      "excerpt": "Donald and Melania Trump are reportedly eyeing properties in Florida amid rumors that they will live in Mar-a-Lago after he leaves office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038",
-      "originalUrl": "https://www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038?amp=1",
-      "publishedDateTime": "2020-12-29T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-how-suing-mike-pence-is-the-last-gasp-of-the-election-fraud-crowd.md",
-      "title": "How suing Mike Pence is the last gasp of the 'election fraud' crowd",
-      "excerpt": "And rather than just playing the ceremonial role of president of the Senate on January 6, Pence was empowered to choose which electors are \"legal,\" which, I suppose, would exclude the electors from states where President-elect Joe Biden won but Trump has falsely suggested there was fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "originalUrl": "https://www.cnn.com/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/louie-gohmert-mike-pence-lawsuit/index.html",
-      "publishedDateTime": "2020-12-29T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-29-biden-criticizes-pace-of-vaccine-rollout-vows-to-accelerate.md",
       "title": "Biden criticizes pace of vaccine rollout, vows to accelerate",
       "excerpt": "President-elect Joe Biden is criticizing the Trump administration for the pace of distributing COVID-19 vaccines, saying it is “falling far behind.”",
@@ -1334,6 +1225,114 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-gop-lawmaker-asks-trump-to-pardon-ex-congressman-calls-doj-corrupt-and-inept.md",
+      "title": "GOP Lawmaker Asks Trump to Pardon Ex-Congressman, Calls DOJ 'Corrupt and Inept'",
+      "excerpt": "Arizona Representative Paul Gosar said Rick Renzi was \"convicted by corrupt DOJ prosecutors who fabricated evidence.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400",
+      "originalUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1675257/rep-paul-gosar.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-asks-trump-pardon-ex-congressman-calls-doj-corrupt-inept-1557400?amp=1",
+      "publishedDateTime": "2020-12-26T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-rep-kinzinger-swipes-at-trump-fellow-house-gop-for-denying-election-loss-its-sad.md",
+      "title": "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'",
+      "excerpt": "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "publishedDateTime": "2020-12-26T11:10:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

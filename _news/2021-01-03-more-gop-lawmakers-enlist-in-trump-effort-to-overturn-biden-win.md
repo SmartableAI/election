@@ -3241,6 +3241,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Impeachment Will 'Move Forward' In Congress If Pence Doesn't Invoke 25th Amendment"
+    excerpt: "House Democrats plan to go through the impeachment process if Pence does not invoke 25th Amendment Pelosi accused Trump of inciting Wednesday's siege at the US Capitol Rep. Ilhan Omar on Thursday introduced the Articles of Impeachment House Speaker Nancy Pelosi on Thursday threatened to go through the impeachment process if Vice President Mike Pence refuses to invoke the 25th Amendment on President Donald Trump."
+    publishedDateTime: 2021-01-08T00:57:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 91
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Republicans condemn 'scheme' to undo election for Trump"
     excerpt: "The extraordinary Republican effort to overturn the presidential election has been condemned by an outpouring of current and former GOP officials warning the effort to sow doubt in Joe Biden's win and keep President Donald Trump in office is undermining Americans’ faith in democracy."
     publishedDateTime: 2021-01-04T06:02:00Z

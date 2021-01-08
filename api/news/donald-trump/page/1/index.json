@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
+      "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
+      "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "originalUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "publishedDateTime": "2021-01-08T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-donald-trump-recognises-new-administration-after-us-capitol-riot-video.md",
       "title": "Donald Trump recognises 'new administration' after US Capitol riot – video",
       "excerpt": "Donald Trump acknowledges in a video released on Thursday night that a 'new administration' will be inaugurated on 20 January, and condemns rioters who attacked the US Capitol",
@@ -160,92 +212,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-education-head-betsy-devos-quits-citing-trump-rhetoric.md",
-      "title": "Education head Betsy DeVos quits, citing Trump rhetoric",
-      "excerpt": "Education Secretary Betsy DeVos has become the second Cabinet secretary to resign a day after a pro-Trump insurrection at the U.S. Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html",
-      "originalUrl": "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OUT4FPPVBRDODDU6AFMGOWDWRI.jpg",
-          "width": 3162,
-          "height": 2108,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html?outputType=amp",
-      "publishedDateTime": "2021-01-07T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.md",
-      "title": "Gov. Mike DeWine says he still supports Donald Trump, though blames him for occupation of U.S. Capitol",
-      "excerpt": "DeWine said Trump's continued denial of the election inflamed his supporters, who overran the U.S. Capitol on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html",
-      "originalUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F43BGYKSCFFH3COOSGRAHZFIHY.jpg",
-          "width": 2754,
-          "height": 1961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp",
-      "publishedDateTime": "2021-01-07T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -872,7 +838,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5288,
+      "heat": 5308,
       "tags": null,
       "images": [
         {
@@ -1110,58 +1076,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-washington-braces-for-chaos-as-trump-supporters-descend-for-final-stand.md",
-      "title": "Washington Braces for Chaos as Trump Supporters Descend for “Final Stand”",
-      "excerpt": "To Trump’s most fervent supporters, Wednesday is seen as the day to mount a “final stand\" to keep the President in power.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5926403/trump-supporters-final-stand/",
-      "originalUrl": "https://time.com/5926403/trump-supporters-final-stand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/01/Trump__Election_Rally_Washington_DC_01.jpg",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1540,6 +1454,110 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-gary-cohn-former-goldman-sachs-exec-and-trump-economic-advisor-is-joining-ibm-as-vice-chairman.md",
+      "title": "Gary Cohn, former Goldman Sachs exec and Trump economic advisor, is joining IBM as vice chairman",
+      "excerpt": "At Goldman, Cohn helped ingratiate the bank into the fast-growing corners of Silicon Valley, forging early relationships with startup founders",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1",
+      "originalUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff485816056b60018721f13?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
+      "publishedDateTime": "2021-01-05T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-donald-trumps-ferrari-will-head-to-auction-during-the-final-days-of-his-presidency-tour-the-500000-car.md",
+      "title": "Donald Trump's Ferrari will head to auction during the final days of his presidency — tour the $500,000 car",
+      "excerpt": "The car also includes a copy of its original title, which bears Trump's signature and the address of Trump Tower in New York City.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff330096056b60018721b62?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1?amp",
+      "publishedDateTime": "2021-01-05T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

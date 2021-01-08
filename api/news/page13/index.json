@@ -2,101 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-12-19-us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.md",
-      "title": "US Space Force members will be called ‘guardians,’ Vice President Mike Pence says",
-      "excerpt": "The Trump administration celebrated the first birthday of the U.S. Space Force on Friday by announcing that its members will be known as “guardians.” Vice President Mike Pence made the announcement at a celebratory event tracing the development of the newest branch of the military over the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
-      "originalUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TBQO6M6JPVBHDD32VSHIOZHFYM.jpg",
-          "width": 5845,
-          "height": 3897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "publishedDateTime": "2020-12-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-the-trump-booster-group-that-helped-the-head-of-the-extremist-proud-boys-gain-access-to-the-white-house.md",
-      "title": "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House",
-      "excerpt": "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/15/USAT/faa39348-f87f-4e26-94f3-50a0aef33d73-AFP_AFP_8QT7GX.jpg?auto=webp&crop=4499,2531,x0,y234&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3931868001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3931868001",
-      "publishedDateTime": "2020-12-19T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-19-trump-signs-into-law-stopgap-funding-bill-to-avoid-government-shutdown.md",
       "title": "Trump signs into law stopgap funding bill to avoid government shutdown",
       "excerpt": "President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds passed by Congress to avoid a midnight government shutdown, as lawmakers negotiate a $900 billion pandemic aid bill and as part of $1.",
@@ -1340,6 +1245,118 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-accept-defeat-see-trump-allys-message-after-election-loss.md",
+      "title": "'Accept defeat': See Trump ally's message after election loss",
+      "excerpt": "Former New Jersey Governor Chris Christie talks to CNN's Chris Cuomo about the election and how President Donald Trump and some Republicans have refused to concede.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 570,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217102245-chris-christie-cpt-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
+      "publishedDateTime": "2020-12-17T18:53:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-virginia-gubernatorial-candidate-says-trump-should-declare-martial-law.md",
+      "title": "Virginia gubernatorial candidate says ‘Trump should declare martial law’",
+      "excerpt": "Virginia Republican state Sen. Amanda Chase, an outspoken Trump supporter, former small business owner and gubernatorial hopeful, doubled down on disputed voter fraud claims and said Thursday that her state needs an election audit – through martial law, if necessary.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Amanda-Chase-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
+      "publishedDateTime": "2020-12-17T17:53:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -3229,6 +3229,22 @@ related:
       name: Time
       domain: time.com
     quality: 95
+  - title: "Trump Impeachment Will 'Move Forward' In Congress If Pence Doesn't Invoke 25th Amendment"
+    excerpt: "House Democrats plan to go through the impeachment process if Pence does not invoke 25th Amendment Pelosi accused Trump of inciting Wednesday's siege at the US Capitol Rep. Ilhan Omar on Thursday introduced the Articles of Impeachment House Speaker Nancy Pelosi on Thursday threatened to go through the impeachment process if Vice President Mike Pence refuses to invoke the 25th Amendment on President Donald Trump."
+    publishedDateTime: 2021-01-08T00:57:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 91
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "More GOP lawmakers enlist in Trump effort to overturn Biden win"
     excerpt: "The senators largely acknowledged Saturday they will not succeed in preventing Joe Biden from being inaugurated on Jan. 20."
     publishedDateTime: 2021-01-02T23:41:00Z

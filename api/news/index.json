@@ -2,21 +2,73 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
+      "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
+      "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "originalUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "publishedDateTime": "2021-01-08T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-biden-picks-california-official-isabel-guzman-to-head-sba.md",
       "title": "Biden Picks California Official Isabel Guzman to Head SBA",
-      "excerpt": "President-elect Joe Biden picked California official Isabel Casillas Guzman to lead the Small Business Administration, according to people familiar with the decision.",
+      "excerpt": "President-elect Joe Biden announced Thursday that he picked California official Isabel Guzman to lead the Small Business Administration.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/c6b1b354-5123-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/c6b1b354-5123-11eb-a1f5-fdaf28cfca90_story.html",
+      "webUrl": "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/1449ffb0-514f-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/1449ffb0-514f-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3UVATCSRLUI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T20:48:00-08:00",
+      "publishedDateTime": "2021-01-07T23:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -440,49 +492,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-education-head-betsy-devos-quits-citing-trump-rhetoric.md",
-      "title": "Education head Betsy DeVos quits, citing Trump rhetoric",
-      "excerpt": "Education Secretary Betsy DeVos has become the second Cabinet secretary to resign a day after a pro-Trump insurrection at the U.S. Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html",
-      "originalUrl": "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OUT4FPPVBRDODDU6AFMGOWDWRI.jpg",
-          "width": 3162,
-          "height": 2108,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html?outputType=amp",
-      "publishedDateTime": "2021-01-07T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-08-several-cabinet-secretaries-informally-discuss-invoking-25th-amendment-but-pence-highly-unlikely-to-pursue.md",
       "title": "Several Cabinet secretaries informally discuss invoking 25th Amendment but Pence 'highly unlikely' to pursue",
       "excerpt": "Inquiries about invoking the 25th Amendment have been coming into Vice President Mike Pence's advisers and those discussions have been under way, a source close to the vice president said Thursday, with several Cabinet secretaries informally discussing the matter.\n    \n",
@@ -702,6 +711,58 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-biden-picks-rhode-island-gov-raimondo-as-commerce-secretary.md",
+      "title": "Biden picks Rhode Island Gov. Raimondo as commerce secretary",
+      "excerpt": "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_1a265eaa6b3e4e8b846a8ca36f069096_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "publishedDateTime": "2021-01-07T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -983,49 +1044,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.md",
-      "title": "Gov. Mike DeWine says he still supports Donald Trump, though blames him for occupation of U.S. Capitol",
-      "excerpt": "DeWine said Trump's continued denial of the election inflamed his supporters, who overran the U.S. Capitol on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html",
-      "originalUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F43BGYKSCFFH3COOSGRAHZFIHY.jpg",
-          "width": 2754,
-          "height": 1961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp",
-      "publishedDateTime": "2021-01-07T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1311,21 +1329,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-biden-taps-bostons-mayor-to-serve-as-us-labor-secretary-politico.md",
-      "title": "Biden taps Boston's mayor to serve as U.S. labor secretary: Politico",
-      "excerpt": "U.S. President-elect Joe Biden has decided to nominate Boston Mayor and former union official Marty Walsh to serve as labor secretary, Politico reported on Thursday, citing two unnamed sources.",
+      "path": "_news/2021-01-07-biden-to-tap-boston-mayor-marty-walsh-as-labor-secretary.md",
+      "title": "Biden to tap Boston Mayor Marty Walsh as labor secretary",
+      "excerpt": "President-elect Joe Biden is expected to tap Boston Mayor Marty Walsh as labor secretary, two sources familiar with the decision tell CNN.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-labor/biden-picks-boston-mayor-and-former-union-leader-walsh-as-labor-secretary-source-idUSKBN29C2R2",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-labor/biden-picks-boston-mayor-and-former-union-leader-walsh-as-labor-secretary-source-idUSKBN29C2R2",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fza9jLyMCak/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547006159&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061EQ",
-          "width": 817,
-          "height": 545,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110213537-marty-walsh-0313-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1333,16 +1355,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29C2R2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2R2",
-      "publishedDateTime": "2021-01-07T11:19:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/marty-walsh-labor-biden/index.html",
+      "publishedDateTime": "2021-01-07T10:43:23-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1359,7 +1381,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Democratic Voice"
       ]
     }
   ],

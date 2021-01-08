@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-preside
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump calls for end to violence he incited as pressure on White House mounts"
+    excerpt: "Amid calls for impeachment and cabinet resignations, president issues first straightforward condemnation of mob attack"
+    publishedDateTime: 2021-01-08T03:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/5a3c20ca3cb75255d6c83ade73ae1048c42ad480/0_0_3967_2403/master/3967.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=85e614121f1310d5ee85b674a217c89f"
+        width: 600
+        height: 364
+        isCached: true
   - title: "Why Trump, Yet Again, Prompts Talk of 25th Amendment"
     excerpt: "The 25th amendment to the U.S. Constitution provides an avenue for a president to be removed from the helm of government -- temporarily or for good, willingly or not -- when necessary under extraordinary circumstances."
     publishedDateTime: 2021-01-07T06:24:00Z

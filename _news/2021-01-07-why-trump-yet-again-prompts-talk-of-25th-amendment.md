@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump calls for end to violence he incited as pressure on White House mounts"
+    excerpt: "Amid calls for impeachment and cabinet resignations, president issues first straightforward condemnation of mob attack"
+    publishedDateTime: 2021-01-08T03:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/5a3c20ca3cb75255d6c83ade73ae1048c42ad480/0_0_3967_2403/master/3967.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=85e614121f1310d5ee85b674a217c89f"
+        width: 600
+        height: 364
+        isCached: true
 
 secured: "Tmri5B4BtSMGLd7fnYOHP/VBnwwH8QExcNcTg1oOfB1hjOeM+9yBQmbjPpa3mKC/Ls49ia1bPeAbJPTOr0nFwgax3norKKaXSFg0MgYCcn5uRQqITBW2tXJvhUKLjbWey+F+m0ns6eywEyrjWYnHGxCXE9kT0Sy1o5+cQm85qg2+Mcgs4ZdXiM7n1NNe56WcfSgVICZzQCqT1eMw+LCQkl649nyijhWDd6cIMeYuRz7k7GV0TBKgUGWxFVgU/Q8q2rt4mn8SJkPbBveQaoK7GK7HC2KSWajc5dzZFC2et87NwZW6FqEwjXbzw43SZBqYPCk11H2OlyGGrjGa3N7AL7e8EkqXSJ06b04GK5pbbMU=;zO1wmNxfl0vXSoN5T/fOXA=="
 ---

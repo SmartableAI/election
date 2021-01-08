@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 2515
+heat: 2535
 published: true
 
 provider:
@@ -1747,6 +1747,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3440575/210107-capitol-trump-supporters-ew-554p_73ff1cde71d96afab672e4c8939b3fcb.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Wall Street Journal editorial board urges Trump to resign to avoid second impeachment."
+    excerpt: "The editorial board of The Wall Street Journal, the American flagship of Rupert Murdoch’s newspaper empire, denounced President Trump on Thursday for inciting a mob of his supporters to storm the U.S."
+    publishedDateTime: 2021-01-08T06:53:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/us/politics/wall-street-journal-editorial-urges-trump-to-resign-to-avoid-second-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/us/politics/wall-street-journal-editorial-urges-trump-to-resign-to-avoid-second-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/us/politics/wall-street-journal-editorial-urges-trump-to-resign-to-avoid-second-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/07/us/politics/07transition-brief-wsj2/07transition-brief-wsj2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud."

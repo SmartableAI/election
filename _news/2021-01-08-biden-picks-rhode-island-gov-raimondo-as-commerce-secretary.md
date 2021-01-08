@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden picks Rhode Island Gov. Raimondo as commerce secretary"
-excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and overseas."
-publishedDateTime: 2021-01-08T03:56:00Z
-originalUrl: "https://www.businessinsider.com/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary-2021-1"
-webUrl: "https://www.businessinsider.com/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary-2021-1"
-ampWebUrl: "https://www.businessinsider.com/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-rhode-island-gov-raimondo-as-commerce-secretary-2021-1?amp"
+excerpt: "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove"
+publishedDateTime: 2021-01-07T23:49:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
 type: article
-quality: 105
-heat: -1
-published: false
+quality: 125
+heat: 225
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1a265eaa6b3e4e8b846a8ca36f069096_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden taps Boston's mayor to serve as U.S. labor secretary: Politico"
@@ -56,22 +62,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/16/7147b883-a60d-4d3f-b2f1-8c7fb2dce870/thumbnail/1200x630/4a26f52e831b4c8ddbf56b431f38d426/ap-18017056434431.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden has selected Judge Merrick Garland to serve as attorney general - Politico"
-    excerpt: "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision."
-    publishedDateTime: 2021-01-06T22:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S"
-        width: 765
-        height: 545
         isCached: true
   - title: "Biden picks Rhode Island governor for Commerce, Boston mayor for Labor: sources"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, people familiar with the choices told Reuters on Thursday."
@@ -118,6 +108,6 @@ related:
         height: 478
         isCached: true
 
-secured: "XJCUY5r+0Nfv45Nr9TXevO7hRM1it9UMtXc5iF7HQ+YEpLsAyrb0iBzD8Beu4G0RddrN8ipUzM9Ja+j5t/VMKlEl9zHJY3eAwnkvrnORvSuBD444SR40jC9U1BFCq0iUx59VYNK8YXyvFR9hZdSbn0GUzXYq7NiGTMUyYOytlHcy+lB8BrC3RHfqxeHUdWnIE62vYhmT5B9BMqvYC/M863MJAX65KvDryv96bE25JaSTnjh8nkMCkCeglOLXKxlEhVK4BAonimL5s80+1I+SqFIAdWNwx1g9McXqCbohE+9EWLXIOSNPbcdp6/a4pTLKMLRrWYp/NZjvLsEzSFKLHuC8yC22BGO2vF+XUTzl7hk=;K3ALmDoHJ4qoX/0eVTH2LA=="
+secured: "3F2S0YjXhFxjMthEPK7xHNmwB4sO3mUgNabz8o81WJnwDy2bNyC8+35li5J6yRZlYkekHn2kE8n6qt7wWtwFJ+2lLD0jvPPayzV8mIIUDrtoloXHTJNHpo9zH1w0IKyMprnkMBzS6W5j2NTPp0f9CrsGUX/29XPMvtVT1TcO2VN1lB6DJ5+hI0omQ0djmg+Twn0OBu3etxuZGFftkHzBGqYJVwBlP/8DoqNLbO636j9oCBoUJVAkk1yDzWym2EGYPrrS0iV3egjNdRwX2dJeK1fAKGCfE5Dqq4N9/FvaylVYCOE6YZ2OGDoqBdYYtwAuyxPhnAaqdN2kDa4tX3VuuYZ44rr+ZRGthQoQ3BMpo5I=;+MmzWODV5+nv9YpL26h1EQ=="
 ---
 

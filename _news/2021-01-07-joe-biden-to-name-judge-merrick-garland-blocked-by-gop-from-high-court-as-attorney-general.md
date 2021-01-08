@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-merrick-garland-atto
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-merrick-garland-attorney-general-20210106-j2kzvuozrjgjjcugt2txqk6lv4-story.html?outputType=amp"
 type: article
 quality: 114
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden has selected Judge Merrick Garland to serve as attorney general - Politico"
+    excerpt: "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision."
+    publishedDateTime: 2021-01-06T22:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S"
+        width: 765
+        height: 545
+        isCached: true
   - title: "Former Iran hostage urges Biden to prioritize detained Americans"
     excerpt: "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan."
     publishedDateTime: 2021-01-02T13:24:00Z
@@ -44,22 +60,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
-    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
-    publishedDateTime: 2021-01-06T13:26:00Z
-    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
-        width: 819
-        height: 461
         isCached: true
 
 secured: "D4hD6CT7Gf9zeDVpodzeussnwzc912+lCiNphOP9CeeppCBGOqe/g0CPS7CSozJVD120IsvD+3p4kTC2+gvJK1UjK1R+zdyKZHe6gBLiGwde8giOnLJa6CjPH5XJK2gcTcBa8ikLMDPzfM8uqhAUcFmGiq7uKYz2nAc5bXeXdOgmsga5M3LCmk7Dt2NAlPRXEiswqHunC5nbOp3XXslUi03IURqi9lJrMAF0joCloCLa3hlyhNJXYsqNnaYDHfbINGbIJhPiUXFjDtZd8YK8hc1UP4ae37a4FvNC4y46VsybiJrCMTGw3ZYh3zbcUy+ssI1Hffr1yD2oUaDKU0pC47hDbINiXZv1qMR0IRtxvsI=;6RMgSCIg0cQP6kBFMRqt5Q=="
