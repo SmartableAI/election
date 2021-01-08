@@ -48,38 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
-    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
-    publishedDateTime: 2021-01-07T20:11:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pro-Trump demonstrators enter grounds of Washington governor's mansion as protesters gather across the country"
-    excerpt: "While much of the nation was transfixed on the riot at the US Capitol, supporters of Donald Trump demonstrated in cities across the country, and in Olympia, Washington, protesters pushed into the governor's mansion property.\n    \n"
-    publishedDateTime: 2021-01-07T02:10:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sVVXVIeCjxI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106193957-01-trump-supporters-us-demonstrations-olympia-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "L9HrbV/LNWbjWCWEUmbmVIFlLcVYTuEVYYURjDYq6hNBnm3iOXtU4yuwDwwEMu0hWN+kTaQ6abbYAEoIwoWcIYYVUQ38iUlg8T8H6eWXzfsCulaPUzi2xE0vdDNWFeflHvY4YlJsW47iD+xslpqAtMSRPa/w9IZK4RcEiQ8Px9Zpo5KKu7zJtG0SyHIc8XI4xJUqJdVyq0dRM7FbgOam+gudi6T1X+JGJznO/kl7YKy/xEFXsKJ9C7sTCY3KSH1Z5sEsdYJQhx0MJkA/PUXjuDeSTgpALCSt07XBIP0hR9RvuZbJY16wNBYr1pWU2ZgbLRmNuX5r9E1VEafWvpvYn/UcPI2pDECTaA5R1f9BfMg=;8rArMktvoAfAnOHGkwvBMA=="
 ---

@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-04-biden-dni-pick-avril-haines-raises-eyebrows-with-previous-job-at-bookstore-known-for-erotica-readings.md",
+      "title": "Biden DNI pick Avril Haines raises eyebrows with previous job at bookstore known for erotica readings",
+      "excerpt": "Long before she was nominated by President-elect Joe Biden to oversee the nation’s intelligence apparatus, Avril Haines co-owned an independent bookstore that hosted “erotica nights.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Avril-Haines1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
+      "publishedDateTime": "2021-01-04T14:54:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-and-perdue-elected.md",
+      "title": "Joe Biden Says $2,000 Stimulus Checks 'Will Never Get There' if Loeffler and Perdue Elected",
+      "excerpt": "\"In America, as our opposition friends are finding out, all power flows from the people,\" President-elect Joe Biden said Monday. \"That's our history. That's our law, that's our tradition, that's our constitution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
+      "originalUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1698187/joe-biden-campaigns-georgia-dems-senate.jpg",
+          "width": 2500,
+          "height": 1720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
+      "publishedDateTime": "2021-01-04T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-pence-we-got-our-doubts-about-the-last-election.md",
       "title": "Pence: We 'got our doubts about the last election'",
       "excerpt": "We 'got our doubts about the last election' Posted . Stumping for two Republican candidates in races that will determine control of the U.S. Senate, U.S. Vice Pres",
@@ -757,7 +865,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 960,
+      "heat": 980,
       "tags": null,
       "images": [
         {
@@ -1198,106 +1306,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
-      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
-      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "publishedDateTime": "2021-01-02T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-trump-urges-people-to-get-ready-to-vote-in-georgia-just-hours-after-calling-the-senate-runoff-elections-both-illegal-and-invalid.md",
-      "title": "Trump urges people to 'get ready to vote' in Georgia just hours after calling the Senate runoff elections 'both illegal and invalid'",
-      "excerpt": "President Trump will attend a rally in Georgia on Monday for Senators Kelly Loeffler and David Perdue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
-      "originalUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff09f449ff41f001883fa8c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
-      "publishedDateTime": "2021-01-02T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-07-amid-capitol-violence-facebook-youtube-remove-trump-video.md",
+      "title": "Amid Capitol violence, Facebook, YouTube remove Trump video",
+      "excerpt": "Facebook has removed a short video of President Donald Trump where he is urging supporters who stormed the U.S. Capitol to “go home” while at the same time keeping up false attacks about the president",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T16:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-rep-liz-cheney-slams-trump-for-intolerable-conduct-says-president-incited-the-mob.md",
+      "title": "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'",
+      "excerpt": "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
+      "publishedDateTime": "2021-01-06T16:31:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-twitter-flags-trump-video-due-to-risk-of-violence-as-he-tells-protesters-to-go-home-claims-race-stolen.md",
       "title": "Twitter flags Trump video due to 'risk of violence,' as he tells protesters to 'go home,' claims race 'stolen'",
       "excerpt": "Twitter flagged President Trump’s tweeted video telling protesters to “go home,” while maintaining the 2020 presidential election was “stolen” from him and restricted engagement “due to the risk of violence,” Fox News has learned.",
@@ -653,7 +761,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -748,7 +856,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5368,
+      "heat": 5428,
       "tags": null,
       "images": [
         {
@@ -1202,110 +1310,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-blasts-nieces-conspiracy-theories-as-he-seeks-fraud-lawsuits-dismissal.md",
-      "title": "Trump blasts niece's 'conspiracy theories' as he seeks fraud lawsuit's dismissal",
-      "excerpt": "U.S. President Donald Trump is seeking the dismissal of a lawsuit claiming he defrauded his niece out of an inheritance worth tens of millions of dollars, accusing her of embracing \"conspiracy theories\" in her quest to consume him with lawsuits after he leaves the",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546691961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH04175",
-          "width": 793,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29A24T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A24T",
-      "publishedDateTime": "2021-01-05T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-legal-problems-campaign-reaches-settlement-in-assault-case.md",
-      "title": "Trump Legal Problems: Campaign Reaches Settlement In Assault Case",
-      "excerpt": "Rod Webber was twice attacked at Trump rallies, the second incident netting him thousands in settlements from police and the campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
-      "originalUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
-      "publishedDateTime": "2021-01-05T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

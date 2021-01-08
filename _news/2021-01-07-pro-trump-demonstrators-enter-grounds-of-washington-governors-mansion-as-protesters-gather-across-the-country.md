@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Prosecutors 'looking at all actors,' including Trump, as charges are filed against Capitol rioters"
-    excerpt: "Federal investigators are looking at everyone involved in the unrest at the US Capitol on Wednesday, including the role President Donald Trump played in inciting the crowd, the acting US attorney in Washington, DC, said Thursday.\n    \n"
-    publishedDateTime: 2021-01-07T23:41:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCXP5VbFXRQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/law-enforcement-capitol-riot/index.html"
+  - title: "Melania Trump and adult Trump children avoid the spotlight after one of nation's darkest days "
+    excerpt: "As thousands of pro-Trump supporters streamed into Washington, DC, Wednesday headed first to the Ellipse to hear President Donald Trump speak, and then to the United States Capitol to lay siege to the epicenter of American democracy, first lady Melania Trump was doing a photo shoot at the White House.\n"
+    publishedDateTime: 2021-01-08T14:07:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CZZKHCGzFf0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-house-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-house-capitol-riot/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107071624-43-electoral-college-vote-protest-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -63,21 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Dept. Open to Pursuing Charges Against Trump in Inciting Riot"
-    excerpt: "The top federal prosecutor in Washington said investigators were examining anyone involved, “not only the people who went into” the Capitol."
-    publishedDateTime: 2021-01-08T01:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
+  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
+    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
+    publishedDateTime: 2021-01-07T18:05:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 154
     images:
-      - url: "https://static01.nyt.com/images/2021/01/07/lens/07dc-investigate-trump/07dc-investigate-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "AsosuGx57PnqTOGgGUmZ7ayFWQEpD7NmJmHuz5/ggWkpFBm+XCZV1RTKIf4ArIWHSSap9noJkvv+c+Gycy1u/c7uGxnBfutlaTlBMV8rShL4WlyMff4a/LHOzhaQsisZbFVgmgR0LiYk+jGfZWOkXM2CPQeuJTASFdz/jWgTXK9Q9H8ZH6XFuXLIdl0BvMzCtPtMNZ1TXikRcpnqLofF7XdJOjQvdYlpgbSTUuAYZHhFQh8BWesCSDRcQjD6olSy3vc25A0YEzpGExgGJQSFJKEfTBoWcUAOcrAok//Tvy8zss2vYKCWQ3swdu0LTIAV/IxfYcGQCxxEuBHWm+HHCQJtweZVViFSO+wFJb/3TV4=;77KXdzTDhuIqIUCFrfTudA=="

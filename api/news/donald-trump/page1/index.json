@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-trumps-billionaire-backers-are-horrified-by-the-insurrection-at-the-capitol-but-only-one-has-broken-with-him.md",
+      "title": "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him",
+      "excerpt": "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1",
+      "originalUrl": "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff78426d184b30018aada7d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
       "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
       "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
@@ -587,7 +639,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -838,7 +890,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5368,
+      "heat": 5428,
       "tags": null,
       "images": [
         {
@@ -1482,58 +1534,6 @@
       "ampWebUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
       "publishedDateTime": "2021-01-05T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-donald-trumps-ferrari-will-head-to-auction-during-the-final-days-of-his-presidency-tour-the-500000-car.md",
-      "title": "Donald Trump's Ferrari will head to auction during the final days of his presidency — tour the $500,000 car",
-      "excerpt": "The car also includes a copy of its original title, which bears Trump's signature and the address of Trump Tower in New York City.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff330096056b60018721b62?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1?amp",
-      "publishedDateTime": "2021-01-05T05:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

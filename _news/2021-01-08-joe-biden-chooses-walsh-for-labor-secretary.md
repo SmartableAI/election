@@ -258,7 +258,7 @@ related:
   - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."
     publishedDateTime: 2021-01-08T06:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idINKBN29C31H"
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-to-nominate-rhode-island-governor-for-commerce-boston-mayor-for-labor-idUSKBN29C31H"
     type: article
     provider:
       name: Reuters

@@ -511,6 +511,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Democrats to discuss impeaching Trump for a second time after assault on Capitol"
+    excerpt: "Congressional Democrats on Friday were weighing impeaching U.S. President Donald Trump for an unprecedented second time after his supporters, inflamed by his false claims of election fraud, stormed the U."
+    publishedDateTime: 2021-01-08T14:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/democrats-to-discuss-impeaching-trump-for-a-second-time-after-assault-on-capitol-idUSKBN29D0NG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547109229&r=LYNXMPEH070TB&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Twitter Users Slam Donald Trump For Making Election Fraud Claims Amid Chaos From Supporters"
     excerpt: "Twitter users were not happy with President Donald Trump claiming that states want to \"redo their votes\" due to alleged fraud Wednesday and accused him of making a mockery of democracy."
     publishedDateTime: 2021-01-07T11:00:00Z

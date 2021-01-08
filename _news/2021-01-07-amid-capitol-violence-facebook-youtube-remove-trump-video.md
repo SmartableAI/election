@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
+    excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
+    publishedDateTime: 2021-01-08T14:39:00Z
+    webUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971"
+    ampWebUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1701168/trump-jr-rnc-victory-rally.jpg"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "Pelosi demands Trump's removal from office in wake of Capitol attack"
     excerpt: "Pelosi said she is \"calling on the vice president to remove this president by immediately invoking the 25th Amendment.\""

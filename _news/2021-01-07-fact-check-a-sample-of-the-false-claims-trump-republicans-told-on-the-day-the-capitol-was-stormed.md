@@ -767,6 +767,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump, pressured into video concession, faces uncertain final stretch"
+    excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
+    publishedDateTime: 2021-01-08T14:12:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yezvRa86oHc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/donald-trump-next-steps/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/donald-trump-next-steps/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423072847-donald-trump-04182019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's desperate attempt to save his imploding presidency"
     excerpt: "It was too little, too late, and may fail to save a presidency imploding at staggering speed under the weight of Donald Trump's tragic flaws.\n    \n"
     publishedDateTime: 2021-01-08T12:52:37Z
@@ -860,6 +876,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125154121-01-mick-mulvaney-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former Trump communications director says President lied about 2020 election and should consider resigning"
+    excerpt: "Former White House communications director Alyssa Farah said Friday that President Donald Trump lied to the American people about the 2020 presidential election results and said that he should \"seriously consider\" resigning from office after Wednesday's deadly insurrection at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-08T14:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zYasMsPDQ3E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/alyssa-farah-trump-lied-resignation-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/alyssa-farah-trump-lied-resignation-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814075649-alyssa-farah-headshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -988,6 +1020,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016121521-us-department-of-energy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Democrats consider mid-next week for possible vote on Trump's second impeachment"
+    excerpt: "House Democrats are furious at President Donald Trump and are quickly building momentum to move on impeachment of Trump in the next several days -- as soon as the middle of next week.\n    \n"
+    publishedDateTime: 2021-01-08T13:58:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HHBbgo-ntdQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/house-democrats-impeachment-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/house-democrats-impeachment-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1878,6 +1926,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/dc563795-bb10-4f46-8357-05f989ebe99d/f682ed34-657c-447f-a63a-cfec492fc55e/1280x720/match/image.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "There’s no morning-after pill for Trump"
+    excerpt: "After the thrill of a day without Trump tweets, it’s time to scrutinize regulators and tech companies over their shared failure to limit and punish violence organized on online platforms. 1) The business model of most online platforms under-invests in product safety as a means of boosting profit margins 2) Platforms are lightly regulated — or explicitly protected from liability,"
+    publishedDateTime: 2021-01-08T14:30:00Z
+    webUrl: "https://www.politico.com/newsletters/global-translations/2021/01/08/theres-no-morning-after-pill-for-trump-491337"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/31/1f/67d787334695bfae1e6d0bcf3abb/politico-global-translations-social-twitter-v2.png"
+        width: 2500
+        height: 1309
         isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."

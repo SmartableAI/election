@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Capitol riots will be used to 'deplatform' Trump supporters: Ben Domenech"
+    excerpt: "The left will do to regular people what it's doing to President Trump, The Federalist publisher Ben Domenech warned Thursday night."
+    publishedDateTime: 2021-01-08T13:24:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yz8sy0wNcGE/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Waltz slams hypocrisy of pro-police Trump supporters going after Capitol Hill cops"
     excerpt: "Pro-Trump rioters who breached the U.S. Capitol on Wednesday with back-the-blue flags need to “rethink the hypocrisy,” Rep. Michael Waltz, R-Fla., told “Fox & Friends” on Thursday."
     publishedDateTime: 2021-01-07T14:47:25Z

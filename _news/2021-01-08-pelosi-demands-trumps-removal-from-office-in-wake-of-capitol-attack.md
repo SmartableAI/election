@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
+    excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
+    publishedDateTime: 2021-01-08T14:39:00Z
+    webUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971"
+    ampWebUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1701168/trump-jr-rnc-victory-rally.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
     excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
     publishedDateTime: 2021-01-07T21:18:00Z

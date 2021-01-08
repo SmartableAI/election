@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-dewine-does-not-support-arts-council-appointee-comments-media-owner-called-kamala-harris-a-whore.md",
+      "title": "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'",
+      "excerpt": "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/politics/2021/01/08/susan-block-toledo-blade-owner-backs-conspiracy-theories/6591724002/",
+      "originalUrl": "https://www.cincinnati.com/story/news/politics/2021/01/08/susan-block-toledo-blade-owner-backs-conspiracy-theories/6591724002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/08/PCIN/da308e81-ba64-4a2f-b962-45b9cc4c8cee-block_headshot.png?auto=webp&crop=415,234,x0,y67&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/6591724002",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6591724002",
+      "publishedDateTime": "2021-01-08T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.md",
       "title": "House members Harris, Allred nearly come to blows during Pennsylvania certification debate: reports",
       "excerpt": "Tensions on Capitol Hill nearly resulted in fisticuffs early Thursday between a Republican and a Democrat in the U.S. House, according to reporter accounts.",
@@ -1553,64 +1596,7 @@
         "Democratic Voice",
         "Kamala Harris"
       ]
-    },
-    {
-      "path": "_news/2020-12-01-frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.md",
-      "title": "Frontrunners for Kamala Harris Senate seat praised Fidel Castro",
-      "excerpt": "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zw0vpbP4QwY/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zw0vpbP4QwY/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp",
-      "publishedDateTime": "2020-12-01T12:06:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

@@ -2343,6 +2343,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Donald Trump fans cry betrayal as he rebukes Capitol violence"
+    excerpt: "On Parler and 4chan Trumpists write of feeling ‘like puking’ as president says those who ‘broke law will pay’"
+    publishedDateTime: 2021-01-08T11:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support?ICID=ref_fark"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Facebook bans President Trump through Inauguration Day, maybe longer"
     excerpt: "Facebook will bar President Donald Trump from posting on its system at least until the inauguration of President-elect Joe Biden."
     publishedDateTime: 2021-01-07T16:42:00Z
@@ -2358,6 +2374,38 @@ related:
       - url: "https://www.chicagotribune.com/resizer/I0V4uaxzPRvEzELkF92xb_2OYL4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JAJBMB4OW6ASF2Q7LDQ7EPS6HQ.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "House Democrats discussing swift action to impeach Trump"
+    excerpt: "Democrats are discussing whether to move forward with impeaching President Donald Trump if his Cabinet doesn’t try to remove him for the mob assault on the U.S. Capitol"
+    publishedDateTime: 2021-01-08T14:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-democrats-discussing-swift-action-impeach-trump-75132258"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-democrats-discussing-swift-action-impeach-trump-75132258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-democrats-discussing-swift-action-impeach-trump-75132258"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_154a4ca78c8d45fcb4642fb90afcb6ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: House Dems mulling fast-track Trump impeachment"
+    excerpt: "House Democratic leaders say the House could take up articles of impeachment against President Donald Trump as soon as next week if Vice President Mike Pence and Trump’s Cabinet don’t act to remove hi"
+    publishedDateTime: 2021-01-08T14:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump barred Pence's chief of staff from the White House after the president attacked Pence for not trying to overturn the election"
     excerpt: "Marc Short said President Donald Trump had barred him from the White House grounds because the president was \"blaming\" him for advice he gave Pence."
