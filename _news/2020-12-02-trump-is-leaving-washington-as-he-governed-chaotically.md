@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249684"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2500
     height: 1666
     isCached: true
-
-related:
-  - title: "Pro-Trump demonstrators enter grounds of Washington governor's mansion as protesters gather across the country"
-    excerpt: "While much of the nation was transfixed on the riot at the US Capitol, supporters of Donald Trump demonstrated in cities across the country, and in Olympia, Washington, protesters pushed into the governor's mansion property.\n    \n"
-    publishedDateTime: 2021-01-07T02:10:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sVVXVIeCjxI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/trump-supporters-us-demonstrations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106193957-01-trump-supporters-us-demonstrations-olympia-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "8EDav5yqsMEk1M8irr2THWgFLGjns+9WoUDnehS9wvToW8/PbkOtseuX2rtan9rF6fpFlYQzcAK48kuGcgZv+Z7DOWp8L/We0W/Imc1iuf44unoag0SdSFKIDVjTGpimMDqrsBxwvrpl7cVu0VDwJd0m+3STxPdXpvriXXkCl0vTQwLkgzfByLaaFFxKrllCKY2QfpOaNkw3m+b0To+2b9k9k6OE4uE+QHW87+Hx2UAXZJueEdlNx7vnErjzt4JXsFPzGMOLKeS/hUiNE5FiJ29ad6O3F5L5XH1z1u/O2+6aFF6oqpDxYA417F/fiMJfjRZ03O7D6nYNpqYP1K+cjd2cPZ2Hhpo0Gqi3irwsNcQ=;xNg7qTAX7tP+lhh0qaFFYQ=="
 ---

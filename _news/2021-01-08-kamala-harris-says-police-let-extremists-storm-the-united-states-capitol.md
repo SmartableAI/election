@@ -78,16 +78,16 @@ related:
   - title: "Why Kamala Harris will still be a key player in the Senate"
     excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
     publishedDateTime: 2021-01-07T23:38:00Z
-    webUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 75
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true

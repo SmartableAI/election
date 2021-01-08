@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Education Secretary Betsy DeVos resigns in letter criticizing Trump's rhetoric amid riots"
+    excerpt: "Education Secretary Betsy DeVos resigned on Thursday, citing the riots that took place at the U.S. Capitol the prior day, Fox News has confirmed."
+    publishedDateTime: 2021-01-08T02:34:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74c1d84e-2483-4be3-82cf-0673113ddfaa/85592fcd-ce06-4ea8-94b7-e4ce7cca22e9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

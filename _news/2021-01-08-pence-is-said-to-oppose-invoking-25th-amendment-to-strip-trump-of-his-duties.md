@@ -720,6 +720,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: A second Trump impeachment vs. the 25th Amendment"
+    excerpt: "Here's a list of consequential things that happened Thursday in relatively short succession:\n    \n"
+    publishedDateTime: 2021-01-08T02:49:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k6VDayDLqMs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107192246-trump-twitter-comments-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump asking aides and lawyers about self-pardon power "
     excerpt: "President Donald Trump has been asking aides and lawyers, including White House counsel Pat Cipollone, about his self-pardon power, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-01-08T00:18:45Z
@@ -1306,6 +1322,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid"
+    excerpt: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid A day after he told his supporters \"we love you,\" President Donald Trump condemned them Thursday for violently swarming the U."
+    publishedDateTime: 2021-01-08T02:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/facing-calls-removal-trump-reverses-positions-election-loss-rioters-covid-n1253397"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253397"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253397"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440595/210107-donald-trump-ew-721p_fdcc06f47a5b142f40b16c3ec8809f17.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "How Trump warped HHS long before Covid-19"
     excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"
     publishedDateTime: 2020-12-31T09:36:00Z
@@ -1530,6 +1562,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Wall Street Journal Editorial Urges Trump to Resign to Avoid Impeachment"
+    excerpt: "With the headline “Donald Trump’s Final Days,” The Journal excoriated the president for “an assault on the constitutional process of transferring power after an election.”"
+    publishedDateTime: 2021-01-08T02:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/07/business/wall-street-journal-trump-resign.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/07/business/wall-street-journal-trump-resign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/business/wall-street-journal-trump-resign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/business/08wsj-print1/merlin_182073078_f0249a97-49b3-4941-a29e-37f97e5f271f-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'NEVER FORGET’: Trump threatens Cotton over Electoral College certification"
     excerpt: "How can you certify an election when the numbers being certified are verifiably WRONG,” Trump tweeted. President Donald Trump warned Sen. Tom Cotton on Monday that Republican voters would \"never forget\" GOP lawmakers who fail to embrace Trump's baseless effort to contest President-elect Joe Biden's Electoral College victory."
     publishedDateTime: 2021-01-04T16:22:00Z
@@ -1619,6 +1667,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_53/3439288/210103-donald-trump-jm-1619_a67bfcb4b233682890956e527ecbe768.jpg"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "Dejected Trump supporters leave Washington, create new theories for Capitol violence"
+    excerpt: "While thousands gathered on Wednesday in support of the president, overwhelming and infiltrating the chambers of Congress, only dozens of diehards returned on Thursday."
+    publishedDateTime: 2021-01-08T02:20:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/dejected-trump-supporters-leave-washington-create-new-theories-capitol-violence-n1253407"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253407"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253407"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3440575/210107-capitol-trump-supporters-ew-554p_73ff1cde71d96afab672e4c8939b3fcb.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud."
@@ -1721,6 +1785,6 @@ related:
         height: 773
         isCached: true
 
-secured: "779zQ5bGf8/0Pq4GJq4XdnRZGKQjzuW+CnwH+CvhKeSQ4maVlvE9AnE2ZmElVQd43LggPWws+eKA1YUCUYpHsNPqtBnux3nGOCdsH8n3UD1UbN51TXd2Whp61ybtxqapR1OhPHRXEG1R5p4CJrrfjb2o1+VdNGQesF/q3k3PMh6IFUVRB52t0X9O3RBpyeiBRI1qW9tpsRcCD3+7N7pPoiwR/pWh+udU9YIocj8/wPukLCYEsx8sNVSSJlnGkn1gXdOKzjsUhhLnonWzKlpiI222ppkDvli/nXu2DdABwKg/JPBbdAifijyvRkGW0U0mFwLBKQTabirCuQ83rnrgg4rPOO1JscoL2SHiMNsb1F4=;gnfhqdEnEtW7GCULFzMmVg=="
+secured: "nIwuYqQxn+qBcMen360Ze3Bn3zeyrDKAPC11deiy9SCN4e2h33zYPhNCtZZ3VwamYhRaVbzE+VAUCAyPLISuGtIo70kX0VksLBjaG1SzqCS+kshTdBRQSK9p+COKpun5oippWwKNDYk7whvvfVKbL5iHOD8nQzYu43wNVYGV0ghp8nbdrVUThWFoBVEbtVq7MJzr/0Q0wwTsjk3lms4Txit7wiB2CUWITuDKvgFc++xHnvZCojcDxnxFXNUXrXwU1PppunkPfw24+aztAH3DGcoiiY+7dU9dxzU9xDcAaoIwABpj58HUAHBi0nI0cHFQyE9ySWDFwNeCm7YBBypNB8wVPbPhzRJlA4E7OceiX5w5BcZvHSwVa7g/hkPjX7JjEDPEWa6uMnZGyI1nScwFei46HOFLLTxqkRcAWWC0t+lFItDiNq7MpZzNHKRTjfNujcPVmEj8Kv76nYHd6at993vhUVecfWo/BOOye3LjVVOOpq6lRxa34AIxKIY+cLjLmPWP9/hNXbJOvtFhM2ai9Q==;NwwIwzmcctnMEw+/xZom5w=="
 ---
 

@@ -943,6 +943,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pelosi vows to impeach Trump again — if Pence doesn't remove him first"
+    excerpt: "Speaker Nancy Pelosi (D-Calif.) said Thursday that Washington policymakers should act immediately to remove President Trump from office just two weeks before his term ends, citing \"seditious\" acts related to the president's role in encouraging the assault on the U."
+    publishedDateTime: 2021-01-07T22:06:00Z
+    webUrl: "https://thehill.com/homenews/house/533180-pelosi-trump-should-be-removed-immediately"
+    ampWebUrl: "https://thehill.com/homenews/house/533180-pelosi-trump-should-be-removed-immediately?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533180-pelosi-trump-should-be-removed-immediately?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_010620gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -1150,6 +1166,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546680592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0411K"
         width: 817
         height: 545
+        isCached: true
+  - title: "Live Updates: Trump acknowledges election defeat in video on Capitol violence"
+    excerpt: "The video comes after lawmakers called for invoking the 25th amendment​ and removing him from office, following the assault Wednesday​."
+    publishedDateTime: 2021-01-08T02:33:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 137
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/4a55273d-8260-4e58-80d4-18c011386c23/thumbnail/1200x630/09e6db90e966b9c7fc9e40a1b095f36c/gettyimages-1294908903.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Republican Maryland governor calls for Trump's removal and Pence to take over"
     excerpt: "Maryland Governor Larry Hogan on Thursday called for President Donald Trump to resign the White House or be removed from office, saying Vice President Mike Pence should take over to ensure a peaceful transfer of power to Democratic President-elect Joe Biden."

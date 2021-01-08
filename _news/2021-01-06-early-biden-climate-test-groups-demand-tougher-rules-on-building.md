@@ -320,6 +320,22 @@ related:
         width: 3324
         height: 2216
         isCached: true
+  - title: "How 24 hours changed the Biden presidency"
+    excerpt: "Before Wednesday in Washington, President-elect Joe Biden's fundamental challenge upon assuming office was this: How to navigate a divided Congress on everything from his Cabinet picks to his policy agenda."
+    publishedDateTime: 2021-01-07T23:30:00Z
+    webUrl: "https://www.cnn.com/2021/01/07/politics/biden-washington-insurgency-senate-majority/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/biden-washington-insurgency-senate-majority/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/biden-washington-insurgency-senate-majority/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104155441-joe-biden-1222-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z

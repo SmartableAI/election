@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Education Secretary Betsy DeVos resigns in letter criticizing Trump's rhetoric amid riots"
+    excerpt: "Education Secretary Betsy DeVos resigned on Thursday, citing the riots that took place at the U.S. Capitol the prior day, Fox News has confirmed."
+    publishedDateTime: 2021-01-08T02:34:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74c1d84e-2483-4be3-82cf-0673113ddfaa/85592fcd-ce06-4ea8-94b7-e4ce7cca22e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to regain Facebook access Thursday night after account locked over response to Capitol violence"
     excerpt: "President Trump will regain access to his Facebook account Thursday night after the social media giant locked him out of his account for the first time for violating its policies."
     publishedDateTime: 2021-01-07T13:00:40Z

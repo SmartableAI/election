@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden joins claims of ‘white privilege’ directed towards U.S. Capitol rioters"
+    excerpt: "In response to the surprisingly unaggressive reaction to pro-Trump supporters mobbing the U.S. Capitol on bWednesday, President-elect Joe Biden joined lawmakers in questioning whether the reaction would have been the same had the rioters been Black Lives Matter demonstrators."
+    publishedDateTime: 2021-01-08T01:11:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0hgNFl7mTM/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1983e09-3cb7-4c5b-9df2-9194e77caca0/b2982378-fec2-4b3a-8528-b14e4db9cf92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’"
     excerpt: "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”"
     publishedDateTime: 2021-01-07T20:16:00Z

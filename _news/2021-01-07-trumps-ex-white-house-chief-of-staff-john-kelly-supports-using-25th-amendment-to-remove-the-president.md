@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
-    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
-    publishedDateTime: 2021-01-07T20:11:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
+  - title: "Trump's Education Secretary Betsy DeVos submits resignation"
+    excerpt: "Education Secretary Betsy DeVos has submitted her resignation, making her the second Cabinet member to resign over President Donald Trump's response to the mob breaching the US Capitol on Wednesday, according to an official.\n    \n"
+    publishedDateTime: 2021-01-08T02:33:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UG9z9ULq440/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723155730-betsy-devos-may-19-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
-    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
-    publishedDateTime: 2021-01-07T18:05:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+  - title: "Trump hand-picks replacement for Atlanta's US attorney after surprise resignation"
+    excerpt: "President Donald Trump on Monday ordered a US attorney from southern Georgia to take over the nearby Atlanta office in an unusual move at the same time that Georgia and the Atlanta US Attorney has become a focus of the President in his attempt to overturn the state's certified election results.\n    \n"
+    publishedDateTime: 2021-01-05T19:29:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VkfUTlZM-zw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byung-pak-bobby-christine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byung-pak-bobby-christine/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 154
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105122517-bobby-christine-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump directed Pentagon to reverse decision and keep aircraft carrier in Middle East amid Iran tensions"
+    excerpt: "At the direction of President Donald Trump, acting Secretary of Defense Christopher Miller ordered a US aircraft carrier to return to the Middle East following a White House meeting Sunday, according to a senior defense official.\n    \n"
+    publishedDateTime: 2021-01-04T14:42:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NS83Yq8XzdQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/uss-nimitz-aircraft-carrier-middle-east-iran/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/uss-nimitz-aircraft-carrier-middle-east-iran/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103225357-uss-nimitz-arabian-sea-11172020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

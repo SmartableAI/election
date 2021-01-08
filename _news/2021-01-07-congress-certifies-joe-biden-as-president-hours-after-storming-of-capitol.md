@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 689
         isCached: true
+  - title: "Facebook bans Trump for the rest of his presidency"
+    excerpt: "Mark Zuckerberg said Mr. Trump's account will be locked \"for at least the next two weeks\" but could remain locked indefinitely."
+    publishedDateTime: 2021-01-08T01:37:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/49ecaf2c-77dd-457e-a6ba-ded691195aee/thumbnail/1200x630/ea4a3fd9ad0ec088f11ca121441c311d/gettyimages-1046002128.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
     excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat. But after hours of chaos in which police battled to regain control,"
     publishedDateTime: 2021-01-07T10:54:00Z
