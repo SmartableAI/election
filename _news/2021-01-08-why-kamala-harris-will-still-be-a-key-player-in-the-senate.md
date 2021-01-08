@@ -43,6 +43,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris: 'We are going to be inaugurated'"
+    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
+    publishedDateTime: 2021-01-05T10:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Why Kamala Harris will still be a key player in the Senate"
     excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
     publishedDateTime: 2021-01-07T14:00:00Z
@@ -106,20 +120,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
         width: 1197
         height: 720
-        isCached: true
-  - title: "Kamala Harris: 'We are going to be inaugurated'"
-    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
-    publishedDateTime: 2021-01-05T10:34:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
-        width: 852
-        height: 480
         isCached: true
 
 secured: "Uyr+QSCmTHd+/vhspljUE6K+SpHnGEOOisb0ZqqcQdFU68sXTuAmpIQBB3KP0IkaGQZcqnNhZcJfI79Umt9yuK+MxUstDhZox9Pl2qQ55srBAlIKNlp/iZlDv7Aqq/N7yoe9+Ukv/Z0YGjHcssyncegiXsd5iuDy84MlyNUf4ENaGr+Dh3Q6aZc1OqwTjJrq7GSu/u5N0/wKcsIYwPMvk8se/9eecIhlpUCO2arTBkd8MirZ6ax9uaYz3UIwcvVhwsKn8dz5k5AcWGgWVPZYE8Nn7CHvDLU65Sqw6w0EhChEwzbj1p2+XJjGfdqEzaL6a+t6RDs1HYAOYbNm2UYKBXp/7qaFQ4xWGFiiBdvcqhaBjTCMMYAjGr3eU/f3TU9DyHMmtsGpRqWDpF+JJh66+ok8ZOVENLGLZyR9f8y8ddkMpW3ZEwt765veYwBczmHn45odURAR3Caj6GWbEnMQOIcGm92+Exe8ujq8Ulb1vQWp2iICseb2mUeS+tGq+mMMpp+jvT45Ex8TmvSifAgeag==;EoHveXr3I7qWwiGLJmxTLQ=="

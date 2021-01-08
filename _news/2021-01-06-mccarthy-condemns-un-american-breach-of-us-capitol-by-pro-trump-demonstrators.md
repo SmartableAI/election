@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fir
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
 type: article
 quality: 171
-heat: 191
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Huckabee: Trump’s policies have made life better for every American"
+    excerpt: "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done."
+    publishedDateTime: 2021-01-08T21:50:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_0V874_NoOQ/mike-huckabee-trumps-policies-life-american"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d528e2b-4d98-4020-b38e-608b9fe1f4f5/296c9f72-e5ee-4d6c-843f-51372355367c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Watch Live: President Donald Trump Hosts \"Save America\" March At WH Ellipse"
     excerpt: "Right Side Broadcasting Network will be live from Washington D.C. where President Trump is hosting a \"Save America\" March to protest what he says are election irregularities that Congress refuses to investigate."
     publishedDateTime: 2021-01-06T14:56:00Z

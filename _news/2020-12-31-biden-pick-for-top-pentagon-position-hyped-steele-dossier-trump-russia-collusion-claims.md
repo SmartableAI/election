@@ -319,6 +319,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says Trump's 'not fit to serve' as president but punts on calls for impeachment"
+    excerpt: "President-elect Biden on Friday charged that President Trump “isn’t fit to hold the job.” But the president-elect refused to say whether he supported the push by congressional Democrats and handful of Republicans to immediately remove Trump from office either by impeachment or through the use of the"
+    publishedDateTime: 2021-01-08T22:17:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JtVaO5dqQbk/biden-trump-not-fit-to-serve-punts-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-not-fit-to-serve-punts-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-fit-to-serve-punts-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Democratic lawmakers want criminal investigation into Trump call with Georgia election officials"
     excerpt: "The FBI has confirmed to Fox News that it has received a letter from Reps. Ted Lieu, D-Calif., and Kathleen Rice, D-N.Y., which calls on Director Christopher Wray to open a criminal investigation into President Trump's Jan. 2 phone call with Georgia Secretary of State Brad Raffensperger."
     publishedDateTime: 2021-01-04T20:29:21Z

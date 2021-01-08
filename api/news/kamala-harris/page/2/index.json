@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-01-jake-tapper-to-interview-joe-biden-and-kamala-harris-in-first-joint-interview-since-winning-election.md",
+      "title": "Jake Tapper to interview Joe Biden and Kamala Harris in first joint interview since winning election",
+      "excerpt": "CNN's Jake Tapper will interview President-elect Joe Biden and Vice President-elect Kamala Harris on Thursday in their first joint interview since winning the election, the network announced Tuesday. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QJoLAIht_eQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QJoLAIht_eQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1040,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200810103806-joe-biden-kamala-harris-lead-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/jake-tapper-interview-biden-harris-first/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/jake-tapper-interview-biden-harris-first/index.html",
+      "publishedDateTime": "2020-12-01T13:14:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.md",
       "title": "Frontrunners for Kamala Harris Senate seat praised Fidel Castro",
       "excerpt": "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro.",

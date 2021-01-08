@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him"
-    excerpt: "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack."
-    publishedDateTime: 2021-01-08T14:38:00Z
-    webUrl: "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/5ff78426d184b30018aada7d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
     excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
     publishedDateTime: 2021-01-04T05:27:00Z
@@ -90,6 +76,6 @@ related:
         height: 3769
         isCached: true
 
-secured: "6wW5R7T4WME5nlfMTcwd8ut4srmegnxytNJlkof52BFiBp4omJIX5sw36ZYZcGIg7aOP18FWj1dU+afNENGirOMe+cDe2jE7S9GRMGgjlVtuKb+pxt7XUucnY5vKw/5OmXiHXksRVKqX8Uh/URo7EdBE/XIJjL1k1tdWNcs4RpiEMxK7UonGmnclBetsou29O+7zwWqdjBd3h/sXvdlJzqUhUanmCzBm01JdHIE4qhhBgKwtd0bL2vE8fKcHtiGaZ1RQx1NZnBUIKD/qlpcbOPtcfG9B2ucZcBCpMcbpnMB254PnkGCFUb97v9ztkvR5Pj+87vLWFGp+X2mDMsjWi3YUZBtB3xT6NGurerdpPjE=;MtjSJJX81fsRlYku9Truxw=="
+secured: "xT063yj50t4ECmu9CcKTDLstANlXB2FaU1GNwHcqPfdXTH/yT/9fhiPRWjvgaKqbgZz0tHa8ZsUYUPMmZa4UjtcQSJhEUXTD5z4Orn06/PXdaF1DlHyH4s11dHRlPNwmFFUvbzAd6Olcmtr0AJz+FN6S3Q2etYpQTuMbul967VLkw6dtwOQYMAoamYSPqsdzMkA7CHmyrrz/kBEsLF4CEPGZZSvP3SJTEalMV7RconGYUHBHX6dAZjWjZWyNMu81gQ7y91EMnDbUnFegPVujKOhImwM7KZmMvsv6CBaXSv3DxPf1qigYORYPywa8y6DDMv8+uW7w8FxalF6O+dYkjNin6okp9G7GAJsI4tvbslMCjc5ZEUFLMtmTHlE5TU7o8RYiJU/pGH84nyXGETCv1S67oSjOde39s7iWWefz4LmeC+shk+cGRqDQgt9p24CEavfzgSlKamvIHEYqfHykyF5UfW3swU7SyIQimtQskhKHRDx/DCL/EWFkJsjifEhN6B9rMJ7AKLSmk8J5s7SXUA==;xekIur3SeDOnXEl4WUUwFA=="
 ---
 

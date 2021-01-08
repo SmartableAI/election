@@ -300,6 +300,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
+    excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."
+    publishedDateTime: 2021-01-08T21:07:00Z
+    webUrl: "https://www.politico.com/news/2021/01/08/biden-blasts-cruz-hawley-capitol-attack-456653"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/d2/27/4e66adb447e4a85b85ecc7276967/gettyimages-1295341558-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "LaW05DXL8pIk+QP9RZekYBFGncewLni1Yq+eyTtEPif1FBrpy2KkpEfgo1+BJqwv/U7Kbs2rO/qs/rQCCR9X+eeaVueCFOEFAHA1nBZqVLsUoOH6uGZWOPIAeLddZtxQQjoP4WGUployw6bQb5Hfeqs1fl8aQ0MRW99geV+lme9qyqr4N3WatvC7bBGy/hnR/R9pa19uIw2Ku7gE15NIvxI26AnlFbIfX8ozUnHi6/iPtKt2V6060nwYPb6AbCiCBBSM81VvrYw83vwT+djJXFugMvUGeyvDSjtFbDWs41cjVxn6LM1No6KvzeZye8qJEO9wJcF2V5JrH7dEKNA1swFLUrCc77a2WQnDy1c0s90=;lrSpcCBynMHYLQOwFZ1h3g=="
 ---

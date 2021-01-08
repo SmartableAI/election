@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Capitol riot: Media mirrors Biden by vilifying police, comparing response to Black Lives Matter protests"
+    excerpt: "As America attempts to recover from the Capitol riot, everyone from President-elect Joe Biden and NBA star LeBron James to members of the mainstream media such as Joy Behar and Joy Reid have vilified police officers for their role in the tragic event."
+    publishedDateTime: 2021-01-08T22:16:00Z
+    webUrl: "https://www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police"
+    ampWebUrl: "https://www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d2e324c-20b7-4074-9116-7e3e04976045/9c068f94-827e-4577-a06e-e7d4547cf61d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden: Don't Dare Call Them Protesters, They Were A Riotous Mob And Domestic Terrorists"
     excerpt: "President-elect Joe Biden denounces the riots on Capitol Hill on Wednesday at an event introducing Merrick Garland as his nominee for Attorney General. PRESIDENT-ELECT JOE BIDEN: I know you're all going to have a lot of questions,"
     publishedDateTime: 2021-01-07T20:27:00Z

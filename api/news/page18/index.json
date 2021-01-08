@@ -2,6 +2,162 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-13-federal-court-judge-dismisses-extraordinary-trump-lawsuit-seeking-to-overturn-wisconsin-election.md",
+      "title": "Federal court judge dismisses 'extraordinary' Trump lawsuit seeking to overturn Wisconsin election",
+      "excerpt": "U.S. District Judge Brett Ludwig — a Trump nominee — concluded Wisconsin officials had followed state laws when they conducted the Nov. 3 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PMJS/ee1680b4-5450-40a4-afa7-1023a5c58f66-Brett_Ludwig.jpg?auto=webp&crop=533,300,x0,y205&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3894689001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3894689001",
+      "publishedDateTime": "2020-12-12T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-fox-news-conspired-to-overthrow-trump-mypillow-ceo-tells-stop-the-steal-march.md",
+      "title": "Fox News Conspired to Overthrow Trump, MyPillow CEO Tells 'Stop the Steal' March",
+      "excerpt": "\"I'm serious, they had to be on it!\" Mike Lindell said of Fox News. \"They should all go to prison when they are found out.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370",
+      "originalUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1685457/my-pillow-ceo-michael-lindell.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370?amp=1",
+      "publishedDateTime": "2020-12-12T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-this-is-a-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-at-rally.md",
+      "title": "'This Is a Phony Pandemic': GOP Congressman-Elect Praises Maskless Trump Supporters at Rally",
+      "excerpt": "\"This looks like a group of people that get that this is a phony pandemic,\" Bob Good of Virginia told \"Stop the Steal\" rallygoers Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365",
+      "originalUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1685454/bob-good-phony-pandemic-maskless.jpg",
+          "width": 768,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1",
+      "publishedDateTime": "2020-12-12T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
       "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
       "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
@@ -1183,176 +1339,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-baker-sends-back-police-reform-bill-clark-presses-biden-on-plastics-rollins-on-us-attorney-buzz.md",
-      "title": "BAKER sends back POLICE REFORM bill — CLARK presses BIDEN on plastics — ROLLINS on U.S. ATTORNEY buzz",
-      "excerpt": "He's not in office yet, but Rep. Katherine Clark is already calling on President-elect Joe Biden to address the world's \"indisputable plastic pollution crisis.\" Clark penned a letter with Oregon Sen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119",
-      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.md",
-      "title": "Whitmer says Michigan GOP went ‘too far’ against anti-Trump state Democrat",
-      "excerpt": "Michigan state Republicans went “too far” in saying they would pull committee assignments from a state Democrat who threatened Trump supporters in a viral video, the state’s Democratic governor said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/r3OnYTULLDE/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/r3OnYTULLDE/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/whitmer-johnson-.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.amp",
-      "publishedDateTime": "2020-12-11T03:33:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.md",
-      "title": "Time magazine names Biden, Harris its Person of the Year in profile fiercely critical of Trump",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAhFnJT1EBA/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAhFnJT1EBA/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1083,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp",
-      "publishedDateTime": "2020-12-10T21:01:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

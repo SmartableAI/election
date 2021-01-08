@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-ca
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lehigh University has rescinded Trump's honorary degree"
+    excerpt: "Lehigh University, a private college in Pennsylvania, has revoked the honorary degree it awarded President Donald Trump more than 30 years ago.\n    \n"
+    publishedDateTime: 2021-01-08T22:36:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JFq8Raeg0BQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108161106-lehigh-university-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A Mob and the Breach of Democracy: The Violent End of the Trump Era"
     excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
     publishedDateTime: 2021-01-06T18:55:00Z

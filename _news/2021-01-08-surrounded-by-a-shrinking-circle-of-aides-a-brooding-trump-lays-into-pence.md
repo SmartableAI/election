@@ -3,10 +3,12 @@ category: news
 title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
 excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
 publishedDateTime: 2021-01-08T01:37:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29C2R6"
-webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29C2R6"
+originalUrl: "https://www.reuters.com/article/us-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUSKBN29C2R6"
+webUrl: "https://www.reuters.com/article/us-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUSKBN29C2R6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2R6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2R6"
 type: article
-quality: 118
+quality: 138
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547001987&r=LYNXMPEH061DF&w=800"
-    width: 800
-    height: 557
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DF"
+    width: 781
+    height: 545
     isCached: true
 
 related:
@@ -3381,6 +3383,20 @@ related:
         width: 2722
         height: 1810
         isCached: true
+  - title: "Biden will move to extend pause on student loan payments -transition official"
+    excerpt: "U.S. President-elect Joe Biden will move to extend a pause on payments of federal student loans when he takes office on Jan. 20, Biden transition adviser David Kamin said on Friday."
+    publishedDateTime: 2021-01-08T21:17:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSW1N2IV031"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Congress set to confirm Joe Biden's electoral win over Donald Trump"
     excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
     publishedDateTime: 2021-01-06T12:56:00Z
@@ -4308,6 +4324,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "GxRriu9vrmoAeXjJrNM4FaeNNo7d1cEJOxvxbs2E274sPFBTe6k6hosJB64gpTdB+JJYXVTquH95kxmgAhk7EF4TD+9MXgT487HfQuHE0YJFf+qk5dFIZWv5z/3wTRbNftyTbnR9YAANwkiEQt3Lr7N3D1KNM0M1aJcZSpB0gcJ6ezFrDUPUxXlaz5P0KAekmAjlg8z90aCb+artaCwmIVLyh2aK509pVpNrji10zsAcuVBcnaRnPQAEe+S5WsaQqEDKjIkQa4ObQbUGdCAD+9/wxmF6NCXy2ra6k7/2HuuZcHk/h3QkM3yFkc+C7/ntbUihHHumoXyIOGxxpnRxXcWT03Q655wJOw+mV/Q+vs8=;eqwjMEgLC7szYPchZJAcRw=="
+secured: "KEeGJgnPooC308qDIIjSrsWnTZYchgw6RjHuCys23DT98v6lkvP9XGs4+c4gOUHdnoJCrY4QENrVnHlFOXxJ+bj+VNNJk1h3RX5uajC+gTMqNNzE/ELPQLiR7atjFfETlm5YvpkyV2NJlD4aE+1U29ZzG8uGroYjAlo48reyoXXGyNEZEibZedLaffyx81tawqrj8jT7CrmZzesGrjD6hhValsHXo4VG6eO7QzQHdg2FRJOLT4rpF+YixyCDMOmki6epffvFu6gu+ZzhWlulg7JF2dg+pl+hn1AGKHJbYEW/bKtDRP3DBKThkxFS83bKxxF+nLCKiotSFIKkJ/Mt9gnxk4ATLcTOirFZHDR74zU=;fcKyrMHJPnjZ/fl11elxJw=="
 ---
 

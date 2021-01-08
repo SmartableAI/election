@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 1835
+heat: 1855
 published: true
 
 provider:
@@ -294,6 +294,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DiOdJCN2LHM/trump-lashes-out-at-weak-republicans-for-not-backing-his-push-to-overturn-the-election"
     ampWebUrl: "https://www.foxnews.com/politics/trump-lashes-out-at-weak-republicans-for-not-backing-his-push-to-overturn-the-election.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lashes-out-at-weak-republicans-for-not-backing-his-push-to-overturn-the-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says Trump's 'not fit to serve' as president but punts on calls for impeachment"
+    excerpt: "President-elect Biden on Friday charged that President Trump “isn’t fit to hold the job.” But the president-elect refused to say whether he supported the push by congressional Democrats and handful of Republicans to immediately remove Trump from office either by impeachment or through the use of the"
+    publishedDateTime: 2021-01-08T22:17:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JtVaO5dqQbk/biden-trump-not-fit-to-serve-punts-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-not-fit-to-serve-punts-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-fit-to-serve-punts-impeachment.amp"
     type: article
     provider:
       name: Fox News

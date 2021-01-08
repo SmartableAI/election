@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Dominion Voting sues Trump lawyer Powell for defamation, seeking $1.3 billion in damages"
+    excerpt: "Dominion Voting Systems has filed suit against Sidney Powell, the lawyer who pushed false election claims for the Trump campaign, claiming defamation and deceptive trade practices.\n    \n"
+    publishedDateTime: 2021-01-08T21:53:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_V8Vr-dIBU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/dominion-voting-defamation-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/dominion-voting-defamation-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's ex-White House chief of staff John Kelly supports using 25th Amendment to remove the President"
     excerpt: "Former White House chief of staff John Kelly said Thursday that if he were a member of President Donald Trump's Cabinet he would support using the 25th Amendment to the Constitution to remove the President from office following a deadly riot at the US Capitol.\n    \n"
     publishedDateTime: 2021-01-07T22:22:04Z

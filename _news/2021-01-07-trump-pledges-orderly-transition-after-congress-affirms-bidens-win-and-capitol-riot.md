@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-electoral-college-insurrection/index.html"
 type: article
 quality: 183
-heat: 523
+heat: 543
 published: true
 
 provider:
@@ -284,6 +284,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/369026f3-d559-4a45-bebc-16ae13994954/efc65f2e-eddc-4e3a-8537-5ac6a4eaa196/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
+    excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."
+    publishedDateTime: 2021-01-08T21:07:00Z
+    webUrl: "https://www.politico.com/news/2021/01/08/biden-blasts-cruz-hawley-capitol-attack-456653"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/d2/27/4e66adb447e4a85b85ecc7276967/gettyimages-1295341558-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "BIDEN taps WALSH for LABOR — MAYORAL RACE WIDE OPEN — Mass. man ARRESTED in CAPITOL CHAOS"
     excerpt: "It's the equivalent of an earthquake in Boston politics. Boston Mayor Marty Walsh is headed to Washington as President-elect Joe Biden's nominee for secretary of Labor. And for more than a dozen ambitious pols in the city,"

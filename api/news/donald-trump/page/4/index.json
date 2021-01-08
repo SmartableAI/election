@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-25-exclusive-dominion-sends-letters-threatening-defamation-lawsuits-to-sean-hannity-maria-bartiromo-lou-dobbs-and-other-pro-trump-media-figures.md",
+      "title": "EXCLUSIVE: Dominion sends letters threatening defamation lawsuits to Sean Hannity, Maria Bartiromo, Lou Dobbs, and other pro-Trump media figures",
+      "excerpt": "The company at the center of a false election conspiracy theory told right-wing media organizations and individual hosts to \"preserve all documents.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
+      "originalUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe4d115edf8920018093b21?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
+      "publishedDateTime": "2020-12-24T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-republicans-loyalty-to-trump-means-more-doubt-hovers-over-bidens-hope-of-bipartisanship.md",
+      "title": "Republicans’ loyalty to Trump means more doubt hovers over Biden’s hope of bipartisanship",
+      "excerpt": "But some GOP lawmakers’ continued loyalty to President Trump weeks before Biden is inaugurated suggests that convincing members of the opposing party to work will not be an easy transition. The electoral college affirmed Biden’s victory over Trump more than a week ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 761,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HJHLZCFJMI6XLBKHLAPFOGO5M.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp",
+      "publishedDateTime": "2020-12-24T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
       "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
       "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
@@ -1455,110 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-signs-into-law-stopgap-funding-bill-to-avoid-government-shutdown.md",
-      "title": "Trump signs into law stopgap funding bill to avoid government shutdown",
-      "excerpt": "President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds passed by Congress to avoid a midnight government shutdown, as lawmakers negotiate a $900 billion pandemic aid bill and as part of $1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A",
-      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545099113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH1Q4",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28S31A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28S31A",
-      "publishedDateTime": "2020-12-19T00:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long-running-tension-with-other-republicans.md",
-      "title": "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans",
-      "excerpt": "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
-      "originalUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
-      "publishedDateTime": "2020-12-18T15:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

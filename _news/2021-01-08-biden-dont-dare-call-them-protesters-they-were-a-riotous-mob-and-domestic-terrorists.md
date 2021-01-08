@@ -90,6 +90,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Capitol riot: Media mirrors Biden by vilifying police, comparing response to Black Lives Matter protests"
+    excerpt: "As America attempts to recover from the Capitol riot, everyone from President-elect Joe Biden and NBA star LeBron James to members of the mainstream media such as Joy Behar and Joy Reid have vilified police officers for their role in the tragic event."
+    publishedDateTime: 2021-01-08T22:16:00Z
+    webUrl: "https://www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police"
+    ampWebUrl: "https://www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d2e324c-20b7-4074-9116-7e3e04976045/9c068f94-827e-4577-a06e-e7d4547cf61d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "itVx2NlFuFP691tTERK43fkZQwHBDRTXEGSg3RD8MCHgQxBNSyeas170rHVbxyJdwgXI95/6co51odjZT6genIJ0xweiqRdouqE9uRMhTV+6WemATo4G/IvImE6zBYCH1mOTnGoOvhaRgWL5eRdvjXVpCFjJbhQSGjFIzJAqbHJU3UM8wjNMdVv804/pRSwxjWWVYA+8Ssauzrtk8mppOcnAGtlqjVjOWmwrwQkbzJgaT6S488etzzqzHHG+GeK3c8nnzx53H+AL0y7q9tSsxgFT5zUy4hp/gDsG2dXIuiA/bPQOoUQHSAWcqriHgy6YemLWANP41YsAIJnuScXtq5oHbZQGO28ZA6CqxoJiZoA=;y6gra7uXqEyI6NMbY5mFLQ=="
 ---

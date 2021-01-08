@@ -43,6 +43,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris: 'We are going to be inaugurated'"
+    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
+    publishedDateTime: 2021-01-05T10:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
     publishedDateTime: 2021-01-08T03:45:00Z
@@ -106,20 +120,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
         width: 1197
         height: 720
-        isCached: true
-  - title: "Kamala Harris: 'We are going to be inaugurated'"
-    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
-    publishedDateTime: 2021-01-05T10:34:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
-        width: 852
-        height: 480
         isCached: true
 
 secured: "ucNzPXsTtMISVBEQOtevSLWAcy8OHEAbaMYHpTTShLAQ+bWAtevZOAovvljCh99sz7IjRxldZY5Y2v5H6IJiXCRC4rA1U8RVGo94FzX9B3UBvDMeW8BwVR50/FyHWRUKpvOqB7chA2SRJ3S+1jr31xKKiYZBiZR4BiT7hTEHVo3rEE6Zv+egQV9MsZgUdyeyzbg6874qJ0wjw4zUBlG2a+V4OuvsfA4HTGU3MldZWjF2OtdfG/T8zvUYvYGFKcZQ9RHrx6wCUDI11/ul+AUiwGfyAI6zqOzzbzclYHa/+Eoq3cL1byw2i493SY9DemMON4ZnAycO7zrqPh9/KRMrXFDFsEDQ60+Ts3hPzO388vc=;kX/2vL4XjF2jDdk6sruyWw=="

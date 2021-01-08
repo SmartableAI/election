@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As riot raged at Capitol, Trump tried to call senators to overturn election "
+    excerpt: "President Donald Trump and his attorney Rudy Giuliani both mistakenly made calls to Republican Sen. Mike Lee as deadly riots were unfolding at the US Capitol earlier this week, a spokesman for the senator confirmed to CNN -- calls that were intended for another GOP senator the White House was frantically"
+    publishedDateTime: 2021-01-08T22:30:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bYFqjJKrlt8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/mike-lee-tommy-tuberville-trump-misdialed-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/mike-lee-tommy-tuberville-trump-misdialed-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013124903-11-barrett-hearing-1013-lee-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Authorities on high alert as pro-Trump supporters flood DC to protest election "
     excerpt: "Hundreds of law enforcement officers have mobilized across Washington as thousands of supporters who refuse to accept President Donald Trump's election loss have flocked to the nation's capital to protest when Congress gathers Wednesday afternoon to put the final stamp on President-elect Joe Biden's"
     publishedDateTime: 2021-01-06T10:01:19Z

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Huckabee: Trump’s policies have made life better for every American"
+    excerpt: "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done."
+    publishedDateTime: 2021-01-08T21:50:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_0V874_NoOQ/mike-huckabee-trumps-policies-life-american"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d528e2b-4d98-4020-b38e-608b9fe1f4f5/296c9f72-e5ee-4d6c-843f-51372355367c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McCarthy condemns 'un-American' breach of US Capitol by pro-Trump demonstrators"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., condemned pro-Trump protesters who broke into the U.S. Capitol building Wednesday as Congress began to formally count the Electoral College votes in the 2020 presidential election."
     publishedDateTime: 2021-01-06T20:50:52Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lehigh University has rescinded Trump's honorary degree"
+    excerpt: "Lehigh University, a private college in Pennsylvania, has revoked the honorary degree it awarded President Donald Trump more than 30 years ago.\n    \n"
+    publishedDateTime: 2021-01-08T22:36:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JFq8Raeg0BQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108161106-lehigh-university-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "muTAGgzn8XcifdvEpLQOudbrb3SgOs/7X+fUMafzde9egz0TGaE6feiN2+qmw/r0NkERi0f5dM4GjfCtnF3QcAJt1BWs9eWjrupVs168BJz+kmzJABKPeKJyJV2zYYwVPpaXZS/61tmvXqfV2s19R3bxjF5eCxv/dieipIZEScYvvPr/fyQxfuOxVr9m7iB0i//7fasUI8An3KclrYzDPzRSGzvnVrL80Cu8IOoDNiKZk9rCrFoQyRjBs9XqjBS3X+3GDXG5IwrlZ5R02uSbPttG+nfcBBpcbBDDwygCbUj9c2Vl0CC9F5XvJUmtbpIXlP3sHO6ZuiLnBjR75mN7zE3UkJiHRe4XUWcNrqDNDts=;H7Ke37oieM0d0iWBnnISoQ=="
 ---

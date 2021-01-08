@@ -90,6 +90,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump, Giuliani, Trump Jr. may be investigated over role in Capitol riot, DC attorney general suggests"
+    excerpt: "The D.C. attorney general on Friday said that President Trump, Donald Trump Jr., and Trump lawyer Rudy Giuliani could be investigated over their alleged instigation of the riots at the Capitol building that left five people -- including a police officer -- dead."
+    publishedDateTime: 2021-01-08T22:24:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CPQzTQIvvi0/trump-giuliani-trump-jr-investigated-capitol-riots-dc-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-giuliani-trump-jr-investigated-capitol-riots-dc-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-giuliani-trump-jr-investigated-capitol-riots-dc-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6513e8bf-4fb1-4d92-a52c-4478f0026468/398165b5-b42e-4421-8828-509ba2ca0d2c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8nqb1HV9gZlrQszxRBmlCwco0XJ+CqZlmVHarE6uj8VK106NPSbbJczvDb87JceBKSwcMJsGLeowgVQFhijw04eIUw5o3Oe5EQ2g+MlFR+hWrfiwYmYzq/xmJ4dtUVPNA0c7qxYAFtnUOu0yK4PHslw+AYv92Yz8Fw/O6HGrA1ruooxQsH1FlZwkW3Y0Qd+tKWP5JHjuBqL5vjKsCN0qgIIb2+nmPQdz+UfOfEn+AMBzNJvTOWitzOQWfboE4ge+VgfWceNga+f6mIJy2McgXiBQasIJCM7d/fYZUnBXotriQMtqFHi0YbMloT015YXa7pVSxC2wkhJYZYJ50njgPn33aUuf/PB/ayOuEQX6fQY=;ztYMoUUSaK++xumGjCZWkg=="
 ---

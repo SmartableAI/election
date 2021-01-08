@@ -2,6 +2,161 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-12-20-trump-responds-to-boltons-incompetence-claim-hints-he-could-reveal-stupid-stories-about-former-adviser.md",
+      "title": "Trump responds to Bolton's 'incompetence' claim, hints he could reveal 'stupid stories' about former adviser",
+      "excerpt": "President Trump hit back after former national security adviser John Bolton blasted him for \"incompetence\" amid reports that Trump discussed invoking martial law with another former national security adviser, Michael Flynn.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaPj5M9iXz0/trump-bolton-election-martial-law-michael-flynn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/3b9234da-Bolton091919.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bolton-election-martial-law-michael-flynn.amp",
+      "publishedDateTime": "2020-12-20T08:07:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-navarro-we-are-all-china-hawks-because-of-trump.md",
+      "title": "Navarro: 'We are all China hawks' because of Trump",
+      "excerpt": "As tensions between the U.S. and China rage on, White House trade adviser Peter Navarro told \"Fox & Friends Weekend\" that President Trump has pushed both parties to take a tougher line against China.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350698854664.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
+      "publishedDateTime": "2020-12-20T07:46:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-romney-says-trump-has-blind-spot-on-russia-calls-hack-extraordinarily-damaging.md",
+      "title": "Romney says Trump has 'blind spot' on Russia, calls hack 'extraordinarily damaging'",
+      "excerpt": "Republican U.S. Senator Mitt Romney said a widespread data breach across the U.S. government was \"extraordinarily damaging\" and that President Donald Trump has a \"blind spot\" when it comes to Russia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N",
+      "originalUrl": "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2J008N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J008N",
+      "publishedDateTime": "2020-12-20T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-biden-mulls-punishments-for-russia-over-suspected-role-in-government-hack.md",
       "title": "Biden mulls punishments for Russia over suspected role in government hack",
       "excerpt": "President-elect will consider options for unprecedented hacking of US government agencies",
@@ -1160,167 +1315,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-supreme-court-rules-its-too-early-to-review-trump-census-plan-to-exclude-undocumented-immigrants-from-house-redistricting.md",
-      "title": "Supreme Court rules it's too early to review Trump census plan to exclude undocumented immigrants from House redistricting",
-      "excerpt": "The U.S. has always counted citizens and non-citizens for the purposes of redrawing congressional districts every 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "originalUrl": "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/18/598123c6-e9fc-4e7d-8df1-d6e7d1cf4237/thumbnail/1200x630g8/e12aa40557dbc7b3525ba6258ddd5da2/gettyimages-1230073815.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "publishedDateTime": "2020-12-18T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-black-family-in-texas-says-cars-set-on-fire-house-vandalized-with-trump-20-over-blm-sign.md",
-      "title": "Black family in Texas says cars set on fire, house vandalized with 'Trump 20' over BLM sign",
-      "excerpt": "Jayla Gipson and Charles Crawford said the incident was brought on by a Black Lives Matter sign they put in their yard around Thanksgiving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/18/black-texas-family-says-cars-set-fire-over-blm-sign/3956433001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/18/black-texas-family-says-cars-set-fire-over-blm-sign/3956433001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/26/USAT/ef4e297a-1c31-4810-91de-6c9105534f82-GettyImages-1182076012.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3956433001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3956433001",
-      "publishedDateTime": "2020-12-18T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions.md",
-      "title": "Abortion, Guns and Trump: A Church Group Tries to Navigate America’s Divisions",
-      "excerpt": "In suburban Michigan, a group of worshipers from Calvary Christian Reformed Church sought understanding through dialogue. Sometimes it was tough going. ‘My soul is hurting,’ one member lamented.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "originalUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-274212/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "publishedDateTime": "2020-12-18T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -1151,6 +1151,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
+    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
+    publishedDateTime: 2021-01-08T01:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUSKBN29C2R6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2R6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2R6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DF"
+        width: 781
+        height: 545
+        isCached: true
   - title: "Trump-Biden transition live updates: House to vote on $2,000 stimulus checks"
     excerpt: "House Speaker Nancy Pelosi on Monday is bringing a vote on a stand-alone bill to increase economic impact payments to $2,000 to the House floor, and while it’s expected to pass the House, it’s unclear whether Senate Majority Leader Mitch McConnell will take up the measure in the Senate."
     publishedDateTime: 2020-12-28T15:58:00Z
@@ -2874,20 +2890,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
-    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-    publishedDateTime: 2021-01-08T01:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29C2R6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547001987&r=LYNXMPEH061DF&w=800"
-        width: 800
-        height: 557
-        isCached: true
   - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
     excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."
     publishedDateTime: 2020-12-30T19:44:00Z
@@ -3380,6 +3382,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N7P2TTXLGNBSPNBETRTAED2P5A.jpg"
         width: 2722
         height: 1810
+        isCached: true
+  - title: "Biden will move to extend pause on student loan payments -transition official"
+    excerpt: "U.S. President-elect Joe Biden will move to extend a pause on payments of federal student loans when he takes office on Jan. 20, Biden transition adviser David Kamin said on Friday."
+    publishedDateTime: 2021-01-08T21:17:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSW1N2IV031"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Congress set to confirm Joe Biden's electoral win over Donald Trump"
     excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
@@ -4308,6 +4324,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "IKOUc2aB49u0EwsDGZHK1UVzvZUcjaIUuKLaNTqkTwF+LEl9JWjiLcBC+HA98RGe4q+cL7GKZ9cJhFMLQf/rLiZwEg3D9luz90hiqKtYyrJQJrC9n1dErr9RWvGrs148M3sQsEv3EZjG+SNWkUopyE4UVWAtqg0eJ6tHm0rKquigvkNGEHuQ8UjOuUgfeQ6ZCdtTWbl1mmqP223WTppH5BLZ446Tm1trhmHTtNGTTjIuOluPTgbG5+t1BKhOhMI7npUERC47Hh30nNj/5P8+ewVB1hQnQrr5VuXlWjqv4GduXacOp/RUQ0UNnpv7hNPtL9hjbr6tGHV32rLws4xey4qfYeD1sNDOcXpG0+7qlqs=;rIEyqK1w6Gg97tpU7hJgdA=="
+secured: "U/e0pHluuBdjkdD8bRrQTgGICqHWhD60Eye1FHbMrXpz90MujGjsx2LjDnswxOeKZLNPD49bj+iVp8tBgUdu982ZCrV6DbkZyxJw7VsT6w55EtJFMrv03sPLCN0Fh6Jb4hTKYFC/sw8kokwKpg43d15mSmubcGF8U/px2AoiZjPvzXjq4x0Y+gK8QrmzQyBPoNbw3zKyu3Kjzw/1PwbRq9Ezx9TvVa9R6qLd64Y3pQ91153fOZ9mbFxFV5gSM+kRnjzdt7YofWZN7h+0uhIDOdF3tXxVv7gGo7hBYDd5duqfzNjpz1v6YfMQkUzMsDPaPn8H3ix4A5h+qwKV4Zv0Tiu58k+WF4GKcVrLNSbE2TZvTr+DvkSk0Y9tXBNvU3F4xVJt9KG+ryydaBrSmfBONusnDeSioDKrB5f5jspt9aVvGedvJ5PSV0G49tHp+HBBKl9ZJNhTLuaeiuYT3+bwd/tu1fobCDpLUjx16bAorBOumW0JCA0A9skcYIKxtisk+Lld/gIBOCYHj3/xTR2XyA==;TzwgqGSt144dS3Q8IDOXrA=="
 ---
 

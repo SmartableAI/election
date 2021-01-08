@@ -2,17 +2,21 @@
 category: news
 title: "Kamala Harris: 'We are going to be inaugurated'"
 excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
-publishedDateTime: 2021-01-05T10:34:00Z
-originalUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
-webUrl: "https://www.azcentral.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+publishedDateTime: 2021-01-05T10:33:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -122,6 +126,6 @@ related:
         height: 720
         isCached: true
 
-secured: "CIJs3XMT3plpZdsdvwli48Ouf/Wgs5v0OdSMWd8SazFSMrlOfETrLi214C9oCBt3bMYzTHMZ03KmYp262ifvvmqb4DXYfuNrqMCpivy1KSgaIicR4g1TwRFXgU+DjqKryVznGLDBMx/HIui+OjL4qx/+21UNXBu8fdObS8W/oXc6UMzNhV9cbtV2GXUzvrSB2S5fKK5PQ3fj7BvodOHu8vhj8B0KfS3do96nX+BuYs+B/DKGW6E1pJ2wfhS7No9Y2NbdqqgciuTS6Q/aKJR05wPOdIeGthu2sEwIMunyvd8lKOOx52nQj8Wz9Koq8tlfOiU7uXI4FK3H+o+4HM9w7A06r+PRYr0Ma1NHeI1F/2uFa8OoHH4OxTwjvGxWopuurdSn97WfQbhIrgbqcPBEAngqwuTtJIoY9w0BnxA84zsSNo7+yOWvRIZXm3aZBaOfUstw5xkzGYG14luBB8pVv10Ds/NrS3Fh7mwKFYDK8T7s78CkkugNLwU107lergfzMzX98sT7cgRU13VP5Ry0FA==;yB17LYJMEoZnke4bt4EkBg=="
+secured: "rHMBwZLAkqly778YpoXaQ+Z5nM67YSYGp6zOGTCCLhe7mJsLCxQqjTZ89bY0vfprG75Bk4ZoAtUcOmV7ITM5oTncvj76LLQY3Vqh6gj7U2ToDtnd2KXCxQTkUYhoggQccwZs7aWOrRXAPEpjcvlWwAfC6sOHhRuzn7Xmh3UvLsD055rZYp7coGynADNw+dTsRN+k6eSVAt0oRUnuDPxvJjO45Wy3oflG8olINSSKdjnH6EcX3RaNSv4Q9UlpyifZIAeCgRzvGejJLyHnhBAa0hbu3r9PUnuy9gGgDXoeMURYVzikpfQaiEUoDQTXtaxP/zUZlSdzt81K+gEug6Yc/0WxGrm2MDNpLrmszuNQJ+Y=;t65MTgW+CZuPXeYzR4n5gA=="
 ---
 

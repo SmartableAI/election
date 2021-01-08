@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-09-kamala-harris-top-economic-advisor-is-another-blackrock-exec.md",
+      "title": "Kamala Harris’ top economic advisor is another BlackRock exec",
+      "excerpt": "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/",
+      "originalUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2019/12/blackrock-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/",
+      "publishedDateTime": "2021-01-08T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-dewine-does-not-support-arts-council-appointee-comments-media-owner-called-kamala-harris-a-whore.md",
       "title": "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'",
       "excerpt": "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block.",
@@ -1537,63 +1585,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-jake-tapper-to-interview-joe-biden-and-kamala-harris-in-first-joint-interview-since-winning-election.md",
-      "title": "Jake Tapper to interview Joe Biden and Kamala Harris in first joint interview since winning election",
-      "excerpt": "CNN's Jake Tapper will interview President-elect Joe Biden and Vice President-elect Kamala Harris on Thursday in their first joint interview since winning the election, the network announced Tuesday. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QJoLAIht_eQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QJoLAIht_eQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1040,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200810103806-joe-biden-kamala-harris-lead-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/jake-tapper-interview-biden-harris-first/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/jake-tapper-interview-biden-harris-first/index.html",
-      "publishedDateTime": "2020-12-01T13:14:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Kamala Harris"
       ]
     }

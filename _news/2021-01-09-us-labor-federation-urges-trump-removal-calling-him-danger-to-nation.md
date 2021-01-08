@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-fe
 webUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8"
 type: article
 quality: 104
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him"
-    excerpt: "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack."
-    publishedDateTime: 2021-01-08T14:38:00Z
-    webUrl: "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/5ff78426d184b30018aada7d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
     excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."

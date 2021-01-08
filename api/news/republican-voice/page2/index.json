@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-biden-vows-to-get-big-things-done-after-georgia-senate-runoffs.md",
+      "title": "Biden vows to ‘get big things done’ after Georgia Senate runoffs",
+      "excerpt": "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
+      "publishedDateTime": "2021-01-06T09:49:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-biden-to-nominate-merrick-garland-for-attorney-general-sources.md",
       "title": "Biden to nominate Merrick Garland for attorney general: sources",
       "excerpt": "President-elect Joe Biden's pick for attorney general will be Judge Merrick Garland, three Democratic sources confirmed to Fox News.",
@@ -400,7 +456,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1835,
+      "heat": 1855,
       "tags": null,
       "images": [
         {
@@ -1593,62 +1649,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-appeals-court-upholds-bribery-conviction-for-chinese-think-tank-official-with-ties-to-hunter-biden.md",
-      "title": "Appeals court upholds bribery conviction for Chinese think tank official with ties to Hunter Biden",
-      "excerpt": "Despite Ho's claim of insufficient evidence, a three judge panel said evidence introduced at trial was \"more than sufficient\" to prove that Ho acted on behalf of a U.S. non-governmental organization to \"assist it in obtaining business for CEFC Energy\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KMITtBB6F2M/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KMITtBB6F2M/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d90667df-9a09-4955-8806-c48fe612bb47/823ee515-1a59-4a1f-b49e-7f388dbbadd6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp",
-      "publishedDateTime": "2020-12-29T18:31:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

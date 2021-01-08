@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ilhan Omar says Trump 'will be impeached'"
+    excerpt: "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election."
+    publishedDateTime: 2021-01-08T21:33:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” "
     publishedDateTime: 2021-01-08T18:13:55Z
