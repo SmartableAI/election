@@ -43,21 +43,7 @@ related:
         width: 2754
         height: 1961
         isCached: true
-  - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
-    excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
-    publishedDateTime: 2021-01-06T20:30:00Z
-    webUrl: "https://www.ibtimes.com/mob-storms-us-capitol-trump-accused-coup-3115809"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
-secured: "KCHYFyyP1dAawuVSmtXsdapv6dukaZed5eMxTHVBwyrkbnulro68h9N+ssA+WtcRsHYv278Yi/QIiQsHhIb8ZX4kB1/0f7C/VUP0vQuKYdtL9mt4uWoXyS75ePqpZgKSnQFY3FkCg4i8qKebwPsuDG7MyfbZ8oKS6TSlao8aZJoStFtdYoQK5LXAV0sLIterzZZnrCXSIMg8nzfPzY5jtbOtZ0e/8Jiv0m+lI3vj3xSoPT90QEPOQlyzyL5i/lJrejhoG72F7YZShtjsJmKqFTr4ItnJ4co9N2GivJpH4Ej1qPZ8uw7RJWapeYB8jR19bSxt+JoHxdH+xvhEqSicOf64+fSyKcVkC9XhuPf5Rh0=;E6OVQyiLYa2rjS/ZRd4Dmw=="
+secured: "OjjDx1MKooExErLEJqlVUMOdB/4c2D18XJjeIY0qVK12tzD9rXBHkgcrRryPLYYVPCNSYb6Ix4GkvqZqpuijdLEEV8cheOdqnIibhOzAZOf+qzGzCSjb9CYNBk5xyeJv9tk8wJ8KWGU8cJ96dC3Ob7EAYIWgUKFFiZTM+jaXFCl0pEnZZQeOxVeVsXpy5FlgHh+4nTE2T54Hp3Rsjg8YpYTzkgQmaUnilr761BB7r0buSK1NbgRHNqw5GjK4YpYe1rhaxf74B0b3cE1lA0V/a/nOZxdyjtWxPDKVzDCzyxAqyMV4gaqkzM+BN3yCz7jMoVg9//Xy48E4ZFlootfAXHmL6CBB5iIgngalthIEBekET/HuM3/bfDCKPxGitJ9wdmvBD1su6rwjNKYNHMeNjTCNQP/gIJrAwkKkcZrbe+AQ8j2aXeFsEfPnHYFZMeDi9bo+WthavyGDX5GMxwl+C9nzHuPzK3FxegdZZHDbigxCVWYdW1B8qs+Pimn9G+MhZihIcdrXr3x+UNqOrELKSg==;iN3Z02uGxGFkxGqqNXRQ5g=="
 ---
 

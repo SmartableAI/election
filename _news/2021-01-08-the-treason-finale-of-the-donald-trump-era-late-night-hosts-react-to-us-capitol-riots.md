@@ -59,6 +59,38 @@ related:
         width: 766
         height: 545
         isCached: true
+  - title: "Seth Meyers Rips Donald Trump After Capitol Riots: 'The President Wanted This'"
+    excerpt: "Talk show host Seth Meyers slammed President Donald Trump and the rioters for an attempt to destroy the American democracy by breaching Capitol Hill Wednesday."
+    publishedDateTime: 2021-01-08T06:22:00Z
+    webUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225"
+    ampWebUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/seth-meyers.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Donald Trump Slammed On Twitter For Saying Capitol Rioters Didn't Represent The Country"
+    excerpt: "Donald Trump said the rioters at the Capitol did not represent the American public, and Twitter users agreed saying the violent protesters represented him."
+    publishedDateTime: 2021-01-08T06:29:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/28/us-president-donald-trump-is-facing-a-potential.jpg"
+        width: 1024
+        height: 661
+        isCached: true
 
 secured: "TZR2keCzgpO36kuwX0nhNI0fhBBCqomA7SD0xhTES5wAdocqtHMZc4gYlOy1NLIte9AtuAoiL7vMrdYaxrvcF710zUisow+RL4T93NxTQ0cQ5mXwE9M8YoaqAw/00pwuqzxMwAofkkTv/sAc4+oYeAwpzD2HGm5K67/1iKwaQA/xg5vrtNblLDnO8vnfZCsdWqr4tNO6IfHJ0IxYuzaJzBX1bDPo6b6NHlN8XbKGUDzznpLhc3ZS5PEyE0Hn8DUtsskB4zlKhsq8cJQr0jswR43M0FTKAVHkdeN+ltdkBPDknLX8bTWF4VOlNS8PwF/edKYAosH87gdvGXQFfGIZ3SBlkxlZKxhSye1+astHeWajoivCUxZW/DNDW9sKcD51VBMkwWZUMImNGY1InNk38OIofCJlV413/EAxL8XeQlhRN9XnQ+VelD8mtw/x8PSRo9rUB3MFCXIKjvnwUQJW5kqQDgAC0EWVkMUOzVOxsXW/J4yshLrkCmH5KrvxDbaJn3dvIVYU7ONIfL7rVBkvag==;eQvjtTTZN1WLBJwegkbSnQ=="
 ---

@@ -76,15 +76,15 @@ related:
     quality: 105
   - title: "Biden picks Rhode Island governor for Commerce, Boston mayor for Labor: sources"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, people familiar with the choices told Reuters on Thursday."
-    publishedDateTime: 2021-01-08T03:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idUKKBN29C31H"
+    publishedDateTime: 2021-01-08T05:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-cabinet/wrapup-2-biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idUSL1N2JI30Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 101
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547040162&r=LYNXMPEH061HY&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547021518&r=LYNXMPEH061HZ&w=800"
         width: 800
         height: 533
         isCached: true
@@ -119,6 +119,6 @@ related:
         height: 478
         isCached: true
 
-secured: "3XpaJXzkbhCVQPoMITGHsYUNOKZuDtcNNiLdbAYwxkPGwdilngk4exT1rzPVAsVpzoqcY+n3wSIVblRSCjSjdRTtw2P6KEgz0+tcqgg0lU3Hd2vcRv4YgBM4qDzVwWzrevDIbjzLOY/eIMvFOLLFWxSZIV4LMk7n3h8P1PHUDR0cIapUG2me3PKVQnoU0MtKYRqQ+TGyFO0YI4lX/xUlQiwNtkNmDSQPxFVG5kCABWtkP343G1TyvXsYa9RdJaFkuXB8MGYZ91CtpiNWURTCQa5gVKO8pDXIJJzSsBsB/yVRNwNz/qjL9dFggCb+yNWxN8AsO6JxwaedGlhg/zvK6oPKZerFRFRMfaN/V6mp5mA=;d+7UIrXOE8m1j1YM8TQTRQ=="
+secured: "wptZmV5EMRrVis5E3QQaMmXwCoLzm4k7QxalPWiaehIs2Bvb4UJoIwnzyMDsh9vGKCImTaKsgKFhumgSr7oltlAP9XJRORiox/sIXbo4sPrsOf6XIHbba/bAQMVJWywIFy7fdpTwFMBbRv2JT03Xoe+MnLda6leigJH2vos3JJ+g4DIzN87vjAk6LUZQ0Lumq4wK8i9NWM8XgPduO7tSpISv4r17FBQTdUDznbNg+w1UwczUEb+L40DYp0pNyr7ed1xhI0fa1Y2fxg2j3cDYh183bom0tlzoy0a16FgSBJc4MvVJK7lay4yMdn3RRVlJdu7nhlsN8LoHyDKm1Sj52rbsV87xoFayX48EFKKlxKhtCZLCP8b4jF0UOQMKjwh6D11Pi0C0b5FpM8iiqc4y9hCxDEJnFiK4RxoJ64bI77eQ3NUhVbnbZwqF/izu+XVaZHPS+LJ9f3OpqvVx9+XiNkTVwLybN/tXShscTBu0FmCyvPA7/hK6Ydx3FBW0oKDfMQCA3FDu3E+oRz3VUbb6rQ==;1CsyNIDwk/XtKEAqfOl55g=="
 ---
 

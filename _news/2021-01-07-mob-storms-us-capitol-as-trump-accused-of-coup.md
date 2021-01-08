@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Mike DeWine says he still supports Donald Trump, though blames him for occupation of U.S. Capitol"
-    excerpt: "DeWine said Trump's continued denial of the election inflamed his supporters, who overran the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-07T20:39:00Z
-    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
+  - title: "Trump official merchandise stores removed by Shopify"
+    excerpt: "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump."
+    publishedDateTime: 2021-01-08T03:30:00Z
+    webUrl: "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F43BGYKSCFFH3COOSGRAHZFIHY.jpg"
-        width: 2754
-        height: 1961
+      - url: "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Gov. Mike DeWine distances himself from Ohio Arts Council appointee who posted pro-Trump rant that called VP-elect Kamala Harris a ‘whore’"
-    excerpt: "Gov. Mike DeWine on Thursday distanced himself from one of his appointees, Susan Allan Block, after Block posted incendiary comments on social media supporting President Donald Trump’s false narrative about election fraud and calling Vice President-elect Kamala Harris a “whore."
-    publishedDateTime: 2021-01-08T03:32:00Z
-    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
+  - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
+    excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
+    publishedDateTime: 2021-01-04T18:43:00Z
+    webUrl: "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 56
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PYHAGOCZFFBC3ONEEVBATNEZXM.jfif"
-        width: 423
-        height: 300
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "HjEaYa3czUOwLcuNfqUzg4ugA+1GCq1LykwaNUjtd43JdO666RANd+X3igpqq4VxfnV9Wkn6vUgDI6i3u/EAcYfnf6PnshGovymRY67qMeOBAHdlU01OOZIl5xZCB4hieVA0o6abw6igUqrAtMiCXMNltGXPKE7/KZL788FZJ+pe+bxrc5OsdOVS8sYfYXRhUTLanxOMSspYSSsY/tlOP+2K8QNcxhBKlVHGiggEw78Ah/00GXFX92u2Kv+T6cwsWH79MllUhC2fHtmEZxyMOKRFr89XHi0XDgmhRLIIoPJc7J0baq7ilB5ogW8pF/WVl1x+DqcLCEPCKChCrfn+G5RfQwNL59LTv9VJETq1Ae/3dxw+jEqkW1ZZF42iI1Y8N14SE5GAtIXQ/uv7sWsxIX+XIpqT7o0dBlgm3JQPCxZuUsLQ/+DK9oa6eUN+NQv8timFgmdOmeJTZ9Yhrid0NUP2E/RDGOx3BFxYqTi+O66SjEEX6fMG2OLSQvFzWMsL5ZyB0Hm1JPLI2ilqGYMNYQ==;o5y81SCqhDBeXsqXXQgM2w=="

@@ -121,6 +121,22 @@ related:
         width: 765
         height: 545
         isCached: true
+  - title: "Capitol siege raises security concerns for Biden inaugural"
+    excerpt: "President-elect Joe Biden’s inauguration was already going to be scaled back and slightly surreal, with the pandemic wiping out the typical large crowds and Donald Trump poised to become the first com"
+    publishedDateTime: 2021-01-08T06:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/capitol-siege-raises-security-concerns-for-biden-inaugural/2021/01/08/2699e91e-517c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden inaugural activities to include memorial service for covid victims"
     excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
     publishedDateTime: 2020-12-31T12:49:00Z
@@ -242,6 +258,20 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-07-2021/t_95d063d87b3e4ba18a4b8cfaf4d3bb71_name_1___1920x1080___30p_00_02_31_12_Still018.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
+    excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."
+    publishedDateTime: 2021-01-08T06:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idINKBN29C31H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547021518&r=LYNXMPEH061HZ&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
     excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."

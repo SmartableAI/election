@@ -2687,6 +2687,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
+    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
+    publishedDateTime: 2021-01-08T04:41:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547049910&r=LYNXMPEH061DK&w=800"
+        width: 800
+        height: 557
+        isCached: true
   - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
     excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."
     publishedDateTime: 2021-01-04T13:53:00Z

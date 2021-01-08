@@ -735,6 +735,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol Police confirm death of officer after pro-Trump riot"
+    excerpt: "The US Capitol Police confirmed the death of one of their officers late Thursday from injuries suffered when a mob of President Donald Trump's supporters stormed the Capitol a day before.\n    \n"
+    publishedDateTime: 2021-01-08T06:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e9zEdNuVarw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134644-21-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

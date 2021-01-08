@@ -2,9 +2,9 @@
 category: news
 title: "Biden picks Rhode Island governor for Commerce, Boston mayor for Labor: sources"
 excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, people familiar with the choices told Reuters on Thursday."
-publishedDateTime: 2021-01-08T03:04:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idUKKBN29C31H"
-webUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idUKKBN29C31H"
+publishedDateTime: 2021-01-08T05:13:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-biden-cabinet/wrapup-2-biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idUSL1N2JI30Z"
+webUrl: "https://www.reuters.com/article/usa-election-biden-cabinet/wrapup-2-biden-picks-rhode-island-governor-for-commerce-boston-mayor-for-labor-sources-idUSL1N2JI30Z"
 type: article
 quality: 101
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547040162&r=LYNXMPEH061HY&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547021518&r=LYNXMPEH061HZ&w=800"
     width: 800
     height: 533
     isCached: true
@@ -119,6 +119,6 @@ related:
         height: 478
         isCached: true
 
-secured: "TBVVhL0LbHlQuq+OuDV+s0gD6B/SJiYcZwFmcOYY7tTNX27InxbNNZqvP1Oxbcr+NGx3/ZAOfjNP1pCi2OyLd+lXr80scVejlPPlIRv7tZ4+FXYwj+J59SVgfITBKMvB/DC2+xIm6ATQG2nM1/RJRpsGtTVCiGznR6tGP85fBbC8mqfGF1I2hY+jsLE96aW4cJGqYxTRshcaPv5Rd7YWCaTOuGFZX6Y5xOC7Gn8F81cfxBmViRghdKP5yAty6ytmGsZ4dlNRf9anc7RKASsYX/onyg3dl1jVQU6zs/pOOaK8cPI6+481fm2B/mqIXaLzNd0ZvPHyYtMWGEPH6pCLD3ztdORrm4juHtql1ZLRpSE=;524og3dkEM63QhK2rVQunQ=="
+secured: "ulbj0m4ynfjGqBK7UrdFXOUROH3LY1OxWn1dKxEy3YMVODi9PdQVpjTBxjjlmC24nB5maAYBg+YMToedajUDVlnVO0CjNy2jsSU7Wdw60sehlL+XhNsDWlvPHV8VUdGXEHS8v13IUXl4/tmQzuGSECU17SVdUU2ZMsKKQLh/zUUWCWFYibJALuW8cBG+4TmHqyMxBLrDlykOt0iqptn+grOa9gO5KecuN7K6qhljO4Z5B2A87I5VYOz+m5Clgrpse6BWM6W/WNk2CUKaSHPpR5yShjESO7ru30bjj3ZaK9/1Pn5YEYrBShUb1H1V1J64oYtcJ8JcLAB+0HiO3nEFwM4JiDWSScAdQCZCAZecrVU=;aivsWl5xs9YelAES6WOtsQ=="
 ---
 

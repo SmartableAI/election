@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 2495
+heat: 2515
 published: true
 
 provider:
@@ -717,6 +717,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107192246-trump-twitter-comments-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Capitol Police confirm death of officer after pro-Trump riot"
+    excerpt: "The US Capitol Police confirmed the death of one of their officers late Thursday from injuries suffered when a mob of President Donald Trump's supporters stormed the Capitol a day before.\n    \n"
+    publishedDateTime: 2021-01-08T06:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e9zEdNuVarw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134644-21-us-capitol-riots-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

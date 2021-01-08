@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
 type: article
 quality: 118
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration declassifying unconfirmed intel that indicates China offered bounties to attack Americans in Afghanistan, official says"
-    excerpt: "The Trump administration is declassifying intelligence, so far unconfirmed, that indicates China offered bounties to non-state actors to attack American soldiers in Afghanistan, according to a senior administration official."
-    publishedDateTime: 2020-12-31T18:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
+  - title: "Trump official merchandise stores removed by Shopify"
+    excerpt: "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump."
+    publishedDateTime: 2021-01-08T03:30:00Z
+    webUrl: "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 90
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/afghanistan-01-ht-iwb-201231_1609429730546_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
+    excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
+    publishedDateTime: 2021-01-06T20:30:00Z
+    webUrl: "https://www.ibtimes.com/mob-storms-us-capitol-trump-accused-coup-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "PKp6p5eZtVXSeG0h3hyVd64qstjv2YyLZJ1bxbi9M0ci/Wwns+9Dsnd88X76rKHlibt0Uw/Do7XwmJswCSacGEgK2hShSTQeJiee0xVbLhoGgSgzCAqvsMGvM3yWezHQvurW5Mxb9wFrPX46yqOOhPY0+ipKo2xKf6XemQI/DueJeYLNO/OOqkCU+/d1pSMBPcTfMwF5LQxrvF4q2g57UIG3LkAEcDsKQk7oM1sSlp3h2X+BEC4U/xhZl93r8zMWgsjDtsAfAbEGqHNxXDal51QH89fPDaiAZars3Uc2bNHIEpcXofopa6A8EyXVeXaTuNNT+ybT0fFbczTqE+vulH1ustV1HXJBfwDWt/jdyX4=;vsVxfTyoSeviV5DEJIJWMg=="

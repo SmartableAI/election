@@ -720,6 +720,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol Police confirm death of officer after pro-Trump riot"
+    excerpt: "The US Capitol Police confirmed the death of one of their officers late Thursday from injuries suffered when a mob of President Donald Trump's supporters stormed the Capitol a day before.\n    \n"
+    publishedDateTime: 2021-01-08T06:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e9zEdNuVarw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134644-21-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump asking aides and lawyers about self-pardon power "
     excerpt: "President Donald Trump has been asking aides and lawyers, including White House counsel Pat Cipollone, about his self-pardon power, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-01-08T00:18:45Z

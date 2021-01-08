@@ -736,6 +736,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol Police confirm death of officer after pro-Trump riot"
+    excerpt: "The US Capitol Police confirmed the death of one of their officers late Thursday from injuries suffered when a mob of President Donald Trump's supporters stormed the Capitol a day before.\n    \n"
+    publishedDateTime: 2021-01-08T06:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e9zEdNuVarw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134644-21-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump asking aides and lawyers about self-pardon power "
     excerpt: "President Donald Trump has been asking aides and lawyers, including White House counsel Pat Cipollone, about his self-pardon power, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-01-08T00:18:45Z
@@ -1833,6 +1849,6 @@ related:
         height: 773
         isCached: true
 
-secured: "WU/6i56qr7iX/B/5ULeV5N+e/Hg8PpHi6RsBnYzl5mF/dW+hkJ7WKIodvSeKK1oge/+jM1fKzdj2cKFI/95nF+LpFf2irg3ZgNCTolNVQ0DBtF4AOYCEK8zdkX43+7rl+Xu3bhOZyg1Xi48bx8BsX3+Z7RUekuqYdiQHwKgg6RTqDxbCsOuX31DxCJfHdDkL/pP+Jp0r5+HnJluG/h7yFvUH+Y6HescO2NFLGKOIorC7zb6fe/wZVJmo+yTUNAVFUD8AYqjY6nae8fre0NjMS+j3AP1HyCOoDqIICjyMWmQ1CmhX2En5ZSMysu6ffaJqG4mem9LJX16DvP4j+Bc7H01WaDr7mHg7LMFBx962EYI=;yDm8ZL8AGnsCOB13hvwGUg=="
+secured: "JrbDfxuc5+ZteabxgLDwsBBROuzSI5jlEHvxLKkUWw//spDYHnCbsTfQs4299fq6V3IJFownhqr/d+w2cNiTfp/YDryO/FIvlWjFrkiTvv2Gvm+U5AnT7R6ajtNqX1CtArK8Y0MRFYslyrsA1Kr9b8+3qH/Ck9IFB2v9sedsoUCgHiBWNDxP4vAcEKMnnTBbrOFCzM0GfzTGQD8eW/GaALHgkQSjTLYGibmaxbtla32w9YWY66j1NrAwPABTloSPySzdojHZT7i/okZ5NAYWhSvEK4dzUtvzR2eejw8rH1J99h94ISNe6ingrQCq2GF+3j+1D04zum0UXqpv6sE5o+lXfwKyISO4I+3BVGDOy9vmAEeS+PhoWOTKb3Rs3vGjE198keKGaxiADzgNZF2C4VtFG+5uZC8f4xvoY5VGsXayK0vMIgMm8lc7CfAgz95DI9ckt+DMgCFbbEzWjW1Ce1bIltuSISpS2uG5Qm006Mw11Zs0/AvrakvSb/WRsfpwBg9bmqvnUq2gr5Q6qIZLpA==;k1kUg2RyZCAfrkv4IfiXrw=="
 ---
 

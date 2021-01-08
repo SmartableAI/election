@@ -736,6 +736,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol Police confirm death of officer after pro-Trump riot"
+    excerpt: "The US Capitol Police confirmed the death of one of their officers late Thursday from injuries suffered when a mob of President Donald Trump's supporters stormed the Capitol a day before.\n    \n"
+    publishedDateTime: 2021-01-08T06:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e9zEdNuVarw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/capitol-police-officer-killed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134644-21-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump asking aides and lawyers about self-pardon power "
     excerpt: "President Donald Trump has been asking aides and lawyers, including White House counsel Pat Cipollone, about his self-pardon power, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-01-08T00:18:45Z
@@ -1833,6 +1849,6 @@ related:
         height: 773
         isCached: true
 
-secured: "FlHB2sW9UC7S4wUCgTwF/z2saJUYGMJa5wSomfWmhE8mN98CzcSPkPz5sdJWHDhJsytCBQK0Tk+UvIRo2/5igqn9Mv7YJRy8UtxoSDB5v0ITZoWXtLQD0VgpvflzYeaDcKMyTDWkV6ccMkt0NF/y+ar5xZ9fPY8v3a2LVa21ien4g6LUdL7IuZeEnYd1CFw9pA35UjyGqlAQSOB4+6dLogakk0Q97o0ADKxTQ1X0OR4gtWkjk0+p1NDQlQTkg+d/T/qFuQ+shI67wC+WgkZ+8Dcztc70aBtdjG+r73VO8onOhWrPhGhbNkdBowliVfV+5edZcH/iK14gf3XXNhwBQnPC0C7uJBVMEGsQcPesTnM=;E4HORpYoVxghvsugB/IBqQ=="
+secured: "4G0tNAMi0U37xT2II94/9grNzYmtIUaqfzZ7xFuWk/1BUSZmIEvXWb7xh/LT2GNu4Dqvjdicd1NiuDZLwKLLKQvV0Qfo+kgrhV20UxIzgg+rNt1zOm4fX/YVnJg6Skk/sKvmcqOAIkMKx3Svhg2CfMRMd6Y+romtTriBbLpQe8pVO1+q0i4IZV92lHwYvl0MxXywzWnbNdp432CtVQouXyVFcwB+Z/n64CEQ51KJ2KUuZtYbiR5gk2hMHlrMg73mTyfN1wBnSwki7iDMoTv1gc9M9dKGY+GGQwvMr4mjX7hAqnjHQt/lUELoff8sldzcnkr9IeM7Lt6tZ7hoNeF9db9NUsIaW9sZ6Bj4bZNBz8kjDaCP0i038aHSQ90x2o3y9JBCXkvgyWFscYY1FEhFo+Wqa/doX34fCbjvmgDl7GSTb2RKfQXtfvrZtHcetc4W5wiodA3OOv/nEWYqGxRh1xEla8tOP/l1HfvzmO2i5ohuzb/3dUU+WoAGJbS9wX66nJo5L8xuEll6Ct8xLXiPhA==;P6LZx/G4jmW/UNoEP8NVRg=="
 ---
 
