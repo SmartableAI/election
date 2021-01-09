@@ -31,21 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Hillary Clinton, Chrissy Teigen, Megyn Kelly and more famous faces react to Trump's Twitter ban"
-    excerpt: "Here's what Meghan McCain, Megyn Kelly, Chrissy Teigen and other celebrities are saying about Trump's permanent suspension from Twitter."
-    publishedDateTime: 2021-01-09T10:23:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/08/twitter-bans-trump-chrissy-teigen-whoopi-goldberg-and-more-react/6603886002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6603886002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603886002"
+  - title: "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'"
+    excerpt: "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol"
+    publishedDateTime: 2021-01-09T08:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
+    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
+    publishedDateTime: 2021-01-08T21:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
+    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-09T08:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
+        width: 799
+        height: 576
+        isCached: true
+  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
+    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-08T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 989
+        isCached: true
+  - title: "Donald Trump Tweets From POTUS Account After Twitter's Suspension, Claims He Was Being 'Silenced'"
+    excerpt: "President Donald Trump tweeted from the official @POTUS account Friday evening shortly after Twitter banned his personal account, @realDonaldTrump."
+    publishedDateTime: 2021-01-09T07:26:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "NXA9+YBm4f9bIkc4/UrgIwK5dwqbXCByJ8oUAcCfHZehkm55hyXzA6ZfhT8/JIE5BsfqrtGpxfyvvrkTVP5oVz9t0YURoulea9yT8Ccx7GsFyL7ULHMuADM4dnbJLqT00cc4JX24aNjGDqTpTfuhhrUqnj79ak+DMKeYl72WEylvdOPovtqeUh5zH9TDulr7NvNtQLkWTvE1GyAZDjYghefad7PGGHErcKdFmYhs4OOQ4IPhL+79TbvgQaMfpY7axvwDTdnJXmSQNDfkqa7d7FMnsaaYKIXezvBaUdD9DpGrGEdnePGKB/Ek+o9QvoajzdBFeGGOBYj2DW7eRS/YHmfo9Z1B90d3fPd9wcosS40=;ML/g+Nl480CzhbADE1PRHw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 2915
+heat: 2955
 published: true
 
 provider:
@@ -1767,6 +1767,38 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Fallout intensifies over Trump's response to Capitol riot"
+    excerpt: "The political fallout over President Trump's reaction to the deadly Capitol attack continues to escalate as President-elect Joe Biden prepares to take office. Follow here for the latest news."
+    publishedDateTime: 2021-01-09T12:35:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106160755-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Twitter Permanently Bans Trump, Capping Online Revolt"
+    excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
+    publishedDateTime: 2021-01-08T23:31:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/business/08TWITTERTRUMP/08TWITTERTRUMP-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -1786,6 +1786,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Fallout intensifies over Trump's response to Capitol riot"
+    excerpt: "The political fallout over President Trump's reaction to the deadly Capitol attack continues to escalate as President-elect Joe Biden prepares to take office. Follow here for the latest news."
+    publishedDateTime: 2021-01-09T12:35:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106160755-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Twitter Permanently Bans Trump, Capping Online Revolt"
+    excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
+    publishedDateTime: 2021-01-08T23:31:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/business/08TWITTERTRUMP/08TWITTERTRUMP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Twitter permanently suspends President Donald Trump"
     excerpt: "\"After close review of recent Tweets from the @realDonaldTrump account and the context around them we have permanently suspended the account due to the risk of further incitement of violence,\" Twitter's official \"Safety\" account tweeted."
     publishedDateTime: 2021-01-09T08:17:00Z
@@ -2161,6 +2193,6 @@ related:
         height: 773
         isCached: true
 
-secured: "/TuHwJS5kEJuZ3TPEeFkl754DCiDmNoEfEbFjyZto/+Ebxek1Lh8ohV31rsck9LVjtfKpatr0VFaIdHESG48KIDWV8B4zQdZwGgyAWa0DYWgkUek6gcn906vx2wjTEn5P7X4Xhj/ipbvsLmUDlwjwtjQ6y1CXWyFm4rTbqQX2eHpAklFTXVAUtHdf6xbfA/BQ0XiZY9ghRwvMCL5eV+RIJTNvCZdKSnQYH33DzJqjVWdThYXurxjh7gdmOmKmNSgkIZaLWWLIbD3bCh5bYvKefPdQ2oAAEEUMM+RAJjvUKFllpfKJRJvH/X+5hUjWM6j5+WrvkGBFOY0x0ozPSQ3UJyH3fQg3sZPSPG6e6ausoM=;BscH/bEUm2yfEzqifLxMdw=="
+secured: "c3TtWU020srDmicRpBB7IMSO5AWLbG8IKgWVYpzHOWGY+uwHw/o/DjXrng0N8pukG3lgmmFy3pAzJ5YqdLkixoUSyuJY7AAGXqEVAd7ShAazlxx3doroGirWu+39veM8AlsYu40SIEVDqevOPyxYaRht4vli8UOvEui4prpcjl50/Pb/gbVIDmVqsclDymagNciEiYtJ1Ud30XbT3vQy5Y8rC1QFUPhCfsqx5oJmuUP7sBmyjN1tI2fWbGtV5P8GSHV5MNOGRoB14XGu8itBvSVIxrMzR7XF6LSWk8ukzcTkQE6Ge6onjU2UZl4bO2oyPz4AlAFrtRhP4jG8tl6yQ2Q3LSe/khfqvA+2IRQkJHk2Mt9SdNrWLGKlYJUNTGJKStSfNRsl9h4Gnrn/7s+lmv28u3+IzgXmYIUYdcoPpaHM/AJIFcpdCclSyZNxlFaJd4OhJdKqaHf1MrAvIEn4JwTLL0bWttbM/gQWhTwJrqw9NrWlJih+VFpYgn5ENvCSvSGrEC1WPmYTvPEMmvbxyA==;nl5TwXLL4TpumV8D6bcRxg=="
 ---
 

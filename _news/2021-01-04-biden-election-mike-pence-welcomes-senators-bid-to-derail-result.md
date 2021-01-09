@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump will not resign. Nor will he turn power over to Pence and ask for a pardon"
+    excerpt: "The president continues to ask senior advisers about his ability to pardon himself before he leaves office. It's a power that is untested and by no means settled. A Justice Department Office of Legal Counsel memo from 1976 says that the president cannot pardon himself or herself,"
+    publishedDateTime: 2021-01-09T12:17:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-not-resign-relinquish-power-pence-pardon/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-not-resign-relinquish-power-pence-pardon/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-not-resign-relinquish-power-pence-pardon/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 145
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/07/047bddca-c922-442f-8e93-0b632a9168b6/thumbnail/1200x630g3/50300a742d69114a5f41f8ebd6ae096c/donald-trump-mike-pence-2020-07-07t194337z.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
     excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."
     publishedDateTime: 2021-01-06T01:03:00Z
@@ -1038,6 +1054,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/4a55273d-8260-4e58-80d4-18c011386c23/thumbnail/1200x630/09e6db90e966b9c7fc9e40a1b095f36c/gettyimages-1294908903.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden calls Trump ‘unfit’ but doesn’t endorse impeachment"
+    excerpt: "President-elect Joe Biden says President Donald Trump isn’t “fit for the job,” but he repeatedly refused to endorse growing Democratic calls that he be impeached for a second time"
+    publishedDateTime: 2021-01-09T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
@@ -2538,6 +2570,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Pelosi’s talk of limits on Trump nuke power raises old worry"
+    excerpt: "House Speaker Nancy Pelosi’s concern about constraining President Donald Trump’s ability to launch a nuclear attack in his final days in office highlights a longstanding question: should any president"
+    publishedDateTime: 2021-01-09T12:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pelosis-talk-of-limits-on-trump-nuke-power-raises-old-worry/2021/01/09/058a1182-524d-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pelosis-talk-of-limits-on-trump-nuke-power-raises-old-worry/2021/01/09/058a1182-524d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosis-talk-of-limits-on-trump-nuke-power-raises-old-worry/2021/01/09/058a1182-524d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."

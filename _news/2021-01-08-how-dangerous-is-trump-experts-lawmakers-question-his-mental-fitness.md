@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him"
+    excerpt: "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack."
+    publishedDateTime: 2021-01-08T14:38:00Z
+    webUrl: "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/5ff78426d184b30018aada7d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
     excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
     publishedDateTime: 2021-01-04T05:27:00Z

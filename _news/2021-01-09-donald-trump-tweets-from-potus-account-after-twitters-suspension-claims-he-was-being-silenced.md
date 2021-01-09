@@ -31,6 +31,52 @@ images:
     isCached: true
 
 related:
+  - title: "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'"
+    excerpt: "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol"
+    publishedDateTime: 2021-01-09T08:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
+    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
+    publishedDateTime: 2021-01-08T21:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
+    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-09T08:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
+        width: 799
+        height: 576
+        isCached: true
   - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
     excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
     publishedDateTime: 2021-01-08T21:40:00Z
@@ -45,21 +91,21 @@ related:
         width: 1484
         height: 989
         isCached: true
-  - title: "Ivanka Trump Twitter Blunder? First Daughter Tags Meat Loaf In Selfie With Donald Trump"
-    excerpt: "Ivanka Trump shared a selfie with her dad, President Donald Trump, on their way to Georgia but tagged singer Meat Loaf in the tweet."
-    publishedDateTime: 2021-01-05T07:35:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623?amp=1"
+  - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
+    excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
+    publishedDateTime: 2021-01-09T04:58:00Z
+    webUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756"
+    ampWebUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 67
+    quality: 61
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
-        width: 800
-        height: 450
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
         isCached: true
 
 secured: "m/rhsSiv9rUshDRv53suW7ccTEtpcydm9p4NR+GxTZ/wZQDm4GJa3Jp+XFyVxv4NNSTNZzYFZ8VouuJYAkVXfHM3v0BN4U6Obz6IIzaaI5BuAQYAazfDTzZqXYS7Kxz0p0tCyPBUuu00k7ifmZ3xVpF/kKhTJAp74T8cTY701kJeTnPfTUvn+OTSh0rLJcj723CPLBUYlD6KrYQe1x5vjW6IRvj4WWplQMUPA/ZHHvM9D9yBRnsZRAmLUWCaKBUy+PQa3PFwDO4rdrAqgU2H+IyqAGjQACe75GJfUlOmdYxFMpk1d1cij/yr75LtKSINeRm4203ZeRORzr/Jo0BiObl6Zqu/gRENTBYNzYGxCUC43CzROoARyXS2MOp0WFnVvlwwBK1mKmy8GK3otBhBocItE6idxM3vf5IQtFz8xhRp7Ypx3tKaaa5SU/jcJ9mldRjzZ8mItEW20ZL70Py4PAg/qf67Aw5esMKDvpx89Se0OkWcYV3LG0lXZTfE4q8riihmHCcjfpZ+hQMeMpeiqQ==;1ZMUnVidZHuQql6wjvpStQ=="

@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "With virus surging, Biden to speed release of COVID vaccines"
+    excerpt: "President-elect Joe Biden will be taking a new direction to speed release of coronavirus vaccines when he assumes office Jan. 20"
+    publishedDateTime: 2021-01-09T08:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Capitol riots: Congress certifies Joe Biden's victory after chaotic scenes"
     excerpt: "The US Congress has certified Joe Biden's victory in the presidential election, hours after supporters of Donald Trump stormed the building in an attack that saw four people die. Lawmakers resumed the session after police removed a mob that had been encouraged by President Trump as part of his attempt to overturn his defeat."
     publishedDateTime: 2021-01-08T18:32:00Z
