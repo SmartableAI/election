@@ -660,6 +660,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pro-Trump Rep. Donalds responds to CNN pundit calling on him to resign: 'Flat-out wrong'"
+    excerpt: "A Florida GOP congressman told \"Fox & Friends\" he isn't backing down after a CNN commentator called on him to \"resign in disgrace\" for being the only Black representative to object to the electoral college count Wednesday."
+    publishedDateTime: 2021-01-09T14:33:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXr7QleuT8M/pro-trump-rep-responds-cnn-pundit"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-rep-responds-cnn-pundit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-rep-responds-cnn-pundit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President to speak at pro-Trump rally in DC on sidelines of Electoral College certification"
     excerpt: "President Trump confirmed he would speak at a pro-Trump rally on Wednesday, taking place on the sidelines of a joint session of Congress to certify the results of the 2020 presidential election."
     publishedDateTime: 2021-01-06T00:08:16Z
@@ -1320,6 +1336,15 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Why Democrats Are Impeaching Donald Trump--Again"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-09T13:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_democrats_are_impeaching_donald_trump--again_533059.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "WTo1hYe334c31bWMamiCp2IWlSZmeHTN/4VVE3P9tlibZOSgZ6ugjXEBu5OSsU0UdB+STsuTLlHfZqeA1pawngDPcef4vwZYjH8LX+lvKySuKM442k1OtNvkN2fUrCT5EORfzFOEJEPbLTjOV6Q+Q8E7Wf8zFVUi7o1N0cObpzulAYjFMrFJhbPO1pN7snto5EwQJ6mQwXpuWAXyWopUQpRqQyxdaqTMzCLGclWRtywryE89vd3NRriS1fceru885NlMUiM5u5cXdBO34UiaXZo0NGbKpyEdfxbjiVNWveDQ8E9zeHtuFYjDaCYO0w5vM+KcebhgH4+cARr0X8yVResTuZIWBjGG0av/XJyccxU=;1giic/CyDOI3AvVF1nWBcQ=="
 ---

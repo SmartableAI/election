@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden will release nearly all available vaccine doses in break from Trump administration policy"
+    excerpt: "President-elect Joe Biden will aim to release every available dose of the coronavirus vaccine when he takes office, a break with the Trump administration's strategy of holding back half of US vaccine production to ensure second doses are available.\n    \n"
+    publishedDateTime: 2021-01-09T04:05:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I14tRZ7tZk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108095821-covid-vaccine-0105-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces Miguel Cardona as education secretary nominee"
     excerpt: "Joe Biden's transition team late Tuesday announced Connecticut Education Commissioner Miguel Cardona as the President-elect's nominee for education secretary.\n    \n"
     publishedDateTime: 2020-12-23T01:31:04Z

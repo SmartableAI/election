@@ -2,21 +2,21 @@
 category: news
 title: "AP interview: Libyan minister hopes for support from Biden"
 excerpt: "The powerful interior minister of Libya’s U.N.-backed government, seen as a contender for the post of prime minister, says he hopes that bringing stability to his war-torn country will become a top pr"
-publishedDateTime: 2021-01-08T17:38:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/ap-interview-libyan-minister-hopes-support-biden-75135395"
-webUrl: "https://abcnews.go.com/International/wireStory/ap-interview-libyan-minister-hopes-support-biden-75135395"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ap-interview-libyan-minister-hopes-support-biden-75135395"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ap-interview-libyan-minister-hopes-support-biden-75135395"
+publishedDateTime: 2021-01-09T09:58:00Z
+originalUrl: "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html"
+webUrl: "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_117c18a926984f06a379b30403133bee_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 810
         isCached: true
 
-secured: "A41k5bl5lBh0id8l3v66L6C1n6anxTmxhUuCt/lBDN3CDtofQKxInzQoXaFP0SGhY0r4b5//p9pvXs+aG9y2lTSav0oS2w78eK7rHtJ9mH4D7n5TNnX62zUnUkwA3iho8IiCXc6FbghaZtdlLzvU7H3ncbqmiTZFKAe1iqwpCnwtKYbiyAckIxzaAkI39AJ0PS355CcO6dp7DGlMxgq3nfYXqtBLSQAK0ItfDuMx3+0xyo1en4/ZydMJ8jhi/4ICOnvXxyfc9NpbtIdpN4TsZ9cbMTK3B5xxVplUS8F34G1nT4taGKnxWe20BQm8/pEpQgRWUF07CUgXCE2VLx/jVAfUFumjfTD3rckFYBnRGbY=;32UYCR51t1vHNCxL7zKQqQ=="
+secured: "6ZoSS8j3MMn78PsfBW+a1Uq2ftElPWM8yQdRxEt5lz1djWyzHX5Pv0Vp35yORdAmP2bYg4wQafIUNW40CmjilqBivhylNET9djRK2B0W8bbkCaK6Io4kQ3fgbDRjfLc+pW1gi9yG3eky9d/uXcKPq5aok6nZYXdAD5scYM7IFBYJx1Hb2k2XJcEhcAvp+r0XMerD7tAknbBO/SXqWaXSKMlWP82mDoA65fhEb2j/uBhG8kDy75+hu+OH9KKk6jyJG87bBWhmQzlLw8YinYbTerq58HLUrz2ut+xo3hsF010ke58M8VkkMbu2xEAnCoOS6pgcaK0GxvS86iuoWe1satHQSQAa5eIw+lujMsjhcGk=;eiNx3ol5g+ook1V+8m/suw=="
 ---
 

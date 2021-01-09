@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-cal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
 type: article
 quality: 179
-heat: 519
+heat: 539
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump's standing in GOP takes a hit after Capitol riots, Georgia loss: 'This hurts,' strategist says"
+    excerpt: "Trump's clout with fellow Republicans takes a hit after the roughest week of his presidency."
+    publishedDateTime: 2021-01-09T13:06:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4o3AUsoCTS4/trumps-standing-gop-takes-hit"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-standing-gop-takes-hit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-standing-gop-takes-hit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340

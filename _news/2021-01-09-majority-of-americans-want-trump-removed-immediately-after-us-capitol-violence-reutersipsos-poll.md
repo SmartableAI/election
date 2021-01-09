@@ -2,9 +2,9 @@
 category: news
 title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
 excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
-publishedDateTime: 2021-01-09T04:45:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUKKBN29D2VK"
-webUrl: "https://www.reuters.com/article/uk-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUKKBN29D2VK"
+publishedDateTime: 2021-01-09T14:20:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUSKBN29D2VG"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUSKBN29D2VG"
 type: article
 quality: 90
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547159810&r=LYNXMPEH071BX&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547174178&r=LYNXMPEH071BU&w=800"
     width: 800
     height: 533
     isCached: true
@@ -188,6 +188,6 @@ related:
         height: 689
         isCached: true
 
-secured: "7zWomRZEekPBjDS01Ettr2zIAcDjwXB3F6+WoRGQaUUZiT1heDjemLvfH/0fEwMyZmRU+/W9hhLY/RkIfPlHi4dGmZ1FtWDvgtFVaVyMOQGrMjhlZ9gtYQ2sjq87miB9hHRXBVeJ9o8pcnxLFp5ZJMXKEUZEjUVXWlyy5Q+CUrVOwfzA8dFydCNmjcdVX4UV6rBTYu5uFj00GiKK2WvqJ64zV8ggNv8lHa94jSQsGSdT8jv041ApE6PU40ODu2XES4WqZpDPpN+LrcdKVb3A0IQQ0ooC3lPqu4Caj8m5PwtyEuDYMNFjYKIakcm4Ew9jswYJZj15z1orFHDiHr/mGZwbZP8QTssMm3W74XudLhk=;fVYjUpvXfLMi0htRuubuiA=="
+secured: "a8y53ctvIfEd+1E0013wTs+tf7HFBIvUn9Xi0T72JttHwZfYCEmGAtl3rRnkRxzhBhq6P/6aXOwtF7fAvpw6SsKmr6cA2lpedvv9e26gqXltCfEsG3uUV57O0VyhaAWJAmqB8sQYEIaewcPndlUn1bWrqXRTIeaMmBDNBG1dI9QjirrOmRxB6INFaVH3GVm80RukU5/8zxnZRve/9zQsmkepxYS1ZsrX3nkNgg3x2VL/0tiuJkxv5J1t5xXDbnagCLLWmnvOTdXmG7jxA9QiNP7SSu5AoaNp9ojs3ACpHd5l8MEBzpSizNy0YXrVs1zA2jmYeATRd/jsP0nIZgCsWZP7GVeSh8GT/OHXvQg++pE=;TdXhHLrP+cF6wfVIUnkgug=="
 ---
 

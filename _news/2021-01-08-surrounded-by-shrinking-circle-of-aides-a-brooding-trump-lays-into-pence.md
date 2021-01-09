@@ -2,9 +2,9 @@
 category: news
 title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
 excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-publishedDateTime: 2021-01-08T13:49:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
+publishedDateTime: 2021-01-08T08:19:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idINKBN29C2RE?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idINKBN29C2RE?edition-redirect=in"
 type: article
 quality: 119
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547049995&r=LYNXMPEH07058&w=800"
     width: 800
-    height: 557
+    height: 450
     isCached: true
 
 related:
@@ -2553,6 +2553,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cohen seeks to dismantle Trump legacy, one podcast at a time"
+    excerpt: "Michael Cohen says his podcast “Mea Culpa” is changing the minds of listeners who supported President Donald Trump"
+    publishedDateTime: 2021-01-09T12:56:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cohen-seeks-dismantle-trump-legacy-podcast-time-75149099"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cohen-seeks-dismantle-trump-legacy-podcast-time-75149099"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cohen-seeks-dismantle-trump-legacy-podcast-time-75149099"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_6dba9e838c85420fb37e5c1181784624_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Dominion sues Trump lawyer Sidney Powell for defamation"
     excerpt: "Dominion Voting Systems has filed a defamation lawsuit against lawyer Sidney Powell, seeking at least $1.3 billion for Powell’s “wild accusations” that the company rigged the presidential election for"
     publishedDateTime: 2021-01-08T16:36:00Z
@@ -3501,6 +3517,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 103
+  - title: "Here's what could happen to Section 230 – the internet law Donald Trump hates – now the Democrats have both Houses"
+    excerpt: "The Section 230 internet law is still under threat, even though the Democrats have both Houses. Big Tech will be planning how it's going to fight it"
+    publishedDateTime: 2021-01-09T03:00:00Z
+    webUrl: "https://www.businessinsider.com/future-of-section-230-democrats-both-houses-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/future-of-section-230-democrats-both-houses-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/future-of-section-230-democrats-both-houses-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5ff80efa6d61c10019cce4bd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In Georgia Senate runoff, most GOP voters say Biden stole election from Trump"
     excerpt: "The poll of voters measured how deeply President Donald Trump’s false claims of fraud and misconduct have resonated with Republicans in the state."
     publishedDateTime: 2021-01-06T02:20:00Z
@@ -4502,6 +4534,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "58J4pd90UW2EaDqxZK+zJw5h2fRsr2rn+1HcXbPV+Zb3t4mKINIDnLo8OV3PLrNn/JzFd6j+/tPqESLFkMw//LxLzms6ImC9sPXVhvQSEd+2PbBfuhma+9tYLk1aPLZiQwp0jWgJqanoC/XhHB/aM1xHObN+HD16Herz4isnN4CDMQJ4+6PbDGr7URRWRuJomPk+hZZzk9MH+T0bM/p0jsBYiDh3GntHAxqiN1jzFaOQG8KvUtyCK76Lytk4Z4gpgUd03tYSoVy/3orR9mAsH/8hT8ylAk4WiWJQtUg3H5IjCmYb5DPL6r11yqh08hvWBVIRtGiGLAIeY6mwGFYJRMJPfoy+K3BAfR+HgdXN/So=;brqeEor8CL59Ug3DLMTWvA=="
+secured: "f+35jTQAfh8xgmQF/vpIC3SVJUf4WXKRK7N0NKyeci+XfsqSLzGe3QMKxG5dDbNavW41+6Ei2txr+scDRQMEHiNIYdS0zr6Skq/L4Y/6S9S8gqdT8vFCQAALzIPbEe9htiSPL1vdmzIkU529Q4d7Xt0SyQz2cdNoeAj2fwY2n0l4OZyF2q9gqx82tsriPL/tZkNLLi/Ehg8Lxj6RMegw/Ewl9POIg51YUiY/W/0DrMJXhCIiS8akx9JmOTNhWE4WhJDEu/yARsyol2vWgqCZ+A5KfTNJ4QvBMs9o9FwAlMEi4jRcLWEchTOmhBEbjW+ntCYvz01gUDUusrf+BLYnOwWUPCaPD/2mmkKsLpt7YXM=;jdJrNi9Li8ShfLz6W3PWVg=="
 ---
 

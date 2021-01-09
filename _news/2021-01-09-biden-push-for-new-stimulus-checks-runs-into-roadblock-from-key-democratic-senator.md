@@ -33,19 +33,19 @@ images:
 related:
   - title: "AP interview: Libyan minister hopes for support from Biden"
     excerpt: "The powerful interior minister of Libya’s U.N.-backed government, seen as a contender for the post of prime minister, says he hopes that bringing stability to his war-torn country will become a top pr"
-    publishedDateTime: 2021-01-08T17:38:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/ap-interview-libyan-minister-hopes-support-biden-75135395"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ap-interview-libyan-minister-hopes-support-biden-75135395"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ap-interview-libyan-minister-hopes-support-biden-75135395"
+    publishedDateTime: 2021-01-09T09:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_117c18a926984f06a379b30403133bee_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "gDQSfUVNqkYMi5ZqWGCV/SR1tHDJrOk3Nbfu14T39P+aFVwk4tcbwjrTutXYhW2emq7gu2Yz3qut8NCMcRgI5dfcHP4PaR2PDPynVGP8WuQNE2CnMwiiuqQMk9BODT+Ep07eteO4QOrgFkNWAV7Yyvj1DoSYUBW+R+bekpjGIb0/3G+cf5z9/TxNEnwo0AYFJhwoKTKK1549GdbinhWd8Bt/4MFnVIUsbpYVo0M1E9ngG6Rbr2BcCIIctoc0P0FjTD7/LTot0ePRAbj1JVfiAFOL5AxT1gzaERgTuL3QnNvpUwDqbD1jIhfI0NIL1aujeLJXjes8HnegUhcscmVW0gQ8pJsUy/a+Upvy23237UvOWYMrD9/Nr3wQNkj1jIMBNjjjMXy+ADVstB+L2QZVzT2WB2/u4hC4WXN99+C+mbJHWsD9KiEo94/l8g8YSOBQ0BFCJdIXT+byTBAftD0wICgUdmNW1lMkBiuf05XVzKx5WEoECZ+ZoFZolE5gr1OTgjtTQL5PrggocIQjPz39pA==;P0dwxjyqB3yoLkXOda8T0Q=="

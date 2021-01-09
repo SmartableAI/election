@@ -671,6 +671,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pro-Trump Rep. Donalds responds to CNN pundit calling on him to resign: 'Flat-out wrong'"
+    excerpt: "A Florida GOP congressman told \"Fox & Friends\" he isn't backing down after a CNN commentator called on him to \"resign in disgrace\" for being the only Black representative to object to the electoral college count Wednesday."
+    publishedDateTime: 2021-01-09T14:33:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXr7QleuT8M/pro-trump-rep-responds-cnn-pundit"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-rep-responds-cnn-pundit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-rep-responds-cnn-pundit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Allies in Congress Challenge Biden’s Election Win"
     excerpt: "In a joint session, some GOP lawmakers will make a last-ditch attempt to throw out some states’ results to secure a second term for President Trump."
     publishedDateTime: 2021-01-06T10:44:00Z
@@ -1319,6 +1335,15 @@ related:
     excerpt: "Michael D'Antonio writes that in an effort to position himself for a leadership position in the Republican Party, Vice President Mike Pence is feeding President Donald Trump's baseless election fraud claims,"
     publishedDateTime: 2020-12-30T03:52:00Z
     webUrl: "https://www.realclearpolitics.com/2020/12/29/the_humiliation_of_mike_pence_532370.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Why Democrats Are Impeaching Donald Trump--Again"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-09T13:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_democrats_are_impeaching_donald_trump--again_533059.html#!"
     type: article
     provider:
       name: RealClearPolitics

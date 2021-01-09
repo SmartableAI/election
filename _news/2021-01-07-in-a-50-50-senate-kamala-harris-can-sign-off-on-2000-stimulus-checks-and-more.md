@@ -119,6 +119,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris dissolving PACs, giving money to charity"
+    excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
+    publishedDateTime: 2021-01-08T21:53:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
+        width: 2048
+        height: 1396
+        isCached: true
   - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
     excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
     publishedDateTime: 2021-01-07T21:54:00Z

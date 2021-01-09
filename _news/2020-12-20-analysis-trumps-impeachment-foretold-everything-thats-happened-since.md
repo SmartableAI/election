@@ -879,6 +879,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Twitter takes Trump's special power away as his isolation grows"
+    excerpt: "It took President Donald Trump years and tens of thousands of tweets to build up 88.7 million followers on Twitter. It took a single moment Friday to lose them forever.\n    \n"
+    publishedDateTime: 2021-01-09T11:06:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/au9g8rB9Pq8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-loses-twitter-special-power/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-loses-twitter-special-power/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108181055-trump-twitter-suspende-cuenta-mensajes-presidente-capitolio-red-social-cnn-perspectivas-mexico-violencia-protestas-00000814-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration locks down border wall contracts, complicating Biden's pledge to stop construction"
     excerpt: "The Trump administration is continuing to award border wall contracts in the waning days of Donald Trump's presidency, including in areas where private land hasn't yet been acquired, an unusual move that will complicate President-elect Joe Biden's pledge to halt construction.\n    \n"
     publishedDateTime: 2021-01-05T23:55:26Z
@@ -988,6 +1004,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump would be only the 4th president to boycott his successor's inauguration "
+    excerpt: "President Donald Trump announced Friday that he won't attend President-elect Joe Biden's inauguration on January 20.\n    \n"
+    publishedDateTime: 2021-01-09T11:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u0i4x6tVtb0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/history-presidents-missing-inaugurations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/history-presidents-missing-inaugurations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106175705-01-capitol-2017-reuters-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

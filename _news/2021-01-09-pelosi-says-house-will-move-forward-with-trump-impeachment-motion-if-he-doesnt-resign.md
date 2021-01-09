@@ -880,6 +880,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Twitter takes Trump's special power away as his isolation grows"
+    excerpt: "It took President Donald Trump years and tens of thousands of tweets to build up 88.7 million followers on Twitter. It took a single moment Friday to lose them forever.\n    \n"
+    publishedDateTime: 2021-01-09T11:06:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/au9g8rB9Pq8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-loses-twitter-special-power/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-loses-twitter-special-power/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108181055-trump-twitter-suspende-cuenta-mensajes-presidente-capitolio-red-social-cnn-perspectivas-mexico-violencia-protestas-00000814-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z
@@ -1005,6 +1021,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump would be only the 4th president to boycott his successor's inauguration "
+    excerpt: "President Donald Trump announced Friday that he won't attend President-elect Joe Biden's inauguration on January 20.\n    \n"
+    publishedDateTime: 2021-01-09T11:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u0i4x6tVtb0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/history-presidents-missing-inaugurations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/history-presidents-missing-inaugurations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106175705-01-capitol-2017-reuters-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2193,6 +2225,6 @@ related:
         height: 773
         isCached: true
 
-secured: "J4xA7c1DdgnbFHSfeNs34FKQA1c6jd4aU6jV9BMvwPW+v+noDE4ZCiVuZzAXZy3MJKzjkgqoqBBbGnAyWG4eOvryHSHfnPq2yYZ+qbdMS0eUiKtlAeQf5HK7lsx53zck6V2tbuiJ3MGYFjNhkGnbTCkRgFrf4a9EGNgEa4kZgdeqxDWzwFV+NOnFH0Qh1oH63sUXf8YLiwlLdjpjEVoBuEmI3TUYLzW7OShsoydQm7Hnz6VsS3Q4mHvrgTMkV94U5fRUzUKU0xmlQ3OdeEk/k9JXGh8/4Aad6N2ikvdrnxZtkhrPotzT6G4+DDn5RyVW8KRCEBScJdVwnZ8lE2saOkFhXFsgTgvUPgszZcG8W+E=;Tm5JTG/0bzFrPrIXQxHojA=="
+secured: "kNV26weD9cP9CSlNXFuTxLG/O6O8Xgmx8AVI9bMyxuMjACu4hrBTmk/jrVbveod8xm7c1apVn5mR9U0lIU8lpxuGXWxuORFABLnNNALengmL8so7Kan4ypcxCxfH1ZMHpA63wk36DRgD4FmownoXupSmS387eQJuIv/UHISCjX/CoO7o0RlguO22D+vcsc2UFQEojHSc94M42aoK66384CyOoMbDMiRs7uMSS6WFIgU34qFQSzJjEYLEOzEiypUTqVwnZguNVCbnttb2c8p6IILjS62cexxxdgDHIIfECIsfR5lXiqrR5aj669+F2miYS8RHdUUd+z3JSpozn74ZCAu2T3vfE4rdL/HvLqlylIDIFZqmfS6FxLjGcv1Ywn1xEANYq+aj56Zr5yZ9LhnnEawwmWiNRvPXYrVoI4Pl70knWDUwvavyy9OPcY7TFPLVJF3IPjGZfubKBGiDcZRfAsDqlU0P6h8/qRBeyPXoDm0+OGGDtVeu3+t+cUjaYntf/CEBo9g6jLR1OnR84m8Grg==;kNPGClvRtaBWysqg3YWrAA=="
 ---
 
