@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-09-all-honor-to-mike-pence.md",
+      "title": "All Honor to Mike Pence",
+      "excerpt": "We have an editorial up titled “Mitch McConnell’s Finest Hour” that also makes a nod to the admirable role which Mike Pence played in the proceedings on Wednesday. I want to underline that point because I thought Pence would recuse himself,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/",
+      "originalUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/pence.jpg?resize=300%2C300&ssl=1",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/amp/",
+      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/all-honor-to-mike-pence/amp/",
+      "publishedDateTime": "2021-01-08T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.md",
+      "title": "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' ",
+      "excerpt": "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
+      "publishedDateTime": "2021-01-08T07:50:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-dems-caught-up-in-their-own-mob-mentality-trying-to-blame-everything-on-trump-hurt.md",
+      "title": "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt",
+      "excerpt": "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp",
+      "publishedDateTime": "2021-01-08T07:21:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-dewine-does-not-support-arts-council-appointee-comments-media-owner-called-kamala-harris-a-whore.md",
       "title": "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'",
       "excerpt": "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block.",
@@ -261,7 +416,7 @@
       "originalUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -985,7 +1140,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 815,
+      "heat": 835,
       "tags": null,
       "images": [
         {
@@ -1171,175 +1326,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
       "publishedDateTime": "2021-01-07T12:21:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
-      "title": "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’",
-      "excerpt": "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
-      "publishedDateTime": "2021-01-07T12:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment.md",
-      "title": "Top Democratic leaders speak with coordinated urgency for Pence to invoke 25th Amendment",
-      "excerpt": "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer, D-N.Y., called on Vice President Mike Pence to invoke the 25th Amendment. NBC News’ Kasie Hunt explains how far this request could move forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment-99075141732",
-      "originalUrl": "https://www.nbcnews.com/video/top-democratic-leaders-speak-with-coordinated-urgency-for-pence-to-invoke-25th-amendment-99075141732",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_brk_hunt_analysis_200107_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99075141732",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99075141732",
-      "publishedDateTime": "2021-01-07T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-pelosi-will-impeach-if-cabinet-wont-oust-trump.md",
-      "title": "Pelosi: Will impeach if cabinet won’t oust Trump",
-      "excerpt": "This comes as top officials leave over Trump misconduct.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
-      "publishedDateTime": "2021-01-07T12:03:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

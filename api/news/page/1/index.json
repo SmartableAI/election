@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-09-obama-echoes-biden-remarks-that-police-response-to-capitol-riots-would-have-been-harsher-with-blm.md",
+      "title": "Obama echoes Biden remarks that police response to Capitol riots would have been harsher with BLM",
+      "excerpt": "Former President Barack Obama took to Twitter Friday to address why Civil Rights groups and lawmakers are furious over the vastly different approach law enforcement took to Wednesday’s U.S. Capitol breach compared to last summer’s Black Lives Matter (BLM) protests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nJ80-eLKLQ/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nJ80-eLKLQ/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
+      "publishedDateTime": "2021-01-08T19:25:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-biden-says-cruz-and-hawley-are-part-of-the-big-lie-while-senators-say-they-are-being-called-nazis.md",
       "title": "Biden says Cruz and Hawley are part of ‘the big lie’ while senators say they are being called Nazis",
       "excerpt": "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be “flat beaten” in their next elections for their part in spreading “the big lie.” ",
@@ -417,6 +473,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-in-photos-vice-president-elect-kamala-harris.md",
+      "title": "In photos: Vice President-elect Kamala Harris",
+      "excerpt": "US Sen. Kamala Harris will be the next vice president of the United States, CNN projects. She will be the first woman to hold the office. She will also be the nation's first Black and South Asian vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "originalUrl": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200729122210-kamala-harris-april-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-mike-huckabee-trumps-policies-have-made-life-better-for-every-american.md",
       "title": "Mike Huckabee: Trump’s policies have made life better for every American",
       "excerpt": "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done.",
@@ -470,6 +583,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trumps-account.md",
+      "title": "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account",
+      "excerpt": "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/",
+      "originalUrl": "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -593,7 +758,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1155,161 +1320,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
       "publishedDateTime": "2021-01-08T08:24:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-all-honor-to-mike-pence.md",
-      "title": "All Honor to Mike Pence",
-      "excerpt": "We have an editorial up titled “Mitch McConnell’s Finest Hour” that also makes a nod to the admirable role which Mike Pence played in the proceedings on Wednesday. I want to underline that point because I thought Pence would recuse himself,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/",
-      "originalUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/pence.jpg?resize=300%2C300&ssl=1",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/amp/",
-      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/all-honor-to-mike-pence/amp/",
-      "publishedDateTime": "2021-01-08T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.md",
-      "title": "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' ",
-      "excerpt": "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
-      "publishedDateTime": "2021-01-08T07:50:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-dems-caught-up-in-their-own-mob-mentality-trying-to-blame-everything-on-trump-hurt.md",
-      "title": "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt",
-      "excerpt": "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp",
-      "publishedDateTime": "2021-01-08T07:21:18-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

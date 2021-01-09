@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623?amp=1"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
+    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-08T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 989
+        isCached: true
 
 secured: "JCxh5NJor53DCu6BDQBa+qEWzoDDAeD6rA7wuuIVNwHhxnUqdfhaE9saR8eW4TizUl4q10DqpX4so0bWSSTBKNedER/9y5jVgRu2I/hoPH4ID93CjwCDEvOkAZNeI6mPtp1FTQj0rpgF/dkQs2kJUftY+o7SckVoa3yX8rT1DnhS5DonLOpjzwByssPodDLkkCRfKcpjmqjMq8hlcitFWxh/ufRrwufQmCQIpf7CEsZovZWD7W+ev0KupX7HGAdNH3Gwm/BCuCavWDGxZDZWOuSaWk5gPPIfDIUxDHTbJ/QDw1990LH5OIGrOrE4PsAYD/zA9nfnpGK+cGwMyqcH7JXPLjBV0zAzamoYYNEfj8pNGIC0Evb0bh/om/RN0SXJg7YEWiIjHsXMUJDIA7oLEGbZH+5W5LZSXDsZO2uOsAbaZw+qx1g5QAwemvTu7Cj8J3i4DVkYt64EkgxgabsE/0vwuhpQmEJaDTw+ObOViIJ3rXlpwpBoPMnomfnF581JKirjTOhI+Tfub6haKbqjyw==;4SmHpnaW8V0hU5HBMbPgCA=="
 ---

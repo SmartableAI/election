@@ -2523,6 +2523,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump fans cry betrayal as he rebukes Capitol violence"
+    excerpt: "On Parler and 4chan Trumpists write of feeling ‘like puking’ as president says those who ‘broke law will pay’"
+    publishedDateTime: 2021-01-08T21:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support?fbclid=IwAR3Wq5UmLvpW6ZPNL5Sdv9XcHzqw050nSpZvWgdr1TKq6xfdGI1clhvLGJw"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z

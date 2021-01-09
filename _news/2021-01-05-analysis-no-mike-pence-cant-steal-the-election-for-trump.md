@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 2855
+heat: 2875
 published: true
 
 provider:
@@ -2085,6 +2085,20 @@ related:
       - url: "https://static.politico.com/31/1f/67d787334695bfae1e6d0bcf3abb/politico-global-translations-social-twitter-v2.png"
         width: 2500
         height: 1309
+        isCached: true
+  - title: "Donald Trump: America's 45th President"
+    excerpt: "President Donald Trump has been in the spotlight for years. From developing real estate and producing and starring in TV shows, he became a celebrity long before winning the White House. Trump had no political experience when he ran for president."
+    publishedDateTime: 2021-01-08T21:44:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/gallery/donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190924214907-02-trump-gallery-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump legal vets torn over new impeachment defense"
     excerpt: "The crew that rallied behind the president in late 2019 is divided as House Democrats rush to impeach him once more."

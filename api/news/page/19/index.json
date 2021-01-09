@@ -2,6 +2,171 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-12-12-us-senate-backs-massive-defense-bill-defying-trump-veto-threat.md",
+      "title": "U.S. Senate backs massive defense bill, defying Trump veto threat",
+      "excerpt": "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act (NDAA), a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P",
+      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28L24P",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P",
+      "publishedDateTime": "2020-12-11T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
+      "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
+      "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/how-netflix-s-prom-musical-was-inspired-mike-pence-n1250946",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3435185/201211-the-prom-netflix-ew-305p_1b7b20b1bc6468f75bbba783f3514f59.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250946",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250946",
+      "publishedDateTime": "2020-12-11T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-biased-media-ignored-bidens-potential-criminal-activity-for-months-trump-campaign.md",
+      "title": "Biased media ignored Biden's 'potential criminal activity' for months: Trump campaign",
+      "excerpt": "Trump 2020 national press secretary Hogan Gidley reacted Friday on \"Outnumbered Overtime\" to the latest revelations about the Hunter Biden investigation, including that Attorney General William Barr was aware of it in the spring.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmLPYMG6fzU/biased-media-bidens-potential-criminal-activity-trump-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmLPYMG6fzU/biased-media-bidens-potential-criminal-activity-trump-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 303,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adb23140-e9cf-491e-8575-04fe15b0f561/74a2486d-979b-4865-bb21-ed4ce837046d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp",
+      "publishedDateTime": "2020-12-11T11:44:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-bobulinski-tells-tucker-carlson-that-joe-biden-lied-about-son-hunters-business-dealings.md",
       "title": "Bobulinski tells Tucker Carlson that Joe Biden lied about son Hunter's business dealings",
       "excerpt": "Former Hunter Biden business partner Tony Bobulinski claimed now-President-elect Joe Biden lied about having no knowledge of his son's foreign business dealings.",
@@ -1172,166 +1337,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp",
       "publishedDateTime": "2020-12-10T10:25:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trump-announces-that-israel-and-morocco-will-normalize-relations.md",
-      "title": "Trump announces that Israel and Morocco will normalize relations",
-      "excerpt": "Morocco, with centuries of Jewish history, has long been rumored to be ready to establish ties with Israel after years of informal relations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd3c953/2147483647/strip/true/crop/5915x3863+0+40/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F58%2Fea95e0cf45a680c7a05fea261530%2Fgettyimages-1229950087.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "publishedDateTime": "2020-12-10T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trevor-noah-on-trumps-supreme-court-dismissal-his-bar-fight-with-reality-may-be-over.md",
-      "title": "Trevor Noah on Trump's supreme court dismissal: his 'bar fight with reality' may be over",
-      "excerpt": "Late-night hosts recap the supreme court’s rebuke of a Hail Mary lawsuit to overturn the election in Pennsylvania, and discuss Trump’s pardon-palooza",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "originalUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3a427f87e530696c1c244d8a4793ec558e73402a/144_110_2529_1518/master/2529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e0c95c972eb9fee625310a1b5219b6ef",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
-      "publishedDateTime": "2020-12-10T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-grassley-claims-media-chose-to-dismiss-hunter-biden-probe-i-think-its-outrageous.md",
-      "title": "Grassley claims media 'chose to dismiss' Hunter Biden probe: 'I think it's outrageous'",
-      "excerpt": "Sen. Chuck Grassley, R-Iowa, accused the \"liberal media\" of ignoring his investigation of the Biden family's finances in order to protect the Democratic Party while speaking on the Senate floor on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4B0wjEvP9uw/chuck-grassley-media-hunter-biden-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4B0wjEvP9uw/chuck-grassley-media-hunter-biden-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Grassley-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chuck-grassley-media-hunter-biden-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chuck-grassley-media-hunter-biden-investigation.amp",
-      "publishedDateTime": "2020-12-10T09:31:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

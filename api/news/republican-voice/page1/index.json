@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-09-obama-echoes-biden-remarks-that-police-response-to-capitol-riots-would-have-been-harsher-with-blm.md",
+      "title": "Obama echoes Biden remarks that police response to Capitol riots would have been harsher with BLM",
+      "excerpt": "Former President Barack Obama took to Twitter Friday to address why Civil Rights groups and lawmakers are furious over the vastly different approach law enforcement took to Wednesday’s U.S. Capitol breach compared to last summer’s Black Lives Matter (BLM) protests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nJ80-eLKLQ/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nJ80-eLKLQ/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
+      "publishedDateTime": "2021-01-08T19:25:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-biden-says-cruz-and-hawley-are-part-of-the-big-lie-while-senators-say-they-are-being-called-nazis.md",
       "title": "Biden says Cruz and Hawley are part of ‘the big lie’ while senators say they are being called Nazis",
       "excerpt": "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be “flat beaten” in their next elections for their part in spreading “the big lie.” ",
@@ -1613,62 +1669,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-rep-liz-cheney-slams-trump-for-intolerable-conduct-says-president-incited-the-mob.md",
-      "title": "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'",
-      "excerpt": "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp",
-      "publishedDateTime": "2021-01-06T16:31:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

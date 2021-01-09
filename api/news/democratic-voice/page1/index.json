@@ -58,6 +58,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-in-photos-vice-president-elect-kamala-harris.md",
+      "title": "In photos: Vice President-elect Kamala Harris",
+      "excerpt": "US Sen. Kamala Harris will be the next vice president of the United States, CNN projects. She will be the first woman to hold the office. She will also be the nation's first Black and South Asian vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "originalUrl": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200729122210-kamala-harris-april-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-read-house-democrats-draft-of-a-new-article-of-impeachment-against-trump.md",
       "title": "Read: House Democrats' draft of a new article of impeachment against Trump",
       "excerpt": "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n",
@@ -577,7 +634,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 815,
+      "heat": 835,
       "tags": null,
       "images": [
         {
@@ -1029,7 +1086,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2855,
+      "heat": 2875,
       "tags": null,
       "images": [
         {
@@ -1637,63 +1694,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-what-will-pence-do-when-congress-counts-the-votes.md",
-      "title": "What Will Pence Do When Congress Counts the Votes?",
-      "excerpt": "Readers are shocked that the question is being asked and speculate that the vice president may find an excuse not to be present. They also criticize Senator Josh Hawley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/30/opinion/29katyal-monsky-01/29katyal-monsky-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html",
-      "publishedDateTime": "2021-01-01T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2086,6 +2086,20 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "Donald Trump: America's 45th President"
+    excerpt: "President Donald Trump has been in the spotlight for years. From developing real estate and producing and starring in TV shows, he became a celebrity long before winning the White House. Trump had no political experience when he ran for president."
+    publishedDateTime: 2021-01-08T21:44:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/gallery/donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190924214907-02-trump-gallery-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump legal vets torn over new impeachment defense"
     excerpt: "The crew that rallied behind the president in late 2019 is divided as House Democrats rush to impeach him once more."
     publishedDateTime: 2021-01-09T01:29:00Z

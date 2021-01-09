@@ -524,6 +524,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "In photos: President-elect Joe Biden"
+    excerpt: "Joe Biden, a longtime US senator who served as vice president of the United States from 2009 to 2017, will be the 46th president of the United States, CNN projects."
+    publishedDateTime: 2021-01-08T21:35:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/gallery/joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106231659-03-joe-biden-1106-delaware-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "5HZw/dax8aZzfucFKIChXghZbcojle4IRwpYVfloQOeEBqRGqeB3lPqQ1ABALVVAwII+gSnIDG0wrtaLuCyW3RrSIt7uuNBrJJ9qfbbzSGThUw1wvUt+RpedT1+TDynxQLb7K/lHoRZy3lSj7pY5IhXbRg2PH46lY5QNQm/ITR0Z1S4KF+luOlnj5dz2xiKsjXPCImwAXT88CG4FJahBOGKPDoeZ3dMK2KdItpLhIXfzmCh3buKrCdMnj62VGiJ6DemtFEmOcqHB+AY6lpMULImvtkdcwO+4Y2t25bm4HB918JXpULNiowKfKpqY4Hip/Vz/4rHm/FOQItIDOpjjBXn3NKtYG5bcJT7O7fZsSP9eAGQogPsjfijivf8t4L9DABA0bkQGPzxAt7GotGw4bvD5PDdrh0ABNvF/JzaeEGoioApDvIG6x4uJ1P0+uK09S1YcT2COp8YG/NFBduLpbaxzkR0X7LmDVvIh1QDxb2La4BD/TJFvIcGbiXWRgq4JhCkjxcZL5H2hTC246eEU/A==;6ULGozPLW4lB4nB2Sk4i/w=="
 ---

@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
+    excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
+    publishedDateTime: 2021-01-09T04:45:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUKKBN29D2VK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 90
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547159810&r=LYNXMPEH071BX&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Donald Trump to mob at Capitol: 'I know your pain... but you have to go home now'"
     excerpt: "President Donald Trump issued a brief video statement on Twitter late Wednesday urging the unruly mob of his supporters at the US Capitol to go home, even as he continued"
     publishedDateTime: 2021-01-06T21:23:00Z

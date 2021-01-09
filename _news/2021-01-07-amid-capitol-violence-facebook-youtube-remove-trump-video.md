@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
+    excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
+    publishedDateTime: 2021-01-09T04:45:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUKKBN29D2VK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 90
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547159810&r=LYNXMPEH071BX&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Donald Trump to mob at Capitol: 'I know your pain... but you have to go home now'"
     excerpt: "President Donald Trump issued a brief video statement on Twitter late Wednesday urging the unruly mob of his supporters at the US Capitol to go home, even as he continued"

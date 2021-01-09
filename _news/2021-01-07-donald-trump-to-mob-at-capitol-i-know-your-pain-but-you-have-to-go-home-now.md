@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
+    excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
+    publishedDateTime: 2021-01-09T04:45:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUKKBN29D2VK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 90
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547159810&r=LYNXMPEH071BX&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Facebook Bans Trump 'Indefinitely' For Inciting Violence"
     excerpt: "Facebook banned President Donald Trump from the platform \"indefinitely\" due to his efforts to incite the violence in the US capital this week, chief executive Mark Zuckerberg said Thursday. Zuckerberg said the 24-hour ban announced Wednesday was extended because of Trump's \"use of our platform to incite violent insurrection against a democratically elected government."
     publishedDateTime: 2021-01-07T16:34:00Z

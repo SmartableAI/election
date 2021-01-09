@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Twitter Bans President Donald Trump's Account Permanently After Shopify Terminated POTUS-Affiliated Stores"
+    excerpt: "Twitter has decided to permanently ban Donald Trump from its platform \"due to the risk of further incitement of violence.\""
+    publishedDateTime: 2021-01-09T03:10:00Z
+    webUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750"
+    ampWebUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/democrats-in-the-us-house-of-representatives-have.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
     excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
     publishedDateTime: 2021-01-06T20:30:00Z

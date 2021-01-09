@@ -2086,6 +2086,20 @@ related:
         width: 2500
         height: 1309
         isCached: true
+  - title: "Donald Trump: America's 45th President"
+    excerpt: "President Donald Trump has been in the spotlight for years. From developing real estate and producing and starring in TV shows, he became a celebrity long before winning the White House. Trump had no political experience when he ran for president."
+    publishedDateTime: 2021-01-08T21:44:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/gallery/donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190924214907-02-trump-gallery-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump legal vets torn over new impeachment defense"
     excerpt: "The crew that rallied behind the president in late 2019 is divided as House Democrats rush to impeach him once more."
     publishedDateTime: 2021-01-09T01:29:00Z
@@ -2115,6 +2129,6 @@ related:
         height: 773
         isCached: true
 
-secured: "osPGfSQkaOzW4gnvgM1uXKxCGK2wAVtC+maYZkYGw5pE/gQhrGvLQ1/8W9BbbbAl9uYWhyX6ArjyaiX7o2Rph8af4e9gC1fvpy/dNVwLB/Ul2b+c2cTMbPH+unnOVAXXibLLbebOP5jdupGRmtfzf+wvVaLbavTQX/pxorneqvdCFAA8fWnOROR2cDd2vVRzkFjxEShc/ADWIAdPTs+NE+SpJTl80MOrOiaRhhwmZ3sOAdOZ7Xk2IV78T6yTHsvyKKS6/y1Fo7vW+UTZ23xmVvcWEVyy7HjSZ53rMtasuFLyOpx1/seWsnmd2ro7Rd63YVngxZbjpxlvJnvbG3m1l6B95gACMhohspKhKbGKdoU=;YTVRQdiCkHov/mJQqjgWXA=="
+secured: "M9e3BDgB8qencd8w4W0Dht+/b8E21nlCSebdJcH3VQHKwX1Cu6QqrLKJx/wDgZvg6Xz+zTVODlhGoodbXhhjz3t98YxS0kDYZ15LjtULWq9jmrDI9evFDWpvVs26xFGARD4EUP4quYXM9c6/1uSw1de9H/tQfU0zi1Fx6ppzRKGEUSwcm90wNQS2M0OjC0ugWIS5/ufqckBACjJY6eq7zpvtBqsE3A89r5mp4bkAstG62xH689gNKptoPiFvy8BpC7Vg+J1EdxmBIhtogG7WEbw4W7tqDO/YzPikkxUSvoiSixHMBwFvHHv169NEOfrSXdNvh+FRhm1sGIY4unhYHmgCR2/qM47ph7xn+MSe7K6c2ESZZbc4Js0Tb3sFVCqdNellT+yk9QcxTVG/YVQW4vC5JMUtCQOuxI6aOMZsTtA5Nw7M1g/oDaAxv7P2Bln4FQ1J0mrs5vM/+7WwOV7hhnkxbev9JSIei6qxGacxbJvl3ohP1O+/V5bNPAslGy+H3UMUQ9zq7wD6HHl2L0wdGQ==;wvwNvjRPrsaS10lcrUg+0w=="
 ---
 

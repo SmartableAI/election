@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-watch-live-biden-and-harris-introduce-key-economic-team-members.md",
+      "title": "Watch live: Biden and Harris introduce key economic team members",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548",
+          "width": 3500,
+          "height": 2365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
+      "publishedDateTime": "2020-12-01T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-jake-tapper-to-interview-joe-biden-and-kamala-harris-in-first-joint-interview-since-winning-election.md",
       "title": "Jake Tapper to interview Joe Biden and Kamala Harris in first joint interview since winning election",
       "excerpt": "CNN's Jake Tapper will interview President-elect Joe Biden and Vice President-elect Kamala Harris on Thursday in their first joint interview since winning the election, the network announced Tuesday. \n    \n",

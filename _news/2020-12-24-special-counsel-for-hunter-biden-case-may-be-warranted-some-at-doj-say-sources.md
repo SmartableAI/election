@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "4zeaiB/iKXWeis9Svy+DA/wc1uvMiDImqlgh9gu7tcwP2Ht2GzWkyWmle9YUgK/U+UihBLn6IHpNGZRpw7Er5iUllo+6N5Pqrz0gYN6ly9rG1YC70Xjc1ewUm+BfdnGagjWJR5tWlGUsIKnD758tFSB5VB+3X37iTUWreDjha1+fhwGPNwFBuOBO+tk7S1hPjet6UeL5iDxz2syoB4ZzwYBdS6NSgXwXxEnyyTK3ZDNkT0Dyu/TWjmO48q2hW4ouzVdjkhh5Gc2F8Oefc691kgg+vOFdZggCC+US4uzqPh6qZbUPQ7vXcTK+6YasJfIT9vGVRryb3CBWp7HSYZxZv6YXXkCDLvYc5iTd+7RKtZJt1n1eBsmp5QRxSiuHkSwXcnhw4fK80I6a6lFFMRm+nc3kWyczSXZl2OmlzUj17tUDeXgQDLxonLFTof+zAiVMSxo+K93jxZ4rXsddojCEKPW/se7hkAOL36Vz9jUGnmqw6naKNg/MKU+KQvvSz+f0AXvqPwlQr005yXjwcgWPAA==;T9qKZZK3B3Sr7xYggROIiA=="
 ---

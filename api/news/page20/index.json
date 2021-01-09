@@ -2,6 +2,166 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-12-11-trump-announces-that-israel-and-morocco-will-normalize-relations.md",
+      "title": "Trump announces that Israel and Morocco will normalize relations",
+      "excerpt": "Morocco, with centuries of Jewish history, has long been rumored to be ready to establish ties with Israel after years of informal relations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd3c953/2147483647/strip/true/crop/5915x3863+0+40/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F58%2Fea95e0cf45a680c7a05fea261530%2Fgettyimages-1229950087.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
+      "publishedDateTime": "2020-12-10T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-trevor-noah-on-trumps-supreme-court-dismissal-his-bar-fight-with-reality-may-be-over.md",
+      "title": "Trevor Noah on Trump's supreme court dismissal: his 'bar fight with reality' may be over",
+      "excerpt": "Late-night hosts recap the supreme court’s rebuke of a Hail Mary lawsuit to overturn the election in Pennsylvania, and discuss Trump’s pardon-palooza",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "originalUrl": "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3a427f87e530696c1c244d8a4793ec558e73402a/144_110_2529_1518/master/2529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e0c95c972eb9fee625310a1b5219b6ef",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv",
+      "publishedDateTime": "2020-12-10T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-grassley-claims-media-chose-to-dismiss-hunter-biden-probe-i-think-its-outrageous.md",
+      "title": "Grassley claims media 'chose to dismiss' Hunter Biden probe: 'I think it's outrageous'",
+      "excerpt": "Sen. Chuck Grassley, R-Iowa, accused the \"liberal media\" of ignoring his investigation of the Biden family's finances in order to protect the Democratic Party while speaking on the Senate floor on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4B0wjEvP9uw/chuck-grassley-media-hunter-biden-investigation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4B0wjEvP9uw/chuck-grassley-media-hunter-biden-investigation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Grassley-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chuck-grassley-media-hunter-biden-investigation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chuck-grassley-media-hunter-biden-investigation.amp",
+      "publishedDateTime": "2020-12-10T09:31:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-tom-cotton-hunter-bidens-taxes-are-least-damaging-part-of-probe-into-china-dealings.md",
       "title": "Tom Cotton: Hunter Biden's taxes are 'least damaging' part of probe into China dealings",
       "excerpt": "A grand jury investigation into Hunter Biden's taxes is the \"least damaging\" allegation against President-elect Joe Biden's son, Sen. Tom Cotton said Thursday.",
@@ -1182,172 +1342,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-lawyer-rudy-giuliani-receiving-same-covid-drugs-as-president.md",
-      "title": "Trump lawyer Rudy Giuliani receiving same Covid drugs as president",
-      "excerpt": "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-55243581",
-      "originalUrl": "https://www.bbc.com/news/world-55243581",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-55243581",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581",
-      "publishedDateTime": "2020-12-09T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump.md",
-      "title": "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump",
-      "excerpt": "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
-      "originalUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
-      "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
-      "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-bidenhud1/08dc-bidenhud1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "publishedDateTime": "2020-12-08T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-ina
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-inauguration/index.html"
 type: article
 quality: 195
-heat: 815
+heat: 835
 published: true
 
 provider:
@@ -523,6 +523,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "In photos: President-elect Joe Biden"
+    excerpt: "Joe Biden, a longtime US senator who served as vice president of the United States from 2009 to 2017, will be the 46th president of the United States, CNN projects."
+    publishedDateTime: 2021-01-08T21:35:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/gallery/joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106231659-03-joe-biden-1106-delaware-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "fVQhmef8n4OYkbd81+F/fdi1IJk9igjR8MyVylIpzhMQmhXLzDr8S9n3ZM0Uoo0kbuuHdmgTcYw82aujGg8G/SgCUS28IcoTlL6DESxcdiEUSpZIb0qgvWm8uWU+VBEAUVAmS8Gbyhc+YVJQI3EWcamX2z06+pragrx6RZUm8Htn9DEH/QnJOEh+//CFSZtAb5pNgsgEAV7QpAEGWf+kflCO6uIix/UHZXgQQDphKVpl4so4yeQVVc/VfMa+g6iElW0zLCjEq2Wk6mE1zG01qFjBbygEHcWwzhfBlsEauB+wU/BRCvt/W+ZPAY3/YbwFvGzuclsvhPzLhGm79XQKHpQxn9cwClYRFoz3eCY6dFs=;VZcpYioWOLFKs4luGVWdtg=="

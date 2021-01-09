@@ -50,6 +50,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-in-photos-vice-president-elect-kamala-harris.md",
+      "title": "In photos: Vice President-elect Kamala Harris",
+      "excerpt": "US Sen. Kamala Harris will be the next vice president of the United States, CNN projects. She will be the first woman to hold the office. She will also be the nation's first Black and South Asian vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "originalUrl": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200729122210-kamala-harris-april-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-dewine-does-not-support-arts-council-appointee-comments-media-owner-called-kamala-harris-a-whore.md",
       "title": "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'",
       "excerpt": "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block.",
@@ -1517,58 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-watch-live-biden-and-harris-introduce-key-economic-team-members.md",
-      "title": "Watch live: Biden and Harris introduce key economic team members",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548",
-          "width": 3500,
-          "height": 2365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "publishedDateTime": "2020-12-01T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
