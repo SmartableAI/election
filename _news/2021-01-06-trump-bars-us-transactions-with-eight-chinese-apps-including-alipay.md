@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A2PA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
         width: 1024
         height: 695
+        isCached: true
+  - title: "Short On Alternatives, Fans Trash Twitter's Trump Ban - On Twitter"
+    excerpt: "Friends, family and advisors to Donald Trump have been bitterly complaining that Twitter's ban of the president after his supporters stormed the US Capitol amounts to an assault on free speech by radical leftists."
+    publishedDateTime: 2021-01-09T21:21:00Z
+    webUrl: "https://www.ibtimes.com/short-alternatives-fans-trash-twitters-trump-ban-twitter-3118076"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/this-photo-from-august-10-shows-the-twitter.jpg"
+        width: 1024
+        height: 661
         isCached: true
 
 secured: "2+jfHMKYFj1qBRO9JjiEC5aPQ2WIleZK0Ety8IUWNNB1yQXB0/NjjQJbWSfvNhPiRnXc3TltX2TF1TQL+GazaCiY1uBe1eloB/ypalxJREs8oazRt4eMAsQmMgBQYY+8GDi68wh+mrnLj0d6jldR+ItwXUr0D9QV5UR1wvYcuxdJjkPxvK+3azVO4ZTBU5vHBaukIcb6xkDgp1HQGKDSldeff0h4XG0TPoznvOdr7h/Yb9jmURfwwWD9fGH+byBvbHHqjZpWI5b7g8BunaBjFmBJbnw3G9RFrbEUa7SIFa8Ii4e5zXkviU7vruaBBZ63ay1U+CyfVk2Z+pLoNJILvkVSXogOl40JFjdEPeiYqyc=;HEtgn3EiHKhvVdyYPZ7LuQ=="

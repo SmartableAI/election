@@ -4452,6 +4452,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Protesters call for Rep. Jeff Van Drew to resign after vote against certifying Joe Biden’s presidential win"
+    excerpt: "Dozens of protesters gathered Saturday to call for Rep. Jeff Van Drew to resign in response to the congressman’s controversial vote opposing certification of Joe Biden’s win over President Donald Trump in the 2020 presidential election earlier this week."
+    publishedDateTime: 2021-01-09T21:31:00Z
+    webUrl: "https://www.nj.com/cape-may-county/2021/01/protesters-call-for-rep-jeff-van-drew-to-resign-after-vote-against-certifying-joe-bidens-presidential-win.html"
+    ampWebUrl: "https://www.nj.com/cape-may-county/2021/01/protesters-call-for-rep-jeff-van-drew-to-resign-after-vote-against-certifying-joe-bidens-presidential-win.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/cape-may-county/2021/01/protesters-call-for-rep-jeff-van-drew-to-resign-after-vote-against-certifying-joe-bidens-presidential-win.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HROIR5C64RBIFGETYXLILLZ7M4.JPG"
+        width: 4701
+        height: 3134
+        isCached: true
   - title: "Congress set to confirm Joe Biden’s Electoral College win as Trump’s allies plan to object, drawing out what is normally a routine process"
     excerpt: "President Donald Trump’s effort to overturn the election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
     publishedDateTime: 2021-01-06T12:36:00Z
@@ -4566,6 +4582,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "10+vbMHKGrkzkw6jMaognX1Oerrk1yYNkGV09twIn7a2pihnQR2uoiWc9A/nI/9I0TGtO7IRa3sHx+bCqW9HQuRKfuncXT/k6cHnkEOP4+RN531oxzalhhKBFLzKygnOIQNSUPVKKNme2sLeUZtmOw7z1wd+u1Pa6JwC8ThDwcl/UOyqbLUGSflocinX8ssdO/BoqcbZY5f7zj/IxsWbH6cOebqBIDPwHh+pGHKe9woaTZakxGlMH0Z1v4RxL7ItMPCrK7IKkBd90mGFNjUZh8CYuI4iemyNF9g7CMiNpOffuDq6rQF9+PIRGBmRvUU8fazMCjpxOshqx0zvJ26QEGs9Xg0NNaJZQZVzURJoMTA=;L2vRi7dwiTqtND+Uo5Y6Hg=="
+secured: "de8xI9UEFKp/aNfHKqlPedLdqJ+DwWqYBXBmHR7ufmcUGwux4Ba17jQYCJG0DlOdlsXpDm3e5935UY1ZLBIyTyC07pCb1N0KXioYvxvUd7VHIIYR7GRxdJPNT24rQ/ijwK5tHdwGBvB2qGG7sbL9BegqSURoA9FIadNi8yuLDMVeMwPI2MfLbc2r7KRstgPXbKLsQhv7CcLBrXJeUCn65tNHlvOVKpnG0RQk/YqE9HUJ/nPOsDKE2XarcMgQLFZgpNRvpcZLzhc2zah1pcotTcS92T/mKx/pADMlUHX0Z8i3TvBI+QdZKaTQGHu03ycsFzz1KK9b3JuN6+LrNLQrLb9u6QfkGcTXEqcfMu6v3L9iMj7CE7Q1RJJZWv0KAlxbdh2NjogMY91jSunXtiI3WgCownUmjZyxW2dKRqFUPiFnih9YxAhkZG07Y2yg61M+ND0H5WAClI/hdIeNLWEbFQ9spYkoItCM5w5i5IMxcSEtyChX4DzVHLP3z4rANhOzpPPSIVmq2Dw304jIOM2iLg==;id45GKMsQeAzjeMg/WYf8A=="
 ---
 

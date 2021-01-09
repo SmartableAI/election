@@ -4464,6 +4464,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Protesters call for Rep. Jeff Van Drew to resign after vote against certifying Joe Biden’s presidential win"
+    excerpt: "Dozens of protesters gathered Saturday to call for Rep. Jeff Van Drew to resign in response to the congressman’s controversial vote opposing certification of Joe Biden’s win over President Donald Trump in the 2020 presidential election earlier this week."
+    publishedDateTime: 2021-01-09T21:31:00Z
+    webUrl: "https://www.nj.com/cape-may-county/2021/01/protesters-call-for-rep-jeff-van-drew-to-resign-after-vote-against-certifying-joe-bidens-presidential-win.html"
+    ampWebUrl: "https://www.nj.com/cape-may-county/2021/01/protesters-call-for-rep-jeff-van-drew-to-resign-after-vote-against-certifying-joe-bidens-presidential-win.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/cape-may-county/2021/01/protesters-call-for-rep-jeff-van-drew-to-resign-after-vote-against-certifying-joe-bidens-presidential-win.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HROIR5C64RBIFGETYXLILLZ7M4.JPG"
+        width: 4701
+        height: 3134
+        isCached: true
   - title: "Trump Leaves Mark on Immigration Policy, Some of It Lasting"
     excerpt: "When President Donald Trump was running for reelection, foreign-born U.S. residents were rushing to get their American citizenship before it might be too late. “I didn’t know what would happen if Trump got a second term,"
     publishedDateTime: 2020-12-30T05:34:00Z

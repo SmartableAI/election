@@ -2,9 +2,9 @@
 category: news
 title: "Banished by Twitter, an isolated Trump faces looming impeachment threat"
 excerpt: "With only days left in his presidency, Donald Trump - silenced by Twitter and shunned by a growing number of Republican officials - faces a renewed drive by Democrats to remove him from office after he incited his supporters to storm the U."
-publishedDateTime: 2021-01-09T18:35:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump/banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSKBN29E0AH"
-webUrl: "https://www.reuters.com/article/uk-usa-trump/banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSKBN29E0AH"
+publishedDateTime: 2021-01-09T22:14:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/an-isolated-trump-cut-off-from-twitter-faces-a-new-drive-for-impeachment-idUSKBN29E0AF"
+webUrl: "https://www.reuters.com/article/us-usa-trump/an-isolated-trump-cut-off-from-twitter-faces-a-new-drive-for-impeachment-idUSKBN29E0AF"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547193007&r=LYNXMPEH0806K&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547227854&r=LYNXMPEH0806K&w=800"
     width: 800
     height: 484
     isCached: true
@@ -539,6 +539,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Find the fraud’: Trump pressured a Georgia elections investigator in a separate call legal experts say could amount to obstruction"
+    excerpt: "More than a week before he urged the Georgia secretary of state to overturn the election results, the president spoke to the state’s chief elections fraud investigator and urged the official to find wrongdoing as part of an ongoing inquiry."
+    publishedDateTime: 2021-01-09T22:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2PIA5CR2II6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Trump vows to campaign against Georgia Governor Brian Kemp over his lukewarm support of the president's baseless election fraud claims"
     excerpt: "\"I'm going to be here in a year and a half and I'm going to be campaigning against your governor and your crazy secretary of state,\" Trump promised."
     publishedDateTime: 2021-01-05T16:47:00Z
@@ -852,6 +868,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "S0oBE2/bzvsXRvq/pucYsTpsPLh+w4PQjlt656IPRvvg4wiLQpQdrJSf8zvTKQz//xoL4WvCp1RiN4XGFxhK5Vr6OOwf0hXdRZh85SETEG96eRET9taLJByIdJP7tlBC4e8xnd73s2lTXhTyWCV1H1cyfM8htgw0ctD9D5nS1fvOuysRJvQKck6gbbhT0GdVleSKMvIKDetJRhBvkkp0oNw/mfYytGbRBM03irx8PXIGEhHR2Yo9r90yooImIkLw2Mt6rN6PTET+t/4rWCf2/mxr4/96xFaM2x51RuRjdXsLfDnbOChKO0bXkXbE7N/RAM1amUBRnoe868bX4FE5Jqkj/oTYbbmlT91j+xk4dbo=;CVGU2ofkkZAHC0oelyz1ig=="
+secured: "vSQrF0NNnAXHhsTHkkeskwBl/hnZ4egxTUagi3FmuNkXQVuWPyvCIMBgd/U7cfihruN+p7kKVfEVbJjjUWbGX4284vA7qwj6ewaOHBWfUalqilMvVhgGXnRYTKoHqwNuJMb4Ellea1UYIXN7f12ab/QZk8XasHAg6pgtNDoPY6kl9rgchgdRHXU8CHz3TwvAVxyWx63YYzoMh7T/z1Uq+8ktr4g4g8s4gA4p1VuJKEFro8tmrXWXPyIgzxI9MJKNxEePu0nWpJ8ABI7mGok0wjE1J81YxgWDGP6Exh+FAOn01XRM+LP8U4tThCiv6Hc6COk3QFYKzRaM8eydy9oHLbRFZkonW2x8CEXW2QJcc34=;eLSUJ/uSS66hcexra2/6fQ=="
 ---
 

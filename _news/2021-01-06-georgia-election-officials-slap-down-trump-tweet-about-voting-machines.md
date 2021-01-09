@@ -535,6 +535,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Find the fraud’: Trump pressured a Georgia elections investigator in a separate call legal experts say could amount to obstruction"
+    excerpt: "More than a week before he urged the Georgia secretary of state to overturn the election results, the president spoke to the state’s chief elections fraud investigator and urged the official to find wrongdoing as part of an ongoing inquiry."
+    publishedDateTime: 2021-01-09T22:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2PIA5CR2II6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Trump vows to campaign against Georgia Governor Brian Kemp over his lukewarm support of the president's baseless election fraud claims"
     excerpt: "\"I'm going to be here in a year and a half and I'm going to be campaigning against your governor and your crazy secretary of state,\" Trump promised."
     publishedDateTime: 2021-01-05T16:47:00Z
@@ -631,15 +647,15 @@ related:
         isCached: true
   - title: "Banished by Twitter, an isolated Trump faces looming impeachment threat"
     excerpt: "With only days left in his presidency, Donald Trump - silenced by Twitter and shunned by a growing number of Republican officials - faces a renewed drive by Democrats to remove him from office after he incited his supporters to storm the U."
-    publishedDateTime: 2021-01-09T18:35:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSKBN29E0AH"
+    publishedDateTime: 2021-01-09T22:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/an-isolated-trump-cut-off-from-twitter-faces-a-new-drive-for-impeachment-idUSKBN29E0AF"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547193007&r=LYNXMPEH0806K&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547227854&r=LYNXMPEH0806K&w=800"
         width: 800
         height: 484
         isCached: true

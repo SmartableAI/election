@@ -48,6 +48,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Squelched by Twitter, Trump seeks new online megaphone"
+    excerpt: "Though stripped of his Twitter account for inciting rebellion, President Donald Trump does have alternative options of much smaller reach"
+    publishedDateTime: 2021-01-09T22:51:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1deda14e260e40a5b24a2a905e43a5f2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
     excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
     publishedDateTime: 2021-01-04T18:43:00Z

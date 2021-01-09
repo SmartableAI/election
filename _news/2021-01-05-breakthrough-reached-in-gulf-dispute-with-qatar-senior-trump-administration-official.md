@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Squelched by Twitter, Trump seeks new online megaphone"
+    excerpt: "Though stripped of his Twitter account for inciting rebellion, President Donald Trump does have alternative options of much smaller reach"
+    publishedDateTime: 2021-01-09T22:51:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1deda14e260e40a5b24a2a905e43a5f2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
     excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"
     publishedDateTime: 2021-01-08T16:58:00Z
