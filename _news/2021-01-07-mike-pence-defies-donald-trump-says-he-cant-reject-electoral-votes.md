@@ -2908,17 +2908,17 @@ related:
         isCached: true
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-    publishedDateTime: 2021-01-08T08:19:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idINKBN29C2RE?edition-redirect=in"
+    publishedDateTime: 2021-01-08T13:49:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 119
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547049995&r=LYNXMPEH07058&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
         width: 800
-        height: 450
+        height: 557
         isCached: true
   - title: "Trump U-turns to condemn Capitol violence as calls for removal grow – live updates"
     excerpt: "Cabinet resignations as low-key video address accepts there will be a ‘orderly’ transition"
@@ -3472,17 +3472,17 @@ related:
         isCached: true
   - title: "Biden will move to extend pause on student loan payments -transition official"
     excerpt: "U.S. President-elect Joe Biden will move to extend a pause on payments of federal student loans when he takes office on Jan. 20, Biden transition adviser David Kamin said on Friday."
-    publishedDateTime: 2021-01-09T04:12:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSKBN29D2WM"
+    publishedDateTime: 2021-01-09T02:06:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSW1N2IV031"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 102
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547163333&r=LYNXMPEH071C7&w=800"
-        width: 800
-        height: 549
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Congress set to confirm Joe Biden's electoral win over Donald Trump"
     excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
@@ -3499,6 +3499,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/25/a25152fe-501e-11eb-9d14-4febd4af4fa8/5ff5b421ac568.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Pompeo holds 'productive' transition meeting with Biden's secretary of state nominee"
+    excerpt: "U.S. Secretary of State Mike Pompeo met with Antony Blinken, President-elect Joe Biden's nominee for top diplomat, on Friday to facilitate the transition of power, just days after President Donald Trump's supporters stormed the Capitol in a bid to overturn his election"
+    publishedDateTime: 2021-01-09T04:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pompeo/pompeo-holds-productive-transition-meeting-with-bidens-secretary-of-state-nominee-idUSKBN29D2S5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547162708&r=LYNXMPEH071GF&w=800"
+        width: 800
+        height: 587
         isCached: true
   - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
     excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
@@ -4425,6 +4439,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "CGdw/M3BKfesGd8qAQTOfdzePqH1OS5NQd09+FkVDPmu0zDM99IE5er2nOKoBAR9tmmUVaUKYq0bsvLtNUCo3JVg+sA2/rasm4MAehLMfcx+/r3DDeC+bNwDi/Qfrkx0cqDywTgKI+WaVla38fz455OEmmBTLtlCkcWI3rJUADjAYQAirxQYfB2cXZmw6xyVyxtnO8NK2RiYs7xkNSdKqpFVqxRSzIH8jWfFpQbsj9SkiRCAi/3XKAEdixdoILjbzTPKxwMOmlOD8vkz26Lb7KzGReuMhBUxvbGxE7ktkiOVcWh39xFdYd3CBf0zlO5upewwOYlzc3htYsGqSZGmeAGQNkL53W5/C/S2wQzuvZo=;m9fRT3JYqR/0jZC421IYlw=="
+secured: "t2l4ttRL41aQCiO8LNr8vKoJqQVt6F8+4kmQOIWPkoPnOm7ui+dDxiht4M3Y++IlJ3qNdMntBpDFYcNdkMimaqJmJ7ikmTB/aGz2prSr47PyadudFV9o+RsGq/dOORNlZZnEUI9avlFO7mUOXTxOK8/ymjsu24AQT3BuD73QuI8xCLH0OlsCoRIrVP4kDwx8ed1QqQJ4WZbl+ktX0HjruRjCG1Y2jMqlW3tPakZAx2DgcNeup5T2Z6JR+AmEwQhBRce7hFAnG29TRCmA9TNDxyqKkaqca/WzUNn/s82Ghm85avvps9yhvA7fr+8YgJvomNGRPvo+7rMj13pjqFkhKJ/KsDGMD+VDkmScewXGyrjNBTo3lidM9WqLpaV926SqJPjUThom5khv57A6IPwikblB4YqS5Dchu+5RmQf1isgq6u3nsk23yhxEtQdjjg4t9TCHtQpiqs4Y3mGFBgaEhx164OE942f6YYcP/DlC61HwZ3glZi8dEnFXOrn20mB6hmEgpTVMWt6fk0p1G5qBjQ==;BPmjQyJGkLmQsEFzZv0T1g=="
 ---
 

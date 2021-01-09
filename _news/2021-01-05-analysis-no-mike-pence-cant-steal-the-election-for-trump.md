@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 2895
+heat: 2915
 published: true
 
 provider:
@@ -1769,6 +1769,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Twitter permanently suspends President Donald Trump"
+    excerpt: "\"After close review of recent Tweets from the @realDonaldTrump account and the context around them we have permanently suspended the account due to the risk of further incitement of violence,\" Twitter's official \"Safety\" account tweeted."
+    publishedDateTime: 2021-01-09T08:17:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3440897/210108-donald-trump-cs-636p_c77b272eca7428f60bbd6b5492358ec3.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Twitter Permanently Suspends Trump, Capping Online Revolt"
     excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."

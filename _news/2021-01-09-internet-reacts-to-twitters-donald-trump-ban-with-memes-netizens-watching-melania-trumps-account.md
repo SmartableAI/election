@@ -61,6 +61,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Donald Trump Tweets From POTUS Account After Twitter's Suspension, Claims He Was Being 'Silenced'"
+    excerpt: "President Donald Trump tweeted from the official @POTUS account Friday evening shortly after Twitter banned his personal account, @realDonaldTrump."
+    publishedDateTime: 2021-01-09T07:26:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "NXA9+YBm4f9bIkc4/UrgIwK5dwqbXCByJ8oUAcCfHZehkm55hyXzA6ZfhT8/JIE5BsfqrtGpxfyvvrkTVP5oVz9t0YURoulea9yT8Ccx7GsFyL7ULHMuADM4dnbJLqT00cc4JX24aNjGDqTpTfuhhrUqnj79ak+DMKeYl72WEylvdOPovtqeUh5zH9TDulr7NvNtQLkWTvE1GyAZDjYghefad7PGGHErcKdFmYhs4OOQ4IPhL+79TbvgQaMfpY7axvwDTdnJXmSQNDfkqa7d7FMnsaaYKIXezvBaUdD9DpGrGEdnePGKB/Ek+o9QvoajzdBFeGGOBYj2DW7eRS/YHmfo9Z1B90d3fPd9wcosS40=;ML/g+Nl480CzhbADE1PRHw=="
 ---

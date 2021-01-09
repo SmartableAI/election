@@ -45,6 +45,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
+    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-09T08:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
+        width: 799
+        height: 576
+        isCached: true
 
 secured: "1VDY5LQchoH71Fu0qfR2y5PcrIVwEXxhhRSAMGfFkbcs3EY/7Mf2HgcHZQGKSl+ZTH+lUJgT+QY5mUGQgEK2wJTvC/74dirt558ek/tWzlEuyJYY7MJIeowun+oGO01eOLO41JtN2gAL7XnV+WUuDJaucOl9vFlSHrCP/okyTUpnziT2E66/CaiJP4A1wDuWA92x3kDT36iOesv8IJitZLVhGrXzU+kr3kHnmHHltVLJ4MSAwAQUiPGspsox49O6FulReG4usFyXHfnKQJc1LfoEQf2z9acU+ow2sRyXAcGdsTU9QGvu8KT3iuXw0TFVuyakWnAycA2gfwhIiDPZZPqNKpYSkEM5wbNFSUIJfUE=;3y5F1C1OqjSN4jwTSqNtsg=="
 ---

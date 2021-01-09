@@ -1786,6 +1786,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Twitter permanently suspends President Donald Trump"
+    excerpt: "\"After close review of recent Tweets from the @realDonaldTrump account and the context around them we have permanently suspended the account due to the risk of further incitement of violence,\" Twitter's official \"Safety\" account tweeted."
+    publishedDateTime: 2021-01-09T08:17:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3440897/210108-donald-trump-cs-636p_c77b272eca7428f60bbd6b5492358ec3.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Twitter Permanently Suspends Trump, Capping Online Revolt"
     excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
     publishedDateTime: 2021-01-08T23:31:00Z
