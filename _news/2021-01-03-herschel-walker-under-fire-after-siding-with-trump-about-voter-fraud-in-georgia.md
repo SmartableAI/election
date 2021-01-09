@@ -93,6 +93,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "On December call, Trump urged Georgia elections investigator to 'find the fraud': Source"
+    excerpt: "Amid a signature match audit, President Trump urged a Georgia elections investigator to \"find the fraud\" in a December phone call, a source confirmed to ABC News."
+    publishedDateTime: 2021-01-09T20:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 131
+    images:
+      - url: "https://s.abcnews.com/images/Politics/georgia-votes-donald-trump-raffensperger-01-rt-llr-210109_1610222192103_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Explainer: Did Trump break the law by pressuring a Georgia election official to 'find' votes?"
     excerpt: "President Donald Trump may have broken a U.S. federal law and a Georgia law against election tampering by pressuring the state's top election official to \"find\" enough votes to overturn his loss to President-elect Joe Biden in the state,"
     publishedDateTime: 2021-01-04T20:50:00Z

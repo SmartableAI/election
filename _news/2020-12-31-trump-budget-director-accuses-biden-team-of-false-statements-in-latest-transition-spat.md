@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump pressured Georgia elections investigator to 'find the fraud' in 2020 election"
+    excerpt: "President Donald Trump last month urged the chief investigator for the Georgia secretary of state's office to \"find the fraud\" in the 2020 presidential election, telling the individual that they would be a \"national hero,\" according to a source with knowledge of the call.\n    \n"
+    publishedDateTime: 2021-01-09T19:23:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B0YOhPn2o-Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/trump-phone-call-georgia-investigator-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/trump-phone-call-georgia-investigator-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107140852-01-donald-trump-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lawyer for Trump campaign withdraws after saying election cases were used to commit crime"
     excerpt: "A Pennsylvania lawyer who represented the Trump campaign in one of its early election challenges told a federal judge Thursday \"the client has used the lawyer's services to perpetrate a crime,\" one day after a mob of Trump supporters turned violent and stormed the US Capitol Building.\n    \n"
     publishedDateTime: 2021-01-07T18:26:21Z
@@ -1594,6 +1610,22 @@ related:
       - url: "https://static.politico.com/fa/21/adc36e564110a77c43ef0db93cfb/ap21006652583844.jpg"
         width: 4478
         height: 2984
+        isCached: true
+  - title: "Georgia Officials Reveal Third Trump Call Seeking to Influence Election Results"
+    excerpt: "In a December call, President Trump told a Georgia elections investigator that the official would be a “national hero” for finding evidence of fraud."
+    publishedDateTime: 2021-01-09T20:23:00Z
+    webUrl: "https://www.nytimes.com/2021/01/09/us/georgia-presidential-election-results.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/09/us/georgia-presidential-election-results.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/us/georgia-presidential-election-results.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 146
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/09/lens/09trump-ga-vote-photo1/merlin_180018675_4faa2d36-51fc-4c58-a49e-3781d99757b4-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
     excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-cal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
 type: article
 quality: 179
-heat: 539
+heat: 559
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6ac0651-927c-4978-8c0f-068568396c9f/bc48ade1-91e4-46e6-aebd-b4c10c8327af/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
+    excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
+    publishedDateTime: 2021-01-09T20:43:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUQXWI1DLJc/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Betsy-Devos-AP-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
     excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."

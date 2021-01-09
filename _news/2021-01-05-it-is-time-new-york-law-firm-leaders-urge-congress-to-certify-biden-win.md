@@ -105,6 +105,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fears over Biden inauguration security mount after US Capitol attack"
+    excerpt: "Security levels being ramped up significantly for Biden’s swearing-in as some warn of ‘persistent challenge over the next months’"
+    publishedDateTime: 2021-01-09T15:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/395d7f3363917ee974d8ea7076c4a32b6eca5a67/0_370_5545_3327/master/5545.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b3ddc2e38e3e2a69e70e732de6008c5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "With virus surging, Biden to speed release of COVID vaccines"
     excerpt: "President-elect Joe Biden will be taking a new direction to speed release of coronavirus vaccines when he assumes office Jan. 20"
     publishedDateTime: 2021-01-09T08:39:00Z
@@ -298,15 +314,15 @@ related:
         isCached: true
   - title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
     excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-    publishedDateTime: 2021-01-09T07:29:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUKKBN29D2K3"
+    publishedDateTime: 2021-01-09T13:59:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-idINKBN29E0B7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 101
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547137976&r=LYNXMPEH0715E&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547195465&r=LYNXMPEH0807K&w=800"
         width: 800
         height: 533
         isCached: true

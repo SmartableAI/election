@@ -430,6 +430,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "China’s New Rules Could Hit U.S. Firms and Send a Message to Biden"
+    excerpt: "An order issued on Saturday empowers Beijing to tell companies to ignore U.S. restrictions and allows them to sue other businesses if they comply."
+    publishedDateTime: 2021-01-09T14:27:00Z
+    webUrl: "https://www.nytimes.com/2021/01/09/business/china-rules-trump-biden-sanctions.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/09/business/china-rules-trump-biden-sanctions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/business/china-rules-trump-biden-sanctions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/09/business/09china-sanctions/merlin_166868577_15ca3113-6b10-4002-a046-0ef36bf5630f-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Pompeo meeting with Biden's secretary of state pick for first time"
     excerpt: "Secretary of State Mike Pompeo is meeting with Antony Blinken, President-elect Joe Biden's nominee to be his successor, for the first time on Friday."
     publishedDateTime: 2021-01-08T18:35:00Z

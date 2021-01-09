@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mik
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mike-pence-chanted-hang-vice-president-3118058?amp=1"
 type: article
 quality: 68
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 681
     isCached: true
 
-secured: "GMYl+nBrirL9it/B94kNnpyWdTTp1MwMsEwml+W/pDYuuDldC/nAfNtNY2G/99n/AKiPl5hgy1osbZDofyPS1c2tB4Ln65b/C4y++TWalytxaEVGChCjYR4G48F10FE6N8+ve76onNuUNoBv/u6Wq4DmBj6SVo3tMoyQHDu0p7mgABMmlsntM4E5mhwgTciLRayFZJTr9biQiC3i643j5EKI+aam8aez2cbRCwO/0xbHfv/MiCTPyosCqhLOoSYzfSAXEuYUbrCmODzbvCWIq9zPLb7tqATLOvGlYXg5vM6Y/OZms0Vw2110qwUQfo4DwYgU5tC1XUWsc3XOyC/BIF3X9V7wF8LEcbVJcHLCJ28=;pwb7xK17qAOGm3QC8xTRqQ=="
+related:
+  - title: "Twitter Confirms It Halted 'Hang Mike Pence' as a Trending Topic"
+    excerpt: "The topic trended briefly, with many people quoting Trump supporters who invaded the Capitol Wednesday chanting the phrase, as a noose awaited outside."
+    publishedDateTime: 2021-01-09T19:09:00Z
+    webUrl: "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253"
+    ampWebUrl: "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1702324/twitter-suspended-trump-trending-topic-pence.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+
+secured: "c7rzGaNCcQRHL2TEsLCYIIV7t1/4qFm2G4/tjMjG1VRh8V9rBgsUmawSp90fSy0l5aGWflhLxT1crV5vvSIgNOSnuxiCZHj7PkGE+kHhyMzfDa3fWQ2KKc54CdWsE+o8S5dxzJiI2m5aOZ3Mqdme3smpPvZrst3JB0+Z2z5s8Whf7vtxKor+JcpKoykkEDwlDFfzeobFDM9KbI9A0qX6BbGcLe0DaiPgs5fu5hMpc+/v+fQK56/JTe0UI9BL6B027El3efIsr0bgUr6xYRv3fYZez92waxlknziPa+hRfvRzkV+b3iKEebS5jROQOopTHXXd+yQWJ+PtptjxVv68kPhdn9pRff16sVdRKpZ2qq9ox5HRCSaVfjQt8RBhipKaOR0r2jUNwGElq0UBVGukXeD2YJxyv/0HdKlDBN6ECBfKXoTuyRTQp039+Nw+3inPjrCSw+iowXys40aPs5elcgiSraDDxSA4p+XTexqDeCKv/siKm213zADhpdU8JMHUsxnTw01JDfW/WXx3HcN/hw==;IzUmbpzFS3GpwqQRcFF36g=="
 ---
 

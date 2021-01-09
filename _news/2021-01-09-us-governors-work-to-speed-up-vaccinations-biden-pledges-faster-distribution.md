@@ -2,9 +2,9 @@
 category: news
 title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
 excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-publishedDateTime: 2021-01-09T07:29:00Z
-originalUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUKKBN29D2K3"
-webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUKKBN29D2K3"
+publishedDateTime: 2021-01-09T13:59:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-idINKBN29E0B7"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-idINKBN29E0B7"
 type: article
 quality: 101
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547137976&r=LYNXMPEH0715E&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547195465&r=LYNXMPEH0807K&w=800"
     width: 800
     height: 533
     isCached: true
@@ -108,6 +108,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c6971aa91eec42e38f288cb75e4296dd_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fears over Biden inauguration security mount after US Capitol attack"
+    excerpt: "Security levels being ramped up significantly for Biden’s swearing-in as some warn of ‘persistent challenge over the next months’"
+    publishedDateTime: 2021-01-09T15:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/395d7f3363917ee974d8ea7076c4a32b6eca5a67/0_370_5545_3327/master/5545.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b3ddc2e38e3e2a69e70e732de6008c5"
+        width: 600
+        height: 360
         isCached: true
   - title: "With virus surging, Biden to speed release of COVID vaccines"
     excerpt: "President-elect Joe Biden will be taking a new direction to speed release of coronavirus vaccines when he assumes office Jan. 20"
@@ -358,6 +374,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iaWCd/kkhSYVP6Z8iIpsK8XVB3HTqidwXPkmoWGURiRDuqMPz4faSWlyb6d1PEKpJCNF72PoF41i/NuxMTMS+u36vvIdGSo997jze1IjhB+4FQnfBKW7hAnKFpgqW7Log9tctjSn4SZdTbDlb/6ZBoUDv2kRDISAXarwSZ5Ox9arW26RUfAf/owK6kDXEWIRX1trtvcnG8PE18qys8rPeCDhHC9vpGGi/NxeEzsUIAX+tNfmA6X3Sd+VrFqIGHMp2F32wJwUrAML9/QDf2/N/t9eb+DGMtvO1H3P/GqrwmtMERyoT8E9PPKg5a6BBJMstkidvZOpwUT3fYLfgGcN3t+fF1QTy87vc/OpmK9t7TM=;ZwaSDDtHWgHIiNQKt8O3Mg=="
+secured: "ppG9jREuK+dlEQybL87ExEexEjZpSlG3vWelFTdUwszOWMO8up97fJx39hCJOk2vTwUzBEmk7Po34X7krhCyXxDaJOq0pye6pC4pHv7HWmAZYikbtWTlkRxqQX3BnxmtDRxrFzMH7FCcUx2hOtXc6vEVOMHcFSQ5fyxyeLg+tuj7i1vpBh+0uKA4p1TbRWXAX06QxZW18Oficy2EonGr7KbcYsa1c9gXuh8kiO017l5vHt91tPECnsqmpbPscYKO8wA2Hh4wNRYKJOt4uluRQdiEf1anqqoknPhD6/CyEfiNeOUdPRYCEL46cuT/wqOf/wtJgi3ZovyKVuH/Ak+MXzWOfK8jzC9i1MGSc7DsB/s=;pB6REz3Si3/DQCJBpAwpCA=="
 ---
 

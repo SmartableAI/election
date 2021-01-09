@@ -68,6 +68,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
+    excerpt: "Sen. Lindsey Graham, R-S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\" "
+    publishedDateTime: 2021-01-09T20:30:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eF5_aCNUwxA/lindsey-graham-twitters-trump-ban-ayatollah"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech"
     excerpt: "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. "
     publishedDateTime: 2021-01-09T16:55:25Z
@@ -129,6 +145,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
+    excerpt: "S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\""
+    publishedDateTime: 2021-01-09T20:41:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "d05dxm15FsVbh2mjeE/8Lky5TgZk6UDQdR/NVtXQPbYxNvmj5J01o94vy+fviszXUAFRxFq24iZBPVDrzFW1UkZ9KXBrIB3TmiIcvN1al8+VsYf2HdqO4ULSJURy0lo3YNCD2ePf1Xag6/Oo/M0uDs7l5kcoM1lNRl+wBM7xE7rmt0a5VdAJ8Erfzn0a41mE4H7iZi5dfMS0U6oDxTiUf881G/K251zNBOK1TUtAZYlbzO4ou2bKjjQlPku5sd5RubJ9psc6h1sLwwTm+s0MetHflAaM0JiueVEEpaO8Y6x/sWbV63uEXh4LLnUH7A5QZ3vR8fGUs2vAMW9adHYBeGswUm54TJK2vSHyrXn7eKc=;Pg0uY1hDclVHRUZnpxQCxw=="
