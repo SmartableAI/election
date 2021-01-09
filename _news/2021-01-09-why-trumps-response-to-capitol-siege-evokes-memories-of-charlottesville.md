@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-ev
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here are some of the prominent figures spotted among the Pro-Trump insurrectionists who attempted a coup at the Capitol"
+    excerpt: "A March for Trump descended into extreme chaos at the US Capitol Wednesday. Few Trump supporters at the scene tried to conceal their identities."
+    publishedDateTime: 2021-01-09T16:27:00Z
+    webUrl: "https://www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff652ebd184b30018aad6d3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 508
+        isCached: true
   - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
     excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
     publishedDateTime: 2021-01-09T04:54:00Z

@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Iran foreign minister warns Trump 'fireworks will backfire,' as tensions escalate"
-    excerpt: "Amid heightened tensions between the U.S. and Iran, Iranian Foreign Minister Javad Zarif on Saturday warned President Trump that any \"fireworks would backfire.\""
-    publishedDateTime: 2021-01-02T16:40:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkB2d3g5suw/iran-foreign-minister-trump-fireworks-tensions"
-    ampWebUrl: "https://www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp"
+  - title: "'Hang Mike Pence' trends on Twitter after platform suspends Trump for risk of 'incitement of violence'"
+    excerpt: "Twitter has removed content from \"trending\" in the past when it violates its rules."
+    publishedDateTime: 2021-01-09T16:24:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLz_XV1i5oQ/twitter-trending-hang-mike-pence"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 184
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da8e2e81-5d8e-4402-af75-20071631d3d5/a53734ae-089b-4aba-b13a-78de4459ea84/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88c32963-7d82-4c63-a87f-29778a9c1abd/17c58895-f436-42cc-ac3d-f3b2bcb170be/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Iran foreign minister warns Trump 'fireworks will backfire,' as tensions escalate"
-    excerpt: "Amid heightened tensions between the U.S. and Iran, Iranian Foreign Minister Javad Zarif on Saturday warned President Trump that any \"fireworks would backfire.\""
-    publishedDateTime: 2021-01-02T16:45:00Z
-    webUrl: "https://www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions"
-    ampWebUrl: "https://www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp"
+  - title: "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'"
+    excerpt: "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed."
+    publishedDateTime: 2021-01-07T00:31:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da8e2e81-5d8e-4402-af75-20071631d3d5/a53734ae-089b-4aba-b13a-78de4459ea84/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump, others linked to Soleimani killing ‘will not be safe on Earth,’ Iran official warns"
-    excerpt: "President Trump and anyone else linked to the U.S. strike one year ago that killed a notorious Iranian general \"will not be safe on Earth,\" a top official in Tehran warned Friday, according to a report."
-    publishedDateTime: 2021-01-02T10:49:00Z
-    webUrl: "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns"
-    ampWebUrl: "https://www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/trump-others-linked-to-soleimani-killing-will-not-be-safe-on-earth-iran-official-warns.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Iran2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "9VQa2Q6Vy9pk8sdFOp/ylWMXLSIX9tHw5DlHf7YECZ8yY54vq4IuEcy/o6xDg5ZiVabRqQZWUeK47uC2ZFUx4Flcu6W0ynorX0+LcW671oCJq0gAyalKHvqWXfHLVzQT8YSNdDrS0AfYYJeUwoODl4eVfTzGmzNPxkQC9KPsW4IFpUFyk5F4R3zToHt9WNi6afckdm0ZUAxmo/ti/XQV+Kr06ibTIbBhUDwLp4hZaBM7nKyvv3EVf5lbpmhFalzKmKaE80PPQuHw5Mjl8izUioYeMEw8yHnhXMrkl1kf/psDtgQ0Brp0jJg3jBNIzMiZPCkUZCRC/Ov6LQCEXnjUf8XrCLfyRzG20yTWC6k9UQE=;99x7EFP9TCGZfNMrGYyRuA=="

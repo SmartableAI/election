@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
-excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops.In a posturing speech attempting to look enraged"
+excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
 publishedDateTime: 2021-01-09T13:45:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/08/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html"
-webUrl: "https://www.realclearpolitics.com/2021/01/08/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html"
+originalUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html"
+webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Biden vows to ‘get big things done’ after Georgia Senate runoffs"
@@ -83,6 +89,6 @@ related:
         height: 720
         isCached: true
 
-secured: "OY7qPE65F61jzOd8p4n7j28FnukFknjI24mSIwcHWHV3W0e25rj07AmQ1cKW0L3CuO7U1prtyTYpHEh6cbzPOhppWZ1IZTlFH80Okbel6QUj35Kvp8LnR41BvVsdTVghz3mNlmt5NjuIx5Ub/XwwBwv7kyA8hINMCCntNNJhz6HmQaPqQmzQIGBnaIf8FlIfnjQgQFsi6MTgrSfsTgLM8fmZjB0ZHhe+hY6XtcNzmsCjfGFF/XBOREXy2XI/5gxtUGdleEjLhIvhu8Bcs69sYiuCW1UhqsNVSanm2fWsng+nkmrCm7czrD/4wD0usN3xLLo17PHvY5OX9K/tPu78ruYUECkEsUTu0EEtz0uo0l4=;d7G24YOktzJJ3+ikXM9dyQ=="
+secured: "VtZzNj7xXB5kXsV0j6RC9wDASlypRnfuTM5o2W/EV4FjZGPVsz/74g29hOFFZpJJ/PB8N03OK7dAbRlWL3Fnaw6C26KzuJEE3HEaZ9AtecFGUgqfZMk7FhdMhA+I8ubwD8mNrxfS4NwOxBTEBcaWnyYuf5rlXAtt+TDLOerDTnCNPSZWncOL4VbVS03EJnGkDEH2nvqZ/8BYnz+5zwclcTnoHT9w0PD8dG70y2dmVH8gFoK6rjqCXDHY5HKeUoxkPxZbFPzKSbdekN1H2c1lwrhoLd3S2nUwaPqTdfhQ8AROgGyyxSsN9wZolGmvufII0aAccZzqtu1qX4V9KccV4sWqdOtX42pB8ySTjkpcjaE=;mWn2FBNagjJ8pshFDu3TOg=="
 ---
 

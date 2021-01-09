@@ -299,8 +299,8 @@ related:
     quality: 103
   - title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
     excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-    publishedDateTime: 2021-01-09T02:25:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUSKBN29D2K1"
+    publishedDateTime: 2021-01-09T07:27:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
     type: article
     provider:
       name: Reuters
@@ -310,6 +310,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547138064&r=LYNXMPEH0715K&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Twitter warns of more DC violence around January 20th as President-elect Biden expresses confidence his inauguration will be safe"
+    excerpt: "President-elect Joe Biden says he's confident about Inauguration Day security as warnings mount of more DC violence in the days before January 20th."
+    publishedDateTime: 2021-01-09T16:56:00Z
+    webUrl: "https://www.businessinsider.com/january-17-twitter-capitol-attack-riot-warning-biden-inauguration-security-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5ff90c07d184b30018aadeaf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
     excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
@@ -344,6 +358,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9dYORSjxAZUTdfX6UpvojGpT8mTUIPtfWiLx2c9H30JNTxiHBlXOW5P1IMr7OhqfdnWzc18+lsaYzT2eIWd1wZ+9T5hnN/hZ9qQrxIEqTD6rmJeuJZzC0U3tU1KU9dZJdjAq9iUJqn7oaCWHRbU42muO82uWt+8OPaAYi+9qQg9BGLR24n++bmeGJWZPDwIynoAIzavtJBoQ415nKJUKyqK9IhXUcITs+mAPhzBZfMM+TxB5qNK83WhyD+J7mem/xJTxGkkmmmoc7BlSeq9FsD/5mWOG0/qetKBM6IiczjqYIDfPI6q+xay3u7hPAJF+M6KE5CMbb/E83RM4ScAbf2eRkpKcDRGHkVEVD29guGg=;nHtqLF8keyQnD/je5k/9Kg=="
+secured: "7PVWgq9qRAzzAYXjBGYnRv6O4neTa9FQ4l39nLiY53JJI/przJ0b9fqyNFRBTNYpZ97kAKxrfbWjZPB6YAhtEuRsDH3Xc9GHkFyUjqvlbdoiOG4v6wYTz0h2a9XURGio08IWws5QOft725KMJ4NfrHDjEJmEmLq66vScSRQz6rQne8B/hPa8plqMvCYgMtOLL4IFVy0s2CkJDdYLIMeZP3CiSAiOOoDsidduemzD7rFSDDVzs10hR/BVfcFD+Q2wehYAW/zFVY23u/CF40TWrBMYfn4AOSDkl2lBgQ0DQSQiKxqca/3icIovSyrY3uZzv8EdBlB4oRLhBd+N3pEwKeEGHWpkGh0U4E1KPVS8pBU/Q5T3yagm/r7qkWfl77RkC0MfVstiID1CLBjXxo88ChSlrThK6xFzONTaFHaHHEMofDxuDHuF+rjzdZMdkCM8a6Rrq1lKx8TtKkq/8karWL8MQnGRZShO3XoghVjPl9DITtDLu8zNi1Mkpyz8LeVnZWlJlazSzumij2yS+0or/Q==;2TzD6yr2BL6ce++QS3M+1Q=="
 ---
 

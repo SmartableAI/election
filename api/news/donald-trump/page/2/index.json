@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-impeachment-again-ocasio-cortez-wants-it-but-democrats-say-no.md",
+      "title": "Trump Impeachment Again? Ocasio-Cortez Wants It, But Democrats Say 'No'",
+      "excerpt": "Cortez calls for Trump's impeachment following the leaked audio recording Omar also believes Trump's actions warranted impeachment Other progressives believe there is no time for an impeachment hearing Democratic Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
+      "originalUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
+      "publishedDateTime": "2021-01-05T19:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-white-house-denies-reports-trump-will-be-in-scotland-during-inauguration-after-scottish-leader-warns-golf-is-not-essential-travel.md",
       "title": "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel",
       "excerpt": "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,",
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -360,58 +412,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-gary-cohn-former-goldman-sachs-exec-and-trump-economic-advisor-is-joining-ibm-as-vice-chairman.md",
-      "title": "Gary Cohn, former Goldman Sachs exec and Trump economic advisor, is joining IBM as vice chairman",
-      "excerpt": "At Goldman, Cohn helped ingratiate the bank into the fast-growing corners of Silicon Valley, forging early relationships with startup founders",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1",
-      "originalUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff485816056b60018721f13?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
-      "publishedDateTime": "2021-01-05T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -991,7 +991,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1000,
+      "heat": 1020,
       "tags": null,
       "images": [
         {

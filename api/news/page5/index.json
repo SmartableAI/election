@@ -166,7 +166,7 @@
       "originalUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -431,7 +431,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1895,
+      "heat": 1955,
       "tags": null,
       "images": [
         {
@@ -621,58 +621,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-gary-cohn-former-goldman-sachs-exec-and-trump-economic-advisor-is-joining-ibm-as-vice-chairman.md",
-      "title": "Gary Cohn, former Goldman Sachs exec and Trump economic advisor, is joining IBM as vice chairman",
-      "excerpt": "At Goldman, Cohn helped ingratiate the bank into the fast-growing corners of Silicon Valley, forging early relationships with startup founders",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1",
-      "originalUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff485816056b60018721f13?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-names-gary-cohn-goldman-vice-chairman-trump-economic-advisor-2021-1?amp",
-      "publishedDateTime": "2021-01-05T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1311,6 +1259,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-kelly-loeffler-says-she-will-object-to-the-certification-of-bidens-electoral-college-win.md",
+      "title": "Kelly Loeffler says she will object to the certification of Biden's Electoral College win",
+      "excerpt": "Republican Sen. Kelly Loeffler of Georgia will oppose the certification of the Electoral College results on Wednesday, she said in a statement released Monday evening.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2qf_UerM4CU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2qf_UerM4CU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201124125657-sen-kelly-loeffler-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html",
+      "publishedDateTime": "2021-01-04T16:17:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

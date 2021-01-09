@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lehigh University rescinds Trump's honorary degree after Capitol assault"
+    excerpt: "Lehigh University has rescinded the honorary degree it awarded to President Donald Trump more than 30 years ago. The announcement came two days after the president encouraged a mob of his supporters who stormed the Capitol,"
+    publishedDateTime: 2021-01-09T16:36:00Z
+    webUrl: "https://www.cbsnews.com/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/68323e33-f902-440c-8046-816a9f064d68/thumbnail/1200x630g2/a60ea5ae729431f57336314793108ca2/gettyimages-1294907289-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters"
     excerpt: "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa"
     publishedDateTime: 2020-12-31T18:57:00Z

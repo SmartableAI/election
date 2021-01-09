@@ -2,9 +2,9 @@
 category: news
 title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
 excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-publishedDateTime: 2021-01-09T02:25:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUSKBN29D2K1"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUSKBN29D2K1"
+publishedDateTime: 2021-01-09T07:27:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
 type: article
 quality: 101
 heat: -1
@@ -311,6 +311,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Twitter warns of more DC violence around January 20th as President-elect Biden expresses confidence his inauguration will be safe"
+    excerpt: "President-elect Joe Biden says he's confident about Inauguration Day security as warnings mount of more DC violence in the days before January 20th."
+    publishedDateTime: 2021-01-09T16:56:00Z
+    webUrl: "https://www.businessinsider.com/january-17-twitter-capitol-attack-riot-warning-biden-inauguration-security-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5ff90c07d184b30018aadeaf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
     excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
     publishedDateTime: 2021-01-08T10:24:00Z
@@ -344,6 +358,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uSbNlvPwr7yApAB4f615bImL0FiBy7vZlT8O4BG58ItZyUv9fW7hlKDELkOPP73ZiReZopufurOmeioCNd4aEycPr4zyYD+gjuvjKe1wDbsKmfn39wi+Sydxigt4kNnjh3joisJ43kh/+Edi7RqVomcG77ZHcL7CDauw/fjPJu2HDS6GyLheY4iHjxD9gGAhQGw9thHBBw+wuo7IW2SkEqr/bfq+0pRwqEZgdWiMG6VEJb/jaK5OChzom8kIQTVOh70PoxI7HUTPrrReKPmMNDrvFaIjEVEZAS9oqKTok11aBzjj4Y++oHzmmS/TqrOQ4oMZNxFCLhnd0nDnETPoQ2Skc6aBmEzwXJQjncQgGovXxY27oewMh4Yzq29TBS6kf7/dX6axvln1RvuBob5FxnWSjoo+6mzWtdikcvZg12ThNoH0ISKFUUc5f9U1HtFv3MMQHw1nngfuzw78Sxbc7YWk/i0CZQ7R+BIS50Ikiz/IefE7bXQBa6TZNwumFY7hNsFF1YG26WdpJlAUxYqqUg==;qsWTSo42IIMX2Qdb10hePg=="
+secured: "DhHs9Vz6gtKNDeYvqQu+hL0OHoJ9YWtshU8c6e5TiO8f4PcjFqicuH9LttemcLgQn3XGwTKfXCp9iqsHI5hQ6xYshTgjVJck+ynxTjneCClp8Q/LhreEQDVU/yKC3LsoIe3uHWp9OaYyUk9gny8xoX0Qn5uIomvz/souLlfOQZl6WOxk5FkJryLc6K5aekM3h3R8ye1Y1HXL+W6VUJJFEpBTmRtv7BnA0yJPSA2m8moU8vlVjJSwcQ9ZYc6Tpb9XEesm7XIXUZmKkdFU8M4MB2Z7Cpqx2c/d/jooZDwNGs0iW4aMxQL2mVFrmwwj6sTEjKQwPZJkSlejP+MGaIzd766NnsAyG/sE47p7rZtcqXc=;TCLZlNQw7GRxesmMNXhLXA=="
 ---
 

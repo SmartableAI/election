@@ -2556,6 +2556,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democratic wins could strengthen Biden's legislative push"
+    excerpt: "President-elect Joe Biden’s victory in November was tempered by concerns that he'd face Republican opposition in the Senate that could stymie him at every turn"
+    publishedDateTime: 2021-01-09T15:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_be34efa831c140d7838226b3d1aa8d8f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Dominion sues Trump lawyer Sidney Powell for defamation"
     excerpt: "Dominion Voting Systems has filed a defamation lawsuit against lawyer Sidney Powell, seeking at least $1.3 billion for Powell’s “wild accusations” that the company rigged the presidential election for"
     publishedDateTime: 2021-01-08T16:36:00Z

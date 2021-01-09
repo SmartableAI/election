@@ -2569,6 +2569,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democratic wins could strengthen Biden's legislative push"
+    excerpt: "President-elect Joe Biden’s victory in November was tempered by concerns that he'd face Republican opposition in the Senate that could stymie him at every turn"
+    publishedDateTime: 2021-01-09T15:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_be34efa831c140d7838226b3d1aa8d8f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Dominion sues Trump lawyer Sidney Powell for defamation"
     excerpt: "Dominion Voting Systems has filed a defamation lawsuit against lawyer Sidney Powell, seeking at least $1.3 billion for Powell’s “wild accusations” that the company rigged the presidential election for"
     publishedDateTime: 2021-01-08T16:36:00Z
@@ -4534,6 +4550,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "f+35jTQAfh8xgmQF/vpIC3SVJUf4WXKRK7N0NKyeci+XfsqSLzGe3QMKxG5dDbNavW41+6Ei2txr+scDRQMEHiNIYdS0zr6Skq/L4Y/6S9S8gqdT8vFCQAALzIPbEe9htiSPL1vdmzIkU529Q4d7Xt0SyQz2cdNoeAj2fwY2n0l4OZyF2q9gqx82tsriPL/tZkNLLi/Ehg8Lxj6RMegw/Ewl9POIg51YUiY/W/0DrMJXhCIiS8akx9JmOTNhWE4WhJDEu/yARsyol2vWgqCZ+A5KfTNJ4QvBMs9o9FwAlMEi4jRcLWEchTOmhBEbjW+ntCYvz01gUDUusrf+BLYnOwWUPCaPD/2mmkKsLpt7YXM=;jdJrNi9Li8ShfLz6W3PWVg=="
+secured: "9TCcp0T6gNXTn6mPqqLbVk/emDnkykxe6f6FFvM4EmkseuCUr3FFC0ySPX1VJvifqHxcz63Z4K1c/ZGrAM+LpuWRb1UxZuGuLFKb9+R766Q/mT44lpHva2vvBoT3Le67QsCOpUyZ/5axMgz09ni2T+y4fUqR9fceToq8OWnu16bmD9TXP0AcWOk/RqQ0/I0VPodBRHxGjhLD6qlcNxD+Ioukvd15xch9tWqNrXD2OzdmUV3R9oHTvO1B+HJn9Cae2zVyd/ptOdW7bIh9gYqOovcOFH1WxhoDINUpayYQ32EUPmESLKFxaBHc/jW7Hd4R2P15Hv85Gzk9wCrUoF3xrZ3jUG0rbH8wbMcCAfD+YGelPur349xJp3oy0NaJDRyqVmThZ9lzzZFGwkPhJY29hEKZdaIKsaTU7cqL1JnLfQ+Dr9LISRpUe1jbONBkwFTGGJ19frYLU9AlNPRCwlQvC5/PUOcqcRM71LgYdB928vAv2D3wyOYpS8NPS4vUUULEDesjn0Gx/kugJMbAgX9Qmg==;Y+cO9AzwZCdCuS9mvh4nbA=="
 ---
 

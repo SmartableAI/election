@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/International/trump-rt-rc-210106_1609954638505_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Lehigh University rescinds Trump's honorary degree after Capitol assault"
+    excerpt: "Lehigh University has rescinded the honorary degree it awarded to President Donald Trump more than 30 years ago. The announcement came two days after the president encouraged a mob of his supporters who stormed the Capitol,"
+    publishedDateTime: 2021-01-09T16:36:00Z
+    webUrl: "https://www.cbsnews.com/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/68323e33-f902-440c-8046-816a9f064d68/thumbnail/1200x630g2/a60ea5ae729431f57336314793108ca2/gettyimages-1294907289-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."

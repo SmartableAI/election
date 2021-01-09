@@ -559,6 +559,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump supporters ditch Twitter en masse after president's suspension"
+    excerpt: "Some users noticed that they had lost followers on Twitter shortly after Trump's suspension was made permanent."
+    publishedDateTime: 2021-01-09T16:26:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TMQMZNueHKU/trump-fans-ditch-twitter-en-masse-after-presidents-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Twitter-suspended-thumb-blue.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump. "
     publishedDateTime: 2020-12-31T18:32:08Z
@@ -782,6 +798,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb5e7ef-c511-4f9e-8b7f-01b5b52267da/5c3f2a9d-56e0-4a81-b6dc-dc0d26de28c6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Twitter allows ‘Hang Mike Pence’ to trend hours after Trump ban"
+    excerpt: "Twitter allowed public calls to hang Vice President Mike Pence to trend on its platform Saturday morning just hours after the account for President Trump was permanently suspended for inciting"
+    publishedDateTime: 2021-01-09T16:29:00Z
+    webUrl: "https://nypost.com/2021/01/09/twitter-allows-hang-mike-pence-to-trend-hours-after-trump-ban/"
+    ampWebUrl: "https://nypost.com/2021/01/09/twitter-allows-hang-mike-pence-to-trend-hours-after-trump-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/09/twitter-allows-hang-mike-pence-to-trend-hours-after-trump-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 160
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/210109-twitter-trends.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump deletes Capitol tweets that sent account into lockdown, will regain access after 12-hour suspension"
     excerpt: "President Trump has deleted three tweets that sent his account into lockdown Wednesday night, a Twitter spokesman told Fox News, and he will have the ability to tweet again once the 12-hour lockout is complete."
@@ -1086,6 +1118,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af96457e-fe5b-4fb8-ba03-20cfe1da89e3/b261a395-51b1-47c7-934b-03d1913816b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump supporters ditch Twitter en masse after president's suspension"
+    excerpt: "Some users noticed that they had lost followers on Twitter shortly after Trump's suspension was made permanent."
+    publishedDateTime: 2021-01-09T16:42:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Twitter-suspended-thumb-blue.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump."

@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Here are some of the prominent figures spotted among the Pro-Trump insurrectionists who attempted a coup at the Capitol"
+    excerpt: "A March for Trump descended into extreme chaos at the US Capitol Wednesday. Few Trump supporters at the scene tried to conceal their identities."
+    publishedDateTime: 2021-01-09T16:27:00Z
+    webUrl: "https://www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff652ebd184b30018aad6d3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 508
+        isCached: true
 
 secured: "WqR436DbjBkn9VDTP6rEuM1o0vKAq6HlsPTbkKN3bXiUpuUsTM/V79PHNhjt5uhj2L0+S9YVPtANsKnrdB0TWVJQfnKIGRbHFqUTPlLuH/I/cQddWHWfjbFS9VV+1ZrKWP6J4vi4ePr0T/RVXc48m110/um/LWIon2BnQPWfJKkbjZ3kUrwtDCLGMXtwDTz/xPVzxXmvoFzO6eqgR/zahuRSh5sD+CnJodP3F4TBnh8lq11JzdYGa3jv43T1hdBsWEbGLQD4eLxZW/jQtBmfMe7/+c/vE/87NOjChRdZqRgJGZH+5ubH7nPGemyPyvhuaqYf/UMRXoSL81eGknGHCCNjG87KHCby34IU/sjv5fo=;ZbqduKUQ1XMUVX2i3AHoDQ=="
 ---

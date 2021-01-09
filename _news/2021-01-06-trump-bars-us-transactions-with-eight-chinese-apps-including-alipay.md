@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A2PA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://i.insider.com/5ff06619a18a450018cb6826?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Increasingly Isolated Trump Threatened With Second Impeachment"
+    excerpt: "US Democrats on Saturday were readying for an unprecedented second impeachment of Donald Trump as the defiant president showed no signs of stepping down after the deadly violence at the Capitol. Democrats said impeachment proceedings could begin as early as Monday -- an extraordinary acceleration of a process that historically has taken weeks,"
+    publishedDateTime: 2021-01-09T16:06:00Z
+    webUrl: "https://www.ibtimes.com/increasingly-isolated-trump-threatened-second-impeachment-3118038"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
+        width: 1024
+        height: 695
         isCached: true
 
 secured: "2+jfHMKYFj1qBRO9JjiEC5aPQ2WIleZK0Ety8IUWNNB1yQXB0/NjjQJbWSfvNhPiRnXc3TltX2TF1TQL+GazaCiY1uBe1eloB/ypalxJREs8oazRt4eMAsQmMgBQYY+8GDi68wh+mrnLj0d6jldR+ItwXUr0D9QV5UR1wvYcuxdJjkPxvK+3azVO4ZTBU5vHBaukIcb6xkDgp1HQGKDSldeff0h4XG0TPoznvOdr7h/Yb9jmURfwwWD9fGH+byBvbHHqjZpWI5b7g8BunaBjFmBJbnw3G9RFrbEUa7SIFa8Ii4e5zXkviU7vruaBBZ63ay1U+CyfVk2Z+pLoNJILvkVSXogOl40JFjdEPeiYqyc=;HEtgn3EiHKhvVdyYPZ7LuQ=="

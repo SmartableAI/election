@@ -299,8 +299,8 @@ related:
     quality: 103
   - title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
     excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-    publishedDateTime: 2021-01-09T02:25:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUSKBN29D2K1"
+    publishedDateTime: 2021-01-09T07:27:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
     type: article
     provider:
       name: Reuters
@@ -310,6 +310,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547138064&r=LYNXMPEH0715K&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Twitter warns of more DC violence around January 20th as President-elect Biden expresses confidence his inauguration will be safe"
+    excerpt: "President-elect Joe Biden says he's confident about Inauguration Day security as warnings mount of more DC violence in the days before January 20th."
+    publishedDateTime: 2021-01-09T16:56:00Z
+    webUrl: "https://www.businessinsider.com/january-17-twitter-capitol-attack-riot-warning-biden-inauguration-security-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5ff90c07d184b30018aadeaf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
     excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"

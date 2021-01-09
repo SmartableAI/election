@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,79 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Nikki Haley says Trump Twitter ban is 'what happens in China'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China."
+    publishedDateTime: 2021-01-09T15:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Squad member compares Trump Twitter ban to capture of Saddam Hussein"
+    excerpt: "Rep. Jamaal Bowman, D-N.Y., reacted to Twitter banning President Trump from its platform by posting famous video footage of a U.S. official announcing the capture of former dictator Saddam Hussein during the Iraq war."
+    publishedDateTime: 2021-01-09T00:56:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiIDSvmekpA/squad-bowman-trump-saddam-hussein"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a8cc832-1224-4756-9784-64460e49561a/449753bf-51eb-45ab-a876-ea038b0ab169/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump a Twitter rival? After ban, president says he's in talks with other platforms -- or may launch his own"
+    excerpt: "President Trump on Friday said he is considering other social media platforms and may even create his own after he was banned from Twitter in the wake of Wednesday's U.S. Capitol riot."
+    publishedDateTime: 2021-01-09T05:59:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USYuHRIz2qM/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/trump-twitter.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "As Trump's border wall tops 450-mile goal, CBP chief says more wall is coming"
+    excerpt: "The Trump administration on Tuesday announced that the number of miles of wall at the southern border had topped 450, a key election promise set by President Trump – with a top official saying more wall construction is underway."
+    publishedDateTime: 2021-01-05T18:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnWntiRONo/trumps-border-wall-tops-450-mile"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
+    excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
+    publishedDateTime: 2021-01-09T14:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_ban_of_president_trump_proves_twitter_not_just_a_platform_533042.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "zQPbxWNp1HA0rdMvSjet6d9dqdPtrttBem4XQUWYkh5H146/zDYoZ75z9PA3RmRvsV8UkjfHSd5a6LVUNPz+177O8EnGWbBA5nUkxFFwxxByldBpuOpd6WPLy4k3zfBj/0lIFzFiMxx8memcWyUdve39tD5fRsozFWHXf+zpxKGGqysOWFPzWfvEW8z6i7iLcGUUNUbdFdE2l+Zz1I404ejjrWBkpxlaEgZjH6iEh6TAICx2W8hcIhcNi8BykH80Da97/tGDUcCq1yM9GGOIzYv+kCAPc8kViwoOxIAEIigHIA943Kob3IwGGA5W4eo65sz/tHa6Pgs4WZMEHu20hR7P1j1oR9RziByj0whQkLo=;sYNraDs6eOlYK79DVnYAAg=="
 ---

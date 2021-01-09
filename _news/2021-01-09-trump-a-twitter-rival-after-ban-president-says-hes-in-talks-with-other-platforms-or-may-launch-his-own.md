@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nikki Haley says Trump Twitter ban is 'what happens in China'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China."
+    publishedDateTime: 2021-01-09T15:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Squad member compares Trump Twitter ban to capture of Saddam Hussein"
     excerpt: "Rep. Jamaal Bowman, D-N.Y., reacted to Twitter banning President Trump from its platform by posting famous video footage of a U.S. official announcing the capture of former dictator Saddam Hussein during the Iraq war."
     publishedDateTime: 2021-01-09T00:56:01Z
@@ -47,6 +63,45 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Haley tells GOP not to ‘shy away’ from Trump-era gains, but calls his recent conduct 'deeply disappointing'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Thursday hailed the “extraordinary gains” for the United States during President Trump’s time in office and warned Republicans not to “shy away” from them -- while at the same time calling his post-Election Day conduct “deeply disappointing.”"
+    publishedDateTime: 2021-01-08T02:29:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CuZvPr02aUA/haley-gop-trump-era-gains-conduct-disappointing"
+    ampWebUrl: "https://www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5850a575-b1ba-40c2-b8ec-86539591b249/df0f5648-1d79-460c-aad0-95e350db5c48/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "As Trump's border wall tops 450-mile goal, CBP chief says more wall is coming"
+    excerpt: "The Trump administration on Tuesday announced that the number of miles of wall at the southern border had topped 450, a key election promise set by President Trump – with a top official saying more wall construction is underway."
+    publishedDateTime: 2021-01-05T18:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnWntiRONo/trumps-border-wall-tops-450-mile"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
+    excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
+    publishedDateTime: 2021-01-09T14:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_ban_of_president_trump_proves_twitter_not_just_a_platform_533042.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "cefevNin1qPfdQH8T/eq9eaX7uUtqf+ualhsNXa50tZmZKyXTKnBGm+fcvSKez7MjBnOA24Q4b+4ecjguwu4reg+bFwEZarzTlU70Fmro302OWsBzJ5ucTiQOnLDnp/pTtTPp3mmcqVboq9vSakqEslZJyZvkqMmM1KVMGMiClpBWWCbEMLLW50pmI4S96kZQOrPMFSxSDuxslhJcABBaI7VPXeydtwvPapAFmsiBAATt/D+aBSpboxXGEViZhYttihyTY5tUcE/4Lpw8P3VjRjjQapwK36qkaA+dFNWPC220dOwVkfGhpMbThtcOveh2/zXQzxrIFizTvNqj1R3ZtsFIr5CaLIEHb0AfOyFhzY=;Wtw9vdVDFKvBLUqk6TBFFQ=="
 ---

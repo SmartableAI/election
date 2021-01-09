@@ -598,6 +598,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "The NBA responded to Donald Trump-fueled Capitol rebellion with continued conformity"
+    excerpt: "In the aftermath of Wednesday’s seditious riots in Washington, D.C., two moments embodied the shortcomings of the nation’s response to the moment, and the limitations of polite reproach."
+    publishedDateTime: 2021-01-09T16:41:00Z
+    webUrl: "https://www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 68
+    images:
+      - url: "https://www.nydailynews.com/resizer/-wYVpAA1coBJZbUXehjSL_Ag4_8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7NEFLZHZBJTL5NL4H3ZOHVZ37Q.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
     excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
     publishedDateTime: 2020-12-30T20:19:00Z
