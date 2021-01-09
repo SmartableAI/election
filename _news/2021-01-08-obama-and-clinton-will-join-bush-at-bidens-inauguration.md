@@ -493,6 +493,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Impeachment threatens to derail Biden transition"
+    excerpt: "JOE BIDEN told reporters on Friday that he was leaving to Congress the decision of whether to impeach President DONALD TRUMP for a second time. But lawmakers’ decision will alter the course of Biden’s transition and presidency."
+    publishedDateTime: 2021-01-09T00:03:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/08/impeachment-threatens-to-derail-biden-transition-792683"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "H2hIQ8sh60pFXVYGjBOsofShbSpj1n4LAHrCMcMpG3rPW29bofe+G6TQHXt4F2Y3b+Z5TKwLalZl36sBOXW/PkZIDtFlPgcaRH9gFdcg9XCBsAqgCQpOnWqpS36csQB5phJ460o4mP7fMuaPyErE0IEpEntbVe7tPrEFlx/12JayToI2bUlli3/7W6/lqTQf5gMJcyXpTXITTn2ZKIaE3ZpoYOhUwEcinDg9LqyqbSyz4+CbKvTfJAGSC9fINAhtkizPbj+JEKxl066TDioS4nxFHrcaKjbURenpXV+FJHGwgpB/wKD+tiue2GRvR1t+dLdb8vy4KvdO3wLa0pPO6Azv9HCwJKTrYYBAq81ggrg=;wohnm8ryK4WS2K4LHrrZVA=="
 ---

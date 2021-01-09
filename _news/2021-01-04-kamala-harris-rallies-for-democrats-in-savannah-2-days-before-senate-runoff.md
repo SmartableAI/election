@@ -256,14 +256,14 @@ related:
     quality: 55
   - title: "Kamala Harris: 'We are going to be inaugurated'"
     excerpt: "U.S. Vice President-elect Kamala Harris and her husband Doug Emhoff visited a restaurant in Washington, D.C. on Monday night. Harris said they were there to show support for small businesses,"
-    publishedDateTime: 2021-01-05T19:18:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
+    publishedDateTime: 2021-01-05T18:16:00Z
+    webUrl: "https://omaha.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_ac8d86b2-75fc-5b09-8fa0-5a00639b74c8.html"
+    ampWebUrl: "https://omaha.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_ac8d86b2-75fc-5b09-8fa0-5a00639b74c8.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_ac8d86b2-75fc-5b09-8fa0-5a00639b74c8.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 55
 
 secured: "OUHPk9IWcf59vfurwdDnR8zq61G2ktGzTNF4pcaCgSHeeUs+I+0qBKOV1NM0Na+jwNCEqZUvXADAl+bC0RZL+mjtqdks4mxCvCkOhYRZubOKx+Qx2jO31e4G1fHjKF4yM+RLX+IpRdt4JDK3+4t/QveqBjRoxNnKQoIkb4sAvN2u4+lNSQo7kdyF8FW8mb4rZ8GClDAFOgNGKa94L0f2S0AZkNZPKDvaDsnMxaRl69bdf9eI/GVRtH+p2t2I5yP2NrMrTukSx1wCP7W4I4w9u7JMmJgn+k34m4+F++oyc9+jSBWVIEq1OJI6U42U4SIPZosudSEcyrmRj/SafocqnzuanySTh+fjqeh8bfvsV7c=;fluUeuteqOXOfXAgL22IKg=="

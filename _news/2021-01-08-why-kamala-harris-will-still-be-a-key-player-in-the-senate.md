@@ -107,19 +107,33 @@ related:
         isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
-    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248310295.html"
-    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248310295.html"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article248310295.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248310295.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248310295.html"
     type: article
     provider:
-      name: SanLuisObispo
-      domain: sanluisobispo.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 70
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
         width: 1197
         height: 720
+        isCached: true
+  - title: "Arts agency member resigns after vulgar comment about Harris"
+    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
+    publishedDateTime: 2021-01-09T00:51:00Z
+    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
 
 secured: "Uyr+QSCmTHd+/vhspljUE6K+SpHnGEOOisb0ZqqcQdFU68sXTuAmpIQBB3KP0IkaGQZcqnNhZcJfI79Umt9yuK+MxUstDhZox9Pl2qQ55srBAlIKNlp/iZlDv7Aqq/N7yoe9+Ukv/Z0YGjHcssyncegiXsd5iuDy84MlyNUf4ENaGr+Dh3Q6aZc1OqwTjJrq7GSu/u5N0/wKcsIYwPMvk8se/9eecIhlpUCO2arTBkd8MirZ6ax9uaYz3UIwcvVhwsKn8dz5k5AcWGgWVPZYE8Nn7CHvDLU65Sqw6w0EhChEwzbj1p2+XJjGfdqEzaL6a+t6RDs1HYAOYbNm2UYKBXp/7qaFQ4xWGFiiBdvcqhaBjTCMMYAjGr3eU/f3TU9DyHMmtsGpRqWDpF+JJh66+ok8ZOVENLGLZyR9f8y8ddkMpW3ZEwt765veYwBczmHn45odURAR3Caj6GWbEnMQOIcGm92+Exe8ujq8Ulb1vQWp2iICseb2mUeS+tGq+mMMpp+jvT45Ex8TmvSifAgeag==;EoHveXr3I7qWwiGLJmxTLQ=="

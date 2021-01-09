@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-09-donald-trump-gets-clobbered-again-by-randy-rainbow-parody.md",
+      "title": "Donald Trump gets clobbered (again) by Randy Rainbow parody",
+      "excerpt": "What happens when Donald Trump meets “Fiddler on the Roof”? Find out in the latest Randy Rainbow parody music video, “Sedition.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
+      "originalUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/RAINBOW_LIST.jpg?w=977&h=675",
+          "width": 977,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
+      "publishedDateTime": "2021-01-08T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-coming-clean-i-made-an-error-in-my-otherwise-admirable-column-on-donald-trump.md",
       "title": "Coming clean: I made an error in my otherwise 'admirable' column on Donald Trump",
       "excerpt": "In my column Wednesday I wondered how President Donald Trump could possibly rate as America’s most admired man in a recent Gallup Poll when he exhibited only",
@@ -1151,7 +1194,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5748,
+      "heat": 5828,
       "tags": null,
       "images": [
         {
@@ -1493,58 +1536,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-legal-problems-campaign-reaches-settlement-in-assault-case.md",
-      "title": "Trump Legal Problems: Campaign Reaches Settlement In Assault Case",
-      "excerpt": "Rod Webber was twice attacked at Trump rallies, the second incident netting him thousands in settlements from police and the campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
-      "originalUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
-      "publishedDateTime": "2021-01-05T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

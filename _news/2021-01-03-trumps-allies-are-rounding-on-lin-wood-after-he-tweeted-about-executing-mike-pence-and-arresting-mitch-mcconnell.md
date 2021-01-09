@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
 type: article
 quality: 129
-heat: 489
+heat: 509
 published: true
 
 provider:
@@ -317,6 +317,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mitch McConnell says, accurately, that Joe Biden’s win wasn’t unusually close"
+    excerpt: "In a speech before what he called \"the most important vote I've ever cast,\" Senate Majority Leader Mitch McConnell, R-Ky., rejected challenges to the validity of Joe Biden’s victory in the 2020 presidential race."
+    publishedDateTime: 2021-01-08T22:38:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/08/mitch-mcconnell/mitch-mcconnell-says-accurately-joe-bidens-win-was/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 52
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-true.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "ZqQ9wjxGf8IJHCSAlqEQvc0OIzG197b5DbDdXdmw1Vn6VY4LgVkCAW1aqSzdWcrmxIHVocKDuLlonJG7d8e15gVnrYkmArh9c/X1ytHeZVpTZoNqM+X7XjzlhSZfjS2WW6g2Kxliv6WE8ZkyCvnjdKHlERNA9v29zRkgvLyA7ihoDkylBnptL/61VysNa4YVj/B7qPlTmNgUkN9RFRgEeF9V5SztG4Pc8xcxnj1vdz07sKYGAeqjrmzvwNbmAKd0YwdqbS868eEQA1DgUhEtIT4ez60xh7d/UxtJoeQJlWhkFykjgaSmm8282T5y77d8zBKCZOYwshuogvylAqW6yssV3CSwKS40ZVilzTNqoupTaz+w94M0DdtV9Tc4aVKwOR94rCR4ElUzNn5UavtGAzVQ6bWXrJ5RgI9aC9SLsggtn5Hq1EssUAqmGFBfvqYYIaTVzbd4Irpla5WSAy2ymm3xutl/Y3TJSdQgOfTrZzz4/6oDGAYBUY+y7GPZf4XN3Q5xfgqGQrvzA92ch1EMeA==;tN6YGL7p6aG+044czQ2d5g=="

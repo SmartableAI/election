@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
-    excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
-    publishedDateTime: 2021-01-03T06:26:00Z
-    webUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "John Cornyn says he won't join growing number of Texas Republicans planning to object to certification of Joe Biden's win"
     excerpt: "The state's senior senator said Tuesday he will not object to certifying President Donald Trump's reelection defeat \"based on unproven allegations.\""
     publishedDateTime: 2021-01-05T18:43:00Z

@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-has-selected-judge-merrick-garland-to-serve-as-attorney-general-politico.md",
+      "title": "Biden has selected Judge Merrick Garland to serve as attorney general - Politico",
+      "excerpt": "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S",
+          "width": 765,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29B2C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8",
+      "publishedDateTime": "2021-01-06T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-the-latest-trump-tells-very-special-protesters-to-go-home.md",
+      "title": "The Latest: Trump tells 'very special' protesters to go home",
+      "excerpt": "The Latest on Congress’ tally of the Electoral College vote won by Joe Biden and of protests near the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.html",
+      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/b7/0b713209-3425-5ae1-89a1-343d1583087a/5ff60dc3ce5ed.image.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html",
+      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html",
+      "publishedDateTime": "2021-01-06T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-joe-biden-denounces-violent-mob-at-us-capitol-this-must-end-now.md",
+      "title": "Joe Biden denounces violent mob at U.S. Capitol: \"This must end now\"",
+      "excerpt": "\"This is not dissent. It's disorder. It's chaos. It borders on sedition and it must end. Now,\" Mr. Biden said in remarks from Wilmington, Delaware. \"I call on this mob to pull back and allow the work of democracy to go forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/06/4a0dacba-5664-4bc2-8abb-160ed5515e4e/thumbnail/1200x630g2/e89a4d7f2cabe36860293e73fcb1fbc4/ap21006764485081.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "publishedDateTime": "2021-01-06T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-biden-vows-to-get-big-things-done-after-georgia-senate-runoffs.md",
       "title": "Biden vows to ‘get big things done’ after Georgia Senate runoffs",
       "excerpt": "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”",
@@ -381,7 +528,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5748,
+      "heat": 5828,
       "tags": null,
       "images": [
         {
@@ -759,7 +906,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 262,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -1071,7 +1218,7 @@
       "originalUrl": "https://www.newsweek.com/fact-check-will-mike-pence-not-preside-over-electoral-college-certification-1559132",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1144,168 +1291,6 @@
       "ampWebUrl": "https://nypost.com/2021/01/05/iran-reportedly-asks-interpol-to-arrest-trump-over-killing-soleimani/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/iran-reportedly-asks-interpol-to-arrest-trump-over-killing-soleimani/amp/",
       "publishedDateTime": "2021-01-05T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-gary-cohn-former-trump-adviser-joins-ibm.md",
-      "title": "Gary Cohn, Former Trump Adviser, Joins IBM",
-      "excerpt": "Mr. Cohn will serve as vice chairman and member of company’s executive leadership team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
-      "originalUrl": "https://www.wsj.com/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-280713/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554",
-      "publishedDateTime": "2021-01-05T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.md",
-      "title": "Trump puts pressure on Pence ahead of election showdown in Congress",
-      "excerpt": "President Trump is turning up the heat on Vice President Mike Pence on the eve of a joint session of Congress that is all but certain to certify President-elect Joe Biden’s Electoral College victory over Trump. But regardless of the president’s turning up the volume on his vice president, White House",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzx2-yxgPjk/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1855,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp",
-      "publishedDateTime": "2021-01-05T10:50:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-asks-judge-to-toss-niece-mary-trumps-conspiracy-laden-lawsuit.md",
-      "title": "Trump asks judge to toss niece Mary Trump’s ‘conspiracy’ laden lawsuit",
-      "excerpt": "President Trump says his niece’s lawsuit against the family is full of “conspiracy theories more befitting a Hollywood screenplay” — and all just part of a plan to make money off of the",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
-      "originalUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/AP20268626599228.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
-      "publishedDateTime": "2021-01-05T10:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",

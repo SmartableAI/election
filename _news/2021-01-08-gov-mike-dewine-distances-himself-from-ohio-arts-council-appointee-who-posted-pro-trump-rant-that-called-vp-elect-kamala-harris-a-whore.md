@@ -29,14 +29,14 @@ images:
 related:
   - title: "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'"
     excerpt: "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block."
-    publishedDateTime: 2021-01-08T14:15:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/01/08/susan-block-toledo-blade-owner-backs-conspiracy-theories/6591724002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6591724002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6591724002"
+    publishedDateTime: 2021-01-08T14:25:00Z
+    webUrl: "https://www.dispatch.com/story/news/politics/2021/01/08/susan-block-toledo-blade-owner-backs-conspiracy-theories/6591724002/"
+    ampWebUrl: "https://amp.dispatch.com/amp/6591724002"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/6591724002"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: Columbus Dispatch
+      domain: dispatch.com
     quality: 61
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/08/PCIN/da308e81-ba64-4a2f-b962-45b9cc4c8cee-block_headshot.png?auto=webp&crop=415,234,x0,y67&format=pjpg&width=1200"

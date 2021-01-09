@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris: 'We are going to be inaugurated'"
 excerpt: "U.S. Vice President-elect Kamala Harris and her husband Doug Emhoff visited a restaurant in Washington, D.C. on Monday night. Harris said they were there to show support for small businesses,"
-publishedDateTime: 2021-01-05T19:18:00Z
-originalUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.html"
-webUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.html"
-ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_7e5e635a-8531-5573-8811-6253e84d6ea7.amp.html"
+publishedDateTime: 2021-01-05T18:16:00Z
+originalUrl: "https://omaha.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_ac8d86b2-75fc-5b09-8fa0-5a00639b74c8.html"
+webUrl: "https://omaha.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_ac8d86b2-75fc-5b09-8fa0-5a00639b74c8.html"
+ampWebUrl: "https://omaha.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_ac8d86b2-75fc-5b09-8fa0-5a00639b74c8.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/kamala-harris-we-are-going-to-be-inaugurated/video_ac8d86b2-75fc-5b09-8fa0-5a00639b74c8.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Election
@@ -265,6 +265,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jdIvIkC0goRFDd4+y8YgVA4oG4dq0m1kR9pONHg4qX2PCANSO3NAY4VVkuA9bWAG/lom5r57gm095tgJZvqFm26Wt5UeK8yKuL4mzub6A9WKjVxcLXT01mlCJcjI8iKS19GFfBRjPuMaCnCnx8HCOEzN3IamN8CmjyCjInGQhAduqc1aNTVOfy2fZat5Ni63tDRNe3myyLeNGTQ7UNISajqpX57t1IM+2dgsNhP/37LH/cGjd1FyATwKF4mUkDvOqo1raDaRQJMyL9ae68XGirQ3Ic7hF0CMCWlY/u/sYJ7Auxi4v8skHY8FEvEIZJWi+JTiIqoGOEGJVcRFgQRvxyF1lUYNr/B+1zsIABafsaacDTfpBwHTXathv+fjwci1Xkl5j61/pojxQyIdoO1xHkYB61o/VHq2g25+nsPvRw/xFH/ZE5PB6c7FfFLd6gbp8WbxuVp5rSpCkMaxyf0qHLRL8CF1esWy8+EBmCb+mc0IAq85123Lmec52/z6Q1LXi9vthnjnAEUqALiQy5f4tg==;XoIs7LR+6rc3wAflQKeHeA=="
+secured: "WMBcSExG0XqzH9i1p5s0TJLNRL6b80CJpIL+xP5pjDBS14Ibp+vk1Il4HZd5MqZpIrsjm3694pgPLDVC7PsL1O1F7VfcDz8zJCDlb/ymMRORhGjbJTDmOQPWgz9TY+0PGzv2GjvdbDckUxGZhqGIKH4pLsbNomqb/oXcgqSUHWMfZHxZVIhE0r0XlE+bwxBPuOWr6bi659I4KblMIM1p7kGZKq/BDDyqNXIxPFJKAUAcEZfmRahimj4FioI42/EzWhp61/ApakaLYayHPpzZCpDfEJ9eVsklpKPmAiv7RqyUxeyt7uZcvNoYoKqlJG/C+xk5Vsp2PKXP95IFsb9dVIZVAfFz/rHE73u7JXXbL+XltmTzopBTumvQLh9xqd2wvc7YW2+8DAigsEYEnHlfQpbi4Q+EmBkuH+fR4ErK3FIytC90ey5AW0up0/DTbjEIdpoUP1UR6R1JM4FFPz0p1j5MJPhkCPDDz/19e/YGmyEUUFVRiEGgWVUbmKuTidVvbWR908g+mYfK7k5j0zMPWw==;XElX1xdh1O2sAhC6YSlvJA=="
 ---
 

@@ -220,6 +220,20 @@ related:
         width: 1440
         height: 954
         isCached: true
+  - title: "Biden says labor secretary will encourage unionization"
+    excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
+    publishedDateTime: 2021-01-09T00:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547146046&r=LYNXMPEH071A2&w=800"
+        width: 800
+        height: 601
+        isCached: true
   - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
     excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
     publishedDateTime: 2021-01-08T10:24:00Z

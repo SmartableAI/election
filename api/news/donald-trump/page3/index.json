@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-01-from-covfefe-to-the-mooch-10-funny-moments-from-the-trump-presidency.md",
+      "title": "From covfefe to the Mooch: 10 funny moments from the Trump presidency",
+      "excerpt": "Amid four years of corruption, caging children and trashing democracy there were some light-hearted moments – no really",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/76465e089e54707c797f297b9ad6992732765620/0_0_3465_2080/master/3465.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=989b841aea1fe87f1b98431a116acc58",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "publishedDateTime": "2020-12-31T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-trump-reportedly-lashed-out-at-kushner-over-increased-covid-19-testing-im-going-to-lose-and-its-going-to-be-your-fault.md",
       "title": "Trump reportedly lashed out at Kushner over increased COVID-19 testing: 'I'm going to lose, and it's going to be your fault'",
       "excerpt": "Trump reportedly told Kushner, \"I want to do what Mexico does. They don't give you a test till you get to the emergency room and you're vomiting.\"",
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-prosecutors-have-mounting-amount-of-evidence-against-trump-michael-cohen-says.md",
-      "title": "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says",
-      "excerpt": "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/24/914512ec-439b-42dd-a227-685aaa671d68/thumbnail/1200x630/081f1dacbf03b1eaddf486ed306c8c8b/cbsn-fusion-michael-cohen-trump-lawyer-on-pardons-thumbnail-615721-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/",
-      "publishedDateTime": "2020-12-24T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

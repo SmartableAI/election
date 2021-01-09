@@ -210,6 +210,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden says labor secretary will encourage unionization"
+    excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
+    publishedDateTime: 2021-01-09T00:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547146046&r=LYNXMPEH071A2&w=800"
+        width: 800
+        height: 601
+        isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
     publishedDateTime: 2021-01-05T04:58:00Z

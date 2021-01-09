@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
+      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
+      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "publishedDateTime": "2021-01-01T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-pence-seeks-dismissal-of-suit-aiming-to-overturn-election.md",
+      "title": "Pence seeks dismissal of suit aiming to overturn election",
+      "excerpt": "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presiden",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 520,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-01T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-what-will-pence-do-when-congress-counts-the-votes.md",
+      "title": "What Will Pence Do When Congress Counts the Votes?",
+      "excerpt": "Readers are shocked that the question is being asked and speculate that the vice president may find an excuse not to be present. They also criticize Senator Josh Hawley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/30/opinion/29katyal-monsky-01/29katyal-monsky-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/01/opinion/letters/pence-congress-vote.amp.html",
+      "publishedDateTime": "2021-01-01T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-mike-pence-heading-to-georgia-on-monday-ahead-of-runoff-elections.md",
       "title": "Mike Pence heading to Georgia on Monday ahead of runoff elections",
       "excerpt": "Vice President Mike Pence is heading to Georgia on Monday to campaign ahead of Tuesday’s critical U.S. Senate runoff elections.",
@@ -1164,171 +1321,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un.md",
-      "title": "Trump pardon of Blackwater Iraq contractors violates international law - UN",
-      "excerpt": "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108",
-      "originalUrl": "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546149005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0KQ",
-          "width": 662,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN294108",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294108",
-      "publishedDateTime": "2020-12-30T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-pence-did-not-back-lawmaker-plan-to-overturn-election-results-lawyers.md",
-      "title": "Pence did not back lawmaker plan to overturn election results: lawyers",
-      "excerpt": "Attorneys representing Rep. Louie Gohmert, R-Texas, and the slate of Republican electors from Arizona indicated in a court filing that Vice President Mike Pence did not agree with their position that Pence could choose between counting the electoral votes of Democrats or Republicans from states where",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x1TOc836deA/pence-refusal-gohmert-overturn-election-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x1TOc836deA/pence-refusal-gohmert-overturn-election-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd218746-666b-499a-9bdc-4477e8ecc43e/83ac662e-0ac7-4e5a-a4d4-fb5c95f17081/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-refusal-gohmert-overturn-election-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-refusal-gohmert-overturn-election-lawsuit.amp",
-      "publishedDateTime": "2020-12-30T05:13:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-appeals-court-upholds-bribery-conviction-for-chinese-think-tank-official-with-ties-to-hunter-biden.md",
-      "title": "Appeals court upholds bribery conviction for Chinese think tank official with ties to Hunter Biden",
-      "excerpt": "Despite Ho's claim of insufficient evidence, a three judge panel said evidence introduced at trial was \"more than sufficient\" to prove that Ho acted on behalf of a U.S. non-governmental organization to \"assist it in obtaining business for CEFC Energy\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KMITtBB6F2M/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KMITtBB6F2M/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d90667df-9a09-4955-8806-c48fe612bb47/823ee515-1a59-4a1f-b49e-7f388dbbadd6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp",
-      "publishedDateTime": "2020-12-29T18:31:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

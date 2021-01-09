@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schwarzenegger-republicans-reject-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp"
 type: article
 quality: 182
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP-Gabriel-Sterling.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Alaska Sen. Lisa Murkowski calls on Trump to resign, questions her future with GOP"
+    excerpt: "Alaska Sen. Lisa Murkowski, R, called on President Trump to resign Friday, and questioned her future within the Republican Party. "
+    publishedDateTime: 2021-01-08T23:47:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican"
+    ampWebUrl: "https://www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c0d67f-9beb-4ad1-a95c-7ce746a286e7/ce4afb25-2597-47c5-a094-26d7a3943683/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Rand Paul calls for Trump to pardon Edward Snowden"
     excerpt: "Rand Paul reiterated his call for President Trump to pardon Edward Snowden, the whistleblower and former National Security Agency contractor who leaked information about classified government surveillance programs in 2013."

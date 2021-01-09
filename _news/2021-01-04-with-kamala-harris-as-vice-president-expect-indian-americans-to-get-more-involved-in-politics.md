@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harri
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
 type: article
 quality: 113
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -111,19 +111,33 @@ related:
         isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
-    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248310295.html"
-    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248310295.html"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article248310295.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248310295.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248310295.html"
     type: article
     provider:
-      name: SanLuisObispo
-      domain: sanluisobispo.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 70
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
         width: 1197
         height: 720
+        isCached: true
+  - title: "Arts agency member resigns after vulgar comment about Harris"
+    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
+    publishedDateTime: 2021-01-09T00:51:00Z
+    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
 
 secured: "uWzkk3PMv6ONcmZb+Ku07kvs4hdN/GarY7VYrTOab7ovWRp2SSwF8vRiY46AiZplylXyhivzLAqpxO+9Nj8g9Q3WLB6N6kdFc9BYpGsBKndmT+yHL3TaFx5cuac8IQiPTSH6cpEn/6Q3ix6wphFrU6uFbRPSvuN/z1FCI0hiq1EkRGAukvdxtWFULqLzBBM41+7G0TqYTEJviVJxNvtlyEOe7oZqHY30qoh6ge8Of/AnYn8m1b6EPFHvmn9ah8jpwEVxqPgAI3AqdDQE/owtOZnSz72bJ8OguM2Gis3QOsZxqpBMxU+Mua6epSRdeSl4Vafbyhv6GGh2DdQRgt7DbFMh4g7OfSbXkV2AH0wJHsT0XBX8VVd11zTE8l3sf2MljwpgPR2AKChe+NcZJQV01DdZuFAbJhRnYE3Bx7VZizpvo70g+de3NntkRlSaM1yWvK9yPF/XprDBPGxbaqDSjg4ZGUOQotjD2ZVbEbiBgjAluRL6hnXZXpYd/TqSzSp2guNgrGs8kLF+Wd5wuUo9ew==;BL8c/Q9k1WKCEvCviflPQQ=="

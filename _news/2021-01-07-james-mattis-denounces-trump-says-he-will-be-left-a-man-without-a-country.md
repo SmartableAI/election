@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi takes takes initial step toward trying to remove Trump"
+    excerpt: "Speaker of the House Nancy Pelosi announced Friday night she will begin to steps to remove President Trump if he does not resign for his role in the breach on the U.S. Capitol earlier this week."
+    publishedDateTime: 2021-01-09T00:06:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LLI_Abg0D04/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
     excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
     publishedDateTime: 2021-01-06T22:45:57Z

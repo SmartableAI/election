@@ -317,6 +317,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mitch McConnell says, accurately, that Joe Biden’s win wasn’t unusually close"
+    excerpt: "In a speech before what he called \"the most important vote I've ever cast,\" Senate Majority Leader Mitch McConnell, R-Ky., rejected challenges to the validity of Joe Biden’s victory in the 2020 presidential race."
+    publishedDateTime: 2021-01-08T22:38:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/08/mitch-mcconnell/mitch-mcconnell-says-accurately-joe-bidens-win-was/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 52
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "Z2JRz0J8LLiIak8Awgdmdw+Ry2Hk7aZtKE/OsHdVQDr8/FpM8+u4aCNc5PjN5Nx/BWdlNiIoVVtvS4OWjWYpskmAHyQHB1MZhZQxmIM09MKo9D4kzxmDK6VbBN+vED3U7vsPLcYhNjl5ZHgO9daWEj1zStvRJiQs8TuP38lbiRqD4dDOSLPXFruVaEee0ExBPP4fYM0uOi7XXDZCA3++wbvyscnAa20cvC1UI4sardwjG/vbXGGhvcicJrtsRWCteUpGccF0r6CkYSZlEHnmdZC6PNhRyjVcYJwr4U6fJtM8gzF+i3Ta0wBhstGsna6+Rvjl6JTa+rT6pkhWKAXDnHTSINTHBY2Nzr0sjCrOoVaASE+uaL0u5RYisn2t4TtaZDJSfPFuLuNkU/asSPucrkrFuulRB7Y6z/1hEfcn2puj86jr+DMJh4XlL5TQXoo/n0jH+SMC+96zXfVrfIrBiMa1YSSohAnJldjpyBukcGZ861h8wuf7iXUi/RySBqSHWY/MFBLqvs4TPRveVSPUZw==;D+3ZJdEF/bV+Uo0BOFvEGA=="
 ---

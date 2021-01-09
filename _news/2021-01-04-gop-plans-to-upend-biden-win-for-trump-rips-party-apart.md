@@ -377,6 +377,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump will not resign. Nor will he turn power over to Pence ask for a pardon"
+    excerpt: "President Trump will not resign. Nor will he turn power over to Vice President Pence and ask him for a pardon, according to top White House advisers who have spoken with the highest ranking members of Mr."
+    publishedDateTime: 2021-01-09T00:50:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-will-not-resign-nor-will-relinquish-power-and-ask-pence-to-pardon-him/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-will-not-resign-nor-will-relinquish-power-and-ask-pence-to-pardon-him/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-will-not-resign-nor-will-relinquish-power-and-ask-pence-to-pardon-him/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 147
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/07/047bddca-c922-442f-8e93-0b632a9168b6/thumbnail/1200x630g3/50300a742d69114a5f41f8ebd6ae096c/donald-trump-mike-pence-2020-07-07t194337z.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden's Approach to Latin America Will Be Major Departure from Donald Trump"
     excerpt: "Joe Biden believes, and he has for years, that conditions must be improved in Latin America if the United States wants to slow immigration. A less antagonistic U.S. approach is coming."
     publishedDateTime: 2020-12-31T20:49:00Z
@@ -2709,6 +2725,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Live Updates: House Democrats to introduce impeachment; Twitter suspends Trump"
+    excerpt: "The articles of impeachment allege Mr. Trump engaged in \"high crimes and misdemeanors by willfully inciting violence against the government of the United States.\""
+    publishedDateTime: 2021-01-09T00:16:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/64ee0df8-b49f-43e9-a58b-c45102a99889/thumbnail/1200x630/0615066b524bbd10cc9174075ba7db6f/gettyimages-1295319912.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden criticises Trump over slow Covid-19 vaccine rollout – video"
     excerpt: "Ramping up vaccine rollout will be the 'greatest operational challenges we've ever faced as a nation'  Biden says"
     publishedDateTime: 2020-12-29T16:58:00Z
@@ -2874,6 +2906,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/340c13c38f319c3454f1b5e41e255336715bf0bd/1388_0_2112_1268/master/2112.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3e2693067a08a6669316fee9b778076"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden calls the president ‘unfit,’ defers to Congress on impeachment; Trump says he’ll skip the inauguration"
+    excerpt: "WASHINGTON — President-elect Joe Biden said Friday that President Donald Trump isn’t “fit for the job,” but he repeatedly refused to endorse growing Democratic calls to impeach him a second time. House Speaker Nancy Pelosi said in a letter to members of her chamber that lawmakers could move as early as next week to impeach Trump for inciting a violent mob that overran the U."
+    publishedDateTime: 2021-01-08T23:49:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oHpYqUUDO4lL12X_8UcuSL73-8Q=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W4QN74LVSPX4XQRJ3CLGU75L3M.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
     excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."
@@ -3959,6 +4007,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6511609966489/2021/1/bbc52a2dd07fbfe62bc4a2721f2f8394/v1.5/Joe-Biden-calls-on-Donald-Trump-to-step-up-end-siege-on-Capitol.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Latest Updates: Twitter Bans President Donald Trump"
+    excerpt: "Angry supporters of President Donald Trump stormed the U.S. Capitol on Wednesday in a chaotic protest aimed at thwarting a peaceful transfer of power, forcing lawmakers to be rushed from the building and interrupting challenges to Joe Biden’s Electoral College victory."
+    publishedDateTime: 2021-01-08T23:35:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/latest-updates-more-admin-officials-resign-after-trump-fueled-riot/2819815/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/latest-updates-more-admin-officials-resign-after-trump-fueled-riot/2819815/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/latest-updates-more-admin-officials-resign-after-trump-fueled-riot/2819815/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230468912-1.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Isn't The First President To Snub His Successor's Inauguration"
     excerpt: "Trump joins a short list of other presidents who couldn't bring themselves to accept succession, as well some that wanted to attend but couldn't."

@@ -1,0 +1,117 @@
+---
+category: news
+title: "Alaska Sen. Lisa Murkowski calls on Trump to resign, questions her future with GOP"
+excerpt: "Alaska Sen. Lisa Murkowski, R, called on President Trump to resign Friday, and questioned her future within the Republican Party. "
+publishedDateTime: 2021-01-08T23:47:30Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican"
+ampWebUrl: "https://www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
+type: article
+quality: 169
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c0d67f-9beb-4ad1-a95c-7ce746a286e7/ce4afb25-2597-47c5-a094-26d7a3943683/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Schwarzenegger calls on GOP to reject 'stupid, crazy and evil' Trump election challenge"
+    excerpt: "Former California Gov. Arnold Schwarzenegger, R, said that after growing up in a country that “gave up on democracy and faced the consequences,” he worried for his party’s and the U.S.’ future amid President Trump’s continued election challenges. "
+    publishedDateTime: 2021-01-05T23:25:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Arnold-SCHWARZENEGGER-REUTERS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "California mayor says Trump should be tried for sedition"
+    excerpt: "A California mayor is calling for President Donald Trump to be tried for sedition after a mob of his supporters stormed the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-07T18:02:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4jv8vkXmwTA/california-mayor-sam-liccardo-trump-tried-sedition"
+    ampWebUrl: "https://www.foxnews.com/politics/california-mayor-sam-liccardo-trump-tried-sedition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-mayor-sam-liccardo-trump-tried-sedition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006635330712.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Some Democrats call for Trump impeachment after Capitol riots"
+    excerpt: "A growing number of congressional Democrats are calling for President Trump to be impeached after a group of his supporters stormed the United States Capitol building on Wednesday."
+    publishedDateTime: 2021-01-07T14:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9QzWzrcp2U/some-democrats-call-for-trump-impeachment-after-capitol-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8490c243-1866-43b4-ab4e-31c16a8e0b62/babc6474-e94a-467b-a6b9-d0a8fffe458c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Georgia election official who slammed Trump's voter fraud claims says he'll vote for GOP Senate candidates"
+    excerpt: "Georgia election official Gabriel Sterling, who has pushed back against President Trump’s claims of voter fraud in public and on a recorded phone call that was later leaked, announced Tuesday that he is voting for Republicans Sen. Kelly Loeffler and former Sen. David Perdue."
+    publishedDateTime: 2021-01-05T14:44:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hUIGkVseTp8/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-senate-election-official-sterling-votes-loeffler-perdue-trump-voter-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP-Gabriel-Sterling.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rand Paul calls for Trump to pardon Edward Snowden"
+    excerpt: "Rand Paul reiterated his call for President Trump to pardon Edward Snowden, the whistleblower and former National Security Agency contractor who leaked information about classified government surveillance programs in 2013."
+    publishedDateTime: 2021-01-02T06:37:00Z
+    webUrl: "https://www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87d54718-d17b-43b2-81bd-0b73602d6a6d/6d74d503-da1b-4a76-8fed-2a0c4291d098/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "2EBMl/cpCBDEDyhieR+0LLXMebC5kW4flxBK+VeMDMb6bAMR1li1t3hk8nJ1oxppy17WdoY8U94YHC3ib4z2Z/2yf4ajgDOsyGFSGoRZWKm9BqwySROzkwU3vZ9/qocW0twa/47p/ZBubnA6yJ8cotDqt0rhv2xPh3uDauFuOlnvYUi/3BbKZ8EqylzbxKakdAFIil7YEsAc/N3hKpTnAZFUxuMctODrVks6byz9uaJ48lZdG46vaDjViZW/2sphOu74l+X8kC7eVxlOOLr8G9u+ETN8GDcq3Dtb1RG2j1xT8NgxasGp0POCoU53BEW8MyhV+l+Wv6QeLrOipmHIfZcIuQuxo/gwnaGzhjUBoQM=;VdCtLXWXRwNOw65r7weCMg=="
+---
+

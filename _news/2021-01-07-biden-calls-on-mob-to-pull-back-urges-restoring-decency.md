@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -209,6 +209,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5NWFHSR5EI6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 954
+        isCached: true
+  - title: "Biden says labor secretary will encourage unionization"
+    excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
+    publishedDateTime: 2021-01-09T00:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547146046&r=LYNXMPEH071A2&w=800"
+        width: 800
+        height: 601
         isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
