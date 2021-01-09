@@ -2,9 +2,9 @@
 category: news
 title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
 excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-publishedDateTime: 2021-01-09T07:27:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
+publishedDateTime: 2021-01-09T07:29:00Z
+originalUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUKKBN29D2K3"
+webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUKKBN29D2K3"
 type: article
 quality: 101
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547138064&r=LYNXMPEH0715K&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547137976&r=LYNXMPEH0715E&w=800"
     width: 800
     height: 533
     isCached: true
@@ -358,6 +358,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DhHs9Vz6gtKNDeYvqQu+hL0OHoJ9YWtshU8c6e5TiO8f4PcjFqicuH9LttemcLgQn3XGwTKfXCp9iqsHI5hQ6xYshTgjVJck+ynxTjneCClp8Q/LhreEQDVU/yKC3LsoIe3uHWp9OaYyUk9gny8xoX0Qn5uIomvz/souLlfOQZl6WOxk5FkJryLc6K5aekM3h3R8ye1Y1HXL+W6VUJJFEpBTmRtv7BnA0yJPSA2m8moU8vlVjJSwcQ9ZYc6Tpb9XEesm7XIXUZmKkdFU8M4MB2Z7Cpqx2c/d/jooZDwNGs0iW4aMxQL2mVFrmwwj6sTEjKQwPZJkSlejP+MGaIzd766NnsAyG/sE47p7rZtcqXc=;TCLZlNQw7GRxesmMNXhLXA=="
+secured: "iaWCd/kkhSYVP6Z8iIpsK8XVB3HTqidwXPkmoWGURiRDuqMPz4faSWlyb6d1PEKpJCNF72PoF41i/NuxMTMS+u36vvIdGSo997jze1IjhB+4FQnfBKW7hAnKFpgqW7Log9tctjSn4SZdTbDlb/6ZBoUDv2kRDISAXarwSZ5Ox9arW26RUfAf/owK6kDXEWIRX1trtvcnG8PE18qys8rPeCDhHC9vpGGi/NxeEzsUIAX+tNfmA6X3Sd+VrFqIGHMp2F32wJwUrAML9/QDf2/N/t9eb+DGMtvO1H3P/GqrwmtMERyoT8E9PPKg5a6BBJMstkidvZOpwUT3fYLfgGcN3t+fF1QTy87vc/OpmK9t7TM=;ZwaSDDtHWgHIiNQKt8O3Mg=="
 ---
 

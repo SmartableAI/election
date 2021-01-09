@@ -43,6 +43,22 @@ related:
         isCached: true
   - title: "Fact check: Social media falsely claims Vice President Mike Pence was arrested"
     excerpt: "After rioters breached the U.S. Capitol Wednesday, social media posts claimed Vice President Mike Pence had been arrested. That is false."
+    publishedDateTime: 2021-01-07T00:00:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/01/07/fact-check-posts-falsely-claim-vice-president-mike-pence-arrested/6574866002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6574866002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6574866002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/8d874991-8b85-4b14-9165-4befb60db0ba-GTY_1230451939.jpg?auto=webp&crop=4861,2735,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Social media falsely claims Vice President Mike Pence was arrested"
+    excerpt: "After rioters breached the U.S. Capitol Wednesday, social media posts claimed Vice President Mike Pence had been arrested. That is false."
     publishedDateTime: 2021-01-07T19:01:00Z
     webUrl: "https://www.desmoinesregister.com/story/news/factcheck/2021/01/07/fact-check-posts-falsely-claim-vice-president-mike-pence-arrested/6574866002/"
     ampWebUrl: "https://amp.desmoinesregister.com/amp/6574866002"

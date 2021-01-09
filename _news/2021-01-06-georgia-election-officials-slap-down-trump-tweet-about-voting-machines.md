@@ -613,6 +613,20 @@ related:
         width: 800
         height: 508
         isCached: true
+  - title: "Banished by Twitter, an isolated Trump faces looming impeachment threat"
+    excerpt: "With only days left in his presidency, Donald Trump - silenced by Twitter and shunned by a growing number of Republican officials - faces a renewed drive by Democrats to remove him from office after he incited his supporters to storm the U."
+    publishedDateTime: 2021-01-09T18:35:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSKBN29E0AH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547193007&r=LYNXMPEH0806K&w=800"
+        width: 800
+        height: 484
+        isCached: true
   - title: "Audio: Trump berates Ga. secretary of state Brad Raffensperger, urges him to ‘find’ votes"
     excerpt: "Listen to excerpts from a one-hour call on Saturday between the president and Georgia election officials."
     publishedDateTime: 2021-01-03T20:55:25Z

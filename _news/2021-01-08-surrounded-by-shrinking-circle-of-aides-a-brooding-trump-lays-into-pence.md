@@ -3,8 +3,8 @@ category: news
 title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
 excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
 publishedDateTime: 2021-01-08T08:19:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idINKBN29C2RE?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idINKBN29C2RE?edition-redirect=in"
+originalUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idINKBN29C2RE?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idINKBN29C2RE?edition-redirect=in"
 type: article
 quality: 119
 heat: -1
@@ -4550,6 +4550,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "9TCcp0T6gNXTn6mPqqLbVk/emDnkykxe6f6FFvM4EmkseuCUr3FFC0ySPX1VJvifqHxcz63Z4K1c/ZGrAM+LpuWRb1UxZuGuLFKb9+R766Q/mT44lpHva2vvBoT3Le67QsCOpUyZ/5axMgz09ni2T+y4fUqR9fceToq8OWnu16bmD9TXP0AcWOk/RqQ0/I0VPodBRHxGjhLD6qlcNxD+Ioukvd15xch9tWqNrXD2OzdmUV3R9oHTvO1B+HJn9Cae2zVyd/ptOdW7bIh9gYqOovcOFH1WxhoDINUpayYQ32EUPmESLKFxaBHc/jW7Hd4R2P15Hv85Gzk9wCrUoF3xrZ3jUG0rbH8wbMcCAfD+YGelPur349xJp3oy0NaJDRyqVmThZ9lzzZFGwkPhJY29hEKZdaIKsaTU7cqL1JnLfQ+Dr9LISRpUe1jbONBkwFTGGJ19frYLU9AlNPRCwlQvC5/PUOcqcRM71LgYdB928vAv2D3wyOYpS8NPS4vUUULEDesjn0Gx/kugJMbAgX9Qmg==;Y+cO9AzwZCdCuS9mvh4nbA=="
+secured: "+YsCrZ98x3Lzz4M9q29btAchMuRwjNNU0nB31V0OoZ2bshbPyNON7kbADDo1dyQt0pqGGej/aCmptrP8ZDoynulLqnvVJJ6T2B2vaYhvJRjRIWokFhnb65kFgue0ww2229OOX34/TzJT9FgfEscsaIWkxQEICSD9b+SHF43MPy/ElBEJ+CePIYKnGjuWjrAemL5NC8TTmPGHfOjoQBZBKKq5HhP9ft1S4huXe61R4efB09F+CIUT2GUnz1LEAHlzgywAWhMPEqFutiQY0axSleuS8j35jrfO9HqNYzzLjXRca7SSpLBJhIep86TSUB51jHphfzzRHDLo8MYZG+DNmoDjOepItSgyq/Y6r7xGgDM=;NB/jxFOcKRf5Jy/rcwSvcA=="
 ---
 

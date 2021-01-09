@@ -63,6 +63,22 @@ related:
         width: 766
         height: 545
         isCached: true
+  - title: "Companies backed Trump for years. Now they’re facing a reckoning after the attack on the Capitol."
+    excerpt: "The once-comfortable alliance between Trump and Corporate America has shown unprecedented strain since Wednesday’s attack, forcing a re-examination of everything that businesses had won over the last four years from a White House now thrown into chaos."
+    publishedDateTime: 2021-01-09T18:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEGWWTBJTQI6RIRH7UVQBFDGXQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump Slammed On Twitter For Saying Capitol Rioters Didn't Represent The Country"
     excerpt: "Donald Trump said the rioters at the Capitol did not represent the American public, and Twitter users agreed saying the violent protesters represented him."
     publishedDateTime: 2021-01-08T06:29:00Z

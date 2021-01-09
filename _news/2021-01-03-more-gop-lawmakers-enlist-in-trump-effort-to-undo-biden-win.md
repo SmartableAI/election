@@ -2988,7 +2988,7 @@ related:
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
     publishedDateTime: 2021-01-08T08:19:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idINKBN29C2RE?edition-redirect=in"
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idINKBN29C2RE?edition-redirect=in"
     type: article
     provider:
       name: Reuters

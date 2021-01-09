@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harri
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
 type: article
 quality: 113
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
         width: 600
         height: 517
+        isCached: true
+  - title: "Vice President Elect Kamala Harris"
+    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
+    publishedDateTime: 2021-01-09T18:38:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "uWzkk3PMv6ONcmZb+Ku07kvs4hdN/GarY7VYrTOab7ovWRp2SSwF8vRiY46AiZplylXyhivzLAqpxO+9Nj8g9Q3WLB6N6kdFc9BYpGsBKndmT+yHL3TaFx5cuac8IQiPTSH6cpEn/6Q3ix6wphFrU6uFbRPSvuN/z1FCI0hiq1EkRGAukvdxtWFULqLzBBM41+7G0TqYTEJviVJxNvtlyEOe7oZqHY30qoh6ge8Of/AnYn8m1b6EPFHvmn9ah8jpwEVxqPgAI3AqdDQE/owtOZnSz72bJ8OguM2Gis3QOsZxqpBMxU+Mua6epSRdeSl4Vafbyhv6GGh2DdQRgt7DbFMh4g7OfSbXkV2AH0wJHsT0XBX8VVd11zTE8l3sf2MljwpgPR2AKChe+NcZJQV01DdZuFAbJhRnYE3Bx7VZizpvo70g+de3NntkRlSaM1yWvK9yPF/XprDBPGxbaqDSjg4ZGUOQotjD2ZVbEbiBgjAluRL6hnXZXpYd/TqSzSp2guNgrGs8kLF+Wd5wuUo9ew==;BL8c/Q9k1WKCEvCviflPQQ=="

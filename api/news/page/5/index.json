@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-05-schwarzenegger-calls-on-gop-to-reject-stupid-crazy-and-evil-trump-election-challenge.md",
+      "title": "Schwarzenegger calls on GOP to reject 'stupid, crazy and evil' Trump election challenge",
+      "excerpt": "Former California Gov. Arnold Schwarzenegger, R, said that after growing up in a country that “gave up on democracy and faced the consequences,” he worried for his party’s and the U.S.’ future amid President Trump’s continued election challenges. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Arnold-SCHWARZENEGGER-REUTERS.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "publishedDateTime": "2021-01-05T15:25:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-white-house-denies-reports-trump-will-be-in-scotland-during-inauguration-after-scottish-leader-warns-golf-is-not-essential-travel.md",
       "title": "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel",
       "excerpt": "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,",
@@ -270,7 +326,7 @@
       "originalUrl": "https://www.newsweek.com/fact-check-will-mike-pence-not-preside-over-electoral-college-certification-1559132",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -536,7 +592,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2995,
+      "heat": 3035,
       "tags": null,
       "images": [
         {
@@ -1259,62 +1315,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-kelly-loeffler-says-she-will-object-to-the-certification-of-bidens-electoral-college-win.md",
-      "title": "Kelly Loeffler says she will object to the certification of Biden's Electoral College win",
-      "excerpt": "Republican Sen. Kelly Loeffler of Georgia will oppose the certification of the Electoral College results on Wednesday, she said in a statement released Monday evening.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2qf_UerM4CU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2qf_UerM4CU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201124125657-sen-kelly-loeffler-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/kelly-loeffler-david-perdue-electoral-college-certification/index.html",
-      "publishedDateTime": "2021-01-04T16:17:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-georgia-brian-kemp
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-georgia-brian-kemp-phone-call/index.html"
 type: article
 quality: 186
-heat: 1046
+heat: 1066
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01georgia-vote/01georgia-vote-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Democrats Are Determined to Pressure Biden to Investigate Trump"
+    excerpt: "Wide segments of the party are eager to see investigations and prosecutions of President Trump and his allies, while President-elect Joseph Biden is taking a more measured approach."
+    publishedDateTime: 2021-01-09T16:58:00Z
+    webUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dems-justice-print1/merlin_182127015_61bd84d6-ff51-4e33-bb97-851eb71c4efc-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

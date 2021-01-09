@@ -863,6 +863,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democratic National Committee eyes new mandate in post-Trump era "
+    excerpt: "The Democratic National Committee is on the precipice of a dramatic change, shifting its role from oppositional force challenging Donald Trump at every turn to a political megaphone for a Democrat-dominated Washington.\n    \n"
+    publishedDateTime: 2021-01-09T18:19:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ieILYsQiHkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/democratic-national-committee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/democratic-national-committee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191122133426-dnc-tom-perez-1015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The day America realized how dangerous Donald Trump is "
+    excerpt: "When the history of the 45th presidency is written, Wednesday, January 6, will go down as the day America realized how dangerous President Donald Trump really is.\n    \n"
+    publishedDateTime: 2021-01-09T18:43:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5XNYJuC7Yk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-dangerous-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-dangerous-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108165723-23-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Twitter takes Trump's special power away as his isolation grows"
     excerpt: "It took President Donald Trump years and tens of thousands of tweets to build up 88.7 million followers on Twitter. It took a single moment Friday to lose them forever.\n    \n"
     publishedDateTime: 2021-01-09T11:06:13Z

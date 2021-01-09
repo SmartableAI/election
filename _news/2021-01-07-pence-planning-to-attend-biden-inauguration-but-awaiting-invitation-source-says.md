@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-ina
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/mike-pence-joe-biden-inauguration/index.html"
 type: article
 quality: 195
-heat: 835
+heat: 855
 published: true
 
 provider:
@@ -285,6 +285,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As Biden raises money for his virtual inauguration, lobbyists prepare for a scaled-down schmooze-fest"
+    excerpt: "Presidential inaugurations -- and the swirl of festivities that surround them -- usually offer prime schmoozing opportunities: Lobbyists attempt to woo incoming administration officials at VIP-only luncheons; big campaign donors score coveted tickets for the swearing-in ceremonies, and corporate executives"
+    publishedDateTime: 2021-01-09T15:00:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gWByeu0r8oQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/biden-inauguration-fundraising-lobbying/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/biden-inauguration-fundraising-lobbying/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

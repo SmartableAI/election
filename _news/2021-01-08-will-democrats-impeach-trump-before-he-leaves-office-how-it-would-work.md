@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Adam Schiff says Trump must go, backs second impeachment"
+    excerpt: "House Intelligence Committee Chairman Adam Schiff joined a growing list of lawmakers on both sides of the aisle calling for President Trump's removal."
+    publishedDateTime: 2021-01-09T17:16:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/grHNELR7304/rep-schiff-joins-push-to-impeach-trump-a-second-time"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” "
     publishedDateTime: 2021-01-08T18:13:55Z

@@ -313,15 +313,15 @@ related:
     quality: 103
   - title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
     excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-    publishedDateTime: 2021-01-09T07:27:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
+    publishedDateTime: 2021-01-09T07:29:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUKKBN29D2K3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 101
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547138064&r=LYNXMPEH0715K&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547137976&r=LYNXMPEH0715E&w=800"
         width: 800
         height: 533
         isCached: true
@@ -358,6 +358,6 @@ related:
         height: 630
         isCached: true
 
-secured: "S6dBZs52UGh46lhh/7TdlqTIxKqEHjuuGIwdUtpcnxI19gC1MAdf3kaFsvrJs0LEY05OXimQIuzqX0Te69c7H98NMUai+hKdYa13pt5/yhVfnsgI/KKBtvHEcgk6maPyIKq6f+XfmOZk9gAf9KQnzz7Ptcrv/2LhWW9IYie6AoxBvxwK3d9mj3fMLlcyav87kaMBqPEmZ3fazSdgNDFQNSLc+FddPnvsZh/sST17cucfNBUET2++0AEA5q5WbcUyyAIJ8NBZDx6x8TnKtOEQxhEKg7jVNI5j8MRdnNCPJYzX2R5p4GjLSgfa7dw2IJIybQFWmWXRBh2xukpInZB9mjHSMFW3+atoRghXdByrLqU=;KrFIUYPyu4gOtlQN4RQWcg=="
+secured: "ydyXKrl4ANOl+THLnWRduKSs2J60b+q2cV78jeamvf9sNj/nvhNXVDZz67DOKw3ajo2yUoHMmoQRmqG/CRF0m8jX64FQyhgbZ0WaUd7AMK1lHoS20dFpwE+5meRS7/wXZvhD/tS1pEtQ5GzaDkNs5nEXRCAOGS6KiXK4xsmGQBb8dajfJ9U48CPDT0j32rXGH6Dx5hYIo5L/k6X20U4kGTEq3QHd0ZAN93g6spQ7Q6FFI3/c0p1TpTmN5r/g2W2F4y3cqwuRpqOFaoyUDJwxRrCctNVk8qeI5AzzQHlfKPRTMSWqBjL68xZ40u6ggVdOC+LLEwQH38WEsuD4V6EAC+YJOM2UTz5+mI+luaUeXelGigztXI2vXPTFqCJ0Kz8ZOjdY4Csfb19i0u0EFZqr53Va7CX8SXPtOgTc9rwhudU78mUshLD5mk7ZjBUecfamgBH3EtLR2594lQrmwNfeNSnXa5alOvG2i6TVIkvinWYb4+cpyHW0HCgMSldsd9e42ywscvGH4f04wZR3YzQezw==;Nae3/4eq9GdmZhqwPAo5/w=="
 ---
 

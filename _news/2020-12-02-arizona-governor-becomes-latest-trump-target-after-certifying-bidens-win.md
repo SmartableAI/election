@@ -400,6 +400,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Democrats Are Determined to Pressure Biden to Investigate Trump"
+    excerpt: "Wide segments of the party are eager to see investigations and prosecutions of President Trump and his allies, while President-elect Joseph Biden is taking a more measured approach."
+    publishedDateTime: 2021-01-09T16:58:00Z
+    webUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dems-justice-print1/merlin_182127015_61bd84d6-ff51-4e33-bb97-851eb71c4efc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's 'mountains of misinformation' at rally not helping Republican Senate chances, Georgia's GOP lieutenant governor says"
     excerpt: "Georgia Republican Lt. Gov. Geoff Duncan said Sunday that the \"mountains of misinformation\" about the election that President Donald Trump is spreading, most recently in his remarks at a rally in the state Saturday night, could hurt GOP chances in upcoming Senate runoff races.\n    \n"
     publishedDateTime: 2020-12-06T16:47:49Z

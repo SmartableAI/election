@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "TeamTrump Twitter account suspended in social media crackdown"
+    excerpt: "Twitter on Friday suspended Team Trump's account on the platform not long after it banned President Trump's account."
+    publishedDateTime: 2021-01-09T17:23:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended"
+    ampWebUrl: "https://www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Capture-7.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech"
+    excerpt: "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. "
+    publishedDateTime: 2021-01-09T16:55:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886d202e-b4ba-4da6-bcc1-bda7cfd9a2a4/f4729944-945f-4a6d-b3c0-79a7da3fa698/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Haley tells GOP not to ‘shy away’ from Trump-era gains, but calls his recent conduct 'deeply disappointing'"
     excerpt: "Former U.N. Ambassador Nikki Haley on Thursday hailed the “extraordinary gains” for the United States during President Trump’s time in office and warned Republicans not to “shy away” from them -- while at the same time calling his post-Election Day conduct “deeply disappointing.”"
     publishedDateTime: 2021-01-08T02:29:36Z

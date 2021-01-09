@@ -298,15 +298,15 @@ related:
         isCached: true
   - title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
     excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
-    publishedDateTime: 2021-01-09T07:27:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa/update-3-biden-plans-accelerated-release-of-covid-19-vaccine-to-states-as-pandemic-hits-hard-idUSL1N2JJ297"
+    publishedDateTime: 2021-01-09T07:29:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUKKBN29D2K3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 101
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547138064&r=LYNXMPEH0715K&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547137976&r=LYNXMPEH0715E&w=800"
         width: 800
         height: 533
         isCached: true

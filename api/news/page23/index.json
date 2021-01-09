@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-05-historians-sue-trump-administration-to-stop-bonfire-of-records-in-the-rose-garden.md",
+      "title": "Historians sue Trump administration to stop ‘bonfire of records in the Rose Garden’",
+      "excerpt": "The American Historical Association and other groups fear President Trump, Jared Kushner, Ivanka Trump and others in his inner circle may not preserve critical records",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/",
+      "originalUrl": "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AORK3MQIWQI6XBYZBXYVTUKHSQ.jpg&w=1440",
+          "width": 1440,
+          "height": 959,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp",
+      "publishedDateTime": "2020-12-05T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-trump-to-withdraw-most-troops-from-somalia-as-part-of-global-pullback.md",
       "title": "Trump to withdraw most troops from Somalia as part of global pullback",
       "excerpt": "President Donald Trump has ordered nearly all American troops to withdraw from Somalia, U.S. officials said on Friday, part of a global pullback by the Republican president before he leaves office next month that will also see him drawdown forces in Afghanistan and Iraq.",
@@ -1285,62 +1337,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
-      "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
-      "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200205144611-02-romney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "publishedDateTime": "2020-12-03T15:44:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

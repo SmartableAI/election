@@ -169,6 +169,20 @@ related:
         width: 600
         height: 517
         isCached: true
+  - title: "Vice President Elect Kamala Harris"
+    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
+    publishedDateTime: 2021-01-09T18:38:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9azxwN5Ei2rkLDUvrYY8IyR79G41r9NsBKDNvqi1p9AsQaEBsEtcNKq1SC2qluaGpy/fbNMBzIMWuLgOkS08rC8khFKuCLIwaXvRx9mDiFnpahCPyLUwTNbovrGoqrTyQtiyDCGbB1dfygFbarUJPeoW4PbHzzXqyHroaF4CdVncsgFI0nHdpa4YeTDvIZLfSUy6Qmn1XKhNAnnlj6afQ7iq+WKmVA0AtymmCQa1irb0KSNHFe/SoSe8TNBUL5UysYKg/DvECjAzAbXIMVObeM+7bH/eicTLOUZeESQUnF3H/X7xCOixDye36O+mWh2vTDXo45ki4UA/Bc0ZPdxcgp1BLVo8Mj/ocGfCIIMsxRP+XRL84HKYFtRv0dc1jQyKGPaz8BjiT8T3ZWZXkwcMRsvJbjCSrRtNlP7DOhUwPWwJY3vDHC4nSHKnaIkPD7kUPC+GwjIfq+btGxtyCsDV0Pa0tw6x7yHYE74L6xOpBRMEexdBEbVi21uvQ/zTQ4ymKilqalaIcM7M/acU+NEdPQ==;3N5+RxF7p0EpELopt28Y3A=="
 ---
