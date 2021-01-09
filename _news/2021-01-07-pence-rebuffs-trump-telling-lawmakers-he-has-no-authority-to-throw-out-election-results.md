@@ -911,6 +911,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal judge blocks Trump administration asylum rule from taking effect"
+    excerpt: "A federal judge on Friday blocked a sweeping asylum rule that had been scheduled to take effect nationwide in a matter of days, issuing yet another legal blow to the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-09T02:50:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rb2CMYeyGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210215838-panorama-nuevas-restricciones-asilo-eeuu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: What's happening with the latest Trump appeals to the Supreme Court"
     excerpt: "The Supreme Court will enter a new year Friday but there's still election drama from 2020 on its plate.\n    \n"
     publishedDateTime: 2020-12-31T21:22:15Z
@@ -1166,6 +1182,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216092620-02-chad-wolf-lead-image-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'Do it Mike': Trump encourages Pence to overturn election — which he can't do"
+    excerpt: "Trump tweeted Wednesday morning urging Pence to try to overturn Biden's victory in the 2020 presidential election when he counts the electoral votes in Congress later in the day."
+    publishedDateTime: 2021-01-06T13:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/electoral-college-certification-updates-n1252864/ncrd1252978"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252864"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252864"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 162
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3439690/210105-electoral-college-certification-live-blog-cs_0dc2afbb5d34c54b65b9aa2a267dc604.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "The Point: It took a violent insurrection for Republicans to realize Donald Trump was dangerous?"
     excerpt: "Wednesday started with a rump group of House and Senate Republicans preparing to object to the Electoral College results to demonstrate their utter fealty. It ended with many of those same Republicans retreating from their deeply held beliefs about election fraud, tails between their legs.\n    \n"
@@ -1787,6 +1819,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Democrats Ready Impeachment Charge Against Trump for Inciting Capitol Mob"
+    excerpt: "Speaker Nancy Pelosi threatened decisive action against the president for his role in the insurrection against Congress if he refused to resign."
+    publishedDateTime: 2021-01-09T02:14:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/us/politics/democrats-trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/us/politics/democrats-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/us/politics/democrats-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08dc-cong1/08dc-cong1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'NEVER FORGET’: Trump threatens Cotton over Electoral College certification"
     excerpt: "How can you certify an election when the numbers being certified are verifiably WRONG,” Trump tweeted. President Donald Trump warned Sen. Tom Cotton on Monday that Republican voters would \"never forget\" GOP lawmakers who fail to embrace Trump's baseless effort to contest President-elect Joe Biden's Electoral College victory."
     publishedDateTime: 2021-01-04T16:22:00Z
@@ -1909,6 +1957,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Pelosi says House will move forward with Trump impeachment motion if he doesn't resign"
+    excerpt: "At least one Republican senator said he was open to impeachment proceedings, while Trump announced he won't attend Biden's inauguration."
+    publishedDateTime: 2021-01-08T23:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/rep-clark-says-house-democrats-looking-impeachment-vote-next-week-n1253447"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253447"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253447"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3440898/210108-nancy-pelosi-cs-647p_85bf9c7801ad9da60446e52661ee3ab0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Electoral College objection serves as another example of Trump putting Loeffler and Perdue in tight spot"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler have spent the entire Georgia Senate runoffs running as close as they can to Donald Trump, while at the same time avoiding a complete adoption of Trump's baseless conspiracy theories about electoral fraud."
     publishedDateTime: 2021-01-03T20:13:00Z
@@ -2022,6 +2086,20 @@ related:
       - url: "https://static.politico.com/31/1f/67d787334695bfae1e6d0bcf3abb/politico-global-translations-social-twitter-v2.png"
         width: 2500
         height: 1309
+        isCached: true
+  - title: "Trump legal vets torn over new impeachment defense"
+    excerpt: "The crew that rallied behind the president in late 2019 is divided as House Democrats rush to impeach him once more."
+    publishedDateTime: 2021-01-09T01:29:00Z
+    webUrl: "https://www.politico.com/news/2021/01/08/alan-dershowitz-trump-impeachment-456674"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/42/07/201004ff4f83bd6aef79fd36bda1/200129-dershowitz-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."

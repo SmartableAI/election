@@ -57,19 +57,33 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T14:00:00Z
-    webUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    ampWebUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+  - title: "Kamala Harris dissolving PACs, giving money to charity"
+    excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
+    publishedDateTime: 2021-01-08T12:41:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
+        width: 2048
+        height: 1396
+        isCached: true
+  - title: "Why Kamala Harris will still be a key player in the Senate"
+    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
     quality: 75
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
@@ -136,6 +150,6 @@ related:
         height: 517
         isCached: true
 
-secured: "7nXv3APr1VPL0hl2ssrim9Pz9aLOpc2nPuRUC8ZoHfU3Ocq3DY6E7oMac7KudzKP83ioTWOpD9WY+zyd4pc/uGU92hbWHB4yiwNTjIDtdceW9WK8dJVQYp7HVxZxTyLlWC0UNdHWXBZZkHyPyyo4zU0dLaNCFBvpPpfvb0CnRxP8SUk5NYZjpaxm8L97sN4IyeFrRJZOCryJrSfJ1lqjMU8Vj4iW1OtQ9hY9UEedL8OYYL5dHxr1ssmLT3K59UKhwdOd5AijuhXtynchVhuCWpYm7NmUIGJ8Z+m1qiYJjdYpQObkrCDX/I8qzwfy+Gg8bq/xlQcnD/2dhRib7DmNKVZRkyb0xwyHikH8H8ul9AQ=;6Jpvp3Kb4BNvaCdyWa/9dQ=="
+secured: "GwFlTeHhl8evXT8HNESRERt5kDfM8ShhvG0mQ8Yvryg2p/p6+63k0iPes2j9h+Y9BgDWGTxrlrQQTH5acsjfAkvacjfF4hoDnOn6yppYLiCT2LrZEmwnIKbPhKjJSbRbyP592kwYh32MeTJlNhcQt/mpg66r6VTAfW2QFaUsDtlvbI2FK6t7D1JQMOdqDXG10qQNJnty0MAP44wXNrf55tGVLDvDKLGhyxwOSZ8WMus88gqM5n6oWSafjNaTttYbmYKzFPaHyacjiM432gSCJuJBMtWh3enG+boqYxIzhaKdciZnAuu64fDymB3Vp/I35t5N6guVOCkzQEnaORYuzzHd4ydNmV5TZK+mXVVvX9q6tXUS/IjvZuGoyT6by9nWWDx8wPppJk6fbc1snRG1VCscWpUdDx9chnLc6whYnnryos8NgEn4NWrqnLR69PeQwN25F/cmoPL1ZVAwHvorox7XO5wFIt7qJL9iKCRRaXBDf0o9iAvQuRqb/yp5X0OE+q345Pbcvc8ifRr1IBRP4g==;Eany8k+X3kbVGWFbdnz9Kg=="
 ---
 

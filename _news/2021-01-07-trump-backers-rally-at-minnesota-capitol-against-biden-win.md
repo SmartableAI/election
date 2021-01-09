@@ -2888,8 +2888,8 @@ related:
         isCached: true
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-    publishedDateTime: 2021-01-08T09:35:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
+    publishedDateTime: 2021-01-08T08:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
     type: article
     provider:
       name: Reuters
@@ -4386,6 +4386,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Twitter Permanently Suspends Trump As Presidency Crumbles"
+    excerpt: "President Donald Trump, already facing mounting calls to step down or risk impeachment, suffered further ignominy Friday when Twitter permanently suspended his account, saying the US leader is too dangerous to use the platform."
+    publishedDateTime: 2021-01-09T01:02:00Z
+    webUrl: "https://www.ibtimes.com/twitter-permanently-suspends-trump-presidency-crumbles-3117599"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-elect-joe-biden-said-donald-trump-was.jpg"
+        width: 1024
+        height: 708
+        isCached: true
 
 secured: "An8+EvI9xwx8/ZGmF8sizNeGGYmI7b0CsUBxTS3bOG6H1IIWJwH0vjopwKJ1s6bUC2KcDLOyRseCJ9rv03fuXsv8jdSeWy87a8YufNxOvNj1USNJfKiMn9peLiL6XfUbhVjg8ogAbImQI0/i94E2AwWxmnz/YsQafiaTOajSmQFbfJduVsLC1s/PUqSPUSVKP0x62Jhh7/efFz5cgAW+oHH9HidiDHFRYwCfeXl3G47hSzKMko6iMbJ4tyhbmSc9mH4kCm3YGwBtk2c0/23fQ4XlkUzOu+hozPiNAFkJRZ0ku16Y3WoLL3aRtRWTPQkfZoDSh/h+WGrsIhRNEAuZCBClzZxx0RF7L/A9MU3OiLQ=;/l4yOJUZApyAZv/Wv0M+hA=="
 ---

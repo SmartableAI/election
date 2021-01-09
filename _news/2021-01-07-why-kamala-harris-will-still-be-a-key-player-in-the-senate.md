@@ -2,26 +2,26 @@
 category: news
 title: "Why Kamala Harris will still be a key player in the Senate"
 excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-publishedDateTime: 2021-01-07T14:00:00Z
-originalUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-webUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-ampWebUrl: "https://www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+publishedDateTime: 2021-01-07T12:00:00Z
+originalUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
     width: 1024
     height: 683
     isCached: true
@@ -56,6 +56,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Kamala Harris dissolving PACs, giving money to charity"
+    excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
+    publishedDateTime: 2021-01-08T12:41:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
+        width: 2048
+        height: 1396
         isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
@@ -136,6 +150,6 @@ related:
         height: 517
         isCached: true
 
-secured: "MkssQYJqHzZnVP6wzjKGlUdKEnQNpKkSg3MVIbung1jMJca2lKO46zU1GVT4WTpXIf9l2h8Nyg0PYRDad6wnlTNvBag3mtNdRYlmih/sWUQSj2NUmbKdIZQ4AfexRwZ1T3sSeGpVmUNzdrACSvKhp2zKLfiOeqoYXOGxBIR8Tb4/TsMnisYjOWlgImVuYO1KGbarryZqhUfXVOE35ndSK/kxsg1ERXHavheOY8Jh1KYuiyOO23iDh/YJaY5lhp4PLBYIcrhD6H4w5HDFbcvE8mW8RyYeP/AohVSK4PiB8xl01II7zDBdjgQ4XeFjePiuAKXGmRxbyyxsbBLkLOvuZNsqp8bYsLsWLqv81Zhx7FtzlVZteAElxC5hS8wvYRtWUkLf2SqWsv3PNCRGNuE7L7H15NHGqlNz4wa/JJ6hVff1jojI6CwGF+GRBiMnnNspIG8G7qOMiU/81c3eFZ4mlpyLi4hjdvAHS/aqvBgYSMqO1ALPw2+9vDiin2yUKH0MSYYM7sF9BxY6PCKFUq2xiA==;mHoe45AEeZaZvtHUetYBeA=="
+secured: "fQsbqVPYmChZppdzh7sL2dgoSQbTouiFb4/zodh06LKUol1fQkF/yKB0Nx6t3UMBKs8uXxyBqJ8Jb6JUPMWEyiIhD3GZ4gnKOnef2IKVtUmvmZeBWnMPdbbRzPZ5OfQyLC7WC1sghZliZym6gmvVAUsmnyGkXcrwemrAUW8+VSvRtrDJfOJSDJvSYDrefhg+PZ8sa8h6aqgFZiExvef4tYFr4086BPe25eAF7nhlKkJtrlzkmxgwEu2ntqrZbA4iPHDcFMwUkTx9m426hQKWRBHRJG2S0JVwZVKidGiZlhYiIGlGxFJRshp8Ai62Ssg2jJRenG5HMp/WlW84K8pxeDaasvXMZ1vbuWXk8Q329N4=;K/ja9pjz+Zjoxiqy4M19+A=="
 ---
 

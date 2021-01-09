@@ -494,6 +494,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Facing Intensifying Crises, Biden Pledges Action to Address Economy and Pandemic"
+    excerpt: "With job losses, record coronavirus numbers and politics in turmoil after the storming of the Capitol, the president-elect pressed for quick passage of a stimulus package to help struggling Americans."
+    publishedDateTime: 2021-01-09T01:02:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/us/politics/biden-economy-pandemic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/us/politics/biden-economy-pandemic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/us/politics/biden-economy-pandemic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08dc-biden/08dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment threatens to derail Biden transition"
     excerpt: "JOE BIDEN told reporters on Friday that he was leaving to Congress the decision of whether to impeach President DONALD TRUMP for a second time. But lawmakers’ decision will alter the course of Biden’s transition and presidency."
     publishedDateTime: 2021-01-09T00:03:00Z

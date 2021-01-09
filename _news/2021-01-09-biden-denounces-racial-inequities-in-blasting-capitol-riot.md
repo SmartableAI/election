@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Capitol siege raises security worries for Biden inauguration"
+    excerpt: "President-elect Joe Biden’s inauguration on Jan. 20 was already going to be scaled back because of the coronavirus pandemic"
+    publishedDateTime: 2021-01-08T21:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/capitol-siege-raises-security-concerns-biden-inaugural-75132261"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/capitol-siege-raises-security-concerns-biden-inaugural-75132261"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/capitol-siege-raises-security-concerns-biden-inaugural-75132261"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c6971aa91eec42e38f288cb75e4296dd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
     publishedDateTime: 2021-01-02T21:39:00Z
@@ -213,7 +229,7 @@ related:
   - title: "Biden says labor secretary will encourage unionization"
     excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
     publishedDateTime: 2021-01-09T00:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG"
     type: article
     provider:
       name: Reuters
@@ -235,6 +251,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "U.S. governors work to speed up vaccinations, Biden pledges faster distribution"
+    excerpt: "President-elect Joe Biden may speed up distribution of COVID-19 vaccines to U.S. states, a spokesman said on Friday, in an effort to jump-start the slow roll-out of inoculations that have made little impact on the pandemic one week into the new year."
+    publishedDateTime: 2021-01-09T02:25:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa/u-s-governors-work-to-speed-up-vaccinations-biden-pledges-faster-distribution-idUSKBN29D2K1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547138064&r=LYNXMPEH0715K&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
     excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
     publishedDateTime: 2021-01-08T10:24:00Z

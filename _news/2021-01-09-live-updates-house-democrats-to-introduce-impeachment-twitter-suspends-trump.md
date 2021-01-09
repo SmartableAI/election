@@ -2880,8 +2880,8 @@ related:
         isCached: true
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-    publishedDateTime: 2021-01-08T09:35:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
+    publishedDateTime: 2021-01-08T08:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
     type: article
     provider:
       name: Reuters
@@ -4378,6 +4378,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Twitter Permanently Suspends Trump As Presidency Crumbles"
+    excerpt: "President Donald Trump, already facing mounting calls to step down or risk impeachment, suffered further ignominy Friday when Twitter permanently suspended his account, saying the US leader is too dangerous to use the platform."
+    publishedDateTime: 2021-01-09T01:02:00Z
+    webUrl: "https://www.ibtimes.com/twitter-permanently-suspends-trump-presidency-crumbles-3117599"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-elect-joe-biden-said-donald-trump-was.jpg"
+        width: 1024
+        height: 708
+        isCached: true
   - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
     excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."
     publishedDateTime: 2021-01-07T00:51:00Z
@@ -4388,6 +4402,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "/mj7OmePbt6xFJBsv2an7wmYUueMP+RyP33ISsQQQ6yKQIC8WeuD2iBSWljjub87QzRJh+VPC57Zl34GUNYK9IbqwSeKzofNehen4ZvYqV6c628yaDH6OXwpgAF+CFdUZYHay5gI+Q/ExIqMrYwu9hXs39CqJ7XULfPvH/vd/QVD5XVC9dK1AfmFM5y1tVLx7X3reprYeWS9rreEnyXsqH+yOV3JF6lyLYy8TRIvBtYVCJTVqkQecTQOR5wZe2zHwjV869qPUUcb7k3+7XhTtoEGNW6hiYUUNhuLVZr3X0MF349zSwB9DnQgbCnOIktAr+82I6t8qb4ApAM90WEc9DhwKaBdDtBYRSnP63o17XU=;C14mJuLQhxENG1i6nMQgsw=="
+secured: "yN9Ri0Yi1w98C7PoyoVDJ/kZfXkboE6fsEUztMLUmpVEKyCg7TaYqqoYCDdxn+KmfhdNLT5a0YlqBqLh3jZIKvufalLYuck6HiWxMiUf21Wd/67UibvsfJpAAEbQ0WUQgWPhJ3tRw1PV7Of91km0yoU/oMUT9mUW82jKbpIVdCv1/gOuBJjqsfa9f91L/Ya5WNnmRotbCyQR5UyYDhDHsmBnD4eWuWZNBv3koX2btPzStH3mgHjjjPuLbB3NAq9q++4/X1rPRtwsXbMTv0nPsOXUsEerRhN+yKaAudB5fK0mniHyP/7XR3CSh+Vh01cfswqqvg2y92mhRyIhB6a5Xc/Qf90AzqhZZWcqPmokA4mHc3jqKQWM42urAMSUegVkvdClyrNdClTSn999QzvIHR7YowDN/7EAcLQrDTRKyrm/eMpp+mWVCu2blBDCnX7CWCRx1dZPxJFA0ZzO68/4otWkNUQGx2/z32qNLch8vt6O8Ngld2MOKV8vSMdurIZdYWfSgLwswbTWDy6FgAwCcg==;1Ou2Z/vzt3OkNYs/yDnUyw=="
 ---
 

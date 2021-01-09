@@ -2,9 +2,9 @@
 category: news
 title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
 excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-publishedDateTime: 2021-01-08T09:35:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-idUKKBN29C2RE"
+publishedDateTime: 2021-01-08T08:21:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
 type: article
 quality: 119
 heat: -1
@@ -4378,6 +4378,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Twitter Permanently Suspends Trump As Presidency Crumbles"
+    excerpt: "President Donald Trump, already facing mounting calls to step down or risk impeachment, suffered further ignominy Friday when Twitter permanently suspended his account, saying the US leader is too dangerous to use the platform."
+    publishedDateTime: 2021-01-09T01:02:00Z
+    webUrl: "https://www.ibtimes.com/twitter-permanently-suspends-trump-presidency-crumbles-3117599"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-elect-joe-biden-said-donald-trump-was.jpg"
+        width: 1024
+        height: 708
+        isCached: true
   - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
     excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."
     publishedDateTime: 2021-01-07T00:51:00Z
@@ -4388,6 +4402,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "FfHGdLffK3tyzWcRqZcptC6ucCM6hlBcVU9sVZJvEkRwyZYWJy2otSnfDqJdd63kVxJlI+KTnJjeYVoxCYUCylJj4eJ59DVbcEzyZOojkmTQ7Vui2vX/lqlrSUev4F83Mcfvd/yE0TuHT7eje7mcC9J41RQ9cbwqtptN4RxGdmeogmH0vxPq6gLYZsIowRt9b/Zie0aXaX+bWdNCMjm5oYPZhqwSNDp3C6ymZep5SO3pkA6ZQkuz01utwWDacJalrU370VEP7xQ2i+qQeDnmE7H018+rfW9yAbt8SQgcl2VVmOCEnWsGeM9eM3eeiq73A6mfT6jDbbFOpcM7CzjpApiEv8feupqZANXPBRIM2EI=;bmV53Z4UVxc5u1TGzU6Dlw=="
+secured: "C9WuWdIVqbDTo4gU3xBQCy+XnXiC8UDRdmkfWJ52lldQcU1IUIiHOZxbYobF7izMpZZ/dkZwjjgyHKNyV56bwMAETjinkKH2T+oKj/a30zk0nVnmqWKFgic0Mx8ZLhmzecSiOEK3G88gOBOkCERABh8TObZ4peoHCT6/xVFQuTOWj9t2Yir3vfrNlDoE3aM5oVLVZFTtF9svUXzDVNZvaSo+R+YZry9Mhgx6h4vAyqhTdS3kxbU3F4g4CQenvwQDFVplhZ0H6gQP4YOwUOE4XcT6dj8sNXyAFee+k6oV42YbPTz/qhctvApAkV2xtuBq/oM40D9h5Tm1vAmugSw+UKY9oO81g91vCwTUyBqI4ZI=;dbo+HsrnATLS5Ov7fUhHbQ=="
 ---
 

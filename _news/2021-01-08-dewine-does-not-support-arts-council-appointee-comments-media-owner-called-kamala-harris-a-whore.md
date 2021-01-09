@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.dispatch.com/amp/6591724002"
 cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/6591724002"
 type: article
 quality: 61
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PYHAGOCZFFBC3ONEEVBATNEZXM.jfif"
         width: 423
+        height: 300
+        isCached: true
+  - title: "Supreme Court Agrees to Hear Case Challenging First Amendment Violations by Kamala Harris and Xavier Becerra against Conservative Nonprofits"
+    excerpt: "The two cases challenge significant First Amendment violations against conservative nonprofits by the California attorney general’s office."
+    publishedDateTime: 2021-01-09T01:41:00Z
+    webUrl: "https://www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/"
+    ampWebUrl: "https://www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 40
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/supreme-court-columns.jpg?resize=300%2C300&ssl=1"
+        width: 300
         height: 300
         isCached: true
 

@@ -479,6 +479,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Facing Intensifying Crises, Biden Pledges Action to Address Economy and Pandemic"
+    excerpt: "With job losses, record coronavirus numbers and politics in turmoil after the storming of the Capitol, the president-elect pressed for quick passage of a stimulus package to help struggling Americans."
+    publishedDateTime: 2021-01-09T01:02:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/us/politics/biden-economy-pandemic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/us/politics/biden-economy-pandemic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/us/politics/biden-economy-pandemic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08dc-biden/08dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Why Biden is quiet about the Electoral College challenge"
     excerpt: "When Senate Republicans spent weeks refusing to acknowledge JOE BIDEN’s victory, Biden’s response was: chill out and give it time. Biden is following the same playbook now as dozens of congressional Republicans plan to challenge his Electoral College ..."
     publishedDateTime: 2021-01-05T22:48:00Z
