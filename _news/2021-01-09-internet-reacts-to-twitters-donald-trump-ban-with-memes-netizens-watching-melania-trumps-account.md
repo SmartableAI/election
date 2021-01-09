@@ -31,51 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
-    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
-    publishedDateTime: 2021-01-08T21:40:00Z
-    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+  - title: "Hillary Clinton, Chrissy Teigen, Megyn Kelly and more famous faces react to Trump's Twitter ban"
+    excerpt: "Here's what Meghan McCain, Megyn Kelly, Chrissy Teigen and other celebrities are saying about Trump's permanent suspension from Twitter."
+    publishedDateTime: 2021-01-09T10:23:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/08/twitter-bans-trump-chrissy-teigen-whoopi-goldberg-and-more-react/6603886002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6603886002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603886002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 92
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 989
-        isCached: true
-  - title: "Ivanka Trump Twitter Blunder? First Daughter Tags Meat Loaf In Selfie With Donald Trump"
-    excerpt: "Ivanka Trump shared a selfie with her dad, President Donald Trump, on their way to Georgia but tagged singer Meat Loaf in the tweet."
-    publishedDateTime: 2021-01-05T07:35:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Donald Trump Tweets From POTUS Account After Twitter's Suspension, Claims He Was Being 'Silenced'"
-    excerpt: "President Donald Trump tweeted from the official @POTUS account Friday evening shortly after Twitter banned his personal account, @realDonaldTrump."
-    publishedDateTime: 2021-01-09T07:26:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
-        width: 1024
-        height: 681
+      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "NXA9+YBm4f9bIkc4/UrgIwK5dwqbXCByJ8oUAcCfHZehkm55hyXzA6ZfhT8/JIE5BsfqrtGpxfyvvrkTVP5oVz9t0YURoulea9yT8Ccx7GsFyL7ULHMuADM4dnbJLqT00cc4JX24aNjGDqTpTfuhhrUqnj79ak+DMKeYl72WEylvdOPovtqeUh5zH9TDulr7NvNtQLkWTvE1GyAZDjYghefad7PGGHErcKdFmYhs4OOQ4IPhL+79TbvgQaMfpY7axvwDTdnJXmSQNDfkqa7d7FMnsaaYKIXezvBaUdD9DpGrGEdnePGKB/Ek+o9QvoajzdBFeGGOBYj2DW7eRS/YHmfo9Z1B90d3fPd9wcosS40=;ML/g+Nl480CzhbADE1PRHw=="

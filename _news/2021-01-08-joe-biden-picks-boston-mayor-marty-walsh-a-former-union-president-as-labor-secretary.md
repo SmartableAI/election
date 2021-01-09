@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden urges restoring decency after 'assault' on democracy"
+    excerpt: "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden's election victo"
+    publishedDateTime: 2021-01-09T10:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-calls-mob-pull-back-urges-restoring-decency-75093815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-mob-pull-back-urges-restoring-decency-75093815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-mob-pull-back-urges-restoring-decency-75093815"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b231478a63ef4e26a8929b5ece1c2924_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Capitol siege raises security worries for Biden inauguration"
     excerpt: "President-elect Joe Biden’s inauguration on Jan. 20 was already going to be scaled back because of the coronavirus pandemic"
     publishedDateTime: 2021-01-08T21:49:00Z

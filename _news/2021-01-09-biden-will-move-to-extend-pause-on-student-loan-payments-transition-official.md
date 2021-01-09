@@ -2,9 +2,9 @@
 category: news
 title: "Biden will move to extend pause on student loan payments -transition official"
 excerpt: "U.S. President-elect Joe Biden will move to extend a pause on payments of federal student loans when he takes office on Jan. 20, Biden transition adviser David Kamin said on Friday."
-publishedDateTime: 2021-01-09T02:06:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSW1N2IV031"
-webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSW1N2IV031"
+publishedDateTime: 2021-01-09T04:12:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSKBN29D2WM"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSKBN29D2WM"
 type: article
 quality: 102
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-    width: 1200
-    height: 630
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547163333&r=LYNXMPEH071C7&w=800"
+    width: 800
+    height: 549
     isCached: true
 
 related:
@@ -2892,6 +2892,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump joins a select few in skipping Biden's inauguration"
+    excerpt: "President Donald Trump’s decision to skip President-elect Joe Biden’s inauguration is not without precedent, though one must go back to Andrew Johnson in 1869 to find the most recent example."
+    publishedDateTime: 2021-01-09T10:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -4443,6 +4454,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "+W+9vzf2WSCHPS0Mj+Hcp7KQe7KGb61sbVBJXM/flH5g4YP+GOnou1GYCOk/wkngdUsuPz9HouiCNznR6gWr4e1uv/raIuvvw5A7HxX9Gyen/LPZp9SFDXPpgy0XohuM6KvoDia6Er/aOIDDgzFRoWXqu5XS90S/hQyfo1pNTdwpYj9g5jf9PjlHh+kvbREjw1IMmbBRy/FRIg0KL93bo72tfUlLHvPPSWf2dfVLCxg0BEvquVTBoESBL+KqWSADLAUAYV1qgBr0dgLaA/d6barWZAVHhe70stEcM0gTsxSPGFFbwAlQdwwfVGOc5hMq+sfGeSc+2EGsbiDSi+HQsTPl+HUtko5MLpf3PTSlasU=;8lyWqKeqRD+3Y/pUC0WgHA=="
+secured: "nzRKAxXjAN8kbNn0Z5+3Y3pIaTN1N9yF1yEfxcJ0dCXsKNKua8A0Ps4gvC5xD3STKfUcXII0LBJA7DCFB4BM0U6sOfpcc7soZX/cawntLs3iqUi4yXP4KudlJbcSi00r7QtC6PH8M2TrbvZeHwGshJF8GfLsiVIs8Po7eqlyUoJivkVjqSR29z+fdjL380ZfdDB/sKAacj9e4Q+6NrWvhHUuPpo7KBn7PpCT9WGxnH92tm1Pq0lz/dJ+E8zX5NfJew672kZStB/UzmpNunV/Y50JcI40QFPggTb06TJ7/qDZr+eMSHyrxJeHzLUmAlfUqs5ApjhjclaBwJTHPmt9STUYSitpzWfC9GcZx12H7is=;kn64gvMRZRzR0C+sixE7Vw=="
 ---
 

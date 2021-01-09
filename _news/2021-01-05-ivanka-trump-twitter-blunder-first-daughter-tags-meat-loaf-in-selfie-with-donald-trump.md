@@ -61,22 +61,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
-    excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
-    publishedDateTime: 2021-01-09T04:58:00Z
-    webUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756"
-    ampWebUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 61
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
-        width: 1024
-        height: 642
-        isCached: true
 
 secured: "JCxh5NJor53DCu6BDQBa+qEWzoDDAeD6rA7wuuIVNwHhxnUqdfhaE9saR8eW4TizUl4q10DqpX4so0bWSSTBKNedER/9y5jVgRu2I/hoPH4ID93CjwCDEvOkAZNeI6mPtp1FTQj0rpgF/dkQs2kJUftY+o7SckVoa3yX8rT1DnhS5DonLOpjzwByssPodDLkkCRfKcpjmqjMq8hlcitFWxh/ufRrwufQmCQIpf7CEsZovZWD7W+ev0KupX7HGAdNH3Gwm/BCuCavWDGxZDZWOuSaWk5gPPIfDIUxDHTbJ/QDw1990LH5OIGrOrE4PsAYD/zA9nfnpGK+cGwMyqcH7JXPLjBV0zAzamoYYNEfj8pNGIC0Evb0bh/om/RN0SXJg7YEWiIjHsXMUJDIA7oLEGbZH+5W5LZSXDsZO2uOsAbaZw+qx1g5QAwemvTu7Cj8J3i4DVkYt64EkgxgabsE/0vwuhpQmEJaDTw+ObOViIJ3rXlpwpBoPMnomfnF581JKirjTOhI+Tfub6haKbqjyw==;4SmHpnaW8V0hU5HBMbPgCA=="
 ---
