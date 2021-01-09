@@ -1771,6 +1771,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Twitter Permanently Suspends Trump, Capping Online Revolt"
+    excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
+    publishedDateTime: 2021-01-08T23:31:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/business/08TWITTERTRUMP/08TWITTERTRUMP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
     publishedDateTime: 2020-12-30T10:07:00Z

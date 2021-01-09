@@ -2912,17 +2912,17 @@ related:
         isCached: true
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-    publishedDateTime: 2021-01-08T08:21:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
+    publishedDateTime: 2021-01-08T08:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-idINKBN29C2RE?edition-redirect=in"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 119
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547049995&r=LYNXMPEH07058&w=800"
         width: 800
-        height: 557
+        height: 450
         isCached: true
   - title: "Trump U-turns to condemn Capitol violence as calls for removal grow – live updates"
     excerpt: "Cabinet resignations as low-key video address accepts there will be a ‘orderly’ transition"
@@ -3390,6 +3390,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Twitter Permanently Bans President Donald Trump’s Account"
+    excerpt: "Twitter Inc. permanently banned U.S. President Donald Trump’s personal account for breaking its rules against glorifying violence, marking the most high-profile punishment the company has ever imposed and the end of Trump’s relationship with his favorite social media megaphone."
+    publishedDateTime: 2021-01-09T06:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-08/twitter-permanently-suspends-donald-trump-from-social-network"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-08/twitter-permanently-suspends-donald-trump-from-social-network"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/twitter-permanently-suspends-donald-trump-from-social-network"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -3449,17 +3460,17 @@ related:
         isCached: true
   - title: "Biden will move to extend pause on student loan payments -transition official"
     excerpt: "U.S. President-elect Joe Biden will move to extend a pause on payments of federal student loans when he takes office on Jan. 20, Biden transition adviser David Kamin said on Friday."
-    publishedDateTime: 2021-01-08T21:17:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSW1N2IV031"
+    publishedDateTime: 2021-01-09T04:12:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden/biden-will-move-to-extend-pause-on-student-loan-payments-transition-official-idUSKBN29D2WM"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 102
     images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547163333&r=LYNXMPEH071C7&w=800"
+        width: 800
+        height: 549
         isCached: true
   - title: "Congress set to confirm Joe Biden's electoral win over Donald Trump"
     excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."

@@ -3,8 +3,8 @@ category: news
 title: "Biden says labor secretary will encourage unionization"
 excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
 publishedDateTime: 2021-01-09T00:38:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG"
-webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
 type: article
 quality: 105
 heat: -1
@@ -298,6 +298,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dY1JrAoM7EWwKRqablzjf4gpwXJjS88YAAaJB9G9xZWfkH+DN+IkkrDO00jft7uhAc8iqfbBqGsW6tHGmVZziiTmdP38Y2MdN2RvIMpjX35q/+KotxkYTmlQuxkVOnGlb0iMjrG2c6Lm7VLtp8EJLynElDxV58r59D6qVVKKDqKC9jLyCJDK9Oqa5GP22vjE4YYbP/Fhujbksehz6Yo4f4J/E50GVFPO3I/U/iWv2iC3HYSC3EBiqN7A7N2/4/cf+W9Mfdr/WWgbker/FS7QqKEgO8IlduSCmnJHCFCAyjiWBTu2r2EpJuWmixICDFxhoZHbVJIrJr0xpU72wyHrY1FfsvWLD7tKjB544QneNLzHZoyf+Z4yIGxvjHxhnxr9OSjIVsFkoS0TcO4zA15Q1JWu0mzmDXA3kRhmaH55fG3YQS4pSZ7TO4rqHulLPXqxV/imKb5ZM/+vnqsrMFpCixZxVWemX3KAL5NYzkj1wxaLNjkI1eI7jzKjHTk2xYHgpHl/ExIIhNA/7xrj+y+ZNQ==;HQww9cMCVvM/GyhnbVthzQ=="
+secured: "wHVlKXy9ok53T2EjO3VXVOHe+ADGnpN94OZoSmkvX/gn9jfRS+tsrSq4Obk6fBKDC3lUIJ1/cW3bkUy/cmjGD/GrL0dnB6gfjWWo6fOzfuQddbefatJc1/23S7MpRaEWcr/gNOZal8YZZO3LjdvboTLl3XXB8M5c1AvCV+V4xEjSbM17FtwgnjiLxtCGsKN22pk8X+5VjhOwnAXEjT6XVTjfGaA/VdUgLAKXWcm5WgJY6uV/RB4bxXmd0/l3SlNssZdtn9ERUMq2v/++V0nX+7KldmQGOPtyO8M+2zFL3uEJg/qFqFRywU/bSZttt1eLPT+EeEk7hJH3J5h9G33mfl+4ZzeBYbqs6UmZeQFTBMY=;6VO+xJExka9SqB/VkhFzOg=="
 ---
 

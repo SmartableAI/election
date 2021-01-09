@@ -228,7 +228,7 @@ related:
   - title: "Biden says labor secretary will encourage unionization"
     excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
     publishedDateTime: 2021-01-09T00:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
     type: article
     provider:
       name: Reuters

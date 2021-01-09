@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 2875
+heat: 2895
 published: true
 
 provider:
@@ -1767,6 +1767,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Twitter Permanently Suspends Trump, Capping Online Revolt"
+    excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
+    publishedDateTime: 2021-01-08T23:31:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/business/08TWITTERTRUMP/08TWITTERTRUMP-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

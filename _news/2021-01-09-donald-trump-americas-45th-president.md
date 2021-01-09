@@ -1784,6 +1784,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Twitter Permanently Suspends Trump, Capping Online Revolt"
+    excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
+    publishedDateTime: 2021-01-08T23:31:00Z
+    webUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/business/08TWITTERTRUMP/08TWITTERTRUMP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
     publishedDateTime: 2020-12-30T10:07:00Z
@@ -2129,6 +2145,6 @@ related:
         height: 773
         isCached: true
 
-secured: "JgBucPIZG4PtHdDCFmuSULdQdj8CbKIHkTC60JkIQLiAYnfmpJOsmqmkayG1a7XuUGnD/kPSB0E8cyFSl6przT4+pd38yCqdf2nz/2Tuuhy1gklDFMdg6TUYco8zmtiu0oSvYuGV/Urj6uId+5hoxsmxX9AF4c/y8qr5crffLoC02sPj1GinRS/bGyOP4Ucu/qCxJHX4FwDo69xmgL2Yv/D6s/ci4Aq+CtECeaKZ7XaXLYdQo0StK/X6/yK9dK77YSrVCiwTMNnj/BhCUedVneTpt9QGCDnZMdCHu4/45PW4hQ7pt/y7prqCuj7ObheJ5q1vMqcqYOe6Jm5oq3STFeXyCo87oi9smQGASCjhP4I=;fU/U++cdC5ZttGvCs9NpWw=="
+secured: "HGM8kB/ByBiaYFfdEAwyWRrFULyAHDPsqcf8IDfNEEdCS5KwPAhjwZkfxiEQJ69KhsGCPf2phvLQNeeCNNuVB+clgHmNFyjatn2pe3L7NADorFZaDWcDAd2DQdGZuOw88W89rAsEQ3nTTNX7QEwvqMCt2Wj2F53UXraOGo+Pj/Qlk0aYR7dA/siUGWv1+CinaLDT3IgYBEBLSbORO45/y5JKlVLGS453LMARlV40WiYR3adxqS+6ru13JDBLv2zC7U5Qnrk7CFA8nFv620BDksIf+p/cS8PsjzD4sfWAJ8t4smhu4ySAWlzGnRy7eKMNKPtYOH15dh/8dIQBKsEKWWYohfWTurmk6fIrXWw9YmurA6GaUTPdKfp5Wfw+8NA+tnVmcXLoCEW7V0z+88oO6hA0t7B1wxetnj97joawyPziS8M36OADIh6PAhO6b0CHgCtf8WdfuiIs1h31GWcLtLgG68zgwORGKGpS1xj2VVKS45Q0vFY8/bxkGOKNvaEAjVzvj16NvI3R7KJtVq4BgA==;R2+79ILrg0YLjbvWP9n4Qw=="
 ---
 
