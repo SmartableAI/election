@@ -303,6 +303,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Maryland Gov. Larry Hogan blames Trump, GOP lawmakers for Capitol riot"
+    excerpt: "Maryland Gov. Larry Hogan, a longtime Republican critic of President Trump, on Sunday blamed him for inciting the riot at the U.S. Capitol and slammed GOP members of Congress for lending credence to Trump’s false allegations of election fraud."
+    publishedDateTime: 2021-01-10T20:19:00Z
+    webUrl: "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
+  - title: "US diplomats make extraordinary protest against Trump after riot"
+    excerpt: "American diplomats have drafted cables condemning Trump’s incitement of the Capitol riot and calling for administration officials to support invoking the 25th Amendment."
+    publishedDateTime: 2021-01-10T20:07:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cae3c97/2147483647/strip/true/crop/6364x4156+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F1c%2F17c25ffb4ae1a7146acf99960566%2Fla-photos-1staff-683969-me-shasta-county-covid-gxc-0015.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
     publishedDateTime: 2020-12-30T22:38:00Z
@@ -556,6 +588,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican U.S. Senator Toomey says Trump should resign"
+    excerpt: "U.S. Senator Pat Toomey said on Sunday that President Donald Trump, a fellow Republican, should resign after his supporters stormed the U.S. Capitol in a deadly rampage last week."
+    publishedDateTime: 2021-01-10T20:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-toomey-idUSKBN29F0E6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547281312&r=LYNXMPEH090BS&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "US diplomats in extraordinary protest against Trump for riot"
+    excerpt: "In a highly unusual move, American diplomats have drafted two cables condemning President Donald Trump’s incitement of the deadly assault on the Capitol and calling for administration officials to support invoking the 25th Amendment to remove him from office."
+    publishedDateTime: 2021-01-10T20:14:00Z
+    webUrl: "https://www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
     excerpt: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
     publishedDateTime: 2021-01-10T14:52:00Z
@@ -775,6 +832,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "GOP Senators Urge Trump to Resign; Impeachment Gains Support"
+    excerpt: "Two Republican senators now say President Donald Trump should resign in the wake of deadly riots at the Capitol, as support for the House drive to impeach him a second time is gaining momentum."
+    publishedDateTime: 2021-01-10T20:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

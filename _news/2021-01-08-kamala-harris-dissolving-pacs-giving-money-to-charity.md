@@ -123,6 +123,22 @@ related:
         width: 2048
         height: 1396
         isCached: true
+  - title: "Kamala Harris graces Vogue's February cover"
+    excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
+    publishedDateTime: 2021-01-10T19:22:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9491610304059/2021/1/e71fc3988655d9bceba398d2eb3a7f14/v1.5/Kamala-Harris-graces-Vogues-February-cover.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
     excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
     publishedDateTime: 2021-01-07T21:54:00Z

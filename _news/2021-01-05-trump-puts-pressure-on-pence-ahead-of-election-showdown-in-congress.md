@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 2055
+heat: 2075
 published: true
 
 provider:
@@ -1453,6 +1453,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/53/531877_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Donald Trump: The Inciter-in-Chief"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-10T20:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531912_5_.jpg"
         width: 750
         height: 500
         isCached: true

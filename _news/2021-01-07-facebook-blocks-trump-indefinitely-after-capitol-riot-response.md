@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Is Over? Not So Fast"
+    excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
+    publishedDateTime: 2021-01-10T20:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/trump_is_over_not_so_fast_533086.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "Y7oNySyY6tjlz/zidNcM+Nqw//4/xl7Z39S8aj9840z/BOW7rNE9r1Df8DkmIBN7iBw4RWP/k2yCVdH3FNUmyjcUKE1o2Zd/vjuiVfNohEJHOzUTC+fKvqd6s6/qXsRjHZoBfAOKZtIQklGnC9KfV1E3UyoIXirMVwZZ2bbmPE5/12yej+B7tsSAR27/modKFw9esUq8pmSfTvh3EaKhj6Nfw8tj385M1e5QkqSZ4vNnh2JBJjKDeNxH41BkGy6wGvTj/qumMewLV56zi+kaTw8lEphNalweSqThl6w7I3O5UxMUVR7WIYx2KWIs51wfQZdDR7mIsstfez+mCHDiTlGAgUuXwaBDZCRCN3iZa7A=;+pNa5KxTs5m8jNoEpTLKBg=="
 ---

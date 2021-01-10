@@ -2,19 +2,19 @@
 category: news
 title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
 excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
-publishedDateTime: 2021-01-10T18:43:00Z
-originalUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
-webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/6615222002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6615222002"
+publishedDateTime: 2021-01-10T18:19:00Z
+originalUrl: "https://www.freep.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+webUrl: "https://www.freep.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+ampWebUrl: "https://amp.freep.com/amp/6615222002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6615222002"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "mt0rBQZyJliQgGfkoOwDVJgQdHhUbK8JkawoMnSs64MSgUlG1jcZnYmwbx1LKFKGkYsPRuJ9naDiVtM5pAsxXeTIUX5XXZfIHgzUBvIATJrEfU0pScTe+256Y2Z84FHnG+bNODTWaN0g5Rit388YrWPSosKUYNBrwjMW/Cv+ziGITIyE5PFMzrKdsCww54vzeSV/Q4m02U65UCpyrquOiZHGBgcCafGfDeqQbqi36SdB0nQ9vDYmYDn3T0DpS8a/Z9v9iMLHkn7mIrwsqmIHVXlBUgchu6uPxa3nXfMMyvR7kbZ+42g8Qf1cQwBT4RYFj1SScFOaf2b4UoD0RANWPj+2o+BOw+qWzqYjE+NpkuE=;nfBIutKrtENpSHyKNnhqCw=="
+secured: "204zrPKfnukL7yqxRHyqrXeCzO1XQd/htQ/pKjagIITI5qMd5T3CpP92LFZllxxduqTcoLWx8+RhsFIxhw3Up+iI3Ue7McXm70n6N6/l+h6I6M4V3C0jXqNMTLI+bdAf6tMF4wcD2OHS2yuHBiHR9SM3cCEbKYW/uIFaAR5TtrKbp0EkhHOPUWuwIrBWy/bbmoExI20UM3MgJqafvRKvt+owTxFfJimL0WJmaGyD32bYjzIm92o4fl60gNEJcLKgZzaMaYyppcS/hr2Az8z4576flTgDWUjkKSC3QWGfKihoVtQNl4v4GRyhsiLUBSn7jxQIGYBnp6+2o6W6vbwjA/JPNR2CWoYelMYwxijv+nM=;zrSjqe+4ps/N1eAMVmJ0yA=="
 ---
 

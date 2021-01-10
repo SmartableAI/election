@@ -106,6 +106,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Is Over? Not So Fast"
+    excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
+    publishedDateTime: 2021-01-10T20:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/trump_is_over_not_so_fast_533086.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "8nqb1HV9gZlrQszxRBmlCwco0XJ+CqZlmVHarE6uj8VK106NPSbbJczvDb87JceBKSwcMJsGLeowgVQFhijw04eIUw5o3Oe5EQ2g+MlFR+hWrfiwYmYzq/xmJ4dtUVPNA0c7qxYAFtnUOu0yK4PHslw+AYv92Yz8Fw/O6HGrA1ruooxQsH1FlZwkW3Y0Qd+tKWP5JHjuBqL5vjKsCN0qgIIb2+nmPQdz+UfOfEn+AMBzNJvTOWitzOQWfboE4ge+VgfWceNga+f6mIJy2McgXiBQasIJCM7d/fYZUnBXotriQMtqFHi0YbMloT015YXa7pVSxC2wkhJYZYJ50njgPn33aUuf/PB/ayOuEQX6fQY=;ztYMoUUSaK++xumGjCZWkg=="
 ---

@@ -1460,6 +1460,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Donald Trump: The Inciter-in-Chief"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-10T20:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531912_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "The Impending Divorce of Trump and the GOP"
     excerpt: "It remains to be seen whether Trump will enjoy an afterlife as the leader of an independent party in 2024, or remain on the periphery of politics. Read Full Article »"
     publishedDateTime: 2021-01-10T12:04:00Z
