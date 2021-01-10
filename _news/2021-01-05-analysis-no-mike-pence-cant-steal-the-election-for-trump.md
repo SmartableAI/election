@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3075
+heat: 3095
 published: true
 
 provider:
@@ -2065,6 +2065,22 @@ related:
     quality: 130
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025043134-mike-pence-october-24-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "CNN's Elle Reeve: 'Donald Trump plus the Internet brings extremism to the masses'"
+    excerpt: "The rioters who stormed the Capitol livestreamed their crimes, took selfies and chatted about their experiences later online. CNN correspondent Elle Reeve felt like she was seeing online extremism in person,"
+    publishedDateTime: 2021-01-09T21:39:00Z
+    webUrl: "https://www.cnn.com/2021/01/09/media/elle-reeve-firsthand-account-riot/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/media/elle-reeve-firsthand-account-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/media/elle-reeve-firsthand-account-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109165301-elle-reeve-firsthand-account-riot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

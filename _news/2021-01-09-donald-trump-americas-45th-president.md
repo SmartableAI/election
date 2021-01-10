@@ -2082,6 +2082,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN's Elle Reeve: 'Donald Trump plus the Internet brings extremism to the masses'"
+    excerpt: "The rioters who stormed the Capitol livestreamed their crimes, took selfies and chatted about their experiences later online. CNN correspondent Elle Reeve felt like she was seeing online extremism in person,"
+    publishedDateTime: 2021-01-09T21:39:00Z
+    webUrl: "https://www.cnn.com/2021/01/09/media/elle-reeve-firsthand-account-riot/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/media/elle-reeve-firsthand-account-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/media/elle-reeve-firsthand-account-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109165301-elle-reeve-firsthand-account-riot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Listen to the full audio of Trump's phone call with the Georgia secretary of state"
     excerpt: "In an astounding phone call, President Donald Trump for over an hour berated and threatened Georgia Secretary of State Brad Raffensperger, repeating various false claims about voter fraud and begging the Republican official to overturn the election results."
     publishedDateTime: 2021-01-03T23:50:00Z

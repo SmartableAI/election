@@ -351,6 +351,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden: Trump 'not above the law. Justice serves the people — it doesn’t protect the powerful'"
+    excerpt: "President-elect Joe Biden said on Twitter Saturday that President Trump is “not above the law,” after the House announced it would be bringing forth articles of impeachment on Monday."
+    publishedDateTime: 2021-01-10T01:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007689539650.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Media Buzz: Mob violence halts Capitol Hill election debate, Trump accused of inciting protesters"
     excerpt: "When President Trump addressed a big crowd of protesters outside the White House yesterday, he was caught between two historic defeats."
     publishedDateTime: 2021-01-06T23:03:06Z

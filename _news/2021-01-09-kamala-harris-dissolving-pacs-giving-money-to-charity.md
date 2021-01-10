@@ -137,14 +137,14 @@ related:
         isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
-    publishedDateTime: 2021-01-07T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/article248310295.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248310295.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248310295.html"
+    publishedDateTime: 2021-01-07T13:00:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248310295.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248310295.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: SanLuisObispo
+      domain: sanluisobispo.com
     quality: 70
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"

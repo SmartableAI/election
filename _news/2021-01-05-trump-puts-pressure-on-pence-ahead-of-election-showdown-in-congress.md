@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 1995
+heat: 2015
 published: true
 
 provider:
@@ -335,6 +335,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c902c9c-970c-4aac-a10b-0344f3d11e29/c7d224fe-4b73-4162-b05b-2cc9077bcf19/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden: Trump 'not above the law. Justice serves the people — it doesn’t protect the powerful'"
+    excerpt: "President-elect Joe Biden said on Twitter Saturday that President Trump is “not above the law,” after the House announced it would be bringing forth articles of impeachment on Monday."
+    publishedDateTime: 2021-01-10T01:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007689539650.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Democratic lawmakers want criminal investigation into Trump call with Georgia election officials"
     excerpt: "The FBI has confirmed to Fox News that it has received a letter from Reps. Ted Lieu, D-Calif., and Kathleen Rice, D-N.Y., which calls on Director Christopher Wray to open a criminal investigation into President Trump's Jan. 2 phone call with Georgia Secretary of State Brad Raffensperger."

@@ -1574,6 +1574,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Pence to attend Biden-Harris inauguration"
+    excerpt: "The vice president will be there during the transfer of power, but President Trump has already said he'll skip the swearing-in."
+    publishedDateTime: 2021-01-10T02:17:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 115
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/b74ed99c-3e1c-4f21-b977-1390bc9ec1a9/b74ed99c-3e1c-4f21-b977-1390bc9ec1a9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Trump is already considering axing his new attorney general if he won't agree to a special counsel probe into Hunter Biden"
     excerpt: "Trump is reportedly determined to launch a special counsel probe into Hunter Biden's tax affairs, with only weeks before Joe Biden takes office."
     publishedDateTime: 2020-12-16T12:21:00Z

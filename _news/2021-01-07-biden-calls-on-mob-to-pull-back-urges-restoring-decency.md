@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/19Qh57wx2b8uSTs9j-qlcwB8rpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVKWVGAJ4XFDUTXSWAOPK4Z6EQ.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden still planning to be sworn in on the steps of U.S. Capitol two weeks after mob attack"
+    excerpt: "Joe Biden still plans to be sworn in on the steps of the U.S. Capitol on Jan. 20, exactly two weeks after a pro-Trump mob with rioters wielding Confederate flags stormed the building to attack the very nation Biden was elected to lead."
+    publishedDateTime: 2021-01-10T01:36:00Z
+    webUrl: "https://www.washingtonpost.com/local/inauguration-biden-capitol-riot/2021/01/09/942eceae-51e0-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/inauguration-biden-capitol-riot/2021/01/09/942eceae-51e0-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/inauguration-biden-capitol-riot/2021/01/09/942eceae-51e0-11eb-83e3-322644d82356_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HGCMORSQMUI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
   - title: "Chicago business leaders at United, West Monroe Partners, Sidley and Edelman urge Congress to certify Joe Biden’s election"
     excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."

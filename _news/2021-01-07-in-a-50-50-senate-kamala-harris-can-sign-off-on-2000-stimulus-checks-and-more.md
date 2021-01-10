@@ -2,19 +2,19 @@
 category: news
 title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
 excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
-publishedDateTime: 2021-01-07T12:00:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/article248310295.html"
-webUrl: "https://www.sacbee.com/news/politics-government/article248310295.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248310295.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248310295.html"
+publishedDateTime: 2021-01-07T13:00:00Z
+originalUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
+webUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
+ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248310295.html"
+cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248310295.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: SanLuisObispo
+  domain: sanluisobispo.com
 
 topics:
   - Election
@@ -180,6 +180,6 @@ related:
         height: 675
         isCached: true
 
-secured: "GwFlTeHhl8evXT8HNESRERt5kDfM8ShhvG0mQ8Yvryg2p/p6+63k0iPes2j9h+Y9BgDWGTxrlrQQTH5acsjfAkvacjfF4hoDnOn6yppYLiCT2LrZEmwnIKbPhKjJSbRbyP592kwYh32MeTJlNhcQt/mpg66r6VTAfW2QFaUsDtlvbI2FK6t7D1JQMOdqDXG10qQNJnty0MAP44wXNrf55tGVLDvDKLGhyxwOSZ8WMus88gqM5n6oWSafjNaTttYbmYKzFPaHyacjiM432gSCJuJBMtWh3enG+boqYxIzhaKdciZnAuu64fDymB3Vp/I35t5N6guVOCkzQEnaORYuzzHd4ydNmV5TZK+mXVVvX9q6tXUS/IjvZuGoyT6by9nWWDx8wPppJk6fbc1snRG1VCscWpUdDx9chnLc6whYnnryos8NgEn4NWrqnLR69PeQwN25F/cmoPL1ZVAwHvorox7XO5wFIt7qJL9iKCRRaXBDf0o9iAvQuRqb/yp5X0OE+q345Pbcvc8ifRr1IBRP4g==;Eany8k+X3kbVGWFbdnz9Kg=="
+secured: "wx+LpF7RLHic2D6PNm36TO3uYWrxJpmVQA2DSFkwLjgU8AFq/ztB/9U8cSgp1vvP/7xhFO7cVT4pOB02h4pZKuCUYwt2LaetGtH0g88tPcXz+xCgyfqidVu3+lPpjq636PRbOnRKoeyda5TOT2MxjA/rxqSbQ58Omd1sWGIFKj9JjM7UST6vhrSB2C7oEgAWfyOUDrLXTQ/SaI9137hjtgRRGROGZu9MLoKAt8g0omRywCxOPhQGM1WuIlZUPmdzNpc6eqxqhHBO+zuIpb7owswmQ1i4cYjLxr9ZZgJ3YQEl8piYz3UyFzKHjelv6IfwboUSZEqnpgDBbBy4hagO6aV7btUQp9eGqdUuM41VGvk=;k/yVu7tDfzd9osvA0jw9xQ=="
 ---
 

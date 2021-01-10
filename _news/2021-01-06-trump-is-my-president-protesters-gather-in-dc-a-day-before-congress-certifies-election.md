@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4141044001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001"
 type: article
 quality: 131
-heat: 491
+heat: 511
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/49ecaf2c-77dd-457e-a6ba-ded691195aee/thumbnail/1200x630/ea4a3fd9ad0ec088f11ca121441c311d/gettyimages-1046002128.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump supporters, counter-protesters clash in San Diego"
+    excerpt: "Supporters of President Donald Trump clashed with counter-protesters in San Diego on Saturday, prompting police to declare the gathering an unlawful assembly because of acts of violence"
+    publishedDateTime: 2021-01-10T02:14:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-supporters-counter-protesters-clash-san-diego-75157141"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-supporters-counter-protesters-clash-san-diego-75157141"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-supporters-counter-protesters-clash-san-diego-75157141"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_c50494225bc546f380170233055188d2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Congress certifies Joe Biden as president hours after storming of Capitol"
     excerpt: "Trump loyalists objected to certification of election result before joint session interrupted when mob breaches security"

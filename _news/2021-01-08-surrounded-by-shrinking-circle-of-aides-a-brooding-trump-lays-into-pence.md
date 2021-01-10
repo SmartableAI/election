@@ -2,9 +2,9 @@
 category: news
 title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
 excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
-publishedDateTime: 2021-01-08T08:19:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idINKBN29C2RE?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idINKBN29C2RE?edition-redirect=in"
+publishedDateTime: 2021-01-08T15:04:00Z
+originalUrl: "https://www.reuters.com/article/worldNews/idUKKBN29C2RE?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/worldNews/idUKKBN29C2RE?edition-redirect=uk"
 type: article
 quality: 119
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547049995&r=LYNXMPEH07058&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
     width: 800
-    height: 450
+    height: 557
     isCached: true
 
 related:
@@ -1324,6 +1324,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061D4"
         width: 817
         height: 545
+        isCached: true
+  - title: "GOP Lawmakers Beg Biden, Pelosi Not to Impeach Trump in the 'Spirit of Healing'"
+    excerpt: "\"A second impeachment, only days before President Trump will leave office, is as unnecessary as it is inflammatory,\" seven Republicans said in a letter to Biden."
+    publishedDateTime: 2021-01-10T02:01:00Z
+    webUrl: "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267"
+    ampWebUrl: "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1702346/ken-buck-donald-trump-rally.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump-Biden transition live updates: Biden pitches 100 day mask-wearing campaign"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
@@ -4612,6 +4628,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "de8xI9UEFKp/aNfHKqlPedLdqJ+DwWqYBXBmHR7ufmcUGwux4Ba17jQYCJG0DlOdlsXpDm3e5935UY1ZLBIyTyC07pCb1N0KXioYvxvUd7VHIIYR7GRxdJPNT24rQ/ijwK5tHdwGBvB2qGG7sbL9BegqSURoA9FIadNi8yuLDMVeMwPI2MfLbc2r7KRstgPXbKLsQhv7CcLBrXJeUCn65tNHlvOVKpnG0RQk/YqE9HUJ/nPOsDKE2XarcMgQLFZgpNRvpcZLzhc2zah1pcotTcS92T/mKx/pADMlUHX0Z8i3TvBI+QdZKaTQGHu03ycsFzz1KK9b3JuN6+LrNLQrLb9u6QfkGcTXEqcfMu6v3L9iMj7CE7Q1RJJZWv0KAlxbdh2NjogMY91jSunXtiI3WgCownUmjZyxW2dKRqFUPiFnih9YxAhkZG07Y2yg61M+ND0H5WAClI/hdIeNLWEbFQ9spYkoItCM5w5i5IMxcSEtyChX4DzVHLP3z4rANhOzpPPSIVmq2Dw304jIOM2iLg==;id45GKMsQeAzjeMg/WYf8A=="
+secured: "ODjCJ3djTVV22Aysq05dxH8Ygy9XSp0nGv06qAhr6UF9sUXuWIVJcGw3jk1iA5zYUVJkfiltX316+wwwsaQXwnqq7rV+641GKPu7QjFQMinrGiFl1wOkWNDEnWhjMD8B9/u8oqdzAbAPOLfG/BVsu7B9y2BxWrSa+SuEaxXgkabtFSyR+V+8wV4ocJFKhR6u7uPhn2L3X1JILkm8ax/VvZqGR5+Blj7C1O6s4L5J7pRa9HYGql8m4qyx2n9NQ7qsCU2QPcrIohRzJHPDPvQd+Ig9MFwN8b8IpeOoYNFIWBwHcFf0oMNDD1o4kvmPuOVorFUEUVx4lIb+ViV4+NAfkt3Uq3H99+MU/EV+ytWBgkU=;GYaKllPu/9m2eTcCwbLVSQ=="
 ---
 
