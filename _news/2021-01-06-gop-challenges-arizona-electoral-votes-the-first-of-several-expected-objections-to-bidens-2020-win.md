@@ -495,6 +495,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Clyburn: House may wait until after Biden's first 100 days to send impeachment articles to Senate"
+    excerpt: "House Majority Whip James Clyburn on Sunday said House Democrats might wait until after President-elect Joe Biden's first 100 days in office to send any articles of impeachment against President Donald Trump to the Senate, a move that would give the incoming President time to tackle his agenda in Congress"
+    publishedDateTime: 2021-01-10T14:42:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kQlX8I40vw4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/james-clyburn-impeachment-senate-trial-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/james-clyburn-impeachment-senate-trial-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731220357-jim-clyburn-justice-donald-trump-hate-disrespect-sot-cpt-vpx-00000914-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Biden raises money for his virtual inauguration, lobbyists prepare for a scaled-down schmooze-fest"
     excerpt: "Presidential inaugurations -- and the swirl of festivities that surround them -- usually offer prime schmoozing opportunities: Lobbyists attempt to woo incoming administration officials at VIP-only luncheons; big campaign donors score coveted tickets for the swearing-in ceremonies, and corporate executives"
     publishedDateTime: 2021-01-09T15:00:57Z

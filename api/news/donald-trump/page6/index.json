@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-15-trump-antagonizes-republicans-with-georgia-fundraising-ploy.md",
+      "title": "Trump antagonizes Republicans with Georgia fundraising ploy",
+      "excerpt": "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
+      "originalUrl": "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
+      "publishedDateTime": "2020-12-14T17:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out.md",
       "title": "Trudeau's digital tax flexes Canada's muscles with Trump on the way out",
       "excerpt": "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer.",
@@ -1532,63 +1589,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-live-updates-trump-legal-team-dismisses-safe-harbor-deadline-pledge-to-continue-fight.md",
-      "title": "Live Updates: Trump legal team dismisses 'safe harbor deadline,' pledge to continue fight",
-      "excerpt": "The Trump campaign legal team on Tuesday dismissed the importance of the \"safe harbor deadline\" and indicated they intend to keep going with their legal fight of the election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
-      "originalUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b0975-a82d-44dd-9ee9-e16eee6933da/80778d32-d6f8-43fa-917e-4bfbf73968d2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
-      "publishedDateTime": "2020-12-09T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

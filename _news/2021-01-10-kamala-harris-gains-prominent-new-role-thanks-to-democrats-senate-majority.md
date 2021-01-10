@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview"
+    excerpt: "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans."
+    publishedDateTime: 2021-01-10T14:32:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99225157671"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99225157671"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610288735582_mtp_full_hakeem_210110_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
     excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
     publishedDateTime: 2021-01-08T14:19:00Z
@@ -81,6 +97,6 @@ related:
         height: 900
         isCached: true
 
-secured: "nMHAJC7u3abEAqg8On4sbnM5rsfRdGZSkGu5bSWKUBqugZUH/Ca34feQf/NWLjHzTnrlvCmN2NpoaWrlRdUf/Y9lWSqjI8S83Xxmbm/omcrcxMPMw/lR4qmua8SHiyyXikSeygjJ/3VsL7rQTQ7rOm7sPyEB0ufYWBsi87JJQeZK1snpWO8Iynq4TC9TUGmJL76HfvRpmsZRZcOLj2k7egj4paSEv4Lqwerpv8zVwDLrFwhMV8QmwmSqA7dbAYatmBj/hzmAqakgrGIVBhcHHczyrHDiSEUQ24OrEh0S3m/6iHloExidrRky6n7uWbiQv5kBBnflgXbSxJhpw7I8CEAZZb5Aof4uvd5fCseB7Ko=;b9axd1wc9vEzm3AuB/6uhw=="
+secured: "JZvxjbZTPZ51oToTCdD+JtsCkNXaYmhDVnx4YSFC1zI+RYe3yetyZxeYj6AiZNZtO5juvnVM3a0HmC/xWuUkt5u/V4dPVH/gKO25s20uDNLeHStgY/9xj39s3v0NPf97LJ73gML43BDQso6y9jiFM1RZc9flaScO2SiqqyErP8ftcITC5zaCZXlUNSVlYTN73HRLix/re/zWxJWfzQFLy0ZqPYLhclEj5r0u/4h721CJHMIUko/szfetkWOklmVwshoGIqcJYToxzHWHeVuTgv6kjW2CaQx3aYieymqRxQx6uMiGEBcJlEPdjyaFw/Etn9s74d6hqq5rRtTXAZh42qYUMF3dgkrgWTILFr0IwaWncOaBNs5bucXgPReuVkSZzNDDfQWq4sbPD8GimZ1v8cx7fNztTO73YTD+5g/VmKYypaE0S8bGbHFwEVfdGM2vIWgGd0eKn7XBfaqMcsZBzp2U/Qti0LB9fk+cM1mbDtiijoHS+BQe8DQOsHqcRCL2RR8TvDoz8BvWy6h7Y6Rtnw==;M9dL2yKpE3P2xZviKtd4fg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-10-mulvaney-earlier-trump-controversies-were-policy-differences-or-stylistic-but-wednesday-was-existential.md",
+      "title": "Mulvaney: Earlier Trump controversies were 'policy differences' or 'stylistic,' but 'Wednesday was existential'",
+      "excerpt": "Former White House chief of staff Mick Mulvaney, who resigned as envoy to Northern Ireland over President Trump’s handling of the deadly riot at the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/533524-mulvaney-earlier-trump-controversies-were-policy-or-stylistic-but",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/533524-mulvaney-earlier-trump-controversies-were-policy-or-stylistic-but",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_mulvaneyimmigration_022020getty.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/533524-mulvaney-earlier-trump-controversies-were-policy-or-stylistic-but?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/533524-mulvaney-earlier-trump-controversies-were-policy-or-stylistic-but?amp",
+      "publishedDateTime": "2021-01-10T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.md",
       "title": "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'",
       "excerpt": "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media.",
@@ -231,7 +283,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1480,
+      "heat": 1500,
       "tags": null,
       "images": [
         {
@@ -1309,58 +1361,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-ap-interview-libyan-minister-hopes-for-support-from-biden.md",
-      "title": "AP interview: Libyan minister hopes for support from Biden",
-      "excerpt": "The powerful interior minister of Libya’s U.N.-backed government, seen as a contender for the post of prime minister, says he hopes that bringing stability to his war-torn country will become a top pr",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-09T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

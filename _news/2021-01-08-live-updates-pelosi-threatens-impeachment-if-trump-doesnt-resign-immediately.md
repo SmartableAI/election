@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview"
+    excerpt: "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans."
+    publishedDateTime: 2021-01-10T14:32:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99225157671"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99225157671"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610288735582_mtp_full_hakeem_210110_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
     excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
     publishedDateTime: 2021-01-10T12:00:00Z

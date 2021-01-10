@@ -1977,6 +1977,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Toomey: Trump ‘spiraled down into a kind of madness’"
+    excerpt: "Sen. Pat Toomey (R-Pa.) tells Chuck Todd that President Trump “I think its important to make a distinction between the president’s behavior prior to the election and his behavior after the election” during an interview with Meet the Press."
+    publishedDateTime: 2021-01-10T14:46:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/toomey-trump-spiraled-down-into-a-kind-of-madness-99226181708"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99226181708"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99226181708"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610289512031_mtp_clip_toomeymadness_210110_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump allies warn him not to run in 2024"
     excerpt: "Weeks ago, he seemed like the clear frontrunner. Now, Republicans blame him for inciting riots at the Capitol and his 2024 prospects are in doubt."
     publishedDateTime: 2021-01-10T12:05:00Z

@@ -526,6 +526,36 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Republican U.S. Senator Toomey says Trump should resign"
+    excerpt: "U.S. Senator Pat Toomey said on Sunday that President Donald Trump, a fellow Republican, should resign after his supporters stormed the U.S. Capitol in a deadly rampage."
+    publishedDateTime: 2021-01-10T14:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-toomey/republican-u-s-senator-toomey-says-trump-should-resign-idUSKBN29F0E6?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
+    excerpt: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
+    publishedDateTime: 2021-01-10T14:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Democrats to discuss impeaching Trump for a second time after assault on Capitol"
     excerpt: "Congressional Democrats on Friday were weighing impeaching U.S. President Donald Trump for an unprecedented second time after his supporters, inflamed by his false claims of election fraud, stormed the U."
     publishedDateTime: 2021-01-08T14:08:00Z
@@ -709,6 +739,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The Latest: Toomey Is 2nd GOP Senator to Urge Trump to Quit"
+    excerpt: "Republican senator has called for President Donald Trump to step down in the wake of the Capitol rioting this past week."
+    publishedDateTime: 2021-01-10T14:55:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "qL4LdC8AxjHopqDpeA7up4tjsI5OseFVb6FlC5bPGywLn1bRmU5UJME0kpjCLFX/c+yC6M/TXhByC8Xt7Syt7FGdvubmjp49oJIKiwkO1aSJ34/pjpkLO6WQivpetYX+ypVHz7y+kPwGuxDPNtIkGCXO0dLunyxVBY6zuUZg1fkHB7SynVBiIWMoj8D2aCJSwOJmVLlRga3VkigtBKQU7IRA71gconZD0HmiCWl/S3k89ImY+/5c0hLIGRa0v/8XPV7xMBtOXl6LbcgCHcr9ZhrYd4Sah9iN7Xp8Ui16YmojuZ8Okkm5PaImZxtcQZccwXX5vGpf4e1HSmCIlUhynxNstoQSOC5DpVh/ao8IqU4=;/e30afL3t+pci/bayxaj1g=="
 ---

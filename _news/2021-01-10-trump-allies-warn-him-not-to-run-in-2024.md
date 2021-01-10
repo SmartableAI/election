@@ -1994,6 +1994,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Toomey: Trump ‘spiraled down into a kind of madness’"
+    excerpt: "Sen. Pat Toomey (R-Pa.) tells Chuck Todd that President Trump “I think its important to make a distinction between the president’s behavior prior to the election and his behavior after the election” during an interview with Meet the Press."
+    publishedDateTime: 2021-01-10T14:46:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/toomey-trump-spiraled-down-into-a-kind-of-madness-99226181708"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99226181708"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99226181708"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610289512031_mtp_clip_toomeymadness_210110_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
     publishedDateTime: 2020-12-30T10:07:00Z

@@ -2809,6 +2809,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Live Updates: GOP senator joins calls for Trump to resign over Capitol attack"
+    excerpt: "Republican Senator Pat Toomey of Pennsylvania called for President Trump to resign from office in the wake of the attack on the U.S. Capitol, joining a growing list of Democrats and some Republicans urging the president to step down or be removed from office."
+    publishedDateTime: 2021-01-10T14:52:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-us-capitol-riot-fallout-2021-01-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-us-capitol-riot-fallout-2021-01-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-us-capitol-riot-fallout-2021-01-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/10/29b4f4c1-f58e-410b-b3a8-03159f0e8c26/thumbnail/1200x630g2/39ca82b8044c6b0c71467f0888002ada/gettyimages-1230503660.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Congress inches closer to Trump veto override as Republican tensions grow"
     excerpt: "The U.S. Senate was due on Wednesday to hold a procedural vote that could pave the way for Congress to override President Donald Trump's veto of a key defense bill, as tension between the outgoing Republican president and party leaders grows."
     publishedDateTime: 2020-12-30T16:28:00Z

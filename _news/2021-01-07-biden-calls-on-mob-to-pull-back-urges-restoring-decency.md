@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "What Biden's Cabinet picks say about how he plans to govern"
+    excerpt: "His Cabinet picks help demonstrate how he plans to deliver. The president-elect announced his final nominees this past week, completing a diverse team of two dozen people. He noted Friday that this will be the “first Cabinet ever” to reach gender parity and include a majority of people of color,"
+    publishedDateTime: 2021-01-10T13:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cac903d7362845908ccfd3cf90a4f028_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."

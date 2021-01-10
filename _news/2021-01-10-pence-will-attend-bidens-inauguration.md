@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1480
+heat: 1500
 published: true
 
 provider:
@@ -479,6 +479,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439325/210104-georgia-runoff-mc-1137_78e072abc3712a94b802e35383c543ba.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Clyburn: House may wait until after Biden's first 100 days to send impeachment articles to Senate"
+    excerpt: "House Majority Whip James Clyburn on Sunday said House Democrats might wait until after President-elect Joe Biden's first 100 days in office to send any articles of impeachment against President Donald Trump to the Senate, a move that would give the incoming President time to tackle his agenda in Congress"
+    publishedDateTime: 2021-01-10T14:42:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kQlX8I40vw4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/james-clyburn-impeachment-senate-trial-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/james-clyburn-impeachment-senate-trial-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731220357-jim-clyburn-justice-donald-trump-hate-disrespect-sot-cpt-vpx-00000914-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "GOP challenges Arizona electoral votes, the first of several expected objections to Biden's 2020 win"
     excerpt: "Congressional Republicans are preparing a futile attempt Wednesday on President Donald Trump's behalf to overturn the results of the November election by objecting to Electoral College votes cast by at least three states for President-elect Joe Biden.\n    \n"

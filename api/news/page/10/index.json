@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-28-relief-is-coming-trump-backtracks-and-signs-covid-aid-into-law.md",
+      "title": "Relief is coming: Trump backtracks and signs Covid aid into law",
+      "excerpt": "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
+      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252404",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404",
+      "publishedDateTime": "2020-12-28T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-dancing-pallbearers-the-mike-pence-fly-and-pretty-best-friends-here-are-the-top-memes-of-2020.md",
       "title": "Dancing pallbearers, the Mike Pence fly and pretty best friends: Here are the top memes of 2020",
       "excerpt": "\"Since we can't see each other in person, using memes to kind of share feelings and connect with one another has become huge this year,\" said the editor of Know Your Meme.",
@@ -1297,58 +1354,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-exclusive-dominion-sends-letters-threatening-defamation-lawsuits-to-sean-hannity-maria-bartiromo-lou-dobbs-and-other-pro-trump-media-figures.md",
-      "title": "EXCLUSIVE: Dominion sends letters threatening defamation lawsuits to Sean Hannity, Maria Bartiromo, Lou Dobbs, and other pro-Trump media figures",
-      "excerpt": "The company at the center of a false election conspiracy theory told right-wing media organizations and individual hosts to \"preserve all documents.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
-      "originalUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe4d115edf8920018093b21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-defamation-letters-fox-news-sean-hannity-lou-dobbs-newsmax-oan-2020-12?amp",
-      "publishedDateTime": "2020-12-24T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

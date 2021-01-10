@@ -2,6 +2,63 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-14-trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out.md",
+      "title": "Trudeau's digital tax flexes Canada's muscles with Trump on the way out",
+      "excerpt": "\"The idea that Canada would go ahead with an early tax probably would have invited a tariff by Trump,\" says one observer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
+      "originalUrl": "https://www.politico.com/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ca/23/b637de3048f799b2373d53bea68e/ap20275647298968-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trudeaus-digital-tax-flexes-canadas-muscles-with-trump-on-the-way-out-444999",
+      "publishedDateTime": "2020-12-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
       "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
       "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
@@ -1290,58 +1347,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-live-politics-updates-republican-wis-election-official-in-says-no-evidence-of-fraud-trump-supporters-protest-in-dc.md",
-      "title": "Live politics updates: Republican Wis. election official in says no evidence of fraud; Trump supporters protest in DC",
-      "excerpt": "A Republican election official told Wisconsin legislators there is no credible evidence of widespread fraud; Trump backers rally in D.C. – updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/2590db33eb99f305084c29985422bc6d845d2c97/c=430-0-3373-1663/local/-/media/2017/09/26/WIGroup/Milwaukee/636420419021309996-MJS-elections-4-hoffman.jpg-HACK.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6520470002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6520470002",
-      "publishedDateTime": "2020-12-12T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

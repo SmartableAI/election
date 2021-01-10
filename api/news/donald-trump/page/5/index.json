@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-22-trumps-legacy-he-changed-the-presidency-but-will-it-last.md",
+      "title": "Trump's legacy: He changed the presidency, but will it last?",
+      "excerpt": "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
+      "publishedDateTime": "2020-12-21T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-loefflers-wealth-trump-loyalty-face-scrutiny-in-georgia.md",
       "title": "Loeffler's wealth, Trump loyalty face scrutiny in Georgia",
       "excerpt": "Kelly Loeffler’s tight embrace of President Donald Trump and the far right while fighting to hold on to her U.S. Senate seat is not exactly what allies of Georgia Gov. Brian Kemp envisioned when he ap",
@@ -1519,63 +1571,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-trump-antagonizes-republicans-with-georgia-fundraising-ploy.md",
-      "title": "Trump antagonizes Republicans with Georgia fundraising ploy",
-      "excerpt": "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207",
-      "publishedDateTime": "2020-12-14T17:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

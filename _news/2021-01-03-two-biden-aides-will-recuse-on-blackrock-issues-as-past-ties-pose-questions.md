@@ -143,6 +143,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "What Biden's Cabinet picks say about how he plans to govern"
+    excerpt: "His Cabinet picks help demonstrate how he plans to deliver. The president-elect announced his final nominees this past week, completing a diverse team of two dozen people. He noted Friday that this will be the “first Cabinet ever” to reach gender parity and include a majority of people of color,"
+    publishedDateTime: 2021-01-10T13:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cac903d7362845908ccfd3cf90a4f028_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Capitol riots: Congress certifies Joe Biden's victory after chaotic scenes"
     excerpt: "The US Congress has certified Joe Biden's victory in the presidential election, hours after supporters of Donald Trump stormed the building in an attack that saw four people die. Lawmakers resumed the session after police removed a mob that had been encouraged by President Trump as part of his attempt to overturn his defeat."
     publishedDateTime: 2021-01-08T18:32:00Z

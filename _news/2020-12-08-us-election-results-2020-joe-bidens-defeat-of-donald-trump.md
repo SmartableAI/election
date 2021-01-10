@@ -2793,6 +2793,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Live Updates: GOP senator joins calls for Trump to resign over Capitol attack"
+    excerpt: "Republican Senator Pat Toomey of Pennsylvania called for President Trump to resign from office in the wake of the attack on the U.S. Capitol, joining a growing list of Democrats and some Republicans urging the president to step down or be removed from office."
+    publishedDateTime: 2021-01-10T14:52:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-us-capitol-riot-fallout-2021-01-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-us-capitol-riot-fallout-2021-01-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-us-capitol-riot-fallout-2021-01-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/10/29b4f4c1-f58e-410b-b3a8-03159f0e8c26/thumbnail/1200x630g2/39ca82b8044c6b0c71467f0888002ada/gettyimages-1230503660.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "McConnell urges Senate to override Trump defense veto, vague on stimulus checks"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday urged the Senate to override President Donald Trump's veto of a $740 billion defense policy bill, saying the funding plan for the U.S. military could not be allowed to fail."
     publishedDateTime: 2020-12-29T19:51:00Z
