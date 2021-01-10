@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’"
+    excerpt: "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump."
+    publishedDateTime: 2021-01-10T10:38:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLjBJ32UY4Q/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen"
+    ampWebUrl: "https://www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Roy-Blunt.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "g6g8bnepa5q58JqeWgucGg7PWBpGv4p2iJBj6ixOO9gnnqbB4TtAaP5KeySlCIueT60g4nq6ID7GYbAN/zwtddNh1F9cTGAHHx7fhPHR2ZkBXB6iyGkiBkSutBFcQEDAkUl/eZn0SgHLeKtA/eGKKGjThZGX5nilQUc9cwZSs+BZt8W37RcUZS00wOT12mdbMcpKvC3Xl7Ke2Kyv3np2NuT7AsQNqYWMeww7YRFA6wB7xSExoQlRoBsgLTB0UFxShr6SN8vCT9c7xKcMSG0LrN9CPnBagZzvnBZiBUcd7UAudETQ2+PqelPMP0BCEMjBhQjQQs8XSEXqOvt1dQ0W6RbyWI3BOEywdMZ/QH+CA7Y=;aBSnwJ1aw52eS6GUkndpkA=="
 ---

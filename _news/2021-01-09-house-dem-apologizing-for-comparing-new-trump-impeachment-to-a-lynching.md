@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/house-dem-apologizing-for-comparing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’"
+    excerpt: "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump."
+    publishedDateTime: 2021-01-10T10:38:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLjBJ32UY4Q/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen"
+    ampWebUrl: "https://www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Roy-Blunt.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
     excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."
     publishedDateTime: 2021-01-08T15:21:18Z

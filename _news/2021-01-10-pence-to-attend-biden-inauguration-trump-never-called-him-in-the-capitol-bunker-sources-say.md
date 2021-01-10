@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Trump's desperate attempt to save his imploding presidency"
-excerpt: "It was too little, too late, and may fail to save a presidency imploding at staggering speed under the weight of Donald Trump's tragic flaws.\n    \n"
-publishedDateTime: 2021-01-08T12:52:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C67oxlnPdTw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C67oxlnPdTw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
+title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
+excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
+publishedDateTime: 2021-01-10T09:14:00Z
+originalUrl: "https://www.nbcnews.com/politics/2020-election/pence-attend-biden-inauguration-n1253645"
+webUrl: "https://www.nbcnews.com/politics/2020-election/pence-attend-biden-inauguration-n1253645"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253645"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253645"
 type: article
-quality: 175
+quality: 154
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Mike Pence
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107233827-diario-eeuu-renuncia-trump-conclusiones-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440091/200106-mike-pence-ew-140p_c494a0a2fa11e92462b9cdd24428b9cd.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -847,6 +848,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's desperate attempt to save his imploding presidency"
+    excerpt: "It was too little, too late, and may fail to save a presidency imploding at staggering speed under the weight of Donald Trump's tragic flaws.\n    \n"
+    publishedDateTime: 2021-01-08T12:52:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C67oxlnPdTw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107233827-diario-eeuu-renuncia-trump-conclusiones-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US diplomats draft memo calling on Pompeo to denounce Trump"
     excerpt: "US diplomats are calling on Secretary of State Mike Pompeo to denounce President Donald Trump's role in the violent insurrection attempt on the US Capitol on Wednesday.\n    \n"
     publishedDateTime: 2021-01-08T19:03:29Z
@@ -1438,22 +1455,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
-    excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
-    publishedDateTime: 2021-01-10T09:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-attend-biden-inauguration-n1253645"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253645"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253645"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 154
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440091/200106-mike-pence-ew-140p_c494a0a2fa11e92462b9cdd24428b9cd.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "In call, Trump demands Georgia officials 'find' votes to tilt election"
     excerpt: "President Donald Trump pushed Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results after his loss to President-elect Biden, according to an audio recording of a phone call obtained by CNN and first reported by the Washington Post."
@@ -2352,6 +2353,6 @@ related:
         height: 773
         isCached: true
 
-secured: "4Qe7IdjXlqjRxkUM+LlaZkVw0DdiS1B0jC64eYVheTkCtm8oVMxbb47/0/yDWfVzvYR9Sj7hNp39mAXXINJTiSrM/icHjie9m9j2VDYuF9eHUsRxELCOWCncjvYI5VClKX6FtcU3dLgpm6Oe4RJQnidswqtrnTth3kNFJYT38Vu0RNVKOjC0vENdbirTiiSmxBiQW0i4ufoaAWDovZ/korUo3BGbFpqO5yVModC1BYg5DTIky1ad8b69/MVDaSLCYJQlA4iG7dHQ4hZqp/6ZOzE6FXkNcK0nl1Rc9QMPByh1+T/tGwv9w0Y2l9/upaK6Dzbf1rSO/RGsCB5Kc17hOSCN8QC1UKqUJb7IuL5ROe0=;xF7YuAV6MnuXDI/eGSWlOw=="
+secured: "DxNIegFL2+1UlBrYuMhNvWKKOeRrAaJ8z2pNBnrevqDe5eif5tiGwzTZocv0i+O64xQhfCm5Ic8hLO5s8DBDhOQOOGD1Xj6IIvwG4AOVRYVdhZpiHt47c5+ontc6hAJZMSn0ljoB1A0+r15tG4+9FiYkNMqiUt8e8aqCUe3qt8ctyVedtM/O/WLc+RFSeIQklbjybkzi28QzWqRUfRIlBOXNShp2KhlB+A+GQNkeRQl1F1HFjHeYNzH1DQRGWIArkdbj7l6l6w9VXD4V4Q6nru7dFyXhci4MG+6mQKAn5IMOxh+weX/wlPgh3GSh1Oa08bjrgnUoYoxEAlbAQiBcp7UBDKNEwGjepRZNaJeYFgI=;jel59zuDhzGN+e3W34iLTQ=="
 ---
 

@@ -1440,6 +1440,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
+    excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
+    publishedDateTime: 2021-01-10T09:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-attend-biden-inauguration-n1253645"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253645"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253645"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 154
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440091/200106-mike-pence-ew-140p_c494a0a2fa11e92462b9cdd24428b9cd.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "In call, Trump demands Georgia officials 'find' votes to tilt election"
     excerpt: "President Donald Trump pushed Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results after his loss to President-elect Biden, according to an audio recording of a phone call obtained by CNN and first reported by the Washington Post."
     publishedDateTime: 2021-01-03T17:30:00Z
