@@ -271,6 +271,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Twitter bans Trump, citing risk of violent incitement"
+    excerpt: "Twitter banned President Donald Trump's account Friday, citing “the risk of further incitement of violence\" following the deadly insurrection at the U.S. Capitol on Wednesday. Twitter has long given Trump and other world leaders broad exemptions from its rules against personal attacks,"
+    publishedDateTime: 2021-01-09T08:11:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cc1537d419074084883392df7ae6f066_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
     publishedDateTime: 2020-12-30T22:38:00Z

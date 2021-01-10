@@ -1706,6 +1706,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pence to attend Biden's inauguration, official says"
+    excerpt: "U.S. Vice President Mike Pence will attend President-elect Joe Biden's inauguration, a senior administration official said on Saturday."
+    publishedDateTime: 2021-01-10T00:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence/pence-to-attend-bidens-inauguration-official-says-idUSKBN29F007"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547239085&r=LYNXMPEH09003&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump allies launch desperate final efforts ahead of congressional confirmation of Biden win"
     excerpt: "President Trump and his allies are growing increasingly desperate as Congress prepares to formally receive the votes that will confirm his election loss next week, filing lawsuits against nonexistent entities and even Trump’s own vice president as they try to come up with new ways to overturn the vote."
     publishedDateTime: 2020-12-30T04:41:00Z
@@ -3091,6 +3105,22 @@ related:
       - url: "https://i.insider.com/5ff2e2616056b60018721af0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Democrats are determined to pressure Biden to investigate Trump, whether or not the House pursues impeachment charges"
+    excerpt: "Whether or not the House pursues impeachment charges against Trump for his role in inciting his supporters to storm the Capitol on Wednesday, many Democrats say that impeachment is not enough."
+    publishedDateTime: 2021-01-10T00:08:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-democrats-trump-investigation-20210110-y5mucegmhnftja3pbcpxeifsme-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-democrats-trump-investigation-20210110-y5mucegmhnftja3pbcpxeifsme-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-biden-democrats-trump-investigation-20210110-y5mucegmhnftja3pbcpxeifsme-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Gdl00QY2HzVI2cWEXl3TADvhGwo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZU7EVKEPEX5I2UTCH6MNKQTRWI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Coronavirus updates: Trump points to states to ‘get moving’ amid a delay in vaccinations"
     excerpt: "Officials had suggested the United States would be able to put shots in the arms of 20 million people by year's end, though just a fraction of that have received vaccines thus far."

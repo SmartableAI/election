@@ -2,21 +2,21 @@
 category: news
 title: "With virus surging, Biden to speed release of COVID vaccines"
 excerpt: "President-elect Joe Biden will be taking a new direction to speed release of coronavirus vaccines when he assumes office Jan. 20"
-publishedDateTime: 2021-01-09T08:39:00Z
-originalUrl: "https://www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html"
-webUrl: "https://www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+publishedDateTime: 2021-01-09T03:36:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-speed-release-coronavirus-vaccines-75134340"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-speed-release-coronavirus-vaccines-75134340"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-speed-release-coronavirus-vaccines-75134340"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-speed-release-coronavirus-vaccines-75134340"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_76e194e994ac4a12af2297d0bbd1395a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -374,6 +374,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6SO0yIpvQ0wAvJmJuxW4NI2h9qpAfQOQ5UVlqTpYKIhB6EooqOqYj9Ln5tEpTc4AuhxSef6qKBZOB7s9UdDRQxVapdNR3l6vMJ3VYI1VmVL4r+QmmId+LL9UDTyWhKAuE735lIw9UqsDCUq0jNLozyhoDS8H9VUO5uxuIT1VAeFlxOeampXquVT/tTbMRQmkH1AmK4szhm5CLz29aRvso7WB9hmMlh+cW+3XonzsYy3T8HyJaPIl4n5q1x3Fl45qEKbTz9vmOQLsZTsEOMdZnKcu3iM1AHG/OCrpG235qmMMhN53gINNv+XbVa1n8b3ckHAojt3c4+dhA4dxMMjS1BWUbB0Z0IicLmTYMGPJbWQ=;hAXVMcVrQUsYQv8Rwd9kZw=="
+secured: "zfrTWNseBrxuRxvIcJ7IgF5o8qERvh9uTC5STATkXs4meFC9Gxa5ndS6GJZsMOK9rybUk6teVH/e0hNNVJ4WKGcVrV4YKckbwz+/IHdblkV0Nwzg6grwc4Y0V5t2fZsS6DTfRCY9Fu+wU72FZQraq07SUF9O0RqJDpzkTZ7ewtCsT97w3hO01deX3Yoy3I0xhuWa2KjhrooEnSUZYbOhedosl3eSy5h8z7D7Fy1SEK8vHOr1Q5cu/eriF4CFVQXR9xNUJmkKRB08j6QVN9A8eA1EY+AdqlrLa8SXssvhTEJsMbAbUEhq7P6xvtk8Y/1GROqnuFwS0OVMOkuspqYs6VQ9iLrA0cQbaCsVIpb7qfg=;GbsK//HcTXp3KtxeoTGYqg=="
 ---
 

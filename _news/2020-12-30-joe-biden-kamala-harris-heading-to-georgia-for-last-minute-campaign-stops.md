@@ -59,6 +59,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden Calls for $2K Stimulus Checks Post-Georgia Runoffs But At Least One Democrat Opposes"
+    excerpt: "\"We need more direct relief flowing to families and small businesses, including finishing the job and getting people $2,000 in relief,\" the president-elect said Friday."
+    publishedDateTime: 2021-01-10T00:10:00Z
+    webUrl: "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266"
+    ampWebUrl: "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1702344/president-elect-joe-biden-speaks-wilmington-delaware.jpg"
+        width: 3543
+        height: 2431
+        isCached: true
   - title: "Democratic wins in Georgia Senate races could mean more stimulus checks, small boost to Biden's economic plan"
     excerpt: "The stunning Democratic wins in Georgia’s two Senate runoff races have been touted as a game-changer that gives the party control of both Congress and the presidency, paving the way for Joe Biden to push through his sweeping plan to dig the economy out of the punishing COVID-19 downturn."
     publishedDateTime: 2021-01-07T16:29:00Z
