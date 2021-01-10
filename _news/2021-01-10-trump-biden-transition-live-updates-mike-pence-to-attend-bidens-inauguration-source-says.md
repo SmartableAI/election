@@ -1499,6 +1499,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump pressured Georgia elections official to find evidence of voter fraud in call"
+    excerpt: "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud."
+    publishedDateTime: 2021-01-10T12:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump-Biden transition live updates: Georgia to recertify vote over Trump objections"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 44 days. A Trump campaign lawsuit was rejected by a Georgia state court Monday because the Trump legal team failed to pay the filing fee and neglected to fill out the proper forms."
     publishedDateTime: 2020-12-07T22:59:00Z
@@ -4657,17 +4673,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
-  - title: "Pompeo Lifts Restrictions on U.S.-Taiwan Relationship as Clock Runs Out on Trump Administration"
-    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald Trump's presidency."
-    publishedDateTime: 2021-01-10T06:12:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 43
 
 secured: "k0Jra2Ng8Cy/HSIQ/tfd547MGylJ6OxyvrBNqOSuf1NOxk5e4DojLAlPDsBi5XysQgsZtZo6VTaVfiX4hCRxD/ABS2hUFKoSfSOC68+QpI3+nc5j1VeFsNAwJp1YgSAm6yHzp7m1e6kcZyjG7BzwO1nG/MnXi2pk3V2rH3/X5atFSBIDk1bm6VXrRbANeOZQHrcRThFtGf1Gz12zOTKOTGgU5fHio/QuVH93xxUzsNbUDRWFC1WZd6pi0kWJ790wcpsb26s2xNU5gva7CqlEsGbGBRyanWyquqcbvIOYbBi3Y6mn8dbRoVkVL4EQb7u9oA6cdgMx4USiqikzhrr9fl4grJtTDAv4jKQzSEvgcoh1oV6odeL0nv4RyWobFc1qrgXfwRR6WobusyXhcV4OlYw8ZL8iCSh7CxsNwT5rlMCZFPRWuJKSpsVXe8kmTigBSDEzTD5hBAiagytCYTQ59NSxHPeDOU9bhBOUmsIYbbKpqic4R3gn4i1kfUxndhlMgoXiQEoflHEuQV+UpKQQ9g==;BD/6OVOpMwDr4CqcxUZp2g=="
 ---

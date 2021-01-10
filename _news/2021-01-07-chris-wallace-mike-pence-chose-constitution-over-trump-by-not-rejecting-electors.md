@@ -1465,6 +1465,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "The Impending Divorce of Trump and the GOP"
+    excerpt: "It remains to be seen whether Trump will enjoy an afterlife as the leader of an independent party in 2024, or remain on the periphery of politics. Read Full Article »"
+    publishedDateTime: 2021-01-10T12:04:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/10/the_impending_divorce_of_trump_and_the_gop_533140.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "Wfrz4zbdyNQUZRpFM5Rq4euq6MMk7gnW6q+SL4JQAC7TSHDKXow57ZInpM2j3vdzLI5YqXUKjNurt/kW+e7tZOh/t2/307h75r7F/a3tF5fyhkYYzALZOHmrlnPAA2a3LFm6+IMs6XQ6SUDXjS7kcmfA/3lfOckaZkULLkesACfOfrfpQiM1BNOv3yvBwjnzTviRxPsUl/k78zmP7SV8jcAK/I1dsGjG1Ck5M1TMV/NdwHjVUglybRJ4yqC61m1GWTVu3asKbLug/i5GDZ1SRPt+IiZmHOCTemflWK9z8K6OlKCzqezmAS9eB53gmNSRMV6ct9Ku62wBSqO4i+exwX8TwDVXuPpCCCZJPsptdeY=;nlBHyB9f39fZrUX72ogvFg=="
 ---

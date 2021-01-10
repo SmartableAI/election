@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
+    excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
+    publishedDateTime: 2021-01-10T12:00:00Z
+    webUrl: "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
     excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
     publishedDateTime: 2021-01-08T14:19:00Z

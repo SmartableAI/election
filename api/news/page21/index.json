@@ -2,6 +2,63 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-09-attorney-representing-trump-in-texas-dispute-pushed-racist-conspiracy-about-kamala-harris.md",
+      "title": "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris",
+      "excerpt": "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 391,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130630135736-john-eastman-traditional-marriage-story-top.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html",
+      "publishedDateTime": "2020-12-09T15:35:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-flashback-eric-swalwell-accused-don-trump-jr-of-meeting-russian-spy.md",
       "title": "Flashback: Eric Swalwell accused Don Trump Jr. of meeting ‘Russian spy’",
       "excerpt": "Rep. Eric Swalwell, D-Calif., who Axios reported Wednesday was a main target of a Chinese spy between 2011 and 2015, accused Donald Trump Jr. last year of meeting \"with a Russian spy.\"",
@@ -1291,58 +1348,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots.md",
-      "title": "Trump boasts of vaccines, but will he coax people to get shots?",
-      "excerpt": "President Trump takes credit for new coronavirus vaccines, yet they'll do little good if many people remain opposed to vaccinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/72d8926/2147483647/strip/true/crop/4592x2999+0+224/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fd9%2F94374aa24f578e18c9842f2775df%2Fla-fi-lazarus-healthcare-three-hundred-dollar-band-aid.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true",
-      "publishedDateTime": "2020-12-08T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

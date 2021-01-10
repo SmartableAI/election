@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/politics/2020-election/pence-attend-biden-inaug
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253645"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253645"
 type: article
-quality: 154
+quality: 164
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Mike Pence
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440091/200106-mike-pence-ew-140p_c494a0a2fa11e92462b9cdd24428b9cd.jpg"
@@ -1978,6 +1979,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump allies warn him not to run in 2024"
+    excerpt: "Weeks ago, he seemed like the clear frontrunner. Now, Republicans blame him for inciting riots at the Capitol and his 2024 prospects are in doubt."
+    publishedDateTime: 2021-01-10T12:05:00Z
+    webUrl: "https://www.politico.com/news/2021/01/10/trump-2024-campaign-456692"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/10/trump-2024-campaign-456692"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/trump-2024-campaign-456692"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/98/94/76bf6d5f46939cb24d81f7bf3761/210109-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
     publishedDateTime: 2020-12-30T10:07:00Z
@@ -2353,6 +2370,6 @@ related:
         height: 773
         isCached: true
 
-secured: "DxNIegFL2+1UlBrYuMhNvWKKOeRrAaJ8z2pNBnrevqDe5eif5tiGwzTZocv0i+O64xQhfCm5Ic8hLO5s8DBDhOQOOGD1Xj6IIvwG4AOVRYVdhZpiHt47c5+ontc6hAJZMSn0ljoB1A0+r15tG4+9FiYkNMqiUt8e8aqCUe3qt8ctyVedtM/O/WLc+RFSeIQklbjybkzi28QzWqRUfRIlBOXNShp2KhlB+A+GQNkeRQl1F1HFjHeYNzH1DQRGWIArkdbj7l6l6w9VXD4V4Q6nru7dFyXhci4MG+6mQKAn5IMOxh+weX/wlPgh3GSh1Oa08bjrgnUoYoxEAlbAQiBcp7UBDKNEwGjepRZNaJeYFgI=;jel59zuDhzGN+e3W34iLTQ=="
+secured: "SBa6yyVNspqesJ4T5s5Ogrni4nqQVtspldDPz6HkKqeb1v4iJ5cZ/v6y0BtT6JPkxLQW20BOTLJVHIWHXHnKaNl2J3DVWFzorAeTs2Qd4Q8ZIUjD+JoihwRQB2ZXyETxf5lK6msZbzf9UiBke/k+ImSIGOYpi6rtvX+HrX29SVvMgOGba/CMqXuzG/88SNmIm/aF+kXG/9gTmTW69dcA1INGVuYNATXb2reXDGytuqxgbTFIR4mEjXkgrGqDiiOImLaEfJPm4KBWZJaoIzAAa9n6hocmAzjl4aTOvSMU4tRova94HiXOtJ0nl40OVzD8H/W2uXMQCaH5aIXCUlXr9p/+0uWc1fmBc7ZXwAt1hc9Z1Yvej9cop+yst6lZ+QViDnIiRA3PGjMOtxc2p55QLneymjKr7a3CLXJbgSCcXiPJf36ke2/2zSqEnqcBSupzMcLvJDBCovtE0QPMW9vIBIz+qt5A1ZsonUag+bGwdm2acwAx6agdPfk6UsYRRMMH5qrTu9UxLnecduL8TRjmxg==;lBY180/KiuzDUvaotEpACw=="
 ---
 

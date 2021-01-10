@@ -383,6 +383,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democratic leaders grapple with ramification of impeachment on Biden's opening days"
+    excerpt: "House Democratic leaders have not finalized plans for the coming week, after spending several hours on a call Saturday night working through the possible outcomes tied to impeachment, according to a source with direct knowledge of the call.\n    \n"
+    publishedDateTime: 2021-01-10T12:20:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DsPtqqbAAG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/impeachment-house-democrats-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/impeachment-house-democrats-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106231304-pelosi-house-11pm-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to make final decision on attorney general, with new arguments for Yates and Garland"
     excerpt: "President-elect Joe Biden is poised to make a final decision in the coming days on his pick for attorney general, a choice that suddenly comes amid a growing sense of optimism from Democrats that their party will control the Senate and will be able to easily confirm the incoming president's Cabinet nominations.\n"
     publishedDateTime: 2021-01-06T14:54:39Z

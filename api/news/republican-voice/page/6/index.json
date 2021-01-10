@@ -2,6 +2,54 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-12-mike-pompeo-mike-pence-go-to-bat-for-imprisoned-hong-kong-media-tycoon-jimmy-lai.md",
+      "title": "Mike Pompeo, Mike Pence go to bat for imprisoned Hong Kong media tycoon Jimmy Lai",
+      "excerpt": "Top US officials are speaking out against the arrest and imprisonment of Hong Kong media tycoon Jimmy Lai. The 73-year-old billionaire and pro democracy advocate was denied bail Saturday after",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
+      "originalUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/hong-kong-jimmy-lai.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
+      "publishedDateTime": "2020-12-12T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-fox-news-poll-most-republicans-say-president-trump-was-robbed.md",
       "title": "Fox News Poll: Most Republicans say President Trump was robbed",
       "excerpt": "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters.",
@@ -1600,62 +1648,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp",
       "publishedDateTime": "2020-12-07T17:24:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-democrat-joe-manchin-opposed-biden-surgeon-general-pick-under-obama.md",
-      "title": "Democrat Joe Manchin opposed Biden surgeon general pick under Obama",
-      "excerpt": "At the time, the West Virginia Democrat questioned whether Dr. Vivek Murthy could separate his political beliefs from his public health views.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI2JXhtkRsU/democrat-manchin-opposed-biden-surgeon-general-pick-obama",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI2JXhtkRsU/democrat-manchin-opposed-biden-surgeon-general-pick-obama",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp",
-      "publishedDateTime": "2020-12-07T12:51:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

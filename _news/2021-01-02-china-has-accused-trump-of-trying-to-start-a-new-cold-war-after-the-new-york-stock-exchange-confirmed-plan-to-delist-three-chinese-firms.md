@@ -104,6 +104,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
+    publishedDateTime: 2021-01-10T12:13:00Z
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29E0Q6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547231457&r=LYNXMPEH080GE&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Increasingly Isolated Trump Threatened With Second Impeachment"
     excerpt: "US Democrats on Saturday were readying for an unprecedented second impeachment of Donald Trump as the defiant president showed no signs of stepping down after the deadly violence at the Capitol. Democrats said impeachment proceedings could begin as early as Monday -- an extraordinary acceleration of a process that historically has taken weeks,"
     publishedDateTime: 2021-01-09T16:06:00Z

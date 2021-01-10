@@ -87,6 +87,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
+    publishedDateTime: 2021-01-10T12:13:00Z
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29E0Q6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547231457&r=LYNXMPEH080GE&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms"
     excerpt: "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms."
     publishedDateTime: 2021-01-02T14:45:00Z

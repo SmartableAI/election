@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 2035
+heat: 2055
 published: true
 
 provider:
@@ -1460,6 +1460,15 @@ related:
     excerpt: "Michael D'Antonio writes that in an effort to position himself for a leadership position in the Republican Party, Vice President Mike Pence is feeding President Donald Trump's baseless election fraud claims,"
     publishedDateTime: 2020-12-30T03:52:00Z
     webUrl: "https://www.realclearpolitics.com/2020/12/29/the_humiliation_of_mike_pence_532370.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "The Impending Divorce of Trump and the GOP"
+    excerpt: "It remains to be seen whether Trump will enjoy an afterlife as the leader of an independent party in 2024, or remain on the periphery of politics. Read Full Article »"
+    publishedDateTime: 2021-01-10T12:04:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/10/the_impending_divorce_of_trump_and_the_gop_533140.html#!"
     type: article
     provider:
       name: RealClearPolitics

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
+    excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
+    publishedDateTime: 2021-01-10T12:00:00Z
+    webUrl: "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "ANSqbeSYVWjWiPqwFPw0MXwX+OQO9LI9iF9yezTJtD46bSyPFA+apde+FepAF4qipE0YEXY2usMc0dXLESUZI218wGlw90w7giDsYT67wHtt3uAHvysd+nIaHL2A3BO7HJid81Ys+t6BlSiSBw4hwR3C0ewBk8jxXTnl30+j9Z2KZx0uLrNcQUMKjDpHKYannme6SKzgFtjVKxYIvyZGkjbyS1Uq4LaTX5UGa91zOcWcIumFdnHxI4EyCcNb7Abi6xY4qMGYz0Tcc+pNo9NnrxyuN1/Ysw0UBnOxnUj/BcH+FMg6/5j2na5YW85QG42oIl4qYGynWtVL1yA422XdzibJ9iKGQfnBuEBHSLSLIDTbOJrIBas1ig4w0JQDfSuKTFeWw9Ghu9E/Nobvb7ik2Ksgu+c0irVCvXqy6itOpSh412AjdWIr27N0K0TY0d647oGygMXUP6LCOiv35FKKIaxKY0VpzYV9o28mel6uOizsoCXEj47INKBcAiZBamC7iW5ggqA3vf6fFoKVDzU3eQ==;6Bpw7RMaY7YbR7wTa5/cmw=="
 ---
