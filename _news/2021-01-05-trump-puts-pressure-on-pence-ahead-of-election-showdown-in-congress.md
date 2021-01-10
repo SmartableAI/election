@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 2015
+heat: 2035
 published: true
 
 provider:
@@ -1151,6 +1151,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-1-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kirstie Alley condemns Twitter for banning Trump in series of tweets"
+    excerpt: "Actress Kirstie Alley condemned Twitter -- and its CEO Jack Dorsey -- over its decision to permanently ban President Trump and questioned why some Democrats haven’t been banned for their controversial comments."
+    publishedDateTime: 2021-01-10T08:40:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jack-Dorsey-.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump supporters ditch Twitter en masse after president's suspension"
     excerpt: "Some users noticed that they had lost followers on Twitter shortly after Trump's suspension was made permanent."

@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-20-jim-carrey-hanging-up-his-joe-biden-snl-impression.md",
+      "title": "Jim Carrey hanging up his Joe Biden ‘SNL’ impression",
+      "excerpt": "Jim Carrey is turning in his aviators and giving up his gig of impersonating Joe Biden on \"Saturday Night Live.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/c08e82c/2147483647/strip/true/crop/2382x1556+192+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fb2%2Ffa60b0d84452baf1a342ae658b69%2Fglobal-citizen-prize-3.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
+      "publishedDateTime": "2020-12-19T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-former-us-cybersecurity-chief-chris-krebs-warned-not-to-conflate-voting-system-security-with-the-solarwinds-hack-despite-trumps-claim.md",
       "title": "Former US cybersecurity chief Chris Krebs warned not to 'conflate' voting system security with the SolarWinds hack despite Trump's claim",
       "excerpt": "Chris Krebs' warning came after President Donald Trump tweeted there could have been a hit on \"our ridiculous voting machines during the election.\"",
@@ -1282,58 +1334,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-he-called-me-kiddo-jill-biden-says-wsj-essay-was-such-a-surprise.md",
-      "title": "‘He called me kiddo’: Jill Biden says WSJ essay was ‘such a surprise’",
-      "excerpt": "\"One of the things I'm most proud of is my doctorate,\" incoming First Lady Jill Biden told Stephen Colbert while responding to the WSJ's controversial op-ed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/2f18bf9/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F07%2F8d98f6f24cbc8fba98db590cda4a%2Fthumbnail%2Fpol-dnc-night-2-jill-biden-20200818-jl.0000005.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
-      "publishedDateTime": "2020-12-18T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

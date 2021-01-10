@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -308,6 +308,20 @@ related:
     excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."
     publishedDateTime: 2021-01-09T09:02:00Z
     webUrl: "https://www.reuters.com/article/us-northkorea-politics/north-koreas-kim-calls-u-s-our-biggest-enemy-in-challenge-to-biden-idUSKBN29D2YA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547162452&r=LYNXMPEH071G6&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden"
+    excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."
+    publishedDateTime: 2021-01-09T18:48:00Z
+    webUrl: "https://www.reuters.com/article/northkorea-politics/update-2-our-biggest-enemy-n-koreas-kim-says-u-s-policy-doesnt-change-with-presidents-idUSL1N2JJ30V"
     type: article
     provider:
       name: Reuters

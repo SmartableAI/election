@@ -2,6 +2,63 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
+      "title": "Trump is leaving Washington as he governed — chaotically",
+      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
+      "publishedDateTime": "2020-12-02T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
       "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
       "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
@@ -1315,58 +1372,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-joe-biden-weighs-rahm-emanuel-for-transportation-secretary.md",
-      "title": "Joe Biden weighs Rahm Emanuel for transportation secretary",
-      "excerpt": "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T21:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

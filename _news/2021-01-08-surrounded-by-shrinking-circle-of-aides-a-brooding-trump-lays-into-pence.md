@@ -461,6 +461,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump-Biden transition live updates: Mike Pence to attend Biden's inauguration, source says"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 16 days. Lawmakers are responding Monday to an explosive phone call between President Trump and Georgia Secretary of State Brad Raffensperger in which Trump,"
+    publishedDateTime: 2021-01-10T04:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 145
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20210109-192554_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "After years of fealty, Pence prepares for a final performance likely to anger Trump"
     excerpt: "His role in certifying the electoral college results puts him in a vise between the Constitution and the president."
     publishedDateTime: 2021-01-06T01:03:00Z
@@ -4456,6 +4472,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/14/internet-bulletin-board-pinterest-will-pay-former-chief.jpg"
         width: 1024
         height: 700
+        isCached: true
+  - title: "US Vice President Mike Pence To Attend Biden Inauguration: Reports"
+    excerpt: "Mike Pence will attend the upcoming inauguration of Joe Biden, multiple media reports said Saturday, the vice president becoming the latest longtime loyalist to abandon an increasingly isolated President Donald Trump."
+    publishedDateTime: 2021-01-10T07:24:00Z
+    webUrl: "https://www.ibtimes.com/us-vice-president-mike-pence-attend-biden-inauguration-reports-3118304"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/vice-president-mike-pence-will-attend-the-inauguration.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."

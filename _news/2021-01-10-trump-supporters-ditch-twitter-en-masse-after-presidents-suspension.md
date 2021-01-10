@@ -1168,6 +1168,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kirstie Alley condemns Twitter for banning Trump in series of tweets"
+    excerpt: "Actress Kirstie Alley condemned Twitter -- and its CEO Jack Dorsey -- over its decision to permanently ban President Trump and questioned why some Democrats haven’t been banned for their controversial comments."
+    publishedDateTime: 2021-01-10T08:40:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jack-Dorsey-.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Secret Service adds former Biden agents to his new protection detail after worry over pro-Trump personnel"
     excerpt: "The U.S. Secret Service is bringing back agents who served on Joe Biden's protection detail when he was vice president after his campaign raised concerns that certain agents already in place were politically aligned with President Trump."
     publishedDateTime: 2020-12-31T18:55:00Z

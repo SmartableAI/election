@@ -784,6 +784,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden pledges action on the pandemic and the economy."
+    excerpt: "Biden Jr. on Friday promised an accelerated response to a daunting and intensifying array of challenges as the economy showed new signs of weakness and the coronavirus pandemic killed more Americans than ever."
+    publishedDateTime: 2021-01-09T21:08:00Z
+    webUrl: "https://www.nytimes.com/2021/01/09/world/biden-pledges-action-on-the-pandemic-and-the-economy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/09/world/biden-pledges-action-on-the-pandemic-and-the-economy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/world/biden-pledges-action-on-the-pandemic-and-the-economy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/09/us/09virus-brief-biden-pandemic/09virus-brief-biden-pandemic-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
     publishedDateTime: 2021-01-04T03:07:00Z
