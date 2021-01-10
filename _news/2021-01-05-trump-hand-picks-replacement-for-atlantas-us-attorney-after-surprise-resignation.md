@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Toomey says Trump should resign and could face 'criminal liability'"
+    excerpt: "Sen. Pat Toomey said Sunday that President Donald Trump should resign from office and could face \"criminal liability\" after the deadly insurrection at the US Capitol, becoming the second Republican senator to call for the President's resignation.\n    \n"
+    publishedDateTime: 2021-01-10T16:10:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yj19Tqd55Js/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/pat-toomey-trump-resign-capitol-riot-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/pat-toomey-trump-resign-capitol-riot-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dominion Voting sues Trump lawyer Powell for defamation, seeking $1.3 billion in damages"
     excerpt: "Dominion Voting Systems has filed suit against Sidney Powell, the lawyer who pushed false election claims for the Trump campaign, claiming defamation and deceptive trade practices.\n    \n"
     publishedDateTime: 2021-01-08T21:53:06Z

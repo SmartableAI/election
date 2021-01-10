@@ -959,6 +959,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Trump led Republicans to historic losses"
+    excerpt: "The Democratic wins in the Georgia Senate runoffs this week ensured President Donald Trump's place in electoral history. While much has been written about Trump's ability to pull off electoral victories in spite of conventional wisdom, the actual record shows something considerably different.\n    \n"
+    publishedDateTime: 2021-01-10T14:00:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5oLGBs4DnXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107140852-01-donald-trump-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

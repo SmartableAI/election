@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
+    excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
+    publishedDateTime: 2021-01-10T16:36:00Z
+    webUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "tka7jftM48BnwvVuJIs+f9mZn0GGi0CzeWE3D8N8yVE4TFvCC3yenVc/NKGxslz9qcp4E6gpz+FRqmiUSdgQHRMxd2ozP83KzFmzwWHpxHfbk+wHCL34mnoug6CGz8Y8/61801Gw+1hNMGkV7cbsQSF08bdiJutNtWXAGFi9kTN3xz21C30xzG84a8qh2MZt7N1jkt+41kYqjFlfdr1B6XJxHXyRfluj72udqxVLlFZItM9FesgbOwZKxhNFoULtKfrBpXWn0UTzYAxppSYK2ggX8Cjb/g3uVJPwukm4Fa78AUF4pQuR+c3ULyUdfkZvN85LI/cwDIKTFQX07hROBXpDIdGxqNJkffwqY63ex4U=;eRQxrAQmD82C/Dy885TZLQ=="
 ---

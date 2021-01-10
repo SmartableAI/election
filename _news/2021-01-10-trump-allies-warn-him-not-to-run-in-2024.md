@@ -960,6 +960,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Trump led Republicans to historic losses"
+    excerpt: "The Democratic wins in the Georgia Senate runoffs this week ensured President Donald Trump's place in electoral history. While much has been written about Trump's ability to pull off electoral victories in spite of conventional wisdom, the actual record shows something considerably different.\n    \n"
+    publishedDateTime: 2021-01-10T14:00:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5oLGBs4DnXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107140852-01-donald-trump-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's final days put the country at a dangerous crossroad"
     excerpt: "Donald Trump's presidency is in its final, chaotic spiral. But even with the end so near, each hour seems to carry a new threat to America's fragile democracy.\n    \n"
     publishedDateTime: 2021-01-10T06:44:52Z
@@ -2385,6 +2401,6 @@ related:
         height: 773
         isCached: true
 
-secured: "ERjREIw5EAXwQoCVyjI6tuzPH95kYjBQi+KorngNBHcPWDTaPy/Hs54ywoMSwAdPoX0xqyJXd0Wv1bU19crYCwBitegw4JoWW3VCUo4azadaaW4KTkIm8qtvRXMMXF+S1nxTK1H2otsT+2Wg5ohm5Htpiax6kqWCms9nBCYumFmLyNaiTx8BhxQznRPWYGI8lgnq8DzkODyh9QAXy8Fo8FU46g/PVlDpNtzutBdrPTVOBW9F2cQCwiMxwI9UZO2aejtv1nJ9v7tZKTd+q317tYxDPQt74U0v/fVDzg7M6eTLzGo5rfrJ2WSJ5L/Ws2gVFtbuSZlde5iIQTKpohRuJ6TDZAu9t35jE1E2RrloaWU=;/6KjM7xWHaYzBdKlyqfE6Q=="
+secured: "Xyqt4pYQsBAhmAnb6Pxk/sxKBtl/crEWsIJ+BodPLsfap3EoNv5bVSayT0yPytZNIIPVnyfv515tSogocGOMl7T7KsWz2mMXcluAQEOCGkubVeZS96xKikBH3w2gYSExMrLvgEvHB35Dw41p8yKdHCTkQvdsDuWzv39loHQA4wsNlTsfCiwOwyW6yRH14swSV89PJ9SK4JUq+XWofo642f+VGpIi+OZ/1rEll/gFiSayrf7qNVnhqgSIf/HfYrLOn5WGaibTKSQd6FTxoh/DmYFGCebaJw43foh5rCP4qwASGeJX0wxJ8/RZRWOQ5RsB+zAex5PYqMCezr5dmzx6z7DjhQQJHjhNR51nSFZyHtg5w3wpOojMIVCmnPyyf0gs4x74c6HKleppO3AAU5uhj0UlOSxlh8phimUeDnvuiplpRUbow4+iqWH1DmxPyqC6cvyYKDK5ov2iioHPAuBjBKvaxwgy7xHkjDBNVa7WIWuqSczxt2ZFVzW0MTYChrvxWixWyzwBZ5WtQ+UawHDOhw==;Ub2vbdfmY4P6nOXndYcE8Q=="
 ---
 

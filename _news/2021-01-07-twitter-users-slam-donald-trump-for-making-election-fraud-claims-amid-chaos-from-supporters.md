@@ -586,6 +586,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
+    excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying the Republican president could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
+    publishedDateTime: 2021-01-10T16:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/republican-u-s-senator-joins-calls-for-trump-resignation-as-democrats-prepare-to-impeach-idUSKBN29F03R?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547284584&r=LYNXMPEH090DD&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Michigan Trump supporter headed to election rally in D.C. says ‘We are going with God’"
     excerpt: "A group of dedicated supporters of President Donald Trump in mid-Michigan are preparing to hit the road Tuesday for an overnight bus trip to Washington, D.C. Instead of going sight-seeing, though, the group plans to join Trump supporters from around the country for a public rally as Congress convenes Wednesday,"
     publishedDateTime: 2021-01-05T18:43:00Z
@@ -633,6 +647,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NF3FSUHZ5RB75EWJHT3CBTA5SA.jpeg"
         width: 1000
         height: 666
+        isCached: true
+  - title: "Alabama Republicans not blaming Trump for actions of supporters who stormed Capitol"
+    excerpt: "Secretary of State John Merrill, a Republican, did say that Trump and others fueled the violence with false claims that the results of the election could still be reversed."
+    publishedDateTime: 2021-01-10T11:00:00Z
+    webUrl: "https://www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SHVL4VDBIFGTLATHF2NXMANVUI.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "The NBA responded to Donald Trump-fueled Capitol rebellion with continued conformity"
     excerpt: "In the aftermath of Wednesday’s seditious riots in Washington, D.C., two moments embodied the shortcomings of the nation’s response to the moment, and the limitations of polite reproach."

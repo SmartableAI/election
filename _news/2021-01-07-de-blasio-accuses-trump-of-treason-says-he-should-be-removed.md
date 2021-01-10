@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/capitol-rioting-de-blasio-trump-tre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1634d190-f04d-466f-9adb-4458330ac017/18a24fae-b741-48f8-b897-8bf64a80f1f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
+    excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
+    publishedDateTime: 2021-01-10T16:36:00Z
+    webUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "1CK23fn5zBAzm6sp2dBwh4cjtooq/dYEvbeHZZDVzvHwU49nnIT44KZShM+YVse8+Kkkz344hyLwvVrbct6hwzLrOgNiEeb5CxTdQeGr3lP8sq9TSWGODobP8rwWiRKaFhvnJZl4uqyVBlu4/NajlWT2Qb/+LzK+FQNdcB1PvXk+6UGpWGsgsU3gnOf8fRFGJYe0AJJQviGUzyuml83EgD7Un36uhh1UWWYo5343cF6cJwmdL4zh22b93bI6foz93fUuP7WRSL1TU/1XvQnpUvotYaPKfdtmWQhy1YMzKPfGykx6dteEWii0g+3iba26tL+8oY9+yY4utODABo6jlaB9cbtEQ5YJ3OJn9r21fss=;EAkkiIHbe4f3v5u7zC7msg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toomey says Trump should resign and could face 'criminal liability'"
+    excerpt: "Sen. Pat Toomey said Sunday that President Donald Trump should resign from office and could face \"criminal liability\" after the deadly insurrection at the US Capitol, becoming the second Republican senator to call for the President's resignation.\n    \n"
+    publishedDateTime: 2021-01-10T16:10:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yj19Tqd55Js/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/pat-toomey-trump-resign-capitol-riot-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/pat-toomey-trump-resign-capitol-riot-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump hand-picks replacement for Atlanta's US attorney after surprise resignation"
     excerpt: "President Donald Trump on Monday ordered a US attorney from southern Georgia to take over the nearby Atlanta office in an unusual move at the same time that Georgia and the Atlanta US Attorney has become a focus of the President in his attempt to overturn the state's certified election results.\n    \n"
     publishedDateTime: 2021-01-05T19:29:46Z

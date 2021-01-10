@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Republican Sen. Toomey joins calls for Trump to resign"
+    excerpt: "Sen. Pat Toomey, R-Pa., joined the chorus of lawmakers calling for President Trump to leave office, telling CNN's \"State of the Union\" on Sunday that the best course of action would be for the president to resign."
+    publishedDateTime: 2021-01-10T16:40:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rCPQ8jYZOw8/gop-sen-toomey-trump-resign"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99e350c3-f5c7-495c-80e6-742d3e3e217a/1557b227-7a54-4ea4-849e-da952d2399b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
     excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week."
     publishedDateTime: 2021-01-08T16:41:00Z
