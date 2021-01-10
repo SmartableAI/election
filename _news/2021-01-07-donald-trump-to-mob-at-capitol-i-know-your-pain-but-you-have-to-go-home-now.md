@@ -185,6 +185,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "After Trump Was Kicked Off Twitter, Facebook, Instagram, Questions Surround How He Will Talk To Nation"
+    excerpt: "After inciting the violence at the Capitol, Donald Trump is now banned from many social media sites and is on a search for a new one to use."
+    publishedDateTime: 2021-01-10T18:12:00Z
+    webUrl: "https://www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391"
+    ampWebUrl: "https://www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/this-photo-from-august-10-shows-the-twitter.jpg"
+        width: 1024
+        height: 661
+        isCached: true
   - title: "Facebook Bans Trump 'Indefinitely' For Inciting Violence"
     excerpt: "Facebook banned President Donald Trump from the platform \"indefinitely\" due to his efforts to incite the violence in the US capital this week, chief executive Mark Zuckerberg said Thursday. Zuckerberg said the 24-hour ban announced Wednesday was extended because of Trump's \"use of our platform to incite violent insurrection against a democratically elected government."
     publishedDateTime: 2021-01-07T16:34:00Z

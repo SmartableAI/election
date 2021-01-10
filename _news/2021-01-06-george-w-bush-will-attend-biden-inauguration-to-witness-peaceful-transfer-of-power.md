@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
+    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
+    publishedDateTime: 2021-01-10T16:59:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
+    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
     excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
     publishedDateTime: 2021-01-04T19:28:00Z

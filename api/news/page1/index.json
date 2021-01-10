@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-reps-paul-gosar-andy-biggs-credited-in-video-with-organizing-trump-crowd-in-dc-on-day-of-riot.md",
+      "title": "Reps. Paul Gosar, Andy Biggs credited in video with organizing Trump crowd in DC on day of riot",
+      "excerpt": "The man who has led the \"Stop the Steal\" protests nationally singles out Reps. Paul Gosar and Andy Biggs for helping make Washington gathering happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PPHX/dee8e0f3-5193-49ca-97ee-fe0d28cec7f8-Paul_Gosar_Andy_Biggs.jpg?auto=webp&crop=1749,984,x1,y5&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6603721002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603721002",
+      "publishedDateTime": "2021-01-10T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-forbes-editor-issues-warning-to-companies-intending-to-hire-trump-officials-well-assume-everything-you-talk-about-is-a-lie.md",
+      "title": "Forbes editor issues warning to companies intending to hire Trump officials: 'We'll assume everything you talk about is a lie'",
+      "excerpt": "The editor of Forbes magazine has warned companies not to hire Kellyanne Conway, Sean Spicer, Kayleigh McEnany, Stephanie Grisham, or Sarah Sanders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
+      "originalUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ffb1a5dbde805001980c109?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
+      "publishedDateTime": "2021-01-10T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-google-microsoft-verizon-on-biden-inauguration-committee-donor-list.md",
+      "title": "Google, Microsoft, Verizon on Biden Inauguration Committee donor list",
+      "excerpt": "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp",
+      "publishedDateTime": "2021-01-10T08:59:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-trump-speech-before-capitol-riot-not-enough-for-impeachment-charges-turley.md",
       "title": "Trump speech before Capitol riot not enough for impeachment charges: Turley",
       "excerpt": "Democrats are moving to remove President Trump from office after Wednesday's U.S. Capitol riot, but George Washington University law professor Jonathan Turley said he doesn’t believe Trump committed an impeachable offense.",
@@ -14,7 +174,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 213,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -283,7 +443,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1200,166 +1360,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-nikki-haley-says-trump-twitter-ban-is-what-happens-in-china.md",
-      "title": "Nikki Haley says Trump Twitter ban is 'what happens in China'",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp",
-      "publishedDateTime": "2021-01-09T07:31:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-family-trump-supporter-who-died-followed-qanon-conspiracy.md",
-      "title": "Family: Trump supporter who died followed QAnon conspiracy",
-      "excerpt": "Friends and relatives say a Georgia woman killed in Wednesday’s siege of the U.S. Capitol was a recovering drug addict who wanted to become a sobriety counselor",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_10f0fe4d5c6741cebcd017089c462e9b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "publishedDateTime": "2021-01-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-hillary-clinton-chrissy-teigen-megyn-kelly-and-more-famous-faces-react-to-trumps-twitter-ban.md",
-      "title": "Hillary Clinton, Chrissy Teigen, Megyn Kelly and more famous faces react to Trump's Twitter ban",
-      "excerpt": "Here's what Meghan McCain, Megyn Kelly, Chrissy Teigen and other celebrities are saying about Trump's permanent suspension from Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/01/08/twitter-bans-trump-chrissy-teigen-whoopi-goldberg-and-more-react/6603886002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/01/08/twitter-bans-trump-chrissy-teigen-whoopi-goldberg-and-more-react/6603886002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6603886002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603886002",
-      "publishedDateTime": "2021-01-09T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-28-us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill.md",
+      "title": "US STOCKS-S&P, Nasdaq futures at record levels as Trump signs stimulus aid bill",
+      "excerpt": "Futures tracking the S&P 500 and the Nasdaq were at record levels on Monday as President Donald Trump's move to sign into law a long-awaited $2.3 trillion pandemic aid bill bolstered bets on a vaccine-led economic recovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR",
+      "originalUrl": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-levels-as-trump-signs-stimulus-aid-bill-idUSL4N2J81HR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545959094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0GQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN292101",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101",
+      "publishedDateTime": "2020-12-28T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-relief-is-coming-trump-backtracks-and-signs-covid-aid-into-law.md",
+      "title": "Relief is coming: Trump backtracks and signs Covid aid into law",
+      "excerpt": "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
+      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252404",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404",
+      "publishedDateTime": "2020-12-28T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-trump-signs-covid-19-relief-bill-after-nearly-weeklong-delay.md",
       "title": "Trump signs COVID-19 relief bill after nearly weeklong delay",
       "excerpt": "After its passage, Trump initially called for the bill to be revised to include $2,000 checks and refused to sign it until his call was answered. However, he didn't officially say he would veto it. In a Sunday night statement announcing he had signed the bill,",
@@ -1477,110 +1586,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-probe-trump-officials-attacked-cdc-virus-reports.md",
-      "title": "Probe: Trump officials attacked CDC virus reports",
-      "excerpt": "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "publishedDateTime": "2020-12-21T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-trump-administration-weighing-legal-immunity-for-saudi-crown-prince-accused-in-assassination-plot.md",
-      "title": "Trump administration weighing legal immunity for Saudi crown prince accused in assassination plot",
-      "excerpt": "Riyadh has asked the State Department to shield Mohammed bin Salman from a U.S. lawsuit by a former Saudi intelligence officer who claims he was targeted days after Jamal Khashoggi’s death in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC5LGNSBUQI6XC6AVYKVX3SK74.jpg&w=1440",
-          "width": 1280,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-21T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

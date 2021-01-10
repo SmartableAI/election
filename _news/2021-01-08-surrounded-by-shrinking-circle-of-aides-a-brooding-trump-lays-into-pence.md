@@ -3,8 +3,8 @@ category: news
 title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
 excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
 publishedDateTime: 2021-01-08T15:04:00Z
-originalUrl: "https://www.reuters.com/article/worldNews/idUKKBN29C2RE?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/worldNews/idUKKBN29C2RE?edition-redirect=uk"
+originalUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
 type: article
 quality: 119
 heat: -1
@@ -2695,6 +2695,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump legacy on race shadowed by divisive rhetoric, actions"
+    excerpt: "President Donald Trump repeatedly claimed in the final months of his presidency to have done more for Black Americans than anyone with the “possible exception” of Abraham Lincoln"
+    publishedDateTime: 2021-01-10T18:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z
@@ -4690,6 +4706,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "ODjCJ3djTVV22Aysq05dxH8Ygy9XSp0nGv06qAhr6UF9sUXuWIVJcGw3jk1iA5zYUVJkfiltX316+wwwsaQXwnqq7rV+641GKPu7QjFQMinrGiFl1wOkWNDEnWhjMD8B9/u8oqdzAbAPOLfG/BVsu7B9y2BxWrSa+SuEaxXgkabtFSyR+V+8wV4ocJFKhR6u7uPhn2L3X1JILkm8ax/VvZqGR5+Blj7C1O6s4L5J7pRa9HYGql8m4qyx2n9NQ7qsCU2QPcrIohRzJHPDPvQd+Ig9MFwN8b8IpeOoYNFIWBwHcFf0oMNDD1o4kvmPuOVorFUEUVx4lIb+ViV4+NAfkt3Uq3H99+MU/EV+ytWBgkU=;GYaKllPu/9m2eTcCwbLVSQ=="
+secured: "xv9JX0pQa1TGHgxeKYeywfatQhcFVqI26T+HaH0PSjilp+hGrrG/WNz4LDwX2gD6K7Oxrx69vweMlgU9ed0Js4u7NVam/n2WB2yp4I0/yYo8icGXHT9YTqeR09cqg/yfdk2qrsNnjA3cEXr5QWT3vD7Q1d1RG2vPS9OBnRAM4y2ldTav06uE9HkwhedWTaTph4mumXhymNyz2TvXcu90fgCbCn4o7YVPv8nA4EAubZ8T/AED8OQnn7RFE9Na4UqR5w6GCXHighPGd4VWq1RJIJqUZVg+JZt1d7DOOsfhUygn+LiypWuJaJe7ZTgyXMeUoTqMF5AmyMm3DU40JrulxjLspQO1t37qDoxI6wNiaLQ=;KXZdcmfUNhkFTCpqyxX94A=="
 ---
 

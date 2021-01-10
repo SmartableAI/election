@@ -143,6 +143,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pelosi supports invoking the 25th Amendment because it ‘gets rid’ of Trump"
+    excerpt: "House Speaker Nancy Pelosi said she would support Vice President Mike Pence invoking the 25th Amendment because it “gets rid” of President Trump. Pelosi, who said the House has"
+    publishedDateTime: 2021-01-10T18:54:00Z
+    webUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/AFP_1NS4BC.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "h7aJsCEfUEsmHc1HSOS9JHBsUmL8kl3bgQJV5AQ9jacIO8hM3F0oeM4MEnjbs+5VBNZF4rylULx3JixgXELI0aGEtMBsUmn/UlHueXgu+cbcSeDsGXESwHlYCa+TDopMcy6PodqNZIYft4WVY8GUCi4jVN5ktfjXU9rp3BwJdetgBbtFqzd1y63aeZRT1hKiG/EWSStF/HPqkiDTk1lNv/xXA7usLYTCiUpr4VI1B4JEK087mktMR9lHKo3LWHIADYS9GGFg3HqlKl0+OjyhHX5biJSXKiS3yMzK8BZIDmFXj777PQMhfertUd68f9/etDSwAXjIRZlOelmmhxbdl3fFad6JPNkrST45RiwE4IA=;O3Byh9sPu09/Fl/2YsMoUw=="
 ---

@@ -2697,6 +2697,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump legacy on race shadowed by divisive rhetoric, actions"
+    excerpt: "President Donald Trump repeatedly claimed in the final months of his presidency to have done more for Black Americans than anyone with the “possible exception” of Abraham Lincoln"
+    publishedDateTime: 2021-01-10T18:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-04T20:16:00Z
@@ -3066,7 +3082,7 @@ related:
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
     publishedDateTime: 2021-01-08T15:04:00Z
-    webUrl: "https://www.reuters.com/article/worldNews/idUKKBN29C2RE?edition-redirect=uk"
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
     type: article
     provider:
       name: Reuters

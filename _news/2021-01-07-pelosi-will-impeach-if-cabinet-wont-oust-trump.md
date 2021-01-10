@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Pelosi supports invoking the 25th Amendment because it ‘gets rid’ of Trump"
+    excerpt: "House Speaker Nancy Pelosi said she would support Vice President Mike Pence invoking the 25th Amendment because it “gets rid” of President Trump. Pelosi, who said the House has"
+    publishedDateTime: 2021-01-10T18:54:00Z
+    webUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/AFP_1NS4BC.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "XA+xxB3iBcaKdaJf3dN9eMM9+XbpkXVozHy69DKVjHqrBAicWYJE4SGnUfXyAHEiSTup7Zcv5zdy5Q2lhU3zqoeBSaOvVLAOdV6a8CEWqxanIvs2uzAnrXpMe3PtcthvyviMB9VbpbwGdXzci5KeorGfU5fGnCO4LNRvuGtHMbmLb1c3sldl2kxnybXwZIqaSjqwtn91myh190OFLf79z944Xq943JbUtdUO8B60cMbFd93ba1YMxrTZvHXgkBordZ8H7LhptYcGXgfjUM/qsAy1mXqk0y44DCPOMJGYQDgym/R5eElcnPabPWSaXGgDh82nwUqYPIpHKK/8dTOkQ25orFKHoZvZXgOcLnGA84I=;sNSjeGci19CFUK8w/hEn4w=="

@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Mace pegs Twitter 'un-American' for Trump account suspension: 'It's completely hypocritical'"
+    excerpt: "President Trump has been banned from Twitter after Wednesday’s U.S. Capitol riot, and Rep. Nancy Mace, R-S.C., is calling the social media giant’s response as the height of hypocrisy."
+    publishedDateTime: 2021-01-10T18:10:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TUnBFnsLSng/rep-mace-twitter-un-american-trump-account-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-twitter-un-american-trump-account-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-twitter-un-american-trump-account-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21009769914132-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "x4ODlpM7OItyH0FH7CJIUEHPt1FuqyevWrodLzAFD04hYTXiZJd/Jid5M7H+FGNwMXZdhLk/O0aDWesEdz+dNwx8Oq92tg4GXmwkK3E5Ip/DLQ+5Ut+xz+tfshu+V4qG/r1YpCQOzdV8KX8GHR7NhR4gdqB8VqgBKKCVSfkfy66fLny4XcYY/kwt36yMfJidN/S17y3DnDOhtA4uYoy2S8e53RMRprbuzU8cDSV4G2nF5Yzat6ZufXmJ7LTf0sMj0xM/xDAjuZMHw2Dcmt0MLSL7wStDghTFqHhAASgPhq8KBLKU3Tdwrd6mfiGrPQViUgn2LXHZ6tjyZGZqDmPDK62gtQ5jl6wT9GJtme8idBI=;cswrJ4PaYMRVcC1S8RntNQ=="
 ---

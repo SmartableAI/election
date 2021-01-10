@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachme
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -63,7 +63,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'"
+    excerpt: "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\""
+    publishedDateTime: 2021-01-10T17:39:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AYbZcRaWwGY/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e261edb-993c-4462-a43f-7b8bc27294f3/dbae9707-b9f7-49a0-8d78-aa793b6188a1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "Z+CfJ3AkxezUvBSL01YngXDmAjaCCyDYSW5bxr+/DkMS80WXldHTUgBhqdSsu/NzRZ7Tyd7HKV/dUz2rWYo0oAtjd2mMghqMN3EpY8xgD0keRj04UzNlA2Rz+secnVVRyiumA7ulsKrEpiaq08a5xi/kLJyv6qc7Lu3QRpFg8UClCGQyZJZ++5W33cr+w1jkVIOT9PW1xT3E+vRmagm+3UaIWrAEfhMAI/ujKry2DEioNz3H5MaZR6uElg8YFTHnDtjuYKnN2yLTbgpLXOmbRiyK2ulSWsPQEHt9Uv3LSllbJHgBBGDmltYUgnTQY76/VSNKpl3F+3Vr6IGZC6WzW+PWaW8Oscs3IoA/S0dRxvU=;BP7pvHe9I9niuE8YuWzH5Q=="
+secured: "6OQ8mjD6wjH/NqaPDbYpzbJnc5Jh/3N0oRsjkiJMmNNKiFBVp/YaaVNG66qHAG+9kqWA5TXz8Of+ifYGNraoDFSKyHL9Wl26jAUhPIBK7Ws5YeTf500XgHRurN7nM1YxixkKSNcTVsk7CdDoOzJVDyzQsJ9v9l/1a5mY5w2FEcVWU88GWMNMIWIgJJHiAsWfB5gxX7/llDJztMbTj22IU3iPtSe2qCK6M7tM1Qkne2iV/wvgdAKaq9NnfH63PSOiNjK2VDCCYDuSK0y7x1ajaeAWU3MHAD+lCs8KEEWiCX34XXzdH+SZwnqNh17YY3GUdDDTFplaIWZ9QAs+r5VutxtbKO0wWYHu8naPEzQIZXE=;AOiWAxGgG20EzCUzXj8qBg=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'"
+    excerpt: "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\""
+    publishedDateTime: 2021-01-10T17:39:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AYbZcRaWwGY/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e261edb-993c-4462-a43f-7b8bc27294f3/dbae9707-b9f7-49a0-8d78-aa793b6188a1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/5bnqB4vTiFYA8ANqADQbk18/b26JosaeQ295eR8IW6KP7HBibmEz3TUks2aYQrZ8LxkfZOz+KHRLSCVqNLGA/LNcEobjxFgeZdFkez7tgCueJnKHoCpFXwtXosIGpqUtUwD7/Qc02qJDUf3r144pxLtvaB9JrQApF45VG8Bsb06L0d31SRY5cKBmma9grhCKVLtdRhpxHGLb7LU0xn0pJH9g0pwGdj3AJYPc5pD5Qbh4QhaVjdhTAw9Ajfp53IfDhUXHd4JS21W1tziXjvCtXMrT5uOfj/BJPr6LkToFuwGgSEbIn91x77Lxcx8L5+ZnTCGz35qiXWyjLq20hrEpRxlvlyGRANrhp1FpqH9+5o=;1KN/2mm36qPsLnu68x4cwQ=="
 ---

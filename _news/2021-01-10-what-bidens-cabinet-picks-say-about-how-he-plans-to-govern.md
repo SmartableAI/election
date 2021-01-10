@@ -1,34 +1,28 @@
 ---
 category: news
 title: "What Biden's Cabinet picks say about how he plans to govern"
-excerpt: "His Cabinet picks help demonstrate how he plans to deliver. The president-elect announced his final nominees this past week, completing a diverse team of two dozen people. He noted Friday that this will be the “first Cabinet ever” to reach gender parity and include a majority of people of color,"
-publishedDateTime: 2021-01-10T13:35:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
-webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+excerpt: "Joe Biden promised that his presidency would mean a return to normalcy. His Cabinet picks help demonstrate how he plans to deliver."
+publishedDateTime: 2021-01-10T14:20:00Z
+originalUrl: "https://www.businessinsider.com/what-bidens-cabinet-picks-say-about-how-he-plans-to-govern-2021-1"
+webUrl: "https://www.businessinsider.com/what-bidens-cabinet-picks-say-about-how-he-plans-to-govern-2021-1"
+ampWebUrl: "https://www.businessinsider.com/what-bidens-cabinet-picks-say-about-how-he-plans-to-govern-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-bidens-cabinet-picks-say-about-how-he-plans-to-govern-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_cac903d7362845908ccfd3cf90a4f028_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden calls on mob to ‘pull back,’ urges restoring decency"
@@ -420,6 +414,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+FiX4zuy8ZYOAHIiAhTXtg5OnCdC6qzM8UhVW0H2xJ2fTGu1IlDk+EOwQRbdDG5tHdwDpYgp3+KBpNwac1+tsnBMlPCx4mpGc4aJsfeBSF1qJoJXoZS0dmxEJ8GeAk+ctsq4mJwkVwE9GwhQ0K6QqRGCAJ6/40rc5YUbucMdgdSmARK/mJk9PxGAFTt0OR+/c2ihaJFOqb4hMqBc7sqeob8n5idbqXuSKYI2Utn0RyFdEw/6FGrsqsqQ9OvW0JS4S/vk+clB/YXUXgSp5z/Jg969kyPaGJIAS/naHIkhgabvTJYg60BbMvAosEovQbW0BUO556XyQJXCfUmomZenf2XhCnTFXAMzVKoN9s9PMlE=;5JhoVFij0HNBbIlR2gKqtA=="
+secured: "71FKX0vrE8rMmJ9XWBE26DxQKE615/7soqRRZ/I++5heHBg9z651L8/guUM7jlhj4tQdNDbeS4tjZUJ25r+YdgLrdPCGWtRjJOH2zsbEieTvp8xc+NRdxx67FE9WjU+IEkH9YzKbQgSH4Hw1GI15wxOsWnc005fGj998bEFFcOmZ0iMYb5HBuxGnsSvnkmN5MuEvchI4anKe0WHC6yscCgEk3efrjlrNunINJobINrAHbL62m0sxQHn9BvYwpYzuVRfowbUhj7IotM2pmQtAnEbdoggLp3OnlUywvKxYnLS7bZMCB6GgJuTskyqibe3DWkpjbBL5t4Jj9FpVaTI+jG77K954JC2bVOYbL29jtMU=;nd/hB1uS6MFOaWGxAQbLaw=="
 ---
 

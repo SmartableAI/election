@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
 type: article
 quality: 129
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
+    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
+    publishedDateTime: 2021-01-10T16:59:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
+    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
     excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
     publishedDateTime: 2021-01-06T03:40:00Z

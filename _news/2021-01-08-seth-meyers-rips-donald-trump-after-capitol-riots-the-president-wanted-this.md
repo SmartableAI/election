@@ -111,6 +111,20 @@ related:
         width: 718
         height: 464
         isCached: true
+  - title: "Who Is Jake Angeli? QAnon Follower, Trump Supporter Who Wore Horns And Fur Charged In Capitol Riots"
+    excerpt: "Jake Angeli, who was among the more visible rioters on Wednesday, has been arrested in connection to the Capitol riot."
+    publishedDateTime: 2021-01-10T18:28:00Z
+    webUrl: "https://www.ibtimes.com/who-jake-angeli-qanon-follower-trump-supporter-who-wore-horns-fur-charged-capitol-3118394"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 41
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
+        width: 1024
+        height: 695
+        isCached: true
 
 secured: "6soH0sizRRejtIWhz6y9x8mQW1fNKR/GJcBQl+p0jOfT3w4TdZ0KHyneKlFJVzMSQ+12ePh0Ji5rwNzHo3xiYNsb2B+QVFXHQ/0Q1oVrEGOZwueRd1/mFYbhjYwuuUtUD5rKv6CsNRdzLsf3ftK4aD5buRLMexeDsw8+nCwZijIj8fEU9fi03FlpjAEQJcloVKqLHuZQkGLrC5H+UYq7i7u7g5HwGiutx5pOddHL+ptNcG3ExAy+kJQKKOLQ3NiQFY2awySCFyd929B5DnmcFGKIfjihIkL2gNZJlg768E+ZuOEVPPz5IuF7amv+BnnXBMllW26HG67VuXRn0ZwMEnR9PolPy4xoP9abKeo8vMFo3t3UEreVpwSb+9NhaKbXAhHuEWfKgUuy+8OpdfL6mW5ZCwJjEOh6lyNAx03Db8dqzsKcWmEXvDeN8GVsGz1zIk+Nmo3JFaMlorbBKymcE91HqTHUWLD+9dopzCqJVngoprkhPUEveeeklsH8iuTUGEP11lYHUbGVULMcXJYRsg==;W1DsjbEa3yx0an0esQasDQ=="
 ---

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-reps-paul-gosar-andy-biggs-credited-in-video-with-organizing-trump-crowd-in-dc-on-day-of-riot.md",
+      "title": "Reps. Paul Gosar, Andy Biggs credited in video with organizing Trump crowd in DC on day of riot",
+      "excerpt": "The man who has led the \"Stop the Steal\" protests nationally singles out Reps. Paul Gosar and Andy Biggs for helping make Washington gathering happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PPHX/dee8e0f3-5193-49ca-97ee-fe0d28cec7f8-Paul_Gosar_Andy_Biggs.jpg?auto=webp&crop=1749,984,x1,y5&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6603721002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603721002",
+      "publishedDateTime": "2021-01-10T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-forbes-editor-issues-warning-to-companies-intending-to-hire-trump-officials-well-assume-everything-you-talk-about-is-a-lie.md",
+      "title": "Forbes editor issues warning to companies intending to hire Trump officials: 'We'll assume everything you talk about is a lie'",
+      "excerpt": "The editor of Forbes magazine has warned companies not to hire Kellyanne Conway, Sean Spicer, Kayleigh McEnany, Stephanie Grisham, or Sarah Sanders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
+      "originalUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ffb1a5dbde805001980c109?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
+      "publishedDateTime": "2021-01-10T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-mulvaney-earlier-trump-controversies-were-policy-differences-or-stylistic-but-wednesday-was-existential.md",
       "title": "Mulvaney: Earlier Trump controversies were 'policy differences' or 'stylistic,' but 'Wednesday was existential'",
       "excerpt": "Former White House chief of staff Mick Mulvaney, who resigned as envoy to Northern Ireland over President Trump’s handling of the deadly riot at the U.S.",
@@ -114,7 +218,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1043,7 +1147,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1407,7 +1511,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1438,101 +1542,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-nancy-pelosi-and-chuck-schumer-call-on-trump-to-demand-protestors-to-leave-the-us-capitol-immediately.md",
-      "title": "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'",
-      "excerpt": "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "originalUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff62860d184b30018aad62d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "publishedDateTime": "2021-01-06T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-the-latest-trump-tells-very-special-protesters-to-go-home.md",
-      "title": "The Latest: Trump tells 'very special' protesters to go home",
-      "excerpt": "The Latest on Congress’ tally of the Electoral College vote won by Joe Biden and of protests near the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.html",
-      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/b7/0b713209-3425-5ae1-89a1-343d1583087a/5ff60dc3ce5ed.image.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html",
-      "publishedDateTime": "2021-01-06T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

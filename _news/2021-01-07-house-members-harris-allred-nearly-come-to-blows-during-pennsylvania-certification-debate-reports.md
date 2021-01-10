@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/house-members-harris-allred-nearly-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.amp"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Why Kamala Harris’ Vogue cover is trending on social media"
+    excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
+    publishedDateTime: 2021-01-10T18:09:00Z
+    webUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/"
+    ampWebUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-vogue.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Wm+hVignnDoS2wCVyhuqIMLqYZREVNld472wUvU1lUpqLh6p5+AJcCvmXrNfK9qPljiJl+BkR1su5JDe4Y/9caSvHPF2+Hpyrjgp3KWqCQntf1vmGiC52ou65DNDSS/fCI0p+zMZocMybycjU7N7/1i2lluyJm6PJaEOODoWrB+SoHwR+xw35YT1DT1Fkixi+S6wt/mAk/t7vm/ucSTV+ptHA38pp4xXnAYBhxfqDaoIA0lxrnJtVvYTDvcPxUzU86UOVhXjlBd6pvCDTqk5Xdu+nEaI8WaWCqacAnMKHNNTWBWN70QI0jm4xqtLnorhPZ3dK0JVGDcDKXGlMlfzq5IcqybM+SiV+SVa5X2VJ38=;tHayyeLwt0+yNDgX2LlgTA=="
 ---
