@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Top Republican says Trump committed 'impeachable offenses'"
-excerpt: "Pa., said he believed Trump had committed “impeachable offenses.” But he did not explicitly say whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment."
-publishedDateTime: 2021-01-10T04:20:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
-webUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
+excerpt: "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke."
+publishedDateTime: 2021-01-10T05:10:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+webUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
+    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
+    publishedDateTime: 2021-01-08T21:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Democrats Plan Lightning Trump Impeachment, Want Him Out Now"
     excerpt: "Democrats in Congress are swiftly laying plans to impeach President Donald Trump and ensure an “unhinged” commander-in-chief can do no further damage in his remaining days in office."
     publishedDateTime: 2021-01-10T00:32:00Z
@@ -43,6 +59,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "cU+QR7cxVU1Z5bOgrOj+5tui20VmqndT95R+hFJsFu6h7kf9VJGw6hLOOEfB+PgU4fZxet8yqVUvylLDylyClFDc3AU8YbKID2KKYds+qigtdIFOIN/7oSmQuAmfUX7mfz/WzlKIpmU4uWO7ML7Vw2mHXgnVRPLJJMLy+0Ysj698RxRxfZbW+0E4yQFeQsRsXKQUkVsHWYdgjZx3zU9n6JICPWfqpItVZlebNVS9++PcqiNPJeeK97nWpIvvCE2ACgzGkk85m18E4uS9zw08B3y1m3XRkUOHw+EUoSg0+s5wT/6WC4V/7bvt2qC14mMZgBjQkHIHYzkF4hhfxrm/HGEH7LpDgQYeadUJkvvpgSo=;8eWFIy8VcoRK5H30pdhcWQ=="
+secured: "+utq6gfpYEq2NHZrgOM4Afd2wAOiyIVCVhBAlyfjlq2aVZnCWaZBLkPRh5Y9hV7j/9m7QZ/LtbtoVnxkPdKjHX2RoXSr9NCHYqI2Rv2Wt8tnx2xvd97XPM6KEWTboLzRWMCvrnuQiIdW1Ou7Yk/U/rlTSsXdxe2cDYIv5etg1AhkZMbtu0sRDYFlCpbLl5OkKldq9vbvZ8V+w1HP2GxMTuB9g3stf01Qth2umg02xHLMQ3kv1wsP2GZCqPcUfgs3VWtTr5p8YO/GsHPR6aEvmDmcvZzA18dCGK/PUPesRxDR4L9RlYOI/Oay/1J514FudwV4IjNQSy3w/wuGCfBRQzMn6VJLDrsBv6oBiYAqqoI=;uDQPqjqauZjKUmyWzccwHg=="
 ---
 

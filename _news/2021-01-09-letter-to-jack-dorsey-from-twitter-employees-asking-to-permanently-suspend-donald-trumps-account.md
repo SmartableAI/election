@@ -45,22 +45,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
-    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
-    publishedDateTime: 2021-01-08T21:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 111
-    images:
-      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
     excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
     publishedDateTime: 2021-01-09T08:32:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
-    excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
-    publishedDateTime: 2021-01-09T04:58:00Z
-    webUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756"
-    ampWebUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 61
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
-        width: 1024
-        height: 642
         isCached: true
 
 secured: "HV7bvusDA7UxDcqk3WddKVdppKKu8WuQ8/MGHtCeD/TmWqX196RVXZPSMwD8cF/j4XNI67nl50HiVG/Tw1TB205qvWrxwN5CivwJmW2BvtdmHEjThxva0dBYKYoJWrZyolYbGR7R7L4Jhnq40enmRiGzIyn1zbLKuLAce2e0ll+McV4fe+0yiBt0+TU22E9tAJ1t90HjFA2IQkcPc430GUwHYE9tq1H7AY/F3mWK7tA20XLuJsmPp5pdWOo3AIPYLj8/nSUBdRI7aDWgGGxmGYWOoXSlev1QnduYksiWQ3h09jgNs18ENwnSuQdxAJglvLQFy38mhqElX1VxgdzsLGWgV8cyEmVd1dSblinEhtc5f98uD0jJCrR+q4v3x5+qE8zamep3tqI86vqKF+sTbXc/0GbEWgPv1RX5sqVo8mUbTgXRTDh27t9900FGNGgm9vJZ5a29XIyPJzAuXZMZcck4+1zJbMQBfJa4OZNXNSAhE2tNtNXAmm2e5F/LMd6su65eTh1znlalAytp0/6+Ng==;NAhL13bYeBWK9k4Of6//nQ=="

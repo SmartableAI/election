@@ -31,81 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'"
-    excerpt: "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol"
-    publishedDateTime: 2021-01-09T08:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
-    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
-    publishedDateTime: 2021-01-08T21:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 111
-    images:
-      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
-    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-09T08:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
-        width: 799
-        height: 576
-        isCached: true
-  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
-    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
-    publishedDateTime: 2021-01-08T21:40:00Z
-    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+  - title: "Trump to visit U.S.-Mexico border to laud border wall"
+    excerpt: "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas"
+    publishedDateTime: 2021-01-10T06:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 92
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
-        height: 989
+        height: 779
         isCached: true
-  - title: "Donald Trump Tweets From POTUS Account After Twitter's Suspension, Claims He Was Being 'Silenced'"
-    excerpt: "President Donald Trump tweeted from the official @POTUS account Friday evening shortly after Twitter banned his personal account, @realDonaldTrump."
-    publishedDateTime: 2021-01-09T07:26:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
+  - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
+    excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
+    publishedDateTime: 2020-12-29T14:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "U.S. labor federation urges Trump removal, calling him 'danger' to nation"
+    excerpt: "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office."
+    publishedDateTime: 2021-01-08T16:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
+    excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."
+    publishedDateTime: 2021-01-08T15:18:00Z
+    webUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482"
+    ampWebUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 62
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/us-president-donald-trump-whips-up-the-crowd.jpg"
         width: 1024
-        height: 681
+        height: 682
+        isCached: true
+  - title: "Will Donald Trump Try to Take His Act to TikTok?"
+    excerpt: "I asked TikTok, which the outgoing U.S. president spent the second half of 2020 trying to ban, whether it would join other social networks in refusing Trump access to its app, should he want to join."
+    publishedDateTime: 2021-01-09T05:11:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/fac/982/32eb55cd34fdbfd7aa95ebac6d828b77f5-donald-trump-tik-tok.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Donald Trump visiting Texas' Rio Grande Valley on Tuesday as his administration rushes to award more border wall contracts"
+    excerpt: "The president's visit comes a week after Department of Homeland Security officials touted the “historic” completion of 450 miles of border fencing during his administration."
+    publishedDateTime: 2021-01-10T02:05:00Z
+    webUrl: "https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 49
+    images:
+      - url: "https://thumbnails.texastribune.org/a46LF-zc-5KceRQnN9BytLot0Cw=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d440d5485ff924488186466519c53bdf/Trump%20Brenner%20REUTERS%202020%20TT%20.jpg"
+        width: 1200
+        height: 804
         isCached: true
 
 secured: "NXA9+YBm4f9bIkc4/UrgIwK5dwqbXCByJ8oUAcCfHZehkm55hyXzA6ZfhT8/JIE5BsfqrtGpxfyvvrkTVP5oVz9t0YURoulea9yT8Ccx7GsFyL7ULHMuADM4dnbJLqT00cc4JX24aNjGDqTpTfuhhrUqnj79ak+DMKeYl72WEylvdOPovtqeUh5zH9TDulr7NvNtQLkWTvE1GyAZDjYghefad7PGGHErcKdFmYhs4OOQ4IPhL+79TbvgQaMfpY7axvwDTdnJXmSQNDfkqa7d7FMnsaaYKIXezvBaUdD9DpGrGEdnePGKB/Ek+o9QvoajzdBFeGGOBYj2DW7eRS/YHmfo9Z1B90d3fPd9wcosS40=;ML/g+Nl480CzhbADE1PRHw=="

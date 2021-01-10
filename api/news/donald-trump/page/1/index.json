@@ -2,15 +2,67 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
-      "title": "Top Republican says Trump committed 'impeachable offenses'",
-      "excerpt": "Pa., said he believed Trump had committed “impeachable offenses.” But he did not explicitly say whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment.",
+      "path": "_news/2021-01-10-trump-to-visit-us-mexico-border-to-laud-border-wall.md",
+      "title": "Trump to visit U.S.-Mexico border to laud border wall",
+      "excerpt": "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
+      "webUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-09T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
+      "title": "Top Republican says Trump committed 'impeachable offenses'",
+      "excerpt": "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -24,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
-      "publishedDateTime": "2021-01-09T20:20:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "publishedDateTime": "2021-01-09T21:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -110,7 +162,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -370,7 +422,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -561,6 +613,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-billionaire-trump-supporters-catsimatidis-olenicoff-say-he-isnt-to-blame-for-us-capitol-attack.md",
+      "title": "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack",
+      "excerpt": "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1",
+      "originalUrl": "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-pelosi-asks-joint-chiefs-about-preventing-trump-from-launching-nukes.md",
       "title": "Pelosi asks Joint Chiefs about preventing Trump from launching nukes",
       "excerpt": "House Speaker Nancy Pelosi spoke with the nation's top military officer on Friday about precautions in place to prevent President Donald Trump from ordering a nuclear strike or conducting other military hostilities as Democrats seek his removal from office.",
@@ -615,58 +719,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-us-labor-federation-urges-trump-removal-calling-him-danger-to-nation.md",
-      "title": "U.S. labor federation urges Trump removal, calling him 'danger' to nation",
-      "excerpt": "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1474,58 +1526,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-bars-us-transactions-with-eight-chinese-apps-including-alipay.md",
-      "title": "Trump bars U.S. transactions with eight Chinese apps including Alipay",
-      "excerpt": "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay mobile payment app, the White House said, escalating tensions with Beijing two weeks before President-elect Joe",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA",
-      "originalUrl": "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546737122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7",
-          "width": 815,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29A2PA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA",
-      "publishedDateTime": "2021-01-06T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

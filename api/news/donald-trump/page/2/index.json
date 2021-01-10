@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-bars-us-transactions-with-eight-chinese-apps-including-alipay.md",
+      "title": "Trump bars U.S. transactions with eight Chinese apps including Alipay",
+      "excerpt": "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay mobile payment app, the White House said, escalating tensions with Beijing two weeks before President-elect Joe",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA",
+      "originalUrl": "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546737122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7",
+          "width": 815,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29A2PA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA",
+      "publishedDateTime": "2021-01-06T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-trump-biden-transition-live-updates-pence-told-trump-he-doesnt-have-power-to-reverse-election.md",
       "title": "Trump-Biden transition live updates: Pence told Trump he doesn't have power to reverse election",
       "excerpt": "During their weekly lunch Tuesday, Vice President Mike Pence told President Donald Trump he does not have the power to reverse the outcome of the November election when he preside",
@@ -10,7 +62,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6148,
+      "heat": 6168,
       "tags": null,
       "images": [
         {
@@ -637,7 +689,7 @@
       "originalUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -689,7 +741,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1093,6 +1145,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-04-10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.md",
+      "title": "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’",
+      "excerpt": "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html",
+      "originalUrl": "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H6JQPAWYSFBNZJ7PDA5OYAMLZU.jpg",
+          "width": 5653,
+          "height": 3769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp",
+      "publishedDateTime": "2021-01-03T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-thats-real-fauci-rejects-trump-claim-that-us-coronavirus-deaths-overcounted.md",
       "title": "'That's real:' Fauci rejects Trump claim that U.S. coronavirus deaths overcounted",
       "excerpt": "Two top U.S. health officials on Sunday disputed a claim by President Donald Trump that federal data on COVID-19 cases and deaths in the United States is overblown, and both expressed optimism that the pace of vaccinations is picking up.",
@@ -1434,106 +1529,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
-      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
-      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
-      "publishedDateTime": "2021-01-02T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-trump-urges-people-to-get-ready-to-vote-in-georgia-just-hours-after-calling-the-senate-runoff-elections-both-illegal-and-invalid.md",
-      "title": "Trump urges people to 'get ready to vote' in Georgia just hours after calling the Senate runoff elections 'both illegal and invalid'",
-      "excerpt": "President Trump will attend a rally in Georgia on Monday for Senators Kelly Loeffler and David Perdue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
-      "originalUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff09f449ff41f001883fa8c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
-      "publishedDateTime": "2021-01-02T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

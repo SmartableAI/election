@@ -2,15 +2,67 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
-      "title": "Top Republican says Trump committed 'impeachable offenses'",
-      "excerpt": "Pa., said he believed Trump had committed “impeachable offenses.” But he did not explicitly say whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment.",
+      "path": "_news/2021-01-10-trump-to-visit-us-mexico-border-to-laud-border-wall.md",
+      "title": "Trump to visit U.S.-Mexico border to laud border wall",
+      "excerpt": "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
+      "webUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-09T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
+      "title": "Top Republican says Trump committed 'impeachable offenses'",
+      "excerpt": "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -24,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
-      "publishedDateTime": "2021-01-09T20:20:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "publishedDateTime": "2021-01-09T21:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -617,7 +669,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1207,7 +1259,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1280,62 +1332,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
       "publishedDateTime": "2021-01-08T19:25:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.md",
-      "title": "Biden says Cruz, Hawley part of ‘big lie’ -- while senators claim they are being called Nazis",
-      "excerpt": "President-elect Joe Biden said Friday that Sens. Ted Cruz, R-Texas, and Josh Hawley, R-Mo., should be \"flat beaten\" in their next elections for their part in spreading \"the big lie,\" a term the senators said was an effort to cast them as Nazis. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/BidenCruz.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
-      "publishedDateTime": "2021-01-08T17:15:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

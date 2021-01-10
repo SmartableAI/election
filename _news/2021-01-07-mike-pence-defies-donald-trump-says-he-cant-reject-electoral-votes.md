@@ -4623,6 +4623,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Pompeo Lifts Restrictions on U.S.-Taiwan Relationship as Clock Runs Out on Trump Administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald Trump's presidency."
+    publishedDateTime: 2021-01-10T06:12:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
 
 secured: "t2l4ttRL41aQCiO8LNr8vKoJqQVt6F8+4kmQOIWPkoPnOm7ui+dDxiht4M3Y++IlJ3qNdMntBpDFYcNdkMimaqJmJ7ikmTB/aGz2prSr47PyadudFV9o+RsGq/dOORNlZZnEUI9avlFO7mUOXTxOK8/ymjsu24AQT3BuD73QuI8xCLH0OlsCoRIrVP4kDwx8ed1QqQJ4WZbl+ktX0HjruRjCG1Y2jMqlW3tPakZAx2DgcNeup5T2Z6JR+AmEwQhBRce7hFAnG29TRCmA9TNDxyqKkaqca/WzUNn/s82Ghm85avvps9yhvA7fr+8YgJvomNGRPvo+7rMj13pjqFkhKJ/KsDGMD+VDkmScewXGyrjNBTo3lidM9WqLpaV926SqJPjUThom5khv57A6IPwikblB4YqS5Dchu+5RmQf1isgq6u3nsk23yhxEtQdjjg4t9TCHtQpiqs4Y3mGFBgaEhx164OE942f6YYcP/DlC61HwZ3glZi8dEnFXOrn20mB6hmEgpTVMWt6fk0p1G5qBjQ==;BPmjQyJGkLmQsEFzZv0T1g=="
 ---

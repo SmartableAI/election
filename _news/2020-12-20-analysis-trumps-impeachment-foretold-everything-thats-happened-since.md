@@ -959,6 +959,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's final days put the country at a dangerous crossroad"
+    excerpt: "Donald Trump's presidency is in its final, chaotic spiral. But even with the end so near, each hour seems to carry a new threat to America's fragile democracy.\n    \n"
+    publishedDateTime: 2021-01-10T06:44:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QAqfSfVpFRM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/donald-trump-mike-pence-final-days-25th-amendment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/donald-trump-mike-pence-final-days-25th-amendment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108215140-03-donald-trump-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration locks down border wall contracts, complicating Biden's pledge to stop construction"
     excerpt: "The Trump administration is continuing to award border wall contracts in the waning days of Donald Trump's presidency, including in areas where private land hasn't yet been acquired, an unusual move that will complicate President-elect Joe Biden's pledge to halt construction.\n    \n"
     publishedDateTime: 2021-01-05T23:55:26Z

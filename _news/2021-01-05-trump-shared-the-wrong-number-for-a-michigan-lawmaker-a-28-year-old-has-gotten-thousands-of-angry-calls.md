@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wron
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp"
 type: article
 quality: 108
-heat: 128
+heat: 108
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1440
     height: 960
     isCached: true
-
-related:
-  - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
-    excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
-    publishedDateTime: 2020-12-29T14:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "i7xyh+S2F4r0SKD7HTyqAKC4WV6wMye/RgiZP1UhkzT/kAQQcpG99Pcl/0rfJSfdLd69kGxNMQbo+JGXI+Wo6Mto1zjk/P2PpLzO3nzHwl4p22+6MwpID7MU0wIn/5Uf2TxzbF6z63X0xK6TcW+xiU6bhn7WjCAcLtC2Mvk8WzYDO77+HieJf5dDarBgNMnOYuJbJja4cFcXODFVI63XiO7H+f5jzMFnhWIukygGXlIA056ReCPVVmvXEfI+Vx8sGJ54oUBnbjqQrMQkpYLvijW2jYJz9p8s0yduCNrcZk5FAdjMgBgc3bNMvbIKes3l/inPqreoF8e0VGPEB7pR3vlT0h/xoLj9TwN6Ihb/UYA=;Dibvm6n1zW9S0AiuVeN77A=="
 ---

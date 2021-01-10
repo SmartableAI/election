@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3115
+heat: 3135
 published: true
 
 provider:
@@ -941,6 +941,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108181055-trump-twitter-suspende-cuenta-mensajes-presidente-capitolio-red-social-cnn-perspectivas-mexico-violencia-protestas-00000814-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's final days put the country at a dangerous crossroad"
+    excerpt: "Donald Trump's presidency is in its final, chaotic spiral. But even with the end so near, each hour seems to carry a new threat to America's fragile democracy.\n    \n"
+    publishedDateTime: 2021-01-10T06:44:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QAqfSfVpFRM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/donald-trump-mike-pence-final-days-25th-amendment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/donald-trump-mike-pence-final-days-25th-amendment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108215140-03-donald-trump-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

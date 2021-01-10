@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-06-no-the-us-constitution-does-not-allow-mike-pence-to-reject-electoral-votes.md",
+      "title": "No, the U.S. Constitution does not allow Mike Pence to reject electoral votes",
+      "excerpt": "As many as 140 House members and over a dozen senators have said they will challenge some of the state results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/local/michigan/2021/01/06/mike-pence-fraudulent-electors-fact-check/6557057002/",
+      "originalUrl": "https://www.freep.com/story/news/local/michigan/2021/01/06/mike-pence-fraudulent-electors-fact-check/6557057002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/06/PDTF/a3ecaf89-f9bd-4401-a3a6-e1d88005e2df-0ed0efbfaa59f790bd1af878eca5c4d5.jpg?auto=webp&crop=1023,576,x0,y2&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/6557057002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6557057002",
+      "publishedDateTime": "2021-01-06T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-trump-biden-transition-live-updates-pence-told-trump-he-doesnt-have-power-to-reverse-election.md",
       "title": "Trump-Biden transition live updates: Pence told Trump he doesn't have power to reverse election",
       "excerpt": "During their weekly lunch Tuesday, Vice President Mike Pence told President Donald Trump he does not have the power to reverse the outcome of the November election when he preside",
@@ -10,7 +53,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6148,
+      "heat": 6168,
       "tags": null,
       "images": [
         {
@@ -910,7 +953,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3115,
+      "heat": 3135,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1049,7 @@
       "originalUrl": "https://www.businessinsider.com/donald-trump-ferrari-f430-auction-mecum-kissimmee-signed-title-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1058,7 +1101,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1259,62 +1302,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.md",
-      "title": "White House responds to report suggesting Trump will head to Scotland before inauguration",
-      "excerpt": "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
-      "publishedDateTime": "2021-01-04T21:04:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

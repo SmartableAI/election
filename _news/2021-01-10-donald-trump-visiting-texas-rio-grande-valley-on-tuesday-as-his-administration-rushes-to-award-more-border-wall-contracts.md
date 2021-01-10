@@ -27,35 +27,99 @@ images:
     isCached: true
 
 related:
-  - title: "House could vote to impeach Trump on Wednesday, one week after Capitol protest turned into a mob"
-    excerpt: "As the country comes to terms with the violent siege of the U.S. Capitol by Trump supporters that left five dead, the crisis that appears to be among the final acts of his presidency is deepening like few others in the nation’s history."
-    publishedDateTime: 2021-01-09T20:56:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
+  - title: "Trump to visit U.S.-Mexico border to laud border wall"
+    excerpt: "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas"
+    publishedDateTime: 2021-01-10T06:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/wkhA_T0LTme2jIhms7pxzsguRsE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWEGM2GNQHGHG2TYWDJHHGRVNQ.jpg"
-        width: 1200
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
         height: 779
         isCached: true
-  - title: "Murdoch Empire Calls Time On Trump But Tries To Keep His Base Onside"
-    excerpt: "The storming of the US Capitol has triggered Rupert Murdoch's media empire to call time on Donald Trump, with The Wall Street Journal saying the president should resign and even acolytes on Fox News telling viewers he has reached the end of his shelf life."
-    publishedDateTime: 2021-01-08T22:15:00Z
-    webUrl: "https://www.ibtimes.com/murdoch-empire-calls-time-trump-tries-keep-his-base-onside-3117716"
+  - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
+    excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
+    publishedDateTime: 2020-12-29T14:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "U.S. labor federation urges Trump removal, calling him 'danger' to nation"
+    excerpt: "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office."
+    publishedDateTime: 2021-01-08T16:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
+    excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."
+    publishedDateTime: 2021-01-08T15:18:00Z
+    webUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482"
+    ampWebUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/northwestern-university-professor-jon-marshall-says-now-that.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/us-president-donald-trump-whips-up-the-crowd.jpg"
         width: 1024
-        height: 708
+        height: 682
+        isCached: true
+  - title: "Will Donald Trump Try to Take His Act to TikTok?"
+    excerpt: "I asked TikTok, which the outgoing U.S. president spent the second half of 2020 trying to ban, whether it would join other social networks in refusing Trump access to its app, should he want to join."
+    publishedDateTime: 2021-01-09T05:11:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/fac/982/32eb55cd34fdbfd7aa95ebac6d828b77f5-donald-trump-tik-tok.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
+    excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
+    publishedDateTime: 2021-01-09T04:58:00Z
+    webUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756"
+    ampWebUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
         isCached: true
 
 secured: "3pBJQAz85Yz7ZFDaZ126Xq+IOUYLjpDopQFdhz/pDbd+a0hJiD8vUlv+E3yKabNQdqq8JtWmgM7N9y7AKuth8+5VPJ9U4UjpUiexxGL6oJ6A9QLnB544GDMNOHuvmQIQ5k4XgNnwDD284u3KSxAiMPWnCLUJSdeTeP9/m09EyHb5JOfKcfr4yhg5bBama2g6kTSMdsTdxb1HTsJ653olSoVUxWDG0GewhAYbjZZCqCTMexavB0gkBuLWVTY4j+fw4izsTAQer3ZucGHWI67GXQM5GwBDUXOlc2W1hLvh708ijnsdtftUN1MVxrRWIa+6jE5Jxd7ToU2eWCb8UXJOjv9QAMhzPmgONrOUcIBnggo=;q1EqcRuth30qRKLHnmu3Eg=="

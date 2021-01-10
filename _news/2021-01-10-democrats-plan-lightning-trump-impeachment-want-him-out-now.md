@@ -26,11 +26,11 @@ topics:
 
 related:
   - title: "Top Republican says Trump committed 'impeachable offenses'"
-    excerpt: "Pa., said he believed Trump had committed “impeachable offenses.” But he did not explicitly say whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment."
-    publishedDateTime: 2021-01-10T04:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
+    excerpt: "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke."
+    publishedDateTime: 2021-01-10T05:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
     type: article
     provider:
       name: ABC
@@ -38,6 +38,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
+    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
+    publishedDateTime: 2021-01-08T21:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

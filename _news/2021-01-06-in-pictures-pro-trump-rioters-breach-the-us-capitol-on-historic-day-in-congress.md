@@ -957,6 +957,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's final days put the country at a dangerous crossroad"
+    excerpt: "Donald Trump's presidency is in its final, chaotic spiral. But even with the end so near, each hour seems to carry a new threat to America's fragile democracy.\n    \n"
+    publishedDateTime: 2021-01-10T06:44:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QAqfSfVpFRM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/donald-trump-mike-pence-final-days-25th-amendment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/donald-trump-mike-pence-final-days-25th-amendment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108215140-03-donald-trump-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 6148
+heat: 6168
 published: true
 
 provider:
@@ -4628,6 +4628,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Pompeo Lifts Restrictions on U.S.-Taiwan Relationship as Clock Runs Out on Trump Administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald Trump's presidency."
+    publishedDateTime: 2021-01-10T06:12:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-09/pompeo-says-lifting-self-imposed-restrictions-on-us-taiwan-relationship?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
 
 secured: "aGvdJft6xzGUVBIcX1+NmYZ6n4c8jDH9nWm9ZgyDQxWcRrKuqyFdgO3iL5jaB/N9j8OE88CNFM7h7z+xWQ6/UswnXgVhcnmIml2Z2kXHbcLA3oPVuIcyYVKw38FnEXSGZaeQrpCQ7rEOp/AghWhDTUBnbmHCZ2fvKFg2lyuDnWVO3KY2vHeBBTA+5X94iqUdNNTA40hmnEov7WJDj855XDLBhraESRf0QWaFG2cCxd4JNsO5xJlO7D4F7bAYWYl0tATAKjygL5zhsa13y05LDsIjnURUYf3v00m6UOhDOVfW/L1YjaD73tF5Qhh9ydzI5QAL7RsMBeo+ZOEbBxa/kO9fvrr+Qzwxhz7+ladeFzI=;IDwG7+pHfVjph1Q7XxDx7w=="
 ---

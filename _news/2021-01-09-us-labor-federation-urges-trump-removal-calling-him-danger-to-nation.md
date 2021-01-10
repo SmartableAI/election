@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-fe
 webUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8"
 type: article
 quality: 104
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,31 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack"
-    excerpt: "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them."
-    publishedDateTime: 2021-01-08T18:36:00Z
-    webUrl: "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1"
+  - title: "Trump to visit U.S.-Mexico border to laud border wall"
+    excerpt: "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas"
+    publishedDateTime: 2021-01-10T06:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg"
-        width: 1000
-        height: 500
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him"
-    excerpt: "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack."
-    publishedDateTime: 2021-01-08T14:38:00Z
-    webUrl: "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1"
+  - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
+    excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
+    publishedDateTime: 2020-12-29T14:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 85
+    quality: 107
     images:
-      - url: "https://i.insider.com/5ff78426d184b30018aada7d?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -73,21 +77,53 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "10 former Pentagon chiefs tell Trump that using military to overturn election would be ‘dangerous, unlawful’"
-    excerpt: "A number of senior military officers, including Gen. Mark Milley, chairman of the Joint Chiefs of Staff, have said publicly in recent weeks that the military has no role in determining the outcome of U."
-    publishedDateTime: 2021-01-04T05:27:00Z
-    webUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/10-former-pentagon-chiefs-tell-trump-that-using-military-to-overturn-election-would-be-dangerous-unlawful.html?outputType=amp"
+  - title: "Will Donald Trump Try to Take His Act to TikTok?"
+    excerpt: "I asked TikTok, which the outgoing U.S. president spent the second half of 2020 trying to ban, whether it would join other social networks in refusing Trump access to its app, should he want to join."
+    publishedDateTime: 2021-01-09T05:11:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 71
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H6JQPAWYSFBNZJ7PDA5OYAMLZU.jpg"
-        width: 5653
-        height: 3769
+      - url: "https://pyxis.nymag.com/v1/imgs/fac/982/32eb55cd34fdbfd7aa95ebac6d828b77f5-donald-trump-tik-tok.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
+    excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
+    publishedDateTime: 2021-01-09T04:58:00Z
+    webUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756"
+    ampWebUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
+        width: 1024
+        height: 642
+        isCached: true
+  - title: "Donald Trump visiting Texas' Rio Grande Valley on Tuesday as his administration rushes to award more border wall contracts"
+    excerpt: "The president's visit comes a week after Department of Homeland Security officials touted the “historic” completion of 450 miles of border fencing during his administration."
+    publishedDateTime: 2021-01-10T02:05:00Z
+    webUrl: "https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 49
+    images:
+      - url: "https://thumbnails.texastribune.org/a46LF-zc-5KceRQnN9BytLot0Cw=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d440d5485ff924488186466519c53bdf/Trump%20Brenner%20REUTERS%202020%20TT%20.jpg"
+        width: 1200
+        height: 804
         isCached: true
 
 secured: "uWXzOiJx4evVfJg9epVfEjG8Q7rz75krzI4rf6WkldsqEO8WO1Qa34w53tpz+NSj8PVDPfGkBJ1iW+NoYuZDlXRZ32PUDzzFF6zEiyvS7C4KmND8xjY3SmRREny07XObrcjTX+shcah5DWxZOG3lw1h0g3pSGwkYjJLJdID/3DNQ1iqO+S0ps70sVAf+qpqSTuwgM/ZdlNmbkHo/ugMfGBkJJdK3lFTYfcLB22hb/6L61g2Dea8VlKR3XHkPONUyzc4yVDEte/qknhlmSDJA7kHSkMX+aavklMCSYHI+ndnMT4+2ifVm4GNGGhIafzOQCEaG+028yoP3/NjDLDpM6pa9yigrSJlRzLynltu6P/c=;taO9/TEJiPOmYSq8r8F/4g=="

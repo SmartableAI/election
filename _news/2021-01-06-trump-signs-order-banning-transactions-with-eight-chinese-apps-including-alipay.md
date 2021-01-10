@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. House Democrats to introduce Trump impeachment article on Monday"
+    excerpt: "Democrats in the U.S. House of Representatives will introduce legislation on Monday urging the impeachment of President Donald Trump, Representative Ted Lieu said on Saturday."
+    publishedDateTime: 2021-01-10T05:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-congress-impeachment-idUSKBN29E0OZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547238775&r=LYNXMPEH080FJ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
     excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
     publishedDateTime: 2021-01-06T02:47:00Z

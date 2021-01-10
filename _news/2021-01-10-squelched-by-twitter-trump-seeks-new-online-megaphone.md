@@ -2,21 +2,21 @@
 category: news
 title: "Squelched by Twitter, Trump seeks new online megaphone"
 excerpt: "Though stripped of his Twitter account for inciting rebellion, President Donald Trump does have alternative options of much smaller reach"
-publishedDateTime: 2021-01-09T22:51:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
-webUrl: "https://abcnews.go.com/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/squelched-twitter-trump-seeks-online-megaphone-75155229"
+publishedDateTime: 2021-01-10T06:30:00Z
+originalUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html"
+webUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_1deda14e260e40a5b24a2a905e43a5f2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -126,6 +126,6 @@ related:
         height: 682
         isCached: true
 
-secured: "PQ3OHKx387LoGgJehQNh1xMhlX11lsC+G5WSDgj4/4nAYRacdI+22ZT0eyA1kXlIVf77LruYgI2fNV1WvF9Dn/ThaFEwGrK+0zqkTV5YkIrYHJ9ZXTrBPJok0pZk1hu76dtvM1NrV3WOvvedlxdjLFU2TzUJrQ8fmIaSePsMDHdehUureJzgx6mvkv/98DzqG9geVl5e4mkOCvrg+3AZU13Fy4gxIvXkdTAwgvsWl7KmnEv/5l9ZmaOLe1Si0lNwmyzwPbPUtnG97WhU4RlBEMug0No3z/0DttcOqEi9LQKP0pMGDP/eEMH8D4dvcrl4e3Yfaqs+aiYZKgpLFD9H/7UorY/vG61tmkScxPPf+h4=;q7iAIk8j/NX7NWN9FnkWlg=="
+secured: "I+7rq+d5it05DsKLWwYSE2YE+SE45dSzehhIXP5uipYyl5Qgf0z2L08fLlBtMxSKkrd0RZLV0QFRv7giffK4QEvv63Jn9Zp9EAJv4LkxeaOFU6/aWmryfM/nUlUw8vpi0SgQ8gxeWzHV3QGRhZqDSJK1SifCgU9XHDzhfsT5q0AH2xYehVbG7O+3ushZ7KWt7NKjLoSJcXuSCFcRfDzji35D77JzgMMPzim0JBfVz8WWLwmu37ZEyuSBkAslgJZ846l5E+YAAbJK4X2/bORH7NEnkDivKLkNuwyaqvb79aQsIvJ58289ecLMkOWwD0zifv+7O2w1+y0vycmQ7IG8/vjK+01AMkQZBJIe30DTWwA=;2V+i4e6PvDUK74lFghwZ3g=="
 ---
 

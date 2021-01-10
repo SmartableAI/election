@@ -73,6 +73,20 @@ related:
         width: 815
         height: 545
         isCached: true
+  - title: "U.S. House Democrats to introduce Trump impeachment article on Monday"
+    excerpt: "Democrats in the U.S. House of Representatives will introduce legislation on Monday urging the impeachment of President Donald Trump, Representative Ted Lieu said on Saturday."
+    publishedDateTime: 2021-01-10T05:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-congress-impeachment-idUSKBN29E0OZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547238775&r=LYNXMPEH080FJ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms"
     excerpt: "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms."
     publishedDateTime: 2021-01-02T14:45:00Z

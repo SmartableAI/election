@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-07-facebook-blocks-trump-indefinitely-after-capitol-riot-response.md",
+      "title": "Facebook blocks Trump indefinitely after Capitol riot response",
+      "excerpt": "Facebook CEO Mark Zuckerberg on Thursday said that President Trump’s Facebook and Instagram accounts will be blocked \"indefinitely,\" and for at least the next two weeks before Inauguration Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcohqZayj0g/facebook-blocks-trump-indefinitely-capitol-riot-response",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcohqZayj0g/facebook-blocks-trump-indefinitely-capitol-riot-response",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp",
+      "publishedDateTime": "2021-01-07T08:12:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-bidens-pick-for-the-department-of-homeland-security-raked-in-millions-at-wilmerhale-advising-blackstone-airbnb-pnc-and-others.md",
       "title": "Biden's pick for the Department of Homeland Security raked in millions at WilmerHale advising Blackstone, Airbnb, PNC and others",
       "excerpt": "Alejandro Mayorkas is leaving the partnership at Big Law firm WilmerHale to join the Biden administration.",
@@ -1189,7 +1245,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1286,49 +1342,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-no-the-us-constitution-does-not-allow-mike-pence-to-reject-electoral-votes.md",
-      "title": "No, the U.S. Constitution does not allow Mike Pence to reject electoral votes",
-      "excerpt": "As many as 140 House members and over a dozen senators have said they will challenge some of the state results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/local/michigan/2021/01/06/mike-pence-fraudulent-electors-fact-check/6557057002/",
-      "originalUrl": "https://www.freep.com/story/news/local/michigan/2021/01/06/mike-pence-fraudulent-electors-fact-check/6557057002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/06/PDTF/a3ecaf89-f9bd-4401-a3a6-e1d88005e2df-0ed0efbfaa59f790bd1af878eca5c4d5.jpg?auto=webp&crop=1023,576,x0,y2&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/6557057002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6557057002",
-      "publishedDateTime": "2021-01-06T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],
