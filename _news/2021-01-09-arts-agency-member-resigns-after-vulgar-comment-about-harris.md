@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics"
-    excerpt: "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,"
-    publishedDateTime: 2021-01-04T11:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
+  - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
+    excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
+    publishedDateTime: 2021-01-10T18:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PHZCOXCJIMI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Kamala Harris: 'We are going to be inaugurated'"
-    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
-    publishedDateTime: 2021-01-05T10:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
-  - title: "Kamala Harris dissolving PACs, giving money to charity"
-    excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
-    publishedDateTime: 2021-01-08T12:41:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
-        width: 2048
-        height: 1396
+      - url: "https://i.guim.co.uk/img/media/03f171d8d3d2e9dc1acc3ebb4c804873b96965f2/767_953_3529_2118/master/3529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=987b4358316eb4e89df49c2ed1caec1e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Why Kamala Harris will still be a key player in the Senate"
     excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
@@ -85,22 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
-    excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
-    publishedDateTime: 2021-01-08T03:45:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
-        width: 1024
-        height: 781
-        isCached: true
   - title: "Why Kamala Harris will still be a key player in the Senate"
     excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
     publishedDateTime: 2021-01-07T23:38:00Z
@@ -116,22 +72,6 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Kamala Harris dissolving PACs, giving money to charity"
-    excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
-    publishedDateTime: 2021-01-08T21:53:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
-        width: 2048
-        height: 1396
         isCached: true
   - title: "Kamala Harris graces Vogue's February cover"
     excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
@@ -149,37 +89,69 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
-    excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
-    publishedDateTime: 2021-01-07T21:54:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
+  - title: "Kamala Harris On Vogue Cover: Why Internet Is Upset With It"
+    excerpt: "Vice President-elect Kamala Harris has been chosen for the cover of Vogue's February issue, but the internet is upset with how the photo turned out."
+    publishedDateTime: 2021-01-10T22:17:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 73
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-transition-headquarters.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
-    excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
-    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248310295.html"
-    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248310295.html"
+  - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
+    excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
+    publishedDateTime: 2021-01-10T19:28:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     type: article
     provider:
-      name: SanLuisObispo
-      domain: sanluisobispo.com
-    quality: 70
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
-        width: 1197
-        height: 720
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1228230080.jpg?crop=376px%2C161px%2C1697px%2C955px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
+    excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
+    publishedDateTime: 2021-01-10T22:39:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6615222002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6615222002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'"
+    excerpt: "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block."
+    publishedDateTime: 2021-01-08T14:25:00Z
+    webUrl: "https://www.dispatch.com/story/news/politics/2021/01/08/susan-block-toledo-blade-owner-backs-conspiracy-theories/6591724002/"
+    ampWebUrl: "https://amp.dispatch.com/amp/6591724002"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/6591724002"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/08/PCIN/da308e81-ba64-4a2f-b962-45b9cc4c8cee-block_headshot.png?auto=webp&crop=415,234,x0,y67&format=pjpg&width=1200"
+        width: 1200
+        height: 677
         isCached: true
   - title: "Vice President Elect Kamala Harris"
     excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"

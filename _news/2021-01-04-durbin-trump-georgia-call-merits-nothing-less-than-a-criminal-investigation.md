@@ -381,6 +381,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Cozying up to Trump may have hurt Perdue and Loeffler in the Georgia run-off"
+    excerpt: "Already, recriminations are flying about what Loeffler and Perdue might have done wrong. Our research suggests that they made one crucial error: aligning themselves with Donald Trump. In an effort to turn out their base,"
+    publishedDateTime: 2021-01-10T22:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/10/cozying-up-trump-may-have-hurt-perdue-loeffler-georgia-run-off/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/10/cozying-up-trump-may-have-hurt-perdue-loeffler-georgia-run-off/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/10/cozying-up-trump-may-have-hurt-perdue-loeffler-georgia-run-off/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCB4TECQFEI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 943
+        isCached: true
   - title: "‘Find’ winning votes for him, Trump demands in taped call with Georgia official"
     excerpt: "President Trump was recorded pressuring the top Georgia election official, Brad Raffensperger, to alter votes and throw him the election. Raffensperger refused."
     publishedDateTime: 2021-01-03T20:20:00Z

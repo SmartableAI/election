@@ -71,22 +71,6 @@ related:
         width: 2048
         height: 1396
         isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T12:00:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
     publishedDateTime: 2021-01-08T03:45:00Z
@@ -102,22 +86,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
         width: 1024
         height: 781
-        isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T23:38:00Z
-    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 75
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
@@ -135,22 +103,6 @@ related:
         width: 2048
         height: 1396
         isCached: true
-  - title: "Kamala Harris graces Vogue's February cover"
-    excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
-    publishedDateTime: 2021-01-10T19:22:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9491610304059/2021/1/e71fc3988655d9bceba398d2eb3a7f14/v1.5/Kamala-Harris-graces-Vogues-February-cover.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
     publishedDateTime: 2021-01-07T13:00:00Z
@@ -166,34 +118,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
         width: 1197
         height: 720
-        isCached: true
-  - title: "Arts agency member resigns after vulgar comment about Harris"
-    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
-    publishedDateTime: 2021-01-09T00:51:00Z
-    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
-        isCached: true
-  - title: "Vice President Elect Kamala Harris"
-    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
-    publishedDateTime: 2021-01-09T18:38:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "3hA2+pmaE59z3NqhIBRawnIySH7XIefzJziIpFCWoZkRGk3vLfUXDfEw11NPaw8iMk+SuoPAlkgis6eWMR5M7E+i/Iz/LEdqFaLRwZu0+cF7OShaWQXAXXEw3ZMWFGgkG+XpKCWuSrcQmzTM+piTRLhyVHrzDBXcfgXquFlb+dHcpekAZvlSIvvZ3ew0Va1KJJCMCUhVaI4sZfi2SPY/+ppzM76A/28R9qVMQ4lJlZbHfUkiwUTOv1zBSuGYZahSvZLkpbvPk6CweHEZwcDikx/YwrZToMjezAmM3apNGPumCN6XUFWuu4jz9KcGk08Ghas+mBEV4Eu+v9NGZoZCoy+4HGNV00AoI58X46DWGApyNKbLc7rg5MTM1GZet4u+QJHDPMNsmSMEvcm09Hu4QoOUMfHY0VKk+7i6aWdQamyF9q57OA/4cqntdKWYDvNx3SHFnjntjiw804+k70FBpCZLUNi0nQ+5psY9SoPbMz143bKxMNDlbpMZ7jg7pS5QkDu6IKB0BqU3cnoKLhmKSA==;fTYKSvsElIr4bNHdP8ouKA=="

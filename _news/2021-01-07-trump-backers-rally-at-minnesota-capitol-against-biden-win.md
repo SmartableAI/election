@@ -4323,6 +4323,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
+    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
+    publishedDateTime: 2021-01-10T22:39:00Z
+    webUrl: "https://www.desmoinesregister.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6616756002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
     excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."
     publishedDateTime: 2021-01-01T20:13:00Z
@@ -4703,6 +4719,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-elect-joe-biden-said-donald-trump-was.jpg"
         width: 1024
         height: 708
+        isCached: true
+  - title: "Fresh Calls For Trump To Resign After Capitol Violence"
+    excerpt: "Donald Trump faced fresh calls Sunday from some members of his own party to resign over the violent incursion into the US Capitol, as the threat builds for a historic second impeachment effort in his final 10 days in the White House."
+    publishedDateTime: 2021-01-10T17:47:00Z
+    webUrl: "https://www.ibtimes.com/fresh-calls-trump-resign-after-capitol-violence-3118400"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/us-president-donald-trump-faces-pressure-from-his.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "An8+EvI9xwx8/ZGmF8sizNeGGYmI7b0CsUBxTS3bOG6H1IIWJwH0vjopwKJ1s6bUC2KcDLOyRseCJ9rv03fuXsv8jdSeWy87a8YufNxOvNj1USNJfKiMn9peLiL6XfUbhVjg8ogAbImQI0/i94E2AwWxmnz/YsQafiaTOajSmQFbfJduVsLC1s/PUqSPUSVKP0x62Jhh7/efFz5cgAW+oHH9HidiDHFRYwCfeXl3G47hSzKMko6iMbJ4tyhbmSc9mH4kCm3YGwBtk2c0/23fQ4XlkUzOu+hozPiNAFkJRZ0ku16Y3WoLL3aRtRWTPQkfZoDSh/h+WGrsIhRNEAuZCBClzZxx0RF7L/A9MU3OiLQ=;/l4yOJUZApyAZv/Wv0M+hA=="

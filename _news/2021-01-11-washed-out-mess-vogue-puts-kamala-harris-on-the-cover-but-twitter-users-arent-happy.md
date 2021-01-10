@@ -2,124 +2,172 @@
 category: news
 title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
 excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
-publishedDateTime: 2021-01-10T18:19:00Z
-originalUrl: "https://www.freep.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
-webUrl: "https://www.freep.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
-ampWebUrl: "https://amp.freep.com/amp/6615222002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6615222002"
+publishedDateTime: 2021-01-10T22:39:00Z
+originalUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+webUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/6615222002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6615222002"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/67632940-c17e-4307-828f-421bc7dd6a7c-533.JPG?auto=webp&crop=2988,1681,x0,y44&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
 
 related:
-  - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
-    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
-    publishedDateTime: 2021-01-04T12:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
+  - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
+    excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
+    publishedDateTime: 2021-01-10T18:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/03f171d8d3d2e9dc1acc3ebb4c804873b96965f2/767_953_3529_2118/master/3529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=987b4358316eb4e89df49c2ed1caec1e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Why Kamala Harris will still be a key player in the Senate"
+    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Why Kamala Harris will still be a key player in the Senate"
+    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
+    publishedDateTime: 2021-01-07T23:38:00Z
+    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris graces Vogue's February cover"
+    excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
+    publishedDateTime: 2021-01-10T19:22:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9491610304059/2021/1/e71fc3988655d9bceba398d2eb3a7f14/v1.5/Kamala-Harris-graces-Vogues-February-cover.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Kamala Harris On Vogue Cover: Why Internet Is Upset With It"
+    excerpt: "Vice President-elect Kamala Harris has been chosen for the cover of Vogue's February issue, but the internet is upset with how the photo turned out."
+    publishedDateTime: 2021-01-10T22:17:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
+    excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
+    publishedDateTime: 2021-01-10T19:28:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1228230080.jpg?crop=376px%2C161px%2C1697px%2C955px&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
-    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
-    publishedDateTime: 2021-01-03T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4119965001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4119965001"
+  - title: "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'"
+    excerpt: "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block."
+    publishedDateTime: 2021-01-08T14:25:00Z
+    webUrl: "https://www.dispatch.com/story/news/politics/2021/01/08/susan-block-toledo-blade-owner-backs-conspiracy-theories/6591724002/"
+    ampWebUrl: "https://amp.dispatch.com/amp/6591724002"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/6591724002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 71
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 61
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/3ea90e02-f23e-434a-a69b-42465296e1f5-Kamala5.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/08/PCIN/da308e81-ba64-4a2f-b962-45b9cc4c8cee-block_headshot.png?auto=webp&crop=415,234,x0,y67&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "Arts agency member resigns after vulgar comment about Harris"
+    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
+    publishedDateTime: 2021-01-09T00:51:00Z
+    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
+        isCached: true
+  - title: "Vice President Elect Kamala Harris"
+    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
+    publishedDateTime: 2021-01-09T18:38:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
-    excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
-    publishedDateTime: 2021-01-03T21:34:00Z
-    webUrl: "https://www.savannahnow.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/"
-    ampWebUrl: "https://amp.savannahnow.com/amp/4119965001"
-    cdnAmpWebUrl: "https://amp-savannahnow-com.cdn.ampproject.org/c/s/amp.savannahnow.com/amp/4119965001"
-    type: article
-    provider:
-      name: Savannah Morning News
-      domain: savannahnow.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/03/NSMN/04f7a824-fca5-43c8-8193-e9e3b74cd7e7-Kamala_Harris.jpg?auto=webp&crop=4320,2430,x0,y416&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Alveda King slams Kamala Harris for plagiarizing her uncle, Martin Luther King Jr."
-    excerpt: "The niece of late civil rights leader Dr. Martin Luther King, Jr. slammed Vice President-elect Kamala Harris for invoking the name of her late uncle, arguing that her position on abortion proves that the two have diametrically opposed worldviews."
-    publishedDateTime: 2021-01-07T21:45:00Z
-    webUrl: "https://www.christianpost.com/news/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
-    ampWebUrl: "https://www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
-    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
-    type: article
-    provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 69
-    images:
-      - url: "https://cdn.christianpost.com/files/cache/image/13/97/139770_w_450_301.jpg"
-        width: 450
-        height: 301
-        isCached: true
-  - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
-    excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."
-    publishedDateTime: 2021-01-03T23:32:00Z
-    webUrl: "https://www.11alive.com/video/news/politics/elections/kamala-harris-savannah-georgia/85-0ed6ae43-d781-4f5b-a472-44afe8e1884c"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 54
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
-    excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
-    publishedDateTime: 2021-01-06T14:57:00Z
-    webUrl: "https://bangordailynews.com/2021/01/05/national-politics/democrats-win-1st-of-2-georgia-runoffs-but-need-a-sweep-for-senate-control/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 44
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/Biden-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
-        width: 2560
-        height: 1707
         isCached: true
 
-secured: "204zrPKfnukL7yqxRHyqrXeCzO1XQd/htQ/pKjagIITI5qMd5T3CpP92LFZllxxduqTcoLWx8+RhsFIxhw3Up+iI3Ue7McXm70n6N6/l+h6I6M4V3C0jXqNMTLI+bdAf6tMF4wcD2OHS2yuHBiHR9SM3cCEbKYW/uIFaAR5TtrKbp0EkhHOPUWuwIrBWy/bbmoExI20UM3MgJqafvRKvt+owTxFfJimL0WJmaGyD32bYjzIm92o4fl60gNEJcLKgZzaMaYyppcS/hr2Az8z4576flTgDWUjkKSC3QWGfKihoVtQNl4v4GRyhsiLUBSn7jxQIGYBnp6+2o6W6vbwjA/JPNR2CWoYelMYwxijv+nM=;zrSjqe+4ps/N1eAMVmJ0yA=="
+secured: "b1NnwBA/aOHCaum0SeX2OyA1lv6NlAcOCzlVOhtnWk7JK5hx86+UrcVzI0CJcy4CCao2LYKVAeUB9br6ale6JhnDsSclKSL29MFUVy1weJ6KCJ+H1gTXBhrK5+W5qklCjRujg7Ax9ejdDgyZ1J6pQHVcAUqCKdQ/0qmZ0fciC0Sw56v8IL2rmVheGbdIozW79hZ3DvfXO2BYBpxt1oLC6TNdUqlohCUlW1b3qi/yllFoKn8EhoCfg5jxxyQYdaJJutEvbAbf5GvAvA+HN9loPPTmJDaPcPO+JGvsZR8PXdYkuCl+MZYKtnK8+y8/SVa7aZuu5PHyxBj0QKQ8C3PD9jA+0cVCSrSRKrr10DCLf0A=;eSoEXh/g22hP37PwUk2kyg=="
 ---
 

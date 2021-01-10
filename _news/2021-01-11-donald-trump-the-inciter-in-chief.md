@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump: The Inciter-in-Chief"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-01-10T20:44:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html"
+webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html"
 type: article
 quality: 65
 heat: -1
@@ -1336,6 +1336,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "One Trump Fan’s Descent into the U.S. Capitol Mob"
+    excerpt: "Doug Sweet says he answered the president’s call to show up in Washington. He joined rioters who breached the Capitol, where he was eventually arrested."
+    publishedDateTime: 2021-01-10T20:47:00Z
+    webUrl: "https://www.wsj.com/articles/one-trump-fans-descent-into-the-u-s-capitol-mob-11610311660"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-283186/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Thousands Cheer Trump at Rally Protesting Election Results"
     excerpt: "Several thousand protesters cheered President Donald Trump and his baseless claims of election fraud at a rally near the White House"
     publishedDateTime: 2021-01-06T20:00:00Z
@@ -1485,6 +1499,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Lq2eG4F38eVMwHfyTTRs0gcbA2i6jyECS9f7PMgZPLUpU9A3b5yCWw/rHIgO+ovTMeQPv315pNcqCnuNKN4K5Q3XNjU9T/TgWdUrbLCK560mH2P8mTViPv7rSaQB1oDtY8mmvq/kXd2iG2NQwEuAsr5rV7cNQuvbeZsYwr2kDyjswK+2haCFAbwbBN2Orv1O77znHjFipXbXeFZ/J4hI16d0KevBKPbZlK6KTrqJF0l6Tj1DCxnOoqoyucSsMaguOfyx7N0Ptgej3sUaBw3biYAxPzGhVrKvNdvidYWFCyp2SXcEr6QPEC1Jg2EIeRtEfCDnjwfQbDJPQnVGn/As+ryhjixPC2z0x/FYnZv7iJ4=;IDNRZ5iO1Kd3uaG3ZrXJ3A=="
+secured: "au+TXrynGerXSoe2YQfgfsJABJGPJcof+GDDy2aWkt2ThyWtZ4R2RDKxRWAYW0XpnXowoRN7rQ4b3UmE6WApFNwKP6yzKb3cqZ9br39rzTovZ0GS+y9ceMUD3OAVcj+RKasMpW0kLuzxgTXJWcBrbbotd9UlHWrlcZzdfeeS1/5n2vWpJdQ9BKWII1g0Gmupd1JLywGqQO4jLs8ZJpSids9+hZRYA9Pgjk57nAQ3D+Nz+rJy8M1W4CvWgAubKlHF3fNMCqZCGbnWwNcTd417wVJL95au1ZuZyqeieS8QcZP2OKqCfCYMod8pelvKUj0sGTEHcbs3Rl2WLXeHijiMJOdY9RXkt8g34TFDN4exxHw=;srfXLt9W6QxSFSOLtKcOIg=="
 ---
 

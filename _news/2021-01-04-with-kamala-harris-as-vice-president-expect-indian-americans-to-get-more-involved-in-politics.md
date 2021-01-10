@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harri
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
 type: article
 quality: 113
-heat: 333
+heat: 233
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
         width: 2048
         height: 1396
         isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T12:00:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
     publishedDateTime: 2021-01-08T03:45:00Z
@@ -91,22 +75,6 @@ related:
         width: 1024
         height: 781
         isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T23:38:00Z
-    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 75
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
     publishedDateTime: 2021-01-08T21:53:00Z
@@ -122,22 +90,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
         width: 2048
         height: 1396
-        isCached: true
-  - title: "Kamala Harris graces Vogue's February cover"
-    excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
-    publishedDateTime: 2021-01-10T19:22:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9491610304059/2021/1/e71fc3988655d9bceba398d2eb3a7f14/v1.5/Kamala-Harris-graces-Vogues-February-cover.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
     excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
@@ -170,34 +122,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
         width: 1197
         height: 720
-        isCached: true
-  - title: "Arts agency member resigns after vulgar comment about Harris"
-    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
-    publishedDateTime: 2021-01-09T00:51:00Z
-    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
-        isCached: true
-  - title: "Vice President Elect Kamala Harris"
-    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
-    publishedDateTime: 2021-01-09T18:38:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "uWzkk3PMv6ONcmZb+Ku07kvs4hdN/GarY7VYrTOab7ovWRp2SSwF8vRiY46AiZplylXyhivzLAqpxO+9Nj8g9Q3WLB6N6kdFc9BYpGsBKndmT+yHL3TaFx5cuac8IQiPTSH6cpEn/6Q3ix6wphFrU6uFbRPSvuN/z1FCI0hiq1EkRGAukvdxtWFULqLzBBM41+7G0TqYTEJviVJxNvtlyEOe7oZqHY30qoh6ge8Of/AnYn8m1b6EPFHvmn9ah8jpwEVxqPgAI3AqdDQE/owtOZnSz72bJ8OguM2Gis3QOsZxqpBMxU+Mua6epSRdeSl4Vafbyhv6GGh2DdQRgt7DbFMh4g7OfSbXkV2AH0wJHsT0XBX8VVd11zTE8l3sf2MljwpgPR2AKChe+NcZJQV01DdZuFAbJhRnYE3Bx7VZizpvo70g+de3NntkRlSaM1yWvK9yPF/XprDBPGxbaqDSjg4ZGUOQotjD2ZVbEbiBgjAluRL6hnXZXpYd/TqSzSp2guNgrGs8kLF+Wd5wuUo9ew==;BL8c/Q9k1WKCEvCviflPQQ=="

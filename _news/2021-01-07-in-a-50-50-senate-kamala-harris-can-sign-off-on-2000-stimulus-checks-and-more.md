@@ -71,22 +71,6 @@ related:
         width: 2048
         height: 1396
         isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T12:00:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
     publishedDateTime: 2021-01-08T03:45:00Z
@@ -102,22 +86,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
         width: 1024
         height: 781
-        isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T23:38:00Z
-    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 75
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
@@ -135,22 +103,6 @@ related:
         width: 2048
         height: 1396
         isCached: true
-  - title: "Kamala Harris graces Vogue's February cover"
-    excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
-    publishedDateTime: 2021-01-10T19:22:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9491610304059/2021/1/e71fc3988655d9bceba398d2eb3a7f14/v1.5/Kamala-Harris-graces-Vogues-February-cover.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
     excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
     publishedDateTime: 2021-01-07T21:54:00Z
@@ -166,34 +118,6 @@ related:
       - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-transition-headquarters.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Arts agency member resigns after vulgar comment about Harris"
-    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
-    publishedDateTime: 2021-01-09T00:51:00Z
-    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
-        isCached: true
-  - title: "Vice President Elect Kamala Harris"
-    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
-    publishedDateTime: 2021-01-09T18:38:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "oQEQfY+ieKZOAS4lwpEk43S3QzxkpYRBrCWWZZMsnjW3UzAzpdqo2/1OvKVcxmG3iLKi2gUOrYWhPcU9HhsiodthqGwkB87/CrP+O6J52nAs6y/BXB7Ga2no7ZigVie3pyfTDj0vNCe1gLm8NRPT/rBKyoZ4GsBx9TW4aaaBFcy1iEFerS80FIFuRVq0kHqpkIc0qdItAEjAIgsoSo7cIG95nVQZOPCHqMzmTp6Ip3ypnmIq8NQKDO/pckl2j9q6LhWoJZosoY+HuHRsBWJPSSuln/W9UuWzzl6KqdDYJx6ddBh8nZhxiP4DQYlsRUc07ZrlenR+XhIXDjQgwApN8tBs+1OXQb2/CQnW5XM6gKToaV6mUYGyA9OfHuu9lYvghjTO5ZpVwYFHIP1jze5k/RyHbaTVrOq2IEgeGMCHpaDciZupJxvcgiqZgkkKYoGAhOThqU5sHSL3MKOenn3ZIUgK6G7lIPz66e7PO3dM+qILRX6Wm+I0ETvJ102CzPPyELCJM6roza4uiRVZ5yA8fg==;8GouCu+5aRkRWxSdabBSWw=="

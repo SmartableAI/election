@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Explainer: Can social media companies really kick off Donald Trump? Yes"
+    excerpt: "Conservatives are crying foul over the suspension of Donald Trump from social media, but the 1st Amendment doesn't apply to private platforms"
+    publishedDateTime: 2021-01-10T22:23:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6617801002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6617801002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/PDTN/a7c8b4d1-1eae-4861-aebb-e20a957f6eb0-AP21009043612110.jpg?auto=webp&crop=2037,1146,x1349,y1095&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Twitter Bans President Donald Trump's Account Permanently After Shopify Terminated POTUS-Affiliated Stores"
     excerpt: "Twitter has decided to permanently ban Donald Trump from its platform \"due to the risk of further incitement of violence.\""
     publishedDateTime: 2021-01-09T03:10:00Z

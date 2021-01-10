@@ -89,22 +89,6 @@ related:
         width: 450
         height: 301
         isCached: true
-  - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
-    excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
-    publishedDateTime: 2021-01-10T18:19:00Z
-    webUrl: "https://www.freep.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
-    ampWebUrl: "https://amp.freep.com/amp/6615222002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6615222002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/67632940-c17e-4307-828f-421bc7dd6a7c-533.JPG?auto=webp&crop=2988,1681,x0,y44&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
     excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."
     publishedDateTime: 2021-01-03T23:32:00Z

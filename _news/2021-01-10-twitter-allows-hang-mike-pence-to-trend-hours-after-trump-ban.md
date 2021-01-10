@@ -1323,6 +1323,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "One Trump Fan’s Descent into the U.S. Capitol Mob"
+    excerpt: "Doug Sweet says he answered the president’s call to show up in Washington. He joined rioters who breached the Capitol, where he was eventually arrested."
+    publishedDateTime: 2021-01-10T20:47:00Z
+    webUrl: "https://www.wsj.com/articles/one-trump-fans-descent-into-the-u-s-capitol-mob-11610311660"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-283186/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Thousands Cheer Trump at Rally Protesting Election Results"
     excerpt: "Several thousand protesters cheered President Donald Trump and his baseless claims of election fraud at a rally near the White House"
     publishedDateTime: 2021-01-06T20:00:00Z
@@ -1456,7 +1470,7 @@ related:
   - title: "Donald Trump: The Inciter-in-Chief"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-10T20:44:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html"
     type: article
     provider:
       name: RealClearPolitics

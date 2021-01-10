@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.dispatch.com/amp/6591724002"
 cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/6591724002"
 type: article
 quality: 61
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: Columbus Dispatch
@@ -27,37 +27,145 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Mike DeWine distances himself from Ohio Arts Council appointee who posted pro-Trump rant that called VP-elect Kamala Harris a ‘whore’"
-    excerpt: "Gov. Mike DeWine on Thursday distanced himself from one of his appointees, Susan Allan Block, after Block posted incendiary comments on social media supporting President Donald Trump’s false narrative about election fraud and calling Vice President-elect Kamala Harris a “whore."
-    publishedDateTime: 2021-01-08T03:32:00Z
-    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
+  - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
+    excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
+    publishedDateTime: 2021-01-10T18:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 56
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PYHAGOCZFFBC3ONEEVBATNEZXM.jfif"
-        width: 423
-        height: 300
+      - url: "https://i.guim.co.uk/img/media/03f171d8d3d2e9dc1acc3ebb4c804873b96965f2/767_953_3529_2118/master/3529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=987b4358316eb4e89df49c2ed1caec1e"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Supreme Court Agrees to Hear Case Challenging First Amendment Violations by Kamala Harris and Xavier Becerra against Conservative Nonprofits"
-    excerpt: "The two cases challenge significant First Amendment violations against conservative nonprofits by the California attorney general’s office."
-    publishedDateTime: 2021-01-09T01:41:00Z
-    webUrl: "https://www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/"
-    ampWebUrl: "https://www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/amp/"
+  - title: "Why Kamala Harris will still be a key player in the Senate"
+    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 40
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
     images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/supreme-court-columns.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Why Kamala Harris will still be a key player in the Senate"
+    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
+    publishedDateTime: 2021-01-07T23:38:00Z
+    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris graces Vogue's February cover"
+    excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
+    publishedDateTime: 2021-01-10T19:22:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9491610304059/2021/1/e71fc3988655d9bceba398d2eb3a7f14/v1.5/Kamala-Harris-graces-Vogues-February-cover.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Kamala Harris On Vogue Cover: Why Internet Is Upset With It"
+    excerpt: "Vice President-elect Kamala Harris has been chosen for the cover of Vogue's February issue, but the internet is upset with how the photo turned out."
+    publishedDateTime: 2021-01-10T22:17:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
+    excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
+    publishedDateTime: 2021-01-10T19:28:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1228230080.jpg?crop=376px%2C161px%2C1697px%2C955px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
+    excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
+    publishedDateTime: 2021-01-10T22:39:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6615222002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6615222002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Arts agency member resigns after vulgar comment about Harris"
+    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
+    publishedDateTime: 2021-01-09T00:51:00Z
+    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
+        isCached: true
+  - title: "Vice President Elect Kamala Harris"
+    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
+    publishedDateTime: 2021-01-09T18:38:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "83seL88RrFe8Y4Qz2gnm41pHfybZCBImDz4mifr9zfaZVnxBjBLJK3UDqNyK5F3EXOCG75hqjwQTHYjIwT7A6XnoX8aHik+ttehtsY1rR5HT01aKl/Cpb2pW8WUOMq8R5zpORnLEhcJsAszjAw+0UjFS1raspwT1bxCEaBqSpkETtSNhTsa7fn0MFZUpbZnXu0yE+CxWClhvMyVAzVy5bhYyeWYQP2Q1IiW3W5HajtqzqCheNXxRTbgsILa2XSB4aWvpGuBXbvUdrXovyyhk22i6RuzKeq6kzSLH3gIl47xwhHhFwrON/q0yfpIPpnteg9ie++i/HySyBFhrODsxtLgcPjfKBgW+oMJASRBqaIg=;SxbixIcWPgMHWm7p3PaQcg=="

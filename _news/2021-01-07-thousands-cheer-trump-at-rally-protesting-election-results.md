@@ -1338,6 +1338,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "One Trump Fan’s Descent into the U.S. Capitol Mob"
+    excerpt: "Doug Sweet says he answered the president’s call to show up in Washington. He joined rioters who breached the Capitol, where he was eventually arrested."
+    publishedDateTime: 2021-01-10T20:47:00Z
+    webUrl: "https://www.wsj.com/articles/one-trump-fans-descent-into-the-u-s-capitol-mob-11610311660"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-283186/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris: Trump Election Challenge A \"Bold Abuse Of Power\""
     excerpt: "Vice President-elect Kamala Harris blasted President Trump at an event Sunday in Georgia, calling his election challenge a \"bald-faced, bold abuse of power\" and saying his call \"Have y'all heard about that recorded conversation?"
     publishedDateTime: 2021-01-03T00:00:00Z
@@ -1455,7 +1469,7 @@ related:
   - title: "Donald Trump: The Inciter-in-Chief"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-10T20:44:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html"
     type: article
     provider:
       name: RealClearPolitics
