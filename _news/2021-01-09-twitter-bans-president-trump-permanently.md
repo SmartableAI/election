@@ -911,6 +911,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump expected to fight with big tech during final days in office"
+    excerpt: "President Donald Trump is preparing to lean into his fight with Twitter and other social media platforms this week, a Trump adviser said, using his permanent suspension from Twitter as an opportunity to shift the narrative away from the insurrection on Capitol Hill earlier in the week.\n    \n"
+    publishedDateTime: 2021-01-09T22:53:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kgzkJueyO6I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/trump-twitter-big-tech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/trump-twitter-big-tech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108193305-20210108-trump-twitter-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Twitter takes Trump's special power away as his isolation grows"
     excerpt: "It took President Donald Trump years and tens of thousands of tweets to build up 88.7 million followers on Twitter. It took a single moment Friday to lose them forever.\n    \n"
     publishedDateTime: 2021-01-09T11:06:13Z

@@ -912,6 +912,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump expected to fight with big tech during final days in office"
+    excerpt: "President Donald Trump is preparing to lean into his fight with Twitter and other social media platforms this week, a Trump adviser said, using his permanent suspension from Twitter as an opportunity to shift the narrative away from the insurrection on Capitol Hill earlier in the week.\n    \n"
+    publishedDateTime: 2021-01-09T22:53:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kgzkJueyO6I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/trump-twitter-big-tech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/trump-twitter-big-tech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108193305-20210108-trump-twitter-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Twitter bans President Trump permanently"
     excerpt: "Twitter has suspended President Donald Trump from its platform, the company said Friday evening.\n    \n"
     publishedDateTime: 2021-01-09T00:53:31Z
@@ -2305,6 +2321,6 @@ related:
         height: 773
         isCached: true
 
-secured: "S1r9MkbA3wZ3DN/aKM1aZKBhGgE4UYnlxea9GSxvKqnZIGiLVH5UBQ78Bb7XZMKl3H1tnVfUDFZhp5k16cf9jUgwrgSRLblHfm+bvCT380Zm30jO8dQ95RcZEuZEKJ2ylpSsOS4Rae65upC65hpegXawBdCHEw1ENlZ616HbvskKrDz3klMSilEIgoWhtWV19Ovm+sC7e9QpQ17nzvzjD4AeHm2GldUpMs3RE939gAgXIdfHzwZGv5LGeZFJSSJsALrIScRtUtmCsX/UQLNwTjrTFhhl4NGOPenAkJtufThlTOxmLwe+X8BuLPCEj2SatauJdE5GSXM8UhA+EtV+WY3Pn1RunEwe1cwLELOVlMw=;Rtp5q+138Vu/At/R4MhmpQ=="
+secured: "nLqc3m6ilqPZm563Py6JsyQ4FDMo2cSa9zb/9ae+QKFOln1DYKh/fn9UL5pRQ8KxFWokFbjeLRSP7PCuadRDX/hyUAwJ/LSqkVqckld+50NlNB3kfiHs8qNhGff4b8Yxxhrr9aZOooIJtgZn9DwEDlNYDHiWiMZfumytf4wf6L/IaG5ZbpKnCEkHIowcDNNiRBIxw678ucyGiYU/ZxAIpddlola2Xs9LVHmfYZqXwdd6/ZKNl7jdupYb5F0Lq95fugw0D5C8Podm5bnryBYnjor5Tvkmbun78Nb27F9MNxIMUTsNruTWy5LWiSGlU9x3qa4mIWCe0xH5mSODk5Rvx8yLoGmg3Qwh79VDp+3+1YzI7COrfrdHigfBd9NLqAjDuDekUM3+kDsHb5DGAx19tJMc3XqWvNIPwPykG6LWcVIVST7oJruyssTZKwlCGx9FVsAVTcusIG+53MEA4DwkFdMjsjus/QNyiUjFa6Rj1mNIO884WC8KzLCGlvdg7efS2wg/LaHnBej3w8hCeK+blw==;/wUW1s1LoqVR6tzRBzfwIQ=="
 ---
 

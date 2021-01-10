@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Biden defied history at every turn to win"
+    excerpt: "President-elect Joe Biden proved a lot of detractors wrong by winning the 2020 presidential election. It wasn't easy for Biden, as he took an unusual path to the White House.\n    \n"
+    publishedDateTime: 2021-01-01T13:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdbbsv-HZGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/biden-history-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228144044-01-biden-remarks-1228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "From pivotal endorsement to Cabinet advice, Jim Clyburn is here for Joe Biden"
     excerpt: "Don't call Rep. Jim Clyburn a member of President-elect Joe Biden's inner circle.\n    \n"
     publishedDateTime: 2020-12-22T12:00:15Z
@@ -112,35 +128,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Republican efforts to undermine Biden victory expose growing anti-democratic streak"
-    excerpt: "The scattershot efforts to overturn President-elect Joe Biden's election victory are coalescing into a movement led by top Republicans determined to exploit a manufactured crisis for broader political gains.\n    \n"
-    publishedDateTime: 2021-01-03T16:27:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uWpq480Wgh0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/trump-republicans-electoral-college-new-congress-democracy/index.html"
+  - title: "GOP Sen. Ben Sasse slams Republicans who plan to delay certification of Joe Biden's win"
+    excerpt: "GOP Sen. Ben Sasse wrote on Facebook Wednesday night that he has been urging his Republican colleagues to \"reject\" objecting the certification process of the Electoral College and President-elect Joe Biden's victory, adding that talk of objecting the process is a \"dangerous ploy.\"\n    \n"
+    publishedDateTime: 2020-12-31T16:16:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oYjPBrVurOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/sasse-gop-certification-objections-dangerous/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200721204618-trump-cruz-split-0721-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Delayed AG pick raises pressure on Biden to field a diverse leadership team at Justice Department"
-    excerpt: "The longer that President-elect Joe Biden takes to select his pick for US attorney general, the more pressure builds on him to staff his Justice Department with a diverse leadership team.\n    \n"
-    publishedDateTime: 2021-01-02T17:45:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fY5opRzpkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/02/politics/attorney-general-biden-diversity-racial-justice/index.html"
+  - title: "Biden's inaugural committee hosting national memorial for Covid-19 victims on January 19"
+    excerpt: "President-elect Joe Biden's inaugural committee on Thursday announced that it is hosting a national memorial to remember and honor the lives lost to Covid-19 and is asking cities and towns around the country to participate.\n    \n"
+    publishedDateTime: 2020-12-31T14:20:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201229161053-joe-biden-december-29-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200822172519-lincoln-memorial-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -159,22 +175,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22dc-biden/22dc-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden rallies crowd ahead of Georgia Senate race"
-    excerpt: "President-elect Joe Biden encouraged the crowd to get out and vote for Jon Ossoff and Rev. Raphael Warnock and questioned why Trump still wants to be president at a campaign rally in Atlanta, Georgia."
-    publishedDateTime: 2021-01-05T01:35:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-rallies-crowd-ahead-of-georgia-senate-race-98785861671"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98785861671"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98785861671"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/BidenRally.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package"
     excerpt: "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud."
@@ -237,22 +237,6 @@ related:
     quality: 130
     images:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
-    excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."
-    publishedDateTime: 2021-01-05T01:02:00Z
-    webUrl: "https://www.nbcnews.com/now/video/black-women-in-georgia-overwhelmingly-voted-for-biden-four-of-them-explain-their-vote-98777157949"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98777157949"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98777157949"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_blackgeorgiavoters_pt_200104_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true

@@ -400,22 +400,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Democrats Are Determined to Pressure Biden to Investigate Trump"
-    excerpt: "Wide segments of the party are eager to see investigations and prosecutions of President Trump and his allies, while President-elect Joseph Biden is taking a more measured approach."
-    publishedDateTime: 2021-01-09T16:58:00Z
-    webUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dems-justice-print1/merlin_182127015_61bd84d6-ff51-4e33-bb97-851eb71c4efc-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
     excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
     publishedDateTime: 2020-12-02T01:07:00Z
@@ -527,22 +511,6 @@ related:
       - url: "https://static.politico.com/d4/b5/350ecf5f4e6fabd263f51e3804d2/gettyimages-1229684243-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Biden Clashes With the Left"
-    excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
-    publishedDateTime: 2020-12-11T12:01:00Z
-    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/01/10/multimedia/onpolitics-biden/onpolitics-barber-still-facebookJumbo-v2.png"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Biden Faces Intense Pressure From All Sides as He Seeks Diverse Cabinet"
     excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."

@@ -637,17 +637,17 @@ related:
         isCached: true
   - title: "Banished by Twitter, an isolated Trump faces looming impeachment threat"
     excerpt: "With only days left in his presidency, Donald Trump - silenced by Twitter and shunned by a growing number of Republican officials - faces a renewed drive by Democrats to remove him from office after he incited his supporters to storm the U."
-    publishedDateTime: 2021-01-09T22:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/an-isolated-trump-cut-off-from-twitter-faces-a-new-drive-for-impeachment-idUSKBN29E0AF"
+    publishedDateTime: 2021-01-10T04:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-4-banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSL1N2JK0CJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547227854&r=LYNXMPEH0806K&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547193267&r=LYNXMPEH0806H&w=800"
         width: 800
-        height: 484
+        height: 544
         isCached: true
   - title: "Audio: Trump berates Ga. secretary of state Brad Raffensperger, urges him to ‘find’ votes"
     excerpt: "Listen to excerpts from a one-hour call on Saturday between the president and Georgia election officials."
@@ -868,6 +868,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Wzhh6jfpwwXbfhgnrTxr+5+TzKDK9VowYjKNeX+XA2YWERmzUzEBNWZfFrGjrKR58u7llveszLcesOuxBnZcEyyLUMxC0oFDljYyEyP/FZk32IXPsIBwgIUMJVvfvasCreAUULoBqRmJY7wZf3gFHud+c4PnVaOdhxFfCrwO3O1X8+3nnsZF0q11X6YXO04P1gb6eIttfQwJZnFb3/ea7NITGf6dD5vhs5EXuPBhUlJecy4zb5qmT2o12BURgzDjZHjmxAyABfroCraBq2fVkyxIjwx2vB92uJJi4hy+XpiGClLj7UqJUIe37vU8x5XiXZ/2BYlnh4xbMDm5eLs7/RhIlpjJOoTnTsWdIwrTnl8=;GneYF2jGoBx+vSJ8tGucJA=="
+secured: "nSNQMLCXe5CNRyJI9WWIIw8JT0eCmWd1F531DB5qVSyv9DT1DATPMlvPfRQ2ar+f+PfqA5cOQM9/E2D4dooxIL9tMOm9h5JMm3nmKGnrjPxwa7GO4ttlHQ1V8FDeVXxt7gTOvDFQ3mAGeB82AErQZu4rwWDjzBU/NWzgYrbhODrQ1UT1hNA1z8l9yFtz1nVQ/GkXTNFXBbeCs/KHH2E2QIm1xk+LcQiILMhB0c8fsWOM9F7SPPzujw6kwjRYr9/BREO1adCnMCE+kzFqbfv46Rd/iaLWLTIcGvuqIa2tRSM7yiVCgZAphpOdQ8HgaeMalncddJErqQvf3S5ucQ7b5d1BOSl7csS12Zd1sjyXTHrcRH1E0sSGyW0/2LWnyb1H0NHXOra7FhFGtsqDpo5TXqhDA2S/J8c6aBVBGEGUzoJHrw21rP12Pkda0x34qJwZjYzZvQNlcs4WMTdV0uTNAv0SbEMmXXl7HaGsl9izjwBF+v9FpZ0fBrJrsstzueiwnLVJYKXPAPxs86L2akTVYg==;fZmmztUZCr4IBVtW4EjWZQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99075141732"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99075141732"
 type: article
 quality: 126
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,40 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Pence has not ruled out 25th Amendment, source says"
+    excerpt: "Vice President Mike Pence has not ruled out an effort to invoke the 25th Amendment and wants to preserve the option in case President Donald Trump becomes more unstable, a source close to the vice president says.\n    \n"
+    publishedDateTime: 2021-01-10T03:08:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BSkerE588Qs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106202537-mike-pence-remarks-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Several Cabinet secretaries informally discuss invoking 25th Amendment but Pence 'highly unlikely' to pursue"
+    excerpt: "Inquiries about invoking the 25th Amendment have been coming into Vice President Mike Pence's advisers and those discussions have been under way, a source close to the vice president said Thursday, with several Cabinet secretaries informally discussing the matter.\n    \n"
+    publishedDateTime: 2021-01-08T02:23:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3lyHWU-znPk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/25th-amendment-cabinet-secretaries/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/25th-amendment-cabinet-secretaries/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105215557-pence-trump-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "dixnSuEcvhBbAyY7XHVJ37kh4WzEFNFVptAzmBmywn1ayI6SMV831N+MrFFYOxmYpUQ1xszts2YM/tQMzzFYbNCIpUkygGZzN2gBl+hbL5ZYwheXiC6fcMDHKnx8oRWujxlYOBLniP0y5X+l+tujcF5pF8KBEpdrY+2DQlH/gICEM6kAlnfqLEO1YGtdxzTLzzRNCPc7HbXsUsT8yoXfTPZt40CV3g5NT4OwrqcgBTzDJT1edoULJrsOSicabqQdor02oeBiToUG4CDesPEeIQ7sUL3tyh4hsObMzc8Kreqyi/lcjxsjSQ8zCN+Q85pXA/WQ/7NJWIDwT5E9L1AlaHaFPraSC34dofgqQ7kFjjhK0fi3nu2U3gfspaQo612XGZmQYJTKUc0HuzTKAxD3AeUpjblpiUIbzI08ogsGsH8pZ4ijqjAY1qEzOvE1fw4V/QwGyVzawXbSUnK5SrY4jGTzXTO3B6j+33zUV+5KzxUmJVf1YlSZi1Z3x+frHsuFlS/73ORbzRaP7OWNhMYBqg==;U7ke4ab27iy0I3p/JP5Jxw=="
 ---

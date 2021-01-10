@@ -2,6 +2,229 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
+      "title": "Top Republican says Trump committed 'impeachable offenses'",
+      "excerpt": "Pa., said he believed Trump had committed “impeachable offenses.” But he did not explicitly say whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908",
+      "publishedDateTime": "2021-01-09T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-pence-will-attend-bidens-inauguration.md",
+      "title": "Pence will attend Biden's inauguration",
+      "excerpt": "Vice President Mike Pence will attend the inauguration of President-elect Joe Biden, according to a source familiar.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j1z15qLz1_A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j1z15qLz1_A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1440,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094925-01-pence-0925-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html",
+      "publishedDateTime": "2021-01-09T20:10:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-mediaite-parler-ceo-says-it-took-down-post-from-lin-wood-calling-for-mike-pences-execution.md",
+      "title": "Mediaite: Parler CEO says it took down post from Lin Wood calling for Mike Pence's execution ",
+      "excerpt": "The CEO of Parler, a social media platform popular among conservatives, told Mediaite that it removed a post from attorney Lin Wood calling for Vice President Mike Pence to be executed by \"firing squads.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wIFzI7LEwgw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wIFzI7LEwgw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210109215414-lin-wood-120220-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/parler-lin-wood-mike-pence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/parler-lin-wood-mike-pence/index.html",
+      "publishedDateTime": "2021-01-09T20:09:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-pence-has-not-ruled-out-25th-amendment-source-says.md",
+      "title": "Pence has not ruled out 25th Amendment, source says",
+      "excerpt": "Vice President Mike Pence has not ruled out an effort to invoke the 25th Amendment and wants to preserve the option in case President Donald Trump becomes more unstable, a source close to the vice president says.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BSkerE588Qs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BSkerE588Qs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106202537-mike-pence-remarks-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html",
+      "publishedDateTime": "2021-01-09T19:08:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-gop-sen-toomey-trump-committed-impeachable-offenses.md",
       "title": "GOP Sen. Toomey: Trump 'committed impeachable offenses'",
       "excerpt": "Republican Sen. Pat Toomey, Pa., said that President Trump “committed impeachable offenses” in his efforts to throw out the results of the 2020 presidential election.",
@@ -55,6 +278,118 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-republican-sen-pat-toomey-says-he-thinks-trump-committed-impeachable-offenses.md",
+      "title": "Republican Sen. Pat Toomey says he thinks Trump 'committed impeachable offenses' ",
+      "excerpt": "Republican Sen. Pat Toomey of Pennsylvania said Saturday he thinks President Donald Trump \"committed impeachable offenses,\" but said he is not certain attempting to remove the President from office with just a few days left in his term is the right course of action.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html",
+      "publishedDateTime": "2021-01-09T16:48:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-trump-considering-giuliani-and-dershowitz-for-impeachment-defense-team.md",
+      "title": "Trump considering Giuliani and Dershowitz for impeachment defense team",
+      "excerpt": "Staring down the barrel of a second impeachment, President Donald Trump is beginning to mull who would represent him in a Senate trial.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1aqsh04rVXg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1aqsh04rVXg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html",
+      "publishedDateTime": "2021-01-09T16:36:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -1001,313 +1336,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
       "publishedDateTime": "2021-01-08T17:15:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-donald-trump-gets-clobbered-again-by-randy-rainbow-parody.md",
-      "title": "Donald Trump gets clobbered (again) by Randy Rainbow parody",
-      "excerpt": "What happens when Donald Trump meets “Fiddler on the Roof”? Find out in the latest Randy Rainbow parody music video, “Sedition.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
-      "originalUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/RAINBOW_LIST.jpg?w=977&h=675",
-          "width": 977,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
-      "publishedDateTime": "2021-01-08T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-trump-administration-strikes-parting-blow-at-medicaid-with-tennessee-block-grant.md",
-      "title": "Trump administration strikes parting blow at Medicaid with Tennessee block grant",
-      "excerpt": "Just days before leaving office, the Trump administration took a step toward fulfilling a long-held Republican dream of curbing Medicaid costs and giving states more flexibility to run the program.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rl92DLpadG0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rl92DLpadG0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210108175126-seema-verma-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html",
-      "publishedDateTime": "2021-01-08T16:08:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-biden-says-impeachment-is-a-decision-for-the-congress-to-make.md",
-      "title": "Biden says impeachment is a \"decision for the Congress to make\"",
-      "excerpt": "\"That's a decision for the Congress to make. I'm focused on my job,\" Mr. Biden said. He added that he will be speaking with House Speaker Nancy Pelosi and Democratic leaders later in the day. \"I'll be speaking with Nancy and the Democratic leadership this afternoon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/c0c90046-ffb5-45a8-a51f-d670fc0eeb7c/thumbnail/1200x630/a0c851de0a2943d38f86c19b6654b7d7/rtx8l5m8.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
-      "publishedDateTime": "2021-01-08T15:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-coming-clean-i-made-an-error-in-my-otherwise-admirable-column-on-donald-trump.md",
-      "title": "Coming clean: I made an error in my otherwise 'admirable' column on Donald Trump",
-      "excerpt": "In my column Wednesday I wondered how President Donald Trump could possibly rate as America’s most admired man in a recent Gallup Poll when he exhibited only",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html",
-      "originalUrl": "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-08T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-kamala-harris-top-economic-advisor-is-another-blackrock-exec.md",
-      "title": "Kamala Harris’ top economic advisor is another BlackRock exec",
-      "excerpt": "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/",
-      "originalUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2019/12/blackrock-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/",
-      "publishedDateTime": "2021-01-08T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-mike-huckabee-trumps-policies-have-made-life-better-for-every-american.md",
-      "title": "Mike Huckabee: Trump’s policies have made life better for every American",
-      "excerpt": "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_0V874_NoOQ/mike-huckabee-trumps-policies-life-american",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_0V874_NoOQ/mike-huckabee-trumps-policies-life-american",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d528e2b-4d98-4020-b38e-608b9fe1f4f5/296c9f72-e5ee-4d6c-843f-51372355367c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp",
-      "publishedDateTime": "2021-01-08T13:50:36-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

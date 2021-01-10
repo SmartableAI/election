@@ -1425,19 +1425,24 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "The Humiliation of Mike Pence"
-    excerpt: "Michael D'Antonio writes that in an effort to position himself for a leadership position in the Republican Party, Vice President Mike Pence is feeding President Donald Trump's baseless election fraud claims,"
-    publishedDateTime: 2020-12-30T03:52:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/29/the_humiliation_of_mike_pence_532370.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
   - title: "Why Democrats Are Impeaching Donald Trump--Again"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-09T13:46:00Z
     webUrl: "https://www.realclearpolitics.com/2021/01/09/why_democrats_are_impeaching_donald_trump--again_533059.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531877_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "The Humiliation of Mike Pence"
+    excerpt: "Michael D'Antonio writes that in an effort to position himself for a leadership position in the Republican Party, Vice President Mike Pence is feeding President Donald Trump's baseless election fraud claims,"
+    publishedDateTime: 2020-12-30T03:52:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/29/the_humiliation_of_mike_pence_532370.html"
     type: article
     provider:
       name: RealClearPolitics

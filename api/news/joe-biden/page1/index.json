@@ -106,6 +106,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-politico-harvard-poll-public-strongly-backs-bidens-demand-for-covid-aid.md",
+      "title": "POLITICO-Harvard poll: Public strongly backs Biden's demand for Covid aid",
+      "excerpt": "There's strong public support for Biden's vision of an expansive government effort to combat the pandemic and its economic fallout.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/08/politico-harvard-poll-public-biden-aid-456511",
+      "originalUrl": "https://www.politico.com/news/2021/01/08/politico-harvard-poll-public-biden-aid-456511",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a8/bf/dd754b0945feaec329e1698db776/ap21006771717797-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-nba-los-angeles-lakers-hope-to-meet-president-joe-biden-but-champions-lose-at-spurs.md",
       "title": "NBA: Los Angeles Lakers hope to meet President Joe Biden but champions lose at Spurs",
       "excerpt": "The Los Angeles Lakers hope to re-establish the tradition of NBA champions visiting the president of the United States.",
@@ -343,63 +400,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99068997831",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99068997831",
       "publishedDateTime": "2021-01-07T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-watch-live-biden-introduces-department-of-justice-nominees.md",
-      "title": "Watch live: Biden introduces Department of Justice nominees",
-      "excerpt": "Watch live coverage as President-elect Joe Biden introduces key nominees to serve at the Department of Justice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-introduces-department-of-justice-nominees-99036229902",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-introduces-department-of-justice-nominees-99036229902",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/biden_vacc.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99036229902",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99036229902",
-      "publishedDateTime": "2021-01-07T08:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -837,120 +837,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-bidens-health-agenda-runs-through-georgia.md",
-      "title": "Biden's health agenda runs through Georgia",
-      "excerpt": "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/politico-pulse/2021/01/05/bidens-health-agenda-runs-through-georgia-792581",
-      "originalUrl": "https://www.politico.com/newsletters/politico-pulse/2021/01/05/bidens-health-agenda-runs-through-georgia-792581",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-biden-wants-to-boost-democracy-he-should-shelve-the-summit-and-look-to-europe.md",
-      "title": "Biden Wants to Boost Democracy. He Should Shelve the Summit and Look to Europe.",
-      "excerpt": "President-elect Joe Biden has promised to host a major “Summit of Democracies” in his first year in office as part of his effort to fight global democratic erosion and reverse President Donald Trump’s tilt toward authoritarian strongmen. Biden has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2021/01/05/biden-wants-to-boost-democracy-he-should-shelve-the-summit-and-look-to-europe-454823",
-      "originalUrl": "https://www.politico.com/news/magazine/2021/01/05/biden-wants-to-boost-democracy-he-should-shelve-the-summit-and-look-to-europe-454823",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/13/b2/119c0e1245498dde519f6c0b8a70/d-mti20200107010-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1585,6 +1471,111 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-watch-live-joe-biden-delivers-remarks-after-briefing-from-national-security-teams.md",
+      "title": "Watch Live: Joe Biden delivers remarks after briefing from national security teams",
+      "excerpt": "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
+      "publishedDateTime": "2020-12-28T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-politics-updates-trump-advocates-for-2000-stimulus-checks-after-signing-relief-package.md",
+      "title": "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package",
+      "excerpt": "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1026,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/21/USAT/e44d7247-c30b-46ea-98e6-527cfd048984-VPC_COVID19_NEW_RELIEF_DEAL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4057942001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4057942001",
+      "publishedDateTime": "2020-12-28T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Joe Biden"
       ]
     }

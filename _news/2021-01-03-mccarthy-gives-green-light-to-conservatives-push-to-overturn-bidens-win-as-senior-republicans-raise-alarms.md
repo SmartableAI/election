@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence Welcomes Futile Bid by G.O.P. Lawmakers to Overturn Election"
-    excerpt: "Vice President Mike Pence signaled his support as 11 Republican senators and senators-elect said that they would vote to reject President-elect Joseph R. Biden Jr.’s victory."
-    publishedDateTime: 2021-01-02T19:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/02/us/politics/gop-senators-josh-hawley-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/02/us/politics/02dc-cong2/02dc-cong2-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Pence: Gohmert's fight to overturn the 2020 election results is with Congress, not me"
     excerpt: "Gohmert's lawsuit is aimed at throwing out the rules of a Jan. 6 session of Congress — with Vice President Mike Pence presiding — intended to certify President-elect Joe Biden’s victory."
     publishedDateTime: 2020-12-31T23:57:00Z

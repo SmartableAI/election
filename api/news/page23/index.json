@@ -2,63 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-12-06-jill-biden-will-back-debt-free-community-college-as-student-debt-nears-17-trillion-report.md",
-      "title": "Jill Biden will back debt-free community college as student debt nears $1.7 trillion: report",
-      "excerpt": "Dr. Jill Biden will advocate for debt-free community college as First Lady, a source close to President-elect Joe Biden's wife told Yahoo News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
-      "originalUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9f95446-19c6-49f1-9e81-2990fc27ae48/dddd10c9-8149-4b93-8944-9f5121330efb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
-      "publishedDateTime": "2020-12-05T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-trump-pressured-georgia-governor-in-call-to-help-overturn-bidens-win-in-state.md",
       "title": "Trump pressured Georgia governor in call to help overturn Biden's win in state",
       "excerpt": "President Donald Trump on Saturday called Georgia Gov. Brian Kemp, pushing him to convince state legislators to overturn President-elect Joe Biden's win in the state.\n    \n",
@@ -71,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1066,
+      "heat": 1026,
       "tags": null,
       "images": [
         {
@@ -1350,6 +1293,59 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-pence-to-campaign-in-georgia-as-senate-runoff-turnout-concerns-grow-among-gop.md",
+      "title": "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP",
+      "excerpt": "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1883,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "publishedDateTime": "2020-12-04T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Donald Trump"
       ]
     }

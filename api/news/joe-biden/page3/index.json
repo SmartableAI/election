@@ -2,115 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-15-a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust.md",
-      "title": "A talk with France’s ambassador: On Biden, climate accord and restoring allies’ trust",
-      "excerpt": "The Times speaks with Philippe Etienne, France's envoy to the U.S., on Biden's promise to rejoin the five-year-old Paris Accord that Trump disavowed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/a08b3ce/2147483647/strip/true/crop/4336x2832+180+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F59%2F4a9965f21e1457f290a5206c1d43%2F865883e16a53418e8cf38fa7726ded7d",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-14/a-talk-with-frances-ambassador-on-biden-climate-accord-and-restoring-allies-trust?_amp=true",
-      "publishedDateTime": "2020-12-14T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note.md",
-      "title": "VC Daily: Venture Firms Ready for Payday; NVCA Lobbies Biden With Letter; SoftBank Ends Year on High Note",
-      "excerpt": "Last week, the National Venture Capital Association sent a letter to President-elect Joe Biden to get a lobbying head start.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
-      "originalUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-in-latin-america-a-biden-white-house-faces-a-rising-china.md",
       "title": "In Latin America, a Biden White House faces a rising China",
       "excerpt": "Donald Trump was clear with Latin America during his four-year administration: don't do business with China. The message failed to hit home.",
@@ -1630,6 +1521,115 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-taps-deese-to-head-climate-focused-white-house-economic-council.md",
+      "title": "Biden taps Deese to head climate-focused White House economic council",
+      "excerpt": "U.S. President-elect Joe Biden said on Thursday he had selected Brian Deese, who helped lead President Barack Obama's efforts to bail out the automotive industry during the 2009 financial crisis and was a key player in helping secure the Paris climate agreement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-deese/biden-names-top-economic-adviser-deese-to-fight-climate-change-jobs-crisis-idUSKBN28D2NU",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-deese/biden-names-top-economic-adviser-deese-to-fight-climate-change-jobs-crisis-idUSKBN28D2NU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543360436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21KF",
+          "width": 809,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D2NU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2NU",
+      "publishedDateTime": "2020-12-03T16:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-wikipedia-page-for-bidens-new-covid-czar-scrubbed-of-politically-damaging-material.md",
+      "title": "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material",
+      "excerpt": "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "originalUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/2f/86/c701e1f14b4b8695d6566e23a04f/ap120767208216.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "publishedDateTime": "2020-12-03T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

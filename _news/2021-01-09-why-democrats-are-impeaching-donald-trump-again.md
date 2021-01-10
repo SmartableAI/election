@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-09T13:46:00Z
 originalUrl: "https://www.realclearpolitics.com/2021/01/09/why_democrats_are_impeaching_donald_trump--again_533059.html#!"
 webUrl: "https://www.realclearpolitics.com/2021/01/09/why_democrats_are_impeaching_donald_trump--again_533059.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/531877_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Trump puts pressure on Pence ahead of election showdown in Congress"
@@ -1440,6 +1446,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "tg8AcU4RUOF6Y02FwUeaMiq+pFGLdZN/C8nZgc7vBv2eiJGWjkCzWbTudM68jMHiU0ReVUbvyUB1HW9kEtK13FgfyUa8iJrJGw0mjzmtjdcnb7DxlHI+V/zl8cykm/vMeCoK+jdJbpJS3F4vfl/9mRt4bO9xZVJF541ctY2Ewfw+h4pFy/OmDPMT48PezH207UR29kdOinrVb++eEBjbvCC62dqdvARjlUmyi6SstsN0qypMYukhCDm3KRRUxXhVKHIt2a8Box42jw3VIHXyozkUL5a+/n8s5mpI5pXpW0GuOnSmP6iSPEs7H0pjkwUObCkRxBdEvkeC18tom/bvke4zuv6GjPHq6sQYARgqvJ8=;5TV3n0bIxj6/lr4i1i1ftQ=="
+secured: "bSBNSAdYYUXuzfHB1Pd9XXSft1TsbZOFplB3gjqIJ+V4kco2vZ3Qo6S0hiBt/v9JmFgm3JeceqhWUupPEMK/nsZaVSPrSTnk283oQDx1iDDGo1wguf8WLu2n7a4LVlwhVu7UXIdwEUWaY7El9L3rWqj28sQ5lo7s6nopBBCaP4o88by0pvn5VBbAJnWRP/YYowoqqidxsSsaS19h0bQQZ723mEm7A/Max0Oz8JiZ9Z0Zd027TgbJxJ0dafdZhXeFwRcueW2FmacvN/XyU1SyYOrAdvKtTuifcgJpfv8B2VHVCEKUUc0eEtKa6Bb8SELduecRUDESMZnhAZF2Xz8PqN1yFwVqPTh7dwgkBkBLFGo=;HliLrzvmxmX9YHtGEvR+OA=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump publicly acknowledges he won't serve a second term day after inciting mob"
+    excerpt: "President Donald Trump publicly acknowledged that he would leave office on January 20 Thursday, pledging an orderly transfer of power after Congress affirmed President-elect Joe Biden's Electoral College win.\n    \n"
+    publishedDateTime: 2021-01-08T01:53:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZRHa2q3UiUc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-electoral-college-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-electoral-college-insurrection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142925-06-trump-rallies-0106-washington-dc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump and adult Trump children avoid the spotlight after one of nation's darkest days "
     excerpt: "As thousands of pro-Trump supporters streamed into Washington, DC, Wednesday headed first to the Ellipse to hear President Donald Trump speak, and then to the United States Capitol to lay siege to the epicenter of American democracy, first lady Melania Trump was doing a photo shoot at the White House.\n"
     publishedDateTime: 2021-01-08T14:07:47Z
@@ -63,21 +79,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Dept. Open to Pursuing Charges Against Trump in Inciting Riot"
-    excerpt: "The top federal prosecutor in Washington said investigators were examining anyone involved, “not only the people who went into” the Capitol."
-    publishedDateTime: 2021-01-08T01:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
+  - title: "Trump's deputy national security adviser resigns as other top officials consider quitting over Capitol riot"
+    excerpt: "Several of President Donald Trump's top aides -- including national security adviser Robert O'Brien -- are considering resigning in the wake of his response to a pro-Trump mob breaching the US Capitol on Wednesday, according to multiple sources familiar with their thinking.\n    \n"
+    publishedDateTime: 2021-01-07T06:47:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4YEQEsjaddE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/national-security-adviser-resigns-trump-protest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/national-security-adviser-resigns-trump-protest/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 157
     images:
-      - url: "https://static01.nyt.com/images/2021/01/07/lens/07dc-investigate-trump/07dc-investigate-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106212949-matthew-pottinger-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "vdQAHhvvP4I+mIMNgF5isDBj5LQozQA5bBl4n7Ylhd2/NnrURFtsf9gbK+UNNL71dUGF4HtqyhY9kLymoSfRoG8BmigADZmi3bD6WMGSmvf2owngFHoazmnjQCoMTjm5bZthOZdGrGihHVeUR+sAaRVKX730/Rb6RDhr2XVIAJsXKGvHdp+pbdNDrY8fSHWzZt1g5M5Upb592LDFdMPRYuEvc6RmvTSgX/Yp6FaAryVj1CWH+VCv9P4JdZzA8EZVqdTgG3diTWMXSizRor8MfxPJZD7JN6LVkbqeBv2t9OORJghBqPTfDtvhjiUsNBUPHfUhUuvXQqachbkRyNHjrEULTgZhldyzID8xEVMymrw=;0EOXCalZP6rUYYVovDkGAA=="

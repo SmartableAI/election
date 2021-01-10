@@ -25,17 +25,19 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Iraq issues arrest warrant for Trump over Soleimani killing"
-    excerpt: "Iraq’s judiciary says it has issued an arrest warrant for outgoing President Donald Trump in connection with the killing of an Iranian general and a powerful Iraqi militia leader last year"
-    publishedDateTime: 2021-01-07T12:13:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778"
+  - title: "Top Republican says Trump committed 'impeachable offenses'"
+    excerpt: "Pa., said he believed Trump had committed “impeachable offenses.” But he did not explicitly say whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment."
+    publishedDateTime: 2021-01-10T04:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75156908"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_2a0966ca247441c8b59e2b6013ce7803_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

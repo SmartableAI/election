@@ -2,9 +2,9 @@
 category: news
 title: "Banished by Twitter, an isolated Trump faces looming impeachment threat"
 excerpt: "With only days left in his presidency, Donald Trump - silenced by Twitter and shunned by a growing number of Republican officials - faces a renewed drive by Democrats to remove him from office after he incited his supporters to storm the U."
-publishedDateTime: 2021-01-09T22:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump/an-isolated-trump-cut-off-from-twitter-faces-a-new-drive-for-impeachment-idUSKBN29E0AF"
-webUrl: "https://www.reuters.com/article/us-usa-trump/an-isolated-trump-cut-off-from-twitter-faces-a-new-drive-for-impeachment-idUSKBN29E0AF"
+publishedDateTime: 2021-01-10T04:15:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump/wrapup-4-banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSL1N2JK0CJ"
+webUrl: "https://www.reuters.com/article/usa-trump/wrapup-4-banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSL1N2JK0CJ"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547227854&r=LYNXMPEH0806K&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547193267&r=LYNXMPEH0806H&w=800"
     width: 800
-    height: 484
+    height: 544
     isCached: true
 
 related:
@@ -868,6 +868,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "vSQrF0NNnAXHhsTHkkeskwBl/hnZ4egxTUagi3FmuNkXQVuWPyvCIMBgd/U7cfihruN+p7kKVfEVbJjjUWbGX4284vA7qwj6ewaOHBWfUalqilMvVhgGXnRYTKoHqwNuJMb4Ellea1UYIXN7f12ab/QZk8XasHAg6pgtNDoPY6kl9rgchgdRHXU8CHz3TwvAVxyWx63YYzoMh7T/z1Uq+8ktr4g4g8s4gA4p1VuJKEFro8tmrXWXPyIgzxI9MJKNxEePu0nWpJ8ABI7mGok0wjE1J81YxgWDGP6Exh+FAOn01XRM+LP8U4tThCiv6Hc6COk3QFYKzRaM8eydy9oHLbRFZkonW2x8CEXW2QJcc34=;eLSUJ/uSS66hcexra2/6fQ=="
+secured: "ORE6Rw18P2amGMd4tNC0Ef3iuc2WkC2x0MGa2ifOtsYEeYsmTp0ddBPhPeVyEO4yd2lM6PJJkon94Bs0GWO41erFMMUorvG2jBlijuAU9rbekZB+UJE8zBqGT19h3CWUDKMjPhv65EvltwU6NLLZXx52LiP76gUM4eIFy3hS7q0Ov1p8eVZMxlb03K/vKPlYAWtC59+1Lh2u0W4+MzGze+dIpwKWbCpYXbupeFOM+qUcARYgKADXu6q0wXdH2Ga6zlnw2GKvJdBWEcRJl8DRk1PI71jt2Pz+MYa/T5A8MqW/TBDy9v/UknkAfuW0czLULuqnlHiRyBhWZhU6RaMon3mgtnx/Sk7FodZiaSPBmkU=;mEy7D6+QohYVx+ac1oaKWQ=="
 ---
 

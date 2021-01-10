@@ -95,6 +95,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump commits to 'orderly transition' in statement after mob storms Capitol"
+    excerpt: "President Donald Trump finally committed to \"an orderly transition\" of power Thursday minutes after Congress confirmed President-elect Joe Biden's election win. The striking reversal came hours after a violent mob of the president's supporters stormed the U."
+    publishedDateTime: 2021-01-07T10:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-commits-orderly-transition-statement-after-mob-stormed-capitol-n1253223"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253223"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253223"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3440340/210107-trump-concedes-mc-859_203eceb488e70e6a5237ddadd2236970.JPG"
+        width: 2500
+        height: 1739
+        isCached: true
+  - title: "Twitter, Facebook lock Trump's accounts in confrontation over Capitol breach posts"
+    excerpt: "Twitter and Facebook locked President Donald Trump's accounts and YouTube removed one of his videos after throngs of his supporters rioted inside the U.S. Capitol on Wednesday, marking the harshest confrontation to date between the president and the social media companies."
+    publishedDateTime: 2021-01-07T08:12:00Z
+    webUrl: "https://www.politico.com/news/2021/01/06/twitter-trump-tweet-capitol-violence-455630"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/06/twitter-trump-tweet-capitol-violence-455630"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/06/twitter-trump-tweet-capitol-violence-455630"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://static.politico.com/e1/8c/6327ef1e41bdb9d7e4840e38d167/gettyimages-1294942396.JPG"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "2r07wRrhsrT7KqKLNmAG64WqpPYcTOe3blV+sbxJrEGz33Kb/EgUDzJVKuNIHGsjgYtPtfEoW/AXhdmo8a22h+2Z0J9ol9/xBepRkJxDoUKBinQJkkVrN5MHeAye56DM7A55BUAYJm4M/HEuP654VXkTI91BF+rJ+6y84+vZMu8l2650RPVHOZc5ZpHOtTFSoBorj+smL43N1u3V9MqVXtNnWX5MEs9EsQ3+d0luoSgRfEAtjdWvYRHYkfJD3WgQLxcxoxydy6VXVphn+wijneSqR0JkG0gm9hF3NbSVSfaWDgE+4a3ni3LAicT7pzk/SNq4vWefiC7Q7prKR3F1FvSvAF/lIyaRpW2ycvKEBoc=;qakhAIDmbO4RxehWi22Yog=="
 ---

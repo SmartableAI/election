@@ -255,38 +255,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump, Biden head to Georgia in final push ahead of Tuesday Senate elections"
-    excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump each will make one final in-person pitch in Georgia’s Senate race Monday ahead of the runoff elections on Tuesday. Biden is scheduled to travel to Atlanta to campaign on behalf of."
-    publishedDateTime: 2021-01-05T22:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-head-georgia-final-campaign-push-ahead-tuesday-senate-n1252709"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252709"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252709"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 162
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439325/210104-georgia-runoff-mc-1137_78e072abc3712a94b802e35383c543ba.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump, Biden head to Georgia in final campaign push ahead of Tuesday Senate elections"
-    excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump each will make one final in-person pitch in Georgia’s Senate race Monday ahead of the runoff elections on Tuesday. Biden is scheduled to travel to Atlanta to campaign on behalf of Democratic Senate."
-    publishedDateTime: 2021-01-04T12:16:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-head-georgia-final-campaign-push-ahead-tuesday-senate-n1252709"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252709"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252709"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 158
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3439325/210104-georgia-runoff-mc-1137_78e072abc3712a94b802e35383c543ba.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "GOP Georgia election official: Blame Trump if Perdue or Loeffler loses"
     excerpt: "If Republicans lose in Georgia's Senate runoffs, one of the state's most vocal Republican election officials said, the blame will rest squarely with President Donald Trump. Speaking with CNN's Amara Walker on Tuesday evening,"
     publishedDateTime: 2021-01-06T12:23:00Z

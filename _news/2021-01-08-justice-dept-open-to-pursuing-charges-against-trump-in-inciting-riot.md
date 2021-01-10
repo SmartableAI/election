@@ -32,51 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Josh Hawley's ploy to be a pro-Trump hero results in withering blowback"
-    excerpt: "Missouri Sen. Josh Hawley offered pro-Trump demonstrators who stood outside the Capitol a raised fist salute as he walked into the Senate early on Wednesday, buoyant about his leading role in objecting to President Donald Trump's electoral defeat.\n    \n"
-    publishedDateTime: 2021-01-08T19:52:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/56dnLwGdc7k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/josh-hawley/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/josh-hawley/index.html"
+  - title: "With Merrick Garland pick, Biden signals stark contrast with Trump on Justice Department"
+    excerpt: "President Donald Trump declared nearly a year ago, \"I am actually, I guess, the chief law enforcement officer,\" as he tried to assert control over Department of Justice decisions.\n    \n"
+    publishedDateTime: 2021-01-08T12:04:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wx7gj9P4Zdo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 181
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106191811-josh-hawley-210106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107142027-03-biden-announcement-0107-garland-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump and adult Trump children avoid the spotlight after one of nation's darkest days "
-    excerpt: "As thousands of pro-Trump supporters streamed into Washington, DC, Wednesday headed first to the Ellipse to hear President Donald Trump speak, and then to the United States Capitol to lay siege to the epicenter of American democracy, first lady Melania Trump was doing a photo shoot at the White House.\n"
-    publishedDateTime: 2021-01-08T14:07:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CZZKHCGzFf0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-house-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/melania-trump-white-house-capitol-riot/index.html"
+  - title: "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol "
+    excerpt: "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n"
+    publishedDateTime: 2021-01-06T22:50:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rJ9idYlsOyk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: Pelosi's letter on speaking with the chairman of the Joint Chiefs about Trump and the nuclear codes"
-    excerpt: "House Speaker Nancy Pelosi told her members in a letter Friday that she spoke to Joint Chiefs of Staff Chairman Gen. Mark Milley about President Donald Trump and the nuclear codes. Milley said in a statement that Pelosi initiated the call and he \"answered her questions regarding the process of nuclear"
-    publishedDateTime: 2021-01-08T18:12:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sji0cXxsg7g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103154127-pelosi-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

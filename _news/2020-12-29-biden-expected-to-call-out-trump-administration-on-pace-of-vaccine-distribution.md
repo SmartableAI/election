@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-dist
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html"
 type: article
 quality: 186
-heat: 766
+heat: 726
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 179
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden will release nearly all available vaccine doses in break from Trump administration policy"
-    excerpt: "President-elect Joe Biden will aim to release every available dose of the coronavirus vaccine when he takes office, a break with the Trump administration's strategy of holding back half of US vaccine production to ensure second doses are available.\n    \n"
-    publishedDateTime: 2021-01-09T04:05:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I14tRZ7tZk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108095821-covid-vaccine-0105-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -284,22 +268,6 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930174806-palm-oil-malaysia-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Exclusive: Biden will release all available vaccine doses in break from Trump administration policy of holding back stock for second dose"
-    excerpt: "President-elect Joe Biden will aim to release every available dose of the coronavirus vaccine when he takes office, a break with the Trump administration's strategy of holding back half of US vaccine production to ensure second doses are available.\n    \n"
-    publishedDateTime: 2021-01-08T16:42:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I14tRZ7tZk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/biden-vaccine-strategy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108095821-covid-vaccine-0105-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

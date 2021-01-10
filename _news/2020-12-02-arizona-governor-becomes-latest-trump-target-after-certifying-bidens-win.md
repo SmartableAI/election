@@ -400,22 +400,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Democrats Are Determined to Pressure Biden to Investigate Trump"
-    excerpt: "Wide segments of the party are eager to see investigations and prosecutions of President Trump and his allies, while President-elect Joseph Biden is taking a more measured approach."
-    publishedDateTime: 2021-01-09T16:58:00Z
-    webUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/us/politics/democrats-trump-crimes-prosecute.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dems-justice-print1/merlin_182127015_61bd84d6-ff51-4e33-bb97-851eb71c4efc-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump's 'mountains of misinformation' at rally not helping Republican Senate chances, Georgia's GOP lieutenant governor says"
     excerpt: "Georgia Republican Lt. Gov. Geoff Duncan said Sunday that the \"mountains of misinformation\" about the election that President Donald Trump is spreading, most recently in his remarks at a rally in the state Saturday night, could hurt GOP chances in upcoming Senate runoff races.\n    \n"
     publishedDateTime: 2020-12-06T16:47:49Z
@@ -525,22 +509,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/12/07/opinion/07hanna-01/07hanna-01-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Biden Clashes With the Left"
-    excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
-    publishedDateTime: 2020-12-11T12:01:00Z
-    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/biden-defund-police-student-loans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/01/10/multimedia/onpolitics-biden/onpolitics-barber-still-facebookJumbo-v2.png"
         width: 1050
         height: 549
         isCached: true
