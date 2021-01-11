@@ -26,20 +26,20 @@ topics:
 
 related:
   - title: "EXPLAINER: Can social media companies boot Trump? Yes"
-    excerpt: "CAN TWITTER AND FACEBOOK LEGALLY TAKE SUCH ACTION? The short answer is yes. As the Congressional Research Service has explained in a report for federal lawmakers and their staffs, lawsuits predicated on a website’s decision to remove content largely fail."
-    publishedDateTime: 2021-01-10T21:36:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/explainer-social-media-companies-boot-trump-75165883"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883"
+    excerpt: "Social media companies decided this past week they had finally seen enough from. Facebook and Instagram suspended Trump at least until Inauguration Day. Twitch and Snapchat also disabled Trump’s accounts."
+    publishedDateTime: 2021-01-11T02:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ef59821d572b4fdbbfcbc43acfed911f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "esVUC5kWHpN4Egnptr69UUzpOEvBdL508eI0O8XmA8N6SiYMPOpEefUDIRoV3WyjlDQMLeoN6zSN6b5XTcEmWEZj+647e3fMyyI0ZMwGKCSeCx7ly+qSbX1ggs3YRdj7dF0qG21ycsO0b9y6LMiWsiyC0N6bUhE5V2qXcxiJ4d2TyraxDbbqYW4M4M2r3wlSsB6OAXNGQ5gtcPZyx3kXXobu8U3mtP2Dy/qKH9G8TTioQXwBndRphkwZDVPzkKDa7Q7nRQp6R0/IiGijNebWx+rpfI/ihm99oL3MEy7JZaQiTghlBeJFHvUY8GZyiqNyaRUYfVH9GW5OTvZZiIfHeY3h2y8ZhK8PvKTgBqy4EtS6SGu6s4j8Sv2gsZ15p1tFgMAXjNXu6eQdkjbbfUrXOtKyZObHYI42+qEhRykKQ0A3R3pb9vIfo9sVpw6OoD5hftWdtobpw2WR/T6KcwjoLwY7ZEMn04/ooHuFeEUvZliVsJ2C7Jya8S2x5Y0Eek0R2CUEdFYmgdhj/1U3XfysRg==;eDjkaCnJctOSg/wXeZoeYw=="

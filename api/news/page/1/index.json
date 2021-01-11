@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-explainer-can-social-media-companies-boot-trump-yes.md",
+      "title": "EXPLAINER: Can social media companies boot Trump? Yes",
+      "excerpt": "Social media companies decided this past week they had finally seen enough from. Facebook and Instagram suspended Trump at least until Inauguration Day. Twitch and Snapchat also disabled Trump’s accounts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-10T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
+      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
+      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-corporate-idUSKBN29F0L4",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-corporate-idUSKBN29F0L4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-kamala-harris-appears-on-vogue-cover-ahead-of-inauguration-day.md",
       "title": "Kamala Harris appears on Vogue cover ahead of Inauguration Day",
       "excerpt": "Vice President-elect Kamala Harris made her debut on the cover of Vogue magazine’s February issue. Vogue featured two cover images on Instagram on Sunday. In one, Harris poses in front of golden drapery and dons a powder blue power suit and pearls;",
@@ -10,7 +114,7 @@
       "originalUrl": "https://abcnews.go.com/GMA/Culture/kamala-harris-appears-vogue-cover-ahead-inauguration-day/story?id=75166683",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -54,21 +158,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-explainer-can-social-media-companies-boot-trump-yes.md",
-      "title": "EXPLAINER: Can social media companies boot Trump? Yes",
-      "excerpt": "CAN TWITTER AND FACEBOOK LEGALLY TAKE SUCH ACTION? The short answer is yes. As the Congressional Research Service has explained in a report for federal lawmakers and their staffs, lawsuits predicated on a website’s decision to remove content largely fail.",
+      "path": "_news/2021-01-11-pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency.md",
+      "title": "Pelosi says House will proceed with efforts to remove Trump 'with urgency'",
+      "excerpt": "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_ef59821d572b4fdbbfcbc43acfed911f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://i.guim.co.uk/img/media/82ba8a9dc582f8706f2fd5d845b32ce2f95b88a8/0_1_4324_2595/master/4324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb1e10affbd6476f4946d69cacd439d",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +180,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
-      "publishedDateTime": "2021-01-10T13:36:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "publishedDateTime": "2021-01-10T15:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -171,7 +275,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -320,58 +424,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
-      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
-      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -877,7 +929,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1289,62 +1341,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/navalny-trump-twitter-ban-exploited-enemies-of-free-speech.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navalny-trump-twitter-ban-exploited-enemies-of-free-speech.amp",
       "publishedDateTime": "2021-01-09T16:07:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.md",
-      "title": "House Dem apologizing for comparing new Trump impeachment to a 'lynching'",
-      "excerpt": "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XkgD4GGrJvM/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XkgD4GGrJvM/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kurt-Schrader-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp",
-      "publishedDateTime": "2021-01-09T15:29:59-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

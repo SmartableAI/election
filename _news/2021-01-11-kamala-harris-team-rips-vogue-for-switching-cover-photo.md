@@ -231,6 +231,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris team reportedly disappointed with Vogue cover"
+    excerpt: "A source says the magazine had agreed to use an image of the VP-elect in business attire but instead switched to a more casual photo of her in sneakers."
+    publishedDateTime: 2021-01-11T01:33:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
     excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
     publishedDateTime: 2021-01-10T19:28:00Z
@@ -432,6 +448,6 @@ related:
         height: 300
         isCached: true
 
-secured: "/eLs4AjQF7zxSzcQLywJvmbuC98TSOnpg0mLSGyowH+JEizF6yj6l7K8kh4AxNPcLZOttcHwU1p8pDIopLwx1hQnCAxkqKdoAF+/7W0Q1bZMeYf0J6GQVqfTi5gyoooniH88T5FZ20bWnRur5QLLKsXErUNv+ZVF8GZluSAEyZoDoh5k0y1dBBkTIHSQA2dDEk75Uob3jZV9O5Z9cZIJbAGq4t/KhToHJPI9PmeWv+3kfo4YSr7LuzvT3PghHxMRv9box5Ven1qxJ529r/KkaDrL3SAsNs3a0rKuAqX7Yt25WlCV1pZd5Q5sxuJAn6Z01zrD8CcHaeL/i2qpmsyXr2sfnSUZODnZONmBGocR5Xk=;ka6uieEfQoDN0Lu6qawjYQ=="
+secured: "WNLp0NAaXKrwY1hBy6XpvrtyFt5GqlSq06U7XvZ5ZSpeBrLzOXDeeLIipICgMtKFLAJOvUBaUWmumObScFDUoJhnUsDkbyiP7kanld7Gcu68dv7Ka+q8A6UBfiPjK/kElc4QuSle8zwcKYc2REWkc4Zc4B0y/NIxYrl6O6PNN4tb3JW9TO1Ado/MstdB8D8+f2kkYPrTxVkTUJ1WKhmp7pP5LvhMxblIUX8yG4mn2F5YF64flLuf2Iwx0hQq0lEN8fpW25jA9VjmjVVobi1PYLTDOlBq91xsbuvfr0jWkabZFet13EFQCEwUN7v3b6hqf6uGoaNg3aE64TIcBV9v1odT9iddFzn831s743jV12nZE5zW5riEt6EsUgU8XYiCTHMy5DZJ+OR/moc04fqPKR6RED6Ml5E3DQLurR4b+a1JfP2rRNE/fH7HulPIQha4QhyTDjtvxtYC9EiYKcn61NEn/1aDAH0cWqjY5gEZO+757IDECjOzQYj9tI+tPwCLNF3X8CRinSjOqMvVf0yiIw==;xlWlifbn3TecSm9VXVbVdw=="
 ---
 

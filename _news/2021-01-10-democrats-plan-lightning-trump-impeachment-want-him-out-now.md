@@ -91,19 +91,35 @@ related:
         isCached: true
   - title: "Nancy Pelosi says House will move to impeach Donald Trump"
     excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
-    publishedDateTime: 2021-01-10T22:53:00Z
-    webUrl: "https://www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    publishedDateTime: 2021-01-10T23:53:00Z
+    webUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: NJ.com
+      domain: nj.com
     quality: 75
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"
         width: 3802
         height: 2719
+        isCached: true
+  - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
+    excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T02:17:00Z
+    webUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533"
+    ampWebUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
+        width: 1024
+        height: 732
         isCached: true
 
 secured: "J94++WMTj3CJnMTSFwpWdixEoaNxgDvq8pq+D8RUCHSuTgBw60vdyrotm9GBf7218ogS0jlpiCxG9mdWBJyIH8HAmeu1otBGEE53pAQhtkUIPEHHLV4XHo3Cetr1mJnZwmy7eq8AmiAD+TnY6uBhV7swJnz2gCodzUA8OIvMOLVmj3X4trCOS6/bBtljYYf7ZiuN9ECv1jYkdLWsYR0S4YKrDD1Ew2wlrB9lNlfTIlPGi3ERe7Q8L3yfmSaptouB8lvFR+ILur0v+UIdwlyyRpihmL6zv73vOTxoCJcL5nQQXsvch2Qq0333coEvHJFZKuoleUwBj6kkTxknN870lKdcio/K4kILXFG6NezJOo1ivPohwlKfNuy133m7w9z2Azdtw7viClyUPMDvxzz6E6Qops25KxCGl5AxX+VEkxHnsZkqUhhA+kAUHefpWQBJ/yAWm5KjZ22vTBAN8en18tHW5ZGFkC2rZxIhfhr3sQdxQEPEvBmt4WLGrpFpnW14TQho5epQc4th2wcODPxnSA==;EiacMpjiqzQEc4bww4+8bg=="

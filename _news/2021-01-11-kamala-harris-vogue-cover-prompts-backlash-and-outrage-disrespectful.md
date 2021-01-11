@@ -231,6 +231,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris team reportedly disappointed with Vogue cover"
+    excerpt: "A source says the magazine had agreed to use an image of the VP-elect in business attire but instead switched to a more casual photo of her in sneakers."
+    publishedDateTime: 2021-01-11T01:33:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris' team rips Vogue for switching cover photo"
     excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
     publishedDateTime: 2021-01-10T23:33:00Z

@@ -235,6 +235,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris team reportedly disappointed with Vogue cover"
+    excerpt: "A source says the magazine had agreed to use an image of the VP-elect in business attire but instead switched to a more casual photo of her in sneakers."
+    publishedDateTime: 2021-01-11T01:33:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris' team rips Vogue for switching cover photo"
     excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
     publishedDateTime: 2021-01-10T23:33:00Z
@@ -436,6 +452,6 @@ related:
         height: 300
         isCached: true
 
-secured: "M1AH+lcV6m04LRGUFX2gvwvwmlPusBV72t24w5bjsDvGtadw4wp5XUDPx7w7UB44TUIgQDSTlBkOKwyuO0kdHXVcoFJQ/gfh/PAh8TmrT1BW/GgwJH0lv9rzcO0nhkxnQzKBkrXBc1I+LF40ey0lDfvHwQ+ld6+H1W/odo9ZKIa9mJrQlLcv5Qa1vU5twJKYD5ahw3io/7Kacy4Iii6Uwvz5MUl/vsbBJWOPhB+2eMrCIveglx2Li1iKRGY6F6dsNOPT2UIBe1F/MPvh1jXaiZkXJRkq6mxMTfTZ3+W2IsufSA4NLI0x6H4yIMJv9Vd3YnShwgqwGP7kUkzD7N9nteNTAwIqesIcvex/wgie4C4=;LuBAJj0L7K7xTNRna7cz8A=="
+secured: "5+y4EUOkHJkgMcuJw7IeNuPJVBzCxom5zGC/zbM6G83hfGZ5r/4pdckXv9coIU9s2PL0GtM6EOZYeQNKdjLxpycGBpKDaM/Y3aACVypevXqH37Mg1HhgxeH6xNsUIFWMZPWuCuQWX7UNYrImIqjWZOT2hkpbE4jenlUZrcxoWdFpJBFkKVqefV/Rjuqqqm9WDJI2sbVI3I36T+iFpYYTXMzwWQ9Yys16liURAKQThTqH/87paI7FfiSMfJn4tdC+9m7MR1EwYmVK1qnLjrW8hfMAlrmA2WpittW/BiND6Z6/KPuZWh5odsdsl04y0jb7+mgswwRxD1wb95lmrNcCpnaiVPbzMou06guxaEkD7gjuKvvq9ef7lar1Hc9mo+UjgEg8Km/n/cXmWMRgGJktksvx5ZMyesisimtPNTd40DsSsvfNTJdh1LNhW55CwKhN6SYJNJ/OWPtx7dnQfzmooQp4RbZd8BBhZ6coe3E3DsPWYuIktTpmVg5Jfww7U5xfYLm0bImGXSPeuF70C6jwgQ==;/xRdfTHQ6ciCpG72Bwq8cA=="
 ---
 

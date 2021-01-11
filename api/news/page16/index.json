@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-17-biden-advisers-brother-lobbying-for-drugmaker-under-federal-probe.md",
+      "title": "Biden adviser's brother lobbying for drugmaker under federal probe",
+      "excerpt": "Jeff Ricchetti, the brother of an incoming adviser to President-elect Joe Biden, is now lobbying for a drugmaker that is under federal investigation for inflating its role in Operation Warp Speed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OZs82XMrWUI/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OZs82XMrWUI/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20351620248369.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisers-brother-lobbying-drugmaker-under-federal-investigation.amp",
+      "publishedDateTime": "2020-12-17T12:28:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-biden-picks-deb-haaland-for-interior-aoc-praises-the-progressive-move.md",
       "title": "Biden picks Deb Haaland for Interior, AOC praises the 'progressive' move",
       "excerpt": "President-elect Joe Biden has picked New Mexico Democrat Rep. Deb Haaland as secretary of Interior, sources confirmed for Fox News Thursday, making her the first Native American to fill the position that oversees U.S. natural resources and tribal lands.",
@@ -1269,62 +1325,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
       "publishedDateTime": "2020-12-16T10:38:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-hunter-biden-in-2017-sent-best-wishes-from-entire-biden-family-to-china-firm-chairman-requested-10m-wire.md",
-      "title": "Hunter Biden in 2017 sent 'best wishes' from 'entire Biden family' to China firm chairman, requested $10M wire",
-      "excerpt": "Correspondence between Hunter Biden and CEFC Chairman Ye Jianming from 2017 shows President-elect Joe Biden's son extending \"best wishes from the entire Biden family,\" and urging the chairman to \"quickly\" send a $10 million wire to \"properly fund and operate\" the Biden joint venture with the now-bankrupt",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waJQnMuWSmU/hunter-biden-letter-chinese-cefc-chairman-wire-request",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waJQnMuWSmU/hunter-biden-letter-chinese-cefc-chairman-wire-request",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-letter-chinese-cefc-chairman-wire-request.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-letter-chinese-cefc-chairman-wire-request.amp",
-      "publishedDateTime": "2020-12-16T10:06:10-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

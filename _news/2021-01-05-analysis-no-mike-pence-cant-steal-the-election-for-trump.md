@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3235
+heat: 3275
 published: true
 
 provider:
@@ -1614,6 +1614,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "House Moves to Force Trump Out, Vowing Impeachment if Pence Won’t Act"
+    excerpt: "Speaker Nancy Pelosi said the House would formally call on Vice President Mike Pence to invoke the 25th Amendment to strip President Trump of power, and move to impeach the president if he refused."
+    publishedDateTime: 2021-01-11T02:11:00Z
+    webUrl: "https://www.nytimes.com/2021/01/10/us/politics/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/10/us/politics/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/10/us/politics/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dc-cong0/10dc-cong0-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
     excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
     publishedDateTime: 2021-01-05T12:58:00Z
@@ -2041,6 +2057,22 @@ related:
       - url: "https://static.politico.com/98/94/76bf6d5f46939cb24d81f7bf3761/210109-trump-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The day the internet turned on Trump"
+    excerpt: "The internet as most people know it has decided that Trump is no longer welcome. It’s a turning point for digital speech that was years in the making, but took just a few hours to happen."
+    publishedDateTime: 2021-01-11T00:14:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/day-internet-turned-trump-n1253651"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253651"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253651"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_jke_trump_twitter_ban_210109_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."

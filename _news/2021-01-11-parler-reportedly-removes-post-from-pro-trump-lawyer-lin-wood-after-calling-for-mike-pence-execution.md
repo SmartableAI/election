@@ -3614,6 +3614,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 105
+  - title: "U.S. House Democrats to pursue impeachment if Trump not removed"
+    excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
+    publishedDateTime: 2021-01-11T02:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-democrats-to-pursue-impeachment-if-trump-not-removed-idUSKBN29F03R?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547311030&r=LYNXMPEH0A01M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -4748,6 +4762,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "xFohrXa397Ls8D9wevm+WH9gYQXRIE/+ympjAsA9lz5Zc0CpkMhfXUO3awju43ckwaaFxf1yqVvXCbNps/wNIiifntC/5V5fja3+SMpn/wgYzSwKcWVNgJ4yobceaOgu2wG6KbsiBFi1N5gU+u/oje/yMxHjo79sGIgDgGjupcnMrQfOTyasL413HVrM+QdK7+S8S+/GHp2RZrLAtyiw3GEcFnYsWH0P2uVvOkcgKW1Rasm4MoofEyHhhDVUMmpi1CDJHcZ+BJEs7bAlNOlN5f5Zt7UXNOeUjLCe+cbvY9WLi0fSCA+SzqpWBiB6+Bu8BgfbItaUMvtC+DYKno1++Nb6ytzj1IvP8bkx5PFtZeo=;m3thTSMmLKZauUXsOGSUuQ=="
+secured: "Zoq8CA2z0e7zew7znMKBz+wSDQwd6zj5QrI6JPixl4fuZ5bkPqp4oZLlSCNl2/CXSHAj40FU/mcyQS1FBe8goajCxF5ieLZpi/FNMXRrOxMznROwzwz3K2b4eUgtP7in89kDLmQqoMtnW6DbabBCgo9zWYGxVn+4VPywEMj2M6GbT8VJVVbNuAOJpVuYPu1HYCBY6AN3kQwOdlVhVDuBe5BfCazLZ6ID1ddOdPD7cYEJULDyw98067aXjkoxOsr6nK7w0b+qrkBz9tUZbGgzV3sNOESacsLYnz9ZobjMrUFO60ts4NbsgeN2WM3vf4pMeBxpAjq3sfVb0TOXuENuWMf1/8+aZD2SVsV9CFOf/o651eYASsUTybGt9yGD1rke9fbVmxGE16qShrHY8v/V+tcinJgNtGfDT0alOrfEFRMZMif6/KcTUlXPrvMHncnfxkirLyncizsc3DxUrB949jvVNhSS9f/FVz5XEG0WLWlz26LJzVyql51s3DWVJj98x6DOokBMPNFqFGHJjL9m6Q==;XCzOfa3miSWpcfPcmODvZw=="
 ---
 

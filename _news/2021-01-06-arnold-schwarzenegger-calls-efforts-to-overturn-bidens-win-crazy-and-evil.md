@@ -47,6 +47,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Arnold Schwarzenegger Says Donald Trump Is 'A Failed Leader' And 'Worst President Ever'"
+    excerpt: "Arnold Schwarzenegger denounced the riot at the Capitol and called President Donald Trump a \"failed leader\" and the \"worst president ever.\""
+    publishedDateTime: 2021-01-11T01:57:00Z
+    webUrl: "https://www.ibtimes.com/arnold-schwarzenegger-says-donald-trump-failed-leader-worst-president-ever-3118466"
+    ampWebUrl: "https://www.ibtimes.com/arnold-schwarzenegger-says-donald-trump-failed-leader-worst-president-ever-3118466?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/arnold-schwarzenegger-says-donald-trump-failed-leader-worst-president-ever-3118466?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/04/05/arnold-schwarzenegger.jpg"
+        width: 1200
+        height: 819
+        isCached: true
 
 secured: "cE6xURBLyFmUCndY5eC9gQAbY1x6fIDeS5OKBsi8I3z6+6T5tFuQkDnTd4Dk03OtPIJCevAROQ741WJJyjmMyjMpykhey60uq5jYu1/AKAC6m3LGzgHv4zVARMlO/Ijo5BlSqcusUNakZEgwsG92YK1hV1DEeh/1w6G1wLKI0UYjq9BAVc4m28umT/cV0/ECyBACf5qsoGJGDcheCGT/RErY+SRp4wTafIeRrLubGVBj4j+G/zgjN8fG3qDBD4xQLHnUxNUaLu2o6S9y5Z1AQC9oFDheqHvldtrj/yMUqpxKqa8B5CI5p4YjaCN2Et2dO5XWE0hVQiUznx4mpfsWg5Sv/oiHKhj6Bm2mzhyItiY=;VjFbSnP3OhDaducWzcm4wg=="
 ---

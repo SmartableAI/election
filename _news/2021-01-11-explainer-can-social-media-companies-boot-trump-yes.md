@@ -1,22 +1,22 @@
 ---
 category: news
 title: "EXPLAINER: Can social media companies boot Trump? Yes"
-excerpt: "CAN TWITTER AND FACEBOOK LEGALLY TAKE SUCH ACTION? The short answer is yes. As the Congressional Research Service has explained in a report for federal lawmakers and their staffs, lawsuits predicated on a website’s decision to remove content largely fail."
-publishedDateTime: 2021-01-10T21:36:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/explainer-social-media-companies-boot-trump-75165883"
-webUrl: "https://abcnews.go.com/Business/wireStory/explainer-social-media-companies-boot-trump-75165883"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883"
+excerpt: "Social media companies decided this past week they had finally seen enough from. Facebook and Instagram suspended Trump at least until Inauguration Day. Twitch and Snapchat also disabled Trump’s accounts."
+publishedDateTime: 2021-01-11T02:38:00Z
+originalUrl: "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ef59821d572b4fdbbfcbc43acfed911f_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "BbI1M5MEhiqIz6jRUGBbZ/2OQkouVDPNivBZ6qt1GRyg1W2jp6UGlqxdscxDr1BVaK9DHzEkW8OEiRrbEO2er/jz2FkRZcsoAk+JBnzHN0cstcwGtkeUctjVHfFEkD8GElJhefOIJw76vXvggTeD8XvJ9X65wOqYnavJTbRv/BLrP41LepgfzkmjgT32q4uwFRhx4h86JTYp0/ghKxG+IJakF6p4lhkSfCCikyLZO38r7DtmWZKlLbK+Fw4s36v/RGorx/AUF74J2cJ009rX4rJKGWxM0flVOPA1PVNO5LTv04r5efMSGIFDh0UerVCRkNA7+dyPgoLM5cF7b6yPiQIxGxZjjh5UU22nF8XN190=;Xrd+ghD0ZEaX3Jkuge8UfQ=="
+secured: "Y7li57fmsIDN+EsPVEqqtrGqsFXhN63NX+BGlJPNnX1OfCsNHkWDZ9vBnLsjZQcyqM3qRBr+fGrXHdDvIrqiX9Z/xu6eAnaKSgQgDErXmbfSqiYofhyenmzT7Fp5QigHaRrA7vP8dfdpOD3egiz5yg989wpMANHQQDCLRbGL2y3epJrlgtc9zfICUpVNv/VIwzCpl6qHKQaWhG/dC97GhaPGDOSK1C3U/8LVQAD1OwbOFV+Y2sL0AIVmiIQfIQWwynb3xocXjKGcJbJoaPkjqyK9B2qW4wKErejbVs3TjqVGupp2tI6bYvLJD3S4TXjLskggba1o06iQhT1dsuH1R2irI66mPy1wEUyaATVqTdE=;rvw1s71y7C2X8gDEI90n2w=="
 ---
 

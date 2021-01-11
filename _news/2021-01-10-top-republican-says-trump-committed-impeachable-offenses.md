@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-c
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -81,19 +81,35 @@ related:
         isCached: true
   - title: "Nancy Pelosi says House will move to impeach Donald Trump"
     excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
-    publishedDateTime: 2021-01-10T22:53:00Z
-    webUrl: "https://www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    publishedDateTime: 2021-01-10T23:53:00Z
+    webUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: NJ.com
+      domain: nj.com
     quality: 75
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"
         width: 3802
         height: 2719
+        isCached: true
+  - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
+    excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T02:17:00Z
+    webUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533"
+    ampWebUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
+        width: 1024
+        height: 732
         isCached: true
   - title: "Democrats Plan Lightning Trump Impeachment, Want Him Out Now"
     excerpt: "Democrats in Congress are swiftly laying plans to impeach President Donald Trump and ensure an “unhinged” commander-in-chief can do no further damage in his remaining days in office."

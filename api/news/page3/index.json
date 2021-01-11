@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-09-why-trumps-response-to-capitol-siege-evokes-memories-of-charlottesville.md",
+      "title": "Why Trump's response to Capitol siege evokes memories of Charlottesville",
+      "excerpt": "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "originalUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/washington-dc-capitol-riot-charlottesville-donald-trump-election-01-gty-llr-210106_1609982976596_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "publishedDateTime": "2021-01-08T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-clyburn-accuses-resigning-trump-cabinet-members-of-running-away-from-25th-amendment-duty.md",
       "title": "Clyburn accuses resigning Trump Cabinet members of 'running away' from 25th Amendment duty",
       "excerpt": "House Majority Whip James Clyburn said former Trump Cabinet members Elaine Chao and Betsy DeVos, who resigned in protest of the Capitol riots, were \"running away\" from their responsibility to invoke the 25th Amendment. ",
@@ -1299,58 +1351,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-biden-picks-rhode-island-gov-raimondo-as-commerce-secretary.md",
-      "title": "Biden picks Rhode Island Gov. Raimondo as commerce secretary",
-      "excerpt": "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_1a265eaa6b3e4e8b846a8ca36f069096_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
-      "publishedDateTime": "2021-01-07T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

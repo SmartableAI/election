@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-during-electoral-college-debate-us-sens-tammy-duckworth-and-richard-durbin-condemn-trump-and-violent-mob-that-stormed-us-capitol.md",
+      "title": "During Electoral College debate, U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol",
+      "excerpt": "U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol in floor speeches on Electoral College debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
+      "originalUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/i0uaW-P1fTTnA5vKcHmJbIvtCns=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LSMNSHFAONDRNECBWIUN5DE6FQ.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-hollywood-condemns-violence-of-trump-supporters-calls-them-domestic-terrorists.md",
       "title": "Hollywood Condemns Violence Of Trump Supporters, Calls Them 'Domestic Terrorists'",
       "excerpt": "Notable personalities such as Sacha Baron Cohen, Ava DuVernay, Michael Keaton, Selena Gomez and many more expressed their anger amid the riots that took place in Washington, D.C. where the protesters breached the U.",
@@ -313,7 +365,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6308,
+      "heat": 6328,
       "tags": null,
       "images": [
         {
@@ -1464,58 +1516,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2980GC",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2980GC",
       "publishedDateTime": "2021-01-03T20:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-georgia-election-guardian-raffensperger-faces-heat-as-trump-contests-defeat.md",
-      "title": "Georgia election guardian Raffensperger faces heat as Trump contests defeat",
-      "excerpt": "Georgia's Republican secretary of state, Brad Raffensperger, cemented his status as an unlikely hero for U.S. Democrats following a fresh clash in which he rejected President Donald Trump's claims that his election defeat was the result of widespread fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-georgia-raffensperger-idUKKBN2980QZ",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-georgia-raffensperger-idUKKBN2980QZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1278,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210103&t=2&i=1546484501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH020DV",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2980QZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2980QZ",
-      "publishedDateTime": "2021-01-03T20:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-01-11-explainer-can-social-media-companies-boot-trump-yes.md",
       "title": "EXPLAINER: Can social media companies boot Trump? Yes",
-      "excerpt": "CAN TWITTER AND FACEBOOK LEGALLY TAKE SUCH ACTION? The short answer is yes. As the Congressional Research Service has explained in a report for federal lawmakers and their staffs, lawsuits predicated on a website’s decision to remove content largely fail.",
+      "excerpt": "Social media companies decided this past week they had finally seen enough from. Facebook and Instagram suspended Trump at least until Inauguration Day. Twitch and Snapchat also disabled Trump’s accounts.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
+      "webUrl": "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_ef59821d572b4fdbbfcbc43acfed911f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/explainer-social-media-companies-boot-trump-75165883",
-      "publishedDateTime": "2021-01-10T13:36:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-can-social-media-companies-boot-trump-yes/2021/01/10/29358d24-538c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-10T18:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency.md",
+      "title": "Pelosi says House will proceed with efforts to remove Trump 'with urgency'",
+      "excerpt": "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/82ba8a9dc582f8706f2fd5d845b32ce2f95b88a8/0_1_4324_2595/master/4324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb1e10affbd6476f4946d69cacd439d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "publishedDateTime": "2021-01-10T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +114,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -322,7 +374,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -422,7 +474,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1483,58 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-during-electoral-college-debate-us-sens-tammy-duckworth-and-richard-durbin-condemn-trump-and-violent-mob-that-stormed-us-capitol.md",
-      "title": "During Electoral College debate, U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol",
-      "excerpt": "U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol in floor speeches on Electoral College debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "originalUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/i0uaW-P1fTTnA5vKcHmJbIvtCns=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LSMNSHFAONDRNECBWIUN5DE6FQ.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

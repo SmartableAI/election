@@ -3618,6 +3618,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 105
+  - title: "U.S. House Democrats to pursue impeachment if Trump not removed"
+    excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
+    publishedDateTime: 2021-01-11T02:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-democrats-to-pursue-impeachment-if-trump-not-removed-idUSKBN29F03R?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547311030&r=LYNXMPEH0A01M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Inside the Democrats' plan for handling Donald Trump as Joe Biden's biggest critic and Twitter troll during the next 4 years"
     excerpt: "Joe Biden and the White House will try to avoid talking about ex-President Donald Trump as much as possible. Good luck with that."
     publishedDateTime: 2021-01-05T00:10:00Z
