@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Eliminating Trump from being elected again one motivator in impeachment push, Pelosi says"
+    excerpt: "House Speaker Nancy Pelosi said in a “60 Minutes” interview that aired Sunday night that one of the motivating factors for some in the new effort to impeach President Trump and remove him from office is to eliminate any chance that he has of being elected president in four years."
+    publishedDateTime: 2021-01-11T09:11:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3by37NmkGFI/pelosi-60-minutes-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-60-minutes-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-60-minutes-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
     excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
     publishedDateTime: 2021-01-05T15:50:00Z

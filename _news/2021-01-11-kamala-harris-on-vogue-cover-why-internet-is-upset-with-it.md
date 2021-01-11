@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris’ team says it was blindsided by Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris appears on the cover of Vogue magazine's February issue, but her team says the photo isn't the agreed-upon one."
+    publishedDateTime: 2021-01-11T09:26:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0870b9e/2147483647/strip/true/crop/3277x4096+0+0/resize/840x1050!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fe9%2F275a18e34272837dd355538463f8%2Feryrjwaxaaiaibk.jpg"
+        width: 840
+        height: 1050
+        isCached: true
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
     publishedDateTime: 2021-01-10T18:48:00Z

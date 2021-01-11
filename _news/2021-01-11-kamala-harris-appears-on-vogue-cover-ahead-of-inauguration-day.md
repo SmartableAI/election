@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-appea
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-appears-vogue-cover-ahead-inauguration-day-75166683"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris’ team says it was blindsided by Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris appears on the cover of Vogue magazine's February issue, but her team says the photo isn't the agreed-upon one."
+    publishedDateTime: 2021-01-11T09:26:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0870b9e/2147483647/strip/true/crop/3277x4096+0+0/resize/840x1050!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fe9%2F275a18e34272837dd355538463f8%2Feryrjwaxaaiaibk.jpg"
+        width: 840
+        height: 1050
+        isCached: true
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
     publishedDateTime: 2021-01-10T18:48:00Z
@@ -468,6 +484,6 @@ related:
         height: 300
         isCached: true
 
-secured: "gSYjl6sNeLDoRFV6r7aUUr3XfqfKVfOrRRwDrOctffOoH8bedxyFRKZPzjg3TbOoZ7B6Uk9MSGyJbynyxXnwMSHrPspcx7E20g2b8aQ0JBxGRlhTOES+NvpxINoDEqhvUwQLdRzQ7Jh1BV/1UHgbARbIeSfjQRdj79UCQhHkfUJSmRFmAWaJQtY9aJnE6kOowViN11jmnSQ+t2IchNAv+i5+sxd1h12lypshgdnaJLNUz3bzvJ7k//SldFQdbn1HJf1tR1FuwQfF5q4pr/Q1OstptvW2mZ9/TfO6bAJSEf7KWIP9CuNwKLH2ReUfpFGoEg3Im3oi6ZbosEjMGe6L4YzyKjfI7iJhTLg4p0lvpk8=;lycsybNDfu3c4k6Exhmw8Q=="
+secured: "VkWBPPma0DxVzax7rR67TENazJir0pOS67xEwQsw9qX7TaxdHA4IYmWxbPxnyG4bqQaLR9ylY1NwvLbIeS9Zrl/PRxrO0ZOJLrHXwhtCpHPJsmXHcVf1IK83p4OoOsVadAMTsLdWRCHSJheZ+NUFn1iYZPqSQvttWYYzaYbpv3ZjiKXbZH9X2EZldHhdkCakaJXJmHngkIEx93dy6OHb9+GTizTj4nIjWZp0tznG+K9Q4ZagRYDG4maNha3wIU1FWbAgq/aIF5ZhMwNGB+1J+6TyYfkHQCaH/U03gdCfEwqUXavf0IVo8HPT4Ka2zNFVfpwB1NCPLHdhX2/mYkcP3xmdg26h6mfcIBjZ2k+ewk9Wbv662IKrleRsSexQLR8NVpqZzqnaUwClYJNZHQONEjd2ofFZB+5Q+T2wYRQaQH6Ml1tHJ7yliNgKF/jlNeRQDs77hTaL0LaU2QMXhtdK4yO8+OvybOX0B5lE31Bmm4NlXWvuiMF0C2RoniQqYdaVeGldk4LL303dbvYiY6Kuhw==;XSoFZshqwJ2TQToY5F0EOQ=="
 ---
 

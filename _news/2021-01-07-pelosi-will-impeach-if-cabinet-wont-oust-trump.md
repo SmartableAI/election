@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Eliminating Trump from being elected again one motivator in impeachment push, Pelosi says"
+    excerpt: "House Speaker Nancy Pelosi said in a “60 Minutes” interview that aired Sunday night that one of the motivating factors for some in the new effort to impeach President Trump and remove him from office is to eliminate any chance that he has of being elected president in four years."
+    publishedDateTime: 2021-01-11T09:11:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3by37NmkGFI/pelosi-60-minutes-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-60-minutes-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-60-minutes-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'"
     excerpt: "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy."

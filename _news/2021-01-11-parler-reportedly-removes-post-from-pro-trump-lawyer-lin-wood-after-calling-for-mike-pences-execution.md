@@ -2,28 +2,23 @@
 category: news
 title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
 excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
-publishedDateTime: 2021-01-11T07:17:00Z
-originalUrl: "https://www.usatoday.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
-webUrl: "https://www.usatoday.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
-ampWebUrl: "https://amp.usatoday.com/amp/6616756002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6616756002"
+publishedDateTime: 2021-01-10T22:39:00Z
+originalUrl: "https://www.desmoinesregister.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+webUrl: "https://www.desmoinesregister.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/6616756002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6616756002"
 type: article
-quality: 134
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Mike Pence
-  - Donald Trump
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
@@ -463,6 +458,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Democrats to pressure Pence to remove Trump using 25th amendment – live updates"
+    excerpt: "Pelosi faces Republican opposition to action over president’s incitement of assault on Capitol"
+    publishedDateTime: 2021-01-11T08:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 146
+    images:
+      - url: "https://i.guim.co.uk/img/media/9183155628b7faac70504052d7bd9bb868ab02b5/0_81_3277_1966/master/3277.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f021a8194bde889bf3e600b6fc184f5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump will not resign. Nor will he turn power over to Pence and ask for a pardon"
     excerpt: "The president continues to ask senior advisers about his ability to pardon himself before he leaves office. It's a power that is untested and by no means settled. A Justice Department Office of Legal Counsel memo from 1976 says that the president cannot pardon himself or herself,"
@@ -1110,6 +1121,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden faces challenge in guiding American past Trump era"
+    excerpt: "Joe Biden has already been preparing for months to take on a series of historic crises — a pandemic that’s killed at least 373,000 Americans and a sluggish economy that’s left millions jobless"
+    publishedDateTime: 2021-01-11T10:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-faces-challenge-in-guiding-american-past-trump-era/2021/01/11/fdc9c56a-53cc-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-challenge-in-guiding-american-past-trump-era/2021/01/11/fdc9c56a-53cc-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-challenge-in-guiding-american-past-trump-era/2021/01/11/fdc9c56a-53cc-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -2906,6 +2933,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Politics updates: Pelosi plans to give Pence 24 hours to remove Trump by 25th Amendment before impeachment"
+    excerpt: "Democrats will likely vote Tuesday on a resolution calling on Pence and the Cabinet to remove Trump via the 25th Amendment, Pelosi said Sunday."
+    publishedDateTime: 2021-01-11T09:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/10/politics-updates-donald-trump-impeachment-joe-biden-inauguration/6614719002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6614719002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6614719002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/40e74003-0f6e-4a46-8b5a-2b042056c82a-PELOSI_DESK_THUMB.00_00_37_04.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "McConnell urges Senate to override Trump defense veto, vague on stimulus checks"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday urged the Senate to override President Donald Trump's veto of a $740 billion defense policy bill, saying the funding plan for the U.S. military could not be allowed to fail."
     publishedDateTime: 2020-12-29T19:51:00Z
@@ -3144,6 +3187,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Pence yet to speak to Trump in days following attack on Capitol"
+    excerpt: "Sources tell CBS News that Vice President Mike Pence has not spoken to President Trump since the attack on the Capitol building. Pence has also not yet responded to Democrats' calls to invoke the 25th amendment to remove Mr."
+    publishedDateTime: 2021-01-11T09:30:00Z
+    webUrl: "https://www.cbsnews.com/video/pence-yet-to-speak-to-trump-in-days-following-capitol-attack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/ea45c84d-5bdd-499f-91b6-6e0ef461cb23/thumbnail/1200x630/4459793d78f566d1cab1868f82f029fe/cbsn-fusion-wh-vice-president-pence-yet-to-speak-to-president-trump-in-days-following-attack-on-capitol-thumbnail-623601-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -4859,6 +4916,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "X7H8heww/lobCDE6T4VyU14vxAQ4l4IV3nUEZBz5D5C4laSzPsb8NAL1/kxh3ffMbVRt2DYQyBeNfn5YG2FxsUTmi3G7xiGPIsGpwJgZF6wpct6bsZVhmOHRLev1RJ6WRAb7A5bVNy8mO7AFwhBzepRxSHLNUknQ1+22VOC8DvoJhBWkeG17R9aIubmuuwrW6FnE57XFlxz4cpa4HjbpJ6F4HwK1WXXQ/W769UBCOKwpF09IfLjiywCbz0rwLLMb3rkPCErRw13zj6yTJi8xewYJqDG4kFe4zX2HvA36oYc0Z2iL5YAamm2UrEOcDuIoETFTkGZ00T06rSJtT3WQyTHsya8N2pI8asxUkTXUGw4=;yn6BdP16n5cYeV6f/h8m3w=="
+secured: "CIrJE0xnfVFZfWWk522nyXvc64S4yjsH6N4vCfKSxN8IdDdC/411zc8RlOc/RgKaqdy5uj0ogJ0Kb+Re3cwn/x4w/i+5XxSxXw17Dti0ctVxIPN++LyKVLLzMbQ5706tXBYePIhCIR2OVW6J/K/Xsh+bw7dztiK7CgiD6bUiOzxRLqqNKV66RkAB5R6Dx6fzrLHKISX9HXSEVlpqwGH/iukXT1btL+gKBREJNgrFrhW3eL6N+aIDZywkurfQK7Aqo8/7MgczfVYhTdy+iVs0XlVtr57g3Vtuu5C/aVU5buLeBL0RKpRyjqrgIG4k5ZXMBLoK3nzGFCN+J4rqlAhOPjIj0g3eYxCSdinRO+tKgaI=;EVwdJTF/YuQ0YUHW3yatXA=="
 ---
 
