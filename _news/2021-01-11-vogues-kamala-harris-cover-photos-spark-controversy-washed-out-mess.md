@@ -362,7 +362,7 @@ related:
   - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
     excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
     publishedDateTime: 2021-01-10T19:28:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     type: article
@@ -452,6 +452,22 @@ related:
     quality: 66
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vogue's Kamala Harris Cover Was an Underwhelming Miss — and Her Supporters Want to Know Why"
+    excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the country’s first Black woman to be elected vice president."
+    publishedDateTime: 2021-01-11T19:10:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 65
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/kamala-harris-vogue.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -547,15 +563,15 @@ related:
         isCached: true
   - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
     excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
-    publishedDateTime: 2021-01-11T15:30:00Z
-    webUrl: "https://tulsaworld.com/news/national/kamala-harriss-vogue-cover-caught-her-team-by-surprise-causes-stir-online/article_fefc329b-4850-5ec2-a985-c432f2d95d14.html"
+    publishedDateTime: 2021-01-11T15:46:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harriss-vogue-cover-caught-her-team-by-surprise-causes-stir-online/article_ddc5bd69-5f7b-5a25-aa01-1eb70e514fb1.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fefc329b-4850-5ec2-a985-c432f2d95d14/5ffc6166033e2.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/dc/ddc5bd69-5f7b-5a25-aa01-1eb70e514fb1/5ffc611b0d1ca.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
         isCached: true
@@ -590,6 +606,6 @@ related:
         height: 300
         isCached: true
 
-secured: "H/ghtyJ5vzLPA0l3BqFoszLPDmFGoWAZgTU/NTeBriV7d9KvVuCoANBJMIUp1i3j4crgV+c8XxcfTtMRz6+ZG8sMvEOQg4e76JDJNU569Z1XRVZV8HWePCfkvWnT29OvSFXU8YwLH/7yLluVlKlAXDyjLPQYFAaGtwYDlr7nh7GrMqMGsHZgYJlkYnJq8vhd/w9qhB/CZndtxvhugZgfWa/lBXQ6M7iXFCo5ypocqzBuXwLnNhUil1yGk1HVHi1yu7+vxj2zRj5KsGQNmUUwTbqPGcURqH/qT3vPfiOrSyzTu4MnZtJ3Dxs+xGXkiJzqONpZA5KBSJacv+Qmuzo6Iqq9rkd/VM4Ov47z+8QpYPc=;44/c2tWAkUSm70YV+CUdaw=="
+secured: "l5W02/mAO+ublQ/oX0b5Btr45AdyqTcqSX4naH1p4lb4VdFGJReDIh/8HifYxEtGrGMTboOYhSOG4C1ixb82EC21NISuC9Zz+Y99/IXlc3f2kfIjQ+r+7f89uvRmfMe1gTPdOzd6vt4dMPzBO5vZQ83XH+uJGSsOL9qrM+0BWbiog0E0H918NIryYCbZfXnARmu8egSSKMWNVHCs4b8NQnzvP14Em4qXg81/IHExGEwDzQXsSpYojJCQQDolZhQv7eLDpoNMXazI/xidOlshVa53NYo7/fDOQ4SrFgHFFX4D/Y1JOd3582JNPwIi2OV6LcFBURJdzLA08QwKj5Y19E8SVPFM/ObSY23Ezu3asIMEdxQz34aovGAqGYhE8lV3Fc+kWm7kMWDPAe0jFs4Sx/U5n0o6B8oFPj1j2dEOM5iVpkW31WUlukwZ+9W7WhEQqCZduTVUNc7k8VUxxgHt5stnFNAiCWbArEkHaeSXl5F1NV0pFmWR2fIo4FsXhhT2WqGhTU9T8Xyu3OMCRI3d4Q==;AfbDQnuCCXkiCvUJdRFLYw=="
 ---
 

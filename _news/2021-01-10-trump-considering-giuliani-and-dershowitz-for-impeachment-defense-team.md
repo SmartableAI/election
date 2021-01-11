@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108101156-22-us-capitol-riots-0106-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Lawmakers called back to DC to vote on Trump's impeachment, removal under 25th amendment"
+    excerpt: "The House will vote Tuesday night to encourage Trump's removal and Wednesday morning on impeachment, House leadership announced.."
+    publishedDateTime: 2021-01-11T20:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
+        width: 2500
+        height: 1663
         isCached: true
 
 secured: "RYk1OqMjp7FWfg8l1A/25T2yDR45JKk7NXP3mN42w5I/RIqxa4Nv/AEN4Lnt/SLhYP2EguB+W0PklzV4SslqEjoiSqdHIPSsW0wXj4ARvVyqGxY+6SSREcLI+1ow3gsZdrcDwcWsy9OjAw1Jfs9Xell0ERbFDordSqEksqB5xxDQ+2yfbr8Gz0aBme/+vY7P5QwdYSx4XcXFWTs+OizOOHhVWiaVrRis5IqE3tE8V+DHfjtSzjfsejhhOTn4EfxwlqDDyt75+0L0mK/gQUsbpzlF0j5+iDKzQ2524noR86yzMOZHVt40TbMxIPpo8zfQMCQkz17Q4YCQFNi59AdaVjoeFv31lBLzrfnI9k3Wruc=;x6nGeTDbIXrIrVXGW7qaCg=="

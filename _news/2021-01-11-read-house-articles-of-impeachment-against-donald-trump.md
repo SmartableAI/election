@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawmakers called back to DC to vote on Trump's impeachment, removal under 25th amendment"
+    excerpt: "The House will vote Tuesday night to encourage Trump's removal and Wednesday morning on impeachment, House leadership announced.."
+    publishedDateTime: 2021-01-11T20:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
 
 secured: "r+8dHA1BIFCo/xvsn9Ug/m4XsQe5psgiKBqMtIIKngOpqRyfpR0LcNUDDmVjs750b0+PhSMv8joVjcVGDQFJxYCmwYPYHZA88/gmonf8MZP1S3LavFneudsOzYx41/FQV2MuEFJVtRPEAyrBzPOm8thxjvMjl8UVUsFv10vbv/2pyma6cY1VBzMgexa5IEpHPkcIQJz2FAjeIONiEklAHvP70Af+1lRMl4tr5KlwMmnWHAPcaF1KS3BGa4sJz7KY5RsXt5eh23Zz/s/m2i/8pzZDltSiRZbF8JkhwPkY/5O/9KhGKbj+wklOeRitPSNgXPasInY38OjVHi0ynzZqDCkXkMyRCWRX8kMpvLMraxk=;08lCW1d167EPZ7d/rgIH4w=="
 ---

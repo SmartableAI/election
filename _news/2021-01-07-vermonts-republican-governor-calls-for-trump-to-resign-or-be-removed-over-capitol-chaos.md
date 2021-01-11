@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hillary Clinton backs impeaching Trump again: 'Removing Trump from office is essential'"
+    excerpt: "Former Secretary of State and 2016 Democratic presidential candidate Hillary Clinton offered her support for impeaching President Trump a second time, but claimed that the root problem that led to the riot at the Capitol last week – white supremacy – will still remain."
+    publishedDateTime: 2021-01-11T19:33:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FwvBA624f8/hillary-clinton-second-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-second-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-second-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91443177-58f8-41e0-aacc-cb3c2e5e60f4/0c640d09-4c34-4471-be1a-e944cc37bf27/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
     excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
     publishedDateTime: 2021-01-11T14:05:25Z
