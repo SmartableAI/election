@@ -2,6 +2,105 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-12-19-why-charlie-baker-isnt-planning-to-get-a-public-vaccination-like-mike-pence.md",
+      "title": "Why Charlie Baker isn’t planning to get a public vaccination like Mike Pence",
+      "excerpt": "The Massachusetts governor wants to wait until he qualifies — and isn't sure elected officials are the most effective officials to inspire public confidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
+      "originalUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boston.com/wp-content/uploads/2020/12/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_wiggs_Governor_04-5fdd10a9449f2-850x478.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
+      "publishedDateTime": "2020-12-18T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-biden-vows-to-impose-costs-for-russian-aggression-when-he-becomes-president.md",
+      "title": "Biden vows to impose 'costs' for Russian aggression when he becomes president",
+      "excerpt": "President-elect Joe Biden's approach to Russia is now an even tougher challenge with news that Moscow may be responsible for a massive cyber attack on US federal agencies -- one Biden said he will impose \"costs\" for.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOiNtkVviR8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOiNtkVviR8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html",
+      "publishedDateTime": "2020-12-18T11:49:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-covid-19-live-updates-pence-mcconnell-and-other-us-officials-receive-vaccines.md",
       "title": "Covid-19 Live Updates: Pence, McConnell and Other U.S. Officials Receive Vaccines",
       "excerpt": "Experts fear the country’s deep partisan divide may limit the vaccine's reach to Republicans. France’s president details his symptoms.",
@@ -1274,114 +1373,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-rand-paul-calls-for-trump-to-pardon-edward-snowden.md",
-      "title": "Rand Paul calls for Trump to pardon Edward Snowden",
-      "excerpt": "Snowden has lived in Russia for the last several years to avoid federal prosecution.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SVvE5l4RO48/rand-paul-trump-pardon-edward-snowden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SVvE5l4RO48/rand-paul-trump-pardon-edward-snowden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87d54718-d17b-43b2-81bd-0b73602d6a6d/6d74d503-da1b-4a76-8fed-2a0c4291d098/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-trump-pardon-edward-snowden.amp",
-      "publishedDateTime": "2020-12-17T13:33:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-betsy-devos-tells-education-department-employees-to-resist-biden-administration-report-says.md",
-      "title": "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says",
-      "excerpt": "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/07/PDTF/b9c1ab22-05fd-4a78-8850-47d04f2cbf3b-AP20133643287574.jpg?auto=webp&crop=5109,2874,x0,y259&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3921340001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001",
-      "publishedDateTime": "2020-12-17T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

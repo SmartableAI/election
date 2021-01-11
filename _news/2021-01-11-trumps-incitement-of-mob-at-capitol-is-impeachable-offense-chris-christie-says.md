@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republican Sen. Toomey says Trump committed ‘impeachable offenses’"
+    excerpt: "Sen. Pat Toomey (R-Pa.) said he believed Trump had committed “impeachable offenses.” But he stopped short of saying whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment."
+    publishedDateTime: 2021-01-11T04:50:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
     excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
     publishedDateTime: 2021-01-08T21:55:00Z
@@ -81,14 +97,14 @@ related:
         isCached: true
   - title: "Nancy Pelosi says House will move to impeach Donald Trump"
     excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
-    publishedDateTime: 2021-01-10T23:53:00Z
-    webUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
-    ampWebUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    publishedDateTime: 2021-01-10T22:53:00Z
+    webUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
+      name: al.com
+      domain: al.com
     quality: 75
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"

@@ -343,6 +343,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris' Vogue Cover Explained After Intense Backlash: 'A Tribute To Her Sorority Days'"
+    excerpt: "Kamala Harris' Vogue cover was a tribute to her sorority days as a member of the Alpha Kappa Alpha, according to a report."
+    publishedDateTime: 2021-01-11T03:39:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Twitter Criticized Vogue For Kamala Harris' ‘Disrespectful’ Magazine Cover: ‘Is This A Joke?’"
     excerpt: "Twitter users slammed Vogue and accused it of being disrespectful to Kamala Harris after the release of the vice president-elect's magazine cover."
     publishedDateTime: 2021-01-11T00:27:00Z

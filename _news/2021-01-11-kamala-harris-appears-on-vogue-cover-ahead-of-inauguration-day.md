@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-appea
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-appears-vogue-cover-ahead-inauguration-day-75166683"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -346,6 +346,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris' Vogue Cover Explained After Intense Backlash: 'A Tribute To Her Sorority Days'"
+    excerpt: "Kamala Harris' Vogue cover was a tribute to her sorority days as a member of the Alpha Kappa Alpha, according to a report."
+    publishedDateTime: 2021-01-11T03:39:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Twitter Criticized Vogue For Kamala Harris' ‘Disrespectful’ Magazine Cover: ‘Is This A Joke?’"
     excerpt: "Twitter users slammed Vogue and accused it of being disrespectful to Kamala Harris after the release of the vice president-elect's magazine cover."

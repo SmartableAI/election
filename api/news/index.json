@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-pga-pulls-major-2022-tournament-from-trumps-bedminster-days-after-deadly-riot.md",
+      "title": "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot",
+      "excerpt": "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_01/3440542/210107-bedminster-golf-club-ew-437p_75076742c4f9d6f2d806e79f607548f8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253371",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253371",
+      "publishedDateTime": "2021-01-10T20:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
+      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
+      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4?amp;amp",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-explainer-can-social-media-companies-boot-trump-yes.md",
       "title": "EXPLAINER: Can social media companies boot Trump? Yes",
       "excerpt": "Social media companies decided this past week they had finally seen enough from. Facebook and Instagram suspended Trump at least until Inauguration Day. Twitch and Snapchat also disabled Trump’s accounts.",
@@ -54,21 +163,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
-      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
-      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week.",
+      "path": "_news/2021-01-11-reports-donald-trump-plans-to-give-patriots-bill-belichick-medal-of-freedom-this-week.md",
+      "title": "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week",
+      "excerpt": "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-corporate-idUSKBN29F0L4",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-corporate-idUSKBN29F0L4",
+      "webUrl": "https://www.usatoday.com/story/sports/nfl/patriots/2021/01/10/donald-trump-patriots-bill-belichick-medal-freedom/6618452002/",
+      "originalUrl": "https://www.usatoday.com/story/sports/nfl/patriots/2021/01/10/donald-trump-patriots-bill-belichick-medal-freedom/6618452002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 177,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
-          "width": 800,
-          "height": 534,
+          "url": "https://www.gannett-cdn.com/presto/2019/05/09/USAT/a44b6bc0-83b7-419e-9c03-4cb0f5ed1feb-bxx_trump2_0926.JPG?auto=webp&crop=2350,1322,x0,y379&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +185,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T17:12:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6618452002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6618452002",
+      "publishedDateTime": "2021-01-10T17:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,7 +211,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {
@@ -114,7 +223,7 @@
       "originalUrl": "https://abcnews.go.com/GMA/Culture/kamala-harris-appears-vogue-cover-ahead-inauguration-day/story?id=75166683",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 685,
       "tags": null,
       "images": [
         {
@@ -929,7 +1038,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1253,118 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-trump-considering-giuliani-and-dershowitz-for-impeachment-defense-team.md",
-      "title": "Trump considering Giuliani and Dershowitz for impeachment defense team",
-      "excerpt": "Staring down the barrel of a second impeachment, President Donald Trump is beginning to mull who would represent him in a Senate trial.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1aqsh04rVXg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1aqsh04rVXg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html",
-      "publishedDateTime": "2021-01-09T16:36:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-trump-twitter-ban-will-be-exploited-by-enemies-of-free-speech-around-the-world-russian-dissident-navaln.md",
-      "title": "Trump Twitter ban will be ‘exploited’ by ‘enemies' of free speech 'around the world,’ Russian dissident Navaln",
-      "excerpt": "Russian opposition leader Alexey Navalny called Twitter’s ban of President Trump an “unacceptable act of censorship” that could be exploited by oppressive governments around the world.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RXssiyWCLT0/navalny-trump-twitter-ban-exploited-enemies-of-free-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RXssiyWCLT0/navalny-trump-twitter-ban-exploited-enemies-of-free-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20247607331332.jpg",
-          "width": 3374,
-          "height": 2200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/navalny-trump-twitter-ban-exploited-enemies-of-free-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navalny-trump-twitter-ban-exploited-enemies-of-free-speech.amp",
-      "publishedDateTime": "2021-01-09T16:07:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -95,6 +95,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rep. Gaetz: Trump has no intention of resigning after Capitol riot, will 'not leave the public stage at all'"
+    excerpt: "\"President Trump continues to be the most powerful, the most influential Republican on the planet Earth,\" Gaetz said. \"It's my expectation that while he'll be leaving the White House in several days when his term is lawfully complete, he will continue to weigh in on matters that are important to the"
+    publishedDateTime: 2021-01-11T03:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vER0oxqqpaI/rep-gaetz-trump-has-no-intention-of-resigning-will-not-leave-the-public-stage-at-all"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-gaetz-trump-has-no-intention-of-resigning-will-not-leave-the-public-stage-at-all.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-gaetz-trump-has-no-intention-of-resigning-will-not-leave-the-public-stage-at-all.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kirk: Despite what the media claims, Trump supporters are 'repulsed' by Capitol riots"
+    excerpt: "The majority of working-class Trump supporters who traveled to DC last week were \"repulsed\" by Wednesday's riots that engulfed the Capitol in chaos and resulted in at least four deaths, conservative activist Charlie Kirk said Sunday."
+    publishedDateTime: 2021-01-11T04:06:00Z
+    webUrl: "https://www.foxnews.com/media/charlie-kirk-trump-capitol-riots-gop"
+    ampWebUrl: "https://www.foxnews.com/media/charlie-kirk-trump-capitol-riots-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/charlie-kirk-trump-capitol-riots-gop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b8fcff-75ca-4ddd-9290-b3c34ae295e0/b085f4bc-1744-4b7d-b848-07cf2b03af7d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Triumph of Stacey Abrams Over Donald Trump"
     excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
     publishedDateTime: 2021-01-07T12:14:00Z

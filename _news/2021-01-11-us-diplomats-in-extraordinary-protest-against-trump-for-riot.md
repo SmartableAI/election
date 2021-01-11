@@ -612,6 +612,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "The Latest: Toomey is 2nd GOP senator to urge Trump to quit"
+    excerpt: "WASHINGTON (AP) — The Latest on President Donald Trump and (all times local):"
+    publishedDateTime: 2021-01-11T04:54:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
     excerpt: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
     publishedDateTime: 2021-01-10T14:52:00Z

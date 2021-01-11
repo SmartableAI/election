@@ -591,6 +591,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "'Congress is obligated' to impeach Trump after Capitol riot: Rep. Cicilline"
+    excerpt: "Rep. David Cicilline, D-R.I., who is one of the representatives taking the lead on an impeachment resolution targeting President Trump's alleged efforts to incite the riot at the U.S. Capitol last week, argued on Sunday that Congress is “obligated” to impeach the president."
+    publishedDateTime: 2021-01-11T03:29:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SS9lbumeLgY/congress-obligated-impeach-trump-capitol-riot-cicilline"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-obligated-impeach-trump-capitol-riot-cicilline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-obligated-impeach-trump-capitol-riot-cicilline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia election official blames Loeffler's runoff loss on Trump, says 'no evidence of any irregularities'"
     excerpt: "Georgia election official Gabriel Sterling blamed Sen. Kelly Loeffler's runoff loss on President Trump’s battle to overturn the presidential election during a Wednesday press conference."
     publishedDateTime: 2021-01-06T20:02:33Z

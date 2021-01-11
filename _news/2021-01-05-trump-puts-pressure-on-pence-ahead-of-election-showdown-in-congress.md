@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 2115
+heat: 2135
 published: true
 
 provider:
@@ -591,6 +591,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72a43f23-ee3e-41e0-9f05-479513300976/dba3373d-3d9d-43da-89c1-ee81d2e9fdcc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'Congress is obligated' to impeach Trump after Capitol riot: Rep. Cicilline"
+    excerpt: "Rep. David Cicilline, D-R.I., who is one of the representatives taking the lead on an impeachment resolution targeting President Trump's alleged efforts to incite the riot at the U.S. Capitol last week, argued on Sunday that Congress is “obligated” to impeach the president."
+    publishedDateTime: 2021-01-11T03:29:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SS9lbumeLgY/congress-obligated-impeach-trump-capitol-riot-cicilline"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-obligated-impeach-trump-capitol-riot-cicilline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-obligated-impeach-trump-capitol-riot-cicilline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Georgia election official blames Loeffler's runoff loss on Trump, says 'no evidence of any irregularities'"
     excerpt: "Georgia election official Gabriel Sterling blamed Sen. Kelly Loeffler's runoff loss on President Trump’s battle to overturn the presidential election during a Wednesday press conference."

@@ -343,6 +343,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris' Vogue Cover Explained After Intense Backlash: 'A Tribute To Her Sorority Days'"
+    excerpt: "Kamala Harris' Vogue cover was a tribute to her sorority days as a member of the Alpha Kappa Alpha, according to a report."
+    publishedDateTime: 2021-01-11T03:39:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Twitter Criticized Vogue For Kamala Harris' ‘Disrespectful’ Magazine Cover: ‘Is This A Joke?’"
     excerpt: "Twitter users slammed Vogue and accused it of being disrespectful to Kamala Harris after the release of the vice president-elect's magazine cover."
     publishedDateTime: 2021-01-11T00:27:00Z
@@ -448,6 +464,6 @@ related:
         height: 300
         isCached: true
 
-secured: "ILe79+3lZhoDEtVbsNLXOwN1fwUKcN3qATqT7BIdNxbg6VH7C2xHthT4/KAQtcDwfyCP4h8lBg0HDXfOa2rSIX7xR3TF4VqtScl26gmLnXjAQPdWdf71gIU3O7H1TfM3/rY8BzR4/ZjvMJKlvUkOy93hqBvKRsZjF8E/kufONgiaQWonb1VfgkF1Y8uSTSLVuXPnawTaB/bS3gc3UlCYgdV2WNljcGbWrFQ2YVbNEvsSmvO5otYziQy2lRObizzapLIglRMcRDsWKHmpeHulKhn5VVhOmuIWMnQS3wN/bKVK/BFMHy3ITgtePPzOalCLyhIywVt8UaAMhB4gArjrGvvKQrbNxyFJV2Mxtm3mgd8=;hCBRBTEJF9gfO1OVporXWg=="
+secured: "uh9/NFB50U6UXZGyLjYarD4lQxeECSLTizFvBzrVzrXsreV9txMXXqQE3X4a3gDFEnmLfX3wFEG+QeflfZqQarC0ZGbB0h2GIA7ewwYsSnx8/bSdEWk7vD4OkFVotPaZm+T2gcs7b0gGpM2A0s8Y81BR56YZVS93lLwYuxvg7sgPQLCFATg7TzDnmT+vf9W1Bu7SDGgHmtMncU0uib3DbB0ScmFSksZQa8cZYLoGmERxv09uVefFup04lLtmsD8oKyxfv6n9uz9m5xL7RyWUqVhFVL4BmWtziPz0BwJNAqxq41XKHOqej2ckMJarfTSHaggdO4m7ymfQNyOsRxQC/z7u+pihG2qkF5LQeY0TWMaM+OQQ5HXLSvQKm6H0L3FqrnbLn4KigWSvsK3D1QhjLYjhzTCc/RbK28QmV1dPgypO5m/YCRFZ9I1zZSKwUqfM0Ko3vCxUFVANB/5EGefNOsgP1G3bGCj3/Tx0gqZDvuWtLtsgMBYHbxfBopvDzAJZp77B5HbGt9e0kPz3HPHvew==;XFAvqJa90w/fWOGjrCXdRg=="
 ---
 

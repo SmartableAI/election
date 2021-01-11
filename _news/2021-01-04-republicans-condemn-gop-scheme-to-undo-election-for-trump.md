@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1260
+heat: 1280
 published: true
 
 provider:
@@ -602,6 +602,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "The Latest: Toomey is 2nd GOP senator to urge Trump to quit"
+    excerpt: "WASHINGTON (AP) — The Latest on President Donald Trump and (all times local):"
+    publishedDateTime: 2021-01-11T04:54:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "US diplomats in extraordinary protest against Trump for riot"
     excerpt: "In a highly unusual move, American diplomats have drafted two cables condemning President Donald Trump’s incitement of the deadly assault on the Capitol and calling for administration officials to support invoking the 25th Amendment to remove him from office."
     publishedDateTime: 2021-01-10T20:14:00Z

@@ -34,7 +34,7 @@ related:
   - title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
     excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
     publishedDateTime: 2021-01-11T00:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-will-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4"
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4"
     type: article
     provider:
       name: Reuters

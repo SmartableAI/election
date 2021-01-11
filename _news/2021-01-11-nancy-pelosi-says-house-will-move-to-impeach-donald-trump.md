@@ -2,19 +2,19 @@
 category: news
 title: "Nancy Pelosi says House will move to impeach Donald Trump"
 excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
-publishedDateTime: 2021-01-10T23:53:00Z
-originalUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
-webUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
-ampWebUrl: "https://www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+publishedDateTime: 2021-01-10T22:53:00Z
+originalUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+webUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+ampWebUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: NJ.com
-  domain: nj.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
@@ -42,6 +42,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Republican Sen. Toomey says Trump committed ‘impeachable offenses’"
+    excerpt: "Sen. Pat Toomey (R-Pa.) said he believed Trump had committed “impeachable offenses.” But he stopped short of saying whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment."
+    publishedDateTime: 2021-01-11T04:50:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
@@ -119,6 +135,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Z0b0FWRZCVBBXNjuAdtzmdA7bYXDZ75py6oszch7euDOti8PlsPSpwNvARgjlMUUBdpIITeX0yBDXPQR9PrAp+xrXGLo3egmTCZRh7sEvZi0s//BG8V7HrOoTPZ9N3m91rEealM28KH1HQGjlLoUDzpfShgOCf3swUwD5GWnk8rB6fbhV1qpGhuhLcPL9M1sQZPP/hE2Z25YvBEl1DRtnMRWX8KKnPXdQk3pbOGTabFo5Ai+duZtNTj9RGwaB+5WTrBO3SrJy54o68lXpec8bBiyg7aEfbwd4sNL0gUy9im5ilmI0aa43zkxckEzNOvtb16m70wN9x0cXmX3trxtVGzFkx7M/4iLGi7gWkIV0UI=;FgwZjlpNfZWBy3ieYpJdug=="
+secured: "ii8934HqZuNXxJwv//35RM7OhW3fLZ75/p7SA028wZvldeK5ntBTGEzA7HWbyB2QInDR9L0JZ7si7NTJ7WFRU9BbR9tyngsXvT2Yd5Wb8OZEDYpvGWmj/fKbf3+w4p1tWdpQamUKJZQkUdQ4z0jUVD9rINDxKH+tjsHgj7eHJcx3rvXwzsk+xSv3RTcvzWs3udXAgXC42reqLf+tonHunJtgBzpRTK7FOtNuKdhTA/S5NEYk/CSa8ZRlzAyIoPsMVFsJuNbjU43ajIOpm6RTd5wuwHTdLkkeyFWfm86xp/jqjI+3NI9pj16z0DNoqukLe5ftGe0n9JYQmHa7/eYmR9IFMlI4/7vlDrpUh0lDQAE=;HKMpH74JDQIJhkWcH+XXzA=="
 ---
 

@@ -607,6 +607,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Congress is obligated' to impeach Trump after Capitol riot: Rep. Cicilline"
+    excerpt: "Rep. David Cicilline, D-R.I., who is one of the representatives taking the lead on an impeachment resolution targeting President Trump's alleged efforts to incite the riot at the U.S. Capitol last week, argued on Sunday that Congress is “obligated” to impeach the president."
+    publishedDateTime: 2021-01-11T03:29:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SS9lbumeLgY/congress-obligated-impeach-trump-capitol-riot-cicilline"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-obligated-impeach-trump-capitol-riot-cicilline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-obligated-impeach-trump-capitol-riot-cicilline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, House Republicans held call to discuss Electoral College rejection: Brooks"
     excerpt: "House Republicans held a rare Saturday night conference call to address their goal of overturning the Electoral College results on Wednesday, U.S. Rep. Mo Brooks, R-Ala., told Fox News."
     publishedDateTime: 2021-01-03T02:53:57Z

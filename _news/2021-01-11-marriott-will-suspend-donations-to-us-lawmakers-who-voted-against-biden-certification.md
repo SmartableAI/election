@@ -3,8 +3,8 @@ category: news
 title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
 excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
 publishedDateTime: 2021-01-11T00:30:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-will-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4"
-webUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-will-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4"
+originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4"
+webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4"
 type: article
 quality: 97
 heat: -1
@@ -46,6 +46,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Qs+pNdPg3mQ37/1e5pw7yBlr3Y0N3Dx7DdvPvH+uR5eax4xfsw4kqd/dmX97nApamiP7yDgQCqTJIZMmpdSPRexIBLx898+SX+wtMf1zrnqDesCBpgv546vJPCD9f/2gfvNvis8ji+qPanHQHWlLT4Sm6S92S1mnSEsQuxjGEmsbRSo0wOZtjFw0HKU67KOEtZ+bLgBPCGWuax02OqMdQRN83dw01ET/oQj2IHbUDHW/+7Evd+SJvh3vrO//ityHN3QbjVUqKeIOtSeMEGApf9ZnYGxzGWm/jt6S2vgHE8OePqRwH16ubngQcZ4G1baSx63Mf/D2xRlMRYOsQj3ERVuehjAEA2i0QmoAYRZ5vgUOfCEKDpKeAntyHmS2n+rk6AEXrpc82zsQaoAkLce7kOhyrpRWunvSrGgbG1iPAk/e/u+ce1SKSPU/e0vT266p6/yLSE74nf4HqWI5/S/4Bv2dojBu56AXcMhAeUnwcxOWX4UIiAvMG8T36Gv28WPaghk9PcP7hxQiVybpL6BQew==;v9sroVlR0fJzp632jtJ9bA=="
+secured: "8L220wyHhiXrWAv08o17RnPelOICOag5TedOnkcaF6C8ruSHxx/WvLrWovE38aA09nwiSO1cNczKSe/bw/+j7D035L/NWXbwhCK+PQb0fGx13hpLQIPp2vv+JGRhNhZZS7chiJNfTBBH36DMytZTx5DrI+oeENXXfIfIBqcQgAS7gJmEe4rvIuSA+zoFOV6J7zCI/2zEaQrjhU9bd/remaIR4GwX1sHPXuOaVjQUQlhG0LDMXPTPj2dLt7nUaYC2JWC/u6dbRxJ16bMT8YMyIHEv4Dr4Aikt9YNBXwYMVIcu946hiiOmdRXZDOUX3JW5Apv7Iy2k9NopnaabIhRsjrRpvgeQ92aMzua7NhiKe3U=;lMnXlgkxcMh6en4Xro1E/g=="
 ---
 

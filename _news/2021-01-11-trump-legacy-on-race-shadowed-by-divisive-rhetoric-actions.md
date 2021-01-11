@@ -2697,6 +2697,54 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "PGA votes to move championship from Trump golf course"
+    excerpt: "This is the second time in just over five years the PGA of America removed one of its events from a Trump course."
+    publishedDateTime: 2021-01-11T03:43:00Z
+    webUrl: "https://www.cbsnews.com/news/pga-votes-to-move-championship-from-trump-golf-course/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pga-votes-to-move-championship-from-trump-golf-course/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pga-votes-to-move-championship-from-trump-golf-course/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/a000e10d-134a-4e04-8718-ffe39ec3a978/thumbnail/1200x630/d086498950ed53deac83135e6aaaeca8/gettyimages-624189760.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Records show fervent Trump fans fueled US Capitol takeover"
+    excerpt: "They came from across America, summoned by President Donald Trump to march on Washington in support of his false claim that the November election was stolen and to stop the congressional certification"
+    publishedDateTime: 2021-01-11T04:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/3eda3078-539e-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/3eda3078-539e-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/3eda3078-539e-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump remains defiant amid calls to resign"
+    excerpt: "President Donald Trump enters the last days of his presidency facing a second impeachment and growing calls for his resignation after his supporters launched an assault on the nation’s Capitol in an e"
+    publishedDateTime: 2021-01-11T04:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/a70cc708-539b-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/a70cc708-539b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/a70cc708-539b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z
