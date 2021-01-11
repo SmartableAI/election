@@ -4311,6 +4311,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence execution"
+    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a post by pro-Trump lawyer Lin Wood, where he threatened violence against Vice President Mike Pence."
+    publishedDateTime: 2021-01-10T22:35:00Z
+    webUrl: "https://www.freep.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.freep.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6616756002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-03T19:54:00Z
@@ -4732,6 +4748,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "UQOARaMIRekdry6xPd8Rz2fTo5V3b2ZJp+uAZOdjveEe4OE1rgmmdTIv68E+oCJSyci717dmonFWpaogrosY73/MLdQnuMwaqYtW7FrEfExQT95Z0vuMj1+d8iaMfGOAC5cIB5FpXIuX6onJuD9NB/yfF2ND5Hdx/xz+dsscDCucnfO2S/DbVRJJBr6C0uANxxZSVjQb8HLNgmd1BBa7WYyNGhVpeJmGy80GzCbjzw3Q1Gt6sOt1Z1STzAhXBc5XGz5BN6WQKKlgjo0Istmey+We8sGTdUBJXG9WzGuK5R6WB4ZXOVt8GVouH3kXYRYLu2XKtgLdHsSOf81naMIo695dcVihTy2gVHANaR3UFWk=;ygTLvQDvqRfd37b6s1QqTg=="
+secured: "aDXD7HgL90pdpJU+2DZSbqOFTe2RMQE1Edw7Pv0zU85ODwMFkWvXYoxqbv8YXzbuDb87FqmowvH7f+z6yjN1AuBIPs5z2AJZsQ6N+OE3gaYqLzzJ1GizgDUiQHzyPkwvQ8Nck/TXWr6mZkiskLwFUQ4jkxs8EyDLa+KkMOp3/KTMTIQ4kriyxTZpjSR+dLoeya5zhDLjJn28oWLsf2usu8CPNjYVDrB0Apdrc70K83xqvY2z3DuOvpMflH47F4FsauYvWMZ/Is4wOlQdKbUNXJkf2js1jVEY0Jf5pTpdd0PPAu4qx8fa6xK1of4Mzhc+Hs7QJEvUOoxMnVbxDxoEmP7mDfjn44DGLcf+hOGB1wG0QgPbWofO068LHrQxQAdz+2zDZnBB5enjivznp8ytYUHscX+j68dvKAp4zYZgDozhhnmDKsss417pw9odzr0cLs06T1OP7xzJ9zNyKbhfkYAfl9WzZIl6t+3ZfJLGCtBxPoWZmUTPRxP0+KYSMVKZPWNPWT36CXsf0D3qUAT8Zg==;P/zEP/zTe6FBzC7h4cTUUg=="
 ---
 

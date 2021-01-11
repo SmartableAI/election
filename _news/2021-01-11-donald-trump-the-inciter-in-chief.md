@@ -858,6 +858,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "DC Delegate Norton to introduce resolution to censure  Trump as ‘only remedy that can pass both chambers’"
+    excerpt: "House of Representatives Delegate Eleanor Holmes Norton on Sunday called on Congress to censure President Donald Trump for his alleged incitement of Wednesday’s riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-10T23:59:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rEYdV5p5GBs/dc-delegate-norton-resolution-censure-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/gettyimages-1214409770.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "How Trump Allies in Congress Plan to Challenge Joe Biden’s Electoral College Win"
     excerpt: "In the process set to unfold Wednesday, Republicans are ready to challenge some states’ results, alleging election irregularities and possibly forcing debate and votes in both chambers of Congress."
     publishedDateTime: 2021-01-02T12:03:00Z
@@ -1499,6 +1515,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "au+TXrynGerXSoe2YQfgfsJABJGPJcof+GDDy2aWkt2ThyWtZ4R2RDKxRWAYW0XpnXowoRN7rQ4b3UmE6WApFNwKP6yzKb3cqZ9br39rzTovZ0GS+y9ceMUD3OAVcj+RKasMpW0kLuzxgTXJWcBrbbotd9UlHWrlcZzdfeeS1/5n2vWpJdQ9BKWII1g0Gmupd1JLywGqQO4jLs8ZJpSids9+hZRYA9Pgjk57nAQ3D+Nz+rJy8M1W4CvWgAubKlHF3fNMCqZCGbnWwNcTd417wVJL95au1ZuZyqeieS8QcZP2OKqCfCYMod8pelvKUj0sGTEHcbs3Rl2WLXeHijiMJOdY9RXkt8g34TFDN4exxHw=;srfXLt9W6QxSFSOLtKcOIg=="
+secured: "WlRYQGm+cLVMU8+G+IuKZT62LKcCt5l+khTwE9uHj0W7iIriD2zo9KXctAiDRpO8ijX0MySXwfTUAo+CeMBUjDPN3WWnqLG2Of+akXkSoIYegPc0nY9Jr2YUY1KwRcyd40BRhk26tDly07P9fV9rcNRB1L3qnAmARKwfGqwja3sAtfTC6WrNXqwPt3S0IxyjtxW+H0ofFyby73JEwZ/eefyShYwJuF3QhACgRzgi/uZTg6pEkGq1zXiBR9R4czbe14Mg5L6BT+zsAPx1maNMy27Zn9YKe4rWcwRcG8gxJJ7J6Uyc6mWgYrtsI8AHvRenV7xmh0hjukaKKitmtAVHnxFheOWMbPQlSHBpsZzXyQtznsuWkkT9p4jKPXuAGXRuaLCbTuoMHpme7EPh3xvO1VOEQLxkqGyLXWYoGgWrIjQ+uqV2Bm0AgTYzLVynb2g7ZiC2SGBLq72lB6KY0xoGMRI0uxzjp9O7xUG4mHjol7o8RWs3eE1DhSlda43F1GK41oRJNz2dO/LQxAt16Cs9OQ==;W826pQQJXlmsBj1Pr2EzUA=="
 ---
 

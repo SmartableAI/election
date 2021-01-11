@@ -313,6 +313,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "‘Resign and go away.’ Second GOP senator urges Trump to step down"
+    excerpt: "Sen. Pat Toomey of Pennsylvania on Sunday joined Alaska Sen. Lisa Murkowski in calling for Trump to 'resign and go away as soon as possible.'"
+    publishedDateTime: 2021-01-10T22:57:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001"
+        width: 320
+        height: 209
+        isCached: true
   - title: "US diplomats make extraordinary protest against Trump after riot"
     excerpt: "American diplomats have drafted cables condemning Trump’s incitement of the Capitol riot and calling for administration officials to support invoking the 25th Amendment."
     publishedDateTime: 2021-01-10T20:07:00Z
@@ -627,16 +643,16 @@ related:
         height: 533
         isCached: true
   - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
-    excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying the Republican president could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
-    publishedDateTime: 2021-01-10T16:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/republican-u-s-senator-joins-calls-for-trump-resignation-as-democrats-prepare-to-impeach-idUSKBN29F03R?edition-redirect=ca"
+    excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
+    publishedDateTime: 2021-01-11T00:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/republican-senator-says-trump-should-quit-as-momentum-for-impeachment-grows-in-house-idUSKBN29F03R"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 96
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547284584&r=LYNXMPEH090DD&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547306910&r=LYNXMPEH090DD&w=800"
         width: 800
         height: 533
         isCached: true

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-08-vice-president-mike-pence-to-visit-greenville-for-coronavirus-response-discussion.md",
+      "title": "Vice President Mike Pence to visit Greenville for coronavirus-response discussion",
+      "excerpt": "Vice President Mike Pence will visit Greenville on Thursday to talk about response to COVID-19 before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
+      "originalUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.greenvilleonline.com/amp/6484240002",
+      "cdnAmpWebUrl": "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002",
+      "publishedDateTime": "2020-12-08T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Greenville News",
+        "domain": "greenvilleonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-pences-political-future-remains-clouded-by-trump.md",
       "title": "Pence's political future remains clouded by Trump",
       "excerpt": "Days after the election, Mike Pence called a close friend for a 30-minute conversation to analyze what had just happened and what it all might mean for the future of the Republican Party. According to this person, the vice president was upbeat about the success of GOP candidates lower down the ballot,",

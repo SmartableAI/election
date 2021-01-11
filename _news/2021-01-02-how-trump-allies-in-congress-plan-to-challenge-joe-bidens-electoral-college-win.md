@@ -865,6 +865,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "DC Delegate Norton to introduce resolution to censure  Trump as ‘only remedy that can pass both chambers’"
+    excerpt: "House of Representatives Delegate Eleanor Holmes Norton on Sunday called on Congress to censure President Donald Trump for his alleged incitement of Wednesday’s riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-10T23:59:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rEYdV5p5GBs/dc-delegate-norton-resolution-censure-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/gettyimages-1214409770.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pence 'angry' after Trump says he 'didn't have the courage' to overturn election, Inhofe says"
     excerpt: "Okla., said he'd never seen Vice President Pence as \"angry\" as he was when President Trump pressured him to decertify and return the results of the presidential election back to the states."
     publishedDateTime: 2021-01-07T17:30:00Z

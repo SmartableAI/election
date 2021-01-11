@@ -2,58 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-12-05-president-elect-joe-biden-predicts-bleak-future-if-congress-doesnt-act-on-covid-19-aid.md",
-      "title": "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid",
-      "excerpt": "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-vp-pence-confidence-in-vaccine-important-for-us.md",
       "title": "VP Pence: Confidence in vaccine important for US",
       "excerpt": "As U.S. deaths from COVID-19 topped 2,800 Thursday, a new daily high, and with more than 100,000 Americans hospitalized with the disease, VP Mike Pence is trying to boost confidence in the vaccines that are awaiting regulatory approval.",
@@ -1359,6 +1307,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
+      "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
+      "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "originalUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-267936/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "publishedDateTime": "2020-12-03T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-kamala-harris-appears-on-vogue-cover-ahead-of-inauguration-day.md",
+      "title": "Kamala Harris appears on Vogue cover ahead of Inauguration Day",
+      "excerpt": "Vice President-elect Kamala Harris made her debut on the cover of Vogue magazine’s February issue. Vogue featured two cover images on Instagram on Sunday. In one, Harris poses in front of golden drapery and dons a powder blue power suit and pearls;",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Culture/kamala-harris-appears-vogue-cover-ahead-inauguration-day/story?id=75166683",
+      "originalUrl": "https://abcnews.go.com/GMA/Culture/kamala-harris-appears-vogue-cover-ahead-inauguration-day/story?id=75166683",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/kamala-harris-vogue-ht-jef-210110_1610316091365_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/kamala-harris-appears-vogue-cover-ahead-inauguration-day-75166683",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-appears-vogue-cover-ahead-inauguration-day-75166683",
+      "publishedDateTime": "2021-01-10T16:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-explainer-can-social-media-companies-boot-trump-yes.md",
       "title": "EXPLAINER: Can social media companies boot Trump? Yes",
       "excerpt": "CAN TWITTER AND FACEBOOK LEGALLY TAKE SUCH ACTION? The short answer is yes. As the Congressional Research Service has explained in a report for federal lawmakers and their staffs, lawsuits predicated on a website’s decision to remove content largely fail.",
@@ -273,10 +325,10 @@
     {
       "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
       "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
-      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week.",
+      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-2-marriott-bluecross-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-2-marriott-bluecross-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
+      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
+      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -320,6 +372,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-presidential-transition-live-updates-house-says-it-will-move-swiftly-with-impeachment-if-pence-wont-act.md",
+      "title": "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act",
+      "excerpt": "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
+      "originalUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
+      "publishedDateTime": "2021-01-10T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
       ]
     },
     {
@@ -376,58 +485,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-vogues-kamala-harris-cover-photos-spark-controversy-washed-out-mess.md",
-      "title": "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'",
-      "excerpt": "First woman of color elected vice-president is February cover star but users complain about lighting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/03f171d8d3d2e9dc1acc3ebb4c804873b96965f2/767_953_3529_2118/master/3529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=987b4358316eb4e89df49c2ed1caec1e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour",
-      "publishedDateTime": "2021-01-10T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -820,7 +877,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1311,54 +1368,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-donald-trump-jr-we-are-living-orwells-1984-after-dad-outed-from-twitter.md",
-      "title": "Donald Trump Jr.: ‘We are living Orwell’s 1984’ after dad outed from Twitter",
-      "excerpt": "Free-speech no longer exists in America. It died with big tech and what’s left is only there for a chosen few. This is absolute insanity!” he tweeted in response to the news.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/",
-      "originalUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-jr-twitter.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/",
-      "publishedDateTime": "2021-01-09T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

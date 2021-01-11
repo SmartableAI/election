@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
-excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying the Republican president could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
-publishedDateTime: 2021-01-10T16:45:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump/republican-u-s-senator-joins-calls-for-trump-resignation-as-democrats-prepare-to-impeach-idUSKBN29F03R?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-trump/republican-u-s-senator-joins-calls-for-trump-resignation-as-democrats-prepare-to-impeach-idUSKBN29F03R?edition-redirect=ca"
+excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
+publishedDateTime: 2021-01-11T00:16:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/republican-senator-says-trump-should-quit-as-momentum-for-impeachment-grows-in-house-idUSKBN29F03R"
+webUrl: "https://www.reuters.com/article/us-usa-trump/republican-senator-says-trump-should-quit-as-momentum-for-impeachment-grows-in-house-idUSKBN29F03R"
 type: article
 quality: 96
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547284584&r=LYNXMPEH090DD&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547306910&r=LYNXMPEH090DD&w=800"
     width: 800
     height: 533
     isCached: true
@@ -316,6 +316,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 1080
+        isCached: true
+  - title: "‘Resign and go away.’ Second GOP senator urges Trump to step down"
+    excerpt: "Sen. Pat Toomey of Pennsylvania on Sunday joined Alaska Sen. Lisa Murkowski in calling for Trump to 'resign and go away as soon as possible.'"
+    publishedDateTime: 2021-01-10T22:57:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001"
+        width: 320
+        height: 209
         isCached: true
   - title: "US diplomats make extraordinary protest against Trump after riot"
     excerpt: "American diplomats have drafted cables condemning Trump’s incitement of the Capitol riot and calling for administration officials to support invoking the 25th Amendment."
@@ -849,6 +865,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ERdUVDG7DHy54P+hCw9P6WZC+l3TToXjyT7OsvIgL2GEqK7oeR/uawDPA68gkoppu5wgPmpSyh9K4Y2T6EF1FubeUomZtHiO7uwzf+obHbXQx1Zd4KmAKCw18Fr1U2TegQlPcPJzF83+ZHZPgMoOthnzXGJr4aqEieda4LaWlzBQmW4y6PzylDnQoLHS7M+mgOf17mSmsJiFElFz2opOvjuldkYEfZ32xifcYbwQNi9Z2MSsl3rs73cRdbl7AKF8qOzgYLRnxF34Zvdclz2Q6naN0pPBso63v6cL+yLGomgBRLmSSoXYWxYtU/YHEDruW2ig0tdRa1hW+1aDFAnwcBh6Usx3S2zJOOaKWibLwdY=;BGfm63J1GBkOmncbUE5W+g=="
+secured: "kx++D7suMy9sVzsmyLxtuRAIGtsHTOR+pNqPQVQ6TnzQoiiZLbyoHMOAoZtchWBH5HpOHfX4yZS9R2pF7cozBBLatNscLYE5u3SDK6XTFLYrzXSZJIO5l4bA6eoOQHnVH7NMinuFHNwD5d/bOUEvb9Y647Z4NLwfYmShgj7Gifq2V1+EtKeqyeotMHr6Pcqxr/nx0lmwCtnSW1Q48DU0GiqG+iB6Qr7L7IdLC+x92qctCg1bZVFCu7XbkWiVrSlpmcZK19pTyDPQNYtNRJkyZJqWwixft/nugJwvYnL3+fidPJQA/1XZvfjJdvcwRXlzEPnhEmpSFI1Mpw4zmAN9siBRa8iE4eGZSl5R9ZNPbIA=;pbbOqAIQ1nm2kNmywtESfg=="
 ---
 

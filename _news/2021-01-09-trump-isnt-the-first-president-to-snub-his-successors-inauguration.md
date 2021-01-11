@@ -4299,6 +4299,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence execution"
+    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a post by pro-Trump lawyer Lin Wood, where he threatened violence against Vice President Mike Pence."
+    publishedDateTime: 2021-01-10T22:35:00Z
+    webUrl: "https://www.freep.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.freep.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6616756002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-03T19:54:00Z

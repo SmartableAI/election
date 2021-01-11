@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP Sen. Pat Toomey calls on Trump to resign"
+    excerpt: "Pennsylvania Republican Sen. Pat Toomey joined calls from a handful of his GOP colleagues Sunday for President Donald Trump to resign for “recruiting thousands of Americans” and “inciting them to attack the Capitol building” last week."
+    publishedDateTime: 2021-01-11T00:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sen-toomey-calls-trump-resign-n1253657"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253657"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253657"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3441043/210110-pat-toomey-mtp-jm-0920_22b5b4d4b391e7163713d55691295565.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "TsLC+MXp4PEgYBLHFTFQLu1MG/u0N8jxAhJ9oajs+55T9KUGcpHVO3xjNlkbuZkZU47Q6+6UXLqWtc4OS/ERq6YVSzW3ela2P5POhb7y8hz/5cVrYpPCBlprhdr/OLO5aTSWsHRsBWVpmKnNQbRXTDze2cBe8g/e1JhpKwqYjzY61cy04FFdoggEAOHPHoRj5UGZ1aR2RdD2JuPh8WApHWAYuYJ7Bq7TRhytrTphUHw8NsdkG0obLn3wEFwMHGgAIoahCSRXc0zYN6R/1K7IM/6mPvNhdq1P0t/RN8ZMPe1UCnpUfQBXE0QoMCVBAxisgZL4nPtzQq1ixb/zGujKRTGnqKj4ibbu1jV4/HjtukE=;AT1JRp6wo4MhTDFRHcO0GQ=="
 ---

@@ -2,21 +2,21 @@
 category: news
 title: "Lawmakers who voted against Biden are denounced back home"
 excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are being denounced by critics in their home districts"
-publishedDateTime: 2021-01-10T22:54:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
-webUrl: "https://abcnews.go.com/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
+publishedDateTime: 2021-01-10T23:38:00Z
+originalUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_06211df78898406b9e868e9defd047be_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -463,6 +463,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ovG12kB2m6TlLPwbi0AFj8wfX1482oqpcPJ63PP0to+WRRxNXk9RQYfvhDL8Z1DytM+3hmsqHakHGrqbCfDa8XDYus17yT/KGAiSQ4gmpj6DjplQXgHs9BgM61xy+hhDDnsk8HE2CDJTtg7h3bATXUOjXGz+F/U3ubCeSCTbgDHr81RRNZSvD/ztuIXm7Zds9X8m4DgPRl6ozvjSzv1sZXr2Tyws4Wy/GzTthuwn6vVKW0L42ndcf04Dwtd19P34HO21X3n3q5o3tKOd0RCyycMh+sqX3vWjufmHeZdwpX/xYuyiLaEvhd8Y19cvJ+I45aeK2apc5/FKInSejewXKJ753q00yD4WfRS6AepaXkE=;V8R6Cxg3Y0iqxZgCO6wuhA=="
+secured: "yg4hIIAIVISFv++yCRg+ES66qCIvVsvVtx4YLznOwsxmurLPbYcFHL2SDDYlMk8WPQyKGMFA6XGwVR8UNU4TImrtRToppZx0czEJ5+Ot/opFTndJApMy/B6mNAQq8FMlCPc3HB+9/Ea5su1aQo0CJKHPqZWlwNezi5hGQoarlsRBWgK0CqdahRRBKLKXVYyleNICvHJMD2NtVWzO5RFCwnX2RemQMhfRcvEN+R21UJQhpL1jg7XBGCmZWpiXs0lE4Xzx4SkuAf5zWQTXVz3ZPlPYRGpx9DSN5VsJP/jv5/HBYBuAXqsAo5GkvWF75w9NUyscA7PqCT8BEwFrs8L5qCrFav3Z9biofintXxn5OOU=;Ola4sZZjegf0Ig0Y/M6Q2A=="
 ---
 

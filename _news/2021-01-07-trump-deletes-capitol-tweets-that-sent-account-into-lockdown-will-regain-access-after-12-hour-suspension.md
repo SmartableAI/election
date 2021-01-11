@@ -847,6 +847,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DC Delegate Norton to introduce resolution to censure  Trump as ‘only remedy that can pass both chambers’"
+    excerpt: "House of Representatives Delegate Eleanor Holmes Norton on Sunday called on Congress to censure President Donald Trump for his alleged incitement of Wednesday’s riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-10T23:59:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rEYdV5p5GBs/dc-delegate-norton-resolution-censure-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/gettyimages-1214409770.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "How Trump Allies in Congress Plan to Challenge Joe Biden’s Electoral College Win"
     excerpt: "In the process set to unfold Wednesday, Republicans are ready to challenge some states’ results, alleging election irregularities and possibly forcing debate and votes in both chambers of Congress."
     publishedDateTime: 2021-01-02T12:03:00Z

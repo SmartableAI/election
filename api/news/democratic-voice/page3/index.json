@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-20-jim-carrey-to-stop-impersonating-joe-biden-on-saturday-night-live.md",
+      "title": "Jim Carrey to stop impersonating Joe Biden on 'Saturday Night Live'",
+      "excerpt": "Live” did not immediately offer insight as to who might pick up the impression, Carrey’s departure could allow a cast member to take over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/jim-carrey-stop-impersonating-joe-biden-saturday-night-live-n1251820",
+      "originalUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/jim-carrey-stop-impersonating-joe-biden-saturday-night-live-n1251820",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_51/3436967/201219-jim-carrey-joe-biden-snl-al-1414_e3d031136794aebf76936c2c337c7a7a.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251820",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251820",
+      "publishedDateTime": "2020-12-19T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-the-trump-survivors-six-cabinet-officials-who-stuck-it-out.md",
       "title": "The Trump survivors: Six Cabinet officials who stuck it out",
       "excerpt": "On Monday, Attorney General Bill Barr became the 12th of Donald Trump's Senate-confirmed Cabinet members either to resign or be fired by the President.\n    \n",
@@ -1611,62 +1668,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/william-barr-donald-trump-white-house-meeting/index.html",
       "publishedDateTime": "2020-12-12T10:51:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-explaining-the-supreme-courts-ruling-denying-trump-and-how-alito-and-thomas-didnt-dissent.md",
-      "title": "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent",
-      "excerpt": "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html",
-      "publishedDateTime": "2020-12-12T10:36:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

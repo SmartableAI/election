@@ -140,6 +140,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'"
+    excerpt: "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy."
+    publishedDateTime: 2021-01-11T00:19:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyA_THk6cvQ/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
     excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
     publishedDateTime: 2021-01-05T15:50:00Z

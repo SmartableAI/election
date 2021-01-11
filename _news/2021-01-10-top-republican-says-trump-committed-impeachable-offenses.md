@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-c
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/gPDkhSIAijOSF5sP9fRMUdH19Eg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTKQHOYW2PN5WNW7FPGHWZ2J54.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Nancy Pelosi says House will move to impeach Donald Trump"
+    excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
+    publishedDateTime: 2021-01-10T22:53:00Z
+    webUrl: "https://www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"
+        width: 3802
+        height: 2719
         isCached: true
   - title: "Democrats Plan Lightning Trump Impeachment, Want Him Out Now"
     excerpt: "Democrats in Congress are swiftly laying plans to impeach President Donald Trump and ensure an “unhinged” commander-in-chief can do no further damage in his remaining days in office."

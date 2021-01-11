@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-presidential-transition-live-updates-house-says-it-will-move-swiftly-with-impeachment-if-pence-wont-act.md",
+      "title": "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act",
+      "excerpt": "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
+      "originalUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
+      "publishedDateTime": "2021-01-10T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-pence-will-attend-bidens-inauguration.md",
       "title": "Pence will attend Biden's inauguration",
       "excerpt": "Vice President Mike Pence will attend the inauguration of President-elect Joe Biden, according to a source familiar.\n    \n",
@@ -522,7 +579,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1613,62 +1670,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/01/politics/mar-a-lago-new-years-eve/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/mar-a-lago-new-years-eve/index.html",
       "publishedDateTime": "2021-01-01T10:46:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-families-of-us-hostages-and-detainees-look-to-biden-to-keep-up-efforts-to-free-loved-ones.md",
-      "title": "Families of US hostages and detainees look to Biden to keep up efforts to free loved ones",
-      "excerpt": "As President-elect Joe Biden prepares to take over from the outgoing Trump administration, the goal for the families of Americans unlawfully detained and held hostage abroad remains the same: to see their loved ones returned home.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfdtd3ctxiU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200730135514-trevor-reed-ex-marine-sentencing-russia-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/hostage-families-transition/index.html",
-      "publishedDateTime": "2021-01-01T06:00:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
