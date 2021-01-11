@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House Democrats would impeach Trump for 'incitement of insurrection'"
+    excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-11T14:51:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6FAMb5i5e2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump faces shameful prospect of second impeachment with Democrats set to move quickly this week"
     excerpt: "Donald Trump is facing the shameful, imminent prospect of becoming the first president to be impeached twice as Democrats warn he poses an unacceptable danger to the world after inciting a mob assault on Congress.\n    \n"
     publishedDateTime: 2021-01-11T06:27:14Z

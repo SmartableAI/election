@@ -132,6 +132,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "PGA dumps Donald Trump’s golf course as 2022 championship host"
+    excerpt: "The PGA of America has cut its remaining tie with President Donald Trump, and it’s a major one. That means the 2022 PGA Championship needs a new home, as Trump Bedminster in New Jersey was set to host in just over two years."
+    publishedDateTime: 2021-01-11T14:28:00Z
+    webUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html"
+    ampWebUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IT5UV3JIC5E4ZAH6X4JW73FR7M.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Short On Alternatives, Fans Trash Twitter's Trump Ban - On Twitter"
     excerpt: "Friends, family and advisors to Donald Trump have been bitterly complaining that Twitter's ban of the president after his supporters stormed the US Capitol amounts to an assault on free speech by radical leftists."
     publishedDateTime: 2021-01-09T21:21:00Z

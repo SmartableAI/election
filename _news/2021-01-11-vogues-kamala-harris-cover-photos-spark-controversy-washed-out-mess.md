@@ -63,6 +63,22 @@ related:
         width: 840
         height: 1050
         isCached: true
+  - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
+    publishedDateTime: 2021-01-11T14:46:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics"
     excerpt: "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,"
     publishedDateTime: 2021-01-04T11:05:00Z
@@ -498,6 +514,6 @@ related:
         height: 300
         isCached: true
 
-secured: "l+PC3uaHs3j3XolxGRgkH3GA00xdu9j8RumkLH8hmZ+v7GbzT9alLHbtAyCLR1nWNNkfuNrUTzK+9mCBtQRkc8D41QltBPPV4lHmp4jK/eh/D1dRBLJYghzPY7heb22lO35BSGoSK0MxHOCAQSnVCRTTiPY052jXbmy3VjNjPg4zu6TexhYeyMctdysrmhdYptIFV1PSCM1IECV9xMvQN0d6LShgyQJkBXBA6lOYMW8ClPh4I8/RpMzKWGVBNxNfck0WD5LE+b2RDgEL23I6AgFniT5+xgcsQocTJJpQpGr77xwpu7vL274wincBYD1gdqWIxwEapFz+SYgxHDK4ZpEViATHFEFd1ZX8cEt1N8o=;Wkb16sFX68GI7JYEVtucaQ=="
+secured: "uvzJPyI+AB0QSP2V8Ow7IY4jg9SfFxy6ADD0uOngW+LFlRoRfo3rlskKmozOr9+wUMuoL5/0Y+O4uYqfW3eoaM7HzIXUljqHTjLidYNYNuqiOakDQWtEmypMQn688PFYUsldISxFkFPgaC+0Kpqm+BQtSOk3Pek2zV7joQkkzDQoHulYknrRRFBvs183qpoZYpgX5GZsiDpR895LLHNCStkA0UfqD7Nb+1mLTO3hu4fJXz7qulb97sdTHd+RLbuP5iJixjgqhifadqw/WaL2xE9UBwtM+XSCmaYJp3ynlJmpIa4eS4XGuor1eylia4oz/H2Ek2Dfg8llDgh4MNPUvl1hkYI/VT2WjdTPvUnfnM4wgY958WaI9tOsXELN7w9IQxMnMR7VONQhS9IVPb2DFYZz8i14IcP/2Xa4zlbCFc60u69/04QG498U4Y6Pykcz+Z03osvwoPV7rD8khpg/1U2r3O+5uvBr1Hkvh87QC9JgEQn5RSCwHBqlaa1J8RikfkvJW9M+8eEuqqB6tE7V0g==;D3AFUMblfpFQvyanx8Hmgw=="
 ---
 

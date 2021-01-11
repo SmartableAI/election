@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 2135
+heat: 2155
 published: true
 
 provider:
@@ -214,6 +214,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fe1wukiqKnI/trump-wont-attend-biden-inauguration"
     ampWebUrl: "https://www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden avoids firm position on Trump impeachment as House Dems ramp up"
+    excerpt: "President-elect Joe Biden is avoiding taking a firm position on removing President Trump from office ahead after last week's Capitol riot, as House Democrats signaled they would introduce articles of impeachment against him on Monday."
+    publishedDateTime: 2021-01-11T14:30:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSfg5Iyuo8w/biden-trump-impeachment-dodge-house-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-impeachment-dodge-house-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-impeachment-dodge-house-democrats.amp"
     type: article
     provider:
       name: Fox News

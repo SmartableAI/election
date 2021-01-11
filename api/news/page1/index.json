@@ -2,12 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-joe-biden-picks-veteran-diplomat-william-burns-to-be-his-cia-director.md",
+      "title": "Joe Biden picks veteran diplomat William Burns to be his CIA director",
+      "excerpt": "A former ambassador to Russia and Jordan, William Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
+      "originalUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/cHztdcIiGUkNYNc7oPnxzWH3N8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEDH6ZTUNBMLEZTPITRQCPFDE.aspx",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-11T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-melania-trump-disappointed-and-disheartened-over-capitol-attack-nation-must-heal-in-a-civil-manner.md",
+      "title": "Melania Trump ‘disappointed and disheartened’ over Capitol attack: ‘Nation must heal in a civil manner'",
+      "excerpt": "The deadly riots unfolded on Wednesday after a rally to support President Trump descended into a mob that stormed the Capitol during the certification of the Electoral College vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e56d820d-efe3-4b7e-8ffb-0e2cf480f0d1/3b7121e6-427b-4dbd-89b9-9bcaa499ee04/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "publishedDateTime": "2021-01-11T05:12:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
       "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
       "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
+      "webUrl": "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -231,7 +330,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -548,7 +647,7 @@
       "originalUrl": "https://abcnews.go.com/GMA/Culture/kamala-harris-appears-vogue-cover-ahead-inauguration-day/story?id=75166683",
       "featuredContent": null,
       "highlight": null,
-      "heat": 725,
+      "heat": 745,
       "tags": null,
       "images": [
         {
@@ -1243,118 +1342,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.md",
-      "title": "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’",
-      "excerpt": "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLjBJ32UY4Q/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLjBJ32UY4Q/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Roy-Blunt.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp",
-      "publishedDateTime": "2021-01-10T02:38:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.md",
-      "title": "Nancy Pelosi, in ‘60 Minutes’ interview, slams Trump as ‘deranged,’ calls for ‘prosecution’",
-      "excerpt": "President Trump is \"deranged, unhinged, dangerous,\" and deserving of prosecution, House Speaker Nancy Pelosi says in an interview scheduled to air Sunday night on \"60 Minutes.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Co4Y0dQ4huI/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Co4Y0dQ4huI/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Mo-Brooks2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.amp",
-      "publishedDateTime": "2021-01-09T23:57:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

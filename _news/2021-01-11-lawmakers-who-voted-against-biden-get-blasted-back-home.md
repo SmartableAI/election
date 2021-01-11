@@ -153,22 +153,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden chooses veteran diplomat Burns as CIA director"
-    excerpt: "WASHINGTON -- President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador to Russia and Jordan, Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents."
-    publishedDateTime: 2021-01-11T11:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-chooses-veteran-diplomat-burns-cia-director-75173251"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-chooses-veteran-diplomat-burns-cia-director-75173251"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-chooses-veteran-diplomat-burns-cia-director-75173251"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ef13bbbc6681415387dea86d70ac4856_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Israel announces new settlements, risking Biden's anger"
     excerpt: "Israel has advanced plans to build 800 new settler homes in the occupied West Bank, a move that could strain ties with the incoming administration of President-elect Joe Biden"
     publishedDateTime: 2021-01-11T12:02:00Z
@@ -264,6 +248,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E7E7/production/_116376395_gettyimages-1294949419-1.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
+    excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
+    publishedDateTime: 2021-01-11T13:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?arc404=true"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFBYXHRLUUI6TEDOTVK3MRI6WQ.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
     excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
@@ -435,6 +435,34 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547162452&r=LYNXMPEH071G6&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Biden, once a warrior, may slowly retreat from the ‘war on drugs’"
+    excerpt: "President-elect Joe Biden built part of his political career on being known as a fighter in the “war on drugs,” supporting legislation as a senator that set harsh penalties for some drug offenses. But as president, Biden could potentially oversee broad changes in federal drug policy, including how the government and law enforcement agencies view drug addiction and treatment and classify the use of marijuana. Biden will take office at a time when the nation’s attitudes about drugs, particularly the legalization or decriminalization of marijuana, appear to be one area where there is relative, and growing, bipartisan unity. In an election that was otherwise defined by stark political differences, voters in both red states and blue states — Arizona, Montana, New Jersey and South Dakota — supported ballot initiatives to legalize the personal use of marijuana, while Mississippi voters legalized it for medicinal use. Along with earlier action by state legislatures or voters, 15 states have legalized marijuana, while 36 others have approved some form of medicinal marijuana use, according to the National Conference of State Legislatures. But marijuana remains illegal under federal law, leaving users and suppliers vulnerable to prosecution even in places where the drug is otherwise legally sold and used. The nation’s growing cannabis industry also faces hurdles in transporting its products across state lines and accessing the country’s federally regulated banking system. During his primary campaign, Biden was one of the few Democratic candidates who did not support federal legalization of marijuana for recreational use, citing concerns that it could be a “gateway drug.” But during the general-election campaign, he softened his stance, saying that the drug should be decriminalized and that individual states should decide whether to legalize it for recreational use. As the general-election campaign progressed, Kamala D. Harris, Biden’s running mate and a former prosecutor, also advocated for the decriminalization of marijuana despite past opposition to legalizing it. During the October vice-presidential debate, Harris said a Biden-Harris administration “will decriminalize marijuana, and we will expunge the records of those who have been convicted of marijuana” crimes. Marijuana advocates are gearing up to make sure Biden sticks to his campaign pledge, which they note that strong majorities of Democratic voters support, according to recent polls. Last month, for the first time, the Democratic-controlled House voted — 228 to 164 — to decriminalize marijuana and remove it from the federal schedule of controlled substances. The Republican-controlled Senate did not take up the measure, and many advocates are skeptical of its chances there, even though Democrats narrowly won control of the chamber after two runoff elections in Georgia last week. But advocates say Biden can still push toward decriminalization, even without a vote from Congress. Under its current classification, which dates to a decision made under President Richard Nixon in 1970, marijuana is classified as a Schedule I narcotic for having “no currently accepted medical use and a high potential for abuse.” The remaining schedules of narcotics, II through V, are ranked by their potential for abuse and perceived level of danger, and the classifications help guide federal enforcement and regulations for controlled substances, including prescription medication. Maritza Perez, director of national affairs for the pro-reform Drug Policy Alliance, said legal analysts for the movement think the Biden administration can unilaterally reschedule marijuana to a higher classification or even remove it from the list. Although she prefers congressional action, Perez said the administration could declassify marijuana through a process that would involve sign-off from the incoming attorney general as well as the secretary of the Department of Health and Human Services. Biden has nominated California Attorney General Xavier Becerra, who has defended his state’s legalization of marijuana, as his secretary of Health and Human Services. “The attorney general would have to work hand-in-hand with the HHS secretary, but we think this is certainly something within the administration's power, which is why the marijuana advocates have been pushing for him to appoint a pro-marijuana AG,” Perez said. But Sam Kamin, a law professor at the Sturm College of Law at the University of Denver and a leading expert on marijuana laws, is skeptical that Biden will aggressively pursue the unilateral rescheduling or de-scheduling of marijuana. De-scheduling the drug could upend international drug control treaties, while rescheduling it could undercut state medical marijuana laws, he said. “They can begin the rescheduling process, but whether they can de-schedule without stepping on other rules and regulations is more complicated,” Kamin said. “Treating marijuana like a Schedule II or III drug would create serious tensions with a lot of states. … If it was scheduled the same way Vicodin is scheduled, you could not get it over-the-counter as you can in many states. You would need a prescription from a medical doctor.” Even if Biden decides to largely steer clear of the marijuana debate, advocates for reforming the nation’s drug laws still think his administration will usher in a new period of compassion when it comes to addiction. To combat the opioid crisis, Biden has promised to spend an additional $125 billion over 10 years on drug treatment and prevention programs, while also supporting some controversial local initiatives such as needle exchanges. Perez is optimistic that the Biden administration, unlike President Trump’s, will take a hands-off approach when it comes to proposals by some cities to open safe-injection sites, where people can use illegal drugs in safe, monitored environments. Last year, the Trump administration sued to try to stop Philadelphia from opening a so-called safe injection site. But Perez noted in July that Becerra, as California attorney general, joined a multistate amicus brief in support of Philadelphia. ““Safe injection sites … are an innovative tool to combat the opioid epidemic and drug dependency while reducing overdose death and transmission of diseases,” Becerra said at the time. Amy B Wang contributed to this report."
+    publishedDateTime: 2021-01-11T13:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-war-on-drugs/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/arr6lWTxuwivtVobxHjquOFT9z8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBV43XF2QI6TMFGHUBXEG4F54.jpg"
+        width: 1484
+        height: 991
+        isCached: true
+  - title: "Washington mayor asks for increased security around Biden's inauguration"
+    excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
+    publishedDateTime: 2021-01-11T14:36:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN29G0Q5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547343736&r=LYNXMPEH0A0F1&w=800"
         width: 800
         height: 533
         isCached: true

@@ -2,12 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-joe-biden-picks-veteran-diplomat-william-burns-to-be-his-cia-director.md",
+      "title": "Joe Biden picks veteran diplomat William Burns to be his CIA director",
+      "excerpt": "A former ambassador to Russia and Jordan, William Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
+      "originalUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/cHztdcIiGUkNYNc7oPnxzWH3N8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEDH6ZTUNBMLEZTPITRQCPFDE.aspx",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-11T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
       "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
       "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
+      "webUrl": "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -706,7 +749,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 765,
+      "heat": 805,
       "tags": null,
       "images": [
         {
@@ -1523,59 +1566,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-politics-updates-trump-advocates-for-2000-stimulus-checks-after-signing-relief-package.md",
-      "title": "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package",
-      "excerpt": "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1026,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/21/USAT/e44d7247-c30b-46ea-98e6-527cfd048984-VPC_COVID19_NEW_RELIEF_DEAL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4057942001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4057942001",
-      "publishedDateTime": "2020-12-28T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Joe Biden"
       ]
     }

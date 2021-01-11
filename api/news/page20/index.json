@@ -2,6 +2,110 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-12-12-top-house-republican-pences-brother-join-gop-brief-asking-supreme-court-to-effectively-overturn-election.md",
+      "title": "Top House Republican, Pence’s brother join GOP brief asking Supreme Court to effectively overturn election",
+      "excerpt": "Minority Leader Kevin McCarthy (R-Calif.) added his name to the amicus brief filed in the case along with 19 other Republicans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZLIICR35QI6XETWVYGKOJZJXY.jpg&w=1440",
+          "width": 1440,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-republicans-trump-biden/2020/12/11/66b4a9e2-3be4-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-11T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-us-senate-backs-massive-defense-bill-defying-trump-veto-threat.md",
+      "title": "U.S. Senate backs massive defense bill, defying Trump veto threat",
+      "excerpt": "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act (NDAA), a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P",
+      "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28L24P",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P",
+      "publishedDateTime": "2020-12-11T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-how-netflixs-the-prom-musical-was-inspired-by-mike-pence.md",
       "title": "How Netflix's 'The Prom' musical was inspired by Mike Pence",
       "excerpt": "Based on a 2018 stage musical of the same name, Ryan Murphy's highly anticipated latest directorial project premiered Friday on Netflix and in select theaters.",
@@ -1253,114 +1357,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-morocco-normalizing-ties-with-israel-4th-country-to-do-so-under-trumps-arab-peace-plan.md",
-      "title": "Morocco normalizing ties with Israel, 4th country to do so under Trump's Arab peace plan",
-      "excerpt": "Morocco will normalize relations with Israel, making it the fourth country to do so in recent days under a U.S.-brokered deal.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bDWuH5w9-Qc/trump-morocco-israel-arab-peace-plan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bDWuH5w9-Qc/trump-morocco-israel-arab-peace-plan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20328304171650.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp",
-      "publishedDateTime": "2020-12-10T10:25:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trump-announces-that-israel-and-morocco-will-normalize-relations.md",
-      "title": "Trump announces that Israel and Morocco will normalize relations",
-      "excerpt": "Morocco, with centuries of Jewish history, has long been rumored to be ready to establish ties with Israel after years of informal relations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd3c953/2147483647/strip/true/crop/5915x3863+0+40/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F58%2Fea95e0cf45a680c7a05fea261530%2Fgettyimages-1229950087.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true",
-      "publishedDateTime": "2020-12-10T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

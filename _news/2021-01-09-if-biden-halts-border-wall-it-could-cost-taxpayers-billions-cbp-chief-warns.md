@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
+    excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
+    publishedDateTime: 2021-01-11T14:06:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
+        width: 750
+        height: 501
+        isCached: true
 
 secured: "ak/0fIXZ2ieJQUxiVhE6wmUo6LH0UvJ598ztW8R4IB4NDdik9gFN9vEPlEXovl0vCJTUgIhfo1jP/a1sOn0IKlTcTdmmAU03ziS2THjowCULrH73+wr65dP+jbvlOkGeYpUkhwnop6TowbjG20BSuyzWqnLTMjQ4PfAcVRBAfTRbrqomU2jPvC0TMr831z0eoyxNROrd38/hvqyLH65dcdvM9GEPzzK3piDlJ4nr1+OgjMtTwEc+Ok4ZBLr3T1qopE+GXAT50zV4BHfir34pASyzsElTqeSuQI+iKsXP0/vcp6aYvp8JMhT9+TsdzsA7ltNjBLXiSPHI5nNc15iB3Vf7nsgUxvU4/yZscIA1aHE=;6nbtcaKpaZksUqNrP25XLA=="
 ---

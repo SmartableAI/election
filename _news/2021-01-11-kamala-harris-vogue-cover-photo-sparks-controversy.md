@@ -61,6 +61,22 @@ related:
         width: 840
         height: 1050
         isCached: true
+  - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
+    publishedDateTime: 2021-01-11T14:46:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
     publishedDateTime: 2021-01-10T18:48:00Z
@@ -498,6 +514,6 @@ related:
         height: 300
         isCached: true
 
-secured: "Sm5xrKRaVlR0jACUbG4DEIafdDXoD4GWfUVCb2ruFJVRqtUtLjzqGzoSKWUWERia+nCVAbCyKkgVYr31sbOiwrfu/cCRl6CJJu5Z4XlNke+74PdjHME2VzeHbuaOIoguQDeVVeiuOWJvx8wKQ2J41I3ky3dKHcUAAqSReudAyKalU2AVAHIE33VboSTpBHRcgl6i7aMogQEDgiuEQQlql9ZMzuiRuHSldu+/Jzd4h52z4A/s8W4iocJf0KZdw3mbMvUAH7JIwvGbhHr4+PyMVuBODu2qMGtcwd/jQFIW5ly29NMzJ5AyR+M22EcD7/mc7sFMJfPe4pBuItD93NAyFKeX1X4IQ54wwtEkTkYylX8=;RN48TyF9DABo9GVR2X7ZzA=="
+secured: "0RWALDD/Y89YG1VEkfo1bldwPOfKZze/P6y6T2YNiOskCPp0bfXQqFwVDrfzYvmvqSowrBXQSPss9Ia5uWQ/tWyB4WrWnrGueBBX/XLZPQTrr9vl0uOo24ydnGuyrCeQtReUX6ZVDWDGa/mo0OFzEhKlqnCRftqFajUvVbj46lPrezbfgGvt4Nc3yueUvqC90Cqgdfn+q1AedR+sScuUMo7El2wIpNSyvNjwNkDET9X0cDvPkJDnRqjhe/OHEneTAYJtZ+DCKwMK2LHUcaIz6aD+LEKzH33SzNpnAdPWvk9S4sylRxspYUXsenx3V+KTISVBsYFpoe+hFkR3VVdSswkBp1ualmaPJeY2B3QPCGVwN3k9+WI1Ane6d/L3fCzn+n3RtDkJtSoxruPRXf8M4iUTd0bmNWEt0QPKlpPnnA42NhOnfgeK3wXCwfqa/8flxrmOiSumQHsZRPRcCE5y4J1LgO8fru5N2RNuGY11xfrEjYSC0mvg53qVnv43Re008rCNqkCIpKzu6de2OPUZGA==;MuIvFJZyWNAnBGDMyH413g=="
 ---
 

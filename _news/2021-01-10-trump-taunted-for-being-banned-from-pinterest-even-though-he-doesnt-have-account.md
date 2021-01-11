@@ -1151,6 +1151,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Supreme Court won't fast-track review of Trump election lawsuits"
+    excerpt: "The Supreme Court on Monday denied President Trump's request to fast-track consideration of several lawsuits challenging the election results in Pennsylvania and Wisconsin, and rebuffed similar suits brought by pro-Trump attorneys."
+    publishedDateTime: 2021-01-11T14:51:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/533607-supreme-court-wont-fast-track-review-of-trump-election-lawsuits"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/533607-supreme-court-wont-fast-track-review-of-trump-election-lawsuits?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/533607-supreme-court-wont-fast-track-review-of-trump-election-lawsuits?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/supremecourt101320.jpg"
+        width: 827
+        height: 551
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -2857,6 +2873,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
+    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
+    publishedDateTime: 2021-01-11T07:17:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6616756002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nation's capital braces for violence as extremist groups converge to protest Donald Trump's election loss"
     excerpt: "The Washington Metropolitan Police Department has stepped up precautions, including erecting signs stating that open carry of guns is illegal."
     publishedDateTime: 2021-01-05T04:00:00Z
@@ -3760,6 +3792,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 105
+  - title: "Twitter shares dive 7% after Trump account suspension"
+    excerpt: "Shares of Twitter Inc slumped 7% on Monday, on course to knock off about $2.5 billion from the market value of the social media company after it permanently suspended the account of U.S. President Donald Trump."
+    publishedDateTime: 2021-01-11T14:28:00Z
+    webUrl: "https://www.reuters.com/article/us-twitter-stocks-trump-idCAKBN29G0XG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547350358&r=LYNXMPEH0A0IT&w=800"
+        width: 800
+        height: 548
+        isCached: true
   - title: "U.S. House Democrats set plan for removing Trump over Capitol attack"
     excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
     publishedDateTime: 2021-01-11T06:50:00Z
@@ -3918,6 +3964,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547162708&r=LYNXMPEH071GF&w=800"
         width: 800
         height: 587
+        isCached: true
+  - title: "Democrats in Congress to begin drive to force Trump from office after Capitol violence"
+    excerpt: "Congressional Democrats begin their drive to force President Donald Trump from office this week, with a House vote on articles of impeachment expected as early as Wednesday that could make him the only president in U."
+    publishedDateTime: 2021-01-11T14:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/democrats-in-congress-to-begin-drive-to-force-trump-from-office-after-capitol-violence-idINKBN29G0FO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547328418&r=LYNXMPEH0A08Z&w=800"
+        width: 800
+        height: 557
         isCached: true
   - title: "Former U.S. defense chiefs say no role for military in Trump's efforts to contest defeat"
     excerpt: "Ten living former U.S. secretaries of defense on Sunday said in an opinion piece published in the Washington Post that the military should play no role in President Donald Trump's efforts to block the transfer of power to President-elect Joe Biden."
@@ -4547,22 +4607,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
-    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
-    publishedDateTime: 2021-01-10T22:39:00Z
-    webUrl: "https://www.desmoinesregister.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6616756002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6616756002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
     excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."
     publishedDateTime: 2021-01-01T20:13:00Z
@@ -4767,6 +4811,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden Faces Challenge in Guiding America Past Trump Era"
+    excerpt: "Joe Biden has already been preparing for months to take on a series of historic crises — a pandemic that’s killed at least 373,000 Americans and a sluggish economy that’s left millions jobless."
+    publishedDateTime: 2021-01-11T14:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-11/biden-faces-challenge-in-guiding-american-past-trump-era"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-11/biden-faces-challenge-in-guiding-american-past-trump-era?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-11/biden-faces-challenge-in-guiding-american-past-trump-era?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
     publishedDateTime: 2021-01-06T18:26:00Z

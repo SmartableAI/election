@@ -239,6 +239,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden avoids firm position on Trump impeachment as House Dems ramp up"
+    excerpt: "President-elect Joe Biden is avoiding taking a firm position on removing President Trump from office ahead after last week's Capitol riot, as House Democrats signaled they would introduce articles of impeachment against him on Monday."
+    publishedDateTime: 2021-01-11T14:30:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSfg5Iyuo8w/biden-trump-impeachment-dodge-house-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-impeachment-dodge-house-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-impeachment-dodge-house-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden trails Trump, Obama and Bush in dragging feet to name attorney general pick"
     excerpt: "President-elect Joe Biden has parted ways with years of presidential precedent by not yet having picked an attorney general as the election year comes to a close."
     publishedDateTime: 2020-12-31T00:42:30Z

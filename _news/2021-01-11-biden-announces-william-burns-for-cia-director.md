@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
+    excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
+    publishedDateTime: 2021-01-11T14:06:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
+        width: 750
+        height: 501
         isCached: true
 
 secured: "nr16Ah4m5VuiH6f6eEg3XgUvvZQSCkEfJh1AW39PK8yYfJ8ejvUrAbvnmkLJWTh0jt1SatvB0j1DOrRIMjkSQSqrDHlJFHddtPvsHFAZCt57y4+9GbfMX7DTgV2I28p3gS5ZGtNVqG9JLjpvQR/u1YxisvswixU0GTt9H2Rhcvtz10y0+BpGPHC7q9twrTfZPjrdkTNseYObRyGZeU6pLzLG4QVO9H+vIm8x6MNUliq6533zpBRHnJmUDKFcGaaF76+6EKoeY6LC7JfWZHFxOyuEOaY0hF3E+SFLz/RB1qFT0N/usYysMtqcMhlZBc119i01PJJKUfMD1l6fPzI/2WxWjuq5fVdI2PMAYhOE1IE=;dQBwptyZ0rxNKDuafjlt/Q=="

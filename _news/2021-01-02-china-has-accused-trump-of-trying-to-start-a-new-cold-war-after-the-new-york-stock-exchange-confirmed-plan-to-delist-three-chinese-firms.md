@@ -118,6 +118,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "PGA dumps Donald Trump’s golf course as 2022 championship host"
+    excerpt: "The PGA of America has cut its remaining tie with President Donald Trump, and it’s a major one. That means the 2022 PGA Championship needs a new home, as Trump Bedminster in New Jersey was set to host in just over two years."
+    publishedDateTime: 2021-01-11T14:28:00Z
+    webUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html"
+    ampWebUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IT5UV3JIC5E4ZAH6X4JW73FR7M.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Increasingly Isolated Trump Threatened With Second Impeachment"
     excerpt: "US Democrats on Saturday were readying for an unprecedented second impeachment of Donald Trump as the defiant president showed no signs of stepping down after the deadly violence at the Capitol. Democrats said impeachment proceedings could begin as early as Monday -- an extraordinary acceleration of a process that historically has taken weeks,"
     publishedDateTime: 2021-01-09T16:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-trumps-policies-life-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d136cee0-68c8-481c-8476-30f8eea6f773/da014ad4-0a09-4d71-b370-39a8d93b99c0/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
+    excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
+    publishedDateTime: 2021-01-11T14:05:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dlcoa3eYbM4/trump-impeachment-democrats-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Rep. Mace pegs Twitter 'un-American' for Trump account suspension: 'It's completely hypocritical'"
     excerpt: "President Trump has been banned from Twitter after Wednesday’s U.S. Capitol riot, and Rep. Nancy Mace, R-S.C., is calling the social media giant’s response as the height of hypocrisy."
